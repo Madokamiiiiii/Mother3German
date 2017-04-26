@@ -1,0 +1,203 @@
+// PSI descriptions can be any length. Be sure to check the formatting in-game,
+// in both the main menu and in the battle menu.
+
+0000: [END]
+0000-E: 
+0001: A PSI ability only [E0 FF] can use.[BREAK]Deals major damage to all enemies.[END]
+0001-E: 
+0002: A PSI ability only [E0 FF] can use.[BREAK]Deals major damage to all enemies.[END]
+0002-E: 
+0003: A PSI ability only [E0 FF] can use.[BREAK]Deals major damage to all enemies.[END]
+0003-E: 
+0004: A PSI ability only [E0 FF] can use.[BREAK]Deals major damage to all enemies.[END]
+0004-E: 
+0005: Causes all enemies to cry. Can also cause[BREAK]strangeness, paralysis, and instant defeat.[END]
+0005-E: 
+0006: Drops stars on all enemies for major damage.[END]
+0006-E: 
+0007: Fire damage to all enemies.[BREAK]Occasionally sets enemies on fire.[END]
+0007-E: 
+0008: Fire damage to all enemies.[BREAK]Occasionally sets enemies on fire.[END]
+0008-E: 
+0009: Fire damage to all enemies.[BREAK]Occasionally sets enemies on fire.[END]
+0009-E: 
+000A: Fire damage to all enemies.[BREAK]Occasionally sets enemies on fire.[END]
+000A-E: 
+000B: Ice damage to one enemy.[BREAK]Occasionally solidifies the enemy.[END]
+000B-E: 
+000C: Ice damage to one enemy.[BREAK]Occasionally solidifies the enemy.[END]
+000C-E: 
+000D: Ice damage to one enemy.[BREAK]Occasionally solidifies the enemy.[END]
+000D-E: 
+000E: Ice damage to one enemy.[BREAK]Occasionally solidifies the enemy.[END]
+000E-E: 
+000F: Fires one thunderbolt. Occasionally causes[BREAK]paralysis. Can't be reflected by any kind of PSI.[END]
+000F-E: 
+0010: Fires two thunderbolts. Occasionally causes[BREAK]paralysis. Can't be reflected by any kind of PSI.[END]
+0010-E: 
+0011: Fires three thunderbolts. Occasionally causes[BREAK]paralysis. Can't be reflected by any kind of PSI.[END]
+0011-E: 
+0012: Fires four thunderbolts. Occasionally causes[BREAK]paralysis. Can't be reflected by any kind of PSI.[END]
+0012-E: 
+0013: Damages all enemies with an earthquake.[BREAK]Can't be reflected by any kind of PSI.[END]
+0013-E: 
+0014: [END]
+0014-E: 
+0015: [END]
+0015-E: 
+0016: Restores approximately 60 HP to one ally.[END]
+0016-E: 
+0017: Restores approximately 120 HP to one ally.[END]
+0017-E: 
+0018: Fully restores one ally's HP.[END]
+0018-E: 
+0019: Restores approximately 240 HP to all allies.[END]
+0019-E: 
+001A: Slowly restores all allies' HP each turn.[END]
+001A-E: 
+001B: Cures one status ailment an ally has.[END]
+001B-E: 
+001C: Cures all status ailments an ally has.[END]
+001C-E: 
+001D: Cures all status ailments an ally has, including[BREAK]incapacitation.[END]
+001D-E: 
+001E: Cures all allies' status ailments, including[BREAK]incapacitation.[END]
+001E-E: 
+001F: Drains approximately 2-8 PP from one enemy.[END]
+001F-E: 
+0020: Drains approximately 2-8 PP from all enemies.[END]
+0020-E: 
+0021: [END]
+0021-E: 
+0022: Halves physical damage to one ally.[BREAK]Some attacks can't be halved, however.[END]
+0022-E: 
+0023: Halves physical damage to all allies.[BREAK]Some attacks can't be halved, however.[END]
+0023-E: 
+0024: Reflects physical damage to one ally.[BREAK]Some attacks can't be reflected, however.[END]
+0024-E: 
+0025: Reflects physical damage to all allies.[BREAK]Some attacks can't be reflected, however.[END]
+0025-E: 
+0026: Halves PSI damage to one ally.[BREAK]Some attacks can't be halved, however.[END]
+0026-E: 
+0027: Halves PSI damage to all allies.[BREAK]Some attacks can't be halved, however.[END]
+0027-E: 
+0028: Reflects PSI damage to one ally.[BREAK]Some attacks can't be reflected, however.[END]
+0028-E: 
+0029: Reflects PSI damage to all allies.[BREAK]Some attacks can't be reflected, however.[END]
+0029-E: 
+002A: [END]
+002A-E: 
+002B: [END]
+002B-E: 
+002C: [END]
+002C-E: 
+002D: [END]
+002D-E: 
+002E: Raises one ally's Offense.[BREAK]Effective when stacked.[END]
+002E-E: 
+002F: Raises all allies' Offense.[BREAK]Effective when stacked.[END]
+002F-E: 
+0030: Raises one ally's Defense.[BREAK]Effective when stacked.[END]
+0030-E: 
+0031: Raises all allies' Defense.[BREAK]Effective when stacked.[END]
+0031-E: 
+0032: [END]
+0032-E: 
+0033: Puts one enemy to sleep.[END]
+0033-E: 
+0034: Puts all enemies to sleep.[END]
+0034-E: 
+0035: Paralyzes one enemy.[END]
+0035-E: 
+0036: Paralyzes all enemies.[END]
+0036-E: 
+0037: Causes one enemy to feel strange.[END]
+0037-E: 
+0038: Causes all enemies to feel strange.[END]
+0038-E: 
+0039: [END]
+0039-E: 
+003A: Lowers one enemy's Offense.[BREAK]Effective when stacked.[END]
+003A-E: 
+003B: Lowers all enemies' Offense.[BREAK]Effective when stacked.[END]
+003B-E: 
+003C: Lowers one enemy's Defense.[BREAK]Effective when stacked.[END]
+003C-E: 
+003D: Lowers all enemies' Defense.[BREAK]Effective when stacked.[END]
+003D-E: 
+003E: [END]
+003E-E: 
+003F: [END]
+003F-E: 
+0040: [END]
+0040-E: 
+0041: [END]
+0041-E: 
+0042: [END]
+0042-E: 
+0043: [END]
+0043-E: 
+0044: [END]
+0044-E: 
+0045: [END]
+0045-E: 
+0046: [END]
+0046-E: 
+0047: [END]
+0047-E: 
+0048: [END]
+0048-E: 
+0049: [END]
+0049-E: 
+004A: [END]
+004A-E: 
+004B: [END]
+004B-E: 
+004C: [END]
+004C-E: 
+004D: [END]
+004D-E: 
+004E: [END]
+004E-E: 
+004F: [END]
+004F-E: 
+0050: [END]
+0050-E: 
+0051: [END]
+0051-E: 
+0052: [END]
+0052-E: 
+0053: [END]
+0053-E: 
+0054: [END]
+0054-E: 
+0055: [END]
+0055-E: 
+0056: [END]
+0056-E: 
+0057: [END]
+0057-E: 
+0058: [END]
+0058-E: 
+0059: [END]
+0059-E: 
+005A: [END]
+005A-E: 
+005B: [END]
+005B-E: 
+005C: [END]
+005C-E: 
+005D: [END]
+005D-E: 
+005E: [END]
+005E-E: 
+005F: [END]
+005F-E: 
+0060: [END]
+0060-E: 
+0061: [END]
+0061-E: 
+0062: [END]
+0062-E: 
+0063: [END]
+0063-E: 

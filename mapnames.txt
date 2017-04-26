@@ -1,0 +1,2005 @@
+// Map names can be any length, but they still need to be short enough
+// to fit on the save/load screen, so you'll need to do lots of testing.
+
+000:[END]
+000-E: 
+000:[END]
+000-E: 
+001:Tazmily Village[BREAK]Twins' House[END]
+001-E: 
+002:Tazmily Village[BREAK]Town Square[END]
+002-E: 
+003:Tazmily Village[BREAK]Wess's House[END]
+003-E: 
+004:Tazmily Village[END]
+004-E: 
+005:Tazmily Village[END]
+005-E: 
+006:Tazmily Village[END]
+006-E: 
+007:Saturn Valley[END]
+007-E: 
+008:Cross Road[END]
+008-E: 
+009:Sunset Cemetery[END]
+009-E: 
+00A:Osohe Castle[END]
+00A-E: 
+00B:Prayer Sanctuary[END]
+00B-E: 
+00C:Sunshine Forest[BREAK]Isaac's House[END]
+00C-E: 
+00D:Aeolia's House[END]
+00D-E: 
+00E:Mt. Oriander[BREAK][END]
+00E-E: 
+00F:Demo Use[END]
+00F-E: 
+010:Mt. Oriander[END]
+010-E: 
+011:Mt. Oriander[BREAK]Great Cliff[END]
+011-E: 
+012:Mt. Oriander[BREAK]River Area[END]
+012-E: 
+013:Mt. Oriander[END]
+013-E: 
+014:Mt. Oriander[BREAK]River Area[END]
+014-E: 
+015:Mt. Oriander[BREAK]Alec's House[END]
+015-E: 
+016:Mt. Oriander[END]
+016-E: 
+017:Mt. Oriander[BREAK][END]
+017-E: 
+018:Chupichupyoi Temple[END]
+018-E: 
+019:Mt. Oriander[BREAK]Drago Plateau[END]
+019-E: 
+01A:Death Desert[END]
+01A-E: 
+01B:Death Desert[BREAK]Cul-de-sac[END]
+01B-E: 
+01C:Death Desert[END]
+01C-E: 
+01D:Death Desert[BREAK]Start Location[END]
+01D-E: 
+01E:Tazmily Village[BREAK]Twins' House[END]
+01E-E: 
+01F:Tazmily Village[BREAK]Town Square[END]
+01F-E: 
+020:Tazmily Village[BREAK]Old Man's Paradise[END]
+020-E: 
+021:Tazmily Village[END]
+021-E: 
+022:Tazmily Village[END]
+022-E: 
+023:Tazmily Village[BREAK]Cerulean Beach[END]
+023-E: 
+024:Cross Road[END]
+024-E: 
+025:Cross Road[BREAK]Train Station[END]
+025-E: 
+026:Railway[END]
+026-E: 
+027:Railway[END]
+027-E: 
+028:Railway[END]
+028-E: 
+029:Railway[END]
+029-E: 
+02A:Phrygia's House[END]
+02A-E: 
+02B:Railway[END]
+02B-E: 
+02C:Railway[END]
+02C-E: 
+02D:Railway[END]
+02D-E: 
+02E:Factory Station[END]
+02E-E: 
+02F:Factory[END]
+02F-E: 
+030:Murasaki Forest[END]
+030-E: 
+031:Club Titiboo[END]
+031-E: 
+032:Murasaki Forest[END]
+032-E: 
+033:Murasaki Forest[END]
+033-E: 
+034:Murasaki Forest[END]
+034-E: 
+035:Murasaki Forest[BREAK]Caeribe Falls[END]
+035-E: 
+036:Murasaki Forest[BREAK]Small Cave[END]
+036-E: 
+037:Murasaki Forest[END]
+037-E: 
+038:Murasaki Forest[END]
+038-E: 
+039:Clayman Factory[END]
+039-E: 
+03A:Highway[END]
+03A-E: 
+03B:Highway[END]
+03B-E: 
+03C:Highway[END]
+03C-E: 
+03D:Empty 61[END]
+03D-E: 
+03E:Empty 62[END]
+03E-E: 
+03F:Empty 63[END]
+03F-E: 
+040:Empty 64[END]
+040-E: 
+041:Highway[END]
+041-E: 
+042:Highway[END]
+042-E: 
+043:[END]
+043-E: 
+044:Sunflower Field[END]
+044-E: 
+045:Sunflower Field[END]
+045-E: 
+046:Murasaki Forest[END]
+046-E: 
+047:Sunshine Forest[BREAK]Isaac's House[END]
+047-E: 
+048:Clayman Factory[END]
+048-E: 
+049:Sunshine Forest[END]
+049-E: 
+04A:Sunshine Forest[BREAK]Lighter's House[END]
+04A-E: 
+04B:Sunshine Forest[END]
+04B-E: 
+04C:Sunshine Forest[END]
+04C-E: 
+04D:Mt. Oriander[BREAK]Alec's House[END]
+04D-E: 
+04E:Doria's House[END]
+04E-E: 
+04F:Lydia's House[END]
+04F-E: 
+050:Tazmily Village[BREAK]Town Square[END]
+050-E: 
+051:Sunshine Forest[END]
+051-E: 
+052:Sunshine Forest[BREAK]Lighter's House[END]
+052-E: 
+053:Sunshine Forest[BREAK]Lighter's House[END]
+053-E: 
+054:Sunshine Forest[BREAK]Lighter's House[END]
+054-E: 
+055:Mt. Oriander[BREAK]Great Cliff[END]
+055-E: 
+056:Sunshine Forest[END]
+056-E: 
+057:Osohe Castle[BREAK]Courtyard[END]
+057-E: 
+058:Sunshine Forest[END]
+058-E: 
+059:Sunshine Forest[END]
+059-E: 
+05A:Mt. Oriander[BREAK]Great Cliff[END]
+05A-E: 
+05B:[END]
+05B-E: 
+05C:Saturn Valley[END]
+05C-E: 
+05D:Saturn Valley[END]
+05D-E: 
+05E:Saturn Valley[END]
+05E-E: 
+05F:Mixolydia's House[END]
+05F-E: 
+060:Tanetane Island[END]
+060-E: 
+061:Tanetane Island[END]
+061-E: 
+062:Ionia's House[END]
+062-E: 
+063:Chupichupyoi Temple[END]
+063-E: 
+064:Prayer Sanctuary[END]
+064-E: 
+065:Tazmily Village[BREAK]Twins' House[END]
+065-E: 
+066:Tazmily Village[END]
+066-E: 
+067:Alec's House[END]
+067-E: 
+068:Isaac's House[END]
+068-E: 
+069:Nippolyte's Shack[END]
+069-E: 
+06A:Nippolyte's Shack[END]
+06A-E: 
+06B:[END]
+06B-E: 
+06C:Tazmily Village[END]
+06C-E: 
+06D:Tazmily Village[END]
+06D-E: 
+06E:Tazmily Village[END]
+06E-E: 
+06F:Tazmily Village[END]
+06F-E: 
+070:Tazmily Village[END]
+070-E: 
+071:Tazmily Village[END]
+071-E: 
+072:Tazmily Village[END]
+072-E: 
+073:Tazmily Village[END]
+073-E: 
+074:Tazmily Village[END]
+074-E: 
+075:Tazmily Village[END]
+075-E: 
+076:Tazmily Village[END]
+076-E: 
+077:Tazmily Village[END]
+077-E: 
+078:Tazmily Village[END]
+078-E: 
+079:Tazmily Village[END]
+079-E: 
+07A:Tazmily Village[END]
+07A-E: 
+07B:Tazmily Village[BREAK]Yado Inn[END]
+07B-E: 
+07C:Tazmily Village[END]
+07C-E: 
+07D:Tazmily Village[END]
+07D-E: 
+07E:Tazmily Village[END]
+07E-E: 
+07F:Tazmily Village[END]
+07F-E: 
+080:Tazmily Village[END]
+080-E: 
+081:Tazmily Village[END]
+081-E: 
+082:Prayer Sanctuary[END]
+082-E: 
+083:Tazmily Village[END]
+083-E: 
+084:[END]
+084-E: 
+085:[END]
+085-E: 
+086:[END]
+086-E: 
+087:Doria's House[END]
+087-E: 
+088:Lydia's House[END]
+088-E: 
+089:Mr. Saturn House[END]
+089-E: 
+08A:Mr. Saturn House[END]
+08A-E: 
+08B:Mr. Saturn House[END]
+08B-E: 
+08C:Mr. Saturn House[END]
+08C-E: 
+08D:Alec's House[END]
+08D-E: 
+08E:Tazmily Village[END]
+08E-E: 
+08F:[END]
+08F-E: 
+090:Isaac's House[END]
+090-E: 
+091:[END]
+091-E: 
+092:[END]
+092-E: 
+093:Lighter's House[END]
+093-E: 
+094:Tazmily Village[END]
+094-E: 
+095:Tazmily Village[END]
+095-E: 
+096:[END]
+096-E: 
+097:Tazmily Village[END]
+097-E: 
+098:Tazmily Village[END]
+098-E: 
+099:Tazmily Village[END]
+099-E: 
+09A:Tazmily Village[END]
+09A-E: 
+09B:Tazmily Village[END]
+09B-E: 
+09C:Tazmily Village[END]
+09C-E: 
+09D:Tazmily Village[END]
+09D-E: 
+09E:Tazmily Village[END]
+09E-E: 
+09F:[END]
+09F-E: 
+0A0:Tazmily Village[END]
+0A0-E: 
+0A1:Tazmily Village[END]
+0A1-E: 
+0A2:Tazmily Village[END]
+0A2-E: 
+0A3:Tazmily Village[END]
+0A3-E: 
+0A4:Tazmily Village[END]
+0A4-E: 
+0A5:Tazmily Village[END]
+0A5-E: 
+0A6:Tazmily Village[END]
+0A6-E: 
+0A7:Tazmily Village[END]
+0A7-E: 
+0A8:Tazmily Village[END]
+0A8-E: 
+0A9:Tazmily Village[END]
+0A9-E: 
+0AA:Prayer Sanctuary[END]
+0AA-E: 
+0AB:Tazmily Village[END]
+0AB-E: 
+0AC:New Pork City[END]
+0AC-E: 
+0AD:Doria's House[END]
+0AD-E: 
+0AE:Doria's House[END]
+0AE-E: 
+0AF:Snowcap Mountain[END]
+0AF-E: 
+0B0:Doria's House[END]
+0B0-E: 
+0B1:Osohe Castle[END]
+0B1-E: 
+0B2:Osohe Castle[END]
+0B2-E: 
+0B3:Tanetane Island[END]
+0B3-E: 
+0B4:Tanetane Island[END]
+0B4-E: 
+0B5:Tanetane Island[END]
+0B5-E: 
+0B6:[END]
+0B6-E: 
+0B7:[END]
+0B7-E: 
+0B8:[END]
+0B8-E: 
+0B9:Gova Volcano[END]
+0B9-E: 
+0BA:Gova Volcano[END]
+0BA-E: 
+0BB:Snowcap Mountain[END]
+0BB-E: 
+0BC:Snowcap Mountain[END]
+0BC-E: 
+0BD:Snowcap Mountain[END]
+0BD-E: 
+0BE:Tanetane Island[END]
+0BE-E: 
+0BF:Tanetane Island[END]
+0BF-E: 
+0C0:[END]
+0C0-E: 
+0C1:Sunset Cemetery[END]
+0C1-E: 
+0C2:Sunset Cemetery[END]
+0C2-E: 
+0C3:Old Man's Paradise[END]
+0C3-E: 
+0C4:Old Man's Paradise[END]
+0C4-E: 
+0C5:Old Man's Paradise[END]
+0C5-E: 
+0C6:Old Man's Paradise[END]
+0C6-E: 
+0C7:Old Man's Paradise[END]
+0C7-E: 
+0C8:[END]
+0C8-E: 
+0C9:[END]
+0C9-E: 
+0CA:[END]
+0CA-E: 
+0CB:[END]
+0CB-E: 
+0CC:[END]
+0CC-E: 
+0CD:[END]
+0CD-E: 
+0CE:[END]
+0CE-E: 
+0CF:Sunshine Forest[END]
+0CF-E: 
+0D0:[END]
+0D0-E: 
+0D1:Tazmily Village[BREAK]Twins' House[END]
+0D1-E: 
+0D2:Tazmily Village[BREAK]Town Square[END]
+0D2-E: 
+0D3:Osohe Castle[END]
+0D3-E: 
+0D4:Osohe Castle[END]
+0D4-E: 
+0D5:[END]
+0D5-E: 
+0D6:[END]
+0D6-E: 
+0D7:[END]
+0D7-E: 
+0D8:[END]
+0D8-E: 
+0D9:Mt. Oriander[BREAK]Great Cliff[END]
+0D9-E: 
+0DA:Mt. Oriander[BREAK]River Area[END]
+0DA-E: 
+0DB:Mt. Oriander[END]
+0DB-E: 
+0DC:Mt. Oriander[END]
+0DC-E: 
+0DD:Sunset Cemetery[END]
+0DD-E: 
+0DE:Osohe Castle[END]
+0DE-E: 
+0DF:Phrygia's House[END]
+0DF-E: 
+0E0:Aeolia's House[END]
+0E0-E: 
+0E1:Mixolydia's House[END]
+0E1-E: 
+0E2:Cross Road[END]
+0E2-E: 
+0E3:[END]
+0E3-E: 
+0E4:Chupichupyoi Temple[END]
+0E4-E: 
+0E5:[END]
+0E5-E: 
+0E6:Clayman Factory[END]
+0E6-E: 
+0E7:Murasaki Forest[END]
+0E7-E: 
+0E8:END[END]
+0E8-E: 
+0E9:[END]
+0E9-E: 
+0EA:[END]
+0EA-E: 
+0EB:Cross Road[END]
+0EB-E: 
+0EC:[END]
+0EC-E: 
+0ED:[END]
+0ED-E: 
+0EE:[END]
+0EE-E: 
+0EF:[END]
+0EF-E: 
+0F0:[END]
+0F0-E: 
+0F1:[END]
+0F1-E: 
+0F2:[END]
+0F2-E: 
+0F3:[END]
+0F3-E: 
+0F4:[END]
+0F4-E: 
+0F5:[END]
+0F5-E: 
+0F6:[END]
+0F6-E: 
+0F7:[END]
+0F7-E: 
+0F8:Sunshine Forest[BREAK]Hot Spring[END]
+0F8-E: 
+0F9:Sunshine Forest[BREAK]Hot Spring[END]
+0F9-E: 
+0FA:Sunshine Forest[BREAK]Hot Spring[END]
+0FA-E: 
+0FB:Chimera Forest[BREAK]Hot Spring[END]
+0FB-E: 
+0FC:Locria's House[END]
+0FC-E: 
+0FD:Aeolia's House[END]
+0FD-E: 
+0FE:New Pork City[END]
+0FE-E: 
+0FF:New Pork City[END]
+0FF-E: 
+100:New Pork City[END]
+100-E: 
+101:New Pork City[END]
+101-E: 
+102:New Pork City[END]
+102-E: 
+103:New Pork City[END]
+103-E: 
+104:New Pork City[END]
+104-E: 
+105:New Pork City[END]
+105-E: 
+106:New Pork City[END]
+106-E: 
+107:[END]
+107-E: 
+108:[END]
+108-E: 
+109:[END]
+109-E: 
+10A:[END]
+10A-E: 
+10B:[END]
+10B-E: 
+10C:[END]
+10C-E: 
+10D:[END]
+10D-E: 
+10E:[END]
+10E-E: 
+10F:[END]
+10F-E: 
+110:[END]
+110-E: 
+111:[END]
+111-E: 
+112:[END]
+112-E: 
+113:[END]
+113-E: 
+114:[END]
+114-E: 
+115:[END]
+115-E: 
+116:[END]
+116-E: 
+117:[END]
+117-E: 
+118:[END]
+118-E: 
+119:[END]
+119-E: 
+11A:[END]
+11A-E: 
+11B:[END]
+11B-E: 
+11C:[END]
+11C-E: 
+11D:[END]
+11D-E: 
+11E:[END]
+11E-E: 
+11F:[END]
+11F-E: 
+120:[END]
+120-E: 
+121:[END]
+121-E: 
+122:[END]
+122-E: 
+123:[END]
+123-E: 
+124:[END]
+124-E: 
+125:[END]
+125-E: 
+126:[END]
+126-E: 
+127:[END]
+127-E: 
+128:[END]
+128-E: 
+129:[END]
+129-E: 
+12A:[END]
+12A-E: 
+12B:[END]
+12B-E: 
+12C:[END]
+12C-E: 
+12D:Club Titiboo[END]
+12D-E: 
+12E:Club Titiboo[END]
+12E-E: 
+12F:Club Titiboo[END]
+12F-E: 
+130:Club Titiboo[END]
+130-E: 
+131:Club Titiboo[END]
+131-E: 
+132:Club Titiboo[END]
+132-E: 
+133:Club Titiboo[END]
+133-E: 
+134:Club Titiboo[END]
+134-E: 
+135:Club Titiboo[END]
+135-E: 
+136:Club Titiboo[END]
+136-E: 
+137:Club Titiboo[END]
+137-E: 
+138:Club Titiboo[END]
+138-E: 
+139:Club Titiboo[END]
+139-E: 
+13A:Club Titiboo[END]
+13A-E: 
+13B:Club Titiboo[END]
+13B-E: 
+13C:Club Titiboo[END]
+13C-E: 
+13D:Club Titiboo[END]
+13D-E: 
+13E:Club Titiboo[BREAK]Hot Spring[END]
+13E-E: 
+13F:[END]
+13F-E: 
+140:Club Titiboo[BREAK]Backstage[END]
+140-E: 
+141:Club Titiboo[END]
+141-E: 
+142:Club Titiboo[END]
+142-E: 
+143:Club Titiboo[END]
+143-E: 
+144:Club Titiboo[END]
+144-E: 
+145:Club Titiboo[END]
+145-E: 
+146:Sea Floor Dungeon[END]
+146-E: 
+147:Sea Floor Dungeon[END]
+147-E: 
+148:Sea Floor Dungeon[END]
+148-E: 
+149:Sea Floor Dungeon[END]
+149-E: 
+14A:Sea Floor Dungeon[END]
+14A-E: 
+14B:Sea Floor Dungeon[END]
+14B-E: 
+14C:[END]
+14C-E: 
+14D:Chimera Lab[END]
+14D-E: 
+14E:Chimera Lab[END]
+14E-E: 
+14F:Chimera Lab[END]
+14F-E: 
+150:Chimera Lab[END]
+150-E: 
+151:Empty 337[END]
+151-E: 
+152:Empty 338[END]
+152-E: 
+153:Empty 339[END]
+153-E: 
+154:Lighter's House[END]
+154-E: 
+155:Lighter's House[END]
+155-E: 
+156:Demo Use[END]
+156-E: 
+157:Chimera Lab[END]
+157-E: 
+158:Chimera Lab[END]
+158-E: 
+159:Chimera Lab[BREAK]Restroom[END]
+159-E: 
+15A:Chimera Lab[END]
+15A-E: 
+15B:Chimera Lab[END]
+15B-E: 
+15C:Chimera Lab[END]
+15C-E: 
+15D:Chimera Lab[END]
+15D-E: 
+15E:Chimera Lab[END]
+15E-E: 
+15F:Chimera Lab[END]
+15F-E: 
+160:Chimera Lab[END]
+160-E: 
+161:Chimera Lab[END]
+161-E: 
+162:Chimera Lab[END]
+162-E: 
+163:Chimera Lab[END]
+163-E: 
+164:Chimera Lab[END]
+164-E: 
+165:Chimera Lab[END]
+165-E: 
+166:Chimera Lab[END]
+166-E: 
+167:Chimera Lab[END]
+167-E: 
+168:Chimera Lab[END]
+168-E: 
+169:Chimera Lab[END]
+169-E: 
+16A:Chimera Lab[END]
+16A-E: 
+16B:Chimera Lab[END]
+16B-E: 
+16C:Chimera Lab[BREAK]Specimen Room[END]
+16C-E: 
+16D:Chimera Lab[END]
+16D-E: 
+16E:Chimera Lab[END]
+16E-E: 
+16F:Chimera Lab[END]
+16F-E: 
+170:Chimera Lab[END]
+170-E: 
+171:Chimera Lab[END]
+171-E: 
+172:Highway[END]
+172-E: 
+173:Highway[END]
+173-E: 
+174:Sea Floor Dungeon[END]
+174-E: 
+175:Sea Floor Dungeon[END]
+175-E: 
+176:Sea Floor Dungeon[END]
+176-E: 
+177:Sea Floor Dungeon[END]
+177-E: 
+178:Sea Floor Dungeon[END]
+178-E: 
+179:Sea Floor Dungeon[END]
+179-E: 
+17A:Sea Floor Dungeon[END]
+17A-E: 
+17B:Murasaki Forest[END]
+17B-E: 
+17C:Murasaki Forest[END]
+17C-E: 
+17D:Highway[END]
+17D-E: 
+17E:Highway[END]
+17E-E: 
+17F:Highway[END]
+17F-E: 
+180:Highway[END]
+180-E: 
+181:Highway[END]
+181-E: 
+182:Highway[END]
+182-E: 
+183:Mole Cricket Hole[END]
+183-E: 
+184:Mole Cricket Hole[END]
+184-E: 
+185:Mole Cricket Hole[END]
+185-E: 
+186:Mole Cricket Hole[END]
+186-E: 
+187:Mole Cricket Hole[END]
+187-E: 
+188:Mole Cricket Hole[END]
+188-E: 
+189:Mole Cricket Hole[END]
+189-E: 
+18A:Mole Cricket Hole[END]
+18A-E: 
+18B:Mole Cricket Hole[END]
+18B-E: 
+18C:Highway[END]
+18C-E: 
+18D:Highway[END]
+18D-E: 
+18E:Highway[END]
+18E-E: 
+18F:Highway[END]
+18F-E: 
+190:Nippolyte Passageway[END]
+190-E: 
+191:Nippolyte Passageway[END]
+191-E: 
+192:Highway[END]
+192-E: 
+193:Highway[END]
+193-E: 
+194:Highway[END]
+194-E: 
+195:Highway[END]
+195-E: 
+196:[END]
+196-E: 
+197:[END]
+197-E: 
+198:[END]
+198-E: 
+199:Mt. Oriander[END]
+199-E: 
+19A:Outland Dungeon[END]
+19A-E: 
+19B:Outland Dungeon[END]
+19B-E: 
+19C:Outland Dungeon[END]
+19C-E: 
+19D:Outland Dungeon[END]
+19D-E: 
+19E:Outland Dungeon[END]
+19E-E: 
+19F:[END]
+19F-E: 
+1A0:Outland Dungeon[END]
+1A0-E: 
+1A1:[END]
+1A1-E: 
+1A2:Outland Dungeon[END]
+1A2-E: 
+1A3:Outland Dungeon[END]
+1A3-E: 
+1A4:Mt. Oriander[BREAK]Cave[END]
+1A4-E: 
+1A5:[END]
+1A5-E: 
+1A6:[END]
+1A6-E: 
+1A7:[END]
+1A7-E: 
+1A8:[END]
+1A8-E: 
+1A9:[END]
+1A9-E: 
+1AA:[END]
+1AA-E: 
+1AB:Highway[END]
+1AB-E: 
+1AC:Thunder Tower[END]
+1AC-E: 
+1AD:Thunder Tower[END]
+1AD-E: 
+1AE:Thunder Tower[END]
+1AE-E: 
+1AF:Thunder Tower[END]
+1AF-E: 
+1B0:Thunder Tower[END]
+1B0-E: 
+1B1:Thunder Tower[END]
+1B1-E: 
+1B2:Thunder Tower[END]
+1B2-E: 
+1B3:Thunder Tower[END]
+1B3-E: 
+1B4:Thunder Tower[END]
+1B4-E: 
+1B5:Thunder Tower[END]
+1B5-E: 
+1B6:Thunder Tower[END]
+1B6-E: 
+1B7:Thunder Tower[END]
+1B7-E: 
+1B8:Thunder Tower[END]
+1B8-E: 
+1B9:Thunder Tower[END]
+1B9-E: 
+1BA:Thunder Tower[END]
+1BA-E: 
+1BB:Thunder Tower[END]
+1BB-E: 
+1BC:Thunder Tower[END]
+1BC-E: 
+1BD:[END]
+1BD-E: 
+1BE:[END]
+1BE-E: 
+1BF:[END]
+1BF-E: 
+1C0:[END]
+1C0-E: 
+1C1:[END]
+1C1-E: 
+1C2:Highway[END]
+1C2-E: 
+1C3:Highway[END]
+1C3-E: 
+1C4:Clayman Factory[END]
+1C4-E: 
+1C5:Clayman Factory[END]
+1C5-E: 
+1C6:New Pork City[END]
+1C6-E: 
+1C7:New Pork City[END]
+1C7-E: 
+1C8:New Pork City[END]
+1C8-E: 
+1C9:New Pork City[END]
+1C9-E: 
+1CA:New Pork City[BREAK]Sewers[END]
+1CA-E: 
+1CB:New Pork City[END]
+1CB-E: 
+1CC:New Pork City[END]
+1CC-E: 
+1CD:New Pork City[BREAK]Leder's House[END]
+1CD-E: 
+1CE:Murki Cave[END]
+1CE-E: 
+1CF:Murki Cave[END]
+1CF-E: 
+1D0:Murki Cave[END]
+1D0-E: 
+1D1:Argilla Pass[END]
+1D1-E: Argilla-Pass[END]
+1D2:Argilla Pass[BREAK]Hot Spring[END]
+1D2-E: Argilla-Pass[BREAK]Heiﬂe Quelle[END]
+1D3:Chimera Lab[END]
+1D3-E: 
+1D4:Mole Cricket Hole[END]
+1D4-E: 
+1D5:Chimera Lab[END]
+1D5-E: 
+1D6:Osohe Castle[END]
+1D6-E: 
+1D7:Club Titiboo[END]
+1D7-E: 
+1D8:Thunder Tower[END]
+1D8-E: 
+1D9:Highway[BREAK]Parking Area[END]
+1D9-E: 
+1DA:Parking Area[END]
+1DA-E: 
+1DB:New Pork City[BREAK]Sewers[END]
+1DB-E: 
+1DC:New Pork City[BREAK]Sewers[END]
+1DC-E: 
+1DD:New Pork City[BREAK]Sewers[END]
+1DD-E: 
+1DE:[END]
+1DE-E: 
+1DF:[END]
+1DF-E: 
+1E0:[END]
+1E0-E: 
+1E1:[END]
+1E1-E: 
+1E2:[END]
+1E2-E: 
+1E3:[END]
+1E3-E: 
+1E4:[END]
+1E4-E: 
+1E5:[END]
+1E5-E: 
+1E6:[END]
+1E6-E: 
+1E7:[END]
+1E7-E: 
+1E8:[END]
+1E8-E: 
+1E9:[END]
+1E9-E: 
+1EA:[END]
+1EA-E: 
+1EB:[END]
+1EB-E: 
+1EC:[END]
+1EC-E: 
+1ED:[END]
+1ED-E: 
+1EE:[END]
+1EE-E: 
+1EF:[END]
+1EF-E: 
+1F0:[END]
+1F0-E: 
+1F1:[END]
+1F1-E: 
+1F2:[END]
+1F2-E: 
+1F3:[END]
+1F3-E: 
+1F4:Candrum Underpass[END]
+1F4-E: 
+1F5:Candrum Underpass[END]
+1F5-E: 
+1F6:Candrum Underpass[END]
+1F6-E: 
+1F7:Candrum Underpass[END]
+1F7-E: 
+1F8:Candrum Underpass[END]
+1F8-E: 
+1F9:Candrum Underpass[END]
+1F9-E: 
+1FA:Candrum Underpass[END]
+1FA-E: 
+1FB:Candrum Underpass[END]
+1FB-E: 
+1FC:Candrum Underpass[END]
+1FC-E: 
+1FD:[END]
+1FD-E: 
+1FE:[END]
+1FE-E: 
+1FF:[END]
+1FF-E: 
+200:[END]
+200-E: 
+201:[END]
+201-E: 
+202:[END]
+202-E: 
+203:[END]
+203-E: 
+204:[END]
+204-E: 
+205:[END]
+205-E: 
+206:[END]
+206-E: 
+207:[END]
+207-E: 
+208:[END]
+208-E: 
+209:[END]
+209-E: 
+20A:[END]
+20A-E: 
+20B:[END]
+20B-E: 
+20C:[END]
+20C-E: 
+20D:[END]
+20D-E: 
+20E:[END]
+20E-E: 
+20F:[END]
+20F-E: 
+210:[END]
+210-E: 
+211:[END]
+211-E: 
+212:[END]
+212-E: 
+213:[END]
+213-E: 
+214:[END]
+214-E: 
+215:[END]
+215-E: 
+216:[END]
+216-E: 
+217:[END]
+217-E: 
+218:[END]
+218-E: 
+219:[END]
+219-E: 
+21A:[END]
+21A-E: 
+21B:[END]
+21B-E: 
+21C:[END]
+21C-E: 
+21D:[END]
+21D-E: 
+21E:[END]
+21E-E: 
+21F:[END]
+21F-E: 
+220:[END]
+220-E: 
+221:[END]
+221-E: 
+222:[END]
+222-E: 
+223:[END]
+223-E: 
+224:[END]
+224-E: 
+225:[END]
+225-E: 
+226:Factory[END]
+226-E: 
+227:Factory[END]
+227-E: 
+228:Factory[END]
+228-E: 
+229:Factory[END]
+229-E: 
+22A:Factory[END]
+22A-E: 
+22B:Factory[END]
+22B-E: 
+22C:Factory[END]
+22C-E: 
+22D:[END]
+22D-E: 
+22E:[END]
+22E-E: 
+22F:[END]
+22F-E: 
+230:[END]
+230-E: 
+231:[END]
+231-E: 
+232:[END]
+232-E: 
+233:[END]
+233-E: 
+234:[END]
+234-E: 
+235:[END]
+235-E: 
+236:[END]
+236-E: 
+237:[END]
+237-E: 
+238:[END]
+238-E: 
+239:[END]
+239-E: 
+23A:[END]
+23A-E: 
+23B:[END]
+23B-E: 
+23C:[END]
+23C-E: 
+23D:[END]
+23D-E: 
+23E:[END]
+23E-E: 
+23F:[END]
+23F-E: 
+240:[END]
+240-E: 
+241:[END]
+241-E: 
+242:[END]
+242-E: 
+243:[END]
+243-E: 
+244:[END]
+244-E: 
+245:[END]
+245-E: 
+246:[END]
+246-E: 
+247:[END]
+247-E: 
+248:[END]
+248-E: 
+249:[END]
+249-E: 
+24A:[END]
+24A-E: 
+24B:[END]
+24B-E: 
+24C:[END]
+24C-E: 
+24D:[END]
+24D-E: 
+24E:[END]
+24E-E: 
+24F:[END]
+24F-E: 
+250:[END]
+250-E: 
+251:[END]
+251-E: 
+252:[END]
+252-E: 
+253:[END]
+253-E: 
+254:[END]
+254-E: 
+255:[END]
+255-E: 
+256:[END]
+256-E: 
+257:[END]
+257-E: 
+258:[END]
+258-E: 
+259:[END]
+259-E: 
+25A:[END]
+25A-E: 
+25B:[END]
+25B-E: 
+25C:[END]
+25C-E: 
+25D:[END]
+25D-E: 
+25E:[END]
+25E-E: 
+25F:[END]
+25F-E: 
+260:[END]
+260-E: 
+261:[END]
+261-E: 
+262:[END]
+262-E: 
+263:[END]
+263-E: 
+264:[END]
+264-E: 
+265:[END]
+265-E: 
+266:[END]
+266-E: 
+267:[END]
+267-E: 
+268:[END]
+268-E: 
+269:[END]
+269-E: 
+26A:[END]
+26A-E: 
+26B:[END]
+26B-E: 
+26C:Osohe Castle 3F[BREAK]Terrace Entrance[END]
+26C-E: 
+26D:Osohe Castle[END]
+26D-E: 
+26E:Osohe Castle[END]
+26E-E: 
+26F:Osohe Castle[END]
+26F-E: 
+270:Osohe Castle 1F[END]
+270-E: 
+271:Osohe Castle[END]
+271-E: 
+272:Osohe Castle[END]
+272-E: 
+273:Osohe Castle[END]
+273-E: 
+274:Osohe Castle[END]
+274-E: 
+275:Osohe Castle[END]
+275-E: 
+276:Osohe Castle[END]
+276-E: 
+277:Osohe Castle[END]
+277-E: 
+278:Osohe Castle[END]
+278-E: 
+279:Osohe Castle[END]
+279-E: 
+27A:Osohe Castle[END]
+27A-E: 
+27B:Osohe Castle[END]
+27B-E: 
+27C:Osohe Castle[END]
+27C-E: 
+27D:Osohe Castle[END]
+27D-E: 
+27E:Osohe Castle[END]
+27E-E: 
+27F:Osohe Castle[END]
+27F-E: 
+280:Osohe Castle[END]
+280-E: 
+281:Osohe Castle[END]
+281-E: 
+282:Osohe Castle[END]
+282-E: 
+283:Osohe Castle[END]
+283-E: 
+284:Osohe Castle 4F[BREAK]Trash Can Room[END]
+284-E: 
+285:Osohe Castle[END]
+285-E: 
+286:Osohe Castle 5F-6F[BREAK]Landing[END]
+286-E: 
+287:Osohe Castle[END]
+287-E: 
+288:Osohe Castle[END]
+288-E: 
+289:Osohe Castle[END]
+289-E: 
+28A:Osohe Castle[END]
+28A-E: 
+28B:Osohe Castle[END]
+28B-E: 
+28C:Osohe Castle[END]
+28C-E: 
+28D:Osohe Castle 8F-9F[BREAK]Landing[END]
+28D-E: 
+28E:Osohe Castle[END]
+28E-E: 
+28F:Osohe Castle[END]
+28F-E: 
+290:Osohe Castle[END]
+290-E: 
+291:Osohe Castle[END]
+291-E: 
+292:Osohe Castle[END]
+292-E: 
+293:Osohe Castle[END]
+293-E: 
+294:Osohe Castle[END]
+294-E: 
+295:Osohe Castle[END]
+295-E: 
+296:Osohe Castle[END]
+296-E: 
+297:Osohe Castle[END]
+297-E: 
+298:Osohe Castle[END]
+298-E: 
+299:Osohe Castle[END]
+299-E: 
+29A:[END]
+29A-E: 
+29B:[END]
+29B-E: 
+29C:[END]
+29C-E: 
+29D:[END]
+29D-E: 
+29E:[END]
+29E-E: 
+29F:[END]
+29F-E: 
+2A0:[END]
+2A0-E: 
+2A1:[END]
+2A1-E: 
+2A2:[END]
+2A2-E: 
+2A3:[END]
+2A3-E: 
+2A4:[END]
+2A4-E: 
+2A5:[END]
+2A5-E: 
+2A6:[END]
+2A6-E: 
+2A7:[END]
+2A7-E: 
+2A8:[END]
+2A8-E: 
+2A9:[END]
+2A9-E: 
+2AA:[END]
+2AA-E: 
+2AB:[END]
+2AB-E: 
+2AC:[END]
+2AC-E: 
+2AD:[END]
+2AD-E: 
+2AE:[END]
+2AE-E: 
+2AF:[END]
+2AF-E: 
+2B0:[END]
+2B0-E: 
+2B1:[END]
+2B1-E: 
+2B2:[END]
+2B2-E: 
+2B3:[END]
+2B3-E: 
+2B4:[END]
+2B4-E: 
+2B5:[END]
+2B5-E: 
+2B6:[END]
+2B6-E: 
+2B7:[END]
+2B7-E: 
+2B8:[END]
+2B8-E: 
+2B9:[END]
+2B9-E: 
+2BA:[END]
+2BA-E: 
+2BB:[END]
+2BB-E: 
+2BC:Empire Porky Building[BREAK]Lobby[END]
+2BC-E: 
+2BD:Empire Porky Building[BREAK]Lobby[END]
+2BD-E: 
+2BE:Empire Porky Building[BREAK]Lobby[END]
+2BE-E: 
+2BF:Empire Porky Building[BREAK]Lobby[END]
+2BF-E: 
+2C0:Empire Porky Building[BREAK]Lobby[END]
+2C0-E: 
+2C1:Empire Porky Building[BREAK]Lobby[END]
+2C1-E: 
+2C2:Empire Porky Building[BREAK]Underground[END]
+2C2-E: 
+2C3:Empire Porky Building[BREAK]Underground[END]
+2C3-E: 
+2C4:Empire Porky Building[BREAK]Underground[END]
+2C4-E: 
+2C5:Empire Porky Building[BREAK]Underground[END]
+2C5-E: 
+2C6:[END]
+2C6-E: 
+2C7:[END]
+2C7-E: 
+2C8:[END]
+2C8-E: 
+2C9:[END]
+2C9-E: 
+2CA:[END]
+2CA-E: 
+2CB:[END]
+2CB-E: 
+2CC:[END]
+2CC-E: 
+2CD:[END]
+2CD-E: 
+2CE:[END]
+2CE-E: 
+2CF:[END]
+2CF-E: 
+2D0:[END]
+2D0-E: 
+2D1:[END]
+2D1-E: 
+2D2:[END]
+2D2-E: 
+2D3:[END]
+2D3-E: 
+2D4:[END]
+2D4-E: 
+2D5:[END]
+2D5-E: 
+2D6:[END]
+2D6-E: 
+2D7:[END]
+2D7-E: 
+2D8:[END]
+2D8-E: 
+2D9:[END]
+2D9-E: 
+2DA:[END]
+2DA-E: 
+2DB:[END]
+2DB-E: 
+2DC:[END]
+2DC-E: 
+2DD:[END]
+2DD-E: 
+2DE:[END]
+2DE-E: 
+2DF:[END]
+2DF-E: 
+2E0:[END]
+2E0-E: 
+2E1:[END]
+2E1-E: 
+2E2:[END]
+2E2-E: 
+2E3:[END]
+2E3-E: 
+2E4:[END]
+2E4-E: 
+2E5:[END]
+2E5-E: 
+2E6:[END]
+2E6-E: 
+2E7:[END]
+2E7-E: 
+2E8:[END]
+2E8-E: 
+2E9:[END]
+2E9-E: 
+2EA:[END]
+2EA-E: 
+2EB:[END]
+2EB-E: 
+2EC:[END]
+2EC-E: 
+2ED:[END]
+2ED-E: 
+2EE:[END]
+2EE-E: 
+2EF:[END]
+2EF-E: 
+2F0:[END]
+2F0-E: 
+2F1:[END]
+2F1-E: 
+2F2:[END]
+2F2-E: 
+2F3:[END]
+2F3-E: 
+2F4:[END]
+2F4-E: 
+2F5:[END]
+2F5-E: 
+2F6:[END]
+2F6-E: 
+2F7:[END]
+2F7-E: 
+2F8:[END]
+2F8-E: 
+2F9:[END]
+2F9-E: 
+2FA:[END]
+2FA-E: 
+2FB:[END]
+2FB-E: 
+2FC:[END]
+2FC-E: 
+2FD:[END]
+2FD-E: 
+2FE:[END]
+2FE-E: 
+2FF:[END]
+2FF-E: 
+300:[END]
+300-E: 
+301:[END]
+301-E: 
+302:[END]
+302-E: 
+303:[END]
+303-E: 
+304:[END]
+304-E: 
+305:[END]
+305-E: 
+306:[END]
+306-E: 
+307:[END]
+307-E: 
+308:[END]
+308-E: 
+309:[END]
+309-E: 
+30A:[END]
+30A-E: 
+30B:[END]
+30B-E: 
+30C:[END]
+30C-E: 
+30D:[END]
+30D-E: 
+30E:[END]
+30E-E: 
+30F:[END]
+30F-E: 
+310:[END]
+310-E: 
+311:[END]
+311-E: 
+312:[END]
+312-E: 
+313:[END]
+313-E: 
+314:[END]
+314-E: 
+315:[END]
+315-E: 
+316:[END]
+316-E: 
+317:[END]
+317-E: 
+318:[END]
+318-E: 
+319:[END]
+319-E: 
+31A:[END]
+31A-E: 
+31B:[END]
+31B-E: 
+31C:[END]
+31C-E: 
+31D:[END]
+31D-E: 
+31E:Empire Porky Building[END]
+31E-E: 
+31F:Empire Porky Building[END]
+31F-E: 
+320:Empire Porky Building[END]
+320-E: 
+321:Empire Porky Building[END]
+321-E: 
+322:Empire Porky Building[END]
+322-E: 
+323:Empire Porky Building[END]
+323-E: 
+324:Empire Porky Building[END]
+324-E: 
+325:Empire Porky Building[END]
+325-E: 
+326:Empire Porky Building[END]
+326-E: 
+327:Empire Porky Building[END]
+327-E: 
+328:Empty 808[END]
+328-E: 
+329:Empire Porky Building[BREAK]Underground[END]
+329-E: 
+32A:Empire Porky Building[BREAK]Underground[END]
+32A-E: 
+32B:Empty 811[END]
+32B-E: 
+32C:Empty 812[END]
+32C-E: 
+32D:Empty 813[END]
+32D-E: 
+32E:Empty 814[END]
+32E-E: 
+32F:Empire Porky Building[END]
+32F-E: 
+330:Empire Porky Building[END]
+330-E: 
+331:Empire Porky Building[END]
+331-E: 
+332:Empire Porky Building[END]
+332-E: 
+333:Empire Porky Building[END]
+333-E: 
+334:Empire Porky Building[END]
+334-E: 
+335:Empire Porky Building[END]
+335-E: 
+336:Empire Porky Building[END]
+336-E: 
+337:Empire Porky Building[END]
+337-E: 
+338:Empire Porky Building[BREAK]Restrooms[END]
+338-E: 
+339:Empire Porky Building[END]
+339-E: 
+33A:(EMPTY)[END]
+33A-E: 
+33B:(EMPTY)[END]
+33B-E: 
+33C:Empire Porky Building[END]
+33C-E: 
+33D:[END]
+33D-E: 
+33E:Empire Porky Building[END]
+33E-E: 
+33F:[END]
+33F-E: 
+340:Empire Porky Building[END]
+340-E: 
+341:Empire Porky Building[END]
+341-E: 
+342:Empire Porky Building[END]
+342-E: 
+343:Empire Porky Building[END]
+343-E: 
+344:Empire Porky Building[END]
+344-E: 
+345:Empire Porky Building[END]
+345-E: 
+346:Empire Porky Building[END]
+346-E: 
+347:Empire Porky Building[END]
+347-E: 
+348:[END]
+348-E: 
+349:Empire Porky Building[END]
+349-E: 
+34A:[END]
+34A-E: 
+34B:[END]
+34B-E: 
+34C:[END]
+34C-E: 
+34D:[END]
+34D-E: 
+34E:[END]
+34E-E: 
+34F:[END]
+34F-E: 
+350:[END]
+350-E: 
+351:[END]
+351-E: 
+352:[END]
+352-E: 
+353:Empire Porky Building[END]
+353-E: 
+354:Empire Porky Building[END]
+354-E: 
+355:Empire Porky Building[END]
+355-E: 
+356:Empire Porky Building[END]
+356-E: 
+357:Empire Porky Building[BREAK]Nice Person Hot Spring[END]
+357-E: 
+358:Empire Porky Building[BREAK]Nice Person Hot Spring[END]
+358-E: 
+359:[END]
+359-E: 
+35A:Empire Porky Building[END]
+35A-E: 
+35B:Empire Porky Building[END]
+35B-E: 
+35C:Empire Porky Building[BREAK][END]
+35C-E: 
+35D:[END]
+35D-E: 
+35E:Empire Porky Building[END]
+35E-E: 
+35F:Empire Porky Building[END]
+35F-E: 
+360:Empire Porky Building[END]
+360-E: 
+361:Empire Porky Building[END]
+361-E: 
+362:Empire Porky Building[END]
+362-E: 
+363:Empire Porky Building[END]
+363-E: 
+364:Empire Porky Building[END]
+364-E: 
+365:Empire Porky Building[END]
+365-E: 
+366:Empire Porky Building[END]
+366-E: 
+367:Empire Porky Building[END]
+367-E: 
+368:Empire Porky Building[END]
+368-E: 
+369:Empire Porky Building[END]
+369-E: 
+36A:Empire Porky Building[END]
+36A-E: 
+36B:Empire Porky Building[END]
+36B-E: 
+36C:Tanetane Island[END]
+36C-E: 
+36D:Tanetane Island[END]
+36D-E: 
+36E:Empire Porky Building[END]
+36E-E: 
+36F:Limousine[END]
+36F-E: 
+370:Empire Porky Building[BREAK]Entrance[END]
+370-E: 
+371:Empire Porky Building[END]
+371-E: 
+372:Empire Porky Building[END]
+372-E: 
+373:Empire Porky Building[END]
+373-E: 
+374:Empire Porky Building[END]
+374-E: 
+375:Empire Porky Building[BREAK]Concert Hall[END]
+375-E: 
+376:Empire Porky Building[END]
+376-E: 
+377:Empire Porky Building[END]
+377-E: 
+378:Empire Porky Building[END]
+378-E: 
+379:Empire Porky Building[END]
+379-E: 
+37A:Empire Porky Building[END]
+37A-E: 
+37B:Tanetane Island[END]
+37B-E: 
+37C:[END]
+37C-E: 
+37D:Debug Room[END]
+37D-E: 
+37E:[END]
+37E-E: 
+37F:Empire Porky Building[END]
+37F-E: 
+380:Empire Porky Building[BREAK]Underground[END]
+380-E: 
+381:Empire Porky Building[BREAK]Underground[END]
+381-E: 
+382:Empire Porky Building[BREAK]Underground[END]
+382-E: 
+383:Empire Porky Building[BREAK]Underground[END]
+383-E: 
+384:[END]
+384-E: 
+385:[END]
+385-E: 
+386:[END]
+386-E: 
+387:[END]
+387-E: 
+388:[END]
+388-E: 
+389:[END]
+389-E: 
+38A:[END]
+38A-E: 
+38B:[END]
+38B-E: 
+38C:[END]
+38C-E: 
+38D:[END]
+38D-E: 
+38E:[END]
+38E-E: 
+38F:[END]
+38F-E: 
+390:[END]
+390-E: 
+391:[END]
+391-E: 
+392:[END]
+392-E: 
+393:[END]
+393-E: 
+394:[END]
+394-E: 
+395:[END]
+395-E: 
+396:[END]
+396-E: 
+397:[END]
+397-E: 
+398:[END]
+398-E: 
+399:[END]
+399-E: 
+39A:[END]
+39A-E: 
+39B:[END]
+39B-E: 
+39C:[END]
+39C-E: 
+39D:[END]
+39D-E: 
+39E:[END]
+39E-E: 
+39F:[END]
+39F-E: 
+3A0:[END]
+3A0-E: 
+3A1:[END]
+3A1-E: 
+3A2:[END]
+3A2-E: 
+3A3:[END]
+3A3-E: 
+3A4:[END]
+3A4-E: 
+3A5:[END]
+3A5-E: 
+3A6:[END]
+3A6-E: 
+3A7:[END]
+3A7-E: 
+3A8:[END]
+3A8-E: 
+3A9:[END]
+3A9-E: 
+3AA:[END]
+3AA-E: 
+3AB:[END]
+3AB-E: 
+3AC:[END]
+3AC-E: 
+3AD:[END]
+3AD-E: 
+3AE:[END]
+3AE-E: 
+3AF:[END]
+3AF-E: 
+3B0:[END]
+3B0-E: 
+3B1:[END]
+3B1-E: 
+3B2:[END]
+3B2-E: 
+3B3:[END]
+3B3-E: 
+3B4:[END]
+3B4-E: 
+3B5:[END]
+3B5-E: 
+3B6:[END]
+3B6-E: 
+3B7:[END]
+3B7-E: 
+3B8:[END]
+3B8-E: 
+3B9:[END]
+3B9-E: 
+3BA:[END]
+3BA-E: 
+3BB:[END]
+3BB-E: 
+3BC:[END]
+3BC-E: 
+3BD:[END]
+3BD-E: 
+3BE:[END]
+3BE-E: 
+3BF:[END]
+3BF-E: 
+3C0:[END]
+3C0-E: 
+3C1:[END]
+3C1-E: 
+3C2:[END]
+3C2-E: 
+3C3:[END]
+3C3-E: 
+3C4:[END]
+3C4-E: 
+3C5:[END]
+3C5-E: 
+3C6:[END]
+3C6-E: 
+3C7:[END]
+3C7-E: 
+3C8:[END]
+3C8-E: 
+3C9:[END]
+3C9-E: 
+3CA:[END]
+3CA-E: 
+3CB:[END]
+3CB-E: 
+3CC:[END]
+3CC-E: 
+3CD:[END]
+3CD-E: 
+3CE:[END]
+3CE-E: 
+3CF:[END]
+3CF-E: 
+3D0:[END]
+3D0-E: 
+3D1:[END]
+3D1-E: 
+3D2:[END]
+3D2-E: 
+3D3:[END]
+3D3-E: 
+3D4:[END]
+3D4-E: 
+3D5:[END]
+3D5-E: 
+3D6:[END]
+3D6-E: 
+3D7:[END]
+3D7-E: 
+3D8:[END]
+3D8-E: 
+3D9:[END]
+3D9-E: 
+3DA:[END]
+3DA-E: 
+3DB:[END]
+3DB-E: 
+3DC:[END]
+3DC-E: 
+3DD:[END]
+3DD-E: 
+3DE:[END]
+3DE-E: 
+3DF:[END]
+3DF-E: 
+3E0:[END]
+3E0-E: 
+3E1:[END]
+3E1-E: 
+3E2:[END]
+3E2-E: 
+3E3:[END]
+3E3-E: 
+3E4:[END]
+3E4-E: 
+3E5:[END]
+3E5-E: 
+3E6:[END]
+3E6-E: 
+3E7:[END]
+3E7-E: 

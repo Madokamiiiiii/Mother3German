@@ -1,0 +1,769 @@
+// Enemy descriptions can be any length
+
+00:[END]
+00-E: 
+
+01:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+01-E: 
+
+02:[BREAK][BREAK]Someone has modified this[BREAK]gentle reindeer to make it[BREAK]aggressive.[END]
+02-E: 
+
+03:[BREAK]The ghost of a musician[BREAK]who died before finishing[BREAK]his symphony. Beware of[BREAK]his captivating melodies.[END]
+03-E: 
+
+04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
+04-E: 
+
+05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
+05-E: 
+
+06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
+06-E: 
+
+07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
+07-E: 
+
+08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
+08-E: 
+
+09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
+09-E: 
+
+0A:[END]
+0A-E: 
+
+0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
+0B-E: 
+
+0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
+0C-E: 
+
+0D:[BREAK][BREAK]Based on a dream Porky[BREAK]once had. N.K. stands for[BREAK]<Natural Killer>.[END]
+0D-E: 
+
+0E:[BREAK]What expressions lie[BREAK]hidden behind his mask?[BREAK]...And more importantly,[BREAK]who is he?[END]
+0E-E: 
+
+0F:So fierce-looking he's[BREAK]afraid of his own[BREAK]reflection. Takes good[BREAK]care of his men and is a[BREAK]huge DCMC fan.[END]
+0F-E: 
+
+10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
+10-E: 
+
+11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
+11-E: 
+
+12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
+12-E: 
+
+13:[BREAK]These guys swarm down[BREAK]from the ceiling when they[BREAK]sense a person's body[BREAK]heat.[END]
+13-E: 
+
+14:[END]
+14-E: 
+
+15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
+15-E: 
+
+16:[END]
+16-E: 
+
+17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
+17-E: 
+
+18:[END]
+18-E: 
+
+19:[BREAK]This spirited musician[BREAK]can't control his tempo. In[BREAK]fact, his passion is just[BREAK]hitting a crescendo.[END]
+19-E: 
+
+1A:[BREAK]Takes good care of Blue[BREAK]Balding Eagle chicks and[BREAK]burns with maternal wrath[BREAK]at anyone who approaches.[END]
+1A-E: 
+
+1B:[END]
+1B-E: 
+
+1C:[END]
+1C-E: 
+
+1D:Miraculously enough,[BREAK]Fassad has attained an[BREAK]even more powerful form.[BREAK]He may look funny, but he[BREAK]means serious business.[END]
+1D-E: 
+
+1E:[END]
+1E-E: 
+
+1F:[END]
+1F-E: 
+
+20:[BREAK]A mysterious energy form[BREAK]that powerfully resonates[BREAK]with the vibrations of the[BREAK]last Needle.[END]
+20-E: 
+
+21:[BREAK]This creature was[BREAK]combined with a leftover[BREAK]rocket from a failed space[BREAK]program.[END]
+21-E: 
+
+22:[BREAK]A robot programmed to[BREAK]terrorize Mr. Saturns with[BREAK]frightening words. Humans[BREAK]aren't scared, though.[END]
+22-E: 
+
+23:[BREAK]Stealing cheese, chewing[BREAK]power cords... This bad[BREAK]boy's done it all. Has a[BREAK]wife and seven kids.[END]
+23-E: 
+
+24:[BREAK]Lives off magma flowing[BREAK]from volcanos. Its blood[BREAK]reaches temperatures[BREAK]over 1500 degrees.[END]
+24-E: 
+
+25:Lions are already scary[BREAK]enough as it is, but[BREAK]combine one with a mech[BREAK]and it becomes terrifyingly[BREAK]cool.[END]
+25-E: 
+
+26:[BREAK]This monster is a hybrid of[BREAK]a traffic barrier and a[BREAK]bloke-ade. What IS a[BREAK]bloke-ade, anyway?[END]
+26-E: 
+
+27:[BREAK]A hurried, impetuous,[BREAK]restless mushroom that is[BREAK]also hasty, impatient, and[BREAK]completely frenzied.[END]
+27-E: 
+
+28:[BREAK]A strange sparrow-stick[BREAK]combination that also[BREAK]seems to have a bomb[BREAK]planted inside it.[END]
+28-E: 
+
+29:[BREAK]This unbalanced Chimera is[BREAK]half legendary giant fish,[BREAK]the <Master of the Sea>,[BREAK]and half plain ol' dog.[END]
+29-E: 
+
+2A:[BREAK]A bat native to the[BREAK]Sunshine Forest. It loves[BREAK]ambiguity and tends to be[BREAK]wishy-washy.[END]
+2A-E: 
+
+2B:[BREAK]This mouse squirrels away[BREAK]anything and everything,[BREAK]even burying its worries[BREAK]and responsibilities.[END]
+2B-E: 
+
+2C:[BREAK]This monster is a small[BREAK]bug fused with a cheap[BREAK]lighter. It's doomed to a[BREAK]one-time use.[END]
+2C-E: 
+
+2D:Desperate to be embraced[BREAK]as sweet and delicious.[BREAK]Prefers to veg out[BREAK]underground as much as[BREAK]possible.[END]
+2D-E: 
+
+2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
+2E-E: 
+
+2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
+2F-E: 
+
+30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
+30-E: 
+
+31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
+31-E: 
+
+32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
+32-E: 
+
+33:Sweet, piping-hot, and[BREAK]yummier than a roasted[BREAK]chestnut, but still a[BREAK]monster. Would probably[BREAK]go well with butter.[END]
+33-E: 
+
+34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
+34-E: 
+
+35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
+35-E: 
+
+36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
+36-E: 
+
+37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
+37-E: 
+
+38:These gather in groups to[BREAK]protect themselves from[BREAK]enemies. They'll proudly[BREAK]attack anything that[BREAK]appears to be weaker.[END]
+38-E: 
+
+39:[BREAK]He recently got into the[BREAK]unpredictable sport of[BREAK]Snowboard Cross. Get in[BREAK]his way and he'll get mad.[END]
+39-E: 
+
+3A:[BREAK]A cold-blooded mammal[BREAK]that prides itself in its[BREAK]frozen-solid tail capable of[BREAK]hammering nails.[END]
+3A-E: 
+
+3B:[BREAK]Has a viscous personality.[BREAK]It uses hypnosis, but it's[BREAK]much like a normal slug in[BREAK]that it hates saltwater.[END]
+3B-E: 
+
+3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
+3C-E: 
+
+3D:[BREAK]Often seen wandering[BREAK]around picnic sites. The[BREAK]most normal member of[BREAK]<fungus mobilus>.[END]
+3D-E: 
+
+3E:[END]
+3E-E: 
+
+3F:[BREAK]Spins its head in a circle[BREAK]when sizing up an enemy.[BREAK]Has titanium skin[BREAK]unsuitable for handbags.[END]
+3F-E: 
+
+40:[BREAK]A mischievous prankster.[BREAK]In some regions, the males[BREAK]are referred to as Naughty[BREAK]Moles.[END]
+40-E: 
+
+41:[BREAK]Burrows into the ground[BREAK]using the drill on its nose.[BREAK]Has a red light on its head[BREAK]for the heck of it.[END]
+41-E: 
+
+42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
+42-E: 
+
+43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
+43-E: 
+
+44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
+44-E: 
+
+45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
+45-E: 
+
+46:The Lady of Lava?[BREAK]The Missus of Magma?[BREAK]Someone please explain[BREAK]just who or what she's[BREAK]supposed to be.[END]
+46-E: 
+
+47:Its overwhelmingly pent-up[BREAK]anger explodes with a[BREAK]bang. Pyreflies make their[BREAK]home in this guy's cranial[BREAK]crater.[END]
+47-E: 
+
+48:Not even death can stop[BREAK]him from wandering the[BREAK]graveyard. He attacks[BREAK]people as he seeks new[BREAK]life.[END]
+48-E: 
+
+49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
+49-E: 
+
+4A:[BREAK][BREAK]Endlessly lingers around[BREAK]graveyards all alone, its[BREAK]flames burning with regret.[END]
+4A-E: 
+
+4B:[BREAK]Wouldn't it be easier to[BREAK]visit a grave if the grave[BREAK]came to you? No, wait, it[BREAK]would just be creepy.[END]
+4B-E: 
+
+4C:[BREAK]Once it sticks, it won't[BREAK]come off easily. Even if[BREAK]you do manage to pull it[BREAK]off, the residue is gross.[END]
+4C-E: 
+
+4D:[BREAK]An overgrown crawfish.[BREAK]Those big pincers are so[BREAK]handy, they could shear a[BREAK]sheep near-bald.[END]
+4D-E: 
+
+4E:[BREAK]So big, it needs capital[BREAK]letters. When it rolls into a[BREAK]ball, its shape just begs[BREAK]for it to be dribbled.[END]
+4E-E: 
+
+4F:Gets cranky once it's[BREAK]grown tired of acting[BREAK]upbeat, even cursing at[BREAK]the rattling of its own dry[BREAK]bones.[END]
+4F-E: 
+
+50:[BREAK]He and Li'l Big Bro can't[BREAK]decide on their names. If[BREAK]it's any help, this little guy[BREAK]is the older bro.[END]
+50-E: 
+
+51:[BREAK]Spends all day sniffing a[BREAK]faint odor lingering inside[BREAK]the barrel. Not a bad guy[BREAK]at heart.[END]
+51-E: 
+
+52:[BREAK][BREAK]Caution. This is not[BREAK]strawberry jam. Please do[BREAK]not spread it on bread.[END]
+52-E: 
+
+53:There's nothing special[BREAK]about this spider at all. It[BREAK]isn't poisonous, and it[BREAK]doesn't have any medicinal[BREAK]benefits whatsoever.[END]
+53-E: 
+
+54:[BREAK]If butterflies had no wings,[BREAK]they'd be butterwalkers.[BREAK]Without handsome horns,[BREAK]this guy is a... thing.[END]
+54-E: 
+
+55:[BREAK]One of the Magypsies[BREAK]crafted these monsters to[BREAK]protect something very[BREAK]important.[END]
+55-E: 
+
+56:[BREAK]Protects its flesh and[BREAK]bones with steel armor.[BREAK]Never mind that it doesn't[BREAK]have any flesh or bones.[END]
+56-E: 
+
+57:[BREAK]Appears to have a history[BREAK]of killing. Too heavy to be[BREAK]handled by a normal[BREAK]person.[END]
+57-E: 
+
+58:[BREAK]Appears to be covered in[BREAK]scars of glory. Too heavy[BREAK]to be lifted by a normal[BREAK]person.[END]
+58-E: 
+
+59:[BREAK]Once the empty-handed[BREAK]armor gets a hold of its[BREAK]sword and shield... terrible[BREAK]things will happen.[END]
+59-E: 
+
+5A:[BREAK][BREAK]This cape flaps gallantly in[BREAK]the breeze. It's nihilistic,[BREAK]obnoxious, and totally cool.[END]
+5A-E: 
+
+5B:[BREAK]Hasn't noticed that its[BREAK]master is long gone, and[BREAK]continues to bear his[BREAK]weight on its back.[END]
+5B-E: 
+
+5C:No matter how long it[BREAK]takes, this door anxiously[BREAK]waits for someone to open[BREAK]it. It's been waiting for[BREAK]years now.[END]
+5C-E: 
+
+5D:[BREAK][BREAK]What you see isn't always[BREAK]what you get. This eerie[BREAK]grin doesn't actually exist.[END]
+5D-E: 
+
+5E:[BREAK]Its favorite dung is that of[BREAK]the Cactus Wolf, but[BREAK]usually it just makes do[BREAK]with Sand Lizard dung.[END]
+5E-E: 
+
+5F:[BREAK]Digs a hole and waits for[BREAK]ants to fall inside. Doesn't[BREAK]mind if humans happen to[BREAK]fall in instead.[END]
+5F-E: 
+
+60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
+60-E: 
+
+61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
+61-E: 
+
+62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
+62-E: 
+
+63:[BREAK]If you rub your eyes after[BREAK]touching this guy, your[BREAK]legs will turn to goo. Be[BREAK]sure to wash your hands.[END]
+63-E: 
+
+64:[BREAK]It looks like a mummified[BREAK]cat, but it's not a cat at[BREAK]all. It's something entirely[BREAK]different altogether.[END]
+64-E: 
+
+65:[BREAK]Adjective-wise, he's[BREAK]caught between his size[BREAK]and his age. It's all very[BREAK]confusing.[END]
+65-E: 
+
+66:Recently discovered on[BREAK]Tanetane Island. It's[BREAK]usually rotten, and[BREAK]attracts its food by[BREAK]dancing.[END]
+66-E: 
+
+67:[BREAK]Some ghosts in Osohe[BREAK]Castle are understanding[BREAK]and kindhearted, but these[BREAK]ones are plain ol' mean.[END]
+67-E: 
+
+68:[BREAK]Art is dead! Or so it[BREAK]declares, but there[BREAK]doesn't seem to be any[BREAK]evidence of this.[END]
+68-E: 
+
+69:[BREAK]A drop kick from any one[BREAK]of its eight legs is intense.[BREAK]Its third leg from the right[BREAK]is World Cup class.[END]
+69-E: 
+
+6A:[BREAK]This piggy plant snorts and[BREAK]blooms from spring to fall.[BREAK]It disperses pollen that[BREAK]causes watery eyes.[END]
+6A-E: 
+
+6B:[BREAK]An unthinkable blend of a[BREAK]bird and a stick. It chirps[BREAK]and beckons for other[BREAK]animals.[END]
+6B-E: 
+
+6C:[BREAK]Clean the mold off of this[BREAK]guy and there won't be[BREAK]anything left. In other[BREAK]words, he's a pile of mold.[END]
+6C-E: 
+
+6D:This creature is greatly[BREAK]troubled whenever it sees[BREAK]an egg. Should it warm it[BREAK]or swallow it? It can't[BREAK]make up its mind.[END]
+6D-E: 
+
+6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
+6E-E: 
+
+6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
+6F-E: 
+
+70:[BREAK]Even the creators of this[BREAK]creature are too afraid to[BREAK]approach it. Stay out of its[BREAK]way, for your own good.[END]
+70-E: 
+
+71:[BREAK][BREAK]A piggish creature with a[BREAK]primate-ish brain. It uses[BREAK]PSI, so don't take it lightly.[END]
+71-E: 
+
+72:[BREAK]Its aggressive pose is so[BREAK]intimidating, it makes you[BREAK]grateful that it isn't[BREAK]enormous in size.[END]
+72-E: 
+
+73:Its dragon-like appearance[BREAK]protects it from enemies.[BREAK]Also somewhat like a[BREAK]dragon in that it breathes[BREAK]fire.[END]
+73-E: 
+
+74:[BREAK]The Violent Roach was[BREAK]awful, but this guy is[BREAK]bigger, quicker, greasier,[BREAK]and more energetic.[END]
+74-E: 
+
+75:[BREAK]A Chimera with a Ramblin'[BREAK]Mushroom on its head. In[BREAK]rare cases, its own spores[BREAK]will make it feel strange.[END]
+75-E: 
+
+76:Even this provincial[BREAK]tortoise was built into a[BREAK]fighting machine, but it's[BREAK]still as slow in the head as[BREAK]ever.[END]
+76-E: 
+
+77:[BREAK]The Li'l Big Bro keeps his[BREAK]beloved Big Bro on his[BREAK]head. Great siblings, but[BREAK]just what ARE they?[END]
+77-E: 
+
+78:[BREAK]A strange creature whose[BREAK]wings are too weak for its[BREAK]heavy head. Watch out for[BREAK]its fleas.[END]
+78-E: 
+
+79:[BREAK]Is the long part its trunk[BREAK]or its neck? How does it[BREAK]bathe itself? An utterly[BREAK]mysterious Chimera.[END]
+79-E: 
+
+7A:[BREAK]The sillhouette of this[BREAK]Titany's stretched wings[BREAK]against the starry night[BREAK]sky is a sight to behold.[END]
+7A-E: 
+
+7B:Lets out a sad howl when[BREAK]it meets the Batangutan[BREAK]with its head on it.[BREAK]Occasionally picks fights,[BREAK]too.[END]
+7B-E: 
+
+7C:[BREAK]The parent's power comes[BREAK]from its child's support.[BREAK]Although an enemy, it's[BREAK]still quite admirable.[END]
+7C-E: 
+
+7D:[BREAK]A robot that takes care of[BREAK]its master. Cooks, cleans,[BREAK]does laundry, cleans out[BREAK]ears and trims nose hair.[END]
+7D-E: 
+
+7E:[BREAK]The only non-mechanical[BREAK]part is a portion of its[BREAK]face. Only eats raw meat[BREAK]soaked in machine oil.[END]
+7E-E: 
+
+7F:[BREAK]Its rocket-based ramming[BREAK]attacks are intense.[BREAK]Doesn't seem to be that[BREAK]interested in outer space.[END]
+7F-E: 
+
+80:[BREAK][BREAK]A boar rigged up with a[BREAK]spring. And not the water[BREAK]kind, either.[END]
+80-E: 
+
+81:[BREAK]A roach strengthened[BREAK]by its all-silver body. It[BREAK]actually makes it less[BREAK]gross and creepy.[END]
+81-E: 
+
+82:A powered-up Flying[BREAK]Mouse. The jet engine on[BREAK]its back and propeller on[BREAK]its neck give it a top[BREAK]speed of 40 mph.[END]
+82-E: 
+
+83:[BREAK]Flies out of power conduits[BREAK]with lots of energy and...[BREAK]Hectic! Energetic! Electric![BREAK]That's its slogan.[END]
+83-E: 
+
+84:[BREAK]It's minor because, first of[BREAK]all, it's terrible at math,[BREAK]and second, it needs 64 C[BREAK]batteries.[END]
+84-E: 
+
+85:[BREAK]Its engine runs on a deep,[BREAK]passionate yearning to[BREAK]meet people and find out[BREAK]about them.[END]
+85-E: 
+
+86:[END]
+86-E: 
+
+87:[BREAK]A robot that replenishes[BREAK]other robots' energy by[BREAK]utilizing the power of the[BREAK]atom.[END]
+87-E: 
+
+88:Replenishes even more[BREAK]energy than the Atomic[BREAK]Power Robot, but its[BREAK]explosion is all the more[BREAK]powerful, too.[END]
+88-E: 
+
+89:[BREAK]Feels negatively about[BREAK]anything and everything.[BREAK]Only feels positively about[BREAK]feeling negatively.[END]
+89-E: 
+
+8A:[BREAK]Its head is crammed with[BREAK]knowledge, such as insect[BREAK]and flower names and how[BREAK]much certain things cost.[END]
+8A-E: 
+
+8B:[BREAK]What might its ultimate[BREAK]pose be? It's making an[BREAK]effort to master posing[BREAK]techniques in battle.[END]
+8B-E: 
+
+8C:Three years later, the[BREAK]Spud Bug is now a[BREAK]respectable adult. But[BREAK]what does that even mean[BREAK]for a bug?[END]
+8C-E: 
+
+8D:[BREAK]A rustic combination of a[BREAK]baked yam and a toy[BREAK]helicopter. It grates its[BREAK]body and sends gunk flying.[END]
+8D-E: 
+
+8E:[BREAK]A special Chimera created[BREAK]for Porky's birthday.[BREAK]Production expenses were[BREAK]astronomical.[END]
+8E-E: 
+
+8F:[BREAK]A construction Chimera[BREAK]designed to destroy the[BREAK]old Chimera Lab to make[BREAK]way for a new building.[END]
+8F-E: 
+
+90:[BREAK]This is getting out of hand.[BREAK]What's next, an anteater[BREAK]zombie? A platypus[BREAK]zombie?[END]
+90-E: 
+
+91:[BREAK]The eggs of a walleye[BREAK]pollock, salted and[BREAK]prepared to perfection in a[BREAK]seasoned broth. As a man.[END]
+91-E: 
+
+92:[END]
+92-E: 
+
+93:[BREAK]Modeled after the Ultimate[BREAK]Octobot. But where did[BREAK]they manage to find an[BREAK]Ultimate Octobot?[END]
+93-E: 
+
+94:Even household carpets[BREAK]aren't safe from this[BREAK]guy's smaller cousins.[BREAK]Osohe just houses the big[BREAK]ones.[END]
+94-E: 
+
+95:[BREAK]This Pigmask surveillance[BREAK]robot doesn't utilize[BREAK]infrared detectors. It[BREAK]responds to smell instead.[END]
+95-E: 
+
+96:[BREAK][BREAK]Blundering, chubby soldiers[BREAK]who began showing up in[BREAK]Tazmily one day.[END]
+96-E: 
+
+97:See Zombie Man's page for[BREAK]her description, because[BREAK]they're exactly alike,[BREAK]pronouns aside. Not just[BREAK]because the writer is lazy.[END]
+97-E: 
+
+98:[BREAK]The rarest member of[BREAK]<fungus mobilus>.[BREAK]Absolutely do not d-d-dare[BREAK]to ever e-e-eat one.[END]
+98-E: 
+
+99:[BREAK]Some may think he's more[BREAK]important than Mr. Batty,[BREAK]but he's actually at Mr.[BREAK]Batty's beck and call.[END]
+99-E: 
+
+9A:[BREAK]Has an incredible three, no,[BREAK]four exclamation marks in[BREAK]its name. That's just the[BREAK]kind of spider it is.[END]
+9A-E: 
+
+9B:[BREAK]He's astoundingly greedy[BREAK]and claims he's merely[BREAK]lending everything in the[BREAK]world to everyone.[END]
+9B-E: 
+
+9C:[BREAK]A forgotten guitar left[BREAK]wailing in the attic. Plays[BREAK]touching solos with its last[BREAK]three strings.[END]
+9C-E: 
+
+9D:Even after being torn, it[BREAK]defiantly orders not to[BREAK]give up, but to bang on the[BREAK]rim instead! It isn't easily[BREAK]beaten.[END]
+9D-E: 
+
+9E:[BREAK]He's had trouble eating[BREAK]worms ever since both of[BREAK]his hands were converted[BREAK]into power drills.[END]
+9E-E: 
+
+9F:[BREAK]As a lion, its bite and roar[BREAK]are expected. The coiling[BREAK]and the fire-breathing[BREAK]thing, not so much.[END]
+9F-E: 
+
+A0:[BREAK]This was thrown together[BREAK]for no real reason. There's[BREAK]no use for it, so it was set[BREAK]free on the highway.[END]
+A0-E: 
+
+A1:It boasts an instantly[BREAK]understandable design. If[BREAK]only it would wait to[BREAK]attack until AFTER people[BREAK]do their business...[END]
+A1-E: 
+
+A2:[BREAK]A Wobbly Robot that has[BREAK]broken down, with no[BREAK]plans for renovation. It's[BREAK]not worth worrying about.[END]
+A2-E: 
+
+A3:[BREAK]A Clayman that has grown[BREAK]lonely. All sorts of garbage[BREAK]and junk have been[BREAK]absorbed into its body.[END]
+A3-E: 
+
+A4:[BREAK]More than anything, it[BREAK]lives to terrify people. It[BREAK]sometimes startles itself[BREAK]and bursts into laughter.[END]
+A4-E: 
+
+A5:Little Alkaline, Mr.[BREAK]Manganese, Li'l Lithium,[BREAK]Sir Nickle. They all look[BREAK]alike, but there are many[BREAK]different kinds.[END]
+A5-E: 
+
+A6:A screw that holds[BREAK]Thunder Tower together.[BREAK]Even if 5 or 6 of them[BREAK]come loose, it's no big[BREAK]deal.[END]
+A6-E: 
+
+A7:[BREAK]Its creepy, happy smile[BREAK]and overly-friendly[BREAK]attitude make it deeply[BREAK]suspicious.[END]
+A7-E: 
+
+A8:Based on a comic drawn[BREAK]by Porky. It shoots[BREAK]mini-mechs from its[BREAK]mouth and causes a real[BREAK]uproar.[END]
+A8-E: 
+
+A9:[END]
+A9-E: 
+
+AA:[END]
+AA-E: 
+
+AB:[BREAK]A Pigmask quite content[BREAK]being major. His monthly[BREAK]salary is a meager 1400[BREAK]DP.[END]
+AB-E: 
+
+AC:[BREAK]A Pigmask who fears[BREAK]demotion to major. His[BREAK]monthly salary is a meager[BREAK]2000 DP.[END]
+AC-E: 
+
+AD:[BREAK]A Pigmask who aims for[BREAK]promotion to major. His[BREAK]monthly salary is a meager[BREAK]900 DP.[END]
+AD-E: 
+
+AE:[BREAK]Patrols the bottom of the[BREAK]sea and receives an extra[BREAK]4 DP an hour because of[BREAK]the danger involved.[END]
+AE-E: 
+
+AF:[BREAK]This bizarre creature is[BREAK]like a guardian deity of the[BREAK]sea. He punishes violators[BREAK]with powerful whirlpools.[END]
+AF-E: 
+
+B0:[BREAK]The rough rider of the sea.[BREAK]This bad boy rebel dyed his[BREAK]pincers and his body[BREAK]metallic purple.[END]
+B0-E: 
+
+B1:[BREAK]Has five eyeballs. Two are[BREAK]on its back. Has only one[BREAK]mouth... but, wait, that's[BREAK]normal.[END]
+B1-E: 
+
+B2:Sometimes it accidentally[BREAK]swallows the food that it[BREAK]went through all the[BREAK]trouble to get for its baby[BREAK]baldlings.[END]
+B2-E: 
+
+B3:[BREAK]Takes care of suspicious[BREAK]intruders, smoke in the[BREAK]kitchen, and reheating the[BREAK]bathtub.[END]
+B3-E: 
+
+B4:This bad breeze causes[BREAK]trouble when it flips up[BREAK]skirts and blows off[BREAK]toupees. Unwelcome,[BREAK]indeed.[END]
+B4-E: 
+
+B5:[END]
+B5-E: 
+
+B6:[END]
+B6-E: 
+
+B7:[BREAK]Native to Tanetane Island.[BREAK]The strongest and[BREAK]greenest of all Titany[BREAK]species.[END]
+B7-E: 
+
+B8:This improved Wobbly[BREAK]Robot no longer wobbles.[BREAK]Why wasn't it made this[BREAK]way to begin with? No one[BREAK]knows.[END]
+B8-E: 
+
+B9:The Beanling is a very[BREAK]mysterious creature. It's[BREAK]also quick to run away. If[BREAK]you can catch one, it'll be[BREAK]a great day.[END]
+B9-E: 
+
+BA:[BREAK]A Beanling coated in[BREAK]sparkling syrup. You'll only[BREAK]come across this monster[BREAK]if you've got good luck.[END]
+BA-E: 
+
+BB:A tiny, tiny forest that[BREAK]grows in the mole cricket[BREAK]hole. It's really more of a[BREAK]bush than a forest, but[BREAK]whatever.[END]
+BB-E: 
+
+BC:[END]
+BC-E: 
+
+BD:[END]
+BD-E: 
+
+BE:[END]
+BE-E: 
+
+BF:[END]
+BF-E: 
+
+C0:[END]
+C0-E: 
+
+C1:[END]
+C1-E: 
+
+C2:[END]
+C2-E: 
+
+C3:[END]
+C3-E: 
+
+C4:[END]
+C4-E: 
+
+C5:[END]
+C5-E: 
+
+C6:[END]
+C6-E: 
+
+C7:[END]
+C7-E: 
+
+C8:[END]
+C8-E: 
+
+C9:[END]
+C9-E: 
+
+CA:[END]
+CA-E: 
+
+CB:[END]
+CB-E: 
+
+CC:[END]
+CC-E: 
+
+CD:[END]
+CD-E: 
+
+CE:[END]
+CE-E: 
+
+CF:[END]
+CF-E: 
+
+D0:[END]
+D0-E: 
+
+D1:[END]
+D1-E: 
+
+D2:[END]
+D2-E: 
+
+D3:[END]
+D3-E: 
+
+D4:[END]
+D4-E: 
+
+D5:[END]
+D5-E: 
+
+D6:[END]
+D6-E: 
+
+D7:[END]
+D7-E: 
+
+D8:[END]
+D8-E: 
+
+D9:[END]
+D9-E: 
+
+DA:[END]
+DA-E: 
+
+DB:[END]
+DB-E: 
+
+DC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DC-E: 
+
+DD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DD-E: 
+
+DE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DE-E: 
+
+DF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DF-E: 
+
+E0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E0-E: 
+
+E1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E1-E: 
+
+E2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E2-E: 
+
+E3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E3-E: 
+
+E4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E4-E: 
+
+E5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E5-E: 
+
+E6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E6-E: 
+
+E7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E7-E: 
+
+E8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E8-E: 
+
+E9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E9-E: 
+
+EA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EA-E: 
+
+EB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EB-E: 
+
+EC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EC-E: 
+
+ED:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+ED-E: 
+
+EE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EE-E: 
+
+EF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EF-E: 
+
+F0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F0-E: 
+
+F1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F1-E: 
+
+F2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F2-E: 
+
+F3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F3-E: 
+
+F4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F4-E: 
+
+F5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F5-E: 
+
+F6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F6-E: 
+
+F7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F7-E: 
+
+F8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F8-E: 
+
+F9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F9-E: 
+
+FA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FA-E: 
+
+FB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FB-E: 
+
+FC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FC-E: 
+
+FD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FD-E: 
+
+FE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FE-E: 
+
+FF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FF-E: 

@@ -1,0 +1,108 @@
+// All status names must be 14 letters or less
+// Most of the things in here are for undiscovered debug menus;
+// don't worry if your translations look weird
+
+00:(EMPTY)
+00-E:(EMPTY)
+01:Poison
+01-E:Gift
+02:Numb
+02-E:Benommen
+03:Sleep
+03-E:Schlaf
+04:Strange
+04-E:Seltsam
+05:Crying
+05-E:Weinen
+06:Forgetful
+06-E:Vergesslich
+07:Nauseous
+07-E:Übel
+08:Fleas
+08-E:Flöhe
+09:On Fire
+09-E:Im Brand
+0A:Stopped, Frozen
+0A-E:Eingefroren
+0B:Smelly
+0B-E:Stinkig
+0C:DCMC
+0C-E:DCMC
+0D:Staple Stopped
+0D-E:Staple Stopped
+0E:Apology Stopped
+0E-E:Apology Stopped
+0F:Laugh Stopped
+0F-E:Laugh Stopped
+10:Defense
+10-E:Verteidigung
+11:No EXP
+11-E:Keine EXP
+12:Off Down (weak)
+12-E:Ang Down (schw)
+13:Off Down(strng)
+13-E:Ang Down(stark)
+14:Def Down (weak)
+14-E:Ver Down (schw)
+15:Def Down(strng)
+15-E:Ver Down(stark)
+16:Shield
+16-E:Schild
+17:Counter
+17-E:Konter
+18:Electrocuted
+18-E:Electrocuted
+19:PSI Shield
+19-E:PSI Schild
+1A:PSI Counter
+1A-E:PSI Konter
+1B:Off Up (weak)
+1B-E:Ang Up (schw)
+1C:Off Up (strong)
+1C-E:Ang Up (stark)
+1D:Def Up (weak)
+1D-E:Ver Up (schw)
+1E:Def Up (strong)
+1E-E:Ver Up (stark)
+1F:Escape Failure
+1F-E:Flucht fehlge.
+20:Dance
+20-E:Tanz
+21:Off Down (mid)
+21-E:Ang Down (mit)
+22:Def Down (mid)
+22-E:Ver Down (mit)
+23:Time Bomb
+23-E:Zeitbombe
+24:Parameters Up
+24-E:Parameter Up
+25:Parameters Down
+25-E:Parameter Down
+26:Refresh
+26-E:Auffrischung
+27:Fell
+27-E:Gefallen
+28:MonkeyDanceOff
+28-E:AffenTanzAng
+29:MonkeyDanceDef
+29-E:AffenTanzVer
+2A:MonkeyDanceSP
+2A-E:AffenTanzSP
+2B:MonkeyDanceIQ
+2B-E:AffenTanzIQ
+2C:MonkeyDanceOff
+2C-E:AffenTanzAng
+2D:MonkeyDanceDef
+2D-E:AffenTanzVer
+2E:MonkeyDanceSP
+2E-E:AffenTanzSP
+2F:MonkeyDanceIQ
+2F-E:AffenTanzIQ
+30:Endure
+30-E:Durchhalten
+31:Off Up (mid)
+31-E:Ang Up (mit)
+32:Def Up (mid)
+32-E:Ver Up (mit)
+33:No Back Sprite
+33-E:Kein Schatten

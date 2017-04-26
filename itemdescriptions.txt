@@ -1,0 +1,515 @@
+// Item descriptions can be any length.
+// Be sure to test descriptions in main menus AND in battle menus!
+
+0000: [END]
+0000-E: 
+0001: Lighter's favorite four-by-four.[BREAK]Offense +6.[END]
+0001-E: 
+0002: Freshly cut lumber.[BREAK]Offense +16.[END]
+0002-E: 
+0003: An undeniably plain stick.[BREAK]Offense +2.[END]
+0003-E: 
+0004: Well, it's better than a plain stick.[BREAK]Offense +20.[END]
+0004-E: 
+0005: A carved stick with an easy grip.[BREAK]Offense +15.[END]
+0005-E: 
+0006: A stick that's quite easy to wield.[BREAK]Offense +27.[END]
+0006-E: 
+0007: A high-quality stick that fits comfortably[BREAK]into the hand. Offense +34.[END]
+0007-E: 
+0008: A stick that calms the spirit.[BREAK]Offense +40.[END]
+0008-E: 
+0009: A stick that invigorates the holder.[BREAK]Offense +50.[END]
+0009-E: 
+000A: A stick that almost seems to mesmerize[BREAK]those who see it. Offense +62.[END]
+000A-E: 
+000B: A stick that invokes tense emotions.[BREAK]Offense +75.[END]
+000B-E: 
+000C: It's a miracle that this stick is right here.[BREAK]Offense +90.[END]
+000C-E: 
+000D: Ordinary old gloves you could find anywhere.[BREAK]Offense +9.[END]
+000D-E: 
+000E: Gloves that won't rip easily.[BREAK]Offense +16.[END]
+000E-E: 
+000F: Gloves that fit... like a glove.[BREAK]Offense +23.[END]
+000F-E: 
+0010: Gloves made from very strong material.[BREAK]Offense +50.[END]
+0010-E: 
+0011: Offense +30.[BREAK]Maximum PP +10.[END]
+0011-E: 
+0012: Reversible gloves that can be turned[BREAK]inside-out. Offense +35.[END]
+0012-E: 
+0013: Gloves that others could only wish for.[BREAK]Offense +58.[END]
+0013-E: 
+0014: Gloves that purify the heart.[BREAK]Offense +67.[END]
+0014-E: 
+0015: Gloves that emit a rainbow-colored aura.[BREAK]Offense +55.[END]
+0015-E: 
+0016: Favorite shoes that have long since become[BREAK]worn in. Offense +6.[END]
+0016-E: 
+0017: Shoes made from tough, thick leather.[BREAK]Offense +12.[END]
+0017-E: 
+0018: Shoes with toes that are slightly pointed.[BREAK]Offense +17.[END]
+0018-E: 
+0019: Shoes with unrivaled comfort.[BREAK]Offense +82.[END]
+0019-E: 
+001A: Shoes like something right out of a fairy tale.[BREAK]Offense +40.[END]
+001A-E: 
+001B: Carefully crafted shoes.[BREAK]Offense +70.[END]
+001B-E: 
+001C: Offense +25.[BREAK]Somewhat strong against lightning.[END]
+001C-E: 
+001D: Shoes with bare feet printed on them.[BREAK]Offense +38.[END]
+001D-E: 
+001E: Shoes with extra things on the bottom.[BREAK]Offense +58.[END]
+001E-E: 
+001F: This yo-yo makes a perfect gift or souvenir.[BREAK]Offense +20.[END]
+001F-E: 
+0020: A weapon that only dogs can wield.[BREAK]Offense +15.[END]
+0020-E: 
+0021: Effective against DCMC fans.[BREAK]Offense +8.[END]
+0021-E: 
+0022: A bat that is obviously fake.[BREAK]Offense +30.[END]
+0022-E: 
+0023: A frying pan that is clearly fake.[BREAK]Offense +26.[END]
+0023-E: 
+0024: A bat that brims with mystery and courage.[BREAK]Offense +100.[END]
+0024-E: 
+0025: To be equipped on the body.[BREAK]Defense +2.[END]
+0025-E: 
+0026: To be equipped on the body.[BREAK]Defense +5.[END]
+0026-E: 
+0027: To be equipped on the body.[BREAK]Defense +7.[END]
+0027-E: 
+0028: To be equipped on the body.[BREAK]Defense +10.[END]
+0028-E: 
+0029: To be equipped on the body.[BREAK]Defense +15.[END]
+0029-E: 
+002A: To be equipped on the body.[BREAK]Defense +18.[END]
+002A-E: 
+002B: To be equipped on the body.[BREAK]Defense +23.[END]
+002B-E: 
+002C: To be equipped on the body.[BREAK]Defense +26.[END]
+002C-E: 
+002D: Increases protection from all status[BREAK]ailments. Defense +30.[END]
+002D-E: 
+002E: Defense +10.[BREAK]Offense +10.[END]
+002E-E: 
+002F: Defense +20.[BREAK]Offense +20.[END]
+002F-E: 
+0030: Defense +30.[BREAK]Offense +30.[END]
+0030-E: 
+0031: Defense +40.[BREAK]Offense +40.[END]
+0031-E: 
+0032: Defense +50.[BREAK]Offense +50.[END]
+0032-E: 
+0033: Defense +10.[BREAK]Speed +1.[END]
+0033-E: 
+0034: Defense +8.[BREAK]Strong against lightning.[END]
+0034-E: 
+0035: Defense +8.[BREAK]Strong against fire.[END]
+0035-E: 
+0036: Defense +8.[BREAK]Strong against ice.[END]
+0036-E: 
+0037: Defense +20.[BREAK]Somewhat strong against fire and ice.[END]
+0037-E: 
+0038: Defense +23.[BREAK]Strong against fire, ice, and lightning.[END]
+0038-E: 
+0039: Defense +1.[BREAK]Offense +2.[END]
+0039-E: 
+003A: To be equipped on the head.[BREAK]Defense +5.[END]
+003A-E: 
+003B: To be equipped on the head.[BREAK]Defense +9.[END]
+003B-E: 
+003C: To be equipped on the head.[BREAK]Defense +15.[END]
+003C-E: 
+003D: To be equipped on the head.[BREAK]Defense +20.[END]
+003D-E: 
+003E: To be equipped on the head.[BREAK]Defense +25.[END]
+003E-E: 
+003F: To be equipped on the head.[BREAK]Defense +30.[END]
+003F-E: 
+0040: Prevents sleep.[BREAK]Defense +35.[END]
+0040-E: 
+0041: An ordinary hat.[BREAK]Defense +3.[END]
+0041-E: 
+0042: A hat that looks like a cow.[BREAK]Defense +10.[END]
+0042-E: 
+0043: Prevents fleas.[BREAK]Defense +20.[END]
+0043-E: 
+0044: A hat that looks like a bear.[BREAK]Defense +15.[END]
+0044-E: 
+0045: A hat that looks like an otter.[BREAK]Defense +25.[END]
+0045-E: 
+0046: A bright red ribbon.[BREAK]Defense +2.[END]
+0046-E: 
+0047: A bright blue ribbon.[BREAK]Defense +8.[END]
+0047-E: 
+0048: Prevents forgetfulness.[BREAK]Defense +14.[END]
+0048-E: 
+0049: Prevents sleep.[BREAK]Defense +18.[END]
+0049-E: 
+004A: The ribbon of an angel.[BREAK]Defense +27.[END]
+004A-E: 
+004B: The ribbon of a goddess.[BREAK]Defense +32.[END]
+004B-E: 
+004C: Defense +7.[BREAK]Speed +2.[END]
+004C-E: 
+004D: Defense +20.[BREAK]Maximum PP +30.[END]
+004D-E: 
+004E: A bracelet of the Aries zodiac sign.[BREAK]Defense +3.[END]
+004E-E: 
+004F: A bracelet of the Aquarius zodiac sign.[BREAK]Defense +5.[END]
+004F-E: 
+0050: A bracelet of the Pisces zodiac sign.[BREAK]Defense +7.[END]
+0050-E: 
+0051: A bracelet of the Capricorn zodiac sign.[BREAK]Defense +9.[END]
+0051-E: 
+0052: A bracelet of the Taurus zodiac sign.[BREAK]Defense +15.[END]
+0052-E: 
+0053: Defense +12[BREAK]Offense +10.[END]
+0053-E: 
+0054: A bracelet of the Cancer zodiac sign.[BREAK]Defense +20.[END]
+0054-E: 
+0055: A bracelet of the Leo zodiac sign.[BREAK]Defense +25.[END]
+0055-E: 
+0056: Defense +26.[BREAK]Maximum PP +10.[END]
+0056-E: 
+0057: A bracelet of the Libra zodiac sign.[BREAK]Defense +30.[END]
+0057-E: 
+0058: A bracelet of the Scorpio zodiac sign.[BREAK]Defense +35.[END]
+0058-E: 
+0059: A bracelet of the Sagittarius zodiac sign.[BREAK]Defense +45.[END]
+0059-E: 
+005A: Defense +7.[BREAK]Speed +5.[END]
+005A-E: 
+005B: Defense +30.[BREAK]Maximum PP +30.[END]
+005B-E: 
+005C: A family favorite.[BREAK]Restores 300 HP.[END]
+005C-E: 
+005D: A nut you can use to barter with.[BREAK]Restores 5 HP.[END]
+005D-E: 
+005E: Bread made from nuts.[BREAK]Restores 30 HP.[END]
+005E-E: 
+005F: A cookie topped with nuts.[BREAK]Restores 15 HP.[END]
+005F-E: 
+0060: Freshly-squeezed milk.[BREAK]Restores 80 HP.[END]
+0060-E: 
+0061: Milk that's probably best to stay away from.[BREAK]Restores 10 HP.[END]
+0061-E: 
+0062: Yogurt that's easy on the stomach.[BREAK]Restores 80 HP.[END]
+0062-E: 
+0063: A mushroom that's delicious even raw.[BREAK]Restores 20 HP.[END]
+0063-E: 
+0064: A popular tea in Tazmily.[BREAK]Restores 15 HP.[END]
+0064-E: 
+0065: Carefully sun-dried meat.[BREAK]Restores 60 HP.[END]
+0065-E: 
+0066: An egg rich with nutrients.[BREAK]Restores 80 HP.[END]
+0066-E: 
+0067: A favorite among ghosts.[BREAK]Not recommended for the living.[END]
+0067-E: 
+0068: A favorite among ghosts.[BREAK]Not recommended for the living.[END]
+0068-E: 
+0069: Cheese that you either love or hate.[BREAK]HP restored varies from person to person.[END]
+0069-E: 
+006A: Greasy junk food.[BREAK]Restores 50 HP.[END]
+006A-E: 
+006B: One rarely comes across bananas like this.[BREAK]Restores 120 HP.[END]
+006B-E: 
+006C: A bread roll with a delicious, buttery aroma.[BREAK]Restores 60 HP.[END]
+006C-E: 
+006D: A brisk soda for the end of a hard day![BREAK]Restores 20 HP![END]
+006D-E: 
+006E: A soda that's currently all the rage.[BREAK]Restores 20 HP.[END]
+006E-E: 
+006F: This drink is a hit at Club Titiboo.[BREAK]Restores 30 HP.[END]
+006F-E: 
+0070: A popular hamburger in the big city.[BREAK]Restores 100 HP.[END]
+0070-E: 
+0071: French fries with an urban flair.[BREAK]Restores 70 HP.[END]
+0071-E: 
+0072: A favorite treat among dogs.[BREAK]Restores 60 HP.[END]
+0072-E: 
+0073: A sunbaked jerky treat for dogs.[BREAK]Restores 150 HP.[END]
+0073-E: 
+0074: A soft, textured pastry.[BREAK]Restores 70 HP.[END]
+0074-E: 
+0075: A cup of instant noodles with bits of pork.[BREAK]Restores 80 HP.[END]
+0075-E: 
+0076: A big favorite among some.[BREAK]Restores 100 HP.[END]
+0076-E: 
+0077: Dumplings made with the mole crickets'[BREAK]sincerity. Restores 100 HP.[END]
+0077-E: 
+0078: A stylish dessert.[BREAK]Restores 120 HP.[END]
+0078-E: 
+0079: Rice so tasty, you feel lucky just to be[BREAK]eating it. HP restored depends on luck.[END]
+0079-E: 
+007A: When eaten in battle, anything can happen.[END]
+007A-E: 
+007B: A soup made with tantalizing jumbo shrimp.[BREAK]Restores 150 HP.[END]
+007B-E: 
+007C: A grilled and buttered abalone filet.[BREAK]Restores 180 HP.[END]
+007C-E: 
+007D: Twice-dried jerky.[BREAK]Restores 160 HP.[END]
+007D-E: 
+007E: Grilled chicken that's low in fat.[BREAK]Restores 170 HP.[END]
+007E-E: 
+007F: Fish that's been grilled with a sizzle.[BREAK]Restores 120 HP.[END]
+007F-E: 
+0080: A pasta of unspeakable circumstance.[BREAK]Restores 190 HP.[END]
+0080-E: 
+0081: A pizza pie for the best and most regular of[BREAK]customers. Restores 250 HP.[END]
+0081-E: 
+0082: Packed so full that the buns barely hold it[BREAK]together. Restores 280 HP.[END]
+0082-E: 
+0083: A thick, juicy steak.[BREAK]Restores 300 HP.[END]
+0083-E: 
+0084: A delicious stew with no bitter vegetables.[BREAK]Restores 150 HP.[END]
+0084-E: 
+0085: A parfait chock-full of sweets.[BREAK]Restores 170 HP.[END]
+0085-E: 
+0086: A hot dog and sushi Chimera.[BREAK]Restores 120 HP.[END]
+0086-E: 
+0087: Brightly shimmering gelatin.[BREAK]Restores 20 PP.[END]
+0087-E: 
+0088: A strangely captivating tart.[BREAK]Restores 30 PP.[END]
+0088-E: 
+0089: Pudding that wobbles on its own.[BREAK]Restores 40 PP.[END]
+0089-E: 
+008A: A cake that shines with pale pink color.[BREAK]Restores 50 PP.[END]
+008A-E: 
+008B: If you're poisoned ([STATUSICON 00 00]), this is for you.[BREAK]Amazingly fast-acting![END]
+008B-E: 
+008C: Just the thing for numbness ([STATUSICON 01 00]).[BREAK]Sour, but it really does the trick![END]
+008C-E: 
+008D: A loud sound blasts away sleepiness ([STATUSICON 02 00]).[BREAK]Wakes any sleepyhead with just one shot![END]
+008D-E: 
+008E: Feeling sick ([STATUSICON 06 00]) and under the weather?[BREAK]This mint's piercing aroma will perk you up.[END]
+008E-E: 
+008F: If you're confused ([STATUSICON 03 00]), one painless whack[BREAK]with this fan will return you to your senses.[END]
+008F-E: 
+0090: Feeling forgetful ([STATUSICON 05 00])? Nothing seems to[BREAK]ring a bell? Then ring this one to remember.[END]
+0090-E: 
+0091: When the tears ([STATUSICON 04 00]) just won't stop,[BREAK]one drop will do the trick.[END]
+0091-E: 
+0092: The best solution for flea ([STATUSICON 07 00]) problems.[BREAK]They're gone before you know it.[END]
+0092-E: 
+0093: Removes all negative status effects,[BREAK]including incapacitation.[END]
+0093-E: 
+0094: Removes all negative status effects and[BREAK]fully heals incapacitation.[END]
+0094-E: 
+0095: An egg with a firm yolk and a thick white.[BREAK]Restores 100 HP.[END]
+0095-E: 
+0096: A throwing weapon made by Wess.[BREAK]Deals lightning damage to all enemies.[END]
+0096-E: 
+0097: Produces a series of explosions.[BREAK]Deals damage to all enemies.[END]
+0097-E: 
+0098: Like a Running Bomb, but with extra bang![BREAK]Deals explosive damage to all enemies.[END]
+0098-E: 
+0099: A missile shaped like a pencil.[BREAK]Deals explosive damage to all enemies.[END]
+0099-E: 
+009A: A ball-shaped explosive projectile.[BREAK]Deals explosive damage to all enemies.[END]
+009A-E: 
+009B: A high-grade version of the Bomb.[BREAK]Deals explosive damage to all enemies.[END]
+009B-E: 
+009C: Reduces all enemies' HP to 1.[BREAK]Don't rely on it, though. It could be a dud.[END]
+009C-E: 
+009D: Covers an enemy in honey, causing a swarm[BREAK]of bees to attack.[END]
+009D-E: 
+009E: Causes an enemy to slip and fall, inflicting[BREAK]damage.[END]
+009E-E: 
+009F: A doorknob from a front door.[END]
+009F-E: 
+00A0: Fast-acting pesticide.[BREAK]Damages insect enemies.[END]
+00A0-E: 
+00A1: The saltwater causes metal to rust.[BREAK]Damages mechanical enemies.[END]
+00A1-E: 
+00A2: Raises the offense of one party member[BREAK]until the end of the battle.[END]
+00A2-E: 
+00A3: Raises the defense of one party member[BREAK]until the end of the battle.[END]
+00A3-E: 
+00A4: A special drug that strengthens one enemy.[BREAK]Also increases the experience points gained.[END]
+00A4-E: 
+00A5: A special drug that weakens one enemy.[BREAK]Also reduces the experience points gained.[END]
+00A5-E: 
+00A6: Causes an enemy to stink, thereby making it[BREAK]the target of everyone's attacks.[END]
+00A6-E: 
+00A7: Tricks an enemy into turning around.[END]
+00A7-E: 
+00A8: With its vibrant black and yellow colors, this[BREAK]dragonfly is the most popular among kids.[END]
+00A8-E: 
+00A9: Children love to chase this dragonfly with[BREAK]the beautiful sky-blue underside.[END]
+00A9-E: 
+00AA: Tiny, yellow, fluffy, and chirpy.[END]
+00AA-E: 
+00AB: A handsome red-crested bird with stylish,[BREAK]erect tailfeathers.[END]
+00AB-E: 
+00AC: A dish of old-fashioned pickled vegetables.[BREAK]Restores 10 HP.[END]
+00AC-E: 
+00AD: A little gift from outer space.[BREAK]Worth a whole lot of money.[END]
+00AD-E: 
+00AE: Offense +30.[BREAK]Speed +5.[END]
+00AE-E: 
+00AF: The relic of a horrible accident. A fang sharp[BREAK]enough to pierce even Drago hide.[END]
+00AF-E: 
+00B0: Dung beetles can't help themselves from[BREAK]rolling this around.[END]
+00B0-E: 
+00B1: A fossilized ossicle of a dolphin.[BREAK]An ossicle is an ear bone.[END]
+00B1-E: 
+00B2: Spiky.[BREAK]Offense +47.[END]
+00B2-E: 
+00B3: Defense +8.[BREAK]Restores some HP every turn.[END]
+00B3-E: 
+00B4: Matching DCMC boxer shorts.[BREAK]Defense +7.[END]
+00B4-E: 
+00B5: Defense +3.[BREAK]Maximum PP +5.[END]
+00B5-E: 
+00B6: No matter how down in the dumps you are,[BREAK]these choice words will lift your mood.[END]
+00B6-E: 
+00B7: A piping-hot baked yam.[BREAK]Restores 40 HP.[END]
+00B7-E: 
+00B8: Leads the way back to the start point if you[BREAK]get lost in the Mole Cricket Hole.[END]
+00B8-E: 
+00B9: The home of a hermit crab.[BREAK]Its shell, in other words.[END]
+00B9-E: 
+00BA: Made by a disgruntled employee. It looks like[BREAK]it could contain something... unpleasant.[END]
+00BA-E: 
+00BB: Defense +15.[BREAK]Strong against fire.[END]
+00BB-E: 
+00BC: Defense +15.[BREAK]Strong against ice.[END]
+00BC-E: 
+00BD: Defense +15.[BREAK]Strong against lightning.[END]
+00BD-E: 
+00BE: The rust and dirt conceals the design[BREAK]underneath. It's incredibly old.[END]
+00BE-E: 
+00BF: A clean, white dress.[BREAK]Defense +13.[END]
+00BF-E: 
+00C0: This machine will eradicate all iron,[BREAK]pencil-shaped figures in just one second.[END]
+00C0-E: 
+00C1: A badge that reflects lightning.[END]
+00C1-E: 
+00C2: A child-sized shirt.[BREAK]Defense +7.[END]
+00C2-E: 
+00C3: Defense +17.[BREAK]IQ +10.[END]
+00C3-E: 
+00C4: A child's hat.[BREAK]Defense +3.[END]
+00C4-E: 
+00C5: Delicious pickles inside an easy-to-drop,[BREAK]easy-to-roll jar.[END]
+00C5-E: 
+00C6: A red hat.[BREAK]Defense +30.[END]
+00C6-E: 
+00C7: A bright white ribbon.[BREAK]Defense +12.[END]
+00C7-E: 
+00C8: A bird that inhabits the Saturn Valley area.[END]
+00C8-E: 
+00C9: A snake that's generally quite good at[BREAK]determining the lengths of things.[END]
+00C9-E: 
+00CA: Time is said to speed up for whatever this[BREAK]water is poured onto.[END]
+00CA-E: 
+00CB: A record of Leder's long and important[BREAK]story, in case you need to hear it again.[END]
+00CB-E: 
+00CC: A notebook containing important[BREAK]information written down by Phrygia.[END]
+00CC-E: 
+00CD: A sticky paper you can use to peel an[BREAK]enemy's shield away.[END]
+00CD-E: 
+00CE: (EMPTY)[END]
+00CE-E: 
+00CF: (EMPTY)[END]
+00CF-E: 
+00D0: (EMPTY)[END]
+00D0-E: 
+00D1: (EMPTY)[END]
+00D1-E: 
+00D2: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
+00D2-E: 
+00D3: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
+00D3-E: 
+00D4: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
+00D4-E: 
+00D5: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
+00D5-E: 
+00D6: Stick these in a wall for a quick ladder.[BREAK]Use in battle to briefly pin an enemy down.[END]
+00D6-E: 
+00D7: A beetle that makes a shrill noise.[BREAK]Causes an enemy to stop and cover its ears.[END]
+00D7-E: 
+00D8: Explodes into an acrid smoke, bringing an[BREAK]enemy to tears.[END]
+00D8-E: 
+00D9: Sway it in front of an enemy to lull it into a[BREAK]deep sleep.[END]
+00D9-E: 
+00DA: Scares an enemy, lowering its offense.[END]
+00DA-E: 
+00DB: Tickles an enemy, lowering its defense.[END]
+00DB-E: 
+00DC: Nippolyte's key for lowering Osohe Castle's[BREAK]drawbridge.[END]
+00DC-E: 
+00DD: A mysterious spittoon from Osohe Castle.[END]
+00DD-E: 
+00DE: A pendant dropped by a girl seen inside[BREAK]Osohe Castle.[END]
+00DE-E: 
+00DF: This is said to have the power to create or[BREAK]destroy an entire world.[END]
+00DF-E: 
+00E0: A familiar scrap of red cloth.[BREAK]It was stuck in a tree on top of a cliff.[END]
+00E0-E: 
+00E1: A notebook with a pig-like symbol on it.[BREAK]The handwriting inside is terrible.[END]
+00E1-E: 
+00E2: A small, familiar-looking shoe.[BREAK]Its counterpart is still missing.[END]
+00E2-E: 
+00E3: A metal file that's bound to break after one[BREAK]more usage.[END]
+00E3-E: 
+00E4: A snake that seems like a good replacement[BREAK]for a rope.[END]
+00E4-E: 
+00E5: A snake that can also act as a rope.[BREAK]Red Rope Snakes are valuable.[END]
+00E5-E: 
+00E6: A high-powered transceiver left behind by a[BREAK]Pigmask.[END]
+00E6-E: 
+00E7: Tickets to go to Club Titiboo, received after[BREAK]working in the factory.[END]
+00E7-E: 
+00E8: A list of all monsters encountered so far.[BREAK]Lets you relive memories of past battles.[END]
+00E8-E: 
+00E9: A messenger pigeon noted for its skill and[BREAK]work ethic.[END]
+00E9-E: 
+00EA: Probably a memento of the Magypsy Locria.[BREAK]A razor and lipstick.[END]
+00EA-E: 
+00EB: Ionia's memento, a razor and lipstick.[END]
+00EB-E: 
+00EC: Doria's memento, a razor and lipstick.[END]
+00EC-E: 
+00ED: Phrygia's memento, a razor and lipstick.[END]
+00ED-E: 
+00EE: Lydia's memento, a razor and lipstick.[END]
+00EE-E: 
+00EF: Mixolydia's memento, a razor and lipstick.[END]
+00EF-E: 
+00F0: Aeolia's memento, a razor and lipstick.[END]
+00F0-E: 
+00F1: A map of the Tazmily area.[END]
+00F1-E: 
+00F2: A sketched map of Osohe Castle.[END]
+00F2-E: 
+00F3: A sketched map of the Candrum Underpass[BREAK]roads.[END]
+00F3-E: 
+00F4: A map covering the area from Cross Road[BREAK]to the factory.[END]
+00F4-E: 
+00F5: A map of the Murasaki Forest.[END]
+00F5-E: 
+00F6: A sketched map of Club Titiboo's attic.[END]
+00F6-E: 
+00F7: A map of Saturn Valley.[END]
+00F7-E: 
+00F8: A map of the Sea Floor Dungeon.[END]
+00F8-E: 
+00F9: A map of the Outland Dungeon.[END]
+00F9-E: 
+00FA: A map of New Pork City.[END]
+00FA-E: 
+00FB: A sketched map of Thunder Tower.[END]
+00FB-E: 
+00FC: A sketched map of the Chimera Laboratory.[END]
+00FC-E: 
+00FD: A map of the Mole Cricket Hole.[END]
+00FD-E: 
+00FE: A map of the highway.[END]
+00FE-E: 
+00FF: A sketched map of the factory.[END]
+00FF-E: 

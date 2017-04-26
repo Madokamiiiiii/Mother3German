@@ -1,0 +1,514 @@
+// Item names must be 21 letters or less
+
+0000: EMPTY
+0000-E: EMPTY
+0001: Lighter's Lumber
+0001-E: Lighter's Holz
+0002: Fresh Lumber
+0002-E: Frisches Holz
+0003: Stick
+0003-E: Stock
+0004: Better Stick
+0004-E: Besserer Stock
+0005: Easy-Grip Stick
+0005-E: Handlicher Stock
+0006: Good Stick
+0006-E: Guter Stock
+0007: Very Good Stick
+0007-E: Sehr Guter Stock
+0008: Funny Stick
+0008-E: Komischer Stock
+0009: Vigor Stick
+0009-E: Kräftiger Stock
+000A: Clever Stick
+000A-E: Cleverer Stock
+000B: Master Stick
+000B-E: Meister-Stock
+000C: Mystical Stick
+000C-E: Mystischer Stock
+000D: Gloves
+000D-E: Handschuhe
+000E: Durable Gloves
+000E-E: Haltbare Handschuhe
+000F: Chic Gloves
+000F-E: Schicke Handschuhe
+0010: Strong Gloves
+0010-E: Starke Handschuhe
+0011: Magic Gloves
+0011-E: Magische Handschuhe
+0012: Sevolg
+0012-E: Sevolg
+0013: Expensive Gloves
+0013-E: Teure Handschuhe
+0014: Angel Gloves
+0014-E: Engels-Handschuhe
+0015: Mystical Gloves
+0015-E: Mystische Handschuhe
+0016: Ordinary Shoes
+0016-E: Gewöhnliche Schuhe
+0017: Durable Shoes
+0017-E: Haltbare Schuhe
+0018: Sharp Shoes
+0018-E: Spitze Schuhe
+0019: Ultimate Shoes
+0019-E: Ultimative Schuhe
+001A: Mystical Shoes
+001A-E: Mystische Schuhe
+001B: Good Shoes
+001B-E: Gute Schuhe
+001C: Rubber Boots
+001C-E: Gummistiefel
+001D: Barefoot Shoes
+001D-E: Barfuß-Schuhe
+001E: Non-Slip Shoes
+001E-E: Antirutsch-Schuhe
+001F: Handy Yo-Yo
+001F-E: Handlicher Jo-Jo
+0020: Canine Weapon
+0020-E: 
+0021: DCMC Pamphlet
+0021-E: DCMC Broschüre
+0022: Fake Bat
+0022-E: Fake-Schläger
+0023: Fake Frying Pan
+0023-E: Fake-Bratpfanne
+0024: Real Bat
+0024-E: Echter Schläger
+0025: Mini-Mini Charm
+0025-E: Mini-Mini Amulett
+0026: Flea Charm
+0026-E: Floh-Amulett
+0027: Mosquito Charm
+0027-E: Mosquito-Amulett
+0028: Fly Charm
+0028-E: Flug-Amulett
+0029: Bantam Charm
+0029-E: Bantam-Amulett
+002A: Feather Charm
+002A-E: Feder-Amulett
+002B: Pumice Charm
+002B-E: Bims-Amulett
+002C: Heavy Charm
+002C-E: Schweres Amulett
+002D: Thud Charm
+002D-E: Dumpfes Amulett
+002E: White Collar
+002E-E: Weisses Halsband
+002F: Brown Collar
+002F-E: Braunes Halsband
+0030: Black Collar
+0030-E: Schwarzes Halsband
+0031: Striped Collar
+0031-E: Gestreiftes Halsband
+0032: Red Collar
+0032-E: Rotes Halsband
+0033: DCMC Shirt
+0033-E: DCMC Fanshirt
+0034: Rubber Cape
+0034-E: Gummi-Mantel
+0035: Aloha Coat
+0035-E: Aloha-Mantel
+0036: Warm Sweater
+0036-E: Warmer Pullover
+0037: Goddess Bustier
+0037-E: Göttinen-BH
+0038: Awesome Cloak
+0038-E: Fantastischer Mantel
+0039: Manly Bandana
+0039-E: Mänliches Bandana
+003A: Chick Bandana
+003A-E: Schickes Bandana
+003B: Sparrow Bandana
+003B-E: Spatzen-Bandana
+003C: Rail Bandana
+003C-E: Schienen-Bandana
+003D: Swallow Bandana
+003D-E: Schwalben-Bandana
+003E: Crow Bandana
+003E-E: Krähen-Bandana
+003F: Kite Bandana
+003F-E: Kite-Bandana
+0040: Horus Bandana
+0040-E: Horus-Bandana
+0041: Ordinary Hat
+0041-E: Gewöhnlicher Hut
+0042: Cow Hat
+0042-E: Kuh-Hut
+0043: Alligator Hat
+0043-E: Alligator-Hut
+0044: Bear Hat
+0044-E: Bären-Hut
+0045: Otter Hat
+0045-E: Otter-Hut
+0046: Scarlet Ribbon
+0046-E: Purpurne Schleife
+0047: Azure Ribbon
+0047-E: Himmelblaue Schleife
+0048: Boing Ribbon
+0048-E: Boing-Schleife
+0049: Fairy Ribbon
+0049-E: Feen-Schleife
+004A: Angel Ribbon
+004A-E: Engelsschleife
+004B: Goddess Ribbon
+004B-E: Göttinnenschleife
+004C: DCMC Hat
+004C-E: DCMC Hut
+004D: Awesome Crown
+004D-E: Fantastische Krone
+004E: Aries Bracelet
+004E-E: Widder-Armreif
+004F: Aquarius Bracelet
+004F-E: Wassermann-Armreif
+0050: Pisces Bracelet
+0050-E: Fische-Armreif
+0051: Capricorn Bracelet
+0051-E: Steinbock-Armreif
+0052: Taurus Bracelet
+0052-E: Stier-Armreif
+0053: Gemini Bracelet
+0053-E: Zwillinge-Armreif
+0054: Cancer Bracelet
+0054-E: Krebs-Armreif
+0055: Leo Bracelet
+0055-E: Löwe-Armreif
+0056: Virgo Bracelet
+0056-E: Jungfrau-Armreif
+0057: Libra Bracelet
+0057-E: Waage-Armreif
+0058: Scorpio Bracelet
+0058-E: Skorpion-Armreif
+0059: Sagittarius Bracelet
+0059-E: Schütze-Armreif
+005A: DCMC Ring
+005A-E: DCMC-Ring
+005B: Awesome Ring
+005B-E: Fantastischer Ring
+005C: Favorite Food
+005C-E: Lieblingsessen
+005D: Nut
+005D-E: Nuss
+005E: Nut Bread
+005E-E: Nussbrot
+005F: Nut Cookie
+005F-E: Nuss-Keks
+0060: Fresh Milk
+0060-E: Frische Milch
+0061: Rotten Milk
+0061-E: Verdorbene Milch
+0062: Yogurt
+0062-E: Yoghurt
+0063: Edible Mushroom
+0063-E: Essbarer Pilz
+0064: Innit Tea
+0064-E: Innit-Tee
+0065: Beef Jerky
+0065-E: Dörrfleisch
+0066: Fresh Egg
+0066-E: Frisches Ei
+0067: Rotten Eclair
+0067-E: Verdorbenes Eclair
+0068: Rotten Bavarois
+0068-E: Verdorbene Creme
+0069: Peculiar Cheese
+0069-E: Merkwürdiger Käse
+006A: Bag of Pork Chips
+006A-E: Tüte Schweine-Chips
+006B: Luxury Banana
+006B-E: Luxuriöse Banane
+006C: Bread Roll
+006C-E: Brötchen
+006D: Fizzy Soda
+006D-E: Spritzige Limonade
+006E: Big City Soda
+006E-E: Großstadt-Limonade
+006F: Big City Cola
+006F-E: Großstadt-Cola
+0070: Big City Burger
+0070-E: Großstadt-Burger
+0071: Bag of Big City Fries
+0071-E: Großstadt-Pommes
+0072: Doggy Biscuit
+0072-E: Hundekuchen
+0073: Doggy Jerky
+0073-E: Hunde-Dörrfleisch
+0074: White Croissant
+0074-E: Weißer Croissant
+0075: Cup of Pork Noodles
+0075-E: Napf Schweine-Nudeln
+0076: Pork Stew
+0076-E: Schweine-Suppe
+0077: Sincerity Dumplings
+0077-E: Aufrichtigkeits-Klöße
+0078: Strawberry Tofu
+0078-E: Erdbeer-Tofu
+0079: Lucky Rice
+0079-E: 
+007A: Lotto Meal
+007A-E: 
+007B: Jumbo Shrimp Soup
+007B-E: 
+007C: Giant Abalone Steak
+007C-E: 
+007D: Double Jerky
+007D-E: 
+007E: Grilled Chicken
+007E-E: 
+007F: Grilled Fish
+007F-E: 
+0080: Pasta with a Past
+0080-E: 
+0081: Favorite Pizza
+0081-E: 
+0082: King Burger
+0082-E: 
+0083: Beefsteak
+0083-E: 
+0084: Rich Kid Stew
+0084-E: 
+0085: Rich Parfait
+0085-E: 
+0086: Hot Dog Sushi
+0086-E: 
+0087: Magic Gelatin
+0087-E: 
+0088: Magic Tart
+0088-E: 
+0089: Magic Pudding
+0089-E: 
+008A: Magic Cake
+008A-E: 
+008B: Antidote
+008B-E: 
+008C: Anti-Paralysis
+008C-E: 
+008D: Alarm Cicada
+008D-E: 
+008E: Fresh Mint
+008E-E: 
+008F: Paper Fan
+008F-E: 
+0090: Recollection Bell
+0090-E: 
+0091: Eye Drops
+0091-E: 
+0092: Flea Powder
+0092-E: 
+0093: Secret Herb
+0093-E: 
+0094: Cup of Lifenoodles
+0094-E: 
+0095: Hot Spring Egg
+0095-E: 
+0096: Thunder Bomb
+0096-E: 
+0097: Running Bomb
+0097-E: 
+0098: Sprinting Bomb
+0098-E: 
+0099: Pencil Rocket
+0099-E: 
+009A: Bomb
+009A-E: 
+009B: Super Bomb
+009B-E: 
+009C: New Year's Eve Bomb
+009C-E: 
+009D: Honey Shower
+009D-E: 
+009E: Ancient Banana
+009E-E: 
+009F: Doorknob
+009F-E: 
+00A0: Bug Spray
+00A0-E: 
+00A1: Saltwater Gun
+00A1-E: 
+00A2: Offense Spray
+00A2-E: 
+00A3: Defense Spray
+00A3-E: 
+00A4: Enemy Bufferizer
+00A4-E: 
+00A5: Enemy Wimperizer
+00A5-E: 
+00A6: Attack Attractor
+00A6-E: 
+00A7: Made-You-Look
+00A7-E: 
+00A8: Dragonfly
+00A8-E: 
+00A9: Silver Dragonfly
+00A9-E: 
+00AA: Chick
+00AA-E: 
+00AB: Chicken
+00AB-E: 
+00AC: Pickled Veggie Plate
+00AC-E: 
+00AD: Meteotite
+00AD-E: 
+00AE: Friend's Yo-Yo
+00AE-E: 
+00AF: Drago Fang
+00AF-E: 
+00B0: Dung
+00B0-E: 
+00B1: Dolphin Ossicle
+00B1-E: 
+00B2: Spiky Weapon
+00B2-E: 
+00B3: Knit Sweater
+00B3-E: 
+00B4: DCMC Boxers
+00B4-E: 
+00B5: Magic Pendant
+00B5-E: 
+00B6: Encouraging Words
+00B6-E: 
+00B7: Baked Yam
+00B7-E: 
+00B8: Mole Cricket Brother
+00B8-E: 
+00B9: Hermit Crab Shell
+00B9-E: 
+00BA: Suspicious Tea
+00BA-E: 
+00BB: Flame Pendant
+00BB-E: 
+00BC: Ice Pendant
+00BC-E: 
+00BD: Thunder Pendant
+00BD-E: 
+00BE: Courage Badge
+00BE-E: 
+00BF: Souvenir Dress
+00BF-E: 
+00C0: Pencil Eraser
+00C0-E: 
+00C1: Franklin Badge
+00C1-E: 
+00C2: Kid's Shirt
+00C2-E: 
+00C3: Good Kid's Shirt
+00C3-E: 
+00C4: Kid's Hat
+00C4-E: 
+00C5: Jar of Yummy Pickles
+00C5-E: 
+00C6: Red Hat
+00C6-E: 
+00C7: White Ribbon
+00C7-E: 
+00C8: Bird
+00C8-E: 
+00C9: Memory Snake
+00C9-E: 
+00CA: Waters of Time
+00CA-E: 
+00CB: Stinkbug's Memory
+00CB-E: 
+00CC: Phrygia's Notebook
+00CC-E: 
+00CD: Shield Snatcher
+00CD-E: 
+00CE: Test
+00CE-E: 
+00CF: EMPTY
+00CF-E: 
+00D0: EMPTY
+00D0-E: 
+00D1: EMPTY
+00D1-E: 
+00D2: Trivia Card 1
+00D2-E: 
+00D3: Trivia Card 2
+00D3-E: 
+00D4: Trivia Card 3
+00D4-E: 
+00D5: Trivia Card 4
+00D5-E: 
+00D6: Wall Staples
+00D6-E: 
+00D7: Siren Beetle
+00D7-E: 
+00D8: Smoke Bomb
+00D8-E: 
+00D9: Hypno-Pendulum
+00D9-E: 
+00DA: Scary Mask
+00DA-E: 
+00DB: Tickle Stick
+00DB-E: 
+00DC: Drawbridge Key
+00DC-E: 
+00DD: Noble Spittoon
+00DD-E: 
+00DE: Pendant
+00DE-E: 
+00DF: Egg of Light
+00DF-E: 
+00E0: Scrap of Cloth
+00E0-E: 
+00E1: Pig Mark Notebook
+00E1-E: 
+00E2: Child's Shoe
+00E2-E: 
+00E3: Hand File
+00E3-E: 
+00E4: Rope Snake
+00E4-E: 
+00E5: Rope Snake DX
+00E5-E: 
+00E6: Transceiver
+00E6-E: 
+00E7: Ticket
+00E7-E: 
+00E8: Battle Memory
+00E8-E: 
+00E9: Carrier Pigeon
+00E9-E: 
+00EA: Razor and Lipstick
+00EA-E: 
+00EB: Ionia's Memento
+00EB-E: 
+00EC: Doria's Memento
+00EC-E: 
+00ED: Phrygia's Memento
+00ED-E: 
+00EE: Lydia's Memento
+00EE-E: 
+00EF: Missy's Memento
+00EF-E: 
+00F0: Aeolia's Memento
+00F0-E: 
+00F1: Tazmily Map
+00F1-E: 
+00F2: Osohe Sketch
+00F2-E: 
+00F3: Underground Map
+00F3-E: 
+00F4: Railway Map
+00F4-E: 
+00F5: Area Map
+00F5-E: 
+00F6: Attic Guide
+00F6-E: 
+00F7: Saturn Valley Map
+00F7-E: 
+00F8: Sea Floor Map
+00F8-E: 
+00F9: Cave Map
+00F9-E: 
+00FA: City Map
+00FA-E: 
+00FB: Tower Sketch
+00FB-E: 
+00FC: Chimera Lab Map
+00FC-E: 
+00FD: Cricket Hole Map
+00FD-E: 
+00FE: Highway Map
+00FE-E: 
+00FF: Factory Sketch
+00FF-E: 

@@ -1,0 +1,1974 @@
+// (EMPTY)
+-
+-
+-
+-
+-
+// Umgebautes Rentier
+Ein 
+ein 
+Der 
+der 
+sein 
+// Hr. Lust
+- 
+- 
+-
+-
+sein 
+// Ach-So-Schlange
+Der 
+der 
+Der 
+der 
+sein 
+// Clayman
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mecha Drago
+Der 
+der 
+Der 
+der 
+sein 
+// Schweinetank
+Ein 
+ein 
+Der 
+der 
+sein 
+// Hr. Genetor
+-
+-
+-
+-
+sein 
+// Maulwurfsgrille
+Der 
+der 
+Der 
+der 
+sein 
+// Gruseliger Schleim
+Einn 
+an 
+Der 
+der 
+sein 
+// Heller Schleim
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pokey
+-
+-
+-
+-
+sein 
+// N.K. Cyborg
+Der 
+der 
+Der 
+der 
+sein 
+// Maskierter Mann
+Der 
+der 
+Der 
+der 
+sein 
+// Wütender Schweinsoldat
+Der 
+der 
+Der 
+der 
+sein 
+// Wütender Schweinsoldat
+Der 
+der 
+Der 
+der 
+sein 
+// Eifersüchtiger Bass
+Der 
+der 
+Der 
+der 
+sein 
+//  Pokey
+-
+-
+-
+-
+sein 
+// Klebriger Schleim
+Ein 
+ein 
+Der 
+der 
+sein 
+// POKEY 02
+-
+-
+-
+-
+sein 
+// Königsstatue
+Der 
+der 
+Der 
+der 
+sein 
+// Nilpferdwerfer
+Ein 
+ein 
+Der 
+der 
+sein 
+// Neuer Fassad
+-
+-
+-
+-
+sein 
+// Gruseliger Schleim
+Ein 
+ein 
+Der 
+der 
+sein 
+// Lustlord
+-
+-
+-
+-
+sein 
+// Liebevoller Baum
+Ein 
+ein 
+Der 
+der 
+sein 
+// POKEY 03
+-
+-
+-
+-
+sein 
+// POKEY 08
+-
+-
+-
+-
+sein 
+// Wunder-Fassad
+-
+-
+-
+-
+sein 
+// Major Schweinemaske
+Ein 
+ein 
+Der 
+der 
+sein 
+// Große Ameisenlöwe
+Ein 
+ein 
+Der 
+der 
+sein 
+// Fenomeno
+Ein 
+ein 
+Der 
+der 
+sein 
+// Rhinocerocket Mark II
+Ein 
+ein 
+Der 
+der 
+sein 
+// Gefrierbot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Die Squeekz
+-
+-
+-
+-
+sein 
+// Pyrofliege
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mecha-Löwe
+Ein 
+ein 
+Der 
+der 
+sein 
+// Straßenabsperrung
+Ein 
+ein 
+Der 
+der 
+sein 
+// Hüpfender Pilz
+Ein 
+ein 
+Der 
+der 
+sein 
+// Sinister Bird on ein Stick
+Ein 
+ein 
+Der 
+der 
+sein 
+// Top Hundefisch
+Ein 
+ein 
+Der 
+der 
+sein 
+// Hr. Fledermausi
+-
+-
+-
+-
+sein 
+// Geizige Maus
+Ein 
+ein 
+Der 
+der 
+sein 
+// Feuerfliege
+Ein 
+ein 
+Der 
+der 
+sein 
+// Yammonster
+Ein 
+ein 
+Der 
+der 
+sein 
+// Fliegende Maus
+Ein 
+ein 
+Der 
+der 
+sein 
+// POKEY 01
+-
+-
+-
+-
+sein 
+// Aufgewühltes Wildschwein
+Ein 
+an 
+Der 
+der 
+sein 
+// Äußerst bissige Schlange
+Ein 
+ein 
+Der 
+der 
+sein 
+// Rußknödel
+Ein 
+ein 
+Der 
+der 
+sein 
+// Baked Yammonster
+Ein 
+ein 
+Der 
+der 
+sein 
+// Walking Bushie
+Ein 
+ein 
+Der 
+der 
+sein 
+// Carefree Jellyfish
+Ein 
+ein 
+Der 
+der 
+sein 
+// Metal Monkey
+Ein 
+ein 
+Der 
+der 
+sein 
+// Crag Lizard
+Ein 
+ein 
+Der 
+der 
+sein 
+// Spud Bug
+Ein 
+ein 
+Der 
+der 
+sein 
+// Ten-Yeti
+Ein 
+ein 
+Der 
+der 
+sein 
+// Chilly Dog
+Ein 
+ein 
+Der 
+der 
+sein 
+// Slimy Slug
+Ein 
+ein 
+Der 
+der 
+sein 
+// Minerali
+Ein 
+ein 
+Der 
+der 
+sein 
+// Ramblin' Mushroom
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mole Cricket
+Der 
+der 
+Der 
+der 
+sein 
+// Boa Transistor
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mischievous Mole
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mecha-Mole!
+Ein 
+ein 
+Der 
+der 
+sein 
+// Balding Eagle
+Ein 
+ein 
+Der 
+der 
+sein 
+// Tree
+Ein 
+ein 
+Der 
+der 
+sein 
+// Titany
+Ein 
+ein 
+Der 
+der 
+sein 
+// Frosted Bun
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mrs. Lava
+-
+-
+-
+-
+ihr 
+// Magman
+Ein 
+ein 
+Der 
+der 
+sein 
+// Zombie Man
+Ein 
+ein 
+Der 
+der 
+sein 
+// Zombie Dog
+Ein 
+ein 
+Der 
+der 
+sein 
+// Lingering Spirit
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mobile Grave
+Ein 
+ein 
+Der 
+der 
+sein 
+// Detached Leech
+Ein 
+ein 
+Der 
+der 
+sein 
+// Spineless Lobster
+Ein 
+ein 
+Der 
+der 
+sein 
+// HUGE Pillbug
+Ein 
+ein 
+Der 
+der 
+sein 
+// Cheery Skeleton
+Ein 
+ein 
+Der 
+der 
+sein 
+// Big Bro
+Ein 
+ein 
+Der 
+der 
+sein 
+// Barrel Man
+Ein 
+ein 
+Der 
+der 
+sein 
+// Strawberry Slime
+Ein 
+ein 
+Der 
+der 
+sein 
+// Einrachnid!
+Einn 
+an 
+Der 
+der 
+sein 
+// Violent Roach
+Ein 
+ein 
+Der 
+der 
+sein 
+// Barrier Trio
+Der 
+der 
+Der 
+der 
+derir 
+// Ghost Einrmor
+Some 
+some 
+Der 
+der 
+sein 
+// Ghost Sword
+Ein 
+ein 
+Der 
+der 
+sein 
+// Ghost Shield
+Ein 
+ein 
+Der 
+der 
+sein 
+// Ghost Knight
+Ein 
+ein 
+Der 
+der 
+sein 
+// Osohe Cape
+Einn 
+an 
+Der 
+der 
+sein 
+// Rockin' Ghost
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pseudoor
+Ein 
+ein 
+Der 
+der 
+sein 
+// Eerie Smile
+Einn 
+an 
+Der 
+der 
+sein 
+// Dung Beetle
+Ein 
+ein 
+Der 
+der 
+sein 
+// Great Einntlion
+Ein 
+ein 
+Der 
+der 
+sein 
+// Sara-Sara-Sahara
+Ein 
+ein 
+Der 
+der 
+sein 
+// Sand Lizard
+Ein 
+ein 
+Der 
+der 
+sein 
+// Cactus Wolf
+Ein 
+ein 
+Der 
+der 
+sein 
+// Gooey Goo
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mummy Kitty
+Ein 
+ein 
+Der 
+der 
+sein 
+// Li'l Big Bro
+Ein 
+ein 
+Der 
+der 
+sein 
+// Zombieshroom
+Ein 
+ein 
+Der 
+der 
+sein 
+// Stinky Ghost
+Ein 
+ein 
+Der 
+der 
+sein 
+// Einrtsy Ghost
+Der 
+der 
+Der 
+der 
+sein 
+// Horsantula
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pigtunia
+Ein 
+ein 
+Der 
+der 
+sein 
+// Bird on ein Stick
+Ein 
+ein 
+Der 
+der 
+sein 
+// Putrid Moldyman
+Ein 
+ein 
+Der 
+der 
+sein 
+// Sliderrhen
+Ein 
+ein 
+Der 
+der 
+sein 
+// Whatever
+Ein 
+ein 
+Der 
+der 
+sein 
+// Dogfish
+Ein 
+ein 
+Der 
+der 
+sein 
+// Cattlesnake
+Ein 
+ein 
+Der 
+der 
+sein 
+// Einswine
+Einn 
+an 
+Der 
+der 
+sein 
+// Praying Mantis
+Ein 
+ein 
+Der 
+der 
+sein 
+// Einncient Dragonfly
+Einn 
+an 
+Der 
+der 
+sein 
+// Filthy Einttack Roach
+Ein 
+ein 
+Der 
+der 
+sein 
+// Muttshroom
+Ein 
+ein 
+Der 
+der 
+sein 
+// Mecha-Turtle
+Ein 
+ein 
+Der 
+der 
+sein 
+// Bro Team
+Ein 
+ein 
+Der 
+der 
+derir 
+// Batangutan
+Ein 
+ein 
+Der 
+der 
+sein 
+// Ostrelephant
+Einn 
+an 
+Der 
+der 
+sein 
+// Sky Titany
+Ein 
+ein 
+Der 
+der 
+sein 
+// Monkalrus
+Ein 
+ein 
+Der 
+der 
+sein 
+// Parental Kangashark
+Ein 
+ein 
+Der 
+der 
+sein 
+// Li'l Miss Marshmallow
+-
+-
+-
+-
+ihr 
+// Einlmost Mecha-Lion
+Einn 
+an 
+Der 
+der 
+sein 
+// Rhinocerocket
+Ein 
+ein 
+Der 
+der 
+sein 
+// Wound-Up Boar
+Ein 
+ein 
+Der 
+der 
+sein 
+// Metal Einttack Roach
+Ein 
+ein 
+Der 
+der 
+sein 
+// Really Flying Mouse
+Ein 
+ein 
+Der 
+der 
+sein 
+// Short Circuit Zap!
+Ein 
+ein 
+Der 
+der 
+sein 
+// Minor Robot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Love Walker
+Ein 
+ein 
+Der 
+der 
+sein 
+// Eerie Smile
+Einn 
+an 
+Der 
+der 
+sein 
+// Eintomic Robot
+Einn 
+an 
+Der 
+der 
+sein 
+// Nuclear Robot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Negative Man
+-
+-
+-
+-
+sein 
+// Heftyhead
+Ein 
+ein 
+Der 
+der 
+sein 
+// Nice Poser
+Ein 
+ein 
+Der 
+der 
+sein 
+// Big Spud Bug
+Ein 
+ein 
+Der 
+der 
+sein 
+// Grated Yammonster
+Ein 
+ein 
+Der 
+der 
+sein 
+// Hippo Launcher
+Ein 
+ein 
+Der 
+der 
+sein 
+// Steel Mechorilla
+Der 
+der 
+Der 
+der 
+sein 
+// Zombidillo
+Ein 
+ein 
+Der 
+der 
+sein 
+// Fish Roe Man
+Ein 
+ein 
+Der 
+der 
+sein 
+// PORKY 07
+-
+-
+-
+-
+sein 
+// Return of Octobot
+-
+-
+Der 
+der 
+sein 
+// Carpet Monster
+Ein 
+ein 
+Der 
+der 
+sein 
+// Recon Mech
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pigmask
+Ein 
+ein 
+Der 
+der 
+sein 
+// Zombie Lady
+Ein 
+ein 
+Der 
+der 
+ihr 
+// Naughty Mushroom
+Ein 
+ein 
+Der 
+der 
+sein 
+// Elder Batty
+Einn 
+an 
+Der 
+der 
+sein 
+// Einrachnid!!!!
+Einn 
+an 
+Der 
+der 
+sein 
+// Greedier Mouse
+Ein 
+ein 
+Der 
+der 
+sein 
+// Gently Weeping Guitar
+Ein 
+ein 
+Der 
+der 
+sein 
+// Beaten Drum
+Der 
+der 
+Der 
+der 
+sein 
+// Reconstructed Mole
+Ein 
+ein 
+Der 
+der 
+sein 
+// Reconstructed Lion
+Ein 
+ein 
+Der 
+der 
+sein 
+// Wobbly Robot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Men's Room Sign
+Ein 
+ein 
+Der 
+der 
+sein 
+// Scrapped Robot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Forlorn Junk Heap
+Der 
+der 
+Der 
+der 
+sein 
+// Surprise Box
+Der 
+der 
+Der 
+der 
+sein 
+// Battery Man
+Ein 
+ein 
+Der 
+der 
+sein 
+// Screwloose
+Ein 
+ein 
+Der 
+der 
+sein 
+// Cuddle Bomb
+Ein 
+ein 
+Der 
+der 
+sein 
+// K9000
+Ein 
+ein 
+Der 
+der 
+sein 
+// Einlkaline Man
+Einn 
+an 
+Der 
+der 
+sein 
+// PORKY 06
+-
+-
+-
+-
+sein 
+// Pigmask Major
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pigmask Colonel
+Ein 
+ein 
+Der 
+der 
+sein 
+// Pigmask Lieutenant
+Ein 
+ein 
+Der 
+der 
+sein 
+// Navy SQUEEinL
+Ein 
+ein 
+Der 
+der 
+sein 
+// Master Eddy
+-
+-
+-
+-
+sein 
+// Rock Lobster
+Ein 
+ein 
+Der 
+der 
+sein 
+// Rooound Fish
+Ein 
+ein 
+Der 
+der 
+sein 
+// Blue Balding Eagle
+Ein 
+ein 
+Der 
+der 
+sein 
+// Security Robot
+Ein 
+ein 
+Der 
+der 
+sein 
+// Unwelcome Gust
+Einn 
+an 
+Der 
+der 
+sein 
+// PORKY 09
+-
+-
+-
+-
+sein 
+// PORKY 10
+-
+-
+-
+-
+sein 
+// Titanian
+Ein 
+ein 
+Der 
+der 
+sein 
+// Upgraded Robot
+Einn 
+an 
+Der 
+der 
+sein 
+// Beanling
+Ein 
+ein 
+Der 
+der 
+sein 
+// Black Beanling
+Ein 
+ein 
+Der 
+der 
+sein 
+// Tiny Forest
+Ein 
+ein 
+Der 
+der 
+sein 
+// PORKY 04
+-
+-
+-
+-
+sein 
+// PORKY 05
+-
+-
+-
+-
+sein 
+// Masked Man
+Der 
+der 
+Der 
+der 
+sein 
+// Masked Man
+Der 
+der 
+Der 
+der 
+sein 
+// (EMPTY)
+-
+-
+-
+-
+-
+// Pick
+-
+-
+-
+-
+-
+// Einntlion
+-
+-
+-
+-
+-
+// Pigmask Trooper
+-
+-
+-
+-
+-
+// Crab
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+// Shimmy Zmizz
+-
+-
+-
+-
+-
+// Magic
+-
+-
+-
+-
+-
+// Duster
+-
+-
+-
+-
+-
+// Keyboard
+-
+-
+-
+-
+-
+// OJ
+-
+-
+-
+-
+-
+// Robot
+-
+-
+-
+-
+-
+// Dung Beetle
+-
+-
+-
+-
+-
+// Tent Person
+-
+-
+-
+-
+-
+// Snow Hare
+-
+-
+-
+-
+-
+// Clayman
+-
+-
+-
+-
+-
+// Vapor
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Eineolia's Table
+-
+-
+-
+-
+-
+// Straw
+-
+-
+-
+-
+-
+// Vapor 2
+-
+-
+-
+-
+-
+// Mini Elevator
+-
+-
+-
+-
+-
+// Drago
+-
+-
+-
+-
+-
+// Pigmask Trooper
+-
+-
+-
+-
+-
+// Green Train
+-
+-
+-
+-
+-
+// Pump Drago
+-
+-
+-
+-
+-
+// Three Einmigos
+-
+-
+-
+-
+-
+// Flower
+-
+-
+-
+-
+-
+// Rope Ladder
+-
+-
+-
+-
+-
+// Flame 3
+-
+-
+-
+-
+-
+// Flag
+-
+-
+-
+-
+-
+// Ropeway
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Piece
+-
+-
+-
+-
+-
+// Flame 1
+-
+-
+-
+-
+-
+// Lotus Root
+-
+-
+-
+-
+-
+// Unworked Clay
+-
+-
+-
+-
+-
+// Explosion
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Statue Head
+-
+-
+-
+-
+-
+// Carousel
+-
+-
+-
+-
+-
+// Nippo's Dresser
+-
+-
+-
+-
+-
+// Firefly Swarm
+-
+-
+-
+-
+-
+// Hinawa's Cloth
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+// Broom
+-
+-
+-
+-
+-
+// Fish
+-
+-
+-
+-
+-
+// Sea Urchin
+-
+-
+-
+-
+-
+// Train
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Portrait
+-
+-
+-
+-
+-
+// Nice Ghost
+-
+-
+-
+-
+-
+// Trash Can
+-
+-
+-
+-
+-
+// Steel Ball
+-
+-
+-
+-
+-
+// Egg of Light
+-
+-
+-
+-
+-
+// Chestnut
+-
+-
+-
+-
+-
+// Rockin' Ghost
+-
+-
+-
+-
+-
+// Candle
+-
+-
+-
+-
+-
+// Mouse
+-
+-
+-
+-
+-
+// Energy Machine
+-
+-
+-
+-
+-
+// Light Blade
+-
+-
+-
+-
+-
+// Wine Glass
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Stinkbug
+-
+-
+-
+-
+-
+// Garbage Truck
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+// Doria
+-
+-
+-
+-
+-
+// Magnifier
+-
+-
+-
+-
+-
+// Text Balloon
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// NO Stone
+-
+-
+-
+-
+-
+// Kumatora
+-
+-
+-
+-
+-
+// Stone Fragment
+-
+-
+-
+-
+-
+// That Car
+-
+-
+-
+-
+-
+// Black Drago
+-
+-
+-
+-
+-
+// Mole Cricket
+-
+-
+-
+-
+-
+// Lightning
+-
+-
+-
+-
+-
+// Moderrship
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Lydia
+-
+-
+-
+-
+-
+// Mixolydia
+-
+-
+-
+-
+-
+// Hinawa
+-
+-
+-
+-
+-
+// Frozen Drago
+-
+-
+-
+-
+-
+// Porky
+-
+-
+-
+-
+-
+// Thunder
+-
+-
+-
+-
+-
+// Child Mouse
+-
+-
+-
+-
+-
+// Dr. Einndonuts
+-
+-
+-
+-
+-
+// Osohe Castle
+-
+-
+-
+-
+-
+// Moderrship
+-
+-
+-
+-
+-
+// Volcano
+-
+-
+-
+-
+-
+// Explosion FX
+-
+-
+-
+-
+-
+// Caption
+-
+-
+-
+-
+-
+// Distant Moderrship
+-
+-
+-
+-
+-
+// Tiles
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Water Column
+-
+-
+-
+-
+-
+// Distant Moderrship
+-
+-
+-
+-
+-
+// NO Rock Smoke
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Sapling
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Grave
+-
+-
+-
+-
+-
+// Phrygia
+-
+-
+-
+-
+-
+// Cube
+-
+-
+-
+-
+-
+// Iron Octopus
+-
+-
+-
+-
+-
+// Caribou
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+// Dryer Drago Wind
+-
+-
+-
+-
+-
+// Mushroom
+-
+-
+-
+-
+-
+// Bridge
+-
+-
+-
+-
+-
+// Halluc. Blue Tent
+-
+-
+-
+-
+-
+// Wooden Table Horse 1
+-
+-
+-
+-
+-
+// Wooden Table Horse 2
+-
+-
+-
+-
+-
+// Wooden Table Horse 3
+-
+-
+-
+-
+-
+// Boat on Mind's 100F
+-
+-
+-
+-
+-
+// Mini Porkybot
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// Unicycle
+-
+-
+-
+-
+-
+// Game Balloon
+-
+-
+-
+-
+-
+// Octopus Ink
+-
+-
+-
+-
+-
+// Dragon Fireworks
+-
+-
+-
+-
+-
+// Skyrocket
+-
+-
+-
+-
+-
+// Police Car
+-
+-
+-
+-
+-
+// Einutomobile
+-
+-
+-
+-
+-
+// Titiboo Einttic Kotatsu
+-
+-
+-
+-
+-
+// Wooden MOTHER 3 Title
+-
+-
+-
+-
+-
+// Overworld
+-
+-
+-
+-
+-
+// Underworld
+-
+-
+-
+-
+-
+// Mens Room Door
+-
+-
+-
+-
+-
+// Eineolia & Sofa
+-
+-
+-
+-
+-

@@ -1,0 +1,518 @@
+// Music names can be any length, but make sure to check all music names
+// in the Sound Player.
+// Be sure you give room for the 'favorite song' icon!
+
+000: [END]
+000-E: [END]
+001:Let's Begin![END]
+001-E: 
+002:Fun Naming[END]
+002-E: 
+003:Voice 1101[END]
+003-E: 
+004:Welcome![END]
+004-E: 
+005:Alec's Log House[END]
+005-E: 
+006:Mom's Hometown[END]
+006-E: 
+007:Save[END]
+007-E: 
+008:I'm a Mole Cricket![END]
+008-E: 
+009:Enemy Encounter![END]
+009-E: 
+00A:Bothersome Guys[END]
+00A-E: 
+00B:You Won![END]
+00B-E: 
+00C:Stand Up Strong[END]
+00C-E: 
+00D:As You Wish[END]
+00D-E: 
+00E:A Letter to You, Honey[END]
+00E-E: 
+00F:Carrier Pigeon[END]
+00F-E: 
+010:Mysterious Flying Object[END]
+010-E: 
+011:LOG-O-TYPE[END]
+011-E: 
+012:F-F-Fire![END]
+012-E: 
+013:Chapter 1[END]
+013-E: 
+014:Sound of Siren[END]
+014-E: 
+015:Together[END]
+015-E: 
+016:To Sunshine Forest[END]
+016-E: 
+017:Forest Prayer Sanctuary[END]
+017-E: 
+018:Forest of Flames[END]
+018-E: 
+019:The Enemy Attacks![END]
+019-E: 
+01A:Mr. Batty Twist[END]
+01A-E: 
+01B:The Water's Great[END]
+01B-E: 
+01C:Enter the Pigmasks![END]
+01C-E: 
+01D:Dangerous Guys[END]
+01D-E: 
+01E:Troublesome Guys[END]
+01E-E: 
+01F:What?[END]
+01F-E: 
+020:Back Beat Battle[END]
+020-E: 
+021:Gentle Rain[END]
+021-E: 
+022:Homely Yado Inn[END]
+022-E: 
+023:Letter from You, My Sweet[END]
+023-E: 
+024:Hard Rain[END]
+024-E: 
+025:Let's Go Together![END]
+025-E: 
+026:Run, My Dog, Run![END]
+026-E: 
+027:Somewhere, Someday[END]
+027-E: 
+028:Got a...[END]
+028-E: 
+029:Cautiously[END]
+029-E: 
+02A:Mischievous Blues[END]
+02A-E: 
+02B:Tragic Reconstruction[END]
+02B-E: 
+02C:Confusion[END]
+02C-E: 
+02D:MOTHER 3 Love Theme[END]
+02D-E: 
+02E:Sorrowful Tazmily[END]
+02E-E: 
+02F:Lonely Room[END]
+02F-E: 
+030:In the Room[END]
+030-E: 
+031:Going Alone[END]
+031-E: 
+032:Fun Bazaar[END]
+032-E: 
+033:The Bread's Ready![END]
+033-E: 
+034:Beyond the Sunshine Forest[END]
+034-E: 
+035:More Mischievous Blues[END]
+035-E: 
+036:Cumbersome Guys[END]
+036-E: 
+037:Mambo de Battle[END]
+037-E: 
+038:With My Father-in-Law[END]
+038-E: 
+039:Astonishing March[END]
+039-E: 
+03A:Magypsy Party[END]
+03A-E: 
+03B:Much Better![END]
+03B-E: 
+03C:Danger[END]
+03C-E: 
+03D:More Troublesome Guys[END]
+03D-E: 
+03E:Toppling March[END]
+03E-E: 
+03F:Big Enemy Encounter![END]
+03F-E: 
+040:Fight with Mecha-Drago[END]
+040-E: 
+041:Victorious...[END]
+041-E: 
+042:Level Up![END]
+042-E: 
+043:Long Shadow[END]
+043-E: 
+044:Chapter 2[END]
+044-E: 
+045:Passing Down Secrets[END]
+045-E: 
+046:Mind of a Thief[END]
+046-E: 
+047:Suspicious Flying Object[END]
+047-E: 
+048:Huh?[END]
+048-E: 
+049:Zombeat[END]
+049-E: 
+04A:Tough Zombeat[END]
+04A-E: 
+04B:Fate[END]
+04B-E: 
+04C:Accelerondo[END]
+04C-E: 
+04D:More Cumbersome Guys[END]
+04D-E: 
+04E:Osohe Castle[END]
+04E-E: 
+04F:More Dangerous Guys[END]
+04F-E: 
+050:Back Beat Battle - Hard[END]
+050-E: 
+051:And El Mariachi[END]
+051-E: 
+052:Dry Guys[END]
+052-E: 
+053:Etude for Ghosts[END]
+053-E: 
+054:Got Somethin' Good![END]
+054-E: 
+055:Ragtime Osohe[END]
+055-E: 
+056:Mambo de Battle Plus[END]
+056-E: 
+057:Serious[END]
+057-E: 
+058:Unfounded Revenge[END]
+058-E: 
+059:Polterg-g-g-geist[END]
+059-E: 
+05A:Family Matters: 2nd Movement[END]
+05A-E: 
+05B:The Room Too Mysterious[END]
+05B-E: 
+05C:Fanfare of the Noble Spittoon[END]
+05C-E: 
+05D:Morning Already[END]
+05D-E: 
+05E:A Master, a Father, a Thief[END]
+05E-E: 
+05F:Piggy Guys[END]
+05F-E: 
+060:Piggy Something[END]
+060-E: 
+061:Open Sesame Oil![END]
+061-E: 
+062:Open Sesame Tofu![END]
+062-E: 
+063:Learned PSI![END]
+063-E: 
+064:Ode to Ancestors: 8th Movement[END]
+064-E: 
+065:Formidable Foe[END]
+065-E: 
+066:Butch and the Villagers[END]
+066-E: 
+067:Chapter 3[END]
+067-E: 
+068:Monkey's Love Song[END]
+068-E: 
+069:We're Going Together...?[END]
+069-E: 
+06A:Bean Bean Pork Bean[END]
+06A-E: 
+06B:BzZzT! Even In My Dreams![END]
+06B-E: 
+06C:The Peddler's Grand Speech[END]
+06C-E: 
+06D:Monkey's Delivery Service[END]
+06D-E: 
+06E:Dance![END]
+06E-E: 
+06F:What Happened?![END]
+06F-E: 
+070:Laugh! Be Happy![END]
+070-E: 
+071:Formidable Foes[END]
+071-E: 
+072:Audacious March[END]
+072-E: 
+073:Drago!?[END]
+073-E: 
+074:Thanks, Drago![END]
+074-E: 
+075:Something Strange is Going On[END]
+075-E: 
+076:Love Theme (Reprise)[END]
+076-E: 
+077:Chapter 4[END]
+077-E: 
+078:A Railway in Our Village![END]
+078-E: 
+079:Good Morning[END]
+079-E: 
+07A:Reminded[END]
+07A-E: 
+07B:Hotel Yado[END]
+07B-E: 
+07C:My Wonderful Room[END]
+07C-E: 
+07D:Fun Shopping[END]
+07D-E: 
+07E:Happy Town?[END]
+07E-E: 
+07F:A Little Elegy[END]
+07F-E: 
+080:What's Beyond the Tunnel?[END]
+080-E: 
+081:Even Drier Guys[END]
+081-E: 
+082:Murasaki Forest[END]
+082-E: 
+083:Whew, Hauling is Hard Work[END]
+083-E: 
+084:Good Work[END]
+084-E: 
+085:Stringendo[END]
+085-E: 
+086:Ride the Ropeway[END]
+086-E: 
+087:Club Titiboo Theme[END]
+087-E: 
+088:Big Shot's Theme[END]
+088-E: 
+089:Girl's Room[END]
+089-E: 
+08A:Shower Time Ballad[END]
+08A-E: 
+08B:The Attic's a Dungeon?![END]
+08B-E: 
+08C:Intense Guys[END]
+08C-E: 
+08D:A 16-Beat Attack![END]
+08D-E: 
+08E:A Marching Attack![END]
+08E-E: 
+08F:Rock and Roll (Mild)[END]
+08F-E: 
+090:Rock and Roll (Spicy)[END]
+090-E: 
+091:Lucky's Room[END]
+091-E: 
+092:Bon Voyage, Amigo[END]
+092-E: 
+093:What's That?![END]
+093-E: 
+094:Chapter 5[END]
+094-E: 
+095:Oh No![END]
+095-E: 
+096:Dangerous Highway[END]
+096-E: 
+097:Pork Bean Outta Gas[END]
+097-E: 
+098:Parking Area: Dur-T Cafe[END]
+098-E: 
+099:White (Owner's Recommendation)[END]
+099-E: 
+09A:Fairies (Neckbeard's Recommend.)[END]
+09A-E: 
+09B:Resolve (Gum Guy's Recommend.)[END]
+09B-E: 
+09C:Blessing (Skinhead's Recommend.)[END]
+09C-E: 
+09D:Adolescence (Toilet Cow's Rec.)[END]
+09D-E: 
+09E:Wasteful Anthem[END]
+09E-E: 
+09F:His Highness' Playroom[END]
+09F-E: 
+0A0:His Highness' Memory: 2S[END]
+0A0-E: 
+0A1:His Highness' Memory: 2H[END]
+0A1-E: 
+0A2:MROB-6720M[END]
+0A2-E: 
+0A3:GENE163-1425[END]
+0A3-E: 
+0A4:Aria of Unease[END]
+0A4-E: 
+0A5:Chapter 6[END]
+0A5-E: 
+0A6:Sunflowers and Illusions[END]
+0A6-E: 
+0A7:Name These Children[END]
+0A7-E: 
+0A8:Mother?![END]
+0A8-E: 
+0A9:A Tiny, Enormous Miracle[END]
+0A9-E: 
+0AA:Chapter 7[END]
+0AA-E: 
+0AB:Right Left Light Reft[END]
+0AB-E: 
+0AC:Quite the River[END]
+0AC-E: 
+0AD:Magypsy's Home, Sweetie-Pie[END]
+0AD-E: 
+0AE:Magypsy's Gone, Cutie-Pie[END]
+0AE-E: 
+0AF:Razor and Lipstick[END]
+0AF-E: 
+0B0:And Yet, El Mariachi[END]
+0B0-E: 
+0B1:Close Your Eyes, Sugar[END]
+0B1-E: 
+0B2:She Was Like a Sunflower[END]
+0B2-E: 
+0B3:Let's Ride the Train![END]
+0B3-E: 
+0B4:The Green Train's Fun, Too![END]
+0B4-E: 
+0B5:It's Chimera Research[END]
+0B5-E: 
+0B6:Pink Shell[END]
+0B6-E: 
+0B7:Pulling of the Needles[END]
+0B7-E: 
+0B8:More Audacious March[END]
+0B8-E: 
+0B9:Mole Cricket Elder[END]
+0B9-E: 
+0BA:Snowman[END]
+0BA-E: 
+0BB:His Highness' Theme[END]
+0BB-E: 
+0BC:Smashing Song of Praise[END]
+0BC-E: 
+0BD:A Flying Whatchamacallit[END]
+0BD-E: 
+0BE:Mr. What's-His-Nose[END]
+0BE-E: 
+0BF:Mr. Saturn Theme Z[END]
+0BF-E: 
+0C0:Tragic Security[END]
+0C0-E: 
+0C1:Hustle for Pride[END]
+0C1-E: 
+0C2:War of the Words[END]
+0C2-E: 
+0C3:we humming[END]
+0C3-E: 
+0C4:Volcano! Inferno![END]
+0C4-E: 
+0C5:Fassad and Interpreter[END]
+0C5-E: 
+0C6:Coffee Break[END]
+0C6-E: 
+0C7:Got Somethin' Great![END]
+0C7-E: 
+0C8:Beachcombing[END]
+0C8-E: 
+0C9:O2 in Love[END]
+0C9-E: 
+0CA:Tanetane Island[END]
+0CA-E: 
+0CB:Red-Green-Yellow-Yellow[NOTE][END]
+0CB-E: 
+0CC:Is it Just Me Or Are You Gorgeous?[END]
+0CC-E: 
+0CD:Strong One[END]
+0CD-E: 
+0CE:And Then There Were None[END]
+0CE-E: 
+0CF:Is Anyone There?[END]
+0CF-E: 
+0D0:Like Looking for Dropped Pickles[END]
+0D0-E: 
+0D1:Chupichupyoi for World Heritage[END]
+0D1-E: 
+0D2:Who?[END]
+0D2-E: 
+0D3:Strong One (Masked Man)[END]
+0D3-E: 
+0D4:True Welcome![END]
+0D4-E: 
+0D5:Life's an Inner Turn Radius[END]
+0D5-E: 
+0D6:NPC Loves You![END]
+0D6-E: 
+0D7:Chapter 8[END]
+0D7-E: 
+0D8:Isn't This Such a Utopia?![END]
+0D8-E: 
+0D9:Blip-Blip High Score[END]
+0D9-E: 
+0DA:No Eating Crackers in the Cinema[END]
+0DA-E: 
+0DB:Beauty and Tasty[END]
+0DB-E: 
+0DC:New Pork Bossa[END]
+0DC-E: 
+0DD:Absolutely Filthy Apartments[END]
+0DD-E: 
+0DE:Leder's Gymnopedie[END]
+0DE-E: 
+0DF:Afro Bam-Babam[END]
+0DF-E: 
+0E0:Hey, Brother! Gimme an A![END]
+0E0-E: 
+0E1:Theme of DCMC[END]
+0E1-E: 
+0E2:Samba de Cambo[END]
+0E2-E: 
+0E3:Hippos[END]
+0E3-E: 
+0E4:Rain, Followed by a Harem[END]
+0E4-E: 
+0E5:Refreshing Toilets[END]
+0E5-E: 
+0E6:Under Construction...[END]
+0E6-E: 
+0E7:Automated...[END]
+0E7-E: 
+0E8:Even More Intense Guys[END]
+0E8-E: 
+0E9:Mini-Porky's Entrance[END]
+0E9-E: 
+0EA:Try Kind of Hard![END]
+0EA-E: 
+0EB:And... Stop![END]
+0EB-E: 
+0EC:Natural Killer Cyborg[END]
+0EC-E: 
+0ED:Time Passage[END]
+0ED-E: 
+0EE:A Certain Someone's Memories[END]
+0EE-E: 
+0EF:I Am Porky[END]
+0EF-E: 
+0F0:Porky's Porkies[END]
+0F0-E: 
+0F1:Burst-In Rock 'n' Roll[END]
+0F1-E: 
+0F2:Master Porky's Theme[END]
+0F2-E: 
+0F3:Absolutely Safe Capsule[END]
+0F3-E: 
+0F4:Battle Against the Masked Man[END]
+0F4-E: 
+0F5:Memory of Mother[END]
+0F5-E: 
+0F6:It's Over[END]
+0F6-E: 
+0F7:Phantasmagoric[END]
+0F7-E: 
+0F8:Curtain Call[END]
+0F8-E: 
+0F9:16 Melodies (Beginning)[END]
+0F9-E: 
+0FA:Memory of Life[END]
+0FA-E: 
+0FB:[END]
+0FB-E: [END]
+0FC:[END]
+0FC-E: [END]
+0FD:[END]
+0FD-E: [END]
+0FE:[END]
+0FE-E: [END]
+0FF:[END]
+0FF-E: [END]
+100:[END]
+100-E: [END]

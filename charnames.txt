@@ -1,0 +1,601 @@
+// Character names must be 19 letters or less, but the shorter the better
+000:(EMPTY)
+000-E: (EMPTY)
+001:Flint
+001-E:Flint
+002:Flint
+002-E:Flint
+003:Lucas
+003-E:Lucas
+004:Lucas
+004-E:Lucas
+005:Claus
+005-E:Claus
+006:Claus
+006-E:Claus
+007:Claus
+007-E:Claus
+008:Hinawa
+008-E:Hinawa
+009:Boney
+009-E:Boney
+00A:Boney
+00A-E:Boney
+00B:Kumatora
+00B-E:Kumatora
+00C:Kumatora
+00C-E:Kumatora
+00D:Kumatora
+00D-E:Kumatora
+00E:Wess
+00E-E:Wess
+00F:Duster
+00F-E:Duster
+010:Duster
+010-E:Duster
+011:Fassad
+011-E:Fassad
+012:Salsa
+012-E:Salsa
+013:Samba
+013-E:Samba
+014:Pusher
+014-E:Pusher
+015:Elmore
+015-E:Elmore
+016:Ollie
+016-E:Ollie
+017:Ollie
+017-E:Ollie
+018:Sebastian
+018-E:Sebastian
+019:Mapson
+019-E:Mapson
+01A:Jackie
+01A-E:Jackie
+01B:Jackie
+01B-E:Jackie
+01C:Betsy
+01C-E:Betsy
+01D:Tessie
+01D-E:Tessie
+01E:Bateau
+01E-E:Bateau
+01F:Thomas
+01F-E:Thomas
+020:Thomas
+020-E:Thomas
+021:Thomas
+021-E:Thomas
+022:Lisa
+022-E:Lisa
+023:Mike
+023-E:Mike
+024:Mike
+024-E:Mike
+025:Salsa
+025-E:Salsa
+026:Reggie
+026-E:Reggie
+027:Bronson
+027-E:Bronson
+028:Bronson
+028-E:Bronson
+029:Caroline
+029-E:Caroline
+02A:Angie
+02A-E:Angie
+02B:Angie
+02B-E:Angie
+02C:Abbot
+02C-E:Abbot
+02D:Abbot
+02D-E:Abbot
+02E:Abbey
+02E-E:Abbey
+02F:Matt
+02F-E:Matt
+030:Matt
+030-E:Matt
+031:Butch
+031-E:Butch
+032:Butch
+032-E:Butch
+033:Biff
+033-E:Biff
+034:Biff
+034-E:Biff
+035:Jill
+035-E:Jill
+036:Jonel
+036-E:Jonel
+037:Jonel
+037-E:Jonel
+038:Brenda
+038-E:Brenda
+039:Bob
+039-E:Bob
+03A:Bob
+03A-E:Bob
+03B:Dona
+03B-E:Dona
+03C:Lucas
+03C-E:Lucas
+03D:Paul
+03D-E:Paul
+03E:Paul
+03E-E:Paul
+03F:Linda
+03F-E:Linda
+040:Nana
+040-E:Nana
+041:Nana
+041-E:Nana
+042:Richie
+042-E:Richie
+043:Richie
+043-E:Richie
+044:Nichol
+044-E:Nichol
+045:Nichol
+045-E:Nichol
+046:Flint
+046-E:Flint
+047:Lucas
+047-E:Lucas
+048:Nippolyte
+048-E: Nippolyte
+049:Porky
+049-E:Pokey
+04A:Isaac
+04A-E:Isaac
+04B:Isaac
+04B-E:Isaac
+04C:Bud
+04C-E:Bud
+04D:Bud
+04D-E:Bud
+04E:Lou
+04E-E:Lou
+04F:Lou
+04F-E:Lou
+050:Scamp
+050-E:Scamp
+051:Ed
+051-E:Ed
+052:Nan
+052-E:Nan
+053:Alle
+053-E:Alle
+054:Alle
+054-E:Alle
+055:Lighter
+055-E:Lighter
+056:Fuel
+056-E:Fuel
+057:Fuel
+057-E:Fuel
+058:Alec
+058-E:Alec
+059:Pigmask
+059-E:Schweinemaske
+05A:Pigmask
+05A-E:Schweinemaske
+05B:Pigmask
+05B-E:Schweinemaske
+05C:Clayman
+05C-E:Clayman
+05D:Mr. Saturn
+05D-E:Mr. Saturn
+05E:Parrot
+05E-E:Parrot
+05F:Skinhead
+05F-E:Glatzkopf
+060:Neckbeard
+060-E:Neckbeard
+061:Guy
+061-E:Kerl
+062:Dr. Andonuts
+062-E:Dr. Andonuts
+063:Attendant
+063-E:Attendant
+064:(EMPTY)
+064-E:(EMPTY)
+065:Fish
+065-E:Fish
+066:Fish
+066-E:Fish
+067:Hermit Crab
+067-E:Hermit Crab
+068:Lady
+068-E:Dame
+069:Hermit Crab
+069-E:Hermit Crab 
+06A:Sheep
+06A-E:Schaf
+06B:Cow
+06B-E:Kuh
+06C:Pig
+06C-E:Schwein 
+06D:Chicken
+06D-E:Huhn
+06E:Dove
+06E-E:Taube
+06F:OJ
+06F-E:OJ
+070:Shimmy Zmizz
+070-E:Shimmy Zmizz
+071:Baccio
+071-E:Baccio
+072:Magic
+072-E:Magic
+073:Drago Pup
+073-E:Drago Welpe
+074:Ionia
+074-E:Ionia
+075:Doria
+075-E:Doria
+076:Phrygia
+076-E:Phrygia
+077:Lydia
+077-E:Lydia
+078:Mixolydia
+078-E:Mixolydia
+079:Aeolia
+079-E:Aeolia
+07A:Locria
+07A-E:Locria
+07B:Pork Bean
+07B-E:Schweinebohne
+07C:Pork Tank
+07C-E:Schweinetank
+07D:Girl
+07D-E:Mädchen
+07E:Researcher
+07E-E:Forscher
+07F:Gift Box
+07F-E:Geschenkbox
+080:Mole Cricket
+080-E:Maulwurfsgrille
+081:Frog
+081-E:Frosch
+082:Lighter
+082-E:Lighter
+083:Lumber
+083-E:Lumber
+084:Porky
+084-E:Pokey
+085:Man
+085-E:Mann
+086:Frog
+086-E:Frosch
+087:Bonfire
+087-E:Bonfire
+088:Guy
+088-E:Kerl
+089:Boney
+089-E:Boney
+08A:Guy
+08A-E:Kerl
+08B:Cow
+08B-E:Kuh
+08C:Clayman
+08C-E:Clayman
+08D:Lucas
+08D-E:Lucas
+08E:Leo-Leo
+08E-E:Leo-Leo
+08F:Duster
+08F-E:Duster
+090:Masked Man
+090-E:Maskierter Mann
+091:Pigmask
+091-E:Schweinemaske
+092:Drago Pup
+092-E:Drago Welpe
+093:Mole Cricket
+093-E:Maulwurfsgrille
+094:Elder Cricket
+094-E:Chef-Maulwurfsgrille
+095:Duster
+095-E:Duster
+096:Kumatora
+096-E:Kumatora
+097:Arrow Lizard
+097-E:Pfeil Lizard
+098:O2 Machine
+098-E:O2 Maschine
+099:Explorer
+099-E:Entdecker
+09A:Man
+09A-E:Mann
+09B:Woman
+09B-E:Frau
+09C:Lady
+09C-E:Dame
+09D:Alec
+09D-E:Alec
+09E:Ionia
+09E-E:Ionia
+09F:Flint
+09F-E:Flint
+0A0:Fuel
+0A0-E:Fuel
+0A1:Leder
+0A1-E:Leider
+0A2:Mole Cricket
+0A2-E:Maulwurfsgrille
+0A3:Stray Dog
+0A3-E:Streuner
+0A4:Stray Dog
+0A4-E:Streuner
+0A5:Item Guy
+0A5-E:Verkäufer
+0A6:Shadow
+0A6-E:Shadow
+0A7:Sparrow
+0A7-E:Schwalbe
+0A8:Sat.Fisher
+0A8-E:Sat.Fischer
+0A9:Old Man
+0A9-E:Alter Mann
+0AA:Ocho
+0AA-E:Ocho
+0AB:Man
+0AB-E:Mann
+0AC:Woman
+0AC-E:Frau
+0AD:Knock!
+0AD-E:Klopf!
+0AE:Knock!
+0AE-E:Klopf!
+0AF:Bow
+0AF-E:Bow
+0B0:Bow
+0B0-E:Bow
+0B1:Guy
+0B1-E:Kerl
+0B2:Lady
+0B2-E:Dame
+0B3:Flint
+0B3-E:Flint
+0B4:Fuel
+0B4-E:Fuel
+0B5:Flint
+0B5-E:Flint
+0B6:Fuel
+0B6-E:Fuel
+0B7:Old Guy
+0B7-E:Alter Kerl
+0B8:Policeman
+0B8-E:Polizist
+0B9:Tomas Jefferson
+0B9-E:Tomas Jefferson
+0BA:Lucky
+0BA-E:Lucky
+0BB:Gorgeous
+0BB-E:Gorgeous
+0BC:?????
+0BC-E:?????
+0BD:Nut
+0BD-E:Nut
+0BE:Snowman
+0BE-E:Schneemann
+0BF:Violet
+0BF-E:Violet
+0C0:Kumatora
+0C0-E:Kumatora
+0C1:Magic
+0C1-E:Magic
+0C2:Pork Bomb
+0C2-E:Schweinebombe
+0C3:Person 195
+0C3-E:Person 195
+0C4:Hmm...
+0C4-E:Hmm...
+0C5:Paper Man
+0C5-E: Papiermann
+0C6:Pork Saucer
+0C6-E:Untertasse
+0C7:Old Guy
+0C7-E:Alter Kerl
+0C8:Interpreter
+0C8-E:Dolmetscher
+0C9:Pig Book
+0C9-E:Schweinebuch
+0CA:Fixed Robot
+0CA-E:Roboter
+0CB:Frog
+0CB-E:Frosch 
+0CC:Bonfire
+0CC-E:Bonfire
+0CD:Sea Slug
+0CD-E:Seeschnecke
+0CE:Bucket Bros
+0CE-E:Bucket Bros
+0CF:(EMPTY)
+0CF-E:(EMTPY)
+0D0:The Squeekz
+0D0-E:Die Squeekz
+0D1:Pendant
+0D1-E:Anhänger
+0D2:Secrebot
+0D2-E:Secrebot
+0D3:Binoculars
+0D3-E:Binoculars
+0D4:Robot
+0D4-E:Roboter
+0D5:Pancho
+0D5-E:Pancho
+0D6:Pincho
+0D6-E:Pincho
+0D7:Tired Clayman
+0D7-E:Müder Clayman
+0D8:Frog
+0D8-E:Frosch
+0D9:Frog
+0D9-E:Frosch
+0DA:Black Sheep
+0DA-E:Schwarzes Schaf
+0DB:Jukebox
+0DB-E:Jukebox
+0DC:Scrapped Robot
+0DC-E:Kaputter Roboter
+0DD:Ionia
+0DD-E:Ionia
+0DE:Talking Bones
+0DE-E:Sprechende Knochen
+0DF:Mr. Saturn
+0DF-E:Mr. Saturn
+0E0:Teddy Bear
+0E0-E:Teddybär
+0E1:Pigmask
+0E1-E:Schweinemaske
+0E2:Ant
+0E2-E:Ameise
+0E3:Person 227
+0E3-E:Person 227
+0E4:Pigskin Rug
+0E4-E:Schweinehaut Decke
+0E5:Ocho
+0E5-E:Ocho
+0E6:Mole
+0E6-E:Maulwurf
+0E7:Sheep
+0E7-E:Schaf
+0E8:Person 232
+0E8-E:Person 232
+0E9:Sheep
+0E9-E:Schaaf
+0EA:CpnExchang
+0EA-E:CpnExchang
+0EB:Guy
+0EB-E:Kerl
+0EC:Guy
+0EC-E:Kerl
+0ED:Boney
+0ED-E:Boney
+0EE:Bird
+0EE-E:Vogel
+0EF:Man
+0EF-E:Mann 
+0F0:Frog
+0F0-E:Frosch
+0F1:Lucas
+0F1-E:Lucas
+0F2:Boney
+0F2-E:Boney
+0F3:Lucas
+0F3-E:Lucas
+0F4:Flint
+0F4-E:Flint
+0F5:Guy
+0F5-E:Kerl
+0F6:Duster
+0F6-E:Duster
+0F7:Person 249
+0F7-E:Person 249
+0F8:Limousine
+0F8-E:Limousine
+0F9:Slot Machine
+0F9-E:Einarmiger Bandit 
+0FA:Kumatora
+0FA-E:Kumatora
+0FB:Wess
+0FB-E:Wess
+0FC:Salsa
+0FC-E:Salsa
+0FD:Fassad
+0FD-E:Fassad 
+0FE:Person 254
+0FE-E:Person 254
+0FF:Thomas
+0FF-E:Thomas
+100:Boat
+100-E:Boot
+101:Man
+101-E:Mann
+102:Mixolydia
+102-E:Mixolydia
+103:Item Guy
+103-E:Verkäufer
+104:Moved Rock
+104-E:Beweger Stein
+105:Blocking Rock
+105-E:Versperrender Stein
+106:Woman
+106-E:Frau
+107:Woman
+107-E:Frau
+108:Woman
+108-E:Frau
+109:Woman
+109-E:Frau
+10A:Crowd
+10A-E:Menge
+10B:Host
+10B-E:Gastgeber
+10C:Chauffeur
+10C-E:Chauffeur
+10D:Word on the Wind
+10D-E:Wort im Wind
+10E:Man
+10E-E:Mann
+10F:Frog
+10F-E:Frosch
+110:Frog
+110-E:Frosch
+111:O2 Machine
+111-E:O2 Maschine
+112:Wan Sum Dung
+112-E:Wan Sum Dung
+113:Man
+113-E:Mann
+114:Gift Box
+114-E:Geschenkbox
+115:Woman
+115-E:Frau
+116:Man
+116-E:Mann
+117:gUY
+117-E:Kerl 
+118:Woman
+118-E:Frau
+119:Old Woman
+119-E:Alte Frau
+11A:(EMPTY)
+11A-E:(EMPTY)
+11B:Kumatora
+11B-E:Kumatora
+11C:Hippo Researcher
+11C-E:Flusspferdforscher
+11D:Lucas
+11D-E:Lucas
+11E:Flint
+11E-E:Flint
+11F:Leder
+11F-E:Leider
+120:Leder
+120-E:Leider
+121:Man
+121-E:Mann
+122:Boy
+122-E:Junge
+123:Woman
+123-E:Frau
+124:Cat
+124-E:Katze
+125:Man
+125-E:Mann
+126:Lady
+126-E:Dame
+127:Guy
+127-E:Kerl
+128:(EMPTY)
+128-E:(EMTPY)
+129:Man
+129-E:Mann
+12A:Robot
+12A-E:Roboter
+12B:Mr. Saturn
+12B-E:Mr. Saturn

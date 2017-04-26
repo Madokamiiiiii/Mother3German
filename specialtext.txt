@@ -1,0 +1,105 @@
+// Most of the text here is meant for undiscovered debug menus,
+// but you should probably translate it anyway.
+// The technique names at the end of the file are used in battle, though.
+// All things in this file must be 19 letters or less.
+
+00:Pl. Movement Data
+00-E:Pl. Movement Data
+01:Attack
+01-E:Attacke
+02:Defend
+02-E:Verteidigen
+03:Run Away
+03-E:Weggerannt
+04:Chapter 0 Attack
+04-E:Kapitel 0 Attacke
+05:Strange Attack
+05-E:Komische Attacke
+06:Duster:Behind
+06-E:Duster:Behind
+07:Duster:Back Up
+07-E:Duster:Back Up
+08:Duster:Pre.Strike
+08-E:Duster:Pre.Strike
+09:(EMPTY)
+09-E:(EMPTY)
+0A:DCMC Intrusion
+0A-E:DCMC Eingriff
+0B:Baccio's Line
+0B-E:Baccios Zeile
+0C:Baccio's Attack
+0C-E:Baccios Angriff
+0D:Shimmy's Line
+0D-E:Shimmys Zeile
+0E:Shimmy's Attack
+0E-E:Shimmys Angriff
+0F:Magic's Line
+0F-E:Magics Zeile
+10:Magic's Attack
+10-E:Magics Attacke
+11:OJ's Line
+11-E:OJs Zeile
+12:OJ's Attack
+12-E:OJs Angriff
+13:Andonuts' Line
+13-E:Andonuts' Zeile
+14:Andonuts' attack
+14-E:Andonuts' Angriff
+15:Wess' Line
+15-E:Wess' Zeile
+16:Wess' Attack
+16-E:Wess' Angriff
+17:Flint's Line
+17-E:Flints Zeile
+18:Flint's Attack
+18-E:Flints Angriff
+19:Lucas Cant Attack
+19-E: Lucas Cant Attack
+1A:(EMPTY)
+1A-E: (EMPTY)
+1B:Last Bash
+1B-E: Last Bash
+1C:Last PSI
+1C-E: Last PSI
+1D:Last Goods
+1D-E: Last Goods
+1E:Last Guard
+1E-E: Last Guard
+1F:Flint: Special
+1F-E: Flint: Special
+20:Swing
+20-E:Schwingen
+21:Power Smash
+21-E:Power Schmetter
+22:Strengthen Up
+22-E:Stärken
+23:Toughen Up
+23-E:Stählen
+24:Duster: Thief
+24-E: Duster: Thief
+25:Wall Staple
+25-E:Wandtakker
+26:Siren Beetle
+26-E:Sirenenkäfer
+27:Hypno-Pendulum
+27-E:Hpyno-Pendel
+28:Smoke Bomb
+28-E:Rauchbombe
+29:Scary Mask
+29-E:Gruselige Maske
+2A:Tickle Stick
+2A-E:Kitzelstock
+2B:Boney: Sniff
+2B-E: Boney: Sniff
+2C:Sniff
+2C-E:Schnüffeln
+2D:Salsa:Tricks
+2D-E: Salsa:Tricks
+2E:Apologize
+2E-E:Entschuldigen
+2F:Make Laugh
+2F-E:Belustigen
+30:Dance
+30-E:Tanzen
+31:Monkey Mimic
+31-E:Affen-Mimik

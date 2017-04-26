@@ -1,0 +1,335 @@
+// Short enemy names must be 19 letters or less
+// The following names NEED to be 16 letters or under or strange things will happen:
+//   Pigmask Captain
+//   Pork Trooper
+//   Ms. Marshmallow
+(empty)
+Umgebau. Rentier
+Hr. Lust
+Ach-So-Schlange
+Clayman
+Mecha-Drago
+Schweinetank
+Hr. Genetor
+Maulwurfsgrille
+Gruseliger Schleim
+Heller Schleim
+Pokey
+N.K. Cyborg
+Maskierter Mann
+Schweinesoldat
+Schweinesoldat
+Eifersüchtiger Bass
+Pokey
+Klebrige Schnecke
+POKEY 02
+Königsstatue
+Nilpferdwerfer
+Neuer Fassad
+Gruseliger Schleim
+Lustlord
+Liebevoller Baum
+POKEY 03
+POKEY 08
+Wunder-Fassad
+Major Schweinemaske
+Große Ameisenlöwe
+Fenomeno
+Rhinocerocket Mk II
+Gefrierbot
+Die Squeekz
+Pyrofliege
+Mecha-Löwe
+Straßenabsperrung
+Hüpfender Pilz
+Kreischender Besen
+Top Hundefisch
+Hr. Fledermausi
+Geizige Maus
+Feuerfliege
+Yammonster
+Fliegende Maus
+POKEY 01
+Aufgew. Wildschwein
+Bissige Schlange
+Rußknödel
+Baked Yammonster
+Walking Bushie
+Carefree Jellyfish
+Metal Monkey
+Crag Lizard
+Spud Bug
+Ten-Yeti
+Chilly Dog
+Slimy Slug
+Minerali
+Ramblin' Mushroom
+Mole Cricket
+Boa Transistor
+Mischievous Mole
+Mecha-Mole!
+Balding Eagle
+Tree
+Titany
+Frosted Bun
+Mrs. Lava
+Magman
+Zombie Man
+Zombie Dog
+Lingering Spirit
+Mobile Grave
+Detached Leech
+Spineless Lobster
+HUGE Pillbug
+Cheery Skeleton
+Big Bro
+Barrel Man
+Strawberry Slime
+Arachnid!
+Violent Roach
+Barrier Trio
+Ghost Armor
+Ghost Sword
+Ghost Shield
+Ghost Knight
+Osohe Cape
+Rockin' Ghost
+Pseudoor
+Eerie Smile
+Dung Beetle
+Great Antlion
+Sara-Sara-Sahara
+Sand Lizard
+Cactus Wolf
+Gooey Goo
+Cleocatra
+Li'l Big Bro
+Zombieshroom
+Stinky Ghost
+Artsy Ghost
+Horsantula
+Pigtunia
+Squawking Stick
+Putrid Moldyman
+Slitherhen
+Whatever
+Dogfish
+Cattlesnake
+Einswine
+Praying Mantis
+Ancient Dragonfly
+Filthy Attack Roach
+Muttshroom
+Mecha-Turtle
+Bro Team
+Batangutan
+Ostrelephant
+Sky Titany
+Monkalrus
+P. Kangashark
+Ms. Marshmallow
+Almost Mecha-Lion
+Rhinocerocket
+Wound-Up Road Hog
+Metal Attack Roach
+Really Flying Mouse
+Short Circuit Zap!
+Minor Robot
+Love Walker
+Eerie Smile
+Atomic Robot
+Nuclear Robot
+Negative Man
+Heftyhead
+Nice Poser
+Big Spud Bug
+Grated Yammonster
+Hippo Launcher
+Steel Mechorilla
+Zombidillo
+Fish Roe Man
+PORKY 07
+Return of Octobot
+Carpet Monster
+Recon Mech
+Pigmask
+Zombie Lady
+Naughty Mushroom
+Elder Batty
+Arachnid!!!!
+Greedier Mouse
+Weeping Guitar
+Beaten Drum
+Reconstructed Mole
+Reconstructed Lion
+Wobbly Robot
+Men's Room Sign
+Scrapped Robot
+Forlorn Junk Heap
+Surprise Box
+Battery Man
+Screwloose
+Cuddle Bomb
+K9000
+Alkaline Man
+PORKY 06
+Pigmask Major
+Pigmask Colonel
+Pigmask Captain
+Navy SQUEAL
+Master Eddy
+Rock Lobster
+Rooound Fish
+Blue Balding Eagle
+Security Robot
+Unwelcome Gust
+PORKY 09
+PORKY 10
+Titanian
+Upgraded Robot
+Beanling
+Black Beanling
+Tiny Forest
+PORKY 04
+PORKY 05
+Masked Man
+Masked Man
+(empty)
+Pick
+Antlion
+Pork Trooper
+Crab
+Electric Catfish
+Shimmy Zmizz
+Magic
+Duster
+Keyboard
+OJ
+Robot
+Dung Beetle
+Tent Person
+Snow Hare
+Clayman
+Vapor
+Rope Snake
+Rope Snake
+Aeolia's Table
+Straw
+Vapor 2
+Mini-Elevator
+Drago
+Pork Trooper
+Green Train
+Pump Drago
+Three Amigos
+Flower
+Rope Ladder
+Flame 3
+Flag
+Ropeway
+(empty)
+Piece
+Flame 1
+Lotus Root
+Clay
+Explosion
+Smoke
+Statue Head
+Carousel
+N. Dresser
+Fireflies
+Hinawa Cloth
+Catfish
+Broom
+Fish
+Sea Urchin
+Train
+Sign
+Sign
+(empty)
+Portrait
+Friendly Ghost
+Trash Can
+Steel Ball
+Egg of Light
+Chestnut
+Rockin' Ghost
+Candle
+Mouse
+Energy Machine
+Light Blade
+Wine Glass
+Rope Snake
+Stinkbug
+Garbage Truck
+Smoke
+Aeolia
+Doria
+Magnifier
+Text Balloon
+Sign
+NO Stone
+Kumatora
+Stone Fragment
+That Car
+Black Drago
+Mole Cricket
+Lightning
+Mothership
+(empty)
+Lydia
+Mixolydia
+Hinawa
+Frozen Drago
+Porky
+Thunder
+Child Mouse
+Dr. Andonuts
+Osohe Castle
+Mothership
+Volcano
+Explosion FX
+Caption
+D.Mothership
+Tiles
+(empty)
+Water Column
+D.Mothershp
+NO Rock Smoke
+Smoke
+Sapling
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+Grave
+Phrygia
+Cube
+Iron Octopus
+Caribou
+Ionia
+D.Drago Wind
+Mushroom
+Bridge
+HallucBTent
+TableGoRnd1
+TableGoRnd2
+TableGoRnd3
+M 100F Boat
+Mini-Porky Bot
+Sign
+Handcart
+Game Balloon
+Baccios Drum
+Octopus Ink
+DrgnFirewrk
+Skyrocket
+Police Car
+Automobile
+AttcKotatsu
+WoodM3Title
+Overworld
+Underworld
+MenRoomDoor
+Aeolia&Sofa
