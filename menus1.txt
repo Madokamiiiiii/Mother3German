@@ -153,7 +153,7 @@
 004B: Speed[END]
 004B-E: Geschwindigkeit[END]
 004C: EXP[END]
-004C-E: Erfahrungspunkte[END]
+004C-E: EXP[END]
 004D: Next Level[END]
 004D-E: Nächstes Level[END]
 004E: HP[END]

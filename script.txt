@@ -14,7 +14,7 @@
 0-6:[BREAK][CENTER]Home of Alec,[BREAK][CENTER][HINAWA 22 08 00]'s Father[END]
 0-6E:[BREAK][CENTER]Das Zuhause von Alec,[BREAK][CENTER][HINAWA 22 08 00]s Vater[END]
 0-7:[BREAK]Dear [FLINT 23 01 00],[BREAK]Just like you said they would, the children[BREAK]have been running around the mountains and[BREAK]fields tirelessly since the moment we arrived.[BREAK][BREAK][CLAUS 22 05 00] is as daring and full of energy[BREAK]as ever, while [LUCAS 23 02 00] is still a bit[BREAK]coddled. But neither one seems tired of[BREAK]playing at all.[BREAK][BREAK]My father seems sad to say goodbye to his[BREAK]grandchildren after seeing them for the first[BREAK]time in so long, but we should be home by[BREAK]this evening.[BREAK][BREAK]I had forgotten how nice and refreshing the[BREAK]mountain air is. You're always covered in the[BREAK]smell of sheep back in Tazmily Village, so I[BREAK]really wish you could have been here to take[BREAK]in this air.[BREAK][BREAK]The next time we visit, let's ask one of our[BREAK]neighbors to tend to the sheep so we can all[BREAK]come up here as a family.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], and I were[BREAK]always thinking about you. When we get[BREAK]home this evening, I'll start cooking some[BREAK]of your favorite [FAVFOOD] right away.[BREAK][BREAK]With love, your dearest [HINAWA 22 08 00][BREAK][BREAK][END]
-0-7E:[BREAK]Lieber [FLINT 23 01 00],[BREAK]Genau wie du sagtest, spielen die Kinder[BREAK]unermüdlich durch die Berge und Felder,[BREAK]seit wir angekommen sind.[BREAK][BREAK][CLAUS 22 05 00] ist so reizend und voller[BREAK]Energie wie immer, während [LUCAS 23 02 00] [BREAK]immer noch ein bisschen verhätschelt ist.[BREAK]Aber keiner von beiden scheint müde von[BREAK]dem ganzen Spielen zu sein.[BREAK][BREAK]Mein Vater scheint traurig darüber zu sein[BREAK]von seinen Enkelkindern Abschied zu nehmen,[BREAK]nachdem er sie zum ersten Mal nach einer[BREAK]langen Zeit gesehen hatte, aber wir sollten[BREAK]diesen Abend zu Hause ankommen.[BREAK][BREAK]Ich hatte vergessen wie schön und[BREAK]erfrischend die Bergluft ist. Du bist immer[BREAK]von dem Gestank der Schafe von Tazmily[BREAK]umgeben, deshalb wünsche ich mir sehr, du[BREAK]hättest hierher kommen können, um mit uns[BREAK]diese frische Luft einzuatmen.[BREAK][BREAK]Wenn wir dich das nächste Mal besuchen,[BREAK]fragen wir einen von deinen Nachbarn, sich[BREAK]um die Schafe zu kümmern, sodass wir alle[BREAK]alle als Familie hierher kommen können[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], und ich haben[BREAK]stets an dich gedacht. Sobald wir heute Abend[BREAK]nach Hause kommen, fang ich sofort an deine[BREAK]Lieblingsspeise [FAVFOOD] zu kochen.[BREAK][BREAK]In Liebe,[BREAK]     deine teuerste [HINAWA 22 08 00][BREAK][BREAK][END]
+0-7E:[BREAK]Lieber [FLINT 23 01 00],[BREAK]Genau wie du sagtest, spielen die Kinder[BREAK]seit wir angekommen sind, unermüdlich durch[BREAK]die Berge und Felder.[BREAK][BREAK][CLAUS 22 05 00] ist so reizend und voller[BREAK]Energie wie immer, während [LUCAS 23 02 00] [BREAK]immer noch ein bisschen verhätschelt ist.[BREAK]Aber keiner von beiden scheint müde von[BREAK]dem ganzen Spielen zu sein.[BREAK][BREAK]Mein Vater scheint traurig darüber zu sein[BREAK]von seinen Enkelkindern Abschied zu nehmen,[BREAK]nachdem er sie zum ersten Mal nach einer[BREAK]langen Zeit gesehen hatte, aber wir sollten[BREAK]diesen Abend zu Hause ankommen.[BREAK][BREAK]Ich hatte vergessen wie schön und[BREAK]erfrischend die Bergluft ist. Du bist immer[BREAK]von dem Gestank der Schafe von Tazmily[BREAK]umgeben, deshalb wünsche ich mir sehr, du[BREAK]hättest hierher kommen können, um mit uns[BREAK]diese frische Luft einzuatmen.[BREAK][BREAK]Wenn wir dich das nächste Mal besuchen,[BREAK]fragen wir einen von deinen Nachbarn, sich[BREAK]um die Schafe zu kümmern, sodass wir alle[BREAK]als Familie hierher kommen können.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], und ich haben[BREAK]stets an dich gedacht. Sobald wir heute Abend[BREAK]nach Hause kommen, fang ich sofort an deine[BREAK]Lieblingsspeise [FAVFOOD] zu kochen.[BREAK][BREAK]In Liebe,[BREAK]     deine teuerste [HINAWA 22 08 00][BREAK][BREAK][END]
 0-8:[FILE=".\0-8.txt"][END]
 0-8E:[FILE=".\0-8trans.txt"][END]
 // this text is so long that it needed to be written in an external file
@@ -149,7 +149,7 @@
 0-64:@You can take a nap on this sofa.[WAIT]  Take a quick rest?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 0-64E:@Du kannst hier ein Nickerchen halten.[WAIT]  Willst du dich ausruhen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-65:@You're fully revitalized.[END]
-0-65E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-65E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-66:@Oh.[END]
 0-66E:@Oh.[END]
@@ -214,7 +214,7 @@
 0-92:@You got [81 FF] [42 FF 00 00]s,[BREAK]  but had to throw away [84 FF] of them.[END]
 0-92E:@Du hast [81 FF] [42 FF 00 00] erhalten,[BREAK]  aber du musstest [84 FF] von ihnen wegwerfen.[END]
 0-93:@You're fully revitalized.[END]
-0-93E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-93E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-94:@It looks like you could hook something to this[BREAK]  candlestick.[END]
 0-94E:@Es sieht so aus, als könntest du etwas auf[BREAK]  diesen Kerzenleuchter aufhängen.[END]
@@ -367,10 +367,10 @@
 0-158:@Get inside the Instant Revitalizing Device?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 0-158E:@In das Sofort-Revitalisierungsgerät steigen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-159:@You're fully revitalized.[END]
-0-159E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-159E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-160:@You're fully revitalized.[END]
-0-160E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-160E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-161:@You should be able to dash onto this.[END]
 0-161E:@Du solltest da rein rennen können.[END]
@@ -394,7 +394,7 @@
 0-169:@Oh, I see...[BREAK]@Well, please be careful out there.[EVENT][END]
 0-169E:@Oh, ich verstehe...[BREAK]@Na ja, bitte sei vorsichtig da draußen.[EVENT][END]
 0-170:@Please be careful out there.[EVENT][END]
-0-170E:@Sei bittei vorsichtig da draußen.[EVENT][END]
+0-170E:@Sei bitte vorsichtig da draußen.[EVENT][END]
 // Repeats: 0-170, 328-32
 0-171:@Give my regards to the next frog you meet.[END]
 0-171E:@Grüß den nächsten Frosch, den du triffst,[BREAK]  von mir.[END]
@@ -425,13 +425,13 @@
 0-183:@Get into the Instant Revitalizing Device?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 0-183E:@In das Sofort-Revitalisierungsgerät steigen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-184:@You're fully revitalized.[END]
-0-184E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-184E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-185:@You're fully revitalized.[END]
-0-185E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-185E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-186:@You're fully revitalized.[END]
-0-186E:@Dein Team wurde vollständig wiederbelebt.[END]
+0-186E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-187:[END]
 0-187E:[END]
@@ -623,10 +623,10 @@
 
 [Container 2]
 2-0:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@It's a fire! A fire, a fire![WAIT]@The Sunshine Forest is on fire in a huge, fiery,[BREAK]  flamey fire!![END]
-2-0E:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@Ein Feuer! Feuer, Feuer![WAIT]@Der Sonnenscheinwald brennt mit einer,[BREAK]  riesigen, feurigen, flammigen Flamme!![END]
+2-0E:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@Ein Feuer! Feuer, Feuer![WAIT]@Der Sonnenscheinwald brennt mit einer[BREAK]  riesigen, feurigen, flammigen Flamme!![END]
 // Repeats: 2-0, 12-0
 2-1:@You gotta do something, quick![BREAK]  [FLINT 26 01 00 01 00]!![WAIT]@It's the forest! The forest, the forest![BREAK]  The forest is on fire!!![END]
-2-1E:@Du musst was unternehmen, schnell![BREAK]  [FLINT 26 01 00 01 00]!![WAIT]@Es ist der Waldt! Der Wald, der WALD![BREAK]  Der Wald brennt!!![END]
+2-1E:@Du musst was unternehmen, schnell![BREAK]  [FLINT 26 01 00 01 00]!![WAIT]@Es ist der Wald! Der Wald, der WALD![BREAK]  Der Wald brennt!!![END]
 // Repeats: 2-1, 12-1
 2-2:@Geez![WAIT]@Who would lock their door in a village as[BREAK]  peaceful as ours?![WAIT]@[FLINT 26 01 00 03 00]![END]
 2-2E:@Alter!![WAIT]@Wer verschließt denn seine Tür in einem[BREAK]  so friedlichen Dorf wie diesen?![WAIT]@[FLINT 26 01 00 03 00]![END]
@@ -649,7 +649,7 @@
 2-8E:@Dann schleppe ich dich eben selbst dorthin![END]
 // Repeats: 2-8, 12-8
 2-9:@Thomas joined your party![PAUSE A0 00][END]
-2-9E:@Thomas tritt deinem Team bei![PAUSE A0 00][END]
+2-9E:@Thomas tretete deinem Team bei![PAUSE A0 00][END]
 // Repeats: 2-9, 12-9
 2-10:@I'll follow behind you.[WAIT]@What? What's so wrong with that?[WAIT]  I happen to like following behind people![END]
 2-10E:@Ich werde dir nachfolgen.[WAIT]@Wast? Was stimmt denn daran nicht?[WAIT]  Ich mag es vielleicht Leuten[BREAK]  hinterher zu laufen![END]
@@ -796,7 +796,7 @@
 3-23E:@[FLINT 23 01 00]![END]
 // Repeats: 3-23, 91-3
 3-24:@Perfect timing! I heard you were taking a rest[BREAK]  here.[WAIT]@......Mighty heavy rain, isn't it?[WAIT]  Think I'll join you under the awning.[EVENT][END]
-3-24E:@Perfektes Timing! Ich habe gehört, du[BREAK]  würdest dich hier ausruhen.[WAIT]@......Ein gewaltiger Regenschauer, findest[BREAK]  du nicht?[WAIT]  Nun, dann ich werde dir unter dem[BREAK]  Vordach Gesellschaft leisten.[EVENT][END]
+3-24E:@Perfektes Timing! Ich habe gehört, du[BREAK]  würdest dich hier ausruhen.[WAIT]@......Ein gewaltiger Regenschauer, findest[BREAK]  du nicht?[WAIT]  Nun, dann werde ich dir wohl unter dem[BREAK]  Vordach Gesellschaft leisten.[EVENT][END]
 3-25:@[FLINT 23 01 00].[WAIT]  Tell me.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  Have you seen [HINAWA 22 08 00] and the kids?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 3-25E:@[FLINT 23 01 00].[WAIT]  Sag mir.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  Hast du [HINAWA 22 08 00] und die Kids gesehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 3-26:@Oh? That so?[WAIT]@Have you seen [HINAWA 22 08 00] today?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
@@ -1598,7 +1598,7 @@
 12-56:@No matter how much of a hurry you're in, you[BREAK]  can't forget your customs.[WAIT]@Is it so wrong of me to think that way?![END]
 12-56E:@Egal wie sehr du in Eile bist, du darfst deine[BREAK]  Sitten nicht vernachlässigen.[WAIT]@Ist es wirklich so falsch so zu denken?![END]
 12-57:@[FLINT 23 01 00]![WAIT]@You're pitch black and covered in soot...[WAIT]  ...but you're all right![WAIT]@Being the responsible man I am, I managed to[BREAK]  bring Lighter here![WAIT]@Hurry and let him see Fuel.[END]
-12-57E:@[FLINT 23 01 00]![WAIT]@Du bist pechschwarz und voller Ruß...[WAIT]  ...aber dir geht es gut![WAIT]@Da ich so ein verantwortungsvoller Mann bin,[BREAK]  habe ich es geschafft[WAIT]  Lighter hierher zu bringen![WAIT]@Beeil dich und lass ihn Fuel sehen.[END]
+12-57E:@[FLINT 23 01 00]![WAIT]@Du bist pechschwarz und voller Ruß...[WAIT]  ...aber dir geht es gut![WAIT]@Da ich so ein verantwortungsvoller Mann bin,[BREAK]  habe ich es geschafft[WAIT]  Lighter hierher zu bringen![WAIT]@Beeil dich und schau bei Fuel vorbei.[END]
 12-58:@Daaad![END]
 12-58E:@Vaaaaaaaater![END]
 12-59:@Th-that voice.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][BREAK]  Is that you, Fuel?![WAIT]@You're alright?![WAIT]@What the...?![PAUSE 20 00] What in the world happened to[BREAK]  you?![WAIT]@You're pitch black, and covered in soot![END]
@@ -1627,7 +1627,7 @@
 12-70:@Let's just hope this rain puts out the fire...[END]
 12-70E:@Hoffen wir, dass der Regen das Feuer löscht...[END]
 12-71:@We need to tend to Lighter.[BREAK]  Let's head back to the village for now.[END]
-12-71E:@Wir müssen uns um Lighter sorgen.[BREAK]  Lasst uns fürs Erste zurück ins Dorf gehen.[END]
+12-71E:@Wir müssen Lighter versorgen.[BREAK]  Lasst uns fürs Erste zurück ins Dorf gehen.[END]
 12-72:@Oh, there you are, [FLINT 23 01 00].[WAIT]@I asked everyone to split up and search the[BREAK]  forest for [HINAWA 22 08 00].[END]
 12-72E:@Oh, da bist du ja, [FLINT 23 01 00].[WAIT]@Ich habe jede damit beauftragt im Wald nach[BREAK]  [HINAWA 22 08 00] zu suchen.[END]
 12-73:@You've been blessed with kind friends.[WAIT]@That must be true happiness, in one sense.[END]
@@ -12751,7 +12751,7 @@
 328-32E:@Bitte sei vorsichtig da draußen.[EVENT][END]
 // Repeats: 0-170, 328-32
 328-33:@Give my regards to the next frog you meet.[END]
-328-33E:@Grüß den nächsten Frosch, den du siehst,[BREAK]  von mir.[END]
+328-33E:@Bitte grüß den nächsten Frosch, den du siehst,[BREAK]  von mir.[END]
 // Repeats: 0-171, 328-33
 328-34:@Oh. Okay.[BREAK]  *gakkkkkkk*[WAIT]@Give my regards to the next frog you meet.[END]
 328-34E:
