@@ -1613,159 +1613,159 @@
 12-63:@Fixing my injuries, obviously![BREAK]  What does it look like?![END]
 12-63E:@Ich behandel offensichtlich meine Verletzungen![BREAK]  Nach was sieht es denn aus?![END]
 12-64:@Anyways, we sure are lucky [FLINT 23 01 00][BREAK]  showed up when he did.[END]
-12-64E:
+12-64E:@Egal, wir hatten ziemlich viel Glück, dass[BREAK]  [FLINT 23 01 00] aufgekreuzt ist.[BREAK][END]
 12-65:@Yeah, he and Lighter've always been quarreling[BREAK]  buddies since they were kids.[WAIT]@It's enough to make me jealous.[END]
-12-65E:
+12-65E:@Yeah, er and Lighter sind schon, seit sie[BREAK]  Kinder waren, beste Buddies.[WAIT]@Da bin ich richtig eifersüchtig.[END]
 12-66:@.[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 20 00]Thanks, [FLINT 23 01 00].[WAIT]@Guess I showed my not-so-tough side, huh?[WAIT]@I owe you one for today.[END]
-12-66E:
+12-66E:@.[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 20 00]Danke, [FLINT 23 01 00].[WAIT]@Denke, ich habe mich heute nicht gerade von[BREAK]  meiner besten Seite gezeigt, huh?[WAIT]@Ich schulde dir echt was.[END]
 12-67:@I think that could be the first time I've ever[BREAK]  heard the boss thank anyone.[END]
-12-67E:
+12-67E:@Ich glaube, das ist das erste Mal, dass sich der[BREAK]  Boss bei jemanden bedankt.[END]
 12-68:@Ahaha! You're right![WAIT]@The only thing that could make this any[BREAK]  stranger is if it suddenly started pouring rain.[END]
-12-68E:
+12-68E:@Ahaha! Du hast recht![WAIT]@Das einzige, was mich jetzt noch verwundern[BREAK]  würde, ist, wenn es jetzt plötzlich anfangen[WAIT]  würde zu regnen.[END]
 12-69:@And... now it's starting to rain.[END]
-12-69E:
+12-69E:@Und... jetzt fängt es an zu regnen.[END]
 12-70:@Let's just hope this rain puts out the fire...[END]
-12-70E:
+12-70E:@Hoffen wir, dass der Regen das Feuer löscht...[END]
 12-71:@We need to tend to Lighter.[BREAK]  Let's head back to the village for now.[END]
-12-71E:
+12-71E:@Wir müssen uns um Lighter sorgen.[BREAK]  Lasst uns fürs Erste zurück ins Dorf gehen.[END]
 12-72:@Oh, there you are, [FLINT 23 01 00].[WAIT]@I asked everyone to split up and search the[BREAK]  forest for [HINAWA 22 08 00].[END]
-12-72E:
+12-72E:@Oh, da bist du ja, [FLINT 23 01 00].[WAIT]@Ich habe jede damit beauftragt im Wald nach[BREAK]  [HINAWA 22 08 00] zu suchen.[END]
 12-73:@You've been blessed with kind friends.[WAIT]@That must be true happiness, in one sense.[END]
-12-73E:
+12-73E:@Du bist mit wahren Freunden beschenkt[BREAK]  worden.[WAIT]@Das muss in gewissem Sinne wahre[BREAK]  Glückseligkeit sein.[END]
 12-74:@I'd like to join the search, but they told me to[BREAK]  stay here because I'm old.[WAIT]@Seems nobody's aware of just how strong I[BREAK]  really am.[END]
-12-74E:
+12-74E:@Ich würde gerne bei der Suche helfen, aber ich[BREAK]  soll hierbleiben, weil ich zu alt bin.[WAIT]@Scheint so, als würde niemand wissen, wie[BREAK]  stark ich wirklich bin.[END]
 12-75:@Please don't say I smell like booze or[BREAK]  something.[WAIT]@I told you I'd be just the guy to help you out,[BREAK]  remember?[WAIT]  *hic*[WAIT]@See! I brought your dog![WAIT]@I could tell he wanted to come along.[END]
-12-75E:
+12-75E:@Sag bitte nicht, dass ich nach Alkohol oder so rieche.[WAIT]@Ich hab dir doch gesagt, dass ich der Typ bin,[BREAK]  der dir helfen wird, erinnerst du dich?[WAIT]  *hic*[WAIT]@Schau! Ich hab deinen Hund mitgebracht![WAIT]@Man könnte sagen, er wollte mitkommen.[END]
 12-76:@I kept my promise. Your dog has come.[WAIT]  Now you and your dog must go.[WAIT]@Heh.[WAIT]@Well, I'm outta here... So long.[BREAK]  *hiiiiic*[END]
-12-76E:
+12-76E:@Ich habe mein Versprechen gehalten.[BREAK]  Dein Hund ist gekommen.[WAIT]  Jetzt müssen du und dein Hund gehen.[WAIT]@Heh.[WAIT]@Also, ich bin dann mal weg... Endlich.[BREAK]  *hiiiiic*[END]
 12-77:@Oh, here you are, [FLINT 23 01 00].[BREAK]@Good thing I waited.[END]
-12-77E:
+12-77E:@Oh, hier bist du, [FLINT 23 01 00].[BREAK]@Gut, dass ich gewartet habe.[END]
 12-78:@[FLINT 22 01 00]. Just take this and go.[WAIT]@It's "the" Drago fang.[WAIT]@I made it into a weapon.[WAIT]@The only thing that can pierce the tough hide[BREAK]  of a Drago is a Drago's fang.[WAIT]@There's no other weapon that can beat a[BREAK]  Drago.[END]
-12-78E:
+12-78E:@[FLINT 22 01 00]. Nimm das und geh.[WAIT]@Das ist "der" Drago-Zahn.[WAIT]@Ich habe es in eine Waffe umfungiert.[WAIT]@Das einzige, dass die harte Haut eines Dragos[BREAK]  durchstechen kann, ist ein Drago-Zahn.[WAIT]@Es gibt keine andere Waffe, die einen Drago[BREAK]  besiegen kann.[END]
 // Repeats: 12-78, 116-1
 12-79:@I realize this might be tough for you to accept,[BREAK]  but you should take it.[END]
-12-79E:
+12-79E:@Ich glaube, du kannst sowas nicht einfach[BREAK]  annehmen, aber du solltest es nehmen.[END]
 // Repeats: 12-79, 116-2
 12-80:@Well, guess I'll head on home and get back to[BREAK]  work.[END]
-12-80E:
+12-80E:@Also, ich gehe dann mal zurück zur Arbeit.[END]
 12-81:@Looks like you have too many things.[WAIT]@Come get it later after you organize your[BREAK]  items.[END]
-12-81E:
+12-81E:@Scheint so, als trägst du zu viel Zeugs.[WAIT]@Komm wieder, nachdem du deine Items[BREAK]  organisiert hast.[END]
 12-82:@Is this a bench? A table?[WAIT]  Or possibly a bed?[END]
-12-82E:
+12-82E:@Ist das eine Sitzbank? Ein Tisch?[WAIT]  Oder vielleicht ein Bett?[END]
 12-83:[END]
-12-83E:
+12-83E:[END]
 
 [Container 13]
 13-0:@Magypsy Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]       Magypsy Spring Water"[WAIT]          (An extra syllable)[END]
-13-0E:
+13-0E:@Heiße Quelle der Magipsys[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]       Magypsy Quellenwasser"[WAIT]          (Eine extra Silbe)[END]
 // Repeats: 13-0, 14-0, 17-0, 36-0, 42-0, 55-0, 72-0, 77-0, 80-0, 96-0, 180-0, 181-0, 182-0, 192-0, 203-0, 207-0, 249-0, 250-0, 251-0, 252-0, 263-0, 327-0, 328-0, 329-0, 330-0, 331-0, 332-0, 373-0, 374-0, 375-0, 376-0, 377-0, 378-0, 379-0, 443-0, 467-0, 468-0, 469-0, 471-0, 472-0, 477-0, 803-0, 877-0, 878-0, 880-0, 882-0, 892-0, 900-0
 13-1:@Tunnel Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]        Tunnel Spring Water"[END]
-13-1E:
+13-1E:@Heiße Quelle des Tunnels[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]       Tunnel Quellenwasser"[END]
 // Repeats: 13-1, 14-1, 17-1, 36-1, 42-1, 55-1, 72-1, 77-1, 80-1, 96-1, 180-1, 181-1, 182-1, 192-1, 203-1, 207-1, 249-1, 250-1, 251-1, 252-1, 263-1, 327-1, 328-1, 329-1, 330-1, 331-1, 332-1, 373-1, 374-1, 375-1, 376-1, 377-1, 378-1, 379-1, 443-1, 467-1, 468-1, 469-1, 471-1, 472-1, 477-1, 803-1, 877-1, 878-1, 880-1, 882-1, 892-1, 900-1
 13-2:@Mole Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]          Mole Spring Water"[WAIT]          (Too few syllables)[END]
-13-2E:
+13-2E:@Heiße Quelle der Maulwürfe[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Maulwurf Quellenwasser"[WAIT]        (Zu wenige Silben)
 // Repeats: 13-2, 14-2, 17-2, 36-2, 42-2, 55-2, 72-2, 77-2, 80-2, 96-2, 180-2, 181-2, 182-2, 192-2, 203-2, 207-2, 249-2, 250-2, 251-2, 252-2, 263-2, 327-2, 328-2, 329-2, 330-2, 331-2, 332-2, 373-2, 374-2, 375-2, 376-2, 377-2, 378-2, 379-2, 443-2, 467-2, 468-2, 469-2, 471-2, 472-2, 477-2, 803-2, 877-2, 878-2, 880-2, 882-2, 892-2, 900-2
 13-3:@Snowcap Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]      Snowcap Spring Water"[END]
-13-3E:
+13-3E:@Heiße Quelle des Schneekrönchens[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Schneekrönchen Quellenwasser"[END]
 // Repeats: 13-3, 14-3, 17-3, 36-3, 42-3, 55-3, 72-3, 77-3, 80-3, 96-3, 180-3, 181-3, 182-3, 192-3, 203-3, 207-3, 249-3, 250-3, 251-3, 252-3, 263-3, 327-3, 328-3, 329-3, 330-3, 331-3, 332-3, 373-3, 374-3, 375-3, 376-3, 377-3, 378-3, 379-3, 443-3, 467-3, 468-3, 469-3, 471-3, 472-3, 477-3, 803-3, 877-3, 878-3, 880-3, 882-3, 892-3, 900-3
 13-4:[ALTERNATEFONT]@mr. saturn hot[BREAK]  spring[WAIT]  "relax easy"[END]
-13-4E:
+13-4E:[ALTERNATEFONT]@mr. saturn heiße[BREAK]  quelle[WAIT]  "einfach relaxen"[END]
 // Repeats: 13-4, 14-4, 17-4, 36-4, 42-4, 55-4, 72-4, 77-4, 80-4, 96-4, 180-4, 181-4, 182-4, 192-4, 203-4, 207-4, 249-4, 250-4, 251-4, 252-4, 263-4, 327-4, 328-4, 329-4, 330-4, 331-4, 332-4, 373-4, 374-4, 375-4, 376-4, 377-4, 378-4, 379-4, 443-4, 467-4, 468-4, 469-4, 471-4, 472-4, 477-4, 803-4, 877-4, 878-4, 880-4, 882-4, 892-4, 900-4
 13-5:@Kokori Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]         Kokori Spring Water"[WAIT]          (An extra syllable)[END]
-13-5E:
+13-5E:@Heiße Quelle von Kokiri[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Kokiri Quellenwasser"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-5, 13-6, 14-5, 14-6, 17-5, 17-6, 36-5, 36-6, 42-5, 42-6, 55-5, 55-6, 72-5, 72-6, 77-5, 77-6, 80-5, 80-6, 96-5, 96-6, 180-5, 180-6, 181-5, 181-6, 182-5, 182-6, 192-5, 192-6, 203-5, 203-6, 207-5, 207-6, 249-5, 249-6, 250-5, 250-6, 251-5, 251-6, 252-5, 252-6, 263-5, 263-6, 327-5, 327-6, 328-5, 328-6, 329-5, 329-6, 330-5, 330-6, 331-5, 331-6, 332-5, 332-6, 373-5, 373-6, 374-5, 374-6, 375-5, 375-6, 376-5, 376-6, 377-5, 377-6, 378-5, 378-6, 379-5, 379-6, 443-5, 443-6, 467-5, 467-6, 468-5, 468-6, 469-5, 469-6, 471-5, 471-6, 472-5, 472-6, 477-5, 477-6, 803-5, 803-6, 877-5, 877-6, 878-5, 878-6, 880-5, 880-6, 882-5, 882-6, 892-5, 892-6, 900-5, 900-6
 13-6:@Kokori Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]         Kokori Spring Water"[WAIT]          (An extra syllable)[END]
-13-6E:
+13-6E:@Heiße Quelle von Kokiri[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Kokiri Quellenwasser"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-5, 13-6, 14-5, 14-6, 17-5, 17-6, 36-5, 36-6, 42-5, 42-6, 55-5, 55-6, 72-5, 72-6, 77-5, 77-6, 80-5, 80-6, 96-5, 96-6, 180-5, 180-6, 181-5, 181-6, 182-5, 182-6, 192-5, 192-6, 203-5, 203-6, 207-5, 207-6, 249-5, 249-6, 250-5, 250-6, 251-5, 251-6, 252-5, 252-6, 263-5, 263-6, 327-5, 327-6, 328-5, 328-6, 329-5, 329-6, 330-5, 330-6, 331-5, 331-6, 332-5, 332-6, 373-5, 373-6, 374-5, 374-6, 375-5, 375-6, 376-5, 376-6, 377-5, 377-6, 378-5, 378-6, 379-5, 379-6, 443-5, 443-6, 467-5, 467-6, 468-5, 468-6, 469-5, 469-6, 471-5, 471-6, 472-5, 472-6, 477-5, 477-6, 803-5, 803-6, 877-5, 877-6, 878-5, 878-6, 880-5, 880-6, 882-5, 882-6, 892-5, 892-6, 900-5, 900-6
 13-7:@Murasaki Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]       Murasaki Spring Water"[WAIT]       (A few extra syllables)[END]
-13-7E:
+13-7E:@Heiße Quelle von Murasaki[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Murasai Quellenwasser"[WAIT]        (Ein paar extra Silben)[END]
 // need to make it so there aren't so many extra-syllable ones
 // Repeats: 13-7, 14-7, 17-7, 36-7, 42-7, 55-7, 72-7, 77-7, 80-7, 96-7, 180-7, 181-7, 182-7, 192-7, 203-7, 207-7, 249-7, 250-7, 251-7, 252-7, 263-7, 327-7, 328-7, 329-7, 330-7, 331-7, 332-7, 373-7, 374-7, 375-7, 376-7, 377-7, 378-7, 379-7, 443-7, 467-7, 468-7, 469-7, 471-7, 472-7, 477-7, 803-7, 877-7, 878-7, 880-7, 882-7, 892-7, 900-7
 13-8:@His Highness's Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]        His Highness's Water"[WAIT]         (An extra syllable)[END]
-13-8E:
+13-8E:@Die Heiße Quelle Seiner Hoheit[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Das Wasser Seiner Hoheit"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-8, 14-8, 17-8, 36-8, 42-8, 55-8, 72-8, 77-8, 80-8, 96-8, 180-8, 181-8, 182-8, 192-8, 203-8, 207-8, 249-8, 250-8, 251-8, 252-8, 263-8, 327-8, 328-8, 329-8, 330-8, 331-8, 332-8, 373-8, 374-8, 375-8, 376-8, 377-8, 378-8, 379-8, 443-8, 467-8, 468-8, 469-8, 471-8, 472-8, 477-8, 803-8, 877-8, 878-8, 880-8, 882-8, 892-8, 900-8
 13-9:@ [LEFT]West[BREAK]  Argilla Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]        Argilla Spring Water"[WAIT]          (An extra syllable)[END]
-13-9E:
+13-9E:@ [LEFT]West[BREAK]  Heiße Quelle von Argilla[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Argilla Quellenwasser"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-9, 14-9, 17-9, 36-9, 42-9, 55-9, 72-9, 77-9, 80-9, 96-9, 180-9, 181-9, 182-9, 192-9, 203-9, 207-9, 249-9, 250-9, 251-9, 252-9, 263-9, 327-9, 328-9, 329-9, 330-9, 331-9, 332-9, 373-9, 374-9, 375-9, 376-9, 377-9, 378-9, 379-9, 443-9, 467-9, 468-9, 469-9, 471-9, 472-9, 477-9, 803-9, 877-9, 878-9, 880-9, 882-9, 892-9, 900-9
 13-10:@Chimera Lab Rest Facility[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]       No cost to bathe here"[END]
-13-10E:
+13-10E:@Chimera Lab Entspannungsanlage[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]       Sogar kostenlos"[END]
 // Repeats: 13-10, 14-10, 17-10, 36-10, 42-10, 55-10, 72-10, 77-10, 80-10, 96-10, 180-10, 181-10, 182-10, 192-10, 203-10, 207-10, 249-10, 250-10, 251-10, 252-10, 263-10, 327-10, 328-10, 329-10, 330-10, 331-10, 332-10, 373-10, 374-10, 375-10, 376-10, 377-10, 378-10, 379-10, 443-10, 467-10, 468-10, 469-10, 471-10, 472-10, 477-10, 803-10, 877-10, 878-10, 880-10, 882-10, 892-10, 900-10
 13-11:@Mole Cricket Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]     Mole Cricket Spring Water"[WAIT]           (An extra syllable)[END]
-13-11E:
+13-11E:@Heiße Quelle der Maulwurfsgrillen[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Maulwurfsgrillen Quellenwasser"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-11, 14-11, 17-11, 36-11, 42-11, 55-11, 72-11, 77-11, 80-11, 96-11, 180-11, 181-11, 182-11, 192-11, 203-11, 207-11, 249-11, 250-11, 251-11, 252-11, 263-11, 327-11, 328-11, 329-11, 330-11, 331-11, 332-11, 373-11, 374-11, 375-11, 376-11, 377-11, 378-11, 379-11, 443-11, 467-11, 468-11, 469-11, 471-11, 472-11, 477-11, 803-11, 877-11, 878-11, 880-11, 882-11, 892-11, 900-11
 13-12:@Osohe Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]         Osohe Spring Water"[WAIT]           (An extra syllable)[END]
-13-12E:
+13-12E:@Heiße Quelle von Oshoe[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Osohe Quellenwasser"[WAIT]        (Eine extra Silbe)[END]
 // Repeats: 13-12, 14-12, 17-12, 36-12, 42-12, 55-12, 72-12, 77-12, 80-12, 96-12, 180-12, 181-12, 182-12, 192-12, 203-12, 207-12, 249-12, 250-12, 251-12, 252-12, 263-12, 327-12, 328-12, 329-12, 330-12, 331-12, 332-12, 373-12, 374-12, 375-12, 376-12, 377-12, 378-12, 379-12, 443-12, 467-12, 468-12, 469-12, 471-12, 472-12, 477-12, 803-12, 877-12, 878-12, 880-12, 882-12, 892-12, 900-12
 13-13:@Violet's Spa[WAIT]  "Yeah, you can use it."[END]
-13-13E:
+13-13E:@Spa von Violet[WAIT]  "Ja, du darfst es benutzen."[END]
 // Repeats: 13-13, 14-13, 17-13, 36-13, 42-13, 55-13, 72-13, 77-13, 80-13, 96-13, 180-13, 181-13, 182-13, 192-13, 203-13, 207-13, 249-13, 250-13, 251-13, 252-13, 263-13, 327-13, 328-13, 329-13, 330-13, 331-13, 332-13, 373-13, 374-13, 375-13, 376-13, 377-13, 378-13, 379-13, 443-13, 467-13, 468-13, 469-13, 471-13, 472-13, 477-13, 803-13, 877-13, 878-13, 880-13, 882-13, 892-13, 900-13
 13-14:@Kumatora's Spa[WAIT]  "Yeah, you can use it."[END]
-13-14E:
+13-14E:@Spa von Kumatora[WAIT]  "Ja, du darfst es benutzen."[END]
 // Repeats: 13-14, 14-14, 17-14, 36-14, 42-14, 55-14, 72-14, 77-14, 80-14, 96-14, 180-14, 181-14, 182-14, 192-14, 203-14, 207-14, 249-14, 250-14, 251-14, 252-14, 263-14, 327-14, 328-14, 329-14, 330-14, 331-14, 332-14, 373-14, 374-14, 375-14, 376-14, 377-14, 378-14, 379-14, 443-14, 467-14, 468-14, 469-14, 471-14, 472-14, 477-14, 803-14, 877-14, 878-14, 880-14, 882-14, 892-14, 900-14
 13-15:@No-Name Hot Spring.[END]
-13-15E:
+13-15E:@No-Name Hot Spring.[END]
 // Repeats: 13-15, 14-15, 17-15, 36-15, 42-15, 55-15, 72-15, 77-15, 80-15, 96-15, 180-15, 181-15, 182-15, 192-15, 203-15, 207-15, 249-15, 250-15, 251-15, 252-15, 263-15, 327-15, 328-15, 329-15, 330-15, 331-15, 332-15, 373-15, 374-15, 375-15, 376-15, 377-15, 378-15, 379-15, 443-15, 467-15, 468-15, 469-15, 471-15, 472-15, 477-15, 803-15, 877-15, 878-15, 880-15, 882-15, 892-15, 900-15
 13-16:@Secrets ahead.[BREAK]  No trespassing.[END]
-13-16E:
+13-16E:@Geheimnisse voraus.[BREAK]  Zutritt verboten.[END]
 // Repeats: 13-16, 14-16, 17-16, 36-16, 42-16, 55-16, 72-16, 77-16, 80-16, 96-16, 180-16, 181-16, 182-16, 192-16, 203-16, 207-16, 249-16, 250-16, 251-16, 252-16, 263-16, 327-16, 328-16, 329-16, 330-16, 331-16, 332-16, 373-16, 374-16, 375-16, 376-16, 377-16, 378-16, 379-16, 443-16, 467-16, 468-16, 469-16, 471-16, 472-16, 477-16, 803-16, 877-16, 878-16, 880-16, 882-16, 892-16, 900-16
 13-17:@Tanetane Hot Spring further ahead.[WAIT]  Be careful not to slip and fall in the sludge![END]
-13-17E:
+13-17E:@Heiße Quelle von Tanetane voraus.[WAIT]  Sei vorsichtig um nicht im Schlamm[BREAK]  auszurutschen![END]
 // Repeats: 13-17, 14-17, 17-17, 36-17, 42-17, 55-17, 72-17, 77-17, 80-17, 96-17, 180-17, 181-17, 182-17, 192-17, 203-17, 207-17, 249-17, 250-17, 251-17, 252-17, 263-17, 327-17, 328-17, 329-17, 330-17, 331-17, 332-17, 373-17, 374-17, 375-17, 376-17, 377-17, 378-17, 379-17, 443-17, 467-17, 468-17, 469-17, 471-17, 472-17, 477-17, 803-17, 877-17, 878-17, 880-17, 882-17, 892-17, 900-17
 13-18:@Gorgeous Hot Spring[WAIT]  "Tee hee."[END]
-13-18E:
+13-18E:@Umwerfende heiße Quelle[WAIT]  "Tee hee."[END]
 // Repeats: 13-18, 14-18, 17-18, 36-18, 42-18, 55-18, 72-18, 77-18, 80-18, 96-18, 180-18, 181-18, 182-18, 192-18, 203-18, 207-18, 249-18, 250-18, 251-18, 252-18, 263-18, 327-18, 328-18, 329-18, 330-18, 331-18, 332-18, 373-18, 374-18, 375-18, 376-18, 377-18, 378-18, 379-18, 443-18, 467-18, 468-18, 469-18, 471-18, 472-18, 477-18, 803-18, 877-18, 878-18, 880-18, 882-18, 892-18, 900-18
 13-19:@Hot Spring Powder Hot Spring[WAIT]  "For our customers' greater satisfaction,[WAIT]  we mix in about 20 bags of Hot Spring Powder[BREAK]  each and every day."[END]
-13-19E:
+13-19E:@Puder Heiße Quelle[WAIT]  "Für die größeren Ansprüche unserer Kunden,[WAIT]  mixen wir circa 20 Säcke Heiße-Quelle-Puder[BREAK]  jeden Tag hinzu."[END]
 // Repeats: 13-19, 14-19, 17-19, 36-19, 42-19, 55-19, 72-19, 77-19, 80-19, 96-19, 180-19, 181-19, 182-19, 192-19, 203-19, 207-19, 249-19, 250-19, 251-19, 252-19, 263-19, 327-19, 328-19, 329-19, 330-19, 331-19, 332-19, 373-19, 374-19, 375-19, 376-19, 377-19, 378-19, 379-19, 443-19, 467-19, 468-19, 469-19, 471-19, 472-19, 477-19, 803-19, 877-19, 878-19, 880-19, 882-19, 892-19, 900-19
 13-20:@Tanetane Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]      Tanetane Spring Water"[WAIT]    (Extra syllables, of course)[END]
-13-20E:
+13-20E:@Heiße Quelle von Tanetane[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Tanetane Quellenwasser"[WAIT]        (Extra Silbem, natürlich)[END]
 // Repeats: 13-20, 14-20, 17-20, 36-20, 42-20, 55-20, 72-20, 77-20, 80-20, 96-20, 180-20, 181-20, 182-20, 192-20, 203-20, 207-20, 249-20, 250-20, 251-20, 252-20, 263-20, 327-20, 328-20, 329-20, 330-20, 331-20, 332-20, 373-20, 374-20, 375-20, 376-20, 377-20, 378-20, 379-20, 443-20, 467-20, 468-20, 469-20, 471-20, 472-20, 477-20, 803-20, 877-20, 878-20, 880-20, 882-20, 892-20, 900-20
 13-21:@You'll be punished horribly and severely if you[BREAK]  get your Happy Box wet![WAIT]@Don't risk it! It's not worth it![END]
-13-21E:
+13-21E:@Du wirst bestraft hart werden, wenn deine[BREAK]  Glücklichkeitsbox nass wird![WAIT]@Riskier es nicht! Es ist es nicht wert![END]
 // Repeats: 13-21, 14-21, 17-21, 36-21, 42-21, 55-21, 72-21, 77-21, 80-21, 96-21, 180-21, 181-21, 182-21, 192-21, 203-21, 207-21, 249-21, 250-21, 251-21, 252-21, 263-21, 327-21, 328-21, 329-21, 330-21, 331-21, 332-21, 373-21, 374-21, 375-21, 376-21, 377-21, 378-21, 379-21, 443-21, 467-21, 468-21, 469-21, 471-21, 472-21, 477-21, 803-21, 877-21, 878-21, 880-21, 882-21, 892-21, 900-21
 13-22:@You're way too impatient, [FLINT 22 01 00]![END]
-13-22E:
+13-22E:@Du bist viel zu ungeduldig, [FLINT 22 01 00]![END]
 // Repeats: 13-22, 14-22, 17-22, 36-22, 42-22, 55-22, 72-22, 77-22, 80-22, 96-22, 180-22, 181-22, 182-22, 192-22, 203-22, 207-22, 249-22, 250-22, 251-22, 252-22, 263-22, 327-22, 328-22, 329-22, 330-22, 331-22, 332-22, 373-22, 374-22, 375-22, 376-22, 377-22, 378-22, 379-22, 443-22, 467-22, 468-22, 469-22, 471-22, 472-22, 477-22, 803-22, 877-22, 878-22, 880-22, 882-22, 892-22, 900-22
 13-23:@You'll get no results from hot springs[BREAK]  that way![WAIT]@Don't you even know the famous haiku,[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]            Fa-la-la-la-la"?![END]
-13-23E:
+13-23E:@Dadurch wirst du kein Profit aus den heißen[BREAK]  Quellen ziehen![WAIT]@Kennst du wenigstens das bekannten Haiku,[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]            Fa-la-la-la-la"?![END]
 // Repeats: 13-23, 14-23, 17-23, 36-23, 42-23, 55-23, 72-23, 77-23, 80-23, 96-23, 180-23, 181-23, 182-23, 192-23, 203-23, 207-23, 249-23, 250-23, 251-23, 252-23, 263-23, 327-23, 328-23, 329-23, 330-23, 331-23, 332-23, 373-23, 374-23, 375-23, 376-23, 377-23, 378-23, 379-23, 443-23, 467-23, 468-23, 469-23, 471-23, 472-23, 477-23, 803-23, 877-23, 878-23, 880-23, 882-23, 892-23, 900-23
 13-24:@Incredibly enough, there was a hot spring[BREAK]  inside the box![END]
-13-24E:
+13-24E:@Unwahrscheinlicherweise, war in der Box eine[BREAK]  heiße Quelle![END]
 // Repeats: 13-24, 14-24, 17-24, 36-24, 42-24, 55-24, 72-24, 77-24, 80-24, 96-24, 180-24, 181-24, 182-24, 192-24, 203-24, 207-24, 249-24, 250-24, 251-24, 252-24, 263-24, 327-24, 328-24, 329-24, 330-24, 331-24, 332-24, 373-24, 374-24, 375-24, 376-24, 377-24, 378-24, 379-24, 443-24, 467-24, 468-24, 469-24, 471-24, 472-24, 477-24, 803-24, 877-24, 878-24, 880-24, 882-24, 892-24, 900-24
 13-25:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Some people always try to avoid fighting when[BREAK]  there are enemies around.[WAIT]  You know the type, right?[WAIT]  They use the dash ability to zoom right by.[WAIT]  I guess you could say they're followers of[BREAK]  "peace at any price".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] No, no, no.[PAUSE 08 00][BREAK]  I'm not saying that's how you are or anything.[WAIT]  I just think that if you keep running away from[BREAK]  everything now,[WAIT]  later on when you HAVE to fight, you'll have a[BREAK]  really rough time because you lack experience.[WAIT]     "Always running off[PAUSE 18 00][BREAK]    will only lead to regret[PAUSE 18 00][BREAK]      my young disciple."[WAIT]  Please keep this in mind.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-13-25E:
+13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit um ihnen zu[BREAK]  entgehen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Frieden um jeden Preis".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein, nein, nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn du[BREAK]  jetzt vor allem wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann eine ziemlich harte Zeit hast,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun um es wie ein Spatz zu beenden...[EVENT][END]
 // Repeats: 13-25, 14-25, 17-25, 36-25, 42-25, 55-25, 72-25, 77-25, 80-25, 96-25, 180-25, 181-25, 182-25, 192-25, 203-25, 207-25, 249-25, 250-25, 251-25, 252-25, 263-25, 327-25, 328-25, 329-25, 330-25, 331-25, 332-25, 373-25, 374-25, 375-25, 376-25, 377-25, 378-25, 379-25, 443-25, 467-25, 468-25, 469-25, 471-25, 472-25, 477-25, 803-25, 877-25, 878-25, 880-25, 882-25, 892-25, 900-25
 13-26:[SOUND 03 00]  chirp-chirp chirp-chirp!)[END]
-13-26E:
+13-26E:[SOUND 03 00]  zwitscher-zwitscher zwitscher-zwitscher!)[END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 13-27:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-13-27E:
+13-27E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 13-28:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-13-28E:
+13-28E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 13-29:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-13-29E:
+13-29E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 13-30:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-13-30E:
+13-30E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 13-31:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-13-31E:
+13-31E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 13-32:@The house has completely collapsed.[END]
-13-32E:
+13-32E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 13-33:@*cough* *cough*[WAIT]@Oh, it's you, [FLINT 23 01 00].[WAIT]@I THOUGHT I saw someone as manly as me[BREAK]  walking this way.[WAIT]@This smoke is terrible, and with my sensitive[BREAK]  throat, I can't continue any further.[WAIT]@So you can have this cookie instead.[WAIT]  Let this [PAUSE 1E 00]slightly unclean[PAUSE 1E 00] and not very tasty[BREAK]  cookie be of use.[WAIT]@......[WAIT]  Please, [PAUSE 0F 00]let it be of use.[END]
-13-33E:
+13-33E:@*keuch* *keuch*[WAIT]@Oh, du bist's, [FLINT 23 01 00].[WAIT]@Ich DACHTE, ich sah jemanden so männlichen[BREAK]  wie mich hierlang laufen.[WAIT]@Dieser Rauch ist schrecklich, und mit meiner[BREAK]  sensiblen Lunge, kann ich nicht weiter gehen.[WAIT]@Also nimm stattdessen diesen Keks.[WAIT]  Lass diesen [PAUSE 1E 00]etwas dreckigen[PAUSE 1E 00] und nicht sehr[BREAK]  leckeren Keks von Nutzen sein.[WAIT]@......[WAIT]  Bitte, [PAUSE 0F 00]lass es von Nutzen sein.[END]
 13-34:@*cough* [PAUSE 0C 00]*cough*[PAUSE 0C 00] *cough*[PAUSE 0C 00][BREAK]@Alright, alright.[WAIT]@I'll give you one more of my slightly unclean[BREAK]  and not very tasty cookies.[WAIT]@Let it be of use.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Please, [PAUSE 10 00]let it be of use.[END]
-13-34E:
+13-34E:@*keuch* [PAUSE 0C 00]*keuch*[PAUSE 0C 00] *keuch*[PAUSE 0C 00][BREAK]@Schon gut, schon gut.[WAIT]@Ich werde dir noch einen von meinen etwas[BREAK] dreckigen und nicht sehr leckeren Keksen[WAIT]  geben.[WAIT]@Lass es von Nutzen sein.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Bitte, [PAUSE 10 00]lass es von Nutzen sein.[END]
 13-35:@Hey. [PAUSE 10 00]You can't hold any more stuff.[END]
-13-35E:
+13-35E:@Hey. [PAUSE 10 00]Du kannst kein weiteres Zeugs tragen.[END]
 13-36:@I-[PAUSE 0F 00] I know you want more, but...[END]
-13-36E:
+13-36E:@I-[PAUSE 0F 00] ich weißt, du willst mehr, aber...[END]
 13-37:@Where could Isaac be?![END]
-13-37E:
+13-37E:@Wo könnte Isaac sein?![END]
 13-38:@"Beware of poisonous snakes!"[WAIT]@There should be antidotes somewhere around[BREAK]  here.[END]
 13-38E:
 13-39:@Oh, [FLINT 23 01 00].[WAIT]@*cough* *cough*[WAIT]@Gaah! I've breathed in too much smoke![WAIT]@Lighter and his son Fuel still aren't back yet![WAIT]@I'm pretty sure they're stuck inside the forest![WAIT]@*cough* *cough*[PAUSE 28 00][WAIT]@Don't worry about me![PAUSE 20 00] Go help them![END]
@@ -5481,22 +5481,22 @@
 
 [Container 83]
 83-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-83-0E:
+83-0E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 83-1:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-83-1E:
+83-1E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 83-2:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-83-2E:
+83-2E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 83-3:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-83-3E:
+83-3E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 83-4:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-83-4E:
+83-4E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 83-5:@The house has completely collapsed.[END]
-83-5E:
+83-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 83-6:@Help![END]
 83-6E:
@@ -5518,22 +5518,22 @@
 
 [Container 84]
 84-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-84-0E:
+84-0E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 84-1:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-84-1E:
+84-1E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 84-2:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-84-2E:
+84-2E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 84-3:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-84-3E:
+84-3E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 84-4:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-84-4E:
+84-4E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 84-5:@The house has completely collapsed.[END]
-84-5E:
+84-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 
 [Container 86]
@@ -5719,7 +5719,7 @@
 90-1:@Squeak squeak-squeak-squeak...[BREAK]  (Guess I have no choice but to hit the road...)[END]
 90-1E:
 90-2:@The house has completely collapsed.[END]
-90-2E:
+90-2E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 90-3:[END]
 90-3E:
@@ -6416,10 +6416,10 @@
 116-0:@That was a very nice grave old Nippolyte[BREAK]  made.[WAIT]@But...[WAIT]@But I had to come back home.[WAIT]@Seeing [LUCAS 22 03 00]'s sobbing face was just[BREAK]  too much for me to handle...[END]
 116-0E:
 116-1:@[FLINT 22 01 00]. Just take this and go.[WAIT]@It's "the" Drago fang.[WAIT]@I made it into a weapon.[WAIT]@The only thing that can pierce the tough hide[BREAK]  of a Drago is a Drago's fang.[WAIT]@There's no other weapon that can beat a[BREAK]  Drago.[END]
-116-1E:
+116-1E:@[FLINT 22 01 00]. Nimm das und geh.[WAIT]@Das ist "der" Drago-Zahn.[WAIT]@Ich habe es in eine Waffe umfungiert.[WAIT]@Das einzige, dass die harte Haut eines Dragos[BREAK]  durchstechen kann, ist ein Drago-Zahn.[WAIT]@Es gibt keine andere Waffe, die einen Drago[BREAK]  besiegen kann.[END]
 // Repeats: 12-78, 116-1
 116-2:@I realize this might be tough for you to accept,[BREAK]  but you should take it.[END]
-116-2E:
+116-2E:@Ich glaube, du kannst sowas nicht einfach[BREAK]  annehmen, aber du solltest es nehmen.[END]
 // Repeats: 12-79, 116-2
 116-3:@...Hey. Your inventory's full.[WAIT]@Come back after you organize your stuff.[END]
 116-3E:
@@ -7065,22 +7065,22 @@
 
 [Container 131]
 131-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-131-0E:
+131-0E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 131-1:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-131-1E:
+131-1E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 131-2:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-131-2E:
+131-2E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 131-3:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-131-3E:
+131-3E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 131-4:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-131-4E:
+131-4E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 131-5:@The house has completely collapsed.[END]
-131-5E:
+131-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 131-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
 131-6E:
@@ -7973,22 +7973,22 @@
 
 [Container 171]
 171-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-171-0E:
+171-0E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 171-1:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-171-1E:
+171-1E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 171-2:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-171-2E:
+171-2E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 171-3:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-171-3E:
+171-3E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 171-4:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-171-4E:
+171-4E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 171-5:@The house has completely collapsed.[END]
-171-5E:
+171-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 171-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
 171-6E:
@@ -13251,22 +13251,22 @@
 
 [Container 341]
 341-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
-341-0E:
+341-0E:@Wahh![WAIT]@Ich bin pechschwarz und voller Ruß,[PAUSE 20 00] aber ich[BREAK]  bin am Leben.[WAIT]@Oh, Sie sind auch pechschwarz, Herr[BREAK]  [FLINT 23 01 00].[WAIT]@Vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![WAIT]@Vielen, vielen Dank,[BREAK]  Herr Pechschwarz [FLINT 23 01 00]![END]
 // Repeats: 13-27, 83-0, 84-0, 131-0, 171-0, 341-0
 341-1:@Oh, yeah![WAIT]@We need to let my dad know I'm okay.[WAIT]@He's probably worried sick about me[BREAK]  somewhere![END]
-341-1E:
+341-1E:@Oh, yeah![WAIT]@Wir müssen meinem Vater wissen lassen,[BREAK]  dass es mir gut geht.[WAIT]@Er ist wahrscheinlich krank vor Sorge![END]
 // Repeats: 13-28, 83-1, 84-1, 131-1, 171-1, 341-1
 341-2:@*hop* *hop*![BREAK]  I really recommend you save now.[WAIT]@Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-341-2E:
+341-2E:@*hüpf* *hüpf*![BREAK]  Ich empfehle dir ernsthaft, jetzt zu speichern.[WAIT]@Ok?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 13-29, 83-2, 84-2, 131-2, 171-2, 341-2
 341-3:@Won't you reconsider?[WAIT]@I'm almost willing to save without your[BREAK]  permission. That's how serious I am.[END]
-341-3E:
+341-3E:@Willst du es dir nicht nochmal anders[BREAK]  überlegen?[WAIT]@Ich bin kurz davor ohne deine Erlaubnis zu[BREAK]  speichern. So ernst bin ich.[END]
 // Repeats: 13-30, 83-3, 84-3, 131-3, 171-3, 341-3
 341-4:@Oh, I see...[WAIT]@You know, you're quite pitch black.[END]
-341-4E:
+341-4E:@Oh, Ich verstehe...[WAIT]@Weißt du, bist pechschwarz.[END]
 // Repeats: 13-31, 83-4, 84-4, 131-4, 171-4, 341-4
 341-5:@The house has completely collapsed.[END]
-341-5E:
+341-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 341-6:@Help![END]
 341-6E:
