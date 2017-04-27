@@ -1663,7 +1663,7 @@
 13-1E:@Heiße Quelle des Tunnels[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]       Tunnel Quellenwasser"[END]
 // Repeats: 13-1, 14-1, 17-1, 36-1, 42-1, 55-1, 72-1, 77-1, 80-1, 96-1, 180-1, 181-1, 182-1, 192-1, 203-1, 207-1, 249-1, 250-1, 251-1, 252-1, 263-1, 327-1, 328-1, 329-1, 330-1, 331-1, 332-1, 373-1, 374-1, 375-1, 376-1, 377-1, 378-1, 379-1, 443-1, 467-1, 468-1, 469-1, 471-1, 472-1, 477-1, 803-1, 877-1, 878-1, 880-1, 882-1, 892-1, 900-1
 13-2:@Mole Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]          Mole Spring Water"[WAIT]          (Too few syllables)[END]
-13-2E:@Heiße Quelle der Maulwürfe[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Maulwurf Quellenwasser"[WAIT]        (Zu wenige Silben)
+13-2E:@Heiße Quelle der Maulwürfe[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Maulwurf Quellenwasser"[WAIT]        (Zu wenige Silben)[END]
 // Repeats: 13-2, 14-2, 17-2, 36-2, 42-2, 55-2, 72-2, 77-2, 80-2, 96-2, 180-2, 181-2, 182-2, 192-2, 203-2, 207-2, 249-2, 250-2, 251-2, 252-2, 263-2, 327-2, 328-2, 329-2, 330-2, 331-2, 332-2, 373-2, 374-2, 375-2, 376-2, 377-2, 378-2, 379-2, 443-2, 467-2, 468-2, 469-2, 471-2, 472-2, 477-2, 803-2, 877-2, 878-2, 880-2, 882-2, 892-2, 900-2
 13-3:@Snowcap Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]      Snowcap Spring Water"[END]
 13-3E:@Heiße Quelle des Schneekrönchens[WAIT]     "Es gibt kein Grund zur Eile[BREAK]     Fünf Sekunden verjüngt[WAIT]        Schneekrönchen Quellenwasser"[END]
@@ -2921,11 +2921,11 @@
 32-27:@They're not above using violence against[BREAK]  senior citizens, I see.[END]
 32-27E:
 32-28:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Old man Wess is definitely going to go bald.[WAIT]@[PAUSE 3A 00]Yes, there's no doubt about it.[WAIT]@Bald. Definitely.[END]
-32-28E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]
+32-28E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT][END]
 32-29:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Is old man Wess okay?[WAIT]@No, I don't mean injury-wise...[BREAK][PAUSE 1E 00]  I mean hair-wise.[WAIT]@After all, he did get his hair caught in that bug[BREAK]  net and everything.[END]
-32-29E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]
+32-29E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT][END]
 32-30:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Here. I've circled some suspicious places for[BREAK]  you.[END]
-32-30E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+32-30E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 32-31:@Is the map I gave you helping any?[END]
 32-31E:
 32-32:@There's no telling what's going to happen next,[BREAK]  so be careful.[END]
@@ -2964,7 +2964,7 @@
 32-48:@Whew, I'm parched! Talking all the time can[BREAK]  really get to you after a while.[WAIT]@Whoa! It's you! Shoo! Shoo![END]
 32-48E:
 32-49:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, hi there, [LUCAS 23 02 00].[WAIT]@That's a strange friend you have with you.[WAIT]@No, no, no.[WAIT]@I don't mean there's anything wrong with that.[WAIT]@What?[WAIT]@Aeolia's house, you say?[WAIT]@I don't know who that is, but I think it's around[BREAK]  here somewhere.[WAIT]@I'll mark your map for you.[END]
-32-49E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+32-49E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 32-50:@Your map's been marked![END]
 32-50E:@Auf deiner Karte wurde etwas markiert![END]
 // Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
@@ -3240,7 +3240,7 @@
 35-12E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 35-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-35-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+35-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 35-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 35-14E:
@@ -3388,7 +3388,7 @@
 36-43E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 36-44:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-36-44E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+36-44E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 36-45:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 36-45E:
@@ -3643,7 +3643,7 @@
 38-12E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 38-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-38-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+38-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 38-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 38-14E:
@@ -3889,7 +3889,7 @@
 38-120:@Don't worry, Dad![BREAK]  Whatever happens, happens![END]
 38-120E:
 38-121:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-38-121E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+38-121E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 38-122:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 38-122E:
@@ -4294,7 +4294,7 @@
 48-12E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 48-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-48-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+48-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 48-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 48-14E:
@@ -4369,7 +4369,7 @@
 49-12E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 49-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-49-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+49-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 49-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 49-14E:
@@ -10314,7 +10314,7 @@
 222-67E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 222-68:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-222-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+222-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 222-69:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 222-69E:
@@ -10420,7 +10420,7 @@
 223-12E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 223-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-223-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+223-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 223-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 223-14E:
@@ -16930,7 +16930,7 @@
 506-67E:
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 506-68:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-506-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]
+506-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 506-69:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
 506-69E:
