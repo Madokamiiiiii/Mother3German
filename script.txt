@@ -1767,7 +1767,7 @@
 13-37:@Where could Isaac be?![END]
 13-37E:@Wo könnte Isaac sein?![END]
 13-38:@"Beware of poisonous snakes!"[WAIT]@There should be antidotes somewhere around[BREAK]  here.[END]
-13-38E:
+13-38E:@"Vorsicht vor den giftigen Schlangen!"[WAIT]@Dort sollten ein paar Gegengifte herumliegen.[END]
 13-39:@Oh, [FLINT 23 01 00].[WAIT]@*cough* *cough*[WAIT]@Gaah! I've breathed in too much smoke![WAIT]@Lighter and his son Fuel still aren't back yet![WAIT]@I'm pretty sure they're stuck inside the forest![WAIT]@*cough* *cough*[PAUSE 28 00][WAIT]@Don't worry about me![PAUSE 20 00] Go help them![END]
 13-39E:
 13-40:@Don't worry about me![PAUSE 20 00] Go help them![END]
