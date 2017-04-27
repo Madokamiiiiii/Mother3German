@@ -1574,44 +1574,44 @@
 12-45:@*gasp*[PAUSE 08 00]  *wheeze*[PAUSE 08 00]  *gasp*[PAUSE 08 00]  *wheeze*[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@I still don't feel so good.[END]
 12-45E:@*hust*[PAUSE 08 00]  *keuch*[PAUSE 08 00]  *hust*[PAUSE 08 00]  *keuch*[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Mir geht es immer noch nicht gut.[END]
 12-46:[SOUND 03 00]@Chirp chirppp![WAIT]  (Sparrow Advice![WAIT]  Got a minute?[WAIT]  If you're ever out of strength or find yourself[BREAK]  poisoned,[WAIT]  a dip in a hot spring is best for what ails you.[WAIT]  But it's important that you stay in the water[BREAK]  for a while for it to be effective.[WAIT]  And actually, there's a nice hot spring right[BREAK]  inside the Sunshine Forest, too.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-12-46E:
+12-46E:[SOUND 03 00]@Zwitscher zwiiiiiitscher![WAIT]  (Spatz Hinweis![WAIT]  Hast du 'ne Minute?[WAIT]  Wenn du mal ausgepoweret bist oder[BREAK]  vergiftet bist,[WAIT]  ist ein Bad in einer heißen Quelle genau das[BREAK]  Richtige für dich.[WAIT]  Aber du musst auch eine Weile drin bleiben,[BREAK]  damit es wirkt.[WAIT]  Und glücklicherweise ist auch genau so eine[BREAK]  schöne Quelle direkt im Sonnenscheinwald.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 12-47:[SOUND 03 00]  chirp chirp!)[END]
-12-47E:
+12-47E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 // Repeats: 12-47, 14-28
 12-48:@[FLINT 23 01 00]![BREAK]  Thank heavens you're here![WAIT]@I think Lighter and Fuel are still stuck inside the[BREAK]  forest![WAIT]@Don't worry, I'll hold back these[BREAK]  rubberneckers![WAIT]@You just hurry and find them![END]
-12-48E:
+12-48E:@[FLINT 23 01 00]![BREAK]  Dem Himmel sei Dank, bist du da![WAIT]@Ich glaube Lighter und Fuel stecken immernoch[BREAK]  im Wald fest![WAIT]@Nur die Ruhe, ich werde diese Schaulustige[BREAK]  zurückhalten![WAIT]@Geht einfach los und sucht sie![END]
 12-49:@Where's the fire?! Is it on fire?![WAIT]@Ooh! I bet it's a big, giant, foresty fire![END]
-12-49E:
+12-49E:@Wo ist das Feuer?! Brennt es?![WAIT]@Ooh! Ich wette es ist ein riesiges, gigantisches,[BREAK]  waldiges Feuer![END]
 12-50:@This is a big emergency, so I came to help out![WAIT]  But Ed won't let me through![WAIT]@I can be useful too, you know! I'm not just[BREAK]  some annoying onlooker![END]
-12-50E:
+12-50E:@Dies ist ein Notfall, also bin ich gekommen[BREAK]  um zu helfen![WAIT]  Aber Ed will mich nicht durchlassen![WAIT]@Weißt du, ich kann auch nützlich sein! Ich bin[BREAK]  nicht nur irgendein nerviger Gaffer![END]
 12-51:@[FLINT 23 01 00]! Wait! Hold up![END]
-12-51E:
+12-51E:@[FLINT 23 01 00]! Warte! Halt an![END]
 12-52:@Any responsible person heading into the forest[WAIT]  would first stop by the sanctuary to say a[BREAK]  little something to the forest gods![WAIT]@At least that's my opinion, anyway![EVENT][END]
-12-52E:
+12-52E:@Jede verantwortungsvolle Person, der[BREAK]  Richtung Wald geht,[WAIT]  sollte zuerst im Heiligtum vorbeischauen um[BREAK]  den Waldgöttern etwas nettes zu sagen![WAIT]@Jedenfalls sollte man das meiner Meinung nach[BREAK]  machen![EVENT][END]
 12-53:@Is it...[WAIT]  Is it so wrong of me to think that way?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-12-53E:
+12-53E:@Ist es...[WAIT]  Ist es wirklich so falsch so zu denken?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 12-54:@Pray.[WAIT]@Pray that the forest and the people and the[BREAK]  animals and I can all have happiness.[END]
-12-54E:
+12-54E:@Bete.[WAIT]@Bete, dass der Wald und die Menschen und die[BREAK]  Tiere und ich alle Glücklichkeit haben können.[END]
 // this character uses the phrase "the forest and the people and the animals and I" all the time
 12-55:@Hold on, [FLINT 23 01 00]![WAIT]  Don't just ignore me and the gods of the[BREAK]  forest![END]
-12-55E:
+12-55E:@Warte, [FLINT 23 01 00]![WAIT]  Ignoriere nicht einfach mich und Götter[BREAK]  des Waldes![END]
 12-56:@No matter how much of a hurry you're in, you[BREAK]  can't forget your customs.[WAIT]@Is it so wrong of me to think that way?![END]
-12-56E:
+12-56E:@Egal wie sehr du in Eile bist, du darfst deine[BREAK]  Sitten nicht vernachlässigen.[WAIT]@Ist es wirklich so falsch so zu denken?![END]
 12-57:@[FLINT 23 01 00]![WAIT]@You're pitch black and covered in soot...[WAIT]  ...but you're all right![WAIT]@Being the responsible man I am, I managed to[BREAK]  bring Lighter here![WAIT]@Hurry and let him see Fuel.[END]
-12-57E:
+12-57E:@[FLINT 23 01 00]![WAIT]@Du bist pechschwarz und voller Ruß...[WAIT]  ...aber dir geht es gut![WAIT]@Da ich so ein verantwortungsvoller Mann bin,[BREAK]  habe ich es geschafft[WAIT]  Lighter hierher zu bringen![WAIT]@Beeil dich und lass ihn Fuel sehen.[END]
 12-58:@Daaad![END]
-12-58E:
+12-58E:@Vaaaaaaaater![END]
 12-59:@Th-that voice.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][BREAK]  Is that you, Fuel?![WAIT]@You're alright?![WAIT]@What the...?![PAUSE 20 00] What in the world happened to[BREAK]  you?![WAIT]@You're pitch black, and covered in soot![END]
-12-59E:
+12-59E:@D-diese Stimme.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][BREAK]  Bist du das, Fuel?![WAIT]@Geht es dir gut?![WAIT]@Was zum...?![PAUSE 20 00] Was ist mit dir geschehen?![WAIT]@Du bist pechschwarz, und voller Ruß![END]
 // this "pitch black" phrase is a running gag, so keep it consistent
 12-60:@What about you, Dad?![WAIT]  You busted your leg![END]
-12-60E:
+12-60E:@Was ist mit dir, Vater?![WAIT]  Dein Bein ist angeschlagen![END]
 12-61:@Oh, this? This ain't nothin'![WAIT]  All I gotta do is twist this like so, and then do[BREAK]  this, and then.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Oww oww oww! Consarnit![END]
-12-61E:
+12-61E:@Ach, das? Das ist gar nichts![WAIT]  Alles, was ich tun muss, ist es so zu drehen[BREAK]  und dann dies, und das.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Autsch autsch autsch! Mist![END]
 12-62:@Boss! What in the world are you doing?![END]
-12-62E:
+12-62E:@Boss! Was zur Hölle machen Sie?![END]
 12-63:@Fixing my injuries, obviously![BREAK]  What does it look like?![END]
-12-63E:
+12-63E:@Ich behandel offensichtlich meine Verletzungen![BREAK]  Nach was sieht es denn aus?![END]
 12-64:@Anyways, we sure are lucky [FLINT 23 01 00][BREAK]  showed up when he did.[END]
 12-64E:
 12-65:@Yeah, he and Lighter've always been quarreling[BREAK]  buddies since they were kids.[WAIT]@It's enough to make me jealous.[END]
@@ -1881,7 +1881,7 @@
 14-27:[SOUND 03 00]@Chirp chirp.[WAIT]  (The Magypsies are having their monthly tea[BREAK]  party today.[WAIT]  Can't you hear those indescribably deep yet[BREAK]  shrill voices coming from Aeolia's house?[EVENT][END]
 14-27E:
 14-28:[SOUND 03 00]  chirp chirp!)[END]
-14-28E:
+14-28E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 // Repeats: 12-47, 14-28
 14-29:@[FLINT 23 01 00].[WAIT]@Go wherever your heart takes you![WAIT]@...But not that way!![END]
 14-29E:
