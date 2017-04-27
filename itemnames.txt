@@ -65,7 +65,7 @@
 001F: Handy Yo-Yo
 001F-E: Handlicher Jo-Jo
 0020: Canine Weapon
-0020-E: 
+0020-E: Hunde-Waffe
 0021: DCMC Pamphlet
 0021-E: DCMC Broschüre
 0022: Fake Bat
@@ -243,93 +243,93 @@
 0078: Strawberry Tofu
 0078-E: Erdbeer-Tofu
 0079: Lucky Rice
-0079-E: 
+0079-E: Glückbringender Reis
 007A: Lotto Meal
-007A-E: 
+007A-E: Lotto-Mahlzeit
 007B: Jumbo Shrimp Soup
-007B-E: 
+007B-E: Jumbo Shrimp-Suppe
 007C: Giant Abalone Steak
-007C-E: 
+007C-E: Riesiges Seeohr-Steak
 007D: Double Jerky
-007D-E: 
+007D-E: Doppel-Dörrfleisch
 007E: Grilled Chicken
-007E-E: 
+007E-E: Gegrilltes Hühnchen
 007F: Grilled Fish
-007F-E: 
+007F-E: Gegrillter Fisch
 0080: Pasta with a Past
-0080-E: 
+0080-E: Pasta mit Geschichte
 0081: Favorite Pizza
-0081-E: 
+0081-E: Lieblings-Pizza
 0082: King Burger
-0082-E: 
+0082-E: Kingsize-Burger
 0083: Beefsteak
-0083-E: 
+0083-E: Rindersteak
 0084: Rich Kid Stew
-0084-E: 
+0084-E: Schwere Kinder-Suppe
 0085: Rich Parfait
-0085-E: 
+0085-E: Schweres Parfait
 0086: Hot Dog Sushi
-0086-E: 
+0086-E: Hot-Dog Sushi
 0087: Magic Gelatin
-0087-E: 
+0087-E: Magische Gelatine
 0088: Magic Tart
-0088-E: 
+0088-E: Magische Torte
 0089: Magic Pudding
-0089-E: 
+0089-E: Magischer Pudding
 008A: Magic Cake
-008A-E: 
+008A-E: Magischer Kuchen
 008B: Antidote
-008B-E: 
+008B-E: Gegengift
 008C: Anti-Paralysis
-008C-E: 
+008C-E: Anti-Lähmung
 008D: Alarm Cicada
-008D-E: 
+008D-E: Alarm-Zikade
 008E: Fresh Mint
-008E-E: 
+008E-E: Frische Minze
 008F: Paper Fan
-008F-E: 
+008F-E: Papierfächer
 0090: Recollection Bell
-0090-E: 
+0090-E: Rückbesinnungs-Glocke
 0091: Eye Drops
-0091-E: 
+0091-E: Augentropfen
 0092: Flea Powder
-0092-E: 
+0092-E: Flohpuder
 0093: Secret Herb
-0093-E: 
+0093-E: Geheimes Kraut
 0094: Cup of Lifenoodles
-0094-E: 
+0094-E: Dose Lebensnudeln
 0095: Hot Spring Egg
-0095-E: 
+0095-E: Thermalquellen-Ei
 0096: Thunder Bomb
-0096-E: 
+0096-E: Donnerbombe
 0097: Running Bomb
-0097-E: 
+0097-E: Rennende Bombe
 0098: Sprinting Bomb
-0098-E: 
+0098-E: Spurtende Bombe
 0099: Pencil Rocket
-0099-E: 
+0099-E: Bleistift-Rakete
 009A: Bomb
-009A-E: 
+009A-E: Bombe
 009B: Super Bomb
-009B-E: 
+009B-E: Super-Bombe
 009C: New Year's Eve Bomb
-009C-E: 
+009C-E: Neujahrs-Bombe
 009D: Honey Shower
-009D-E: 
+009D-E: Honig-Dusche
 009E: Ancient Banana
-009E-E: 
+009E-E: Antike Banane
 009F: Doorknob
-009F-E: 
+009F-E: Türknauf
 00A0: Bug Spray
-00A0-E: 
+00A0-E: Insektenspray
 00A1: Saltwater Gun
-00A1-E: 
+00A1-E: Salzwasser-Knarre
 00A2: Offense Spray
-00A2-E: 
+00A2-E: Angriffsspray
 00A3: Defense Spray
-00A3-E: 
+00A3-E: Verteidigungsspray
 00A4: Enemy Bufferizer
-00A4-E: 
+00A4-E: Gegner-Buffer
 00A5: Enemy Wimperizer
 00A5-E: 
 00A6: Attack Attractor
@@ -337,178 +337,178 @@
 00A7: Made-You-Look
 00A7-E: 
 00A8: Dragonfly
-00A8-E: 
+00A8-E: Libelle
 00A9: Silver Dragonfly
-00A9-E: 
+00A9-E: Silberne Libelle
 00AA: Chick
-00AA-E: 
+00AA-E: Küken
 00AB: Chicken
-00AB-E: 
+00AB-E: Huhn
 00AC: Pickled Veggie Plate
-00AC-E: 
+00AC-E: Vegetarische Platte
 00AD: Meteotite
-00AD-E: 
+00AD-E: Meteorit
 00AE: Friend's Yo-Yo
-00AE-E: 
+00AE-E: Jo-Jo eines Freundes
 00AF: Drago Fang
-00AF-E: 
+00AF-E: Drago-Zahn
 00B0: Dung
-00B0-E: 
+00B0-E: Dung
 00B1: Dolphin Ossicle
-00B1-E: 
+00B1-E: Delfinsgehörknochen
 00B2: Spiky Weapon
-00B2-E: 
+00B2-E: Stachelige Waffe
 00B3: Knit Sweater
-00B3-E: 
+00B3-E: Strickpulli
 00B4: DCMC Boxers
-00B4-E: 
+00B4-E: DCMC Shorts
 00B5: Magic Pendant
-00B5-E: 
+00B5-E: Magischer Anhänger
 00B6: Encouraging Words
-00B6-E: 
+00B6-E: Ermutigende Worte
 00B7: Baked Yam
-00B7-E: 
+00B7-E: Gebackene Kartoffel
 00B8: Mole Cricket Brother
-00B8-E: 
+00B8-E: Erdkrebsbruder
 00B9: Hermit Crab Shell
-00B9-E: 
+00B9-E: Einsiedlerkrebsschale
 00BA: Suspicious Tea
-00BA-E: 
+00BA-E: Verdächtiger Tee
 00BB: Flame Pendant
-00BB-E: 
+00BB-E: Flammen-Anhänger
 00BC: Ice Pendant
-00BC-E: 
+00BC-E: Eis-Anänger
 00BD: Thunder Pendant
-00BD-E: 
+00BD-E: Donner-Anhänger
 00BE: Courage Badge
-00BE-E: 
+00BE-E: Tapferkeitsabzeichen
 00BF: Souvenir Dress
-00BF-E: 
+00BF-E: Souvenir-Kleid
 00C0: Pencil Eraser
-00C0-E: 
+00C0-E: Bleistiftradierer
 00C1: Franklin Badge
-00C1-E: 
+00C1-E: Franklin-Abzeichen
 00C2: Kid's Shirt
-00C2-E: 
+00C2-E: Kindershirt
 00C3: Good Kid's Shirt
-00C3-E: 
+00C3-E: Gutes Kindershirt
 00C4: Kid's Hat
-00C4-E: 
+00C4-E: Kinderhut
 00C5: Jar of Yummy Pickles
-00C5-E: 
+00C5-E: Eingemachte Gurken
 00C6: Red Hat
-00C6-E: 
+00C6-E: Roter Hut
 00C7: White Ribbon
-00C7-E: 
+00C7-E: Weiße Schleife
 00C8: Bird
-00C8-E: 
+00C8-E: Vogel
 00C9: Memory Snake
-00C9-E: 
+00C9-E: Gedächtnisschlange
 00CA: Waters of Time
-00CA-E: 
+00CA-E: Zeitwasser
 00CB: Stinkbug's Memory
-00CB-E: 
+00CB-E: Stinkbugs Gedenken
 00CC: Phrygia's Notebook
-00CC-E: 
+00CC-E: Phrygias Notizbuch
 00CD: Shield Snatcher
-00CD-E: 
+00CD-E: Schildschnapper
 00CE: Test
-00CE-E: 
+00CE-E: Test
 00CF: EMPTY
-00CF-E: 
+00CF-E: EMPTY
 00D0: EMPTY
-00D0-E: 
+00D0-E: EMPTY
 00D1: EMPTY
-00D1-E: 
+00D1-E: EMPTY
 00D2: Trivia Card 1
-00D2-E: 
+00D2-E: Trivia Karte 1
 00D3: Trivia Card 2
-00D3-E: 
+00D3-E: Trivia Karte 2
 00D4: Trivia Card 3
-00D4-E: 
+00D4-E: Trivia Karte 3
 00D5: Trivia Card 4
-00D5-E: 
+00D5-E: Trivia Karte 4
 00D6: Wall Staples
-00D6-E: 
+00D6-E: Wandklammer
 00D7: Siren Beetle
-00D7-E: 
+00D7-E: Sirenenkäfer
 00D8: Smoke Bomb
-00D8-E: 
+00D8-E: Rauchbombe
 00D9: Hypno-Pendulum
-00D9-E: 
+00D9-E: Hypno-Pendel
 00DA: Scary Mask
-00DA-E: 
+00DA-E: Gruselige Maske
 00DB: Tickle Stick
-00DB-E: 
+00DB-E: Kitzelstock
 00DC: Drawbridge Key
-00DC-E: 
+00DC-E: Zugbrückenschlüssel
 00DD: Noble Spittoon
-00DD-E: 
+00DD-E: Nobler Spucknapf
 00DE: Pendant
-00DE-E: 
+00DE-E: Pendel
 00DF: Egg of Light
-00DF-E: 
+00DF-E: Ei des Lichtes
 00E0: Scrap of Cloth
-00E0-E: 
+00E0-E: Stoffetzen
 00E1: Pig Mark Notebook
-00E1-E: 
+00E1-E: Schweinenotizbuch
 00E2: Child's Shoe
-00E2-E: 
+00E2-E: Kinderschuh
 00E3: Hand File
-00E3-E: 
+00E3-E: Handfeile
 00E4: Rope Snake
-00E4-E: 
+00E4-E: Seilschlange
 00E5: Rope Snake DX
-00E5-E: 
+00E5-E: Deluxe-Seilschlange
 00E6: Transceiver
-00E6-E: 
+00E6-E: Sendeempfänger
 00E7: Ticket
-00E7-E: 
+00E7-E: Ticket
 00E8: Battle Memory
-00E8-E: 
+00E8-E: Kampfgedächtnis
 00E9: Carrier Pigeon
-00E9-E: 
+00E9-E: Brieftaube
 00EA: Razor and Lipstick
-00EA-E: 
+00EA-E: Rasierer und Lippenst
 00EB: Ionia's Memento
-00EB-E: 
+00EB-E: Ionias Andenken
 00EC: Doria's Memento
-00EC-E: 
+00EC-E: Dorias Andenken
 00ED: Phrygia's Memento
-00ED-E: 
+00ED-E: Phrygias Andenken
 00EE: Lydia's Memento
-00EE-E: 
+00EE-E: Lydias Andenken
 00EF: Missy's Memento
-00EF-E: 
+00EF-E: Missys Andenken
 00F0: Aeolia's Memento
-00F0-E: 
+00F0-E: Aeolias Andenken
 00F1: Tazmily Map
-00F1-E: 
+00F1-E: Karte von Tazmily
 00F2: Osohe Sketch
-00F2-E: 
+00F2-E: Skizze von Ozohe
 00F3: Underground Map
-00F3-E: 
+00F3-E: Karte des Untergrunds
 00F4: Railway Map
-00F4-E: 
+00F4-E: Karte der Eisenbahn
 00F5: Area Map
-00F5-E: 
+00F5-E: Karte der Gegend
 00F6: Attic Guide
-00F6-E: 
+00F6-E: Karte des Dachbodens
 00F7: Saturn Valley Map
-00F7-E: 
+00F7-E: Karte des Saturn Tals
 00F8: Sea Floor Map
-00F8-E: 
+00F8-E: Meeresbodenkarte
 00F9: Cave Map
-00F9-E: 
+00F9-E: Karte der Höhle
 00FA: City Map
-00FA-E: 
+00FA-E: Karte der Stadt
 00FB: Tower Sketch
-00FB-E: 
+00FB-E: Skizze des Turms
 00FC: Chimera Lab Map
-00FC-E: 
+00FC-E: Chimera Lab-Karte
 00FD: Cricket Hole Map
-00FD-E: 
+00FD-E: Erdkrebsbau-Karte
 00FE: Highway Map
-00FE-E: 
+00FE-E: Karte der Autobahn
 00FF: Factory Sketch
-00FF-E: 
+00FF-E: Skizze der Fabrik
