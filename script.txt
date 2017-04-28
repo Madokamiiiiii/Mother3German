@@ -1769,32 +1769,32 @@
 13-38:@"Beware of poisonous snakes!"[WAIT]@There should be antidotes somewhere around[BREAK]  here.[END]
 13-38E:@"Vorsicht vor den giftigen Schlangen!"[WAIT]@Dort sollten ein paar Gegengifte herumliegen.[END]
 13-39:@Oh, [FLINT 23 01 00].[WAIT]@*cough* *cough*[WAIT]@Gaah! I've breathed in too much smoke![WAIT]@Lighter and his son Fuel still aren't back yet![WAIT]@I'm pretty sure they're stuck inside the forest![WAIT]@*cough* *cough*[PAUSE 28 00][WAIT]@Don't worry about me![PAUSE 20 00] Go help them![END]
-13-39E:
+13-39E:@Oh, [FLINT 23 01 00].[WAIT]@*hust* *hust*[WAIT]@Gaah! Ich habe zu viel Rauch eingeatmet![WAIT]@Lighter und sein Sohn Fuel sind immer noch[BREAK]  nicht zurück![WAIT]@Ich bin mir ziemlich sicher, dass sie im Wald[BREAK]  feststecken![WAIT]@*hust* *hust*[PAUSE 28 00][WAIT]@Sorgt euch nicht um mich![PAUSE 20 00] Helft ihnen![END]
 13-40:@Don't worry about me![PAUSE 20 00] Go help them![END]
-13-40E:
+13-40E:@Sorgt euch nicht um mich![PAUSE 20 00] Helft ihnen![END]
 13-41:@Fuel is fervently crying for help.[END]
-13-41E:
+13-41E:@Fuel schreit innig nach Hilfe.[END]
 13-42:@Oh, Fuel! [FLINT 23 01 00]![WAIT]@You're pitch black and covered in soot,[BREAK]  but you're all right![WAIT]@If you're looking for Lighter, Thomas took him[BREAK]  to the Prayer Sanctuary.[WAIT]@But wow, you're really pitch black...[END]
-13-42E:
+13-42E:@Oh, Fuel! [FLINT 23 01 00]![WAIT]@Du bist pechschwarz und voller Ruß,[BREAK]  aber dir geht's gut![WAIT]@Wenn du nach Lighter suchst, Thomas hat[BREAK]  ihn zum Heiligtum gebracht.[WAIT]@Aber, wow, du bist ja richtig pechschwarz...[END]
 13-43:@That reminds me, there were these big, weird[BREAK]  things flying around in the forest.[WAIT]@I never saw anything like them before.[END]
-13-43E:
+13-43E:@Da fällt mir ein, im Wald waren so große,[BREAK]  merkwürdige fliegende Dinger.[WAIT]@Die habe ich noch nie zuvor gesehen.[END]
 13-44:@Oh, Mr. [FLINT 23 01 00]! And Fuel![WAIT]@You're both pitch black, but I knew it was you[BREAK]  two the instant I saw you.[WAIT]@Huh?[PAUSE 30 00][BREAK]  Oh, this injury?[WAIT]@Actually, about that...[END]
-13-44E:
+13-44E:@Oh, Herr [FLINT 23 01 00]! Und Fuel![WAIT]@Ihr seid beide pechschwarz, aber ich habe[BREAK]  sofort erkannt, dass ihr das seid.[WAIT]@Huh?[PAUSE 30 00][BREAK]  Oh, diese Verletzung?[WAIT]@Ähhhm, das...[END]
 13-45:@Yes! This injury![WAIT]@Abbey here was attacked by some bizarre[BREAK]  flying mouse thing with bug wings.[WAIT]@It just went, "Chomp!" and bit her on the head.[PAUSE 30 00][WAIT]@That make sense?[WAIT]@If it didn't, I can explain it to you again.[END]
-13-45E:
+13-45E:@Ja! Diese Verletzung![WAIT]@Abbey hier wurde von einer bizarren fliegenden[BREAK]  Maus mit Käferflügeln angegriffen.[WAIT]@Es machte einfach "Schnapp!" und biss ihr[BREAK]  in den Kopf .[PAUSE 30 00][WAIT]@Macht das Sinn?[WAIT]@Falls nicht kann ich es dir nochmal erklären.[END]
 13-46:@It made sense to me![WAIT]@That was a very easy-to-understand[BREAK]  explanation.[END]
-13-46E:
+13-46E:@Mir hat es einen Sinn ergeben![WAIT]@Das war eine sehr-leicht-verständliche[BREAK]  Erklärung.[END]
 13-47:@There never used to be any creatures like that[BREAK]  before that were so hard to describe.[WAIT]@These things were all fly-y, mousey, buggy,[BREAK]  and bitey.[END]
-13-47E:
+13-47E:@Es dürften gar keine Kreaturen existieren,[BREAK]  die so schwer zu beschreiben sind.[WAIT]@Die sind alle irgendwie fliegig, mausig, käferig[BREAK]  und bissig.[END]
 13-48:@Heya! *hic*[PAUSE 10 00][WAIT]@Dunno who you are, Mr. Pitch Black Guy, but[BREAK]  thanks a million for saving Fuel![WAIT]@Wow. You're really, really pitch black.[BREAK]  *hic*...[END]
-13-48E:
+13-48E:@Heya! *hic*[PAUSE 10 00][WAIT]@Weiß nicht wer Sie sind, Herr pechschwarzer[BREAK]  Kerl, aber eine Millionen mal Danke für das[WAIT]  Retten von Fuel![WAIT]@Wow. Du bist wirklich, wirklich pechschwarz.[BREAK]  *hic*...[END]
 13-49:@It seems like all this bad stuff keeps happenin'.[WAIT]  It's like one thing after another... *hic*[PAUSE 10 00][WAIT]@Or maybe not, I dunno.[END]
-13-49E:
+13-49E:@Es scheint, solche schlimmen Sachen passieren[BREAK]  weiterhin.[WAIT]  Eine Sache nach der anderen... *hic*[PAUSE 10 00][WAIT]@Oder vielleicht auch nicht, Ich weiß nicht.[END]
 13-50:@It's locked.[END]
 13-50E:@Es ist verschlossen.[END]
 // Repeats: 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
 13-51:[END]
-13-51E:
+13-51E:[END]
 
 [Container 14]
 14-0:[HOTSPRING 00 00][END]
@@ -1879,32 +1879,32 @@
 14-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 14-27:[SOUND 03 00]@Chirp chirp.[WAIT]  (The Magypsies are having their monthly tea[BREAK]  party today.[WAIT]  Can't you hear those indescribably deep yet[BREAK]  shrill voices coming from Aeolia's house?[EVENT][END]
-14-27E:
+14-27E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Die Magipsies halten heute ihre monatliche[BREAK]  Teeparty.[WAIT]  Kann du nicht diese unbeschreibliche schrillen[BREAK]  Schreie von Aeolias Haus hören?[EVENT][END]
 14-28:[SOUND 03 00]  chirp chirp!)[END]
 14-28E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 // Repeats: 12-47, 14-28
 14-29:@[FLINT 23 01 00].[WAIT]@Go wherever your heart takes you![WAIT]@...But not that way!![END]
-14-29E:
+14-29E:@[FLINT 23 01 00].[WAIT]@Geh, wohin dein Herz dich führt![WAIT]@...Aber nicht da lang!![END]
 14-30:@[FLINT 23 01 00].[WAIT]@The quickest way to get to the Drago Plateau[BREAK]  is through the cave behind this house.[WAIT]@[CLAUS 22 05 00] probably went through the[BREAK]  cave, too.[WAIT]@There's nothing to worry about,[BREAK]  [FLINT 22 01 00].[WAIT]@But you're not gonna get very far being as[BREAK]  tense as you are.[WAIT]@What you need to do [PAUSE 3C 00]is smile.[WAIT]@Understand?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-14-30E:
+14-30E:@[FLINT 23 01 00].[WAIT]@Der schnellste Weg zum Drago Plateau ist die[BREAK]  Höhle hinter diesem Haus.[WAIT]@[CLAUS 22 05 00] ist wahrscheinlich auch durch[BREAK]  die Höhle gegangen.[WAIT]@Es gibt nichts, worum du dich sorgen musst,[BREAK]  [FLINT 22 01 00].[WAIT]@Aber du wirst nicht weit kommen, so[BREAK]  angespannt wie du bist.[WAIT]@Was du brauchst ist[PAUSE 3C 00] ein Lächeln.[WAIT]@Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 14-31:@Yeah, okay. But you still seem pretty tense, if[BREAK]  you ask me.[END]
-14-31E:
+14-31E:@Yeah, okay. Aber du scheinst immer noch[BREAK]  angespannt zu sein, wenn du mich fragst.[END]
 14-32:@Come on, now. That's no good.[WAIT]@Smile! [PAUSE 0F 00]And relax![END]
-14-32E:
+14-32E:@Jetzt hab dich nicht so. Das ist nicht gut.[WAIT]@Lächel! [PAUSE 0F 00]Und relaxe![END]
 14-33:@Moo.[BREAK]  (In the moooood for a milking?)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-14-33E:
+14-33E:@Moo.[BREAK]  (In der Stiiiiiiiiiimung für Melken?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 14-34:@Moo.[BREAK]  (Wow, you're goooood at that.)[END]
-14-34E:
+14-34E:@Moo.[BREAK]  (Wow, du bist gut dariiiiiiiiiin.)[END]
 14-35:@Moo.[BREAK]  (I take it you're not a milk person.)[END]
-14-35E:
+14-35E:@Moo.[BREAK]  (Ich nehme an, du bist kein Melker.)[END]
 14-36:@Moo.[BREAK]  (You can't hold any moooore stuff.)[END]
-14-36E:
+14-36E:@Moo.[BREAK]  (Du kannst keine weiiiiiiiiteren Sachen tragen.)[END]
 14-37:@Got some [ITEM 64 00]![END]
-14-37E:
+14-37E:@Etwas [ITEM 64 00] erhalten![END]
 14-38:@Moo.[BREAK]  (It's not good to over-milk things.)[END]
-14-38E:
+14-38E:@Moo.[BREAK]  (Es ist nicht gut, Kühe zu übermelken.)[END]
 14-39:[END]
-14-39E:
+14-39E:[END]
 
 [Container 15]
 15-0:@*huff*[PAUSE 18 00] *gasp*[PAUSE 18 00][BREAK]  Whew, I'm beat.[EVENT][END]
