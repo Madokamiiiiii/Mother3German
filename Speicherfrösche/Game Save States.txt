@@ -1,0 +1,379 @@
+Mother 3/Earthbound 2 Save State Frog Library
+by Zip Code Ness
+
+INTRODUCTION
+I played the game a second time to both enjoy the game and as well do something really nice for people who do work with Mother 3. So I made a save state library, and it was as if I hit two birds with one stone. The second playthrough was just as good as the first playthrough.
+
+INSTRUCTIONS
+This save state library was made using Virtual Boy. It might not work with any other emulator, but it may. Take the desired save state and COPY it to the directory in which the Mother 3 ROM is in. Then rename the save state to the name of the ROM. Open up the ROM in the emulator and when one loads the OPEN option on the main screen there will be two options: the TOP and the BOTTOM. Each has the chapter and time marked as well as the pictures of the players and of course the level of the leader. These save states were of course done by the frog. Every save state is written here in this text file, and one can browse through the list to see where he or she would like to start playing.
+
+Please DO NOT rename the original save states or use the original save state library to play the game with. This is because everytime one saves using a frog, the save state will change accordingly. Rather it is suggested to keep all the save states in one folder and the ROM in another folder, and have the player copy the desired save state to the folder with the ROM in it.
+
+QUALITY of SAVE STATES
+I tried to make sure that most of the save states had completely healthy characters, the items organized in their bags, and the best weaponry. Though there will be some parts of the save states where it couldn't be done, or I simply forgot to organize the files. I'm sorry for the the inconvinence in those certain cases.
+
+I made sure all the names were based on default, except for the player and Kumatora. Kumatora's name is too long for the game to handle, and thus I nicknamed her "Kumi". Instead of putting my name in the player, I decided to put the word "Hashem" in. "Hashem" in Hebrew means "the name" but it also means "G-d". Thus it gives a double meaning.
+
+INTERESTING NOTES
+
+In CH 5 I decided to go back and battle the maestro ghoul before continuing on to look for the Hummingbirds egg. This gives Duster a special pair of boots that work magic all the way up to the eigth chapter.
+
+Since the times are written down, we can now distinguish the longer chapters from the shorter chapters.
+
+PRO/CH. 1 - 1 hour and 44 mins
+CHAPTER 2 - 1 hour and 58 mins
+CHAPTER 3 - 1 hour and 33 mins
+CHAPTER 4 - 2 hours and 6 mins
+CHAPTER 5 - 2 hours and 40 mins
+CHAPTER 6 - 5 mins
+CHAPTER 7 - 6 hours and 25 mins
+CHAPTER 8 - 3 hours and 18 mins
+
+MISC
+If you haven't played the game first, go and play it once and then use the save state library.
+
+--------------------------------
+
+AND HERE ARE THE THE SAVE STATES
+
+"Mother 3 - 0A1A.sav"
+TOP: Prologue; After Naming; LV 1 Lucas; 4 min
+BOTTOM: Ch. 1; After Forest Panic; LV 7 Flint; 12 min
+
+"Mother 3 - 1B.sav"
+TOP: Ch. 1; Before Naming Player; LV 7 Flint; 13 min
+BOTTOM: Ch. 1; After Naming Player; LV 7 Flint; 14 min
+
+"Mother 3 - 1C.sav"
+TOP: Ch. 1; After Defeating Fire-Flys; LV 8 Flint; 20 min
+BOTTOM: Ch. 1; After Saving Boy; LV 9 Flint; 22 min
+
+"Mother 3 - 1D.sav"
+TOP: Ch. 1; After Rain Fall; LV 9 Flint; 25 min
+BOTTOM: Ch. 1; Starting to Search for Hinawa; LV 9 Flint; 29 min
+
+"Mother 3 - 1E.sav"
+TOP: Ch. 1; Near Isaac's House; LV 9 Flint; 31 min
+BOTTOM: Ch. 1; Before the Tree Blocking Path; LV 10 Flint; 36 min
+
+"Mother 3 - 1F.sav"
+TOP: Ch. 1; Before the Cliff Side; LV 1O Flint; 37 min
+BOTTOM: Ch. 1; After Duster Climbs to Top; LV 10 Flint; 42 min
+
+"Mother 3 - 1G.sav"
+TOP: Ch. 1; Before Battle with Robo-deer; LV 1O Flint; 46 min
+BOTTOM: Ch. 1; After Battle with Robo-deer; LV 11 Flint; 49 min
+
+"Mother 3 - 1H.sav"
+TOP: Ch. 1; After UFO Escape; LV 11 Flint; 49 min
+BOTTOM: Ch. 1; Before Bad News and Good News; LV 11 Flint; 50 min
+
+"Mother 3 - 1I.sav"
+TOP: Ch. 1; Morning; LV 11 Flint; 58 min
+BOTTOM: Ch. 1; After Grave Talk; LV 11 Flint; 1 hr
+
+"Mother 3 - 1J.sav"
+TOP: Ch. 1; After Getting Claw and Map; LV 11 Flint; 1 hr and 1 min
+BOTTOM: Ch. 1; After Going Throught Burnt Down Forest ; LV 12 Flint; 1 hr and 11 mins
+
+"Mother 3 - 1K.sav"
+TOP: Ch. 1; Before Entering Alex's House; LV 13 Flint; 1 hr and 17 mins
+BOTTOM: Ch. 1; After Alex Joins ; LV 13 Flint; 1 hr and 18 mins
+
+"Mother 3 - 1L.sav"
+TOP: Ch. 1; After Crossing Frog Bridge ; LV 13 Flint; 1 hr and 20 mins
+BOTTOM: Ch. 1; After Magspy Party ; LV 13 Flint; 1 hr and 23 mins
+
+"Mother 3 - 1M.sav"
+TOP: Ch. 1; After Navigating Through Cave ; LV 14 Flint; 1 hr and 28 mins
+BOTTOM: Ch. 1; Before Drago Battle ; LV 14 Flint; 1 hr and 36 mins
+
+"Mother 3 - 2A.sav"
+TOP: Ch. 2; Introduction ; 1 hr and 44 mins
+BOTTOM: Ch. 2; After Getting Map and Tricks ; LV 9 Duster; 1 hr and 48 mins
+
+"Mother 3 - 2B.sav"
+TOP: Ch. 2; After Money Scene ; LV 9 Duster; 1 hr and 49 mins
+BOTTOM: Ch. 2; After Graveyard ; LV 10 Duster; 1 hr and 56 mins
+
+"Mother 3 - 2C.sav"
+TOP: Ch. 2; After Underground Passageway ; LV 11 Duster; 2 hr and 5 mins
+BOTTOM: Ch. 2; After Sneaking Into Castle ; LV 11 Duster; 2 hr and 7 mins
+
+"Mother 3 - 2D.sav"
+TOP: Ch. 2; After Ghost Lounge ; LV 15 Duster; 2 hr and 34 mins
+BOTTOM: Ch. 2; Before Getting The Highly Valuable Item ; LV 16 Duster; 2 hr and 42 mins
+
+"Mother 3 - 2E.sav"
+TOP: Ch. 2; After Getting The Highly Valuable Item ; LV 16 Duster; 2 hr and 44 mins
+BOTTOM: Ch. 2; After Drawing Down The Moat Bridge ; LV 16 Duster; 2 hr and 46 mins
+
+"Mother 3 - 2F.sav"
+TOP: Ch. 2; After Wes Joins ; LV 16 Duster; 2 hr and 51 mins
+BOTTOM: Ch. 2; After Clay Man Battle ; LV 16 Duster; 2 hr and 54 mins
+
+"Mother 3 - 2G.sav"
+TOP: Ch. 2; Before Wes Dance ; LV 17 Duster; 3 hr and 3 mins
+BOTTOM: Ch. 2; After Wes Dance  ; LV 18 Duster; 3 hr and 7 mins
+
+"Mother 3 - 2H.sav"
+TOP: Ch. 2; After Getting Kumatora ; LV 18 Duster; 3 hr and 11 mins
+BOTTOM: Ch. 2; After Broom Room ; LV 19 Duster; 3 hr and 24 mins
+
+"Mother 3 - 3A.sav"
+TOP: Ch. 3; Introduction ; 3 hr and 42 mins
+BOTTOM: Ch. 3; After Introduction ; LV 1 Salsa; 3 hr and 50 mins
+
+"Mother 3 - 3B.sav"
+TOP: Ch. 3; After Saving Frog from Quicksand ; LV 7 Salsa; 4 hr and 3 mins
+BOTTOM: Ch. 3; After Defeating Desert Cactus Wolf ; LV 9 Salsa; 4 hr and 11 mins
+
+"Mother 3 - 3C.sav"
+TOP: Ch. 3; After Driving Through Tunnel ; LV 9 Salsa; 4 hr and 21 mins
+BOTTOM: Ch. 3; After Going Through Graveyard ; LV 11 Salsa; 4 hr and 26 mins
+
+"Mother 3 - 3D.sav"
+TOP: Ch. 3; In The Middle of the Night ; LV 11 Salsa; 4 hr and 30 mins
+BOTTOM: Ch. 3; After Dream ; LV 11 Salsa; 4 hr and 32 mins
+
+"Mother 3 - 3E.sav"
+TOP: Ch. 3; Go Get The Boxes ; LV 11 Salsa; 4 hr and 36 mins
+BOTTOM: Ch. 3; 1 Box Down ; LV 11 Salsa; 4 hr and 38 mins
+
+"Mother 3 - 3F.sav"
+TOP: Ch. 3; 2 Boxes Down ; LV 11 Salsa; 4 hr and 40 mins
+BOTTOM: Ch. 3; Last Box Given ; LV 11 Salsa; 4 hr and 42 mins
+
+"Mother 3 - 3G.sav"
+TOP: Ch. 3; After Entering Castle ; LV 11 Salsa; 4 hr and 44 mins
+BOTTOM: Ch. 3; After Monkey Dance ; LV 11 Salsa; 4 hr and 52 mins
+
+"Mother 3 - 3H.sav"
+TOP: Ch. 3; After Pulling Lever ; LV 12 Salsa; 4 hr and 57 mins
+BOTTOM: Ch. 3; Before Argument ; LV 12 Salsa; 4 hr and 59 mins
+
+"Mother 3 - 3I.sav"
+TOP: Ch. 3; Awoken Again ; LV 12 Salsa; 5 hr and 1 mins
+BOTTOM: Ch. 3; On The Run ; LV 13 Salsa; 5 hr and 4 min
+
+"Mother 3 - 3J.sav"
+TOP: Ch. 3; Awoken Again ; LV 12 Salsa; 5 hr and 1 mins
+BOTTOM: Ch. 3; On The Run ; LV 13 Salsa; 5 hr and 4 min
+
+"Mother 3 - 4A.sav"
+TOP: Ch. 4; Introduction ; 5 hr and 15 mins
+BOTTOM: Ch. 4; After DP Explanation ; LV 10 Lucas; 5 hr and 19 min
+
+"Mother 3 - 4B.sav"
+TOP: Ch. 4; After Talking For A Bit ; LV 10 Lucas; 5 hr and 30 mins
+BOTTOM: Ch. 4; After Netting Wes ; LV 10 Lucas; 5 hr and 32 min
+
+"Mother 3 - 4C.sav"
+TOP: Ch. 4; After Getting Pidgeon ; LV 10 Lucas; 5 hr and 34 mins
+BOTTOM: Ch. 4; Before Going Into Tunnel ; LV 12 Lucas; 5 hr and 49 min
+
+"Mother 3 - 4D.sav"
+TOP: Ch. 4; In Butterfly Room ; LV 13 Lucas; 6 hrs
+BOTTOM: Ch. 4; After Getting PSI ; LV 13 Lucas; 6 hr and 2 min
+
+"Mother 3 - 4E.sav"
+TOP: Ch. 4; Welcome to Gohba ; LV 15 Lucas; 6 hrs and 16 mins
+BOTTOM: Ch. 4; 3 Claymen Up ; LV 15 Lucas; 6 hr and 27 min
+
+"Mother 3 - 4F.sav"
+TOP: Ch. 4; Nighttime ; LV 15 Lucas; 6 hrs and 28 mins
+BOTTOM: Ch. 4; Before Club Titiboo ; LV 15 Lucas; 6 hr and 30 min
+
+"Mother 3 - 4G.sav"
+TOP: Ch. 4; After Getting Into Club and Buying Weapons and Armor ; LV 15 Lucas; 6 hrs and 38 mins
+BOTTOM: Ch. 4; After DCMC Performance ; LV 15 Lucas; 6 hr and 43 min
+
+"Mother 3 - 4H.sav"
+TOP: Ch. 4; Kumatora's Room ; LV 16 Lucas; 6 hrs and 47 mins
+BOTTOM: Ch. 4; After 3 Hour Talk ; LV 16 Lucas; 6 hr and 49 min
+
+"Mother 3 - 4I.sav"
+TOP: Ch. 4; In The Attic ; LV 18 Lucas; 7 hrs and 11 mins
+BOTTOM: Ch. 4; After Defeating Covetous Bass ; LV 19 Lucas; 7 hr and 17 min
+
+"Mother 3 - 4J.sav"
+TOP: Ch. 4; Before Rock Paper Sissors ; LV 19 Lucas; 7 hrs and 22 mins
+BOTTOM: Ch. 4; After Rock Paper Sissors ; LV 19 Lucas; 7 hr and 25 min
+
+"Mother 3 - 5A.sav"
+TOP: Ch. 5; Introduction ; LV 19 Lucas; 7 hrs and 31 mins
+BOTTOM: Ch. 5; Back to Osohe Castle ; LV 20 Lucas; 7 hr and 42 min
+
+"Mother 3 - 5B.sav"
+TOP: Ch. 5; After Introduction ; LV 21 Lucas; 8 hrs and 4 mins
+BOTTOM: Ch. 5; In The Holes ; LV 22 Lucas; 8 hr and 17 min
+
+"Mother 3 - 5C.sav"
+TOP: Ch. 5; Before Clay Guy Factory ; LV 22 Lucas; 8 hrs and 23 mins
+BOTTOM: Ch. 5; Runaway Trash Truck ; LV 22 Lucas; 8 hr and 29 mins
+
+"Mother 3 - 5D.sav"
+TOP: Ch. 5; After Pig Mask Battle ; LV 23 Lucas; 8 hrs and 36 mins
+BOTTOM: Ch. 5; Somewhere In The Middle of the Highway Desert ; LV 23 Lucas; 8 hr and 42 mins
+
+"Mother 3 - 5E.sav"
+TOP: Ch. 5; Near Parking Place ; LV 23 Lucas; 8 hrs and 55 mins
+BOTTOM: Ch. 5; Having Found The 7th Rodent ; LV 24 Lucas; 9 hr and 6 mins
+
+"Mother 3 - 5F.sav"
+TOP: Ch. 5; Before Getting Egg ; LV 24 Lucas; 9 hrs and 8 mins
+BOTTOM: Ch. 5; Inside the Thunder Tower ; LV 24 Lucas; 9 hr and 16 mins
+
+"Mother 3 - 5G.sav"
+TOP: Ch. 5; Inside Eel Room ; LV 25 Lucas; 9 hrs and 33 mins
+BOTTOM: Ch. 5; After Pig Mask Battle ; LV 27 Lucas; 9 hr and 43 mins
+
+"Mother 3 - 5H.sav"
+TOP: Ch. 5; After Defeating Maid ; LV 28 Lucas; 9 hrs and 57 mins
+BOTTOM: Ch. 5; After Learning PK Flash ; LV 28 Lucas; 10 hrs
+
+"Mother 3 - 6A7A.sav"
+TOP: Ch. 6/Ch. 7; Introduction ; 10 hrs and 11 mins
+BOTTOM: Ch. 7; After Introduction ; LV 29 Lucas; 10 hrs and 17 mins
+
+"Mother 3 - 7B.sav"
+TOP: Ch. 7; After Ionia Joins ; LV 29 Lucas; 10 hrs and 18 mins
+BOTTOM: Ch. 7; After Boat Journey ; LV 29 Lucas; 10 hrs and 23 mins
+
+"Mother 3 - 7C.sav"
+TOP: Ch. 7; After Aolia Disappears ; LV 29 Lucas; 10 hrs and 27 mins
+BOTTOM: Ch. 7; After Long Explanation ; LV 29 Lucas; 10 hrs and 35 mins
+
+"Mother 3 - 7D.sav"
+TOP: Ch. 7; After Grave Talk ; LV 29 Lucas; 10 hrs and 44 mins
+BOTTOM: Ch. 7; After Train Ride ; LV 29 Lucas; 10 hrs and 46 mins
+
+"Mother 3 - 7E.sav"
+TOP: Ch. 7; In The Chimera Lab ; LV 30 Lucas; 11 hrs
+BOTTOM: Ch. 7; In The Bone Room ; LV 30 Lucas; 10 hrs and 13 mins
+
+"Mother 3 - 7F.sav"
+TOP: Ch. 7; After Attack ; LV 30 Lucas; 11 hrs and 15 mins
+BOTTOM: Ch. 7; Chimera and 2 Monkeys on the loose! ; LV 30 Lucas; 10 hrs and 19 mins
+
+"Mother 3 - 7G.sav"
+TOP: Ch. 7; Monkey Joins ; LV 30 Lucas; 11 hrs and 25 mins
+BOTTOM: Ch. 7; After Monkey Dance ; LV 30 Lucas; 11 hrs and 28 mins
+
+"Mother 3 - 7H.sav"
+TOP: Ch. 7; Before Getting "Junk" ; LV 30 Lucas; 11 hrs and 32 mins
+BOTTOM: Ch. 7; After Pulling Needle #2 ; LV 30 Lucas; 11 hrs and 46 mins
+
+"Mother 3 - 7I.sav"
+TOP: Ch. 7; Before Going Down the Cricket Hole ; LV 30 Lucas; 11 hrs and 49 mins
+BOTTOM: Ch. 7; After Getting Cricket Hole Map ; LV 30 Lucas; 11 hrs and 53 mins
+
+"Mother 3 - 7J.sav"
+TOP: Ch. 7; In The Mountains ; LV 31 Lucas; 12 hrs and 3 mins
+BOTTOM: Ch. 7; In The Mountains (with Weapons Upgrade) ; LV 31 Lucas; 12 hrs and 6 mins
+
+"Mother 3 - 7K.sav"
+TOP: Ch. 7; After Needle #3 Was Pulled ; LV 32 Lucas; 12 hrs and 17 mins
+BOTTOM: Ch. 7; Having Landed in Refrigerator ; LV 32 Lucas; 12 hrs and 22 mins
+
+"Mother 3 - 7L.sav"
+TOP: Ch. 7; In Saturn Valley ; LV 33 Lucas; 12 hrs and 26 mins
+BOTTOM: Ch. 7; 1 House Down ; LV 33 Lucas; 12 hrs and 29 mins
+
+"Mother 3 - 7M.sav"
+TOP: Ch. 7; 3 Houses Down ; LV 33 Lucas; 12 hrs and 33 mins
+BOTTOM: Ch. 7; Duster Saved ; LV 34 Lucas; 12 hrs and 40 mins
+
+"Mother 3 - 7N.sav"
+TOP: Ch. 7; Duster Saved and Upgraded Weapons ; LV 34 Lucas; 12 hrs and 46 mins
+BOTTOM: Ch. 7; After Climbing the Saturn Ladder ; LV 34 Lucas; 12 hrs and 51 mins
+
+"Mother 3 - 7O.sav"
+TOP: Ch. 7; After Needle #4 Was Pulled ; LV 38 Lucas; 13 hrs and 24 mins
+BOTTOM: Ch. 7; No Exit ; LV 38 Lucas; 13 hrs and 25 mins
+
+"Mother 3 - 7P.sav"
+TOP: Ch. 7; After Coffee ; LV 38 Lucas; 13 hrs and 35 mins
+BOTTOM: Ch. 7; Beach ; LV 38 Lucas; 13 hrs and 39 mins
+
+"Mother 3 - 7Q.sav"
+TOP: Ch. 7; Beach ; LV 39 Lucas; 14 hrs and 18 mins
+BOTTOM: Ch. 7; In The Middle of the Ocean ; LV 39 Lucas; 14 hrs and 26 mins
+
+"Mother 3 - 7R.sav"
+TOP: Ch. 7; Wiped Out ; LV 39 Lucas; 14 hrs and 31 mins
+BOTTOM: Ch. 7; Getting High ; LV 39 Lucas; 14 hrs and 34 mins
+
+"Mother 3 - 7S.sav"
+TOP: Ch. 7; Still Pretty High; LV 41 Lucas; 14 hrs and 51 mins
+BOTTOM: Ch. 7; After Getting A Whoopin from Magspy ; LV 41 Lucas; 14 hrs and 55 mins
+
+"Mother 3 - 7T.sav"
+TOP: Ch. 7; After Arming Up; LV 41 Lucas; 14 hrs and 57 mins
+BOTTOM: Ch. 7; Before The 5th Needle ; LV 41 Lucas; 15 hrs and 10 mins
+
+"Mother 3 - 7U.sav"
+TOP: Ch. 7; After Needle #5 Was Pulled; LV 42 Lucas; 15 hrs and 21 mins
+BOTTOM: Ch. 7; Before Crossing the Ocean ; LV 43 Lucas; 15 hrs and 32 mins
+
+"Mother 3 - 7V.sav"
+TOP: Ch. 7; Before Entering the Forest; LV 42 Lucas; 15 hrs and 37 mins
+BOTTOM: Ch. 7; Having Gone Through the Forest ; LV 43 Lucas; 15 hrs and 39 mins
+
+"Mother 3 - 7W.sav"
+TOP: Ch. 7; Found the Pickles ; LV 43 Lucas; 15 hrs and 42 mins
+BOTTOM: Ch. 7; Armed and Ready ; LV 43 Lucas; 15 hrs and 51 mins
+
+"Mother 3 - 7X.sav"
+TOP: Ch. 7; Through the Cave ; LV 47 Lucas; 16 hrs and 17 mins
+BOTTOM: Ch. 7; Having Given the Pickles ; LV 47 Lucas; 16 hrs and 25 mins
+
+"Mother 3 - 7Y.sav"
+TOP: Ch. 7; Defeated the Masked Man ; LV 48 Lucas; 16 hrs and 37 mins
+BOTTOM: Ch. 8; Introduction ; LV 48 Lucas; 16 hrs and 42 mins
+
+"Mother 3 - 8A.sav"
+TOP: Ch. 8; In the Limo ; LV 48 Lucas; 16 hrs and 44 mins
+BOTTOM: Ch. 8; Welcome to New Pork City ; LV 48 Lucas; 16 hrs and 47 mins
+
+"Mother 3 - 8B.sav"
+TOP: Ch. 8; Before Going Into Theatre ; LV 48 Lucas; 17 hrs
+BOTTOM: Ch. 8; After Going Into Theatre ; LV 48 Lucas; 17 hrs and 3 mins
+
+"Mother 3 - 8C.sav"
+TOP: Ch. 8; Inside Underground Sewage Apartment ; LV 49 Lucas; 17 hrs and 10 mins
+BOTTOM: Ch. 8; After Lider's Speech ; LV 49 Lucas; 17 hrs and 24 mins
+
+"Mother 3 - 8D.sav"
+TOP: Ch. 8; Power Outage ; LV 51 Lucas; 17 hrs and 48 mins
+BOTTOM: Ch. 8; Hippo Room ; LV 51 Lucas; 17 hrs and 48 mins
+
+"Mother 3 - 8E.sav"
+TOP: Ch. 8; Psychodelic Room ; LV 52 Lucas; 17 hrs and 57 mins
+BOTTOM: Ch. 8; Toilets ; LV 52 Lucas; 17 hrs and 59 mins
+
+"Mother 3 - 8F.sav"
+TOP: Ch. 8; More Toilets ; LV 52 Lucas; 18 hrs and 4 mins
+BOTTOM: Ch. 8; Roquila's Floor ; LV 52 Lucas; 18 hrs and 7 mins
+
+"Mother 3 - 8G.sav"
+TOP: Ch. 8; Construction Site ; LV 52 Lucas; 18 hrs and 12 mins
+BOTTOM: Ch. 8; LAB ; LV 54 Lucas; 18 hrs and 27 mins
+
+"Mother 3 - 8H.sav"
+TOP: Ch. 8; Before Game #1 ; LV 56 Lucas; 18 hrs and 41 mins
+BOTTOM: Ch. 8; Before Game #2 ; LV 56 Lucas; 18 hrs and 44 mins
+
+"Mother 3 - 8I.sav"
+TOP: Ch. 8; Before Game #3 ; LV 56 Lucas; 18 hrs and 48 mins
+BOTTOM: Ch. 8; After Game #3  ; LV 56 Lucas; 18 hrs and 50 mins
+
+"Mother 3 - 8J.sav"
+TOP: Ch. 8; After Defeating NK Cyborg ; LV 56 Lucas; 18 hrs and 54 mins
+BOTTOM: Ch. 8; After the Time Tunnel ; LV 56 Lucas; 18 hrs and 59 mins
+
+"Mother 3 - 8K.sav"
+TOP: Ch. 8; Underground ; LV 57 Lucas; 19 hrs and 12 mins
+BOTTOM: Ch. 8; Last Call Froggie ; LV 58 Lucas; 19 hrs and 32 mins
+
+-----------------------------
