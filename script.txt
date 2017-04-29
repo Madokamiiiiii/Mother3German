@@ -1908,61 +1908,61 @@
 
 [Container 15]
 15-0:@*huff*[PAUSE 18 00] *gasp*[PAUSE 18 00][BREAK]  Whew, I'm beat.[EVENT][END]
-15-0E:
+15-0E:@*schnauf*[PAUSE 18 00] *keuch*[PAUSE 18 00][BREAK]  Uff, ich gebe auf.[EVENT][END]
 15-1:@I've been play-fighting with the Dragos all[BREAK]  morning.[WAIT]@You should play too, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-15-1E:
+15-1E:@Ich habe den ganzen Morgen mit den Dragos[BREAK]  kämpfen gespielt.[WAIT]@Du solltest mitspielen, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 15-2:@Here, try ramming into a Drago.[END]
-15-2E:
+15-2E:@Los, verusch mal einen Drago zu rammen.[END]
 15-3:@Come on. Just give it a try.[WAIT]@The Dragos are waiting.[END]
-15-3E:
+15-3E:@Komm schon. Versuch's einfach.[WAIT]@Die Dragos warten schon.[END]
 15-4:@[CLAUS 22 05 00]![WAIT]@[LUCAS 23 02 00] still doesn't know how to ram[BREAK]  into things yet.[END]
-15-4E:
+15-4E:@[CLAUS 22 05 00]![WAIT]@[LUCAS 23 02 00] weiß noch gar nicht, wie man[BREAK]  Sachen rammt.[END]
 15-5:@[LUCAS 23 02 00]![WAIT]  Try to imagine a thing called a [COLOR 03 00]B[COLOR 00 00] Button![WAIT]@And then hold that [COLOR 03 00]B[COLOR 00 00] Button for a second,[BREAK]  then let go.[WAIT]@Doing this will let you "dash".[WAIT]@And by using this "dash" ability, you can ram[BREAK]  into that Drago there![WAIT]@[CLAUS 22 05 00]! Show him an example![END]
-15-5E:
+15-5E:@[LUCAS 23 02 00]![WAIT]  Stell dir mal so etwas wie einen [COLOR 03 00]B[COLOR 00 00]-Knopf vor![WAIT]@Und dann halte diesen [COLOR 03 00]B[COLOR 00 00]-Knopf für eine[BREAK]  Sekunde lang, dann lass ihn los.[WAIT]@Damit kannst du "rennen".[WAIT]@Und mit dieser "rennen"-Fähigkeit kannst du[BREAK]  diesen Drago rammen![WAIT]@[CLAUS 22 05 00]! Zeig wie man's macht![END]
 15-6:@Yes! Just like that![WAIT]@Now it's your turn, [LUCAS 23 02 00]![BREAK]  Give it a try![END]
-15-6E:
+15-6E:@Ja! Genau so![WAIT]@Jetzt bist du dran, [LUCAS 23 02 00]![BREAK]  Probier's mal![END]
 15-7:@Now it's your turn, [LUCAS 23 02 00]![BREAK]  Give it a try![END]
-15-7E:
+15-7E:@Jetzt bist du dran, [LUCAS 23 02 00]![BREAK]  Probier's mal![END]
 15-8:@You'll never succeed with such a sullen look on[BREAK]  your face.[WAIT]@That holds true for anything. [PAUSE 20 00]Just relax![END]
-15-8E:
+15-8E:@Dir wird es nie mit so einem mürrischen[BREAK]  Gesichtsausdruck gelingen.[WAIT]@Das gilt auch für alles andere.[PAUSE 20 00] Relaxe![END]
 15-9:@You're a weakling now, but I just know that[BREAK]  someday you'll be stronger than anyone else.[WAIT]  Hahahaha![END]
-15-9E:
+15-9E:@Du bist ein Schwächling, aber ich bin mir[BREAK]  sicher, dass du eines Tages stärker sein wirst[WAIT]  als alle anderen.[WAIT]  Hahahahaha![END]
 15-10:@The harder you run into them, the more the[BREAK]  Dragos like it.[END]
-15-10E:
+15-10E:@Je härter du sie anrempelst, desto mehr[BREAK]  mögen sie es.[END]
 15-11:@Wah[PAUSE 20 00]-ha-ha![PAUSE 40 00][WAIT]@Your ram attacks don't work on me,[BREAK]  [LUCAS 23 02 00]![END]
-15-11E:
+15-11E:@Wah[PAUSE 20 00]-ha-ha![PAUSE 40 00][WAIT]@Deine Rempelattacke funktioniert bei mir nicht,[BREAK]  [LUCAS 23 02 00]![END]
 15-12:@Hahaha![WAIT]@Is that all you got?[WAIT]@You whippersnappers still have a long ways to[BREAK]  go until you can get the best of me![END]
-15-12E:
+15-12E:@Hahaha![WAIT]@War das schon alles?[WAIT]@Du Frechdachs hast noch einen langen Weg vor[BREAK]  dir, bis du mich schlagen kannst![END]
 15-13:@This Drago is friendlier than it appears.[END]
-15-13E:
+15-13E:@Dieser Drago ist freundlicher als er aussieht.[END]
 15-14:@This Drago has gentle eyes.[END]
-15-14E:
+15-14E:@Dieser Drago hat schöne Augen.[END]
 15-15:@This Drago baby was born just recently.[END]
-15-15E:
+15-15E:@Dieses Dragobaby wurde erst vor kurzem[BREAK]  geboren.[END]
 15-16:@Wait, where are you going?[WAIT]@We're having so much fun here...[END]
-15-16E:
+15-16E:@Warte, wo gehst du hin?[WAIT]@Wir habe hier doch so viel Spaß...[END]
 15-17:@Move it! Outta the way![BREAK]  Make way for the great Mole Cricket![END]
-15-17E:
+15-17E:@Bewegung! Aus dem Weg![BREAK]  Macht Platz für die Großartige Maulwurfsgrille![END]
 15-18:@I can't just sit idly by when I hear someone's[BREAK]  play-fighting![WAIT]@I'm gonna wipe the floor with all of you![WAIT]@Get in my way and you're in for a world of[BREAK]  pain![END]
-15-18E:
+15-18E:@Ich kann nicht ruhig sitzen, wenn ich höre,[BREAK]  dass jemand kämpfen spielt![WAIT]@Ich werde mit euch den Boden wischen![WAIT]@Kommt mir in die Quere und ihr werdet in der[BREAK]  Welt der Schmerzen landen![END]
 15-19:@You're pretty gutsy, I'll give you that.[WAIT]@But you can challenge me to 100 fights and I'll[BREAK]  still kick your butt each and every time![END]
-15-19E:
+15-19E:@Ihr seid ganz schön mutig, das muss man euch[BREAK]  schon lassen.[WAIT]@Ihr könnt mich 100 Mal herausforden, aber[BREAK]  auch danach werde ich eure Hintern jedes[WAIT]  einzelne Mal versohlen![END]
 15-20:@I see you have more of a spine than I thought.[WAIT]@If you'd like, I could train you personally[BREAK]  sometime.[WAIT]@Next time we meet, it'll be at the big[BREAK]  Mole Cricket Hole Stadium![WAIT]  I look forward to seein' you there![PAUSE 40 00][BREAK]  .[PAUSE 0C 00].[PAUSE 18 00].[PAUSE 20 00]Bro.[END]
-15-20E:
+15-20E:@Ich sehe, ihr habt mehr drauf, als ich dachte.[WAIT]@Wenn ihr wollt, könnte ich euch mal persönlich[BREAK]  trainieren.[WAIT]@Das nächste Mal wo wir uns treffen, wird am[BREAK]  großen Maulwurfsgrillen-Stadion sein![WAIT]  Ich freue mich darauf, euch dort zu sehen![PAUSE 40 00][BREAK]  .[PAUSE 0C 00].[PAUSE 18 00].[PAUSE 20 00]Bro.[END]
 15-21:@I stepped on a mole cricket.[BREAK]  I hope it's all right...[END]
-15-21E:
+15-21E:@Ich bin auf eine Maulwurfsgrille getreten.[BREAK]  Ich hoffe, es geht ihr gut...[END]
 15-22:@Lunch is ready, everyone.[WAIT]@I made you your favorite, boys.[BREAK]  [FAVFOOD]![END]
-15-22E:
+15-22E:@Essen ist fertig![WAIT]@Ich habe euer Lieblingsessen zubereitet, Jungs.[BREAK]  [FAVFOOD]![END]
 15-23:@Ooh! Lunch, lunch! [FAVFOOD]!![END]
-15-23E:
+15-23E:@Ooh! Essen, Essen! [FAVFOOD]!![END]
 15-24:@You too, Dad.[END]
-15-24E:
+15-24E:@Du auch, Vater.[END]
 15-25:@Now, then...[END]
-15-25E:
+15-25E:@Also dann...[END]
 15-26:@Listen, folks...[PAUSE 20 00] Here is how to "save".[WAIT]@Talk to frogs.[PAUSE 40 00] This is how you "save".[WAIT]@It's not too tedious or troublesome, so you[BREAK]  should talk to frogs as often as you can.[WAIT]@Plus, saving is absolutely free.[WAIT]@Now then, it's time for me to return to the[BREAK]  story.[END]
-15-26E:
+15-26E:@Hör zu...[PAUSE 20 00] So "speicherst" du.[WAIT]@Sprich mit Fröschen.[PAUSE 40 00] Damit "speicherst" du.[WAIT]@Das ist weder albern noch lästig, also solltest[BREAK]  du so oft wie möglich mit Fröschen reden.[WAIT]@Plus, speichern ist absolut kostenfrei.[WAIT]@Nun denn, dann ist es Zeit für mich ins[BREAK]  Geschehen zurückzukehren.[END]
 15-27:@Hey! Wait for me![WAIT]@You saved me some [FAVFOOD] too,[BREAK]  I hope?![END]
-15-27E:
+15-27E:@Hey! Wartet auf mich![WAIT]@Hebt etwas [FAVFOOD] für mich auf,[BREAK]  bitte?![END]
 
 [Container 17]
 17-0:[HOTSPRING 00 00][END]
@@ -3566,7 +3566,7 @@
 37-13E:@Dieser riesige Mann ist immer an diesem Ort.[WAIT]@Und ich habe ihn noch nie mit jemandem[BREAK]  sprechen gesehen...[END]
 // Repeats: 9-13, 37-13
 37-14:@What a huge person.[WAIT]@Hellooooo, up there![WAIT]@Oh! He smiled![END]
-37-14E:
+37-14E:@Was für eine gigantische Person.[WAIT]@Haaaaaaalooo, da oben![WAIT]@Oh! Er hat gelächelt![END]
 // Repeats: 9-14, 37-14
 37-15:@This is Cross Road's bell tower.[END]
 37-15E:@Der Krreuzungsglockenturm.[END]
@@ -3581,9 +3581,9 @@
 37-18E:[SOUND 03 00]  ...zwitscher zwitscher zwitscher zwitscher!)[END]
 // Repeats: 9-18, 37-18
 37-19:@Huh...?[WAIT]@What's that odd sound?[END]
-37-19E:
+37-19E:@Huh...?[WAIT]@Was war das für ein Geräusch?[END]
 37-20:@The entrance has been destroyed![END]
-37-20E:
+37-20E:@Der Eingang ist zerstört worden![END]
 37-21:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
 37-21E:@Süden: Tazmily[BREAK]@Westen: Sonnenscheinwald[WAIT]@Norden: Sonnenaufgangsfriedhof[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
@@ -3591,13 +3591,13 @@
 37-22E:@Sonnenaufgangsfriedhof[BREAK]  "Gräber haben nie so malerisch ausgesehen"[WAIT]@KEINE ZOMBIES ERLAUBT[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 37-23:@Let's escape into the forest![END]
-37-23E:
+37-23E:@Lasst uns in den Wald fliehen![END]
 37-24:@[KUMATORA 23 04 00] joined your party![PAUSE 78 00][END]
-37-24E:
+37-24E:@[KUMATORA 23 04 00] tretete deinem Team bei![PAUSE 78 00][END]
 37-25:@Wess joined your party![PAUSE 78 00][END]
-37-25E:
+37-25E:@Wess tretete deinem Team bei![PAUSE 78 00][END]
 37-26:@This tall man...[WAIT]@There's something fishy about him.[BREAK]  Dunno why, but he just seems suspicious.[END]
-37-26E:
+37-26E:@Dieser große Mann...[WAIT]@Etwas an ihm stinkt gewaltig.[BREAK]  Er scheint mir sehr verdächtig zu sein.[END]
 37-27:@This is Cross Road's bell tower.[END]
 37-27E:@Der Krreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
