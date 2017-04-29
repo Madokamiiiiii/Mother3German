@@ -2051,89 +2051,89 @@
 
 [Container 18]
 18-0:@Oh, [FLINT 23 01 00]![BREAK]@This is bad! I'm at a loss for words![WAIT]@Just take a look at this.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][END]
-18-0E:
+18-0E:@Oh, [FLINT 23 01 00]![BREAK]@Das ist nicht gut! Mir fehlen die Worte![WAIT]@Schau dir das mal an.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][END]
 18-1:@I can't believe my eyes...[WAIT]  Just look at this, [FLINT 23 01 00]...[WAIT]@These huge trees were snapped right in two.[END]
-18-1E:
+18-1E:@Ich glaube meinen Augen nicht...[WAIT]  Schau dir das an, [FLINT 23 01 00]...[WAIT]@Diese riesigen Bäume wurden in Hälften[BREAK] zerrissen.[END]
 18-2:@How could such big trees get ripped down like[BREAK]  this?[WAIT]@There's one thing for sure. Whatever did this,[BREAK]  it wasn't human...[WAIT]@And no, it wasn't me![END]
-18-2E:
+18-2E:@Wie konnten solch große Bäume nur so[BREAK]  zerrissen werden?[WAIT]@Eines steht fest. Was auch immer das getan[BREAK]  hat, war kein Mensch...[WAIT]@Und nein, ich war es nicht![END]
 18-3:@What do we do now?[WAIT]@They have the path completely blocked...[END]
-18-3E:
+18-3E:@Was sollen wir jetzt machen?[WAIT]@Der Weg ist komplett versperrt...[END]
 18-4:@Actually, [HINAWA 22 08 00] and the kids might[BREAK]  still be stuck out there,[WAIT]  because of all these knocked-down trees[BREAK]  blocking the way.[END]
-18-4E:
+18-4E:@[HINAWA 22 08 00] und die Kinder könnten[BREAK]  immer noch da feststecken,[WAIT]  weil die ganzen umgefallenen Bäume die Wege[BREAK]  versperren.[END]
 18-5:@Even if it's not the most direct path, we[BREAK]  should look for another way around...[END]
-18-5E:
+18-5E:@Auch wenn es nicht der schnellste Weg ist,[BREAK]  sollten wir uns nach einem anderen Ausschau[WAIT]  halten...[END]
 18-6:@It's probably best if we split up into a few[BREAK]  groups.[END]
-18-6E:
+18-6E:@Es ist wahrscheinlich besser, wenn wir uns in[BREAK]  ein paar Gruppen aufteilen.[END]
 18-7:@Hey!!![END]
-18-7E:
+18-7E:@Hey!!![END]
 18-8:@Have you found [HINAWA 22 08 00] and the kids?![END]
-18-8E:
+18-8E:@Habt ihr [HINAWA 22 08 00] und die Kinder[BREAK]  gesehen?![END]
 18-9:@Lighter?![WAIT]@Are you sure you're in good enough shape to[BREAK]  be out here?[END]
-18-9E:
+18-9E:@Lighter?![WAIT]@Bist du dir sicher, dass dein Zustand gut genug[BREAK]  ist um außer Haus zu sein?[END]
 18-10:@I'm always in good enough shape.[BREAK]  Don't treat me like some injured clod![END]
-18-10E:
+18-10E:@Ich bin immer in einem Zustand, der gut genug[BREAK]  ist.[WAIT]  Behandel mich nicht wie ein verletzter[BREAK]  alter Knacker![END]
 18-11:@We'll take care of things here.[WAIT]@You keep pushing on ahead, [FLINT 23 01 00].[END]
-18-11E:
+18-11E:@Wir werden uns um die Sachen hier kümmern.[WAIT]@Du gehst weiter vor, [FLINT 23 01 00].[END]
 // Repeats: 18-11, 18-15
 18-12:@Be careful, [FLINT 23 01 00].[WAIT]@There's no telling what's lurking out here.[END]
-18-12E:
+18-12E:@Sei vorsichtig, [FLINT 23 01 00].[WAIT]@Wer weiß, was da draußen alles lauert.[END]
 18-13:@[FLINT 23 01 00].[WAIT]@You didn't bring [BONEY 23 05 00] with you?[WAIT]@Dogs are especially useful at times like this.[END]
-18-13E:
+18-13E:@[FLINT 23 01 00].[WAIT]@Du hast [BONEY 23 05 00] nicht mitgenommen?[WAIT]@Hunde sind bei solchen Sachen besonders[BREAK]  hilfreich.[END]
 18-14:@This is pretty much all I can do.[END]
-18-14E:
+18-14E:@Mehr kann ich nicht machen.[END]
 18-15:@We'll take care of things here.[WAIT]@You keep pushing on ahead, [FLINT 23 01 00].[END]
-18-15E:
+18-15E:@Wir werden uns um die Sachen hier kümmern.[WAIT]@Du gehst weiter vor, [FLINT 23 01 00].[END]
 // Repeats: 18-11, 18-15
 18-16:@My dad lives life with lots of energy, so he's[BREAK]  not like regular people.[WAIT]@Mr. [FLINT 23 01 00]. My dad will do his best![END]
-18-16E:
+18-16E:@Mein Vater hat sehr viel Energie, nicht so wie[BREAK]  normale Menschen.[WAIT]@Herr [FLINT 23 01 00].[BREAK]  Mein Vater wird sein Bestes geben![END]
 18-17:@We still haven't found [HINAWA 22 08 00] or the[BREAK]  kids.[WAIT]@There's no problem here.[END]
-18-17E:
+18-17E:@Wir haben noch immer weder [HINAWA 22 08 00][BREAK]  noch die Kinder gefunden.[WAIT]@Hier ist alles in Ordnung.[END]
 18-18:@The fact we haven't found them is a pretty[BREAK]  huge problem, if you ask me!![END]
-18-18E:
+18-18E:@Die Tatsache, dass wir sie nicht gefunden[BREAK]  haben, ist ein riesiges Problem, wenn ihr mich[WAIT]  fragt!![END]
 18-19:@This won't take long, now that our boss is[BREAK]  here.[END]
-18-19E:
+18-19E:@Jetzt, wo unser Boss da ist, wird es nicht[BREAK]  mehr lange dauern.[END]
 18-20:@Yeah, there's nothing to worry about.[WAIT]@Plus, Lou and I are experts when it comes to[BREAK]  getting in the way.[END]
-18-20E:
+18-20E:@Ja, nichts worüber man sich sorgen müsste.[WAIT]@Plus, Lou und ich sind Experten, wenn es[BREAK]  darum geht in den Weg zu kommen.[END]
 18-21:@Hold on! We're not the ones in the way here![END]
-18-21E:
+18-21E:@Moment! Wir sind nicht diejenigen, die im Weg[BREAK]  sind![END]
 18-22:@[FLINT 23 01 00]. What should we do...?[END]
-18-22E:
+18-22E:@[FLINT 23 01 00]. Was sollen wir tun...?[END]
 18-23:@Jonel and the others are all gathered at the[BREAK]  bottom of the cliff over there.[WAIT]@I wonder if something's happened.[END]
-18-23E:
+18-23E:@Jonel und die anderen versammeln sich da[BREAK]  drüben am Boden des Felsvorsprungs.[WAIT]@Ich frage mich, ob was passiert ist.[END]
 18-24:@[HINAWA 22 08 00]'s father lives right past here,[BREAK]  but...[END]
-18-24E:
+18-24E:@Der Vater von [HINAWA 22 08 00] lebt dahinter,[BREAK]  aber...[END]
 18-25:@Do you know if there are any other ways to[BREAK]  get there?[WAIT]@There's that cliff over there, but it doesn't[BREAK]  seem like it's climbable...[END]
-18-25E:
+18-25E:@Weißt du, ob es noch andere Wege gibt, die[BREAK]  dorthin führen?[WAIT]@Da drüben ist eine Felswand, aber es sieht[BREAK]  nicht erkletterbar aus...[END]
 18-26:@Actually, it looks like someone went and[BREAK]  snapped these in half, not lightning.[WAIT]@But that can't be possible...[END]
-18-26E:
+18-26E:@Um ehrlich zu sein, sieht es so aus, als hätte[BREAK]  *jemand* diese Bäume in Hälfte zerrissen,[WAIT]  und kein Blitz.[WAIT]@Aber das ist unmöglich...[END]
 18-27:@All the forest critters are acting weird, and[BREAK]  I'm suddenly getting real bad vibes here[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00][WAIT]@Oh, no, I mean that in a good way![PAUSE 20 00][WAIT]  What I meant to say is, I'm getting GOOD bad[BREAK]  vibes, if that makes sense.[WAIT]  *thump* *thump*[END]
-18-27E:
+18-27E:@Alle Waldviecher verhalten sich eigenartig, und[BREAK]  ich bekomme plötzlich ein echt schlechtes[WAIT]  Gefühl[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00][WAIT]@Oh, nein! Ich meine das im positiven Sinne![PAUSE 20 00][WAIT]  Was ich sagen wollte, ich bekomme ein GUTES[BREAK]  schlechtes Gefühl, wenn das Sinn macht.[WAIT]  *klopf* *klopf*[END]
 18-28:@It's just a guess, but I'd say a Drago climbed[BREAK]  up from here.[END]
-18-28E:
+18-28E:@Ist nur eine Vermutung, aber ich würde sagen,[BREAK]  ein Drago ist hier hochgeklettert.[END]
 18-29:@See those claw marks?[WAIT]@Those most certainly belong to a Drago.[WAIT]@But why would a Drago claw at stuff like this,[BREAK]  enough to leave gashes in rock, even?[WAIT]@They're such peaceful creatures...[END]
-18-29E:
+18-29E:@Siehst du diese Klauenspuren?[WAIT]@Die gehören höchstwahrscheinlich einem Drago.[WAIT]@Aber warum würde ein Drago so etwas zerkra, sogar ?[WAIT]@Dabei sind sie doch solch friedvolle Kreaturen...[END]
 18-30:@I get the feeling something very bad[WAIT]  is happening to the forest, the people, the[BREAK]  animals, and me...[END]
-18-30E:
+18-30E:@Ich habe das Gefühl, etwas sehr schlimmes[WAIT]  stößt dem Wald, den Menschen, den Tieren,[BREAK]  und mir zu...[END]
 // Repeats: 18-30, 18-31
 18-31:@I get the feeling something very bad[WAIT]  is happening to the forest, the people, the[BREAK]  animals, and me...[END]
-18-31E:
+18-31E:@Ich habe das Gefühl, etwas sehr schlimmes[WAIT]  stößt dem Wald, den Menschen, den Tieren,[BREAK]  und mir zu...[END]
 // Repeats: 18-30, 18-31
 18-32:@I hope [HINAWA 22 08 00] is all right...[END]
-18-32E:
+18-32E:@Ich hoffe, es geht [HINAWA 22 08 00] gut...[END]
 18-33:@What is it, [BONEY 23 05 00]?[END]
-18-33E:
+18-33E:@Was ist, [BONEY 23 05 00]?[END]
 18-34:@[FLINT 23 01 00]![WAIT]@I think [BONEY 23 05 00] found something![END]
-18-34E:
+18-34E:@[FLINT 23 01 00]![WAIT]@Ich glaube, [BONEY 23 05 00] hat was gefunden![END]
 18-35:@Oh! Look, up there![WAIT]@There's a scrap of cloth![WAIT]@Don't you see it?[BREAK]  There's a bit of red, right over there.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][END]
-18-35E:
+18-35E:@Oh! Schau, da oben![WAIT]@Da ist ein Stofffetzen![WAIT]@Siehst du es nicht?[BREAK]  Da ist etwas rotes, direkt da drüben.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][END]
 18-36:@I'd like to get a closer look at it, but there's no[BREAK]  way up this cliff...[END]
-18-36E:
+18-36E:@Ich würde es mir gerne anschauen, aber man[BREAK]  kommt nicht auf die Felswand...[END]
 18-37:@What is it?[WAIT]@Is there something on top of this cliff?[END]
-18-37E:
+18-37E:@Was ist?[WAIT]@Ist jemand auf der Klippe?[END]
 18-38:@Old man Wess! What are you doing here?[WAIT]@Sorry to say, but there's nothing a rickety old[BREAK]  man can do to help us out.[END]
-18-38E:
+18-38E:@Der alte Wess! Was machst du denn hier?[WAIT]@Sorry, das zu sagen, aber ein alter, klappriger[BREAK]  Mann wird uns nicht helfen können.[END]
 18-39:@Oh... [FLINT 23 01 00].[WAIT]@Don't tell me you intend to climb this cliff?[END]
-18-39E:
+18-39E:@Oh... [FLINT 23 01 00].[WAIT]@Sag mir nicht, du willst auf die Klippe klettern?[END]
 18-40:@I know how you feel, but scaling this cliff face[BREAK]  is just too dangerous.[WAIT]@But, you know, maybe my son could be of use.[WAIT]@I don't know if it will help any, but let's get him[BREAK]  here so he can try.[END]
 18-40E:
 18-41:@I'll need to borrow [BONEY 23 05 00] for a bit.[END]
