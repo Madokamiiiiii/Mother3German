@@ -2135,81 +2135,81 @@
 18-39:@Oh... [FLINT 23 01 00].[WAIT]@Don't tell me you intend to climb this cliff?[END]
 18-39E:@Oh... [FLINT 23 01 00].[WAIT]@Sag mir nicht, du willst auf die Klippe klettern?[END]
 18-40:@I know how you feel, but scaling this cliff face[BREAK]  is just too dangerous.[WAIT]@But, you know, maybe my son could be of use.[WAIT]@I don't know if it will help any, but let's get him[BREAK]  here so he can try.[END]
-18-40E:
+18-40E:@Ich weiß wie du dich fühlst, aber da[BREAK]  hochzuklettern ist einfach zu gefährlich.[WAIT]@Aber mein Sohn könnte behilflich sein.[WAIT]@Ich weiß nicht, ob es euch überhaupt hilft, aber[BREAK]  lasst uns ihn hierher bringen, damit er es[WAIT]  wenigstens versuchen kann.[END]
 18-41:@I'll need to borrow [BONEY 23 05 00] for a bit.[END]
-18-41E:
+18-41E:@Ich muss mir [BONEY 23 05 00] kurz ausleihen.[END]
 18-42:@[BONEY 23 05 00].[WAIT]@Bring my son back here.[WAIT]@My son's name is...[END]
-18-42E:
+18-42E:@[BONEY 23 05 00].[WAIT]@Bring meinen Sohn hierher.[WAIT]@Mein Sohn heißt...[END]
 18-43:@His name is [DUSTER 23 03 00].[WAIT]@Got that?[WAIT]@Here, have a sniff of this sock...[PAUSE 20 00][BREAK]  Gaahh[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00] That's ripe.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00][WAIT]  D-[PAUSE 18 00]don't forget this smell, now.[END]
-18-43E:
+18-43E:@Sein Name ist [DUSTER 23 03 00].[WAIT]@Verstanden?[WAIT]@Hier, schnüffel an dieser Socke...[PAUSE 20 00][BREAK]  Gaahh[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00] Das müffelt.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00][WAIT]  V-[PAUSE 18 00]vergiss diesen Geruch ja nicht.[END]
 18-44:[SOUND 03 00]@*whimper*[BREAK]  (Gahh.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00] That's ripe, all right.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00])[END]
-18-44E:
+18-44E:[SOUND 03 00]@*wimmer*[BREAK]  (Gahh.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00] Das müffelt enorm.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00])[END]
 18-45:@I've tied a yellow ribbon to your collar.[WAIT]@Show him the ribbon, and he'll know exactly[BREAK]  what's going on![END]
-18-45E:
+18-45E:@Ich habe eine gelbe Schleife an dein Halsband[BREAK]  gebunden.[WAIT]@Zeig ihm diese Schleife, und er wird genau[BREAK]  wissen, was los ist![END]
 18-46:@Now fetch![END]
-18-46E:
+18-46E:@Hol![END]
 18-47:[SOUND 03 00]@Woof woof![BREAK]  (You can count on me!)[END]
-18-47E:
+18-47E:[SOUND 03 00]@Woof woof![BREAK]  (Du kannst auf mich zählen!)[END]
 18-48:@[DUSTER 23 03 00]...[WAIT]@At long last, it is time to put the thief skills[BREAK]  you've studied since childhood to the test.[WAIT]@Now, show us your Wall Staple technique![BREAK]  Right here, right now![END]
-18-48E:
+18-48E:@[DUSTER 23 03 00]...[WAIT]@Endlich ist es Zeit deine Diebesfähigkeiten, die[BREAK]  ich dir seit deiner Kindheit gelehrt habe, unter[WAIT] Beweis zu stellen.[WAIT]@Jetzt, zeig uns deine Wandtacker-Technik![BREAK]  Genau hier, jetzt sofort![END]
 18-49:@I did study that technique, but this is my first[BREAK]  time using it for real...[WAIT]@I hope this works.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][END]
-18-49E:
+18-49E:@Ich habe diese Technik gelernt, aber das ist das[BREAK]  erste Mal, dass ich es in der Praxis anwende...[WAIT]@Ich hoffe, es klappt.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][END]
 18-50:@This area looks scalable here.[END]
-18-50E:
+18-50E:@Dieser Ort sieht erklimmbar aus.[END]
 18-51:@Mr. [FLINT 23 01 00]! Where are you going?![WAIT]@[BONEY 23 05 00] is trying to tell us something![END]
-18-51E:
+18-51E:@Herr [FLINT 23 01 00]! Wo gehen Sie hin?![WAIT]@[BONEY 23 05 00] versucht uns etwas zu sagen![END]
 
 [Container 19]
 19-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-19-0E:
-// Repeats: 19-0, 21-0
+19-0E:[END]
+// Repeats: 19-0, 21-0 Unused
 19-1:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
-19-1E:
+19-1E:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
 // Repeats: 19-1, 21-1
 19-2:@This way! This way![END]
-19-2E:
+19-2E:@Hierlang! Hierlang![END]
 // Repeats: 19-2, 21-2
 19-3:@Dad...[END]
-19-3E:
+19-3E:@Vater...[END]
 // Repeats: 19-3, 21-3
 19-4:@...[END]
 19-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 19-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
-19-5E:
+19-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm ein paar. Es wärmt dich auf.[END]
 // Repeats: 19-5, 21-5
 19-6:@Here, everyone else should take a break and[BREAK]  get warm, too.[END]
-19-6E:
+19-6E:@Ihr anderen solltet auch eine Pause machen[BREAK]  und euch wärmen.[END]
 // Repeats: 19-6, 21-6
 19-7:@It seems they both fell into the river and got[BREAK]  washed downstream.[WAIT]@Poor little things...[END]
-19-7E:
+19-7E:@Es scheint, beide sind in den Fluss gefallen und[BREAK]  wurden runterwärts gespühlt.[WAIT]@Die Armen...[END]
 // Repeats: 19-7, 21-7
 19-8:@These kids are soaked to the bone.[WAIT]  We need to get them warmed up.[END]
-19-8E:
+19-8E:@Diese Kinder sind bis zu den Knochen[BREAK]  durchnässt.[WAIT]  Wir müssen sie aufwärmen.[END]
 // Repeats: 19-8, 21-8
 19-9:@I wonder what they'll get to eat when their[BREAK]  mom gets back.[WAIT]@I hope she comes back soon.[END]
-19-9E:
+19-9E:@Ich frage mich, was sie zu essen bekommen,[BREAK]  wenn ihre Mutter zurückkommt.[WAIT]@Ich hoffe sie kommt bald.[END]
 // Repeats: 19-9, 21-9
 19-10:@I wonder where [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] fell into the river.[WAIT]@...In any case, I'm just glad they're okay.[END]
-19-10E:
+19-10E:@Ich frage mich, wo [CLAUS 22 05 00] und[BREAK]  [LUCAS 23 02 00] in den Fluss gefallen sind.[WAIT]@...Jedenfalls bin ich froh, dass es ihnen gut[BREAK]  geht.[END]
 // Repeats: 19-10, 21-10
 19-11:@We haven't found [HINAWA 22 08 00] yet, but for[BREAK]  now, you should warm yourself up by the fire.[WAIT]@If you keep this up, you'll wind up worse off[BREAK]  than her.[END]
-19-11E:
+19-11E:@Wir haben [HINAWA 22 08 00] noch nicht gefunden,[BREAK]  aber wir sollten uns zuerst aufwärmen.[WAIT]@Wenn du so weitermachst, wird es dir[BREAK]  schlechter ergehen als ihr.[END]
 // Repeats: 19-11, 21-11
 19-12:@Thank goodness they're okay...[BREAK]  What a relief.[END]
-19-12E:
+19-12E:@Gott sei Dank, geht es ihnen gut...[BREAK]  Was für eine Erleichterung.[END]
 // Repeats: 19-12, 21-12
 19-13:@It's good to worry your parents a little when[BREAK]  you're a kid.[WAIT]@That's how WE grew to be adults, after all.[WAIT]  Gahahaha![END]
-19-13E:
+19-13E:@Es ist gut sich ein bisschen um seine Eltern zu[BREAK]  sorgen, während man ein Kind bist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
 // Repeats: 19-13, 21-13
 19-14:@Ain't nothin' to worry about.[WAIT]@I'm sure everyone's alright.[WAIT]@Tomorrow's gonna come, and everything'll be[BREAK]  the same as it always is.[END]
 19-14E:
 // Repeats: 19-14, 21-14
 19-15:@I guess they still haven't found [HINAWA 22 08 00].[WAIT]@Where the heck could she be?[END]
-19-15E:
+19-15E:@Ich glaube, sie haben [HINAWA 22 08 00] immer[BREAK]  noch nicht gefunden.[WAIT]@Wo zur Hölle könnte sie stecken?[END]
 // Repeats: 19-15, 21-15
 19-16:@The children's clothes are being hung out to[BREAK]  dry.[END]
-19-16E:
+19-16E:@Die Kleider der Kinder hängen zum Trocknen[BREAK]  draußen.[END]
 // Repeats: 19-16, 21-16
 19-17:@...[END]
 19-17E:@...[END]
@@ -2224,73 +2224,73 @@
 19-20E:@Mutters...[PAUSE 10 00][BREAK]  ...Mutters...[WAIT]@...[END]
 // Repeats: 19-20, 21-20
 19-21:@[FLINT 26 01 00 03 00]!![END]
-19-21E:
+19-21E:@[FLINT 26 01 00 03 00]!![END]
 // Repeats: 19-21, 21-21
 19-22:@Why is Bronson suddenly so pale...?[END]
-19-22E:
+19-22E:@Warum ist Bronson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 19-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-19-23E:
-// Repeats: 19-23, 21-23
+19-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich][BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
+// Repeats: 19-24, 21-24
 19-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
-19-24E:
+19-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
 // Repeats: 19-24, 21-24
 19-25:@[FLINT 23 01 00]![WAIT]@Where are you going?![END]
-19-25E:
+19-25E:@[FLINT 23 01 00]![WAIT]@Wo gehst du hin?![END]
 // Repeats: 19-25, 21-25
 19-26:@[FLINT 26 01 00 03 00]!![WAIT]@Where are you going?![WAIT]@Listen to what I have to say!![BREAK]  Just for five minutes.[WAIT]@No, just for two minutes.[END]
-19-26E:
+19-26E:@[FLINT 26 01 00 03 00]!![WAIT]@Wo gehst du hin?![WAIT]@Hör zu, was ich sage!![BREAK]  Ich brauche nur fünf Minuten.[WAIT]@Nein, zwei Minuten.[END]
 // Repeats: 19-26, 21-26
 19-27:@Hold on, [FLINT 23 01 00]. Where are you going?[WAIT]@Are you just gonna ditch your own kids here?[END]
-19-27E:
+19-27E:@Warte, [FLINT 23 01 00]. Wo gehst du hin?[WAIT]@Willst du deine Kinder hier stehen lassen?[END]
 // Repeats: 19-27, 21-27
 19-28:@Hold on, [FLINT 23 01 00].[WAIT]@Bronson's really worked up about something.[WAIT]@You should at least hear what he has to say.[END]
-19-28E:
+19-28E:@Warte, [FLINT 23 01 00].[WAIT]@Bronson ist wegen irgendwas aufgeregt.[WAIT]@Du solltest ihm wenigstens zuhören, was er[BREAK]  zu sagen hat.[END]
 // Repeats: 19-28, 21-28
 19-29:@[FLINT 23 01 00]...[PAUSE 1E 00][WAIT]@...[PAUSE 1E 00][BREAK]@I'm not sure what to say...[PAUSE 1E 00][WAIT]@But just stay calm and hear me out.[PAUSE 78 00][WAIT]@I have good news,[PAUSE 1E 00] and I have bad news.[WAIT]@Which do you want to hear first...?[EVENT][END]
-19-29E:
+19-29E:@[FLINT 23 01 00]...[PAUSE 1E 00][WAIT]@...[PAUSE 1E 00][BREAK]@Ich weiß nicht, was ich sagen soll...[PAUSE 1E 00][WAIT]@Bleib einfach ruhig und hör mich an.[PAUSE 78 00][WAIT]@Ich habe eine gute Nachricht,[PAUSE 1E 00][BREAK]  und ich habe eine schlechte Nachricht .[WAIT]@Was willst du zuerst hören...?[EVENT][END]
 // Repeats: 19-29, 21-29
 19-30:@No...[PAUSE 20 00][WAIT]@Let me start with the good news first.[END]
-19-30E:
+19-30E:@Nein...[PAUSE 20 00][WAIT]@Lass mich mit der guten Nachricht anfangen.[END]
 // Repeats: 19-30, 21-30
 19-31:@I picked up a giant "Drago Fang".[WAIT]@It'll make for a great weapon.[WAIT]@I figured you could probably use it.[END]
-19-31E:
+19-31E:@Ich habe einen riesigen "Drago-Reißzahn"[BREAK]  gefunden.[WAIT]@Das macht eine großartige Waffe.[WAIT]@Ich glaube, dir wird es von Nutzen sein.[END]
 // Repeats: 19-31, 21-31
 19-32:@......[WAIT][PAUSE 1E 00]@As for the bad news...[EVENT][END]
-19-32E:
+19-32E:@......[WAIT][PAUSE 1E 00]@Und jetzt zu der schlechten Nachricht...[EVENT][END]
 // Repeats: 19-32, 21-32
 19-33:@......[BREAK][PAUSE 1E 00]  The bad news is...[BREAK]  ............[WAIT]@...It's where I found the Drago Fang.[WAIT]@It was......[BREAK]  in your...[END]
-19-33E:
+19-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Es war......[BREAK]  in deiner...[END]
 // Repeats: 19-33, 21-33
 19-34:@It was pierced through your wife's heart...[END]
-19-34E:
+19-34E:@Es hat das Herz deiner Frau durchbohrt...[END]
 // Repeats: 19-34, 21-34
 19-35:@[FLINT 23 01 00]...[WAIT]@Just try to stay calm...[END]
-19-35E:
+19-35E:@[FLINT 23 01 00]...[WAIT]@Versuch ruhig zu bleiben...[END]
 // Repeats: 19-35, 21-35
 19-36:@I think the only reason [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] are safe and sound now[WAIT]  is because [HINAWA 22 08 00] risked her life to[BREAK]  protect them.[END]
-19-36E:
+19-36E:@Ich glaube der Grund, wieso [CLAUS 22 05 00] und[BREAK]  [LUCAS 23 02 00] gesund und munter sind,[WAIT]  ist, weil [HINAWA 22 08 00] ihr Leben riskiert hat[BREAK]  um sie zu beschützen.[END]
 // Repeats: 19-36, 21-36
 19-37:@[FLINT 23 01 00]...[END]
 19-37E:@[FLINT 23 01 00]...[END]
 // Repeats: 19-37, 21-37
 19-38:@[FLINT 23 01 00]...[BREAK]  I'm not sure what to say...[WAIT]@Please try to pull yourself together...[END]
-19-38E:
+19-38E:@[FLINT 23 01 00]...[BREAK]  Ich weiß nicht, was ich sagen soll...[WAIT]@Bitte versuch dich zusammenzureißen...[END]
 // Repeats: 19-38, 21-38
 19-39:@[FLINT 23 01 00]...[END]
 19-39E:@[FLINT 23 01 00]...[END]
 // Repeats: 6-0, 19-39, 21-39
 19-40:@[FLINT 23 01 00]![WAIT]@What are you doing?![WAIT]@[CLAUS 22 05 00] and [LUCAS 23 02 00] are[BREAK]  watching![END]
-19-40E:
+19-40E:@[FLINT 23 01 00]![WAIT]@Was machst du?![WAIT]@[CLAUS 22 05 00] und [LUCAS 23 02 00] schauen zu![END]
 // Repeats: 19-40, 21-40
 19-41:@It's burning intensely.[END]
-19-41E:
+19-41E:@Es brennt intensiv.[END]
 // Repeats: 19-41, 21-41
 19-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-19-42E:
+19-42E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Du weißt, dass Gegner manchmal nette Items[BREAK]  nach dem Kampf hinterlassen.[WAIT]  Wenn dein Inventar voll ist und du ein Item[BREAK]  findest, was du haben willst,[WAIT]  musst du es entweder aufgeben oder ein[BREAK]  anderes Item wegwerfen.[WAIT]  Deswegen ist es immer eine gute Idee jegliches[BREAK]  Essen zu essen.[WAIT]  Das hilft dir dabei, in deinem Inventar immer[BREAK]  genügend Platz zu haben.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 // Repeats: 19-42, 21-42
 19-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
-19-43E:
+19-43E:[SOUND 03 00]  Ha-ha-ha-hazwitscher zwitscher zwitscher!)[END]
 // Repeats: 19-43, 21-43
 
 [Container 20]
@@ -2305,55 +2305,55 @@
 
 [Container 21]
 21-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-21-0E:
+21-0E:[END]
 // Repeats: 19-0, 21-0
 21-1:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
-21-1E:
+21-1E:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
 // Repeats: 19-1, 21-1
 21-2:@This way! This way![END]
-21-2E:
+21-2E:@Hierlang! Hierlang![END]
 // Repeats: 19-2, 21-2
 21-3:@Dad...[END]
-21-3E:
+21-3E:@Vater...[END]
 // Repeats: 19-3, 21-3
 21-4:@...[END]
 21-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 21-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
-21-5E:
+21-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm ein paar. Es wärmt dich auf.[END]
 // Repeats: 19-5, 21-5
 21-6:@Here, everyone else should take a break and[BREAK]  get warm, too.[END]
-21-6E:
+21-6E:@Ihr anderen solltet auch eine Pause machen[BREAK]  und euch wärmen.[END]
 // Repeats: 19-6, 21-6
 21-7:@It seems they both fell into the river and got[BREAK]  washed downstream.[WAIT]@Poor little things...[END]
-21-7E:
+21-7E:@Es scheint, beide sind in den Fluss gefallen und[BREAK]  wurden runterwärts gespühlt.[WAIT]@Die Armen...[END]
 // Repeats: 19-7, 21-7
 21-8:@These kids are soaked to the bone.[BREAK]  We need to get them warmed up.[END]
-21-8E:
+21-8E:@Diese Kinder sind bis zu den Knochen[BREAK]  durchnässt.[WAIT]  Wir müssen sie aufwärmen.[END]
 // Repeats: 19-8, 21-8
 21-9:@I wonder what they'll get to eat when their[BREAK]  mom gets back.[WAIT]@I hope she comes back soon.[END]
-21-9E:
+21-9E:@Ich frage mich, was sie zu essen bekommen,[BREAK]  wenn ihre Mutter zurückkommt.[WAIT]@Ich hoffe sie kommt bald.[END]
 // Repeats: 19-9, 21-9
 21-10:@I wonder where [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] fell into the river.[WAIT]@...In any case, I'm just glad they're okay.[END]
-21-10E:
+21-10E:@Ich frage mich, wo [CLAUS 22 05 00] und[BREAK]  [LUCAS 23 02 00] in den Fluss gefallen sind.[WAIT]@...Jedenfalls bin ich froh, dass es ihnen gut[BREAK]  geht.[END]
 // Repeats: 19-10, 21-10
 21-11:@We haven't found [HINAWA 22 08 00] yet, but for[BREAK]  now, you should warm yourself up by the fire.[WAIT]@If you keep this up, you'll wind up worse off[BREAK]  than her.[END]
-21-11E:
+21-11E:@Wir haben [HINAWA 22 08 00] noch nicht gefunden,[BREAK]  aber wir sollten uns zuerst aufwärmen.[WAIT]@Wenn du so weitermachst, wird es dir[BREAK]  schlechter ergehen als ihr.[END]
 // Repeats: 19-11, 21-11
 21-12:@Thank goodness they're okay...[BREAK]  What a relief.[END]
-21-12E:
+21-12E:@Gott sei Dank, geht es ihnen gut...[BREAK]  Was für eine Erleichterung.[END]
 // Repeats: 19-12, 21-12
 21-13:@It's good to worry your parents a little when[BREAK]  you're a kid.[WAIT]@That's how WE grew to be adults, after all.[WAIT]  Gahahaha![END]
-21-13E:
+21-13E:@Es ist gut sich ein bisschen um seine Eltern zu[BREAK]  sorgen, während man ein Kind bist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
 // Repeats: 19-13, 21-13
 21-14:@Ain't nothin' to worry about.[WAIT]@I'm sure everyone's alright.[WAIT]@Tomorrow's gonna come, and everything'll be[BREAK]  the same as it always is.[END]
 21-14E:
 // Repeats: 19-14, 21-14
 21-15:@I guess they still haven't found [HINAWA 22 08 00].[WAIT]@Where the heck could she be?[END]
-21-15E:
+21-15E:@Ich glaube, sie haben [HINAWA 22 08 00] immer[BREAK]  noch nicht gefunden.[WAIT]@Wo zur Hölle könnte sie stecken?[END]
 // Repeats: 19-15, 21-15
 21-16:@The children's clothes are being hung out to[BREAK]  dry.[END]
-21-16E:
+21-16E:@Die Kleider der Kinder hängen zum Trocknen[BREAK]  draußen.[END]
 // Repeats: 19-16, 21-16
 21-17:@...[END]
 21-17E:@...[END]
@@ -2368,52 +2368,52 @@
 21-20E:@Mutters...[PAUSE 10 00][BREAK]  ...Mutters...[WAIT]@...[END]
 // Repeats: 19-20, 21-20
 21-21:@[FLINT 26 01 00 03 00]!![END]
-21-21E:
+21-21E:@[FLINT 26 01 00 03 00]!![END]
 // Repeats: 19-21, 21-21
 21-22:@Why is Bronson suddenly so pale...?[END]
-21-22E:
+21-22E:@Warum ist Bonson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 21-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-21-23E:
+21-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bonson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich][BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
 // Repeats: 19-23, 21-23
 21-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
-21-24E:
+21-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
 // Repeats: 19-24, 21-24
 21-25:@[FLINT 23 01 00]![WAIT]@Where are you going?![END]
-21-25E:
+21-25E:@[FLINT 23 01 00]![WAIT]@Wo gehst du hin?![END]
 // Repeats: 19-25, 21-25
 21-26:@[FLINT 26 01 00 03 00]!![WAIT]@Where are you going?![WAIT]@Listen to what I have to say!![BREAK]  Just for five minutes.[WAIT]@No, just for two minutes.[END]
-21-26E:
+21-26E:@[FLINT 26 01 00 03 00]!![WAIT]@Wo gehst du hin?![WAIT]@Hör zu, was ich sage!![BREAK]  Ich brauche nur fünf Minuten.[WAIT]@Nein, zwei Minuten.[END]
 // Repeats: 19-26, 21-26
 21-27:@Hold on, [FLINT 23 01 00]. Where are you going?[WAIT]@Are you just gonna ditch your own kids here?[END]
-21-27E:
+21-27E:@Warte, [FLINT 23 01 00]. Wo gehst du hin?[WAIT]@Willst du deine Kinder hier stehen lassen?[END]
 // Repeats: 19-27, 21-27
 21-28:@Hold on, [FLINT 23 01 00].[WAIT]@Bronson's really worked up about something.[WAIT]@You should at least hear what he has to say.[END]
-21-28E:
+21-28E:@Warte, [FLINT 23 01 00].[WAIT]@Bronson ist wegen irgendwas aufgeregt.[WAIT]@Du solltest ihm wenigstens zuhören, was er[BREAK]  zu sagen hat.[END]
 // Repeats: 19-28, 21-28
 21-29:@[FLINT 23 01 00]...[PAUSE 1E 00][WAIT]@...[PAUSE 1E 00][BREAK]@I'm not sure what to say...[PAUSE 1E 00][WAIT]@But just stay calm and hear me out.[PAUSE 78 00][WAIT]@I have good news,[PAUSE 1E 00] and I have bad news.[WAIT]@Which do you want to hear first...?[EVENT][END]
-21-29E:
+21-29E:@[FLINT 23 01 00]...[PAUSE 1E 00][WAIT]@...[PAUSE 1E 00][BREAK]@Ich weiß nicht, was ich sagen soll...[PAUSE 1E 00][WAIT]@Bleib einfach ruhig und hör mich an.[PAUSE 78 00][WAIT]@Ich habe eine gute Nachricht,[PAUSE 1E 00][BREAK]  und ich habe eine schlechte Nachricht .[WAIT]@Was willst du zuerst hören...?[EVENT][END]
 // Repeats: 19-29, 21-29
 21-30:@No...[PAUSE 20 00][WAIT]@Let me start with the good news first.[END]
-21-30E:
+21-30E:@Nein...[PAUSE 20 00][WAIT]@Lass mich mit der guten Nachricht anfangen.[END]
 // Repeats: 19-30, 21-30
 21-31:@I picked up a giant "Drago Fang".[WAIT]@It'll make for a great weapon.[WAIT]@I figured you could probably use it.[END]
-21-31E:
+21-31E:@Ich habe einen riesigen "Drago-Reißzahn"[BREAK]  gefunden.[WAIT]@Das macht eine großartige Waffe.[WAIT]@Ich glaube, dir wird es von Nutzen sein.[END]
 // Repeats: 19-31, 21-31
 21-32:@......[WAIT][PAUSE 1E 00]@As for the bad news...[EVENT][END]
-21-32E:
+21-32E:@......[WAIT][PAUSE 1E 00]@Und jetzt zu der schlechten Nachricht...[EVENT][END]
 // Repeats: 19-32, 21-32
 21-33:@......[BREAK][PAUSE 1E 00]  The bad news is...[BREAK]  ............[WAIT]@...It's where I found the Drago Fang.[WAIT]@It was......[BREAK]  in your...[END]
-21-33E:
+21-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Es war......[BREAK]  in deiner...[END]
 // Repeats: 19-33, 21-33
 21-34:@It was pierced through your wife's heart...[END]
-21-34E:
+21-34E:@Es hat das Herz deiner Frau durchbohrt...[END]
 // Repeats: 19-34, 21-34
 21-35:@[FLINT 23 01 00]...[WAIT]@Just try to stay calm...[END]
-21-35E:
+21-35E:@[FLINT 23 01 00]...[WAIT]@Versuch ruhig zu bleiben...[END]
 // Repeats: 19-35, 21-35
 21-36:@I think the only reason [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] are safe and sound now[WAIT]  is because [HINAWA 22 08 00] risked her life to[BREAK]  protect them.[END]
-21-36E:
+21-36E:@Ich glaube der Grund, wieso [CLAUS 22 05 00] und[BREAK]  [LUCAS 23 02 00] gesund und munter sind,[WAIT]  ist, weil [HINAWA 22 08 00] ihr Leben riskiert hat[BREAK]  um sie zu beschützen.[END]
 // Repeats: 19-36, 21-36
 21-37:@[FLINT 23 01 00]...[END]
 21-37E:@[FLINT 23 01 00]...[END]
@@ -2425,16 +2425,16 @@
 21-39E:@[FLINT 23 01 00]...[END]
 // Repeats: 6-0, 19-39, 21-39
 21-40:@[FLINT 23 01 00]![WAIT]@What are you doing?![WAIT]@[CLAUS 22 05 00] and [LUCAS 23 02 00] are[BREAK]  watching![END]
-21-40E:
+21-40E:@[FLINT 23 01 00]![WAIT]@Was machst du?![WAIT]@[CLAUS 22 05 00] und [LUCAS 23 02 00] schauen zu![END]
 // Repeats: 19-40, 21-40
 21-41:@It's burning intensely.[END]
-21-41E:
+21-41E:@Es brennt intensiv.[END]
 // Repeats: 19-41, 21-41
 21-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-21-42E:
+21-42E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Du weißt, dass Gegner manchmal nette Items[BREAK]  nach dem Kampf hinterlassen.[WAIT]  Wenn dein Inventar voll ist und du ein Item[BREAK]  findest, was du haben willst,[WAIT]  musst du es entweder aufgeben oder ein[BREAK]  anderes Item wegwerfen.[WAIT]  Deswegen ist es immer eine gute Idee jegliches[BREAK]  Essen zu essen.[WAIT]  Das hilft dir dabei, in deinem Inventar immer[BREAK]  genügend Platz zu haben.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 // Repeats: 19-42, 21-42
 21-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
-21-43E:
+21-43E:[SOUND 03 00]  Ha-ha-ha-hazwitscher zwitscher zwitscher!)[END]
 // Repeats: 19-43, 21-43
 21-44:@Wrong.[WAIT]  I am the wrong frog.[END]
 21-44E:

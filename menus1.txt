@@ -449,7 +449,7 @@
 00DF: The beloved mother![END]
 00DF-E: Deine geliebte Mutter![END]
 00E0: The brave and smart[BREAK]dog.[END]
-00E0-E: Dein mutiger und schlauer Hund![END]
+00E0-E: Dein mutiger und schlauer[BREAK]Hund![END]
 00E1: A monkey who will endure[BREAK]anything for his girlfriend.[END]
 00E1-E: Ein Affe, der alles für[BREAk]seine Freundin macht.[END]
 00E2: A strange but nice guy[BREAK]with unexpected skills.[END]
