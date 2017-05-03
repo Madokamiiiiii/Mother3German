@@ -2221,7 +2221,7 @@
 19-19E:@...[PAUSE 20 00][BREAK]  Vater...[END]
 // Repeats: 19-19, 21-19
 19-20:@Mom's...[PAUSE 10 00][BREAK]  ...Mom's...[WAIT]@...[END]
-19-20E:@Mutters...[PAUSE 10 00][BREAK]  ...Mutters...[WAIT]@...[END]
+19-20E:@Mutter ist...[PAUSE 10 00][BREAK]  ...Mutter ist...[WAIT]@...[END]
 // Repeats: 19-20, 21-20
 19-21:@[FLINT 26 01 00 03 00]!![END]
 19-21E:@[FLINT 26 01 00 03 00]!![END]
@@ -2295,13 +2295,13 @@
 
 [Container 20]
 20-0:@The cliff here has crumbled.[WAIT]@It doesn't look like there's any way to get[BREAK]  across.[END]
-20-0E:
+20-0E:@Der Felsvorsprung hier ist zerbröckelt.[WAIT]@Es sieht danach aus, als gäbe es einen anderen[BREAK]  Weg drum herum.[END]
 20-1:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to explain "Skills" to you.[WAIT]  Oh, sorry for being so sudden.[WAIT]  Anyway, you and all your party members have[BREAK]  special skills you can use during battle.[WAIT]  These skills might be centered around items,[BREAK]  physical actions, or whatever else.[WAIT]  Basically, it's different for each person.[WAIT]  For details, press [COLOR 03 00]Start[COLOR 00 00] to bring up the menu,[WAIT]  and from there, you can check everyone's[BREAK]  skills from the "Status" screen.[WAIT]  It'd be a real waste to neglect your special[BREAK]  skills, so give it a try.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-20-1E:
+20-1E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Erlaube mir dir die "Fähigkeiten" zu erklären.[WAIT]  Oh, sorry, dass es so plötzlich ist.[WAIT]  Jedenfalls, du und deine Teammitglieder haben[BREAK]  besondere Fähigkeiten, die man im Kampf[BREAK]  einsetzen kann.[WAIT]  Diese Fähigkeiten sind entweder Items,[BREAK]  physische Aktionen oder anderes.[WAIT]  Grundsätzlich ist es für jeden anders.[WAIT]  Für Näheres drücke [COLOR 03 00]Start[COLOR 00 00],[WAIT]  und von dort aus kannst du Fähigkeiten von[BREAK]  jeden im "Status"-Menü sehen.[WAIT]  Es wäre eine Verschwendung deine Fähigkeiten[BREAK]  zu vernachlässigen, also probier es mal aus.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 20-2:[SOUND 03 00]  chirp!)[END]
-20-2E:
+20-2E:[SOUND 03 00]  zwitscher!)[END]
 20-3:[END]
-20-3E:
+20-3E:[END]
 
 [Container 21]
 21-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -2347,7 +2347,7 @@
 21-13E:@Es ist gut sich ein bisschen um seine Eltern zu[BREAK]  sorgen, während man ein Kind bist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
 // Repeats: 19-13, 21-13
 21-14:@Ain't nothin' to worry about.[WAIT]@I'm sure everyone's alright.[WAIT]@Tomorrow's gonna come, and everything'll be[BREAK]  the same as it always is.[END]
-21-14E:
+21-14E:[END]
 // Repeats: 19-14, 21-14
 21-15:@I guess they still haven't found [HINAWA 22 08 00].[WAIT]@Where the heck could she be?[END]
 21-15E:@Ich glaube, sie haben [HINAWA 22 08 00] immer[BREAK]  noch nicht gefunden.[WAIT]@Wo zur Hölle könnte sie stecken?[END]
@@ -2365,7 +2365,7 @@
 21-19E:@...[PAUSE 20 00][BREAK]  Vater...[END]
 // Repeats: 19-19, 21-19
 21-20:@Mom's...[PAUSE 10 00][BREAK]  ...Mom's...[WAIT]@...[END]
-21-20E:@Mutters...[PAUSE 10 00][BREAK]  ...Mutters...[WAIT]@...[END]
+21-20E:@Mutter ist...[PAUSE 10 00][BREAK]  ...Mutter ist...[WAIT]@...[END]
 // Repeats: 19-20, 21-20
 21-21:@[FLINT 26 01 00 03 00]!![END]
 21-21E:@[FLINT 26 01 00 03 00]!![END]
@@ -2437,21 +2437,21 @@
 21-43E:[SOUND 03 00]  Ha-ha-ha-hazwitscher zwitscher zwitscher!)[END]
 // Repeats: 19-43, 21-43
 21-44:@Wrong.[WAIT]  I am the wrong frog.[END]
-21-44E:
+21-44E:@Falsch.[WAIT]  Ich bin der falsche Frosch.[END]
 // Repeats: 21-44, 219-48
 21-45:@Right![BREAK]  Right! Right!![BREAK]  Frog!![BREAK]  The right frog!![END]
-21-45E:
+21-45E:@Richtig![BREAK]  Richtig! Richtig!![BREAK]  Frosch!![BREAK]  Der richtige Frosch!![END]
 // Repeats: 21-45, 219-49
 21-46:@Hey there, lucky man![END]
-21-46E:
+21-46E:@Hey, du Glückspilz![END]
 // Repeats: 21-46, 219-50
 21-47:@Ribbit ribbit.[WAIT]@Rabbit rabbit.[END]
-21-47E:
+21-47E:@Quack qack.[WAIT]@Quarck quarck.[END]
 // Repeats: 21-47, 219-51
 21-48:@See you later.[END]
-21-48E:
+21-48E:@Wir sehen uns.[END]
 21-49:[END]
-21-49E:
+21-49E:[END]
 
 [Container 22]
 22-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
@@ -2488,10 +2488,10 @@
 22-10E:@Gacker gaaaacker?![WAIT]  (Warum verfolgst du mich?!)[END]
 // Repeats: 22-10, 23-10
 22-11:@O-oink.[WAIT]  (I wanna see the ocean.)[END]
-22-11E:
+22-11E:@O-oink.[WAIT]  (Ich will das Meer sehen.)[END]
 // Repeats: 22-11, 23-11
 22-12:@O-oink oink.[WAIT]  (I wanna see a pig seeing the ocean.)[END]
-22-12E:
+22-12E:@O-oink oink.[WAIT]  (Ich will ein Schwein sehen, das das Meer[BREAK]  sieht.)[END]
 // Repeats: 22-12, 23-12
 22-13:@Moo.[WAIT]  (Wherever and whenever, cows go, "Moo.")[END]
 22-13E:@Muh.[WAIT]  (Überall und jederzeit, machen Kühe, "Muh.")[END]
@@ -2556,7 +2556,7 @@
 23-10E:@Gacker gaaaacker?![WAIT]  (Warum verfolgst du mich?!)[END]
 // Repeats: 22-10, 23-10
 23-11:@O-oink.[WAIT]  (I wanna see the ocean.)[END]
-23-11E:@O-oink.[WAIT]  (Ich möchte das Meer sehen.)[END]
+23-11E:@O-oink.[WAIT]  (Ich will das Meer sehen.)[END]
 // Repeats: 22-11, 23-11
 23-12:@O-oink oink.[WAIT]  (I wanna see a pig seeing the ocean.)[END]
 23-12E:@O-oink oink.[WAIT]  (Ich möchte ein Schwein sehen, das das Meer[BREAK]  sieht.)[END]
@@ -2599,96 +2599,96 @@
 
 [Container 24]
 24-0:@A metal object you've never seen before is[BREAK]  sitting here.[END]
-24-0E:@Ein metallenes Objekt, das du noch[BREAK]  nie zuvor gesehen hast, liegt hier.[END]
+24-0E:@Hier liegt ein metallenes Objekt, das du noch[BREAK]  nie zuvor gesehen hast.[END]
 24-1:[END]
 24-1E:[END]
 
 [Container 25]
 25-0:@Thick, tangled-up vines block the entrance.[END]
-25-0E:
+25-0E:@Dicke, verhedderte Lianen blockieren den Weg.[END]
 // Repeats: 25-0, 709-0
 25-1:@[42 FF F0 FF]'s [ITEM C1 00] reflected the[BREAK]  masked man's lightning right back at him![END]
-25-1E:
+25-1E:@Das [ITEM C1 00] von [42 FF F0 FF] reflektierte[BREAK]  den Blitz des Maskierten Mannes zurück![END]
 // Repeats: 25-1, 709-1
 25-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-25-2E:
+25-2E:@Diese Lianen sind in der Zeit steckengeblieben.[WAIT]@[ITEM CA 00] über ihnen sprenkeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 25-3:[END]
-25-3E:
+25-3E:[END]
 
 [Container 26]
 26-0:@This belongs to [CLAUS 22 05 00]![WAIT]@And that was a baby Drago just now.[WAIT]@[CLAUS 22 05 00] MUST be around here[BREAK]  somewhere![END]
-26-0E:
+26-0E:@Das gehört [CLAUS 22 05 00]![WAIT]@Und das war gerade ein Drago-Baby.[WAIT]@[CLAUS 22 05 00] MUSS hier irgendwo sein![END]
 26-1:@This is one of [CLAUS 22 05 00]'s favorite[BREAK]  shoes...[END]
-26-1E:
+26-1E:@Dies ist ein Lieblingsschuh von[BREAK]  [CLAUS 22 05 00]...[END]
 26-2:@Got the Child's Shoe![PAUSE 40 00][END]
-26-2E:
+26-2E:@Kinderschuh erhalten![PAUSE 40 00][END]
 26-3:@This looks just like the thing you saw atop that[BREAK]  cliff earlier.[WAIT]@This one appears to be broken, however.[END]
-26-3E:
+26-3E:@Das sieht genau wie das Ding aus, das du[BREAK]  vorhin auf der Klippe gesehen hast.[WAIT]@Der hier scheint jedoch kaputt zu sein.[END]
 26-4:[SOUND 03 00]@Chirp chirp.[WAIT]  (Up ahead is Drago territory. Please be careful[BREAK]  if you're heading further in.[WAIT]  Now, to end this with a sparrow-like...[EVENT][END]
-26-4E:
+26-4E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Weiter vorne ist das Territorium der Dragos.[BREAK]  Bitte sei vorsichtig, wenn du weitergehst.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 26-5:[SOUND 03 00]  chirp chirp-chirp!)[END]
-26-5E:
+26-5E:[SOUND 03 00]  zwitscher zwitscher-zwitscher!)[END]
 26-6:@Looks like we finally made it to the Dragos'[BREAK]  lair.[END]
-26-6E:
+26-6E:@Wir haben es endlich zum Drago-Lager[BREAK]  geschafft.[END]
 26-7:@It's [CLAUS 22 05 00]'s other shoe...[END]
-26-7E:
+26-7E:@Es ist der andere Schuh von [CLAUS 22 05 00]...[END]
 26-8:@[CLAUS 22 05 00]! We're here to rescue you![WAIT]@Where are you?![END]
-26-8E:
+26-8E:@[CLAUS 22 05 00]![BREAK]  Wir sind hier um dich zu retten![WAIT]@Wo bist du?![END]
 26-9:@What is THAT?![WAIT]@That's[PAUSE 20 00] not a Drago anymore.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@I have a bad feeling about this...![END]
-26-9E:
+26-9E:@Was ist DAS?![WAIT]@Das ist[PAUSE 20 00] kein Drago mehr.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@Ich habe ein sehr schlechtes Gefühl dabei...![END]
 
 [Container 28]
 28-0:@There is cold, clean water here.[END]
-28-0E:
+28-0E:@Da hier ist kaltes, sauberes Wasser.[END]
 28-1:@There is cold, clean water here.[PAUSE 20 00][BREAK]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00]But [PAUSE 10 00]it smells kind of dung-like.[END]
-28-1E:
+28-1E:@Da hier ist kaltes, sauberes Wasser.[PAUSE 20 00][BREAK]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00]Aber [PAUSE 10 00]es stinkt nach Mist.[END]
 28-2:@Drink some?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-28-2E:
+28-2E:@Etwas trinken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 28-3:@[42 FF 00 00] felt much better![END]
-28-3E:
+28-3E:@[42 FF 00 00] geht es viel besser![END]
 28-4:@I am Wan Sum Dung.[WAIT]@I don't have any dung to roll, so I'm not a true[BREAK]  dung beetle.[WAIT]@I'm so sad.[END]
-28-4E:
+28-4E:@Ich bin ein Wan-Sum-Käfer.[WAIT]@Ich habe kein Mist zum Rollen, also bin ich kein[BREAK]  echter Mistkäfer.[WAIT]@Ich bin so traurig.[END]
 28-5:@If you ever happen to come across some dung,[BREAK]  please bring it to me.[WAIT]@I'll always be here, so please bring me some.[END]
-28-5E:
+28-5E:@Falls du über Mist stolpern solltest, bring ihn[BREAK]  bitte zu mir.[WAIT]@Ich bin immer hier, also bring mir bitte etwas.[END]
 28-6:@If you're tired, have a drink from this oasis.[END]
-28-6E:
+28-6E:@Wenn du müde bist, trink von dieser Oase.[END]
 28-7:@I wonder how everyone else got their dung...[END]
-28-7E:
+28-7E:@Ich frage mich, woher die anderen ihren Mist[BREAK]  haben...[END]
 28-8:@I finally tried rolling that dung you gave me...[WAIT]  ...but I was so nervous that I accidentally[BREAK]  dropped it in the oasis.[WAIT]@Think you could get me some more?[END]
-28-8E:
+28-8E:@Ich habe versucht den Mist, den du mir[BREAK]  gegeben hast, zu rollen...[WAIT]  ...aber ich war so nervös, dass ich es[BREAK]  versehentich in die Oase fallen gelassen habe.[WAIT]@Könntest du mir noch etwas geben?[END]
 28-9:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-9E:
+28-9E:@Ich will Mist rollen!![BREAK]  Mir ist es sogar egal, was für eine Art es ist!!![WAIT]@...*seufz*[WAIT]@Jetzt bin ich total aufgebracht und verwirrt![WAIT]@Warte, du hast mir etwas Mist gebracht?![WAIT][PAUSE 20 00]@Und du gibst es mir? Kostenlos?[WAIT]@Oh, danke, danke, danke![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Lasst uns rollen!!![BREAK]  Lasst uns bis zum Ende der Wüste rollen! Yeah![END]
 28-10:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 05 00] experience points![PAUSE 40 00][END]
-28-10E:
+28-10E:@Jeder in der Party von [42 FF 00 00] erhielt[BREAK]  [80 FF 05 00] Erfahrungspunkte![PAUSE 40 00][END]
 28-11:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh! This is quite rare, exquisitely-aged dung! [WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-11E:
+28-11E:@Ich will Mist rollen!![BREAK]  Mir ist es sogar egal, was für eine Art es ist!!![WAIT]@...*seufz*[WAIT]@Jetzt bin ich total aufgebracht und verwirrt![WAIT]@Warte, du hast mir etwas Mist gebracht?![WAIT][PAUSE 20 00]@Und du gibst es mir? Kostenlos?[WAIT]@Oh! Dies ist extrem seltener,[BREAK]  exquisit-gealteter Mist! [WAIT]@Oh, danke, danke, danke![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Lasst uns rollen!!![BREAK]  Lasst uns bis zum Ende der Wüste rollen! Yeah![END]
 28-12:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 0A 00] experience points![PAUSE 40 00][END]
-28-12E:
+28-12E:@Jeder in der Party von [42 FF 00 00] erhielt[BREAK]  [80 FF 0A 00] Erfahrungspunkte![PAUSE 40 00][END]
 28-13:@You felt something warm inside your heart.[END]
 28-13E:@Du fühlst etwas Warmes in deinem Herz.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-14:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh, my![WAIT]@This is the Legendary Dung, which is said to be[BREAK]  dung but also NOT dung![WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-14E:
+28-14E:@Ich will Mist rollen!![BREAK]  Mir ist es sogar egal, was für eine Art es ist!!![WAIT]@...*seufz*[WAIT]@Jetzt bin ich total aufgebracht und verwirrt![WAIT]@Warte, du hast mir etwas Mist gebracht?![WAIT][PAUSE 20 00]@Und du gibst es mir? Kostenlos?[WAIT]@Oh, mein Gott![WAIT]@Dies ist der legendäre Mist, wo gesagt wird,[BREAK]  dass es Mist und zugleich KEIN Mist ist![WAIT]@Oh, danke, danke, danke![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Lasst uns rollen!!![BREAK]  Lasst uns bis zum Ende der Wüste rollen! Yeah![END]
 28-15:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 32 00] experience points![PAUSE 40 00][END]
-28-15E:
+28-15E:@Jeder in der Party von [42 FF 00 00] erhielt[BREAK]  [80 FF 32 00] Erfahrungspunkte![PAUSE 40 00][END]
 28-16:@You felt something warm inside your heart.[END]
 28-16E:@Du fühlst etwas Warmes in deinem Herz.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-17:@Frogs in a desert?[WAIT]@It's actually not as crazy as you might think.[WAIT]@Some species of frogs, such as "sand frogs",[BREAK]  do exist in arid, desert regions like Africa.[WAIT]@During seasons with little to no precipitation,[WAIT]  these frogs burrow into the ground to protect[BREAK]  themselves from the harsh, dry climate.[END]
-28-17E:
+28-17E:@Frösche in einer Wüste?[WAIT]@Es ist tatsächlich gar nicht mal so verrückt,[BREAK]  wie du vielleicht denken möchtest.[WAIT]@Einige Froschspezies, wie "Sandfrösche", gibt[BREAK]  es in ariden Wüstenregionen von Afrika.[WAIT]@In der Zeit, wo es so gut wie gar nicht regnet,[WAIT]  buddeln sich diese Frösche in den Boden ein,[BREAK]  um sich vor den harten, trockenen Klima zu[WAIT]  schützen.[END]
 28-18:@All that spinning and dizziness actually started[BREAK]  to feel kind of nice after a while...[END]
-28-18E:
+28-18E:@Dieses ganze Drehen hat tatsächlich begonnen[BREAK]  sich gut anzufühlen...[END]
 28-19:@Thanks for saving me when I needed help.[WAIT]@Anyways, while we're at it...[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-28-19E:
+28-19E:@Danke fürs Retten, als ich Hilfe benötigt habe.[WAIT]@Wie auch immer, wenn wir schon dabei sind...[WAIT]@*hüpf*[BREAK]  Willst du dein Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 28-20:@So dizzyyyy![WAIT]@Help me, ribbiiit![END]
-28-20E:
+28-20E:@So schwiiiiiiindeeeliiiig![WAIT]@Hilf mir, quaaaaaack![END]
 28-21:@Listen, monkey![WAIT]@That's a Cactus Wolf, the meanest thing in the[BREAK]  desert.[WAIT]@But we can't get inside with him standing[BREAK]  there.[WAIT]@Go beat him up.[WAIT]  Lose, and I'll have an extra serving of[BREAK]  punishment ready just for you![END]
-28-21E:
+28-21E:@Hör zu, Affe![WAIT]@Das ist ein Kaktuswolf, das fieseste Wesen[BREAK]  in der Wüste.[WAIT]@Aber wir können nicht rein, während der da[BREAK]  steht.[WAIT]@Geh und besieg ihn.[WAIT]  Verlier, und ich werde mit einer extra[BREAK]  Bestrafung an dir Spaß haben![END]
 28-22:@Get in, you![END]
-28-22E:
+28-22E:@Geh rein, du![END]
 28-23:[END]
-28-23E:
+28-23E:[END]
 
 [Container 29]
 29-0:@(What, do you expect cow bones to talk or[BREAK]  something?)[END]
@@ -10091,16 +10091,16 @@
 219-47E:
 // Repeats: 33-47, 219-47
 219-48:@Wrong.[WAIT]  I am the wrong frog.[END]
-219-48E:
+219-48E:@Falsch.[WAIT]  Ich bin der falsche Frosch.[END]
 // Repeats: 21-44, 219-48
 219-49:@Right![BREAK]  Right! Right!![BREAK]  Frog!![BREAK]  The right frog!![END]
-219-49E:
+219-49E:@Richtig![BREAK]  Richtig! Richtig!![BREAK]  Frosch!![BREAK]  Der richtige Frosch!![END]
 // Repeats: 21-45, 219-49
 219-50:@Hey there, lucky man![END]
-219-50E:
+219-50E:@Hey, du Glückspilz![END]
 // Repeats: 21-46, 219-50
 219-51:@Ribbit ribbit.[WAIT]@Rabbit rabbit.[END]
-219-51E:
+219-51E:@Quack qack.[WAIT]@Quarck quarck.[END]
 // Repeats: 21-47, 219-51
 
 [Container 220]
@@ -12649,7 +12649,7 @@
 327-36:@Yeah.[BREAK]@Good work today.[END]
 327-36E:
 327-37:@See you later.[END]
-327-37E:
+327-37E:@Wir sehen uns.[END]
 
 [Container 328]
 328-0:[HOTSPRING 00 00][END]
@@ -18528,13 +18528,13 @@
 
 [Container 709]
 709-0:@Thick, tangled-up vines block the entrance.[END]
-709-0E:
+709-0E:@Dicke, verhedderte Lianen blockieren den Weg.[END]
 // Repeats: 25-0, 709-0
 709-1:@[42 FF F0 FF]'s Franklin Badge reflected the[BREAK]  masked man's lightning back at him![END]
 709-1E:
 // Repeats: 25-1, 709-1
 709-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-709-2E:
+709-2E:@Diese Lianen sind in der Zeit steckengeblieben.[WAIT]@[ITEM CA 00] über ihnen sprenkeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 709-3:@[CLAUS 22 05 00] gave his final breath.[END]
 709-3E:
