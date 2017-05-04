@@ -2692,76 +2692,76 @@
 
 [Container 29]
 29-0:@(What, do you expect cow bones to talk or[BREAK]  something?)[END]
-29-0E:
+29-0E:@(Was, erwartest du etwa, dass Kuhknochen[BREAK]  sprechen oder so?)[END]
 29-1:@(What do you expect from me?)[END]
-29-1E:
+29-1E:@(Was erwartest du von mir?)[END]
 29-2:@(In life, this cow WAS famous for having such[BREAK]  a quiet side...)[END]
-29-2E:
+29-2E:@(In Lebzeiten, WAR diese Kuh bekannt dafür[BREAK]  eine solch ruhige Seite zu haben...)[END]
 29-3:@(I'm a pile of real cow bones.[WAIT]  Real cow bones don't talk without good[BREAK]  reason.)[END]
-29-3E:
+29-3E:@(Ich bin ein haufen echter Kuhknochen.[WAIT]  Echte Kuhknochen reden nicht ohne guten[BREAK]  Grund.)[END]
 29-4:@Got a [ITEM 6B 00]![END]
-29-4E:
+29-4E:@[ITEM 6B 00] erhalten![END]
 29-5:@Inside the present, there was[BREAK]  a [ITEM 6B 00].[WAIT]@But you can't hold any more stuff.[END]
-29-5E:
+29-5E:@Im Geschenk war ein[BREAK]  [ITEM 6B 00].[WAIT]@Aber du kannst nichts mehr tragen.[END]
 29-6:@You gave up the [ITEM 6B 00].[END]
-29-6E:
+29-6E:@Du hast [ITEM 6B 00] zurückgelassen.[END]
 29-7:@Oh! That's a [ITEM 6B 00]![WAIT]@Hey, you! Stupid monkey![EVENT][END]
-29-7E:
+29-7E:@Oh! Das ist eine [ITEM 6B 00]![WAIT]@Hey, du! Dummer Affe![EVENT][END]
 29-8:@If you think you've earned that [ITEM 6B 00],[BREAK]  then you better think again![WAIT]@Gimme that![END]
-29-8E:
+29-8E:@Wenn du glaubst, dass du dir diese[BREAK]  [ITEM 6B 00] verdient hättest,[WAIT]  dann denk nochmal darüber nach![WAIT]@Gib es mir![END]
 29-9:[END]
-29-9E:
+29-9E:[END]
 
 [Container 30]
 30-0:@Alright, monkey! Listen up![WAIT]@If you don't do your job...[EVENT][END]
-30-0E:
+30-0E:@Also, Affe! Hör gut zu![WAIT]@Wenn du deine Arbeit nicht machst...[EVENT][END]
 30-1:@...then this girlie monkey is as good as dead.[END]
-30-1E:
+30-1E:@...dann ist dieses Affenmädchen so gut[BREAK]  wie tot.[END]
 30-2:@Do what you're supposed to, and you'll get to[BREAK]  have a nice, happy reunion later.[WAIT]  Understand?![WAIT]@Both you...[EVENT][END]
-30-2E:
+30-2E:@Tu, was du tun sollst, und ihr werdet später[BREAK]  ein glückliches Happy End haben.[WAIT]  Verstanden?![WAIT]@Die beiden...[EVENT][END]
 30-3:@...and this girlie monkey could wind up dead, if[BREAK]  you're not careful![END]
-30-3E:
+30-3E:@...und dieses Affenmädchen könnten sterben,[BREAK]  wenn du nicht vorsichtig bist![END]
 30-4:@Well? How do you like it?[WAIT]@That lovely thing around your neck is no[BREAK]  ordinary collar.[WAIT]@It's so advanced that even if you ran to the[BREAK]  ends of the desert,[WAIT]  punishing you would still be a snap.[END]
-30-4E:
+30-4E:@Nun? Wie gefällt es dir?[WAIT]@Dieses liebliche Teil um deinen Nacken ist kein[BREAK]  gewöhnliches Halsband.[WAIT]@Es ist so fortgeschritten, dass sogar, wenn du[BREAK]  ans Ende der Wüste rennen würdest,[WAIT]  einer Bestrafung nichts im Wege stände.[END]
 30-5:@Come to think of it, monkey, you don't have a[BREAK]  name, do you?[WAIT]@You're going to need one from here on out.[WAIT]@I hope you can come up with something cute.[BREAK]  Nwehehehehe![END]
-30-5E:
+30-5E:@Jetzt, wo ich drüber nachdenke, du hast[BREAK]  kein Name, oder?[WAIT]@Du wirst von jetzt an einen brauchen.[WAIT]@Ich hoffe dir fällt ein süßer ein.[BREAK]  Nwehehehehe![END]
 30-6:@Alright, stupid monkey! [SALSA 23 06 00]![WAIT]@I'll only say this once, so listen close![WAIT]@If you wanna enjoy your little journey with me,[BREAK]  just remember these two things.[END]
-30-6E:
+30-6E:@Alles klar, dummer Affe! [SALSA 23 06 00]![WAIT]@Ich werde das nur einmal sagen, also hör zu![WAIT]@Wenn du unsere kleine Reise genießen willst,[BREAK]  denk einfach an diese zwei Sachen.[END]
 30-7:@You and I are buddies.[WAIT]@...Don't you dare try to run away from me.[WAIT]@Always behave, and act nice and friendly.[WAIT]  Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-7E:
+30-7E:@Du und deine Kumpels.[WAIT]@...Wagt es nicht, vor mir abzuhauen.[WAIT]@Verhaltet euch immer ruhig und freundlich.[WAIT]  Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-8:@You don't get it, huh?[BREAK]  Then I'll say it just one more time.[WAIT]@You and I are buddies.[WAIT]@...Don't you dare try to run away from me.[WAIT]@Always behave, and act nice and friendly.[WAIT]  Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-8E:
+30-8E:@Du checkst es nicht, huh?[BREAK]  Dann sage ich es noch ein letztes Mal.[WAIT]@Du und deine Kumpels.[WAIT]@...Wagt es nicht, vor mir abzuhauen.[WAIT]@Verhaltet euch immer ruhig und freundlich.[WAIT]  Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-9:@Good boy.[WAIT]@The second thing to remember: never disobey[BREAK]  my commands.[WAIT]@If I say dance, you dance![WAIT]@If I say laugh, you laugh![WAIT]@It's that simple.[WAIT]  Got it?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-9E:
+30-9E:@Guter Junge.[WAIT]@Die zweite Sache: missachte niemals meine[BREAK]  Befehle.[WAIT]@Wenn ich sage "Tanz", dann tanzt du![WAIT]@Wenn ich sage "Lach", dann lachst du![WAIT]@So einfach ist das.[WAIT]  Verstanden?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-10:@You don't get it, huh?[BREAK]  Then I'll say it just one more time.[WAIT]@Never disobey my commands.[WAIT]@If I say dance, you dance![WAIT]@If I say laugh, you laugh![WAIT]@It's that simple.[WAIT]  Got it?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-10E:
+30-10E:@Du checkst es nicht, huh?[BREAK]  Dann sage ich es noch ein letztes Mal.[WAIT]@Missachte niemals meine Befehle.[WAIT]@Wenn ich sage "Tanz", dann tanzt du![WAIT]@Wenn ich sage "Lach", dann lachst du![WAIT]@So einfach ist das.[WAIT]  Verstanden?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-11:@Do what I say, and we'll both get through this[BREAK]  without any hard feelings.[WAIT]@Nwehehehehe.[END]
-30-11E:
+30-11E:@Tu, was ich sage, und wir beide werden ohne[BREAK]  jegliche Problem hierduch kommen.[WAIT]@Nwehehehehe.[END]
 30-12:@Oh...?[WAIT]  What's that defiant look in your eyes?[WAIT]@Dance![END]
-30-12E:
+30-12E:@Oh...?[WAIT]  Was ist das denn für ein frecher[BREAK]  Gesichtsausdruck?[WAIT]@Tanz![END]
 30-13:@Nwahahahahahaha.[WAIT]@That's such a silly monkey dance that just[BREAK]  watching it is embarrassing![WAIT]@Try a different dance.[END]
-30-13E:
+30-13E:@Nwahahahahahaha.[WAIT]@Das ist so ein dummer Affentanz, dass das[BREAK]  Zuschauen schon peinlich ist![WAIT]@Mach einen anderen Tanz.[END]
 30-14:@Good boy.[BREAK]  Laugh![END]
-30-14E:
+30-14E:@Guter Junge.[BREAK]  Lach![END]
 30-15:@Backflip![END]
 30-15E:@Rückwärtssalto![END]
 // Repeats: 0-120, 30-15
 30-16:@Good boy. Good job.[WAIT]@No doubt everyone'll believe we're a[BREAK]  performance duo now.[END]
-30-16E:
+30-16E:@Guter Junge, Gute Arbeit.[WAIT]@Ohne Zweifel wird jetzt jeder glauben, dass[BREAK]  wir ein hervorragendes Duo sind.[END]
 30-17:@......[WAIT]@Hey, you stupid monkey![WAIT]  You only get to cry when I tell you to![WAIT]@No crying on your own! It's punishment time![END]
-30-17E:
+30-17E:@......[WAIT]@Hey, du blöder Affe![WAIT]  Du darfst nur weinen, wenn ich es dir erlaube![WAIT]@Nicht alleine Weinen! Zeit für eine Bestrafung![END]
 30-18:@Hey, you! Quit sleeping on the job![WAIT]@Alright, listen![WAIT]  There's a white, round building west of here.[WAIT]  We're going there![END]
-30-18E:
+30-18E:@Hey, du! Hör auf bei der Arbeit zu schlafen![WAIT]@Ok, hör zu![WAIT]  Im Westen von hier ist ein weißes, rundes[BREAK]  Gebäude.[WAIT]  Da gehen wir hin![END]
 30-19:@You wound up being taken with Fassad![PAUSE A0 00][END]
-30-19E:
+30-19E:@You wound up being taken with Fassad![PAUSE A0 00][END]
 30-20:@Heya.[WAIT]@I saw everything.[WAIT]@Be strong. Endure it.[WAIT]@I'm sure things will start to go your way[BREAK]  someday.[WAIT]@To help that day come...[PAUSE 5A 00][BREAK]  ...will you save your game now?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-20E:
+30-20E:@Heya.[WAIT]@Ich habe alles gesehen.[WAIT]@Sei stark. Halte durch.[WAIT]@Ich bin mir sicher, dass es eines Tages zu[BREAK]  deinen Gunsten laufen wird.[WAIT]@Um zu helfen, dass dieser Tag kommt...[PAUSE 5A 00][BREAK]  ...willst du dein Spiel jetzt speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-21:@So you're gonna endure not saving, too?[BREAK]  Is that how you prefer it?[WAIT]@Well, I have no choice but to accept that.[WAIT]@Be careful out there.[END]
-30-21E:
+30-21E:@Also hältst du es auch ohne Speichern durch?[BREAK]  Wenn du das lieber hast?[WAIT]@Nun, ich habe keine andere Wahl als es zu[BREAK]  akzeptieren.[WAIT]@Sie vorsichtig da draußen.[END]
 30-22:@There's nothing here.[WAIT]  Well, there IS more than enough sand, but[BREAK]  that's about it.[END]
-30-22E:
+30-22E:@Dort ist nichts.[WAIT]  Nun, da IST mehr als genug Sand, aber das[BREAK]  war's dann auch schon.[END]
 30-23:[END]
-30-23E:
+30-23E:[END]
 
 [Container 31]
 31-0:@Be sure to talk to frogs once in a while.[END]
