@@ -2765,57 +2765,57 @@
 
 [Container 31]
 31-0:@Be sure to talk to frogs once in a while.[END]
-31-0E:
+31-0E:@Sprich bitte von Zeit von Zeit mit Fröschen.[END]
 31-1:@Ribbit ribbit.[WAIT]  I recommend saving as often as possible.[END]
-31-1E:
+31-1E:@Quack quack.[WAIT]  Ich empfehle dir so oft wie möglich zu[BREAK]  speichern[END]
 31-2:@[LUCAS 22 03 00] and [CLAUS 22 05 00]'s clothes[BREAK]  are being hung out to dry.[END]
-31-2E:
+31-2E:@Die Kleidung von [LUCAS 22 03 00] und[BREAK]  [CLAUS 22 05 00] hängen draußen zum Trocknen.[END]
 31-3:@The mailbox is empty.[END]
 31-3E:@Der Briefkasten ist leer.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 31-4:@[END]
-31-4E:
+31-4E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 31-5:[SOUND 03 00]@Woof woof![WAIT]  (I can take you for a walk if you'd like,[BREAK]  [LUCAS 23 02 00].)[END]
-31-5E:
+31-5E:[SOUND 03 00]@Wau wau![WAIT]  (IIch kann dich spazieren führen, wenn du[BREAK]  willst, [LUCAS 23 02 00].)[END]
 31-6:[SOUND 03 00]@Woo-woof![WAIT]  (Okay, alright. I'll take you for a walk!)[END]
-31-6E:
+31-6E:[SOUND 03 00]@Wau-wau![WAIT]  (Okay, ich werde dich spazieren führen!)[END]
 31-7:@[BONEY 23 05 00] joined your party![PAUSE F0 00][END]
-31-7E:
+31-7E:@[BONEY 23 05 00] tretete deinem Team bei![PAUSE F0 00][END]
 31-8:@Hey! You, there! Boy![WAIT]@I realize this might be a bit of a bother, but[BREAK]  please come talk to me.[WAIT][PAUSE 3C 00]@I have very important information for you.[END]
-31-8E:
+31-8E:@Hey! Du, da![WAIT]@Ich weiß, dass das dir vielleicht Umstände[BREAK]  bereitet, aber bitte komm und sprich mit mir.[WAIT][PAUSE 3C 00]@Ich habe wichtige Informationen für dich.[END]
 31-9:@From this day forth, you'll be rewarded for[BREAK]  your hard work.[WAIT]@It'll be given in units called DP (Dragon Power).[WAIT]@You can use DP in shops and other places[BREAK]  in exchange for goods and services.[WAIT]@It seems you've already earned[BREAK]  [80 FF F0 FF] DP so far.[WAIT]@You can save and withdraw DP anytime by[BREAK]  talking to nearby frogs.[WAIT]@Some frogs in special locations can't conduct[BREAK]  DP transactions, though.[WAIT]@Shall I explain all that again?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-31-9E:
+31-9E:@Von jetzt an wirst du für deine Arbeit belohnt[BREAK]  werden.[WAIT]@Es wird in Einheiten namens DK (Drachenkraft)[BREAK]  vergeben.[WAIT]@Du kannst DK in Geschäften und anderen[BREAK]  Plätzen im Austausch gegen Waren und[WAIT]  Services benutzen.[WAIT]@Du scheinst bisher[BREAK]  [80 FF F0 FF] DK verdient zu haben.[WAIT]@Du kannst bei nahegelegenden Fröschen[BREAK]  jederzeit speichern und DK abheben.[WAIT]@Einige Frösche an besonderen Orten können[BREAK]  jedoch keine DK-Transaktionen durchführen.[WAIT]@Soll ich dir nochmal alles erklären?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 31-10:@Alright, then. Let's try it out.[END]
-31-10E:
+31-10E:@Alles klar. Dann probier es mal aus.[END]
 31-11:@Hey, now. I asked you nicely, didn't I?[WAIT]@I realize this might be a bit of a bother, [PAUSE 0C 00]but[BREAK]  [PAUSE 0C 00]please [PAUSE 0C 00]come [PAUSE 0C 00]talk [PAUSE 0C 00]to [PAUSE 0C 00]me![END]
-31-11E:
+31-11E:@Hallo? Ich habe dich freundlich gefragt, oder?[WAIT]@Ich weiß, dass das dir vielleicht Umstände[BREAK]  bereitet, [PAUSE 0C 00]aber [PAUSE 0C 00]bitte [PAUSE 0C 00]komm [PAUSE 0C 00]und sprech [PAUSE 0C 00]mit [PAUSE 0C 00]mir![END]
 31-12:@You must really love being unhappy if you still[BREAK]  refuse to get a Happy Box after all this.[END]
-31-12E:
+31-12E:@Du musst es ja wirklich lieben unglücklich zu[BREAK]  sein, wenn du nach all dem eine[WAIT]  Glücklichkeitsbox ablehnst.[END]
 31-13:@So, this is Tazmily's famous Lightning House?![WAIT]@It really is incredible![WAIT]@It was definitely worth coming all the way here[BREAK]  to see![END]
-31-13E:
+31-13E:@Also, das hier ist also Tazmilys berühmtes[BREAK]  Gewitterhaus?![WAIT]@Es ist wirklich atemberaubend![WAIT]@Für diesen Blick hat sich der ganze Weg hierher[BREAK]  auf jeden Fall gelohnt![END]
 31-14:@This simple atmosphere...[BREAK]  This smell of livestock and sea breezes...[WAIT]@This is the only part of Tazmily that hasn't[BREAK]  changed a bit in the past three years.[END]
-31-14E:
+31-14E:@Diese simple Atmossphäre...[BREAK]  Der Geruch von Vieh und Meerbriesen...[WAIT]@Dies ist der einzige Ort von Tazmily, der sich in[BREAK]  den letzten drei Jahren nicht verändert hat.[END]
 31-15:@Time certainly flies, doesn't it?[WAIT][PAUSE 5A 00]@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-31-15E:
+31-15E:@Die Zeit vergeht wie im Fluge, oder?[WAIT][PAUSE 5A 00]@*hüpf*[BREAK]  Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 31-16:@You're holding out on saving, but I hope you're[BREAK]  not holding out on using the bathroom, too.[END]
-31-16E:
+31-16E:@Du harrst ohne Speichern aus, aber ich hoffe, du harrst nicht auch davor aus das Badezimmer zu benutzen.[END]
 31-17:@This annoying onlooker just won't move out of[BREAK]  the way,[WAIT]  so I've been keeping watch this whole time.[WAIT]@He's not very suspicious, though.[END]
-31-17E:
+31-17E:@Dieser nervige Schaulustige will einfach nicht[BREAK]  aus dem Weg gehen,[WAIT]  also habe ich ihn die ganze Zeit beobachtet.[WAIT]@Er ist aber nicht sehr verdächtig.[END]
 31-18:@Being an annoying onlooker is actually pretty[BREAK]  tough work.[WAIT]@I have to stand in this one spot for a really[BREAK]  long time, for example.[END]
-31-18E:
+31-18E:@Ein nerviger Schaulustiger zu sein ist genau[BREAK]  genommen harte Arbeit.[WAIT]@Zum Beispiel muss ich eine verdammt lange[BREAK]  Zeit an diesen Punkt stehen.[END]
 31-19:@Baaa.[WAIT]  (Lightning is scaryyyy. *smile*)[END]
-31-19E:
+31-19E:@Baaa.[WAIT]  (Gewitter sind gruuuuuuuselig. *lächel*)[END]
 31-20:@Baa.[WAIT]  (I got charred black. *smile*)[END]
-31-20E:
+31-20E:@Baa.[WAIT]  (Ich bin kohlrabenschwarz. *lächel*)[END]
 31-21:@Baaaa.[WAIT]  (Wild animals are afraid of lightning, but[BREAK]  livestock are actually pretty okay with it.)[END]
-31-21E:
+31-21E:@Baaaa.[WAIT]  (Wilde Tiere haben Angst vor Gewitter, aber[BREAK]  Vieh kommt damit tatsächlich gut zurecht.)[END]
 31-22:@Baaa.[WAIT]  (Just in case you've forgotten, I'm a charred[BREAK]  sheep, not a black sheep. *smile*)[END]
-31-22E:
+31-22E:@Baaa.[WAIT]  (Nur falls du es vergessen haben solltest, ich[BREAK]  bin ein verkohltes Schaf,[WAIT]  kein schwarzes Schaf *lächel*)[END]
 31-23:@Baaa.[WAIT]  (You'll get dirty if you touch me. *smile*)[END]
-31-23E:
+31-23E:@Baaa.[WAIT]  (Du wirst schmutzig, wenn du mich anfasst.[BREAK]  *lächel*)[END]
 31-24:@Baa...[WAIT]  (I wanna be a black sheep too...)[END]
-31-24E:
+31-24E:@Baa...[WAIT]  (Ich möchte auch ein schwarzes Schaf sein...)[END]
 31-25:@Baaa.[WAIT]  (My charred fur is starting to return to[BREAK]  normal. *smile*)[END]
 31-25E:
 31-26:@Baaa.[WAIT]  (This is how I always wanted to look. *smile*)[END]
@@ -9504,7 +9504,7 @@
 210-10:@Hi, little monkey...[WAIT]@I wanna be strong, too.[END]
 210-10E:
 210-11:@[END]
-210-11E:
+210-11E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 210-12:@*whimper*...[BREAK]  (You have such a sad look, Mr. Monkey...)[END]
 210-12E:
@@ -10818,7 +10818,7 @@
 233-49E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 233-50:@[END]
-233-50E:
+233-50E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 233-51:@Thanks[PAUSE 28 00].[PAUSE 28 00].[PAUSE 28 00].[PAUSE A0 00][END]
 233-51E:
@@ -17966,7 +17966,7 @@
 
 [Container 649]
 649-0:@[END]
-649-0E:
+649-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 649-1:[END]
 649-1E:
@@ -18298,7 +18298,7 @@
 
 [Container 666]
 666-0:@[END]
-666-0E:
+666-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 666-1:[END]
 666-1E:
@@ -18569,14 +18569,14 @@
 
 [Container 711]
 711-0:@[END]
-711-0E:
+711-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 711-1:[END]
 711-1E:
 
 [Container 712]
 712-0:@[END]
-712-0E:
+712-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 712-1:[END]
 712-1E:
@@ -18705,7 +18705,7 @@
 
 [Container 804]
 804-0:@[END]
-804-0E:
+804-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 804-1:[END]
 804-1E:
@@ -18961,7 +18961,7 @@
 
 [Container 821]
 821-0:@[END]
-821-0E:
+821-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 821-1:[END]
 821-1E:
@@ -19205,7 +19205,7 @@
 
 [Container 838]
 838-0:@[END]
-838-0E:
+838-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 838-1:[END]
 838-1E:
@@ -19234,7 +19234,7 @@
 
 [Container 840]
 840-0:@[END]
-840-0E:
+840-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 840-1:[END]
 840-1E:
