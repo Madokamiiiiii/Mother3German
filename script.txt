@@ -2230,7 +2230,7 @@
 19-22E:@Warum ist Bronson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 19-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-19-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich][BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
+19-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
 // Repeats: 19-24, 21-24
 19-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
 19-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
@@ -2374,7 +2374,7 @@
 21-22E:@Warum ist Bonson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 21-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-21-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bonson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich][BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
+21-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bonson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
 // Repeats: 19-23, 21-23
 21-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
 21-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
@@ -2817,51 +2817,51 @@
 31-24:@Baa...[WAIT]  (I wanna be a black sheep too...)[END]
 31-24E:@Baa...[WAIT]  (Ich möchte auch ein schwarzes Schaf sein...)[END]
 31-25:@Baaa.[WAIT]  (My charred fur is starting to return to[BREAK]  normal. *smile*)[END]
-31-25E:
+31-25E:@Baaa.[WAIT]  (Mein verkohltes Fell beginnt wieder normal zu[BREAK]  werden *lächel*)[END]
 31-26:@Baaa.[WAIT]  (This is how I always wanted to look. *smile*)[END]
-31-26E:
+31-26E:@Baaa.[WAIT]  (So wollte ich schon immer aussehen. *lächel*)[END]
 31-27:@Baa...[WAIT]  (I'm so jealous of the charred guys.[BREAK]  They get to experience different things...)[END]
-31-27E:
+31-27E:@Baa...[WAIT]  (Ich bin so eifersüchtig auf diese verkohlten[BREAK]  Typen. Die haben ganz andere Erfahrungen...)[END]
 31-28:@Baa.[WAIT]  ([FLINT 23 01 00] says he doesn't want to go to[BREAK]  the big city. *smile*)[END]
-31-28E:
+31-28E:@Baa.[WAIT]  ([FLINT 23 01 00] sagt, er wolle nicht in die[BREAK]  Großstadt ziehen. *lächel*)[END]
 31-29:@Baaa.[WAIT]  (Nearly all the villagers have left. *smile*)[END]
-31-29E:
+31-29E:@Baaa.[WAIT]  (Fast alle Bewohner sind weggezogen. *lächel*)[END]
 31-30:@Baaa.[WAIT]  (Your dad is still looking for [CLAUS 22 05 00],[BREAK]  even after all this time. *smile*)[END]
-31-30E:
+31-30E:@Baaa.[WAIT]  (Dein Vater sucht noch immer nach[BREAK]  [CLAUS 22 05 00],[WAIT]  sogar nach all dieser Zeit. *lächel*)[END]
 31-31:@I can't believe anyone would want to leave this[BREAK]  village.[WAIT]@But...[PAUSE 20 00] it's starting to get hard for me to stay,[BREAK]  too.[END]
-31-31E:
+31-31E:@Ich kann nicht glauben, dass jemals jemand[BREAK]  dieses Dorf verlassen würde.[WAIT]@Aber...[PAUSE 20 00] auch für mich beginnt es schwer zu[BREAK]  werden.[END]
 31-32:@You![WAIT]@You guys are suspicious![WAIT]  ...[PAUSE 1E 00]But not nearly as suspicious as that[BREAK]  "*hop* *hop*" guy.[WAIT]@He's clearly suspicious![WAIT]@But I don't think he's up to anything bad.[END]
-31-32E:
+31-32E:@Ihr![WAIT]@Ihr seid verdächtig![WAIT]  ...[PAUSE 1E 00]Aber nicht annähernd so verdächtig wie[BREAK]  dieser "*hüpf* *hüpf*" Typ.[WAIT]@Er ist mehr als verdächtig![WAIT]@Aber ich glaube nicht, dass er was Schlechtes[BREAK]  im Schilde führt.[END]
 31-33:@It sounds like you've done all kinds of things[BREAK]  while I've stood in this spot this whole time.[WAIT]@I'm a little bit jealous.[END]
-31-33E:
+31-33E:@Es hört sich so an, ihr hättet alles mögliche an[BREAK]  Zeugs gemacht,[WAIT]  während ich die ganze Zeit an diesem Punkt[BREAK]  gestanden habe.[WAIT]@Ich bin ein bisschen neidisch auf euch.[END]
 31-34:@You guys seem to be getting stronger little[BREAK]  by little.[PAUSE 1E 00] It's kind of scary.[END]
-31-34E:
+31-34E:@Ihr scheint Stück für Stück stärker zu werden.[BREAK] [PAUSE 1E 00] Das irgendwie etwas gruselig.[END]
 31-35:@It sounds like you've done all kinds of things[BREAK]  while I've stood in this spot this whole time.[WAIT]@I'm really jealous.[WAIT]@In a way, [PAUSE 20 00]you kind of scare me.[END]
-31-35E:
+31-35E:@Es hört sich so an, ihr hättet alles mögliche an[BREAK]  Zeugs gemacht,[WAIT]  während ich die ganze Zeit an diesem Punkt[BREAK]  gestanden habe.[WAIT]@Ich bin richtig neidisch auf euch.[BREAK]@In irgendeiner Weise [PAUSE 20 00]macht ihr mir Angst.[END]
 31-36:@This annoying onlooker's not such a bad guy[BREAK]  after all.[WAIT]@He feels less and less like a stranger as time[BREAK]  goes on.[END]
-31-36E:
+31-36E:@Dieser nervige Schaulustige ist letztendlich[BREAK]  gar nicht so ein schlechter Typ.[WAIT]@Er kommt mir immer weniger wie ein[BREAK]  Fremder vor.[END]
 31-37:@I like this masked guy. He knows the score.[WAIT]@He's got a nice mask, too.[END]
-31-37E:
+31-37E:@Ich mag diesen maskierten Kerl.[BREAK]  Er weiß über alles Bescheid.[WAIT]@Er trägt auch eine schöne Maske.[END]
 31-38:@Looks like we're going to need to build a new[BREAK]  sheep pen...[END]
-31-38E:
+31-38E:@Wir müssen wohl einen neuen Schafstall[BREAK]  bauen...[END]
 31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]   You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
-31-39E:
+31-39E:@Willst du irgendwo hin?[WAIT]@...Oh, ich verstehe.[WAIT]   Du gehst zur Fabrik um nach[BREAK]  [DUSTER 23 03 00] zu suchen.[END]
 31-40:@Take this with you.[END]
-31-40E:
+31-40E:@Nimm das hier mit dir.[END]
 31-41:@Your mom will keep watch over you.[WAIT]@Good luck, now.[END]
-31-41E:
+31-41E:@Deine Mutter wird weiterhin über dich wachen.[WAIT]@Viel Glück.[END]
 31-42:@What the...?[BREAK]  You're holding too many things.[WAIT]@Go get rid of something first.[END]
-31-42E:
+31-42E:@Was zur...?[BREAK]  Du hälts zu viele Sachen.[WAIT]@Räum erstmal auf.[END]
 31-43:@Are you going too, [BONEY 23 05 00]?[WAIT]@Yeah, that's right.[WAIT]@I'll just be tending to the sheep here, so just[BREAK]  drop by and take a take a load off sometimes.[END]
-31-43E:
+31-43E:@Willst du mitgehen, [BONEY 23 05 00]?[WAIT]@Yeah, that's right.[WAIT]@I'll just be tending to the sheep here, so just[BREAK]  drop by and take a take a load off sometimes.[END]
 31-44:@Woof![BREAK]  (You can count on me, [LUCAS 23 02 00]!)[END]
-31-44E:
+31-44E:@Woof![BREAK]  (Du kannst auf mich zählen, [LUCAS 23 02 00]!)[END]
 31-45:@You're heading out again?[WAIT]@Don't cause Ionia too much trouble now, you[BREAK]  hear?[END]
-31-45E:
+31-45E:@Du gehst schon wieder?[WAIT]@Bereite Ionia jetzt bitte nicht zu viel[BREAK]  Schwierigkeiten, hast du gehört?[END]
 31-46:@The sheep pen has been struck by lightning.[BREAK]  There's almost nothing left of it.[END]
-31-46E:
+31-46E:@Der Schafstall wurde vom Blitz getroffen.[BREAK]  Fast nichts davon ist übrig geblieben.[END]
 31-47:@The sheep pen has been struck by lightning.[BREAK]  There's almost no trace of it left.[END]
-31-47E:
+31-47E:@Der Schafstall wurde vom Blitz getroffen.[BREAK]  Es ist fast kein Spur davon zurückgeblieben.[END]
 
 [Container 32]
 32-0:@Did you think so much beauty would blossom[BREAK]  up in only three years?[WAIT]@Huh?[PAUSE 10 00] What?[PAUSE 10 00] Am I talking about myself?[WAIT]@No, of course not. I'm talking about Tazmily.[END]
