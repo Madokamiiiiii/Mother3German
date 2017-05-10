@@ -2865,71 +2865,71 @@
 
 [Container 32]
 32-0:@Did you think so much beauty would blossom[BREAK]  up in only three years?[WAIT]@Huh?[PAUSE 10 00] What?[PAUSE 10 00] Am I talking about myself?[WAIT]@No, of course not. I'm talking about Tazmily.[END]
-32-0E:
+32-0E:@Hättest du geglaubt, dass so viel Schönheit in[BREAK]  nur drei Jahren aufblühen würde?[WAIT]@Häh?[PAUSE 10 00] Was?[PAUSE 10 00] Ich spreche über mich?[WAIT]@Nein. natürlich nicht. Ich rede über Tazmily.[END]
 32-1:@Titiboo sure is popular.[WAIT]@Maybe I should visit someday, too.[BREAK]  *giggle*[END]
-32-1E:
+32-1E:@Titiboo ist recht berühmt.[WAIT]@Vielleicht sollte ich es mal besuchen gehen.[BREAK]  *kicher*[END]
 32-2:@Lightning struck Reggie's tent.[WAIT]@But that's what he gets for not having a[BREAK]  Happy Box...[END]
-32-2E:
+32-2E:@Reggies Hütte wurde vom Blitz getroffen.[WAIT]@Aber das hat man nunmal davon, wenn man[BREAK]  keine Glücklichkeitsbox besitzt...[END]
 32-3:@Let's see...[WAIT]@Cross Road Station is to the north...[WAIT]@Cerulean Beach is to the west.[WAIT]@And...[PAUSE 18 00] East of here is the nursing home for[BREAK]  senior citizens.[WAIT]@Oh, and to the south is your house, where[BREAK]  lightning keeps striking.[WAIT]@Alright! I've finally figured out this town's[BREAK]  layout![END]
-32-3E:
+32-3E:@Mal schauen...[WAIT]@Die Kreuzungsstation ist im Norden...[WAIT]@Der Cerulean Strand ist im Westen.[WAIT]@Und...[PAUSE 18 00] Östlich von hier ist ein Pflegeheim für[BREAK]  Senionen.[WAIT]@Oh, und im Süden ist dein Haus, wo der[BREAK]  Blitz immer wieder einschlägt.[WAIT]@Super! Ich kenn mich endlich im Dorf auf![END]
 32-4:@Is there anyone here who puts money in this[BREAK]  thing?[PAUSE 20 00][WAIT]@'Cause I just did, anyway...[END]
-32-4E:
+32-4E:@Gibt es irgendjemanden der Geld in dieses Ding[BREAK]  wirft?[PAUSE 20 00][WAIT]@Weil ich's grad getan habe...[END]
 32-5:@"If you have any extra money, please put it in[BREAK]  here.[WAIT]    - From your trustworthy and benevolent[BREAK]      Mayor Pusher"[END]
-32-5E:
+32-5E:@"Falls du irgendwelches überschüssiges[BREAK]  Geld hast, wirf es bitte hierrein.[WAIT]    - Von deinem vertrauenswürdigen und[BREAK]      gütigen Bürgermeister Pusher"[END]
 32-6:@Thomas's Shop[WAIT]@Offering fascinating big-city items faster and[BREAK]  in greater quantities than anyone else![WAIT]  (Things are different now. Don't forget to[BREAK]  bring DP.)[END]
-32-6E:
+32-6E:@Geschäft von Thomas[WAIT]@Wir bieten coole Großstadtitems schneller[BREAK]  und in größeren Mengen als jeder andere an![WAIT]  (Dinge haben sich verändert. Vergiss nicht DK[BREAK]  mitzubringen.)[END]
 32-7:@NOTICE[WAIT]@Our humble little shop, "Caroline's Bakery", has[BREAK]  also adopted the wonderful, new DP system![END]
-32-7E:
+32-7E:@HINWEIS[WAIT]@Unser bescheidener kleiner Laden,[BREAK]  "Carolines Bäckerei", hat auch das[WAIT]  wundervolle, neue DK-System eingeführt![END]
 32-8:@It's polished and sparkling.[END]
-32-8E:
+32-8E:@Es ist blitzsauber.[END]
 32-9:@He's ignoring you.[END]
-32-9E:
+32-9E:@Er ignoriert dich.[END]
 32-10:@Oh, hello there, [LUCAS 23 02 00].[WAIT]@You look a bit down in the dumps.[WAIT]@A Happy Box could really change your life, you[BREAK]  know.[END]
-32-10E:
+32-10E:@Oh, hallöchen, [LUCAS 23 02 00].[WAIT]@Du siehst etwas down aus.[WAIT]@Eine Glücklichkeitsbox könnte echt dein Leben[BREAK]  ändern, weißt du.[END]
 32-11:@It's nice to think of others and all,[WAIT]  but it's more important to think about your[BREAK]  own happiness.[END]
-32-11E:
+32-11E:@Es ist schön und gut an andere zu denken,[WAIT]  aber was noch wichtiger ist, ist, dass man[BREAK]  auch an seine eigene Glücklichkeit denkt.[END]
 32-12:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@I hear your dad's STILL hiking up in the[BREAK]  mountains, looking for [CLAUS 22 05 00].[WAIT]@You should really tell him yourself that it's[BREAK]  about time he give up already.[END]
-32-12E:
+32-12E:@Oh, tagchen, [LUCAS 23 02 00].[WAIT]@Ich habe erfahren, dass dein Vater BIS HEUTE[BREAK]  in den Bergen nach [CLAUS 22 05 00] sucht.[WAIT]@Du solltest ihm wirklich erzählen, dass es Zeit[BREAK]  ist aufzugeben.[END]
 32-13:@Whenever I listen to Mr. Fassad talk, I[BREAK]  suddenly want everything.[WAIT]@It's almost like he's a magician.[WAIT]@*giggle*[END]
-32-13E:
+32-13E:@Immer wenn ich mir Herr Fassads Reden[BREAK]  anhöre, will ich auf einmal alles haben.[WAIT]@Fast so als wäre ein Zauberer.[WAIT]@*kicher*[END]
 32-14:@Oh! [LUCAS 23 02 00]![WAIT]@Hiii!![END]
-32-14E:
+32-14E:@Oh! [LUCAS 23 02 00]![WAIT]@Hiii!![END]
 32-15:@Fassad![WAIT]@Stop it![WAIT]@Quit ruining this town any more than you[BREAK]  already have![END]
-32-15E:
+32-15E:@Fassad![WAIT]@Hör auf![WAIT]@Hör auf dieses Dorf noch weiter zu zerstören,[BREAK]  als du es ohnehin schon gemacht hast![END]
 32-16:@There's something not right about all this[BREAK]  lightning, especially today's![WAIT]@I think you guys are behind it somehow![WAIT]@Leave this instant![WAIT]@Keep your grubby hands out of this town's[BREAK]  affairs![END]
-32-16E:
+32-16E:@Nichts ist an den Gewittern normal, besonders[BREAK]  das heutige![WAIT]@Ich glaube, dass ihr irgendwie dahiner steckt![WAIT]@Verschwinde sofort![WAIT]@Halte deine schmutzigen Grabscher von diesem[BREAK]  Dorf fern![END]
 32-17:@Why, hello there, Mr. Wess.[WAIT]@You know, if you keep making the veins on[BREAK]  your forehead pop out like that,[WAIT]  happiness will only escape you.[WAIT]@By which I mean your hair,[PAUSE 20 00] in this case.[END]
-32-17E:
+32-17E:@Oh, tagchen, Herr Wess.[WAIT]@You know, if you keep making the veins on[BREAK]  your forehead pop out like that,[WAIT]  wird dich die Glücklichkeit nur verlassen.[WAIT]@Ich meine damit deine Haare,[PAUSE 20 00] in diesem Fall.[END]
 32-18:@In any case, I haven't the slightest idea what[BREAK]  you're talking about.[END]
-32-18E:
+32-18E:@Jedenfalls habe ich nicht die leiseste Ahnung[BREAK]  worüber du redest.[END]
 32-19:@Well, it's been fun.[WAIT]@Please be careful not to trip, get hurt, or go[BREAK]  bald on your way home.[END]
-32-19E:
+32-19E:@Naja, es ist lustig mit euch gewesen.[WAIT]@Bitte seid vorsichtig nicht zu stolpern, sich zu[BREAK]  verletzen, oder mit leeren Händen nach Hause[WAIT]  zu gehen.[END]
 32-20:@Cease this violence![WAIT]@I'm no bug! I'm an old man![END]
-32-20E:
+32-20E:@Hört mit dem Kämpfen auf![WAIT]@Ich bin kein Käfer! Ich bin ein alter Mann![END]
 32-21:                 @[LUCAS 23 02 00]![WAIT]                   Quit snooping around me![WAIT]                   Don't get in my way![END]
-32-21E:
+32-21E:                 @[LUCAS 23 02 00]![WAIT]                   Hör auf hier herumzuschnüffeln![WAIT]                   Komm mir nicht in die Quere![END]
 32-22:@[LUCAS 23 02 00]...[WAIT]@I really wish you would put a Happy Box in your[BREAK]  home already,[WAIT]  so you can be happy just like everyone else[BREAK]  here.[END]
-32-22E:
+32-22E:@[LUCAS 23 02 00]...[WAIT]@Ich wünsche mir wirklich, du würdest endlich[BREAK]  eine Glücklichkeitsbox in dein Haus stellen,[WAIT]  damit du so glücklich sein kannst wie jeder[BREAK]  andere.[END]
 32-23:@I'm always hoping for that day.[END]
-32-23E:
+32-23E:@Ich hoffe, dass dieser Tag kommen wird.[END]
 32-24:@I can understand why it'd be hard[WAIT]  for an old man to watch the town he grew up[BREAK]  in change more and more.[WAIT]@But that wasn't being very considerate of[BREAK]  Mr. Fassad at all.[WAIT]@In my opinion, old people should just stay[BREAK]  inside the old folks' home[WAIT]  and drink tea and do whatever it is old people[BREAK]  do.[END]
-32-24E:
+32-24E:@Ich verstehe, warum es für einen alten Mann[BREAK]  wie dich schwer sein kann zuzuschauen,[WAIT]  wie sich das Dorf, in dem man aufgewachsen[BREAK]  ist, mehr und mehr verändert.[WAIT]@Aber das war überhaupt nicht rücksichtsvoll[BREAK]  vom Herrn Fassad.[WAIT]@Meiner Meinung nach sollten alte Leute einfach[BREAK]  im Haus bleiben[WAIT]  und Tee trinken oder was auch immer alte[BREAK]  Menschen machen.[END]
 32-25:@I can't believe the nerve of old man Wess...[WAIT]@Even after Mr. Fassad spoke to him in such a[BREAK]  friendly way...[END]
-32-25E:
+32-25E:@Ich verstehe diesen alten Mann Wess einfach[BREAK]  nicht...[WAIT]@Sogar nachdem Herr Fassad so freundlich mit[BREAK]  ihm gesprochen hat...[END]
 32-26:@We don't have one of those happiness-bringing[BREAK]  boxes, either.[WAIT]@Alle won't stop talking about how much she[BREAK]  wants one, though.[WAIT]@I don't know, maybe we should finally get one.[WAIT]@But Ed is against the idea. What should I do?[END]
-32-26E:
+32-26E:@Wir besitzen auch keine dieser[BREAK]  Glücklichkeits-bringenden Boxen.[WAIT]@Aber Eva will einfach eine haben.[WAIT]@Ich weiß nicht, vielleicht sollten wir uns doch[BREAK]  eine besorgen.[WAIT]@Aber Ed ist dagegen. Was soll ich tun?[END]
 32-27:@They're not above using violence against[BREAK]  senior citizens, I see.[END]
 32-27E:
 32-28:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Old man Wess is definitely going to go bald.[WAIT]@[PAUSE 3A 00]Yes, there's no doubt about it.[WAIT]@Bald. Definitely.[END]
-32-28E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT][END]
+32-28E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Der alte Mann Wess wird definitiv kahlköpfig.[WAIT]@[PAUSE 3A 00]Ja, daran gibt es keine Zweifel.[WAIT]@Kahlköpfig. Definitiv.[END]
 32-29:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Is old man Wess okay?[WAIT]@No, I don't mean injury-wise...[BREAK][PAUSE 1E 00]  I mean hair-wise.[WAIT]@After all, he did get his hair caught in that bug[BREAK]  net and everything.[END]
-32-29E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT][END]
+32-29E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Geht es dem alten Mann Wess gut?[WAIT]@Nein, es geht nicht um Verletzungen...[BREAK][PAUSE 1E 00]  Ich meine seine Haare.[WAIT]@Immerhiin ist sein Haar in einem Spinnennetz[BREAK]  hängengeblieben und so.[END]
 32-30:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Here. I've circled some suspicious places for[BREAK]  you.[END]
-32-30E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+32-30E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Bitte schön. Ich habe ein paar auffällige Ort[BREAK]  für dich markiert.[END]
 32-31:@Is the map I gave you helping any?[END]
-32-31E:
+32-31E:@Hilft dir die Karte, die ich dir gegeben habe?[END]
 32-32:@There's no telling what's going to happen next,[BREAK]  so be careful.[END]
-32-32E:
+32-32E:@Niemand weiß, was als nächstes passieren[BREAK]  wird, als seid vorsichtig.[END]
 32-33:@You're going out to look for [DUSTER 23 03 00]?[WAIT]@You do know he's the one who stole all of[BREAK]  Butch's money, right?[WAIT]@I guess it's up to you if you wanna look for him[BREAK]  and all,[WAIT]  but I'd keep my nose out of other people's[BREAK]  business if I were you.[WAIT]@You'll only wind up hurting your reputation[BREAK]  even more.[END]
 32-33E:
 32-34:@Oh, [LUCAS 23 02 00].[WAIT]@Some more lightning struck yesterday.[WAIT]  I see you're all right, though.[END]
@@ -3337,7 +3337,7 @@
 36-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 36-27:@The door is firmly shut.[END]
-36-27E:
+36-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 36-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 36-28E:
@@ -5922,7 +5922,7 @@
 96-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 96-27:@The door is firmly shut.[END]
-96-27E:
+96-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 96-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 96-28E:
@@ -8255,7 +8255,7 @@
 180-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 180-27:@The door is firmly shut.[END]
-180-27E:
+180-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 180-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 180-28E:
@@ -8419,7 +8419,7 @@
 181-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 181-27:@The door is firmly shut.[END]
-181-27E:
+181-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 181-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 181-28E:
@@ -8537,7 +8537,7 @@
 182-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 182-27:@The door is firmly shut.[END]
-182-27E:
+182-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 182-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 182-28E:
@@ -8553,7 +8553,7 @@
 182-32:@[LUCAS 23 02 00]! We finally meet again![WAIT]@It's me. [CLAUS 22 05 00].[WAIT]@Touch my heart.[BREAK]  See how it beats in and out?[WAIT]@[LUCAS 23 02 00]![BREAK]  There's noooothing to worry about now.[WAIT]@It's me! [CLAUS 22 05 00]![END]
 182-32E:
 182-33:@The door is firmly shut.[END]
-182-33E:
+182-33E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 182-34:@The bell has rung![WAIT]@You're weak![BREAK]  You're weak![WAIT]@Lotus rooooot![END]
 182-34E:
@@ -8777,7 +8777,7 @@
 192-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 192-27:@The door is firmly shut.[END]
-192-27E:
+192-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 192-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 192-28E:
@@ -12625,7 +12625,7 @@
 327-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 327-27:@The door is firmly shut.[END]
-327-27E:
+327-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 327-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 327-28E:
@@ -12734,7 +12734,7 @@
 328-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 328-27:@The door is firmly shut.[END]
-328-27E:
+328-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 328-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 328-28E:
@@ -12841,7 +12841,7 @@
 329-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 329-27:@The door is firmly shut.[END]
-329-27E:
+329-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 329-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 329-28E:
@@ -12942,7 +12942,7 @@
 330-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 330-27:@The door is firmly shut.[END]
-330-27E:
+330-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 330-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 330-28E:
@@ -13055,7 +13055,7 @@
 331-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 331-27:@The door is firmly shut.[END]
-331-27E:
+331-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 331-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 331-28E:
@@ -13152,7 +13152,7 @@
 332-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 332-27:@The door is firmly shut.[END]
-332-27E:
+332-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 332-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 332-28E:
@@ -14141,7 +14141,7 @@
 373-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 373-27:@The door is firmly shut.[END]
-373-27E:
+373-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 373-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 373-28E:
@@ -14238,7 +14238,7 @@
 374-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 374-27:@The door is firmly shut.[END]
-374-27E:
+374-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 374-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 374-28E:
@@ -14335,7 +14335,7 @@
 375-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 375-27:@The door is firmly shut.[END]
-375-27E:
+375-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 375-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 375-28E:
@@ -14432,7 +14432,7 @@
 376-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 376-27:@The door is firmly shut.[END]
-376-27E:
+376-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 376-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 376-28E:
@@ -14529,7 +14529,7 @@
 377-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 377-27:@The door is firmly shut.[END]
-377-27E:
+377-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 377-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 377-28E:
@@ -14626,7 +14626,7 @@
 378-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 378-27:@The door is firmly shut.[END]
-378-27E:
+378-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 378-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 378-28E:
@@ -14727,7 +14727,7 @@
 379-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 379-27:@The door is firmly shut.[END]
-379-27E:
+379-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 379-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 379-28E:
@@ -15152,7 +15152,7 @@
 431-0:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a little unstable.[WAIT]@Please be careful![END]
 431-0E:
 431-1:@The door is firmly shut.[END]
-431-1E:
+431-1E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 431-2:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a tad unstable.[WAIT]@I wish the guys in the generator room would[BREAK]  get their act together.[END]
 431-2E:
