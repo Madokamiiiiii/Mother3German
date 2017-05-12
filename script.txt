@@ -2991,82 +2991,82 @@
 32-61:@Can I come with you, too?[WAIT]@Oh. I guess not...[END]
 32-61E:@Darf ich auch mit euch kommen?[WAIT]@Oh. Ich denke nicht...[END]
 32-62:@The lightning used to rain down every day, but[BREAK]  then it suddenly stopped.[WAIT]@The attack seemed so intense at first, but[BREAK]  now it's almost casual and like, "Whatever."[WAIT]@Kind of like you. Heh.[END]
-32-62E:
+32-62E:@Normalerweise gibt es jeden Tag ein Gewitter,[BREAK]  doch es hat plötzlich aufgehört.[WAIT]@The attack seemed so intense at first, but[BREAK]  now it's almost casual and like, "Whatever."[WAIT]@Kind of like you. Heh.[END]
 32-63:@Club Titiboo closed down, so I came all the way[BREAK]  here to look for work.[WAIT]  *chew* *chew*[WAIT]@But wow, is this place the sticks or what?[WAIT]  *chew* *chew*[WAIT]@Maybe I should've gone to New Pork instead.[WAIT]  *chew* *chew*[END]
-32-63E:
+32-63E:@Club Titiboo ist geschlossen.[WAIT]  Dabei bin ich doch den ganzen Weg hierher[BREAK]  gekommen um nach Arbeit zu suchen.[WAIT]  *kau* *kau*[WAIT]@Aber wow, ist dieser Ort am Arsch der Welt[BREAK]  oder so?[WAIT]  *kau* *kau*[WAIT]@Ich hätte lieber nach New Pork gehen sollen.[WAIT]  *kau* *kau*[END]
 32-64:@I'm the mayor here, which means I'll be one of[BREAK]  the last people to leave for the big city.[WAIT]@Even so, I really want to go.[WAIT]@I should just ditch this miserable little village[BREAK]  and be done with it.[WAIT]@...[PAUSE 1E 00]Oh, [LUCAS 23 02 00]![WAIT]  You didn't hear me talking to myself just now,[BREAK]  did you?[END]
-32-64E:
+32-64E:@Ich bin der Bürgermeister hier, was bedeutet,[BREAK]  dass ich einer der letzten sein werde,[WAIT]  die weg in die Großstadt ziehen.[WAIT]@Obwohl ich wirklich dorthin will.[WAIT]@Ich sollte dieses miserable kleines Dorf einfach[BREAK]  stehen lassen und fertig.[WAIT]@...[PAUSE 1E 00]Oh, [LUCAS 23 02 00]![WAIT]  Du hast doch nicht etwa mein Selbstgespräch[BREAK]  gehört, oder?[END]
 32-65:@I'm stuck in this village because no one invited[BREAK]  me to go with them.[WAIT]@When did everyone suddenly get together to[BREAK]  discuss leaving for the big city?[END]
-32-65E:
+32-65E:@Ich stecke in diesem Dorf fest, weil mich[BREAK]  niemand eingeladen hat, mitzugehen.[WAIT]@Wann haben alle darüber diskutiert, zur[BREAK]  Großstadt zu ziehen?[END]
 32-66:[SOUND 03 00]@Chirp chirp![WAIT]  (Sparrow News![WAIT]  The people of Tazmily have been moving to[BREAK]  New Pork City one after the other.[WAIT]  The results of this are as plain as day: the[BREAK]  village is now silent, and its liveliness gone.[WAIT]  There are even rumors that Mayor Pusher is[BREAK]  considering moving away soon.)[EVENT][END]
-32-66E:
+32-66E:[SOUND 03 00]@Zwitscher zwitscher![WAIT]  (Spatzen News![WAIT]  Die Einwohner von Tazmily ziehen einen nach[BREAK]  dem andern nach New Pork City.[WAIT]  Das Ergebnis ist so hell wie der Tag:[WAIT]  es ist jetzt ruhig im Dorf, und seine[BREAK]  Lebendigkeit ist verschwunden.[WAIT]  Es gibt sogar Gerüchte darüber, dass[BREAK]  Bürgermeister Pusher auch gehen will.)[EVENT][END]
 32-67:[SOUND 03 00]  Chirp chirp.[BREAK]  (This has been Sparrow News.)[END]
-32-67E:
+32-67E:[SOUND 03 00]  Zwitscher zwitscher.[BREAK]  (Das waren die Spatzen News.)[END]
 32-68:@The Yado Inn had so much more warmth and[BREAK]  friendliness up until three years ago...[END]
-32-68E:
+32-68E:@Die Yado Kneipe war bis vor drei Jahren so[BREAK]  viel schöner...[END]
 32-69:@I think you're mistaken about me.[WAIT]@I'm not bald because my hair has fallen out.[PAUSE 1E 00][BREAK]  I just shave my head.[WAIT]@Does that clear up your misconceptions?[END]
-32-69E:
+32-69E:@Ich glaube, du hast mich missverstanden.[WAIT]@Ich bin nicht glatzköpfig, weil meine Haare aus-[BREAK] gefallen sind.[PAUSE 1E 00] Ich schüttel mal meinen Kopf.[WAIT]@Klärt das dein Irrglaube auf?[END]
 
 [Container 33]
 33-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
 33-0E:@Da ist etwas in den Baum geritzt worden.[WAIT]@Du liest es, aber es war nichts von Bedeutung.[END]
 // Repeats: 4-0, 33-0, 219-0
 33-1:@Special Nursing Home for Senior Citizens[BREAK]  "Old Man's Paradise"[END]
-33-1E:
+33-1E:@Altersheim für Senioren[BREAK]  "Das Paradies für alte Männer"[END]
 // Repeats: 33-1, 219-1
 33-2:@It sounds like they shut down that Club Titiboo[BREAK]  place.[WAIT]@Everyone's been so depressed ever since.[END]
-33-2E:
+33-2E:@Es scheint, Club Titiboo hat dichtgemacht.[WAIT]@Seitdem ist jeder so niedergeschlagen.[END]
 // Repeats: 33-2, 219-2
 33-3:@Oh, [DUSTER 23 03 00].[WAIT]@I see you're back.[END]
-33-3E:
+33-3E:@Oh, [DUSTER 23 03 00].[WAIT]@Du bist wieder da.[END]
 // Repeats: 33-3, 219-3
 33-4:@I really want to go to a DCMC concert...[WAIT]@......[WAIT]@But sometimes just planning something out is[BREAK]  the most fun of all, huh?[END]
-33-4E:
+33-4E:@Ich möchte so gerne auf ein DCMC Konzert[BREAK]  gehen...[WAIT]@......[WAIT]@But sometimes just planning something out is[BREAK]  the most fun of all, huh?[END]
 // Repeats: 33-4, 219-4
 33-5:@Whoa![WAIT]@It's Lucky![WAIT]@Wow, [LUCAS 23 02 00]! You know Lucky?![END]
-33-5E:
+33-5E:@Whoa![WAIT]@Das ist Lucky![WAIT]@Wow, [LUCAS 23 02 00]! Kennst du Lucky?![END]
 // Repeats: 33-5, 219-5
 33-6:@Whoa![WAIT]@It's Gorgeous![WAIT]@Wow, [LUCAS 23 02 00]! You know Gorgeous?![END]
 33-6E:
 // Repeats: 33-6, 219-6
 33-7:@Well, if it isn't [DUSTER 23 03 00]![WAIT]@I see you're okay.[WAIT]@Have you been home yet?[WAIT]@Your old man's been worried sick.[END]
-33-7E:
+33-7E:@Nun, wenn das mal nicht [DUSTER 23 03 00] ist![WAIT]@Ich sehe, dass es dir gut geht.[WAIT]@Warst du schonmal bei dir zu Haus'?[WAIT]@Dein Alter ist krank vor Sorge.[END]
 // Repeats: 33-7, 219-7
 33-8:@This village's population has been shrinking[BREAK]  lately.[END]
-33-8E:
+33-8E:@Die Bevölkerung des Dorfes schrumpft stetig.[END]
 // Repeats: 33-8, 219-8
 33-9:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@I'm Paddel, president of the Tazmily Boat Club.[WAIT]@Aside from the fact we don't have a boat,[BREAK]  everything is going great.[WAIT]@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][END]
-33-9E:
+33-9E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Ich bin Paddel, der Präsident vom Tazmily[BREAK]   Boot Club.[WAIT]@Davon abgesehen, dass wir kein Boot[BREAK]  besitzen, läuft's super.[WAIT]@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][END]
 // Repeats: 33-9, 219-9
 33-10:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@I'm Rowe, the newest member of the Tazmily[BREAK]  Boat Club.[WAIT]@Aside from the fact we don't have a boat,[BREAK]  everything is going great.[WAIT]@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][END]
-33-10E:
+33-10E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Ich bin Row, das neueste Mitglied des Tazmily[BREAK]  Boot Clubs.[WAIT]@Davon abgesehen, dass wir kein Boot[BREAK]  besitzen, läuft's super.[WAIT]@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][END]
 // Repeats: 33-10, 219-10
 33-11:@Bow-wow![WAIT]  (I keep getting hit by lightning![WAIT]  Did someone find out I peed on that Happy Box[BREAK]  or something?)[END]
-33-11E:
+33-11E:@Heul-heul![WAIT]  (Ich werde immer wieder vom Blitz getroffen![WAIT]  Hat jemand herausgefunden, dass ich auf eine[BREAK]  Glücklichkeitsbox gepinkelt habe?)[END]
 // Repeats: 33-11, 219-11
 33-12:@Bow-wow. Bow-wow.[WAIT]  (I'm a charred dog, not a black dog.[WAIT]  Actually, there are some sheep like me, too.)[END]
-33-12E:
+33-12E:@Heul-heul. Heul-heul[WAIT]  (Ich bin ein verkohlter Hund, kein schwarzer[BREAK]  Hund.[WAIT]  Es gibt sogar ein paar Schafe, die wie ich[BREAK]  aussehen.)[END]
 // Repeats: 33-12, 219-12
 33-13:@Bow-wow bow-wow![WAIT]  (Now that the lightning has stopped, I feel[BREAK]  much tougher.)[END]
-33-13E:
+33-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo das Gewitter aufgehört hat, fühle[BREAK]  ich mich viel besser.)[END]
 // Repeats: 33-13, 219-13
 33-14:@Bow-wow-wow-wow.[WAIT]  (When you hang around sheep as a stray dog,[BREAK]  you start to feel more like a pet dog.)[END]
-33-14E:
+33-14E:@Heul-heul-heul-heul.[WAIT]  (Wenn man als Streuner bei Schafen abhängt,[BREAK]  kommt man sich wie ein Schäferhund vor.)[END]
 // Repeats: 33-14, 219-14
 33-15:@Bow-bown.[WAIT]  (Rumor has it another stray dog I know[BREAK]  became the master of his domain.[WAIT]  That's got me curious now...)[END]
-33-15E:
+33-15E:@Heul-heulll.[WAIT]  (Gerüchten zufolge ist ein anderer Streuner,[BREAK]  den ich kenne, der Meister seines Reviers[WAIT] geworden.[WAIT]  Das macht mich jetzt neugierig...)[END]
 // Repeats: 33-15, 219-15
 33-16:@Woof woof![WAIT]  (What's that?!)[END]
-33-16E:
+33-16E:@Wuff wuff![WAIT]  (Was ist das?!)[END]
 // Repeats: 33-16, 219-16
 33-17:@This strange girlish[PAUSE 18 00] boyish[PAUSE 18 00] girlish[PAUSE 18 00] person has[BREAK]  been rolling around here, all tied up.[WAIT]@But I dunno what to do, so I'm just standing[BREAK]  here doing nothing.[END]
-33-17E:
+33-17E:@Diese merkwürdige mädchenartige[PAUSE 18 00] jungsartige[BREAK] [PAUSE 18 00] mädchenartige[PAUSE 18 00] Person rollt seit einer ganzen[WAIT]  Weile lang hin und her, komplett verschnürt.[WAIT]@Aber ich habe kene Ahnung, was ich tun soll,[BREAK]  deswegen stehe ich hier und mache gar nichts.[END]
 // Repeats: 33-17, 219-17
 33-18:@On closer look, this strange girlish[PAUSE 18 00] boyish[PAUSE 18 00][BREAK]  girlish[PAUSE 18 00] person is actually like...[PAUSE 18 00] whoa.[WAIT]@Oh, sorry, sorry. I mean that in a good way.[END]
-33-18E:
+33-18E:@Wenn man genauer hinschaut, ist diese[BREAK]  komische mädchenartige[PAUSE 18 00] jungsartige[PAUSE 18 00][WAIT]  mädchenartige[PAUSE 18 00] Person irgendwie wie...[PAUSE 18 00] whoa.[WAIT]@Oh, sorry, sorry. Mein das im positiven Sinne.[END]
 // Repeats: 33-18, 219-18
 33-19:@Can I say something completely off-topic?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-33-19E:
+33-19E:@Darf ich etwas völlig unnötiges sagen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-19, 219-19
 33-20:@I picked up this doorknob the other day,[WAIT]  but I was irritated at the time, so I threw it to[BREAK]  the east as far as I could.[WAIT]@I wound up dislocating my shoulder as a result.[WAIT]@Actually, no, I was just fibbing about that last[BREAK]  part.[WAIT]@Hahaha.[END]
 33-20E:
@@ -9950,61 +9950,61 @@
 219-0E:@Da ist etwas in den Baum geritzt worden.[WAIT]@Du liest es, aber es war nichts von Bedeutung.[END]
 // Repeats: 4-0, 33-0, 219-0
 219-1:@Special Nursing Home for Senior Citizens[BREAK]  "Old Man's Paradise"[END]
-219-1E:
+219-1E:@Altersheim für Senioren[BREAK]  "Das Paradies für alte Männer"[END]
 // Repeats: 33-1, 219-1
 219-2:@It sounds like they shut down that Club Titiboo[BREAK]  place.[WAIT]@Everyone's been so depressed ever since.[END]
-219-2E:
+219-2E:@Es scheint, Club Titiboo hat dichtgemacht.[WAIT]@Seitdem ist jeder so niedergeschlagen.[END]
 // Repeats: 33-2, 219-2
 219-3:@Oh, [DUSTER 23 03 00].[WAIT]@I see you're back.[END]
-219-3E:
+219-3E:@Oh, [DUSTER 23 03 00].[WAIT]@Du bist wieder da.[END]
 // Repeats: 33-3, 219-3
 219-4:@I really want to go to a DCMC concert...[WAIT]@......[WAIT]@But sometimes just planning something out is[BREAK]  the most fun of all, huh?[END]
-219-4E:
+219-4E:@Ich möchte so gerne auf ein DCMC Konzert[BREAK]  gehen...[WAIT]@......[WAIT]@But sometimes just planning something out is[BREAK]  the most fun of all, huh?[END]
 // Repeats: 33-4, 219-4
 219-5:@Whoa![WAIT]@It's Lucky![WAIT]@Wow, [LUCAS 23 02 00]! You know Lucky?![END]
-219-5E:
+219-5E:@Whoa![WAIT]@Das ist Lucky![WAIT]@Wow, [LUCAS 23 02 00]! Kennst du Lucky?![END]
 // Repeats: 33-5, 219-5
 219-6:@Whoa![WAIT]@It's Gorgeous![WAIT]@Wow, [LUCAS 23 02 00]! You know Gorgeous?![END]
 219-6E:
 // Repeats: 33-6, 219-6
 219-7:@Well, if it isn't [DUSTER 23 03 00]![WAIT]@I see you're okay.[WAIT]@Have you been home yet?[WAIT]@Your old man's been worried sick.[END]
-219-7E:
+219-7E:@Nun, wenn das mal nicht [DUSTER 23 03 00] ist![WAIT]@Ich sehe, dass es dir gut geht.[WAIT]@Warst du schonmal bei dir zu Haus'?[WAIT]@Dein Alter ist krank vor Sorge.[END]
 // Repeats: 33-7, 219-7
 219-8:@This village's population has been shrinking[BREAK]  lately.[END]
-219-8E:
+219-8E:@Die Bevölkerung des Dorfes schrumpft stetig.[END]
 // Repeats: 33-8, 219-8
 219-9:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@I'm Paddel, president of the Tazmily Boat Club.[WAIT]@Aside from the fact we don't have a boat,[BREAK]  everything is going great.[WAIT]@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][END]
-219-9E:
+219-9E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Ich bin Paddel, der Präsident vom Tazmily[BREAK]   Boot Club.[WAIT]@Davon abgesehen, dass wir kein Boot[BREAK]  besitzen, läuft's super.[WAIT]@Zack![PAUSE 18 00]  Zack![PAUSE 18 00] Zack![PAUSE 18 00][END]
 // Repeats: 33-9, 219-9
 219-10:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@I'm Rowe, the newest member of the Tazmily[BREAK]  Boat Club.[WAIT]@Aside from the fact we don't have a boat,[BREAK]  everything is going great.[WAIT]@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][END]
-219-10E:
+219-10E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Ich bin Row, das neueste Mitglied des Tazmily[BREAK]  Boot Clubs.[WAIT]@Davon abgesehen, dass wir kein Boot[BREAK]  besitzen, läuft's super.[WAIT]@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][END]
 // Repeats: 33-10, 219-10
 219-11:@Bow-wow![WAIT]  (I keep getting hit by lightning![WAIT]  Did someone find out I peed on that Happy Box[BREAK]  or something?)[END]
 219-11E:
 // Repeats: 33-11, 219-11
 219-12:@Bow-wow. Bow-wow.[WAIT]  (I'm a charred dog, not a black dog.[WAIT]  Actually, there are some sheep like me, too.)[END]
-219-12E:
+219-12E:@Heul-heul. Heul-heul[WAIT]  (Ich bin ein verkohlter Hund, kein schwarzer[BREAK]  Hund.[WAIT]  Es gibt sogar ein paar Schafe, die wie ich[BREAK]  aussehen.)[END]
 // Repeats: 33-12, 219-12
 219-13:@Bow-wow bow-wow![WAIT]  (Now that the lightning has stopped, I feel[BREAK]  much tougher.)[END]
-219-13E:
+219-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo das Gewitter aufgehört hat, fühle[BREAK]  ich mich viel besser.)[END]
 // Repeats: 33-13, 219-13
 219-14:@Bow-wow-wow-wow.[WAIT]  (When you hang around sheep as a stray dog,[BREAK]  you start to feel more like a pet dog.)[END]
-219-14E:
+219-14E:@Heul-heul-heul-heul.[WAIT]  (Wenn man als Streuner bei Schafen abhängt,[BREAK]  kommt man sich wie ein Schäferhund vor.)[END]
 // Repeats: 33-14, 219-14
 219-15:@Bow-bown.[WAIT]  (Rumor has it another stray dog I know[BREAK]  became the master of his domain.[WAIT]  That's got me curious now...)[END]
-219-15E:
+219-15E:@Heul-heulll.[WAIT]  (Gerüchten zufolge ist ein anderer Streuner,[BREAK]  den ich kenne, der Meister seines Reviers[WAIT] geworden.[WAIT]  Das macht mich jetzt neugierig...)[END]
 // Repeats: 33-15, 219-15
 219-16:@Woof woof![WAIT]  (What's that?!)[END]
-219-16E:
+219-16E:@Wuff wuff![WAIT]  (Was ist das?!)[END]
 // Repeats: 33-16, 219-16
 219-17:@This strange girlish[PAUSE 18 00] boyish[PAUSE 18 00] girlish[PAUSE 18 00] person has[BREAK]  been rolling around here, all tied up.[WAIT]@But I dunno what to do, so I'm just standing[BREAK]  here doing nothing.[END]
-219-17E:
+219-17E:@Diese merkwürdige mädchenartige[PAUSE 18 00] jungsartige[BREAK] [PAUSE 18 00] mädchenartige[PAUSE 18 00] Person rollt seit einer ganzen[WAIT]  Weile lang hin und her, komplett verschnürt.[WAIT]@Aber ich habe kene Ahnung, was ich tun soll,[BREAK]  deswegen stehe ich hier und mache gar nichts.[END]
 // Repeats: 33-17, 219-17
 219-18:@On closer look, this strange girlish[PAUSE 18 00] boyish[PAUSE 18 00][BREAK]  girlish[PAUSE 18 00] person is actually like...[PAUSE 18 00] whoa.[WAIT]@Oh, sorry, sorry. I mean that in a good way.[END]
-219-18E:
+219-18E:@Wenn man genauer hinschaut, ist diese[BREAK]  komische mädchenartige[PAUSE 18 00] jungsartige[PAUSE 18 00][WAIT]  mädchenartige[PAUSE 18 00] Person irgendwie wie...[PAUSE 18 00] whoa.[WAIT]@Oh, sorry, sorry. Mein das im positiven Sinne.[END]
 // Repeats: 33-18, 219-18
 219-19:@Can I say something completely off-topic?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-219-19E:
+219-19E:@Darf ich etwas völlig unnötiges sagen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-19, 219-19
 219-20:@I picked up this doorknob the other day,[WAIT]  but I was irritated at the time, so I threw it to[BREAK]  the east as far as I could.[WAIT]@I wound up dislocating my shoulder as a result.[WAIT]@Actually, no, I was just fibbing about that last[BREAK]  part.[WAIT]@Hahaha.[END]
 219-20E:
