@@ -3138,121 +3138,121 @@
 33-42E:@Wartet.[END]
 // Repeats: 33-42, 219-42
 33-43:@I have noooo idea what you were talking about[BREAK]  just now,[WAIT]  but if it's up the river you need to go, then it's[BREAK]  our time to shine![WAIT]@C'mon! Follow us![END]
-33-43E:
+33-43E:@Ich habe keeeeine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinaufmüsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
 // Repeats: 33-43, 219-43
 33-44:@We just got this! It's the greatest boat ever![WAIT]@You'll get on it, of course?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-33-44E:
+33-44E:@Das haben wir gerade bekommen![BREAK]  Es ist das großartigste Boot, das es gibt![WAIT]@Ihr werdet natürlich mit draufkommen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-44, 219-44
 33-45:@We just love to row our boat.[WAIT]@We used to be boat-less, you see.[END]
-33-45E:
+33-45E:@Wir lieben es zu rudern.[WAIT]@Wir sind es Boot-los gewohnt, wie man sieht.[END]
 // Repeats: 33-45, 219-45
 33-46:@Oh, you're going to walk there?[WAIT]@That'll be tough, you know...[END]
-33-46E:
+33-46E:@Oh, ihr wollt dorthin laufen?[WAIT]@Das ist ziemlich anstrengend, wisst ihr...[END]
 // Repeats: 33-46, 219-46
 33-47:@Something's not right with the way everyone[BREAK]  is suddenly moving to the big city.[WAIT]@I have a bad feeling about this...[END]
-33-47E:
+33-47E:@Irgendwas passt mit dem Weg nicht, wir[BREAK]  bewegen uns auf einmal Richtung Großstadt.[WAIT]@Ich habe ein schlechtes Gefühl bei der Sache...[END]
 // Repeats: 33-47, 219-47
 
 [Container 34]
 34-0:@Oh, you wanna join our army, too?[WAIT]@Then you gotta go eat lots and lots until you're[BREAK]  nice and big first.[END]
-34-0E:
+34-0E:@Oh, willst du auch unserer Armee beitreten?[WAIT]@Dann musst du zuerst VIEL essen bis du groß[BREAK]  und fett bist.[END]
 34-1:@Oh, you guys wanna join our army, too?[WAIT]@Then you gotta go eat lots and lots until you're[BREAK]  nice and big first.[END]
-34-1E:
+34-1E:@Oh, wollt ihr auch unserer Armee beitreten?[WAIT]@Dann müsst ihr zuerst VIEL essen bis ihr groß[BREAK]  und fett seid.[END]
 34-2:@Hmm, how shall I put this...[WAIT]  Saying things such as this may make me seem[BREAK]  a tad rude and unsociable,[WAIT]  and it's for that very reason that I do not[BREAK]  prefer to say it aloud,[WAIT]  but if absolutely forced to say what I want to[BREAK]  say, I would say... [PAUSE 20 00][BREAK]  Get out of the damn way![END]
-34-2E:
+34-2E:@Hmm, wie soll ich das sagen...[WAIT]  Solche Sachen zu sagen lässt mich ein[BREAK]  bisschen gemein und asozial erscheinen,[WAIT]  und aus diesem Grund will ich es lieber nicht[BREAK]  laut sagen,[WAIT]  aber wenn ich gezwungen bin zu sagen,[BREAK]  was ich sagen will, dann würde ich sagen... [PAUSE 20 00][BREAK]  Geht mir aus den gottverdammten Weg![END] 
 34-3:@Stay out of the way, will ya?![WAIT]@Here, I'll give you a riddle to solve, so you can[BREAK]  go think about it somewhere else.[WAIT]@Alright, here's the riddle.[WAIT]@Jack had a parakeet named Enza.[WAIT]@Jack got sick, and his parakeet went missing.[WAIT]@He was about to give up on life, but then in[BREAK]  flew Enza.[WAIT]@Now, then. What illness did Jack have?[WAIT]@Remember, he was about to give up on life,[PAUSE 1E 00][BREAK]  and then "in flew Enza".[PAUSE 1E 00][WAIT]@The answer will come at a later time![WAIT]@Now get out of here.[END]
-34-3E:
+34-3E:@Bleibt mir aus dem Weg, okay?![WAIT]@Bitte schön, ich gebe euch ein Rätsel, das ihr[BREAK]  irgendwo anders lösen könnt.[WAIT]@Hier kommt das Rätsel.[WAIT]@Jack hatte einen Sittich namens Enza.[WAIT]@Jack ist krank geworden und der Sittich[BREAK]  verschwand.[WAIT]@Er wollte sich gerade das Leben nehmen, doch dann flog Enza herein.[WAIT]@Nun denn. Welche Krankheit hatte Enza?[WAIT]@Denke daran, er wollte sich das Leben nehmen[PAUSE 1E 00][BREAK]  und dann "flog Enza herein".[PAUSE 1E 00][WAIT]@Die Antwort bekommt ihr später![WAIT]@Jetzt verschwindet von hier.[END]
 34-4:@Nope, I can't give you the answer yet![END]
-34-4E:
+34-4E:@Nee, die Antwort gebe ich euch noch nicht![END]
 34-5:@It's so stuffy in this mask.[WAIT]@Whew, what another stuffy day...[END]
-34-5E:
+34-5E:@Es ist so stickig in dieser Maske.[WAIT]@Puh, was für ein weiterer stickiger Tag...[END]
 34-6:@Right, left, right, left.[BREAK]  Right, left, right, left.[WAIT]  Light, reft, light, reft.[BREAK]  Fight, raft, fight, raft...[WAIT]  You're distracting me. Go away.[END]
-34-6E:
+34-6E:@Rechts, links, rechts, links.[BREAK]  Rechts, links, rechs, links.[WAIT]  Lechz, dings, lechz, dings.[BREAK]  Benz, rings, benz, rings...[WAIT]  Du störst mich. Verschwinde.[END]
 34-7:@I ain't slackin' off.[WAIT]@I've just collapsed from sunstroke.[PAUSE 10 00][BREAK]  *belch* *burp*[END]
-34-7E:
+34-7E:@Ich geh' nirgends hin.[WAIT]@Ich bin gerade von einem Sonnenstich erwischt[BREAK]  worden.[PAUSE 10 00][BREAK]  *gruns* *rülps*[END]
 34-8:@This is our training facility![WAIT]@What do you think? Pretty impressive, huh?[PAUSE 10 00][BREAK]  *burp* *belch*[END]
-34-8E:
+34-8E:@Das ist unsere Traininseinrichtung![WAIT]@Wie findest du es? Ziemlich beeindruckend,[BREAK] oder?[PAUSE 10 00][WAIT]  *rülps* *gruns*[END]
 34-9:@What's yer problem?[WAIT]  You look like you're tryin' to screw up our[BREAK]  formation or somethin'.[END]
-34-9E:
+34-9E:@Ey, was ist dein Problem?[WAIT]  Du siehst so aus, als willste unsere[BREAK]  Formation oder so kaputtmachen.[END]
 34-10:@What's yer guys' problem?[WAIT]  You look like you're tryin' to screw up our[BREAK]  formation or somethin'.[END]
-34-10E:
+34-10E:@Ey, was ist euer Problem?[WAIT]  Ihr seht so aus, als wollt ihr unsere[BREAK]  Formation oder so kaputtmachen.[END]
 34-11:@Tazmily Training Facility[END]
-34-11E:
+34-11E:@Tazmily Trainingseinrichtung[END]
 34-12:@Dangerous.[END]
-34-12E:
+34-12E:@Gefahr.[END]
 34-13:@Hay is piled high here.[END]
-34-13E:
+34-13E:@Ein großer Heuhaufen.[END]
 34-14:@I'm not lying here 'cause of sunstroke.[WAIT]@I'm just slackin' off.[PAUSE 10 00][BREAK]  *munch* *munch* *buuurp*[END]
-34-14E:
+34-14E:@Ich lieg nicht wegen Sonnenstich hier.[WAIT]@Ich mach nur Pause.[PAUSE 10 00][BREAK]  *mampf* *mampf* *rüüüülps*[END]
 34-15:@If you ever run into us somewhere, you better[BREAK]  look at us like you wish you could be as cool.[END]
-34-15E:
+34-15E:@Falls du uns irgendwo treffen solltest, solltest[BREAK]  du uns besser anschauen, als würdest du dir[WAIT]  wünschen, so cool zu sein wie wir.[END]
 34-16:@You're here for the answer, right?[WAIT]@Okay, here it is.[WAIT]@Jack had a cold,[PAUSE 1E 00] but he got over it completely![WAIT]@...A lot of time HAS passed, after all.[END]
-34-16E:
+34-16E:@Du bist hier wegen der Antwort, richtig?[WAIT]@Okay, hier kommt sie.[WAIT]@Jack hatte ein Erkältung,[PAUSE 1E 00] aber er ist darüber[BREAK]  vollständig hinweggekommen![WAIT]@...Letztendlich ist aber eine Menge Zeit[BREAK]  VERGANGEN.[END]
 34-17:@Left, right, left right.[BREAK]  Left, right, left, right.[WAIT]  Cleft, flight, deft, might.[BREAK]  Heft, kite, pest, tight...[WAIT]@Thanks a lot. Now I'm all messed up because[BREAK]  of you.[END]
-34-17E:
+34-17E:@Links, rechts, links, rechts.[BREAK]  Links, rechts, links, rechts.[WAIT]  Blings, lechts, sings, sechts.[BREAK]  Klings, bechts, pings, lechts...[WAIT]@Vielen Dank. Jetzt bin ich wegen dir komplett[BREAK]  durcheinander gekommmen.[END]
 34-18:@This training facility's served its purpose.[WAIT]@It's closed, as of today.[WAIT]@Once I close this gate, I'm off to New Pork[BREAK]  City, too.[EVENT][END]
-34-18E:
+34-18E:@Diese Trainingseinrichtung hat ihren[BREAK]  Zweck erfüllt.[WAIT]@Von heute an ist es geschlossen.[WAIT]@Sobald ich dieses Tor schließe, werde ich auch[BREAK]  nach New Pork City ziehen.[EVENT][END]
 34-19:@But this stupid thing refuses to close.[WAIT]@Gahh! C'mon![END]
-34-19E:
+34-19E:@Aber dieses blöde Ding lässt sich nicht[BREAK]  schließen.[WAIT]@Gahh! Komm schon![END]
 34-20:@The marching song seems to be coming from[BREAK]  this cassette player.[END]
-34-20E:
+34-20E:@Das Marschlied scheint aus dem[BREAK]  Kasettenspieler zu kommen.[END]
 34-21:@Its batteries are dead.[END]
-34-21E:
+34-21E:@Seine Batterien sind leer.[END]
 
 [Container 35]
 35-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-35-0E:
+35-0E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 35-1:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-35-1E:
+35-1E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 35-2:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-35-2E:
+35-2E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 35-3:@This village sure has a lot of lightning lately...[END]
-35-3E:
+35-3E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 35-4:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-35-4E:
+35-4E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 35-5:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-35-5E:
+35-5E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 35-6:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-35-6E:
+35-6E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 35-7:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-35-7E:
-// Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
+35-7E:Unused[END]
+// Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62 Unused
 35-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-35-8E:
+35-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 35-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-35-9E:
+35-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 35-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-35-10E:
+35-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 35-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-35-11E:
+35-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 35-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-35-12E:
+35-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 35-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-35-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+35-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 35-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-35-14E:
+35-14E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  liegt.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 35-15:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-35-15E:
+35-15E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 35-16:@It's been blasted apart by lightning.[END]
-35-16E:
+35-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 35-17:[END]
-35-17E:
+35-17E:[END]
 
 [Container 36]
 36-0:[HOTSPRING 00 00][END]
@@ -3340,64 +3340,64 @@
 36-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 36-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-36-28E:
+36-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 36-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-36-29E:
+36-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 36-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-36-30E:
+36-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 36-31:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-36-31E:
+36-31E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 36-32:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-36-32E:
+36-32E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 36-33:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-36-33E:
+36-33E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 36-34:@This village sure has a lot of lightning lately...[END]
-36-34E:
+36-34E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 36-35:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-36-35E:
+36-35E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 36-36:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-36-36E:
+36-36E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 36-37:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-36-37E:
+36-37E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 36-38:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-36-38E:
+36-38E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 36-39:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-36-39E:
+36-39E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 36-40:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-36-40E:
+36-40E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 36-41:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-36-41E:
+36-41E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 36-42:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-36-42E:
+36-42E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 36-43:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-36-43E:
+36-43E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 36-44:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-36-44E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+36-44E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 36-45:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-36-45E:
+36-45E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 36-46:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-36-46E:
+36-46E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 36-47:@It's been blasted apart by lightning.[END]
-36-47E:
+36-47E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 36-48:@It would probably be best if you didn't talk to[BREAK]  me.[WAIT]@Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 36-48E:
@@ -3597,103 +3597,103 @@
 37-25:@Wess joined your party![PAUSE 78 00][END]
 37-25E:@Wess tretete deinem Team bei![PAUSE 78 00][END]
 37-26:@This tall man...[WAIT]@There's something fishy about him.[BREAK]  Dunno why, but he just seems suspicious.[END]
-37-26E:@Dieser große Mann...[WAIT]@Etwas an ihm stinkt gewaltig.[BREAK]  Er scheint mir sehr verdächtig zu sein.[END]
+37-26E:@Dieser große Mann...[WAIT]@Etwas an ihm stinkt gewaltig.[WAIT]  Keine Ahnung warum, aber er kommt mir[BREAK]  einfach sehr verdächtig vor.[END]
 37-27:@This is Cross Road's bell tower.[END]
-37-27E:@Der Krreuzungsglockenturm.[END]
+37-27E:@Der Kreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
 
 [Container 38]
 38-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-38-0E:
+38-0E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 38-1:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-38-1E:
+38-1E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 38-2:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-38-2E:
+38-2E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 38-3:@This village sure has a lot of lightning lately...[END]
-38-3E:
+38-3E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 38-4:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-38-4E:
+38-4E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 38-5:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-38-5E:
+38-5E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 38-6:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-38-6E:
+38-6E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 38-7:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-38-7E:
+38-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 38-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-38-8E:
+38-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 38-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-38-9E:
+38-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 38-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-38-10E:
+38-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 38-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-38-11E:
+38-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 38-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-38-12E:
+38-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 38-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-38-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+38-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 38-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-38-14E:
+38-14E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 38-15:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-38-15E:
+38-15E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 38-16:@It's been blasted apart by lightning.[END]
-38-16E:
+38-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 38-17:@"Tazmily Central Message Board"[BREAK]  Read it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-38-17E:
+38-17E:@"Tazmily Zentralnachrichtenbrett"[BREAK]  Lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-18:@Are you sure? Wouldn't it be nice to know[BREAK]  what other people have on their minds?[END]
-38-18E:
+38-18E:@Bist du dir sicher?[WAIT]  Wäre es nicht toll zu wissen, was andere[BREAK]  Leute auf den Herzen haben?[END]
 38-19:@Read another?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-38-19E:
+38-19E:@Noch eins lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-20:@I say we remodel the old ruins of Osohe Castle[BREAK]  and turn it into a Tazmily resort facility.[WAIT]                                        (Anonymous)[END]
-38-20E:
+38-20E:@Ich will, dass wir die alten Ruine des Oshohe[BREAK]  Schlosses umgestalten und daraus eine[WAIT]  Tazmily Entspannungseinrichtung machen.[BREAK]                                            (Anonym)[END]
 38-21:@If you wanna ride the train, go to the station![BREAK]  You can ride the train if you go to the station![WAIT]@The train speeds along![BREAK]  Along speeds the train![WAIT]@Let's go-go-go to the factory on the train![BREAK]                        (Train Station Attendants)[END]
-38-21E:
+38-21E:@Wenn du Zug fahren willst, geh zum Bahnhof![BREAK]  Geh zum Bahnhof, wenn du Zug fahren willst![WAIT]@Der Zug ist so schnell![BREAK]  So schnell ist der Zug![WAIT]@Lasst uns mit dem Zug zur Fabrik fahren![BREAK]                               (Bahnhofangestellte)[END]
 38-22:@Is the lightning helping us?[WAIT]@Thanks to the lightning, all the dirty, old[BREAK]  houses are being cleaned away.[WAIT]@So, in a way, the lightning is helping all of us.[WAIT]@That's what I think.[BREAK]     (From a popular citizen)[END]
-38-22E:
+38-22E:@Helfen uns die Gewitter?[WAIT]@Dank den Gewittern, werden all die dreckigen,[BREAK]  alten Häuser entfernt.[WAIT]@In gewisser Hinsicht helfen uns also[BREAK]  die Gewitter.[WAIT]@Das denke ich jedenfalls.[BREAK]     (Von einem beliebten Einwohner)[END]
 38-23:@Happy Boxes are the greatest![WAIT]@Now to develop even bigger screens![BREAK]                            (Abbot and Abbey)[END]
-38-23E:
+38-23E:@Glücklichkeitsboxen sind die besten![WAIT]@Jetzt müssen nur noch größere Bildschirme[BREAK]  entwickelt werden![WAIT]                            (Abbot und Abbey)[END]
 38-24:@I want too bee a Pigmask too.[WAIT]@How can I bee wun?[WAIT]@I no I can bee a gud wun.[WAIT]@Pleese let me bee a Pigmask.[WAIT]@Also, I thought [FAVFOOD] is good.[WAIT]@Well, gudbye.[BREAK]       (Fried Pork Kid)[END]
-38-24E:
+38-24E:@I want too bee a Pigmask too.[WAIT]@How can I bee wun?[WAIT]@I no I can bee a gud wun.[WAIT]@Pleese let me bee a Pigmask.[WAIT]@Außerdem schmeckt [FAVFOOD] gut.[WAIT]@Well, gudbye.[BREAK]       (Fried Pork Kid)[END]
 38-25:@After a hard day's work, there's only one[BREAK]  thing to do:[WAIT]  spend every last DP you own at Club Titiboo![WAIT]@Club Titiboo is a paradise of music! And other[BREAK]  stuff, too![WAIT]@Come see the DCMC in concert, live![BREAK]                                   (Club Titiboo)[END]
-38-25E:
+38-25E:@Nach einem harten Arbeitstag, gibt es nur[BREAK]  noch eine Sache, die man machen muss:[WAIT]  jede einzelne DK im Club Titiboo auszugeben![WAIT]@Club Titiboo ist ein Musikparadies! Und für[BREAK]  andere Sachen auch![WAIT]@Schau dir Live das DCMC Konzert an![BREAK]                                   (Club Titiboo)[END]
 38-26:@I have sand in my shoes, and I don't know[BREAK]  what to do.[WAIT]@Somebody do something![BREAK]                            (Nana)[END]
-38-26E:
+38-26E:@Ich habe Sand in meinen Schuhen, und ich weiß[BREAK]  nicht, was ich machen soll.[WAIT]@Irgendjemand, tu was dagegen![BREAK]                            (Nana)[END]
 38-27:@Why not consider working at the retirement[BREAK]  home?[WAIT]@Veterans of life are waiting for your kindness.[WAIT]@But please stop quitting one after the other.[BREAK]                         (Retirement Home Director)[END]
-38-27E:
+38-27E:@Warum sollte man nicht im Altersheim[BREAK]  arbeiten?[WAIT]@Lebensveteranen warten deine Nettigkeit.[WAIT]@But please stop quitting one after the other.[BREAK]                         (Direktor des Altersheim)[END]
 38-28:@Who in the world IS Leder?[WAIT]@Try as hard as I might, I just can't remember[BREAK]  anything about him.[WAIT]  It's keeping me up at night.[WAIT]                                (Mike)[END]
-38-28E:
+38-28E:@Wer zum Teufel ist Leder?[WAIT]@So gut ich es auch versuche, ich kann mich[BREAK]  irgendwie überhaupt nicht an ihn erinnern.[WAIT]  Ich kann deswegen nicht schlafen.[WAIT]                                (Mike)[END]
 38-29:@We've been slowly running out of friends at[BREAK]  the castle lately.[WAIT]@People of Tazmily, please pass away at a[BREAK]  faster pace, if you would be so kind. Thanks.[WAIT]                                      (Anonymous Ghost)[END]
-38-29E:
+38-29E:@Wir werden seit kurzem immer weniger im[BREAK]  Schloss.[WAIT]@Einwohner von Tazmily, bitte sterbt schneller,[BREAK]  wenn ihr so nett wärt. Danke.[WAIT]                                      (Ein anonymer Geist)[END]
 38-30:@Notice.[WAIT]@Scamp has died.[WAIT]  That is all.[WAIT]             (Staff)[END]
-38-30E:
+38-30E:@Hinweis.[WAIT]@Scamp ist verstorben.[WAIT]  Das ist alles.[WAIT]             (Angestellter)[END]
 38-31:@Select, cheerful police officers wanted.[WAIT]@Start a new career as an officer of the[BREAK]  Tazmily police force![WAIT]@Do well, and you could even make some[BREAK]  Pigmask friends![WAIT]            (Pusher, Tazmily Police Dept.)[END]
-38-31E:
+38-31E:@Erlesene, fröhliche Polizeioffiziere gesucht.[WAIT]@Beginne eine neue Karriere als Offizier der[BREAK]  Tazmilier Polizei![WAIT]@Sei gut, und du könntest dir sogar ein paar[BREAK]  Schweinemaskenfreunde machen![WAIT]            (Pusher, Tazmilier Polizeiabteilung)[END]
 38-32:@Watch out for Chimeras.[WAIT]@Strange animals known as Chimeras seem to[BREAK]  be increasing in number lately.[WAIT]@They are dangerous. Be careful of them.[BREAK]                           (From a brave person)[END]
-38-32E:
+38-32E:@Pass auf Chimeras auf.[WAIT]@Eigenartige Tiere namens Chimeras scheinen[BREAK]  sich in letzter Zeit zu vermehren.[WAIT]@Sie sind gefährlich. Sei vorsichtig.[BREAK]                           (Von einer mutigen Person)[END]
 38-33:@Show courtesy to Mr. Fassad.[WAIT]@There are many ignorant people who complain[BREAK]  about him.[WAIT]@I think that is a very bad thing to do.[WAIT]@"Tazmily is nothing without Mr. Fassad."[WAIT]  Please take this to heart.[BREAK]                            (Isaac)[END]
-38-33E:
+38-33E:@Zeigt Herrn Fassad Verbindlichkeit.[WAIT]@Es gibt viele ignorante Menschen, die sich über[BREAK]  ihn beschweren.[WAIT]@Ich glaube, das ist eine sehr schlechte Sache.[WAIT]@"Tazmily ist nichts ohne Herrn Fassad."[WAIT]  Bitte nehmt das zu Herzen.[BREAK]                            (Isaac)[END]
 38-34:@"Titiboo News"[WAIT]@DCMC to debut a new song soon?![WAIT]  Desperado! [PAUSE 10 00](Reckless!)[WAIT]  Crash! [PAUSE 10 00](Powerful!)[WAIT]  Mambo! [PAUSE 10 00](Sensational!)[WAIT]  Combo! [PAUSE 10 00](Guys!)[WAIT]@No one can stop the DCMC's momentum now![END]
-38-34E:
+38-34E:@"Titiboo Neuigkeiten"[WAIT]@Gibt es bei DCMC bald ein Debut?![WAIT]  Desperado! [PAUSE 10 00](Rücksichtslos!)[WAIT]  Crash! [PAUSE 10 00](Stark!)[WAIT]  Mambo! [PAUSE 10 00](Sensational!)[WAIT]  Combo! [PAUSE 10 00](Kerle!)[WAIT]@Niemand kann jetzt noch DCMC aufhalten![END]
 38-35:@Pigmasks Wanted![WAIT]@What do you say?[WAIT]@Join the Pigmasks and enjoy life in the big city![END]
-38-35E:
+38-35E:@Schweinemasken gesucht![WAIT]@Was sagst du?[WAIT]@Trete den Schweinemasken bei und genieße[BREAK]  das Leben in der Großstadt![END]
 38-36:@C'mon, now, Jackie. Get real.[WAIT]@It can't possibly be him.[END]
-38-36E:
+38-36E:@Komm schon, Jackie. Hör auf zu träumen.[WAIT]@Er kann das gar nicht sein.[END]
 38-37:@But just think about it.[WAIT]@No one's seen hide nor hair of [DUSTER 23 03 00][BREAK]  since he disappeared three years ago.[WAIT]@It's gotta be him.[END]
 38-37E:
 38-38:@C'mon, now. That's nonsense![END]
@@ -3889,15 +3889,15 @@
 38-120:@Don't worry, Dad![BREAK]  Whatever happens, happens![END]
 38-120E:
 38-121:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-38-121E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+38-121E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 38-122:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-38-122E:
+38-122E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 38-123:@I've been to that area myself before, so you[BREAK]  should be all right.[PAUSE 20 00].. I think.[END]
 38-123E:
 38-124:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-38-124E:
+38-124E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 38-125:[END]
 38-125E:
@@ -4106,13 +4106,13 @@
 43-6:@The boulder won't budge at all.[END]
 43-6E:
 43-7:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-43-7E:
+43-7E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 43-8:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-43-8E:
+43-8E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 43-9:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-43-9E:
+43-9E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 
 [Container 45]
@@ -4255,55 +4255,55 @@
 
 [Container 48]
 48-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-48-0E:
+48-0E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 48-1:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-48-1E:
+48-1E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 48-2:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-48-2E:
+48-2E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 48-3:@This village sure has a lot of lightning lately...[END]
-48-3E:
+48-3E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 48-4:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-48-4E:
+48-4E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 48-5:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-48-5E:
+48-5E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 48-6:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-48-6E:
+48-6E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 48-7:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-48-7E:
+48-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 48-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-48-8E:
+48-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 48-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-48-9E:
+48-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 48-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-48-10E:
+48-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 48-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-48-11E:
+48-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 48-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-48-12E:
+48-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 48-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-48-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+48-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 48-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-48-14E:
+48-14E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 48-15:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-48-15E:
+48-15E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 48-16:@It's been blasted apart by lightning.[END]
-48-16E:
+48-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 48-17:@Club Titiboo books various bands and offers all[BREAK]  sorts of services for our patrons.[WAIT]  Please come in and enjoy![WAIT]@Let our profoundly bizarre atmosphere wash[BREAK]  over you![END]
 48-17E:
@@ -4330,55 +4330,55 @@
 
 [Container 49]
 49-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-49-0E:
+49-0E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 49-1:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-49-1E:
+49-1E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 49-2:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-49-2E:
+49-2E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 49-3:@This village sure has a lot of lightning lately...[END]
-49-3E:
+49-3E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 49-4:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-49-4E:
+49-4E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 49-5:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-49-5E:
+49-5E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 49-6:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-49-6E:
+49-6E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 49-7:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-49-7E:
+49-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 49-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-49-8E:
+49-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 49-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-49-9E:
+49-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 49-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-49-10E:
+49-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 49-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-49-11E:
+49-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 49-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-49-12E:
+49-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 49-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-49-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+49-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 49-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-49-14E:
+49-14E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 49-15:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-49-15E:
+49-15E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 49-16:@It's been blasted apart by lightning.[END]
-49-16E:
+49-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 49-17:@This ropeway leads to Club Titiboo.[BREAK]@Do you want to ride up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 49-17E:
@@ -5925,13 +5925,13 @@
 96-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 96-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-96-28E:
+96-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 96-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-96-29E:
+96-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 96-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-96-30E:
+96-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 96-31:[END]
 96-31E:
@@ -5989,7 +5989,7 @@
 99-1:@Oh, okay![WAIT]@I thought you might say that, but I'm sure we'll[BREAK]  meet again sometime.[END]
 99-1E:
 99-2:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-99-2E:
+99-2E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 99-3:[ALTERNATEFONT]@polished into[BREAK]  shiny sparkle thing.[WAIT]@no worries.[WAIT]@i give back at you.[END]
 99-3E:
@@ -8258,13 +8258,13 @@
 180-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 180-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-180-28E:
+180-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 180-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-180-29E:
+180-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 180-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-180-30E:
+180-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 180-31:@The mailbox lid is open...[WAIT]@Peek inside?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 180-31E:
@@ -8422,13 +8422,13 @@
 181-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 181-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-181-28E:
+181-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 181-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-181-29E:
+181-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 181-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-181-30E:
+181-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 181-31:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 181-31E:
@@ -8540,13 +8540,13 @@
 182-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 182-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-182-28E:
+182-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 182-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-182-29E:
+182-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 182-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-182-30E:
+182-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 182-31:@What? Pulling a needle?[PAUSE 20 00][BREAK]  And where is this thing?[WAIT]@There is no such thing.[PAUSE 20 00][BREAK]  Let's hurry home now.[WAIT]@Needle? A needle, you say?[PAUSE 20 00][BREAK]  Are you the needle?[WAIT]@Don't be stupid![PAUSE 20 00][BREAK]  I oughta pull you![END]
 182-31E:
@@ -8780,13 +8780,13 @@
 192-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 192-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-192-28E:
+192-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 192-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-192-29E:
+192-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 192-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-192-30E:
+192-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 192-31:@Going back into the ocean would be even MORE[BREAK]  dangerous.[END]
 192-31E:
@@ -10076,19 +10076,19 @@
 219-42E:@Wartet.[END]
 // Repeats: 33-42, 219-42
 219-43:@I have noooo idea what you were talking about[BREAK]  just now,[WAIT]  but if it's up the river you need to go, then it's[BREAK]  our time to shine![WAIT]@C'mon! Follow us![END]
-219-43E:
+219-43E:@Ich habe keeeeine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinaufmüsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
 // Repeats: 33-43, 219-43
 219-44:@We just got this! It's the greatest boat ever![WAIT]@You'll get on it, of course?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-219-44E:
+219-44E:@Das haben wir gerade bekommen![BREAK]  Es ist das großartigste Boot, das es gibt![WAIT]@Ihr werdet natürlich mit draufkommen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-44, 219-44
 219-45:@We just love to row our boat.[WAIT]@We used to be boat-less, you see.[END]
-219-45E:
+219-45E:@Wir lieben es zu rudern.[WAIT]@Wir sind es Boot-los gewohnt, wie man sieht.[END]
 // Repeats: 33-45, 219-45
 219-46:@Oh, you're going to walk there?[WAIT]@That'll be tough, you know...[END]
-219-46E:
+219-46E:@Oh, ihr wollt dorthin laufen?[WAIT]@Das ist ziemlich anstrengend, wisst ihr...[END]
 // Repeats: 33-46, 219-46
 219-47:@Something's not right with the way everyone[BREAK]  is suddenly moving to the big city.[WAIT]@I have a bad feeling about this...[END]
-219-47E:
+219-47E:@Irgendwas passt mit dem Weg nicht, wir[BREAK]  bewegen uns auf einmal Richtung Großstadt.[WAIT]@Ich habe ein schlechtes Gefühl bei der Sache...[END]
 // Repeats: 33-47, 219-47
 219-48:@Wrong.[WAIT]  I am the wrong frog.[END]
 219-48E:@Falsch.[WAIT]  Ich bin der falsche Frosch.[END]
@@ -10275,55 +10275,55 @@
 222-54E:@Ein Bollerwagen.[WAIT]  Auch bekannt als Schubkarren.[END]
 // Repeats: 10-54, 222-54, 506-54
 222-55:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-222-55E:
+222-55E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 222-56:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-222-56E:
+222-56E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 222-57:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-222-57E:
+222-57E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 222-58:@This village sure has a lot of lightning lately...[END]
-222-58E:
+222-58E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 222-59:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-222-59E:
+222-59E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 222-60:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-222-60E:
+222-60E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 222-61:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-222-61E:
+222-61E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 222-62:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-222-62E:
+222-62E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 222-63:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-222-63E:
+222-63E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 222-64:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-222-64E:
+222-64E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 222-65:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-222-65E:
+222-65E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 222-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-222-66E:
+222-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 222-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-222-67E:
+222-67E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 222-68:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-222-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+222-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 222-69:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-222-69E:
+222-69E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 222-70:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-222-70E:
+222-70E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 222-71:@It's been blasted apart by lightning.[END]
-222-71E:
+222-71E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 222-72:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
 222-72E:
@@ -10381,55 +10381,55 @@
 
 [Container 223]
 223-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-223-0E:
+223-0E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 223-1:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-223-1E:
+223-1E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 223-2:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-223-2E:
+223-2E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 223-3:@This village sure has a lot of lightning lately...[END]
-223-3E:
+223-3E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 223-4:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-223-4E:
+223-4E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 223-5:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-223-5E:
+223-5E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 223-6:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-223-6E:
+223-6E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 223-7:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-223-7E:
+223-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 223-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-223-8E:
+223-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 223-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-223-9E:
+223-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 223-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-223-10E:
+223-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 223-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-223-11E:
+223-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 223-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-223-12E:
+223-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 223-13:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-223-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+223-13E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 223-14:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-223-14E:
+223-14E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 223-15:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-223-15E:
+223-15E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 223-16:@It's been blasted apart by lightning.[END]
-223-16E:
+223-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 223-17:@A Pigmask car![WAIT]@There seems to be a Pigmask in it![END]
 223-17E:
@@ -12628,13 +12628,13 @@
 327-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 327-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-327-28E:
+327-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 327-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-327-29E:
+327-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 327-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-327-30E:
+327-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 327-31:@Okay! Oxygen supply complete![WAIT]@Time to head for Tanetane Island![END]
 327-31E:
@@ -12737,13 +12737,13 @@
 328-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 328-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-328-28E:
+328-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 328-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-328-29E:
+328-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 328-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-328-30E:
+328-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 328-31:@*hop* *glub* *glub* *gaaaaakkkkkk*[WAIT]@I am Frogman.[BREAK]  *gaakkkkkkk* *blub* *blub*[WAIT]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END][END]
 328-31E:
@@ -12844,13 +12844,13 @@
 329-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 329-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-329-28E:
+329-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 329-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-329-29E:
+329-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 329-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-329-30E:
+329-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 329-31:@I'm a Make-It-Big Fish.[WAIT]@I'm a real hard worker, so I'm gonna make it[BREAK]  big in life.[WAIT]  I'm talking BIG here![WAIT]  Maybe even bigger than a whale![END]
 329-31E:
@@ -12945,13 +12945,13 @@
 330-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 330-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-330-28E:
+330-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 330-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-330-29E:
+330-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 330-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-330-30E:
+330-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 330-31:@Do you breathe through gills?[WAIT]  You don't?[WAIT]@Are you an enemy? An enemy of all fishkind?[WAIT]  If so, then what do you say we fight?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 330-31E:
@@ -13058,13 +13058,13 @@
 331-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 331-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-331-28E:
+331-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 331-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-331-29E:
+331-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 331-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-331-30E:
+331-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 331-31:@...It appears to be out of order.[END]
 331-31E:
@@ -13155,13 +13155,13 @@
 332-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 332-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-332-28E:
+332-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 332-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-332-29E:
+332-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 332-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-332-30E:
+332-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 332-31:@Do you like sushi?[WAIT]@It's not my thing.[END]
 332-31E:
@@ -14144,13 +14144,13 @@
 373-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 373-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-373-28E:
+373-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 373-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-373-29E:
+373-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 373-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-373-30E:
+373-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 373-31:[END]
 373-31E:
@@ -14241,13 +14241,13 @@
 374-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 374-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-374-28E:
+374-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 374-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-374-29E:
+374-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 374-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-374-30E:
+374-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 374-31:[END]
 374-31E:
@@ -14338,13 +14338,13 @@
 375-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 375-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-375-28E:
+375-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 375-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-375-29E:
+375-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 375-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-375-30E:
+375-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 375-31:[END]
 375-31E:
@@ -14435,13 +14435,13 @@
 376-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 376-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-376-28E:
+376-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 376-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-376-29E:
+376-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 376-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-376-30E:
+376-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 376-31:[END]
 376-31E:
@@ -14532,13 +14532,13 @@
 377-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 377-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-377-28E:
+377-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 377-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-377-29E:
+377-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 377-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-377-30E:
+377-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 377-31:[END]
 377-31E:
@@ -14629,13 +14629,13 @@
 378-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 378-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-378-28E:
+378-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 378-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-378-29E:
+378-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 378-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-378-30E:
+378-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 378-31:@I may not look like it, but I'm not a starfish.[WAIT]@I used to be a shining star in the night sky.[WAIT]@Long, long ago, I fell into the ocean as a[BREAK]  shooting star.[WAIT]@Do you believe me?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 378-31E:
@@ -14730,13 +14730,13 @@
 379-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 379-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-379-28E:
+379-28E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir an[BREAK]  erster Stelle in der Businessevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 379-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
-379-29E:
+379-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
 // Repeats: 36-29, 43-8, 96-29, 180-29, 181-29, 182-29, 192-29, 327-29, 328-29, 329-29, 330-29, 331-29, 332-29, 373-29, 374-29, 375-29, 376-29, 377-29, 378-29, 379-29
 379-30:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-379-30E:
+379-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 379-31:@Moo.[WAIT]  (I am a sea cow.[WAIT]  The star on my forehead is my most charming[BREAK]  feature.[WAIT]  I know it's crowded in here,[WAIT]  but please warm yourself up with some nice,[BREAK]  warm Royal Milk Tea.)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 379-31E:
@@ -16024,7 +16024,7 @@
 467-28:@Oh, okay![WAIT]@I thought you might say that, but I'm sure we'll[BREAK]  meet again sometime.[END]
 467-28E:
 467-29:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
-467-29E:
+467-29E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 
 [Container 468]
@@ -16891,55 +16891,55 @@
 506-54E:@Ein Bollerwagen.[WAIT]  Auch bekannt als Schubkarren.[END]
 // Repeats: 10-54, 222-54, 506-54
 506-55:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
-506-55E:
+506-55E:@GESUCHT![WAIT]@Meine Generation![WAIT]  (Es scheint ein altes Konzertposter zu sein,[BREAK]  das irgendjemand aufgehängt hat.[WAIT]  Aber...[PAUSE 1E 00] von wem?)[END]
 // Repeats: 35-0, 36-31, 38-0, 48-0, 49-0, 222-55, 223-0, 506-55
 506-56:@The lightning used to be Reggie's friend.[WAIT]@But now this lightning is bad to Reggie.[END]
-506-56E:
+506-56E:@Das Gewitter war einmal Reggies Freund.[WAIT]@Aber jetzt ist das Gewitter gemein zu Reggie.[END]
 // Repeats: 35-1, 36-32, 38-1, 48-1, 49-1, 222-56, 223-1, 506-56
 506-57:@Outta the way! Outta the way![WAIT]@Gahhh! You're annoying![WAIT]@Shoo, kid! Shoo! Get![END]
-506-57E:
+506-57E:@Aus dem Weg! Aus dem Weg![WAIT]@Gahhh! Du nervst![WAIT]@Weg, Kind! Husch! Verschwinde![END]
 // Repeats: 35-2, 36-33, 38-2, 48-2, 49-2, 222-57, 223-2, 506-57
 506-58:@This village sure has a lot of lightning lately...[END]
-506-58E:
+506-58E:@Dieses Dorf wird seit neuestem oft von[BREAK]  Gewittern heimgesucht...[END]
 // Repeats: 35-3, 36-34, 38-3, 48-3, 49-3, 222-58, 223-3, 506-58
 506-59:@Pay attention, now! Let this be a lesson![WAIT]@Punishment falls upon the homes of all bad[BREAK]  guys![END]
-506-59E:
+506-59E:@Passt jetzt gut auf![BREAK]  Lasst euch das eine Lehre sein![WAIT]@Das Zuhause aller bösen Menschen wird einer[BREAK]  Bestrafung unterliegen![END]
 // Repeats: 35-4, 36-35, 38-4, 48-4, 49-4, 222-59, 223-4, 506-59
 506-60:@Reggie never discouraged.[WAIT]@Reggie usually never discouraged.[WAIT]@Reggie sometimes discouraged.[END]
-506-60E:
+506-60E:@Reggie ist niemals mutlos.[WAIT]@Reggie ist normalerweise niemals mutlos.[WAIT]@Reggie ist manchmal mutlos.[END]
 // Repeats: 35-5, 36-36, 38-5, 48-5, 49-5, 222-60, 223-5, 506-60
 506-61:@Keep your nose out of police business.[WAIT]@Especially at tension-filled places like this![WAIT]@'Cause you're a nuisance.[WAIT]@I know things may not seem all that[BREAK]  tension-filled here, but trust me, they are![WAIT][PAUSE 1E 00]@So quit, already![WAIT]@Quit asking your dumb questions![END]
-506-61E:
+506-61E:@Halte deine Nase aus polizeilichen[BREAK]   Angelegenheiten heraus.[WAIT]@Besonders an spannungserfüllten Orten wie[BREAK]  diesem![WAIT]@Denn du bist eine Plage.[WAIT]@Ich weiß, dass es vielleicht nicht so[BREAK]  spannungserfüllt erscheint, aber vertrau mir,[WAIT]  das sind sie![WAIT][PAUSE 1E 00]@Also, mach dich vom Acker![WAIT]@Hör mit deinen dummen Fragen auf![END]
 // Repeats: 35-6, 36-37, 38-6, 48-6, 49-6, 222-61, 223-6, 506-61
 506-62:@I believe God protect Reggie by taking his[BREAK]  place.[WAIT]@So now Reggie work hard for God, too.[END]
-506-62E:
+506-62E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 506-63:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-506-63E:
+506-63E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 506-64:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
-506-64E:
+506-64E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 506-65:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-506-65E:
+506-65E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 506-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-506-66E:
+506-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 506-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
-506-67E:
+506-67E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
 // Repeats: 35-12, 36-43, 38-12, 48-12, 49-12, 222-67, 223-12, 506-67
 506-68:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I don't know anything about this Ionia person,[BREAK]  but I do know where Argilla Pass is.[WAIT]@Let me see your map for a second.[END]
-506-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT][END]
+506-68E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich habe keine Ahnung, wer diese Ionia ist,[BREAK]  aber ich weiß, wo der Argilla Pass ist.[WAIT]@Gib mir mal 'ne Sekunde lang deine Karte.[END]
 // Repeats: 35-13, 36-44, 38-13, 38-121, 48-13, 49-13, 222-68, 223-13, 506-68
 506-69:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]There.[WAIT]@This mark shows where Argilla Pass is.[END]
-506-69E:
+506-69E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Bitte schön.[WAIT]@Diese Markierung zeigt dir, wo der Argilla Pass[BREAK]  ist.[END]
 // Repeats: 35-14, 36-45, 38-14, 38-122, 48-14, 49-14, 222-69, 223-14, 506-69
 506-70:@Bye, now.[WAIT]@This has been the map-loving and map-owning[BREAK]  Mapson.[END]
-506-70E:
+506-70E:@Tschüss erstmal.[WAIT]@Mapson. Out.[END]
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 506-71:@It's been blasted apart by lightning.[END]
-506-71E:
+506-71E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 506-72:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
 506-72E:
