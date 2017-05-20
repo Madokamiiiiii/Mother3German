@@ -2305,7 +2305,7 @@
 
 [Container 21]
 21-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-21-0E:[END]
+21-0E:Unused[END]
 // Repeats: 19-0, 21-0
 21-1:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
 21-1E:@Oh!! [FLINT 23 01 00]! [DUSTER 23 03 00]![EVENT][END]
@@ -3400,48 +3400,48 @@
 36-47E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 36-48:@It would probably be best if you didn't talk to[BREAK]  me.[WAIT]@Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-36-48E:
+36-48E:@Es ist vielleicht das Beste, wenn du nicht mir[BREAK]  redest.[WAIT]@Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-49:@Take care, and byee![END]
-36-49E:
+36-49E:@Pass auf, und tschüüüs![END]
 36-50:@Are you really sure?[WAIT]@Everyone hates me, you know.[WAIT]@They all say I talk too much and never shut up.[WAIT]@Are you sure you don't wanna turn back now?[WAIT][MENU 02 00][MENUSPACEYES]Turn back[MENUSPACENO]Don't turn back[ENDCHOICES][END]
-36-50E:
+36-50E:@Bist du dir ganz sicher?[WAIT]@Jeder hasst mich, weißt du.[WAIT]@Sie sagen, dass ich zu viel rede und[BREAK]  niemals die Klappe halte.[WAIT]@Bist du dir absolut sicher, dass du jetzt nicht[BREAK]  doch von mir abwenden willst?[WAIT][MENU 02 00][MENUSPACEYES]Abwenden[MENUSPACENO]Nicht abwenden[ENDCHOICES][END]
 36-51:@Do you know what a trumpet is?[WAIT]@I was actually thinking about learning how to[BREAK]  play the trumpet...[WAIT]  but I didn't.[WAIT]@It's not that I was bad at it or anything.[WAIT]@That's just how it was destined to be.[WAIT]@Do you know what destiny is?[WAIT]@Destiny.[WAIT]@If you do, then that's cool.[WAIT]@My destiny just didn't cross the destiny of[BREAK]  trumpets.[WAIT]@That's all.[WAIT]@But thanks to my not taking up the trumpet,[WAIT]  I can use the time I would've spent practicing[BREAK]  it on other things.[WAIT]@That's one way of looking at it.[WAIT]@It's not like I'm doing something wrong here.[WAIT]@Yeah.[WAIT]@I'll start something else, and who knows,[BREAK]  maybe that'll turn out well.[WAIT]@Like maybe I could start practicing the yanopi...[WAIT]@Do you know what a yanopi is?[WAIT]@It's the proper term for a piano.[WAIT]@What if I start practicing the yanopi now[WAIT]  and wind up being the greatest yanopist ever,[BREAK]  charming the hearts of men the world over?[WAIT]@If that happens, it'd mean I was right about[BREAK]  everything, wouldn't it?[WAIT]@My fate still hasn't kissed the yanopis' fate at[BREAK]  a crosswalk just yet,[WAIT]  but nobody knows what the future holds.[WAIT]  Not even mole crickets, water striders, or[BREAK]  horned owls.[WAIT]@Hey, you. Smile.[WAIT]@Yes. You have a really cute smile, you know[BREAK]  that?[WAIT]@So, anyway, basically...[END]
-36-51E:
+36-51E:@Weißt du, was eine Trompete ist?[WAIT]@Ich habe ehrlich gesagt mal überlegt, ob ich[BREAK]  lernen sollte, Trompete zu spielen...[WAIT]  aber ich habe es letztendlich sein gelassen.[WAIT]@Das lag nicht daran, weil ich schlecht darin[BREAK]  oder so war.[WAIT]@Das hat das Schicksal einfach beschlossen.[WAIT]@Weißt du was Schicksal ist?[WAIT]@Das Schicksal.[WAIT]@Wenn du das tust, dann bist du cool.[WAIT]@Mein Schicksal hat sich gegen Trompeten[BREAK]  entschieden.[WAIT]@Das ist alles.[WAIT]@Und Dank der Tatsache, dass ich keine[BREAK]  Trompete spiele,[WAIT]  kann ich die Zeit, die ich mit Lernen verbracht[BREAK]  hätte, in andere Dinge investieren.[WAIT]@So kann man es jedenfalls auch sehen.[WAIT]@Es ist ja nicht so, als hätte ich etwas falsches[BREAK]  getan.[WAIT]@Yeah.[WAIT]@Ich werde mit irgendwas anderem anfangen[BREAK]  und, wer weiß, vielleicht wird das ja draus.[WAIT]@Zum Beispiel könnte ich anfangen Yanopi[BREAK]  spielen zu lernen...[WAIT]@Weißt du was ein Yanopi ist?[WAIT]@Das ist das sachgemäße Wort für Klavier.[WAIT]@Was, wenn ich jetzt mit Yanopi spielen[BREAK]  anfangen würde[WAIT]  und die beste Yanopi-Spielerin aller Zeiten[BREAK]  werde und die Herzen aller Männer erobere?[WAIT]@Wenn das passiert, dann würde das bedeuten,[BREAK]  das ich mich richtig entschieden habe, oder?[WAIT]@Mein Schicksalhat sich noch nicht mit dem[BREAK]  Schicksl des Yanopis getroffen,[WAIT]  aber niemand weiß, was die Zukunft bereithält.[WAIT]  Noch nicht einmal Maulwurfsgrillen,[BREAK]  Wasserschneidern, oder gehörnerten Eulen.[WAIT]@Hey, du da. Lächel.[WAIT]@Ja. Du hast ein richtig süßes Lächeln.[WAIT]@Also, in jedem Falle, prinzipiell...[END]
 36-52:@You should've turned back when you had the[BREAK]  chance...[END]
-36-52E:
+36-52E:@Du hättest weggehen sollen, als du Chance[BREAK]  dazu hattest...[END]
 36-53:@You know, I think I could start to like you...[END]
-36-53E:
+36-53E:@Weißt du, ich glaube ich fange an[BREAK]  dich zu mögen...[END]
 36-54:@Amore.[WAIT]@That's love.[END]
-36-54E:
+36-54E:@Amore.[WAIT]@Das ist Liebe.[END]
 36-55:@Love.[WAIT]@That's amore.[END]
-36-55E:
+36-55E:@Liebe.[WAIT]@Das ist Amore.[END]
 36-56:@We're trying to be lovey-dovey.[WAIT]@Please don't bother us.[END]
-36-56E:
+36-56E:@Wir versuchen Verliebte zu spielen.[WAIT]@Bitte stör uns nicht.[END]
 36-57:@Why don't you go get some love, too?[END]
-36-57E:
+36-57E:@Warum gehst du nicht auch Liebe holen?[END]
 36-58:@That couple on the other bench has been really[BREAK]  lovey-lovey-dovey-dovey for a while now...[WAIT]  ...but they just won't leave.[WAIT]@I wonder what their deal is.[END]
-36-58E:
+36-58E:@Diese Paare auf der anderen Bank has been really[BREAK]  lovey-lovey-dovey-dovey for a while now...[WAIT]  ...aber sie wolle einfach nicht gehen.[WAIT]@Ich frage mich, was dort los ist.[END]
 36-59:@That woman over there...[WAIT]@She keeps looking this way...[WAIT]@I wonder if she likes me.[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-59E:
+36-59E:@Diese Frau da drüben...[WAIT]@Sie schaut die ganze Zeit hierher...[WAIT]@Ich frage mich, ob sie mich mag.[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 36-60:@That man over there...[WAIT]@He keeps looking this way...[WAIT]@I wonder if he likes me.[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-60E:
+36-60E:@Dieser Mann da drüben...[WAIT]@Er schaut die ganze Zeit hierher...[WAIT]@Ich frage mich, ob er mich mag.[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 36-61:@This suit-shaped swimsuit's pretty sweet,[BREAK]  huh?[END]
-36-61E:
+36-61E:@Dieser anzugs-förmiger Badeanzug ist ziemlich[BREAK]  cool, nicht wahr?[END]
 36-62:@Oink.[WAIT]  (When I just lie here like this...[WAIT]  I can forget about all the bad things in life...)[END]
-36-62E:
+36-62E:@Gruns.[WAIT]  (Wenn ich mich hier einfach hinlege...[WAIT]  Kann ich alle Sorgen im Leben vergessen...)[END]
 36-63:@NOTICE![WAIT]@Beware of snakes.[WAIT]@Please refrain from practicing comedy routines[BREAK]  in this area.[WAIT]@Greetings, lumber people.[END]
-36-63E:
+36-63E:@HINWEIS![WAIT]@Vorsicht vor Schlangen.[WAIT]@Bitte unterlasst das Üben von Comedy-Szenen[BREAK]  an diesem Ort.[WAIT]@Grüße, die Holzfäller.[END]
 36-64:@No drinking! No swimming![WAIT]@No swimming! No drinking![WAIT]@And swimming while hallucinating is absolutely[BREAK]  out of the question![END]
-36-64E:
+36-64E:@Trinken verboten! Schwimmen verboten![WAIT]@Schwimmen verboten! Trinken verboten![WAIT]@Und schwimmen, während Halluzinieren ist[BREAK]  völlig außer Frage![END]
 36-65:@Nice scenery.[WAIT]@How about some nice love?[WAIT]@Please call me anytime.[END]
-36-65E:
+36-65E:@Schöne Aussicht.[WAIT]@Wie wärs mit schöner Liebe?[WAIT]@Bitte ruf mich jederzeit an.[END]
 36-66:@There's something across the sea...[WAIT]@Do you ever wonder about such things?[WAIT]@Please call me anytime.[END]
-36-66E:
+36-66E:@Da ist etwas jenseits des Meeres...[WAIT]@Wunderst du dich über solche Sachen?[WAIT]@Bitte ruf mich jederzeit an.[END]
 36-67:@That woman over there...[WAIT]@She still keeps looking this way...[WAIT]@And she was looking at me at Club Titiboo,[BREAK]  too.[WAIT]@I guess she must like me, huh?[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-67E:
+36-67E:@Diese Frau da drüben...[WAIT]@Sie schaut die ganze Zeit hierher...[WAIT]@Und sie hat mich im Club Titiboo angeschaut.[WAIT]@Dann muss sie mich wohl mögen, oder?[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 // Repeats: 36-67, 36-72
 36-68:@That man over there...[WAIT]@He still keeps looking this way...[WAIT]@And he was looking at me at Club Titiboo, too.[WAIT]@I guess he must like me, huh?[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-68E:
+36-68E:@Dieser Mann da drüben...[WAIT]@Er schaut die ganze Zeit hierher...[WAIT]@Und er hat mich im Club Titiboo angeschaut.[WAIT]@Dann muss er mich wohl mögen, oder?[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 // Repeats: 36-68, 36-73
 36-69:@Oink.[WAIT]  (While I just layed here like this...[WAIT]  I managed to forget all the bad things in life...[WAIT]  But now the good things start to seem even[BREAK]  worse now...[WAIT]  *sizzle* *sizzle*)[END]
 36-69E:
@@ -3450,10 +3450,10 @@
 36-71:@There's a legend about mermaids.[WAIT]@I've heard a little bit about it.[WAIT]@The legend says that mermaids use the power[BREAK]  of love to rescue people who're drowning.[WAIT]@Isn't that such a lovely story?[END]
 36-71E:
 36-72:@That woman over there...[WAIT]@She still keeps looking this way...[WAIT]@And she was looking at me at Club Titiboo,[BREAK]  too.[WAIT]@I guess she must like me, huh?[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-72E:
+36-72E:@Diese Frau da drüben...[WAIT]@Sie schaut die ganze Zeit hierher...[WAIT]@Und sie hat mich im Club Titiboo angeschaut.[WAIT]@Dann muss sie mich wohl mögen, oder?[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 // Repeats: 36-67, 36-72
 36-73:@That man over there...[WAIT]@He still keeps looking this way...[WAIT]@And he was looking at me at Club Titiboo, too.[WAIT]@I guess he must like me, huh?[WAIT]@Oh, I'm so nervous.[BREAK]  *thump* *thump*[END]
-36-73E:
+36-73E:@Dieser Mann da drüben...[WAIT]@Er schaut die ganze Zeit hierher...[WAIT]@Und er hat mich im Club Titiboo angeschaut.[WAIT]@Dann muss er mich wohl mögen, oder?[WAIT]@Oh, ich bin so nervös.[BREAK]  *poch* *poch*[END]
 // Repeats: 36-68, 36-73
 36-74:@Oh, [LUCAS 23 02 00].[WAIT]@You should take a break here once in a while.[WAIT]@A little nap in the sun'll really revitalize you.[WAIT]@Will you take a break?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 36-74E:
@@ -3689,9 +3689,9 @@
 38-33:@Show courtesy to Mr. Fassad.[WAIT]@There are many ignorant people who complain[BREAK]  about him.[WAIT]@I think that is a very bad thing to do.[WAIT]@"Tazmily is nothing without Mr. Fassad."[WAIT]  Please take this to heart.[BREAK]                            (Isaac)[END]
 38-33E:@Zeigt Herrn Fassad Verbindlichkeit.[WAIT]@Es gibt viele ignorante Menschen, die sich über[BREAK]  ihn beschweren.[WAIT]@Ich glaube, das ist eine sehr schlechte Sache.[WAIT]@"Tazmily ist nichts ohne Herrn Fassad."[WAIT]  Bitte nehmt das zu Herzen.[BREAK]                            (Isaac)[END]
 38-34:@"Titiboo News"[WAIT]@DCMC to debut a new song soon?![WAIT]  Desperado! [PAUSE 10 00](Reckless!)[WAIT]  Crash! [PAUSE 10 00](Powerful!)[WAIT]  Mambo! [PAUSE 10 00](Sensational!)[WAIT]  Combo! [PAUSE 10 00](Guys!)[WAIT]@No one can stop the DCMC's momentum now![END]
-38-34E:@"Titiboo Neuigkeiten"[WAIT]@Gibt es bei DCMC bald ein Debut?![WAIT]  Desperado! [PAUSE 10 00](Rücksichtslos!)[WAIT]  Crash! [PAUSE 10 00](Stark!)[WAIT]  Mambo! [PAUSE 10 00](Sensational!)[WAIT]  Combo! [PAUSE 10 00](Kerle!)[WAIT]@Niemand kann jetzt noch DCMC aufhalten![END]
+38-34E:@"Titiboo Neuigkeiten"[WAIT]@Gitbe es bei DCMC bald ein Debut?![WAIT]  Desperado! [PAUSE 10 00](Rücksichtslos!)[WAIT]  Crash! [PAUSE 10 00](Stark!)[WAIT]  Mambo! [PAUSE 10 00](Sensational!)[WAIT]  Combo! [PAUSE 10 00](Kerle!)[WAIT]@Niemand kann jetzt noch DCMC aufhalten![END]
 38-35:@Pigmasks Wanted![WAIT]@What do you say?[WAIT]@Join the Pigmasks and enjoy life in the big city![END]
-38-35E:@Schweinemasken gesucht![WAIT]@Was sagst du?[WAIT]@Trete den Schweinemasken bei und genieße[BREAK]  das Leben in der Großstadt![END]
+38-35E:@Schweinemasken gesucht![WAIT]@Was sagst du?[WAIT]@Trete den Schweinemasken bei und genieße[BREAK]  das Leben in der Großstadt[END]
 38-36:@C'mon, now, Jackie. Get real.[WAIT]@It can't possibly be him.[END]
 38-36E:@Komm schon, Jackie. Hör auf zu träumen.[WAIT]@Er kann das gar nicht sein.[END]
 38-37:@But just think about it.[WAIT]@No one's seen hide nor hair of [DUSTER 23 03 00][BREAK]  since he disappeared three years ago.[WAIT]@It's gotta be him.[END]
