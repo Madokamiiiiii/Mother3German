@@ -3569,7 +3569,7 @@
 37-14E:@Was für eine gigantische Person.[WAIT]@Haaaaaaalooo, da oben![WAIT]@Oh! Er hat gelächelt![END]
 // Repeats: 9-14, 37-14
 37-15:@This is Cross Road's bell tower.[END]
-37-15E:@Der Krreuzungsglockenturm.[END]
+37-15E:@Der Kreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
 37-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 37-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  Spielsprache anstatt Vergleichen.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts. gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Zur Zeit kannst du das Steuerkreuz benutzen[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Indem du dann den [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, wählst[BREAK]  du die Menüoption aus,[WAIT]  du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und den[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du dann weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00][BREAK]  und die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Knöpfe![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -3695,27 +3695,27 @@
 38-36:@C'mon, now, Jackie. Get real.[WAIT]@It can't possibly be him.[END]
 38-36E:@Komm schon, Jackie. Hör auf zu träumen.[WAIT]@Er kann das gar nicht sein.[END]
 38-37:@But just think about it.[WAIT]@No one's seen hide nor hair of [DUSTER 23 03 00][BREAK]  since he disappeared three years ago.[WAIT]@It's gotta be him.[END]
-38-37E:
+38-37E:@Denk doch mal drüber nach.[WAIT]@Keiner hat die geringste Spur von [DUSTER 23 03 00], seit er vor drei Jahren verschwunden ist.[WAIT]@Er muss es sein.[END]
 38-38:@C'mon, now. That's nonsense![END]
-38-38E:
+38-38E:@Jetzt komm schon. Das ist doch Schwachsinn![END]
 38-39:@Oh.[WAIT]@Hey there, [LUCAS 23 02 00].[END]
-38-39E:
+38-39E:@Oh.[WAIT]@Guten Tag, [LUCAS 23 02 00].[END]
 38-40:@Hmm?[BREAK]@Oh, it's nothing.[WAIT]@There's this concert hall named Club Titiboo[BREAK]  past the factory,[WAIT]  and the bass player there looks kinda like[BREAK]  [DUSTER 23 03 00].[END]
-38-40E:
+38-40E:@Hmm?[BREAK]@Oh, gar nichts.[WAIT]@Da gibt es doch diese Konzerthalle namens[BREAK]  Club Titiboo hinter der Fabrik,[WAIT]  und der Bassist sieht in etwa so aus wie[BREAK]  [DUSTER 23 03 00].[END]
 38-41:@Jackie here is convinced he's [DUSTER 23 03 00].[END]
-38-41E:
+38-41E:@Jackie ist überzeugt, er ist [DUSTER 23 03 00].[END]
 38-42:@But he looks JUST like him...![WAIT]@I really think we should tell old man Wess.[END]
-38-42E:
+38-42E:@Aber er sieht GENAUSO aus wie er...![WAIT]@Ich glaube wirklich, wir sollten das dem alten[BREAK]  Mann Wess erzählen.[END]
 38-43:@Maybe if we knew for sure,[WAIT]  but we'd only wind up disappointing Wess if it[BREAK]  turns out we're wrong.[WAIT]@The guy we saw just happens to look a lot like[BREAK]  [DUSTER 23 03 00].[WAIT]@We don't know any more than that.[WAIT]@Period.[END]
-38-43E:
+38-43E:@Vielleicht wernn wir es sicher wüssten,[WAIT]  aber wir würden nur Wess enttäuschen, wenn[BREAK]  sich herausstellt, dass wir falsch liegen.[WAIT]@Der Kerl sieht einfach nur in vielerlei Hinsicht[BREAK]  genauso aus wie [DUSTER 23 03 00].[WAIT]@Mehr wissen wir nicht.[WAIT]@Punkt.[END]
 38-44:@Anyways, time to head home and have some[BREAK]  chow while I watch the Happy Box.[END]
-38-44E:
+38-44E:@Egal, Zeit nach Hause zu gehen und etwas zu[BREAK]  mampfen, während ich Glücklichkeit schaue.[END]
 38-45:@You took the words right out of my mouth![WAIT]@I'm starving, too![END]
-38-45E:
+38-45E:@Genau das wollte ich auch gerade sagen![WAIT]@Ich verhungere schon![END]
 38-46:@Well, see ya, [LUCAS 23 02 00].[WAIT]@Tell [FLINT 23 01 00] I say hi.[END]
-38-46E:
+38-46E:@Also, wir sehen uns, [LUCAS 23 02 00].[WAIT]@Grüß [FLINT 23 01 00] von mir.[END]
 38-47:@The train won't be coming for a while.[END]
-38-47E:
+38-47E:@Der Zug wird eine Weile fort sein.[END]
 // Repeats: 38-47, 47-13
 38-48:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
 38-48E:@Süden: Tazmily[BREAK]@Westen: Sonnenscheinwald[WAIT]@Norden: Sonnenaufgangsfriedhof[END]
@@ -3724,25 +3724,25 @@
 38-49E:@Sonnenaufgangsfriedhof[BREAK]  "Gräber haben nie so malerisch ausgesehen"[WAIT]@KEINE ZOMBIES ERLAUBT[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 38-50:@This is the train schedule.[END]
-38-50E:
+38-50E:@Das ist der Fahrplan.[END]
 38-51:@These flowers are well taken care of.[END]
-38-51E:
+38-51E:@Diese Blumen werden gut gepflegt.[END]
 38-52:@I'm a police officer, yeah![WAIT]@I'm going to Club Titiboo to check out a DCMC[BREAK]  concert.[WAIT]@I wish work would end already...[END]
-38-52E:
+38-52E:@Ich bin ein Polizist, yeah![WAIT]@Ich werde zu Club Titiboo gehen um ein DCMC[BREAK]  Konzert auszuchecken.[WAIT]@Ich wünschte die Arbeit, würde endlich enden...[END]
 38-53:@Club Titiboo was closed down...[WAIT]@Now what do I have to live my life for?[WAIT]@Maybe I should head to New Pork or[BREAK]  something...[END]
-38-53E:
+38-53E:@Club Titiboo hat dichtgemacht...[WAIT]@Wofür lebe ich jetzt eigentlich noch?[WAIT]@Hach, vielleicht sollte ich nach[BREAK]  New Pork ziehen...[END]
 38-54:@You're [LUCAS 23 02 00], right?[WAIT]@I've heard rumors that you're a crybaby...[WAIT]@You don't look like it to me, though.[END]
-38-54E:
+38-54E:@Du bist [LUCAS 23 02 00], richtig?[WAIT]@Ich habe gehört, du wärst eine Heulsuse...[WAIT]@Du siehst mir aber nicht nach einem aus.[END]
 38-55:@Hold it![END]
-38-55E:
+38-55E:@Warte![END]
 38-56:@That's dangerous![BREAK]@What the heck are you thinking?![END]
-38-56E:
+38-56E:@Das ist gefährlich![BREAK]@Was zum Kuckuck denkst du dir?![END]
 38-57:@I dunno what your story is, but you're still[BREAK]  young! Don't just throw away your life![WAIT]@Okay?![WAIT]@Alright, then. Now that you understand, go on![WAIT]@And just forget about me.[WAIT]@See ya.[END]
-38-57E:
+38-57E:@Ich kenne deine Geschichte nicht, aber du bist[BREAK]  noch jung! Wirf nicht einfach dein Leben weg![WAIT]@Okay?![WAIT]@Alles klar, jetzt wo du's verstanden hast,[BREAK]  fahre fort![WAIT]@Und vergiss mich einfach.[WAIT]@Bis dann.[END]
 38-58:@Your life was saved.[END]
-38-58E:
+38-58E:@Dein Leben wurde gerettet.[END]
 38-59:@You again?![WAIT]@How many times do I have to say it?![WAIT]  You're young! Don't be throwing your life[BREAK]  away![END]
-38-59E:
+38-59E:@Du schon wieder?![WAIT]@Wie oft soll ich es dir denn noch sagen?![WAIT]  Du bist jung! Wirf nicht dein Leben weg![END]
 38-60:@Youthful impatience, huh?[WAIT]  I dunno what your deal is, but you should apply[BREAK]  that to art or something more constructive![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
 38-60E:
 38-61:@Hold it! Hold it![END]
@@ -4168,7 +4168,7 @@
 47-12:@Factory![PAUSE 10 00] Factory![PAUSE 20 00][BREAK]@Thank you for riding with us today![END]
 47-12E:
 47-13:@The train won't be coming for a while.[END]
-47-13E:
+47-13E:@Der Zug wird eine Weile fort sein.[END]
 // Repeats: 38-47, 47-13
 47-14:@Trains are much less exhausting than walking,[BREAK]  and they're so inexpensive and inviting![WAIT]@They're so cheap, they're practically free![BREAK]  A mere 50 DP![WAIT]  Will you ride one?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-14E:

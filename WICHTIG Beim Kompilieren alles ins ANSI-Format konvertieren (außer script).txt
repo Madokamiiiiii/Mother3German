@@ -1,0 +1,1 @@
+WICHTIG Beim Kompilieren alles ins ANSI-Format konvertieren (auﬂer script)
