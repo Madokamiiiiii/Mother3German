@@ -453,7 +453,7 @@ org $804F56C; db $32,$F6
 //org $8053D8C; db $09
 
 // Disable L and R alphabet switching
-org $803E79F; db $E0
+ org $803E79F; db $E0
 
 // Enable L and R alphabet switching on the factory screen
 //org $804DD16; db $0E // L
@@ -780,17 +780,17 @@ org $802269C; bl main_script_hacks.set_specialmenuflag
 //============================================================================================
 
 // re-center various menu labels using these new x-coordinates
-org $80C20E8; db $BF         // Goods
-org $80C20EA; db $C1         // Equip
-org $80C20EC; db $C5         // PSI
-org $80C20EE; db $BE         // Status
-org $80C20F0; db $C1         // Sleep
+org $80C20E8; db $B1         // Goods
+org $80C20EA; db $B1         // Equip
+org $80C20EC; db $B1         // PSI
+org $80C20EE; db $B1        // Status
+org $80C20F0; db $B1         // Sleep
 
 // centers all the Sleep Mode confirm text better
-org $8038578; db $55
-org $803858C; db $91
-org $80C20D8; db $43
-org $80C20DC; db $7F
+//org $8038578; db $55
+//org $803858C; db $91
+//org $80C20D8; db $43
+//org $80C20DC; db $7F
 
 // move the names in outside nameboxes up 1 pixel to look nicer
 org $8038B1A; add r2,r5,#3
@@ -1001,6 +1001,14 @@ org $9F92000; incbin gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
 org $9F86120; incbin gfx_starsprite.bin
+
+//Bonus-Grafik
+org $80D50A00; incbin gfx_trans_keep_out_[c].bin
+org $9B9D808; dd $0E951A2
+org $8D08666; incbin gfx_battle_[c].bin
+org $8E2B95C; incbin gfx_check1_[c].bin
+org $8E2BB1C; incbin gfx_check2_[c].bin
+org $8DB555C; incbin gfx_debugroom_[c].bin
 
 //============================================================================================
 //                                    SOUND HACKS
