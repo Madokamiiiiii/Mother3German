@@ -1,67 +1,67 @@
 // Enemy descriptions can be any length
 
 00:[END]
-00-E: 
+00-E:[END]
 
 01:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
-01-E: 
+01-E:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
 
 02:[BREAK][BREAK]Someone has modified this[BREAK]gentle reindeer to make it[BREAK]aggressive.[END]
-02-E: 
+02-E:[BREAK][BREAK]Irgendjemand hat dieses[BREAK]zarte Rentier verändert um es[BREAK]aggressiv zu machen.[END]
 
 03:[BREAK]The ghost of a musician[BREAK]who died before finishing[BREAK]his symphony. Beware of[BREAK]his captivating melodies.[END]
-03-E: 
+03-E:[BREAK]Der Geist eines Musikers,[BREAK]der vor Beendigung seiner[BREAK]Symphonie starb. Hüte dich[BREAK] vor seinen fesselnden Melodien.[END]
 
 04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
-04-E: 
+04-E:Eine riesige Schlange, die[BREAK]im Keller von Osohe herrscht. Unterbrich seinen[BREAK]Schlaf und es wird dich mit einer[BREAK]Flutwelle verabschieden.[END]
 
 05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
-05-E: 
+05-E:[BREAK][BREAK]Ein Klumpen Lehm, der zum leben[BREAK] erwacht ist. Es arbeitet so[BREAK] hart wie er traurig aussieht.[END]
 
 06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
-06-E: 
+06-E:[BREAK]Diese bösartige, mechanisierte[BREAK] Monströsität war einmal[BREAK] ein freundliches Tier bekannt als Drago.[END]
 
 07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
-07-E: 
+07-E:[BREAK]Diese Schweinemaskenwaffe[BREAK] macht ein ohrenzerreissenden[BREAK] Lärm und stößt[BREAK] erbarmungslos schwarze Abgase aus.[END]
 
 08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
-08-E: 
+08-E:[BREAK]Der Generatorroboter des[BREAK] Gewitterturms. Es benutzt[BREAK] paralysierende Hiebattacken[BREAK] als würde er sagen wollen "Nimm das!"[END]
 
 09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
-09-E: 
+09-E:[BREAK]Freund oder Feind? Sogar getreten[BREAK] und ohne Geld,[BREAK]bleibt dieser Nachahmerkäfer[BREAK] optimistisch.[END]
 
 0A:[END]
-0A-E: 
+0A-E:[END]
 
 0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
-0B-E: 
+0B-E:[BREAK]Nein, das ist kein Zahnpasta-[BREAK]Maskottchen. Dieser Kerl weiß[BREAK] wahrscheinlich noch[BREAK] nicht einmal selbst, was es ist.[END]
 
 0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
-0C-E: 
+0C-E:[BREAK]Glaub es oder nicht, das ist Pokey[BREAK]in Fleisch und Blut. Er[BREAK]ist zugleich ein alter Mann[BREAK] und ein junger Junge.[END]
 
 0D:[BREAK][BREAK]Based on a dream Porky[BREAK]once had. N.K. stands for[BREAK]<Natural Killer>.[END]
-0D-E: 
+0D-E:[BREAK][BREAK]Basiert auf einem Traum, den Pokey einmal hatte. N.K. steht für[BREAK]<Natürlicher Killer>.[END]
 
 0E:[BREAK]What expressions lie[BREAK]hidden behind his mask?[BREAK]...And more importantly,[BREAK]who is he?[END]
-0E-E: 
+0E-E:[BREAK]Welche Ausdrücke liegen[BREAK]versteckt hinter seiner Maske?[BREAK]...Und noch wichtiger,[BREAK]wer ist er?[END]
 
 0F:So fierce-looking he's[BREAK]afraid of his own[BREAK]reflection. Takes good[BREAK]care of his men and is a[BREAK]huge DCMC fan.[END]
-0F-E: 
+0F-E:So wild aussehend, dass[BREAK]er Angst vor sich[BREAK]selbst hat. Passt gut[BREAK]auf seine Männer auf und[BREAK]ist ein riesiger DCMC-Fan.[END]
 
 10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
-10-E: 
+10-E:[BREAK]Nach seiner Niederlage, hat[BREAK]sich dieser Soldat extremen[BREAK]Training unterzogen um[BREAK]sich stärker zu machen.[END]
 
 11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
-11-E: 
+11-E:[BREAK]Ein hölzerner Bass,[BREAK]dessen Zeit im Rampenlicht[BREAK]vorbei ist. Hält Neid[BREAK]gegenüber dem neuen Bass[BREAK]an seinem Platz.[END]
 
 12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
-12-E: 
+12-E:[BREAK]Pokey hatte einen Wutanfall[BREAK]und brachte Dr. Andonuts[BREAK]und die Mr. Saturns[BREAK]dazu eine Absolut Sichere[BREAK]Kapsel zu bauen.[END]
 
 13:[BREAK]These guys swarm down[BREAK]from the ceiling when they[BREAK]sense a person's body[BREAK]heat.[END]
-13-E: 
+13-E:[BREAK]Diese Kerle kommen in[BREAK]Schwärmen von der Decke,[BREAK]wenn sie die Körperwärme[BREAK]einer Person spüren.[END]
 
 14:[END]
-14-E: 
+14-E:[END]
 
 15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
 15-E: 

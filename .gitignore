@@ -1,1 +1,26 @@
 *.exe
+*.bat
+*.jpg
+*.dll
+*.gba
+*.pal
+*.spr
+*.nlz
+*.sav
+*.ss1
+*.ss2
+*.ss3
+*.ss4
+*.ss5
+*.ss6
+*.ss7
+*.ss8
+*.ss9
+/DO NOT TOUCH (Backup)
+/Medusa
+/MGBA
+/mGBA-0.5.2-2016-12-31-win32
+/TileMolester 0.19
+/VBA
+mother3_linux
+*.ups

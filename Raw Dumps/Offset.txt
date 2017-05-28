@@ -1,0 +1,45 @@
+DebugRoom: Offset: db555c Sizenorm:0x234  Size: 0x224
+Bazaar1: Offset: dd2260
+Bazaar2: Offset: dd1ecc
+Office: Offset: dd5d60
+sheriff: Offset: dd6054
+Charge: Offset: e2539c
+check1: Offset: e2b95c Sizenorm: 0x1c0 Size: 0x1ac
+check2: Offset: e2bb1c Sizenorm: 0x19c Size: 0x198
+saloon: Offset: e35af8
+sheriff2: Offset: e3e9f4
+forest: Offset: e3f6a0
+charge2: Offset: e748d0
+pork: Offset: e7cd3c
+new: Offset: e8ecec
+charge3: Offset: eec604
+end1: Offset: eede28
+end2: Offset: eee358
+welcome: Offset: f0d480
+pokeypark: Offset: f15360
+theater: Offset: f17844
+porky: Offset: f1ea7c
+porky2: Offset: f1ee10
+? Offset: 1b07580
+guest: Offset: 1b90140
+updown: Offset: 1b9d564
+battle: Offset: 1b9d808 Sizenorm: 0x150  Size: 0x16c
+warning: Offset: 1c8deb4
+chapternames: Offset: 1f90000
+
+2704
+
+
+DP: 01AF4A00
+
+
+Compressed?: beginnt ab f92fdc-1b01910 / Image 2438-4219
+Compressed2? 1e49cac / Image: 4489
+
+
+
+
+
+
+
+
