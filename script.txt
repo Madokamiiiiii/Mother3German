@@ -3744,77 +3744,77 @@
 38-59:@You again?![WAIT]@How many times do I have to say it?![WAIT]  You're young! Don't be throwing your life[BREAK]  away![END]
 38-59E:@Du schon wieder?![WAIT]@Wie oft soll ich es dir denn noch sagen?![WAIT]  Du bist jung! Wirf nicht dein Leben weg![END]
 38-60:@Youthful impatience, huh?[WAIT]  I dunno what your deal is, but you should apply[BREAK]  that to art or something more constructive![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
-38-60E:
+38-60E:@Hach, die jugendliche Ungeduld?[WAIT]  Keine Ahnung, was für Gründe du hast, aber du solltest das für Kunst oder etwas konstruktiveres verwenden![WAIT]@Sieh mich an! Ich bin selbst ein beschäftigter Kerl![WAIT]@Also hör auf mir Arbeit zu geben![WAIT]@Bis dann![END]
 38-61:@Hold it! Hold it![END]
-38-61E:
+38-61E:@Warte! WARTE![END]
 // Repeats: 38-61, 884-3
 38-62:@I figured it was you again![WAIT]@Please, just give it a rest already![WAIT]@This is almost like a comedy routine at this[BREAK]  point![WAIT]@Listen. Go back home.[WAIT]@And then stay there quietly.[WAIT]@Forget all about this tunnel.[END]
-38-62E:
+38-62E:@Du schon wieder![WAIT]@Bitte, mach doch mal eine Pause![WAIT]@Es fängt langsam an wie eine Comedy-Nummer[BREAK]  zu wirken![WAIT]@Hör zu. Geh nach Hause.[WAIT]@Und dann bleib dort auch.[WAIT]@Und vergiss alles über diesen Tunnel.[END]
 38-63:@Whoa, now![END]
-38-63E:
+38-63E:@Jetzt mach aber mal langsam![END]
 38-64:@[PAUSE 5A 00]I was keeping an eye out for you.[WAIT]@I thought you might show up...[PAUSE 18 00] and you did.[WAIT]@C'mon, just go on home now. [PAUSE 5A 00]Please?[END]
-38-64E:
+38-64E:@[PAUSE 5A 00]Ich habe ein Auge auf dich geworfen.[WAIT]@Ich habe mir schon gedacht, du würdest hier[BREAK]  vielleicht aufkreuzen...[PAUSE 18 00] und das bist du auch.[WAIT]@Komm schon, geh einfach nach Hause. [PAUSE 5A 00]Bitte?[END]
 38-65:@Hold it! Don't you ever listen?![END]
-38-65E:
+38-65E:@Warte! Hörst du mir überhaupt zu?![END]
 38-66:@You're teasing me, aren't you?[WAIT]@You're not mocking me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just go on home now. [PAUSE 5A 00]Please?[END]
-38-66E:
+38-66E:@Du willst mich veräppeln, oder?[WAIT]@You're not mocking me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Ok, das wird das letzte Mal sein.[WAIT]@Ich werde dich von nun an nicht mehr[BREAK]  aufhalten.[WAIT]@Das nächste Mal werde ich dich aufhalten.[WAIT]@Aber geh jetzt nach Hause. [PAUSE 5A 00]Bitte?[END]
 38-67:[SOUND 03 00]@......[END]
-38-67E:
+38-67E:[SOUND 03 00]@......[END]
 38-68:[SOUND 03 00]@......[WAIT]@......[END]
-38-68E:
+38-68E:[SOUND 03 00]@......[WAIT]@......[END]
 38-69:@Wait wait wait WAIT![END]
-38-69E:
+38-69E:@Warte warte warte WARTE![END]
 38-70:@Thanks for waiting.[END]
-38-70E:
+38-70E:@Danke für's Warten.[END]
 38-71:@I dunno what reasons you got, but it looks like[BREAK]  you wanna go through this tunnel, right?[WAIT]@I know you won't listen to me if I try and stop[BREAK]  you, so here, I'll give you this instead.[END]
-38-71E:
+38-71E:@Keine Ahnung wieso, aber es sieht so aus, als[BREAK]  würdest du durch diesen Tunnel gehen wollen,[WAIT]  richtig?[WAIT]@Ich weiß, dass du mir nicht zuhören würdest,[BREAK]  wenn ich versuchen würde dich zu stoppen,[WAIT]  also gebe ich dir stattdessen das hier.[END]
 38-72:@Got a [ITEM D6 00]![END]
-38-72E:
+38-72E:@[ITEM D6 00] erhalten![END]
 38-73:@Do you know what the most frightening things[BREAK]  inside the tunnel are?[WAIT]@Nope, they're not Slitherhens or Muttshrooms[BREAK]  or anything like that.[WAIT]@The answer is...[PAUSE 20 00] trains.[WAIT]@Trains are the most dangerous things of all in[BREAK]  there.[WAIT]@So be very[PAUSE 10 00] careful not to get hit by any.[END]
-38-73E:
+38-73E:@Weißt du, was die furchterregendsten Dinge[BREAK]  im Tunnel sind?[WAIT]@Nee, es sind keine Schlitterhennen oder[BREAK]  Dusselpilze od er ähnliches.[WAIT]@Die Antwort ist...[PAUSE 20 00] Züge.[WAIT]@Züge sind das allergefährlichste im gesamten[BREAK]  Tunnel.[WAIT]@Also sei sehr[PAUSE 10 00] vorsichtig nicht von einem[BREAK]  getroffen zu werden.[END]
 38-74:@I warned you. I really did.[WAIT]@Squished-Flat Train Man.[WAIT]  ...You don't want people calling you that, do[BREAK]  you?[END]
-38-74E:
+38-74E:@Ich habe dich gewarnt.[WAIT]@Pfannkuchendünner Zugmann.[WAIT]  ...So willst du doch nicht genannt werden,[BREAK]  oder?[END]
 // reference to densha otoko/train man
 38-75:@Even your doggie here'd be sad to find out his[BREAK]  master's called the "Squished-Flat Train Man".[END]
-38-75E:
+38-75E:@Sogar dein Hündchen würde sich schämen,[BREAK]  wenn sein Herrchen "Pfannkuchendünner[WAIT]  Zugmann" genannt werden würde.[END]
 38-76:@Hey, doggie...[WAIT]  ......[WAIT]  Zake![WAIT]  No! I mean, shake![WAIT]  Whoa, what's gotten into me?[WAIT]  How could I mess up such a short word?[BREAK]  It's only five letters long, too...[END]
-38-76E:
+38-76E:@Hey, Hündchen...[WAIT]  ......[WAIT]  Gib Kote![WAIT]  Nein! Ich meine, gib Pfote![WAIT]  Was ist in mich gefahren?[WAIT]  Wie konnte ich mich nur bei solch einem[BREAK]  kurzen Wort versprechen?[WAIT]  Es ist doch nur fünf Buchstaben lang...[END]
 38-77:@Well, anyways...[END]
-38-77E:
+38-77E:@Naja, wie auch immer...[END]
 38-78:@I'm busy, so I gotta go now.[WAIT]  Watch out for trains, you hear?[END]
-38-78E:
+38-78E:@Ich habe Arbeit zu erledigen, also geh' ich[BREAK]  jetzt mal.[WAIT]  Hüte dich vor den Zügen, hörst du?[END]
 38-79:@The train that goes directly to the factory[BREAK]  from this station is currently out.[WAIT]@But the conductor's out on the town, so I[BREAK]  don't think the train'll be coming back today.[WAIT]@If you REALLY want to go to the factory, then[BREAK]  I suggest walking along the train tracks.[WAIT]@Don't tell anyone I said that, though.[END]
-38-79E:
+38-79E:@Der Zug, der direkt zur Fabrik fährt, ist zur[BREAK]  Zeit unterwegs.[WAIT]@Aber der Schaffner ist zur Zeit im Dorf, also[BREAK]  glaube ich nicht, dass der Zug heute noch[WAIT]  zurückkommen wird.[WAIT]@Wenn du WIRKLICH zur Fabrik gehen willst,[BREAK]  empfehle ich dir den Gleisen zu folgen.[WAIT]@Sag aber niemanden, dass ich das gesagt habe.[END]
 38-80:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Factory Station[BREAK]  is 2500 DP per person.[WAIT]@Are you a factory worker?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-80E:
+38-80E:@Pro Person kostet die Fahrt für Fabrikarbeiter[BREAK]  50 DK.[WAIT]@Für alle anderen kostet ein Ticket zur Fabrik-[BREAK]  station 2500 DK pro Person.[WAIT]@Bist du ein Fabrikarbeiter?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-81:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Factory Station[BREAK]  is 2500 DP per person.[WAIT]@Are you factory workers?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-81E:
+38-81E:@Pro Person kostet die Fahrt für Fabrikarbeiter[BREAK]  50 DK.[WAIT]@Für alle anderen kostet ein Ticket zur Fabrik-[BREAK]  station 2500 DK pro Person.[WAIT]@Seid ihr Fabrikarbeiter?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-82:@You're lying, aren't you?[END]
-38-82E:
+38-82E:@Du lügst, richtig?[END]
 // Repeats: 38-82, 47-2
 38-83:@I don't believe you.[END]
-38-83E:
+38-83E:@Das glaube ich nicht.[END]
 // Repeats: 38-83, 47-3
 38-84:@Then one ticket will be 2500 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-84E:
+38-84E:@Ein Ticket macht dann 2500 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-84, 47-4
 38-85:@Then two tickets will be 5000 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-85E:
+38-85E:@Zwei Tickets machen dann 5000 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-85, 47-5
 38-86:@Then three tickets will be 7500 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-86E:
+38-86E:@Drei Tickets machen dann 7500 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-86, 47-6
 38-87:@Then four tickets will be 10,000 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-87E:
+38-87E:@Vier Tickets machen dann 10.000 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-87, 47-7
 38-88:@Alllll abooooard![END]
-38-88E:
+38-88E:@Alllllle Mann an Boooooord![END]
 // Repeats: 38-88, 47-8
 38-89:@Bzzzt![PAUSE 1E 00] Not enough money![END]
-38-89E:
+38-89E:@Bzzzt![PAUSE 1E 00] Nicht genug Geld![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 38-90:@Bzzzt![PAUSE 1E 00] Not enough money![END]
-38-90E:
+38-90E:@Bzzzt![PAUSE 1E 00] Nicht genug Geld![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 38-91:@Then I suggest you walk to the factory.[END]
 38-91E:
@@ -4137,31 +4137,31 @@
 47-1:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you factory workers?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-1E:
 47-2:@You're lying, aren't you?[END]
-47-2E:
+47-2E:@Du lügst, richtig?[END]
 // Repeats: 38-82, 47-2
 47-3:@I don't believe you.[END]
-47-3E:
+47-3E:@Das glaube ich nicht.[END]
 // Repeats: 38-83, 47-3
 47-4:@Then one ticket will be 2500 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-4E:
+47-4E:@Ein Ticket macht dann 2500 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-84, 47-4
 47-5:@Then two tickets will be 5000 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-5E:
+47-5E:@Zwei Tickets machen dann 5000 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-85, 47-5
 47-6:@Then three tickets will be 7500 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-6E:
+47-6E:@Drei Tickets machen dann 7500 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-86, 47-6
 47-7:@Then four tickets will be 10,000 DP.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-7E:
+47-7E:@Vier Tickets machen dann 10.000 DK.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-87, 47-7
 47-8:@Alllll abooooard![END]
-47-8E:
+47-8E:@Alllllle Mann an Boooooord![END]
 // Repeats: 38-88, 47-8
 47-9:@Bzzzt![PAUSE 1E 00] Not enough money![END]
-47-9E:
+47-9E:@Bzzzt![PAUSE 1E 00] Nicht genug Geld![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 47-10:@Bzzzt![PAUSE 1E 00] Not enough money![END]
-47-10E:
+47-10E:@Bzzzt![PAUSE 1E 00] Nicht genug Geld![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 47-11:@Then I suggest you walk to Tazmily.[END]
 47-11E:
@@ -4201,7 +4201,7 @@
 47-23E:
 // Repeats: 38-114, 47-23
 47-24:@Alllll abooooard![END]
-47-24E:
+47-24E:@Alllllle Mann an Boooooord![END]
 // Repeats: 38-115, 47-24
 47-25:@Oh, I see.[WAIT]@Every once in a while,[WAIT]  there are some idiot customers who go 'n[BREAK]  walk along the freakin' train tracks,[WAIT]  so perhaps that may be more to your liking,[BREAK]  if I may so humbly make a personal suggestion.[END]
 47-25E:
@@ -4236,7 +4236,7 @@
 47-39:@Youthful impatience, huh?[WAIT]  I dunno what yer deal is, but you should apply[BREAK]  that to sports or something more useful![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
 47-39E:
 47-40:@Hold it! Hold it![END]
-47-40E:
+47-40E:@Warte! WARTE![END]
 47-41:@I figured it was you again![WAIT]@Please, just give it a rest already![WAIT]@This is almost like a comic book at this point![WAIT]@Just behave yerself.[WAIT]@Forget all about this tunnel.[END]
 47-41E:
 47-42:@Whoa, whoa, whoa![END]
@@ -20282,7 +20282,7 @@
 884-2:@What in the world am I doing here?[WAIT]@I'm sorry for bothering you.[END]
 884-2E:
 884-3:@Hold it! Hold it![END]
-884-3E:
+884-3E:@Warte! WARTE![END]
 // Repeats: 38-61, 884-3
 884-4:@Oops. I tried to stop you out of instinct, the[BREAK]  instant I saw your face.[WAIT]@You're not in danger this time, though.[WAIT]@Are you here to see the concert?[BREAK]  I'm sure it'll be great.[END]
 884-4E:

@@ -1003,13 +1003,15 @@ org $9F92000; incbin gfx_monotoli_[c].bin
 org $9F86120; incbin gfx_starsprite.bin
 
 //Bonus-Grafik
-org $80D50A00; incbin gfx_trans_keep_out_[c].bin
-org $9B9D808; dd $0E951A2
-org $8D08666; incbin gfx_battle_[c].bin
+org $8D50A00; incbin gfx_trans_keep_out_[c].bin
+org $9B9D808; incbin gfx_battle_[c].bin
 org $8E2B95C; incbin gfx_check1_[c].bin
 org $8E2BB1C; incbin gfx_check2_[c].bin
 org $8DB555C; incbin gfx_debugroom_[c].bin
 
+//TEST
+//org $9C5F340; dd $0F56CDA
+//org $9C5F340; incbin testg.bin
 //============================================================================================
 //                                    SOUND HACKS
 //============================================================================================

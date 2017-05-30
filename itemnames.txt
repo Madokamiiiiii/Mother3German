@@ -19,7 +19,7 @@
 0008: Funny Stick
 0008-E: Komischer Stock
 0009: Vigor Stick
-0009-E: KrÃ¤ftiger Stock
+0009-E: Kräftiger Stock
 000A: Clever Stick
 000A-E: Cleverer Stock
 000B: Master Stick
@@ -45,7 +45,7 @@
 0015: Mystical Gloves
 0015-E: Mystische Handschuhe
 0016: Ordinary Shoes
-0016-E: GewÃ¶hnliche Schuhe
+0016-E: Gewöhnliche Schuhe
 0017: Durable Shoes
 0017-E: Haltbare Schuhe
 0018: Sharp Shoes
@@ -59,7 +59,7 @@
 001C: Rubber Boots
 001C-E: Gummistiefel
 001D: Barefoot Shoes
-001D-E: BarfuÃŸ-Schuhe
+001D-E: Barfuß-Schuhe
 001E: Non-Slip Shoes
 001E-E: Antirutsch-Schuhe
 001F: Handy Yo-Yo
@@ -67,13 +67,13 @@
 0020: Canine Weapon
 0020-E: Hunde-Waffe
 0021: DCMC Pamphlet
-0021-E: DCMC BroschÃ¼re
+0021-E: DCMC Broschüre
 0022: Fake Bat
-0022-E: Fake-SchlÃ¤ger
+0022-E: Fake-Schläger
 0023: Fake Frying Pan
 0023-E: Fake-Bratpfanne
 0024: Real Bat
-0024-E: Echter SchlÃ¤ger
+0024-E: Echter Schläger
 0025: Mini-Mini Charm
 0025-E: Mini-Mini Amulett
 0026: Flea Charm
@@ -111,11 +111,11 @@
 0036: Warm Sweater
 0036-E: Warmer Pullover
 0037: Goddess Bustier
-0037-E: GÃ¶ttinen-BH
+0037-E: Göttinen-BH
 0038: Awesome Cloak
 0038-E: Fantastischer Mantel
 0039: Manly Bandana
-0039-E: MÃ¤nliches Bandana
+0039-E: Mänliches Bandana
 003A: Chick Bandana
 003A-E: Schickes Bandana
 003B: Sparrow Bandana
@@ -125,19 +125,19 @@
 003D: Swallow Bandana
 003D-E: Schwalben-Bandana
 003E: Crow Bandana
-003E-E: KrÃ¤hen-Bandana
+003E-E: Krähen-Bandana
 003F: Kite Bandana
 003F-E: Kite-Bandana
 0040: Horus Bandana
 0040-E: Horus-Bandana
 0041: Ordinary Hat
-0041-E: GewÃ¶hnlicher Hut
+0041-E: Gewöhnlicher Hut
 0042: Cow Hat
 0042-E: Kuh-Hut
 0043: Alligator Hat
 0043-E: Alligator-Hut
 0044: Bear Hat
-0044-E: BÃ¤ren-Hut
+0044-E: Bären-Hut
 0045: Otter Hat
 0045-E: Otter-Hut
 0046: Scarlet Ribbon
@@ -151,7 +151,7 @@
 004A: Angel Ribbon
 004A-E: Engelsschleife
 004B: Goddess Ribbon
-004B-E: GÃ¶ttinnenschleife
+004B-E: Göttinnenschleife
 004C: DCMC Hat
 004C-E: DCMC Hut
 004D: Awesome Crown
@@ -171,7 +171,7 @@
 0054: Cancer Bracelet
 0054-E: Krebs-Armreif
 0055: Leo Bracelet
-0055-E: LÃ¶we-Armreif
+0055-E: Löwe-Armreif
 0056: Virgo Bracelet
 0056-E: Jungfrau-Armreif
 0057: Libra Bracelet
@@ -179,7 +179,7 @@
 0058: Scorpio Bracelet
 0058-E: Skorpion-Armreif
 0059: Sagittarius Bracelet
-0059-E: SchÃ¼tze-Armreif
+0059-E: Schütze-Armreif
 005A: DCMC Ring
 005A-E: DCMC-Ring
 005B: Awesome Ring
@@ -203,7 +203,7 @@
 0064: Innit Tea
 0064-E: Innit-Tee
 0065: Beef Jerky
-0065-E: DÃ¶rrfleisch
+0065-E: Dörrfleisch
 0066: Fresh Egg
 0066-E: Frisches Ei
 0067: Rotten Eclair
@@ -211,39 +211,39 @@
 0068: Rotten Bavarois
 0068-E: Verdorbene Creme
 0069: Peculiar Cheese
-0069-E: MerkwÃ¼rdiger KÃ¤se
+0069-E: Merkwürdiger Käse
 006A: Bag of Pork Chips
-006A-E: TÃ¼te Schweine-Chips
+006A-E: Tüte Schweine-Chips
 006B: Luxury Banana
-006B-E: LuxuriÃ¶se Banane
+006B-E: Luxuriöse Banane
 006C: Bread Roll
-006C-E: BrÃ¶tchen
+006C-E: Brötchen
 006D: Fizzy Soda
 006D-E: Spritzige Limonade
 006E: Big City Soda
-006E-E: GroÃŸstadt-Limonade
+006E-E: Großstadt-Limonade
 006F: Big City Cola
-006F-E: GroÃŸstadt-Cola
+006F-E: Großstadt-Cola
 0070: Big City Burger
-0070-E: GroÃŸstadt-Burger
+0070-E: Großstadt-Burger
 0071: Bag of Big City Fries
-0071-E: GroÃŸstadt-Pommes
+0071-E: Großstadt-Pommes
 0072: Doggy Biscuit
 0072-E: Hundekuchen
 0073: Doggy Jerky
-0073-E: Hunde-DÃ¶rrfleisch
+0073-E: Hunde-Dörrfleisch
 0074: White Croissant
-0074-E: WeiÃŸer Croissant
+0074-E: Weißer Croissant
 0075: Cup of Pork Noodles
 0075-E: Napf Schweine-Nudeln
 0076: Pork Stew
 0076-E: Schweine-Suppe
 0077: Sincerity Dumplings
-0077-E: Aufrichtigkeits-KlÃ¶ÃŸe
+0077-E: Aufrichtigkeits-Klöße
 0078: Strawberry Tofu
 0078-E: Erdbeer-Tofu
 0079: Lucky Rice
-0079-E: GlÃ¼ckbringender Reis
+0079-E: Glückbringender Reis
 007A: Lotto Meal
 007A-E: Lotto-Mahlzeit
 007B: Jumbo Shrimp Soup
@@ -251,9 +251,9 @@
 007C: Giant Abalone Steak
 007C-E: Riesiges Seeohr-Steak
 007D: Double Jerky
-007D-E: Doppel-DÃ¶rrfleisch
+007D-E: Doppel-Dörrfleisch
 007E: Grilled Chicken
-007E-E: Gegrilltes HÃ¼hnchen
+007E-E: Gegrilltes Hühnchen
 007F: Grilled Fish
 007F-E: Gegrillter Fisch
 0080: Pasta with a Past
@@ -281,15 +281,15 @@
 008B: Antidote
 008B-E: Gegengift
 008C: Anti-Paralysis
-008C-E: Anti-LÃ¤hmung
+008C-E: Anti-Lähmung
 008D: Alarm Cicada
 008D-E: Alarm-Zikade
 008E: Fresh Mint
 008E-E: Frische Minze
 008F: Paper Fan
-008F-E: PapierfÃ¤cher
+008F-E: Papierfächer
 0090: Recollection Bell
-0090-E: RÃ¼ckbesinnungs-Glocke
+0090-E: Rückbesinnungs-Glocke
 0091: Eye Drops
 0091-E: Augentropfen
 0092: Flea Powder
@@ -319,7 +319,7 @@
 009E: Ancient Banana
 009E-E: Antike Banane
 009F: Doorknob
-009F-E: TÃ¼rknauf
+009F-E: Türknauf
 00A0: Bug Spray
 00A0-E: Insektenspray
 00A1: Saltwater Gun
@@ -341,7 +341,7 @@
 00A9: Silver Dragonfly
 00A9-E: Silberne Libelle
 00AA: Chick
-00AA-E: KÃ¼ken
+00AA-E: Küken
 00AB: Chicken
 00AB-E: Huhn
 00AC: Pickled Veggie Plate
@@ -355,7 +355,7 @@
 00B0: Dung
 00B0-E: Mist
 00B1: Dolphin Ossicle
-00B1-E: DelfinsgehÃ¶rknochen
+00B1-E: Delfinsgehörknochen
 00B2: Spiky Weapon
 00B2-E: Stachelige Waffe
 00B3: Knit Sweater
@@ -363,7 +363,7 @@
 00B4: DCMC Boxers
 00B4-E: DCMC Shorts
 00B5: Magic Pendant
-00B5-E: Magischer AnhÃ¤nger
+00B5-E: Magischer Anhänger
 00B6: Encouraging Words
 00B6-E: Ermutigende Worte
 00B7: Baked Yam
@@ -373,13 +373,13 @@
 00B9: Hermit Crab Shell
 00B9-E: Einsiedlerkrebsschale
 00BA: Suspicious Tea
-00BA-E: VerdÃ¤chtiger Tee
+00BA-E: Verdächtiger Tee
 00BB: Flame Pendant
-00BB-E: Flammen-AnhÃ¤nger
+00BB-E: Flammen-Anhänger
 00BC: Ice Pendant
-00BC-E: Eis-AnÃ¤nger
+00BC-E: Eis-Anänger
 00BD: Thunder Pendant
-00BD-E: Donner-AnhÃ¤nger
+00BD-E: Donner-Anhänger
 00BE: Courage Badge
 00BE-E: Tapferkeitsabzeichen
 00BF: Souvenir Dress
@@ -399,11 +399,11 @@
 00C6: Red Hat
 00C6-E: Roter Hut
 00C7: White Ribbon
-00C7-E: WeiÃŸe Schleife
+00C7-E: Weiße Schleife
 00C8: Bird
 00C8-E: Vogel
 00C9: Memory Snake
-00C9-E: GedÃ¤chtnisschlange
+00C9-E: Gedächtnisschlange
 00CA: Waters of Time
 00CA-E: Zeitwasser
 00CB: Stinkbug's Memory
@@ -431,7 +431,7 @@
 00D6: Wall Staples
 00D6-E: Wandklammer
 00D7: Siren Beetle
-00D7-E: SirenenkÃ¤fer
+00D7-E: Sirenenkäfer
 00D8: Smoke Bomb
 00D8-E: Rauchbombe
 00D9: Hypno-Pendulum
@@ -441,7 +441,7 @@
 00DB: Tickle Stick
 00DB-E: Kitzelstock
 00DC: Drawbridge Key
-00DC-E: ZugbrÃ¼ckenschlÃ¼ssel
+00DC-E: Zugbrückenschlüssel
 00DD: Noble Spittoon
 00DD-E: Nobler Spucknapf
 00DE: Pendant
@@ -461,11 +461,11 @@
 00E5: Rope Snake DX
 00E5-E: Deluxe-Seilschlange
 00E6: Transceiver
-00E6-E: SendeempfÃ¤nger
+00E6-E: Sendeempfänger
 00E7: Ticket
 00E7-E: Ticket
 00E8: Battle Memory
-00E8-E: KampfgedÃ¤chtnis
+00E8-E: Kampfgedächtnis
 00E9: Carrier Pigeon
 00E9-E: Brieftaube
 00EA: Razor and Lipstick
@@ -499,7 +499,7 @@
 00F8: Sea Floor Map
 00F8-E: Meeresbodenkarte
 00F9: Cave Map
-00F9-E: Karte der HÃ¶hle
+00F9-E: Karte der Höhle
 00FA: City Map
 00FA-E: Karte der Stadt
 00FB: Tower Sketch

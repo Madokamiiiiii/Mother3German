@@ -23,10 +23,10 @@ porky2: Offset: f1ee10
 ? Offset: 1b07580
 guest: Offset: 1b90140
 updown: Offset: 1b9d564
-battle: Offset: 1b9d808 Sizenorm: 0x150  Size: 0x16c
+battle: Offset: 1b9d808 Sizenorm: 0x150  Size: 0x150
 warning: Offset: 1c8deb4
 chapternames: Offset: 1f90000
-
+title screen: Offset: 1C5F340 Sizenorm: 0x46c
 2704
 
 
