@@ -125,8 +125,8 @@
       <value>
         <FormParams>
           <WindowLoc>
-            <X>182</X>
-            <Y>182</Y>
+            <X>156</X>
+            <Y>156</Y>
           </WindowLoc>
           <WindowSize>
             <Width>927</Width>
@@ -182,14 +182,14 @@
   </FormParams>
   <MainFormParams>
     <WindowLoc>
-      <X>797</X>
-      <Y>346</Y>
+      <X>-32000</X>
+      <Y>-32000</Y>
     </WindowLoc>
     <WindowSize>
-      <Width>325</Width>
-      <Height>512</Height>
+      <Width>160</Width>
+      <Height>39</Height>
     </WindowSize>
-    <WindowState>Normal</WindowState>
+    <WindowState>Minimized</WindowState>
   </MainFormParams>
   <GfxImportSettings>
     <GfxFormParams>

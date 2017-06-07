@@ -64,130 +64,130 @@
 14-E:[END]
 
 15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
-15-E: 
+15-E:[BREAK]Eine Statue zu Ehren Pokeys[BREAK]Großartigkeit. In seiner rechten Hand ist eine Steinschleuder und in seiner linken ist ein Comic.[END]
 
 16:[END]
-16-E: 
+16-E:[END]
 
 17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
-17-E: 
+17-E:[BREAK]Pass auf! Falle nicht auf die neue Fassade des Neuen Fassads herein! Er ist größer und böser als jemals zuvor![END]
 
 18:[END]
-18-E: 
+18-E:[END]
 
 19:[BREAK]This spirited musician[BREAK]can't control his tempo. In[BREAK]fact, his passion is just[BREAK]hitting a crescendo.[END]
-19-E: 
+19-E:[BREAK]Dieser geisterartige Musiker kann sein Tempo nicht kontrollieren. Tatsächlich trifft seine Leidenschaft gerade ein Crescendo.[END]
 
 1A:[BREAK]Takes good care of Blue[BREAK]Balding Eagle chicks and[BREAK]burns with maternal wrath[BREAK]at anyone who approaches.[END]
-1A-E: 
+1A-E:[BREAK]Passt gut auf die Blauen kahl-werdenden Adlerküken auf und greift jeden mit mütterlicher Wut an, der sich ihnen nähert.[END]
 
 1B:[END]
-1B-E: 
+1B-E:[END]
 
 1C:[END]
-1C-E: 
+1C-E:[END]
 
 1D:Miraculously enough,[BREAK]Fassad has attained an[BREAK]even more powerful form.[BREAK]He may look funny, but he[BREAK]means serious business.[END]
-1D-E: 
+1D-E:Wie durch ein Wunder hat Fassad eine noch stärkere Form erlangt. Er sieht vielleicht lustig aus, aber er meint es todernst.[END]
 
 1E:[END]
-1E-E: 
+1E-E:[END]
 
 1F:[END]
-1F-E: 
+1F-E:[END]
 
 20:[BREAK]A mysterious energy form[BREAK]that powerfully resonates[BREAK]with the vibrations of the[BREAK]last Needle.[END]
-20-E: 
+20-E:[BREAK]Eine mysteriöse Energieform, die stark mit den Schwingungen der letzten Nadel in Einklang ist.[END]
 
 21:[BREAK]This creature was[BREAK]combined with a leftover[BREAK]rocket from a failed space[BREAK]program.[END]
-21-E: 
+21-E:[BREAK]Diese Kreatur wurde mit der übriggebliebenen Rackete eines missglückten Weltraumprogramms kombiniert.[END]
 
 22:[BREAK]A robot programmed to[BREAK]terrorize Mr. Saturns with[BREAK]frightening words. Humans[BREAK]aren't scared, though.[END]
-22-E: 
+22-E:[BREAK]Ein Roboter, der darauf programmiert wurde, die Mr. Saturn mit angsteinflößenden Worten zu terrorisieren. Bei Menschen hat das aber keinen Effekt.[END]
 
 23:[BREAK]Stealing cheese, chewing[BREAK]power cords... This bad[BREAK]boy's done it all. Has a[BREAK]wife and seven kids.[END]
-23-E: 
+23-E:[BREAK]Käse klauen, an Kabeln knabbern... Dieser schlimme Finger hat alles getan. Hat eine Frau und sieben Kinder.[END]
 
 24:[BREAK]Lives off magma flowing[BREAK]from volcanos. Its blood[BREAK]reaches temperatures[BREAK]over 1500 degrees.[END]
-24-E: 
+24-E:[BREAK]Lebt von Magmaflüssen von Vulkanen. Sein Blut erreicht Temperaturen von über 1500 Grad.
 
 25:Lions are already scary[BREAK]enough as it is, but[BREAK]combine one with a mech[BREAK]and it becomes terrifyingly[BREAK]cool.[END]
-25-E: 
+25-E:Löwen sind bereits so wie sie sind beängstigend, aber wenn man ihn mit einem Mech kombiniert, wird er erschreckend cool.[END]
 
 26:[BREAK]This monster is a hybrid of[BREAK]a traffic barrier and a[BREAK]bloke-ade. What IS a[BREAK]bloke-ade, anyway?[END]
-26-E: 
+26-E:[BREAK]Dieses Monster ist ein Hybrid aus Verkehrssperre und Blocke-ade. Was IST eine Blocke-ade eigentlich?[END]
 
 27:[BREAK]A hurried, impetuous,[BREAK]restless mushroom that is[BREAK]also hasty, impatient, and[BREAK]completely frenzied.[END]
-27-E: 
+27-E:[BREAK]Ein eiliger, ungestümer, rastloser Pilz, der zudem voreilig, ungeduldig und völlig wild ist.[END]
 
 28:[BREAK]A strange sparrow-stick[BREAK]combination that also[BREAK]seems to have a bomb[BREAK]planted inside it.[END]
-28-E: 
+28-E:[BREAK]Ein eigenartiger Spatzstock-Kombination, die auch noch eine Bombe beinhaltet.[END]
 
 29:[BREAK]This unbalanced Chimera is[BREAK]half legendary giant fish,[BREAK]the <Master of the Sea>,[BREAK]and half plain ol' dog.[END]
-29-E: 
+29-E:[BREAK]Dieses unausgeglichene Chimera ist zur Hälfte ein legendärer Riesenfisch, der <Meister des Meeres>, und zur Hälfte ein gewöhnlicher Hund.[END]
 
 2A:[BREAK]A bat native to the[BREAK]Sunshine Forest. It loves[BREAK]ambiguity and tends to be[BREAK]wishy-washy.[END]
-2A-E: 
+2A-E:[BREAK]Eine Fledermaus, die im Sonnenscheinwald haust. Es liebt Zweideutigkeiten und tendiert dazu, labberig zu sein.[END]
 
 2B:[BREAK]This mouse squirrels away[BREAK]anything and everything,[BREAK]even burying its worries[BREAK]and responsibilities.[END]
-2B-E: 
+2B-E:[BREAK]Diese Maus packt alles und jeden weg, sogar seine Sorgen und Verantwortlichkeiten.[END]
 
 2C:[BREAK]This monster is a small[BREAK]bug fused with a cheap[BREAK]lighter. It's doomed to a[BREAK]one-time use.[END]
-2C-E: 
+2C-E:[BREAK]Dieses Monster ist ein kleiner Käfer fusioniert mit einem günstigen Feuerzeug. Es ist zu einem Einmalgebrauch verurteilt.[END]
 
 2D:Desperate to be embraced[BREAK]as sweet and delicious.[BREAK]Prefers to veg out[BREAK]underground as much as[BREAK]possible.[END]
-2D-E: 
+2D-E:Genauso hoffnungslos umarmt zu werden wie süß und köstlich. Zieht es vor im Untergrund so lang wie möglich rumzuhängen.[END]
 
 2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
-2E-E: 
+2E-E:[BREAK]Die surrenden Flüge auf seinen Rücken wurden wahrscheinlich von einem gigantischen Insekt transplantiert.[END]
 
 2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
-2F-E: 
+2F-E:Roboter, die von Pokey basiert sind, als er ein Kind war. In einem Set von 11 erschaffen um ein Football-Team formen zu können.[END]
 
 30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
-30-E: 
+30-E:[BREAK]Sein Gesichtsausdruck knurrt: <Zahme Wildschweine verdienen es nicht Wildschwein genannt zu werden!>
 
 31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
-31-E: 
+31-E:[BREAK]Verglichen mit Schlangen, die immer beißen, beißt es nicht so oft. Aber es kann beißen, also sei trotzdem vorsichtig.[END]
 
 32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
-32-E: 
+32-E:[BREAK]Dieser kleine Kerl will ein süßer Knödel sein, aber stattdessen ist er aus Ruß gemacht. Er würde einen schrecklichen Snack machen.[END]
 
 33:Sweet, piping-hot, and[BREAK]yummier than a roasted[BREAK]chestnut, but still a[BREAK]monster. Would probably[BREAK]go well with butter.[END]
-33-E: 
+33-E:Süß, kochend-heiß und leckerer als eine geröstete Kastanie, aber dennoch ein Monster. Etwas Butter würde vielleicht zu ihm passen.[END]
 
 34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
-34-E: 
+34-E:[BREAK]Heilt netterweise Leute, die verletzt sind, ob sie es wollen oder nicht. Aber sein Name ist etwas fraglich.[END] 
 
 35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
-35-E: 
+35-E:Ostwärts hier und westärts als Nächstes, es folgt den Flutwellen wie eine Plastiktasche im Wind.[END]
 
 36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
-36-E: 
+36-E:[BREAK]Diesen Metallaffen zu bekämpfen, wird einem ganz viele Erfahrungen geben. Behalte das in Gedanken.[END]
 
 37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
-37-E: 
+37-E:[BREAK]Wenn es sich nicht bewegt, sieht es genau wie ein Stein aus. Wenn es sich bewegt, sieht es immernoch wie ein Stein aus.[END]
 
 38:These gather in groups to[BREAK]protect themselves from[BREAK]enemies. They'll proudly[BREAK]attack anything that[BREAK]appears to be weaker.[END]
-38-E: 
+38-E:Sie sammeln sich in Gruppen um sich von Gegnern zu schützen. Sie greifen stolz alles an, was schwächer erscheint.[END]
 
 39:[BREAK]He recently got into the[BREAK]unpredictable sport of[BREAK]Snowboard Cross. Get in[BREAK]his way and he'll get mad.[END]
-39-E: 
+39-E:[BREAK]Er ist vor Kurzem in den unberechenbaren Sport Snowboardcross eingestiegen. Geh ihn in den Weg und er wird sauer.[END]
 
 3A:[BREAK]A cold-blooded mammal[BREAK]that prides itself in its[BREAK]frozen-solid tail capable of[BREAK]hammering nails.[END]
-3A-E: 
+3A-E:[BREAK]Ein kaltblütiges Säugetier, das stolz darauf, dass sein festgefrorener Schwanz Nägel einhämmern kann.[END]
 
 3B:[BREAK]Has a viscous personality.[BREAK]It uses hypnosis, but it's[BREAK]much like a normal slug in[BREAK]that it hates saltwater.[END]
-3B-E: 
+3B-E:[BREAK]Hat eine zähflüssige Personalität. Es benutzt Hypnose, aber ansonsten ist es wie eine normale Nacktschnecke, das Salzwasser hasst.[END]
 
 3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
-3C-E: 
+3C-E:[BREAK]Sitz doch nicht einfach rum und frag dich, warum ein Stein dich angreifen würde. Das wäre gefährlich.[END]
 
 3D:[BREAK]Often seen wandering[BREAK]around picnic sites. The[BREAK]most normal member of[BREAK]<fungus mobilus>.[END]
-3D-E: 
+3D-E:[BREAK]Wird oft bei Picknick-Plätzen gesichtet. Das gewöhnlichste Mitglied der <fungus mobilus>.[END]
 
 3E:[END]
-3E-E: 
+3E-E:[END]
 
 3F:[BREAK]Spins its head in a circle[BREAK]when sizing up an enemy.[BREAK]Has titanium skin[BREAK]unsuitable for handbags.[END]
 3F-E: 
