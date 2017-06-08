@@ -17,9 +17,9 @@
 06:Forgetful
 06-E:Vergesslich
 07:Nauseous
-07-E:Ãœbel
+07-E:Übel
 08:Fleas
-08-E:FlÃ¶he
+08-E:Flöhe
 09:On Fire
 09-E:Im Brand
 0A:Stopped, Frozen

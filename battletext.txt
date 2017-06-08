@@ -2972,7 +2972,7 @@
 05CB: [04 EF][11 FF] felt a refreshing sensation![END]
 05CB-E: [04 EF][11 FF] fühlt sich wie neu geboren![END]
 05CC: [END]
-05CC-E: 
+05CC-E: [END]
 05CD: [04 EF][11 FF]'s refreshing sensation faded![END]
 05CD-E: [04 EF][11 FF] erfrischende Empfindung verblasste![END]
 05CE: [04 EF][11 FF]'s refreshing sensation faded![END]

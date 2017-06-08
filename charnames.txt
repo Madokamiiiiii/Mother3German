@@ -250,7 +250,7 @@
 07C:Pork Tank
 07C-E:Schweinetank
 07D:Girl
-07D-E:M√§dchen
+07D-E:M‰dchen
 07E:Researcher
 07E-E:Forscher
 07F:Gift Box
@@ -330,7 +330,7 @@
 0A4:Stray Dog
 0A4-E:Streuner
 0A5:Item Guy
-0A5-E:Verk√§ufer
+0A5-E:Verk‰ufer
 0A6:Shadow
 0A6-E:Shadow
 0A7:Sparrow
@@ -418,7 +418,7 @@
 0D0:The Squeekz
 0D0-E:Die Squeekz
 0D1:Pendant
-0D1-E:Anh√§nger
+0D1-E:Anh‰nger
 0D2:Secrebot
 0D2-E:Secrebot
 0D3:Binoculars
@@ -430,7 +430,7 @@
 0D6:Pincho
 0D6-E:Pincho
 0D7:Tired Clayman
-0D7-E:M√ºder Clayman
+0D7-E:M¸der Clayman
 0D8:Frog
 0D8-E:Frosch
 0D9:Frog
@@ -448,7 +448,7 @@
 0DF:Mr. Saturn
 0DF-E:Mr. Saturn
 0E0:Teddy Bear
-0E0-E:Teddyb√§r
+0E0-E:Teddyb‰r
 0E1:Pigmask
 0E1-E:Schweinemaske
 0E2:Ant
@@ -518,7 +518,7 @@
 102:Mixolydia
 102-E:Mixolydia
 103:Item Guy
-103-E:Verk√§ufer
+103-E:Verk‰ufer
 104:Moved Rock
 104-E:Beweger Stein
 105:Blocking Rock

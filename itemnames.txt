@@ -17,13 +17,13 @@
 0007: Very Good Stick
 0007-E: Sehr Guter Stock
 0008: Funny Stick
-0008-E: Komischer Stock
+0008-E: Lustiger Stock
 0009: Vigor Stick
 0009-E: Kräftiger Stock
 000A: Clever Stick
 000A-E: Cleverer Stock
 000B: Master Stick
-000B-E: Meister-Stock
+000B-E: Meisterstock
 000C: Mystical Stick
 000C-E: Mystischer Stock
 000D: Gloves
@@ -69,9 +69,9 @@
 0021: DCMC Pamphlet
 0021-E: DCMC Broschüre
 0022: Fake Bat
-0022-E: Fake-Schläger
+0022-E: Künstlicher Schläger
 0023: Fake Frying Pan
-0023-E: Fake-Bratpfanne
+0023-E: Künstliche Bratpfanne
 0024: Real Bat
 0024-E: Echter Schläger
 0025: Mini-Mini Charm
@@ -235,7 +235,7 @@
 0074: White Croissant
 0074-E: Weißer Croissant
 0075: Cup of Pork Noodles
-0075-E: Napf Schweine-Nudeln
+0075-E: Dose Schweine-Nudeln
 0076: Pork Stew
 0076-E: Schweine-Suppe
 0077: Sincerity Dumplings
@@ -249,7 +249,7 @@
 007B: Jumbo Shrimp Soup
 007B-E: Jumbo Shrimp-Suppe
 007C: Giant Abalone Steak
-007C-E: Riesiges Seeohr-Steak
+007C-E: Riesiges Meerohr-Steak
 007D: Double Jerky
 007D-E: Doppel-Dörrfleisch
 007E: Grilled Chicken
@@ -261,7 +261,7 @@
 0081: Favorite Pizza
 0081-E: Lieblings-Pizza
 0082: King Burger
-0082-E: Kingsize-Burger
+0082-E: Königs-Burger
 0083: Beefsteak
 0083-E: Rindersteak
 0084: Rich Kid Stew
@@ -281,7 +281,7 @@
 008B: Antidote
 008B-E: Gegengift
 008C: Anti-Paralysis
-008C-E: Anti-Lähmung
+008C-E: Anti-Paralyse
 008D: Alarm Cicada
 008D-E: Alarm-Zikade
 008E: Fresh Mint
@@ -329,13 +329,13 @@
 00A3: Defense Spray
 00A3-E: Verteidigungsspray
 00A4: Enemy Bufferizer
-00A4-E: Gegner-Buffer
+00A4-E: Gegner-Verstärker
 00A5: Enemy Wimperizer
-00A5-E: 
+00A5-E: Gegner-Schwächerer
 00A6: Attack Attractor
 00A6-E: Angriffsanzieher
 00A7: Made-You-Look
-00A7-E: 
+00A7-E: Schau-mal-da
 00A8: Dragonfly
 00A8-E: Libelle
 00A9: Silver Dragonfly
@@ -465,7 +465,7 @@
 00E7: Ticket
 00E7-E: Ticket
 00E8: Battle Memory
-00E8-E: Kampfgedächtnis
+00E8-E: Kampf-Memo
 00E9: Carrier Pigeon
 00E9-E: Brieftaube
 00EA: Razor and Lipstick

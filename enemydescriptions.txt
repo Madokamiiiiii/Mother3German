@@ -145,7 +145,7 @@
 2F-E:Roboter, die von Pokey basiert sind, als er ein Kind war. In einem Set von 11 erschaffen um ein Football-Team formen zu können.[END]
 
 30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
-30-E:[BREAK]Sein Gesichtsausdruck knurrt: <Zahme Wildschweine verdienen es nicht Wildschwein genannt zu werden!>
+30-E:[BREAK]Sein Gesichtsausdruck knurrt: <Zahme Wildschweine verdienen es nicht Wildschwein genannt zu werden!>[END]
 
 31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
 31-E:[BREAK]Verglichen mit Schlangen, die immer beißen, beißt es nicht so oft. Aber es kann beißen, also sei trotzdem vorsichtig.[END]
@@ -157,7 +157,7 @@
 33-E:Süß, kochend-heiß und leckerer als eine geröstete Kastanie, aber dennoch ein Monster. Etwas Butter würde vielleicht zu ihm passen.[END]
 
 34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
-34-E:[BREAK]Heilt netterweise Leute, die verletzt sind, ob sie es wollen oder nicht. Aber sein Name ist etwas fraglich.[END] 
+34-E:[BREAK]Heilt netterweise Leute, die verletzt sind, ob sie es wollen oder nicht. Aber sein Name ist etwas fraglich.[END]
 
 35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
 35-E:Ostwärts hier und westärts als Nächstes, es folgt den Flutwellen wie eine Plastiktasche im Wind.[END]
@@ -181,10 +181,10 @@
 3B-E:[BREAK]Hat eine zähflüssige Personalität. Es benutzt Hypnose, aber ansonsten ist es wie eine normale Nacktschnecke, das Salzwasser hasst.[END]
 
 3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
-3C-E:[BREAK]Sitz doch nicht einfach rum und frag dich, warum ein Stein dich angreifen würde. Das wäre gefährlich.[END]
+3C-E:[BREAK]Mach doch irgendwas und frag dich nicht, warum ein Stein dich angreifen würde. Das wäre gefährlich.[END]
 
 3D:[BREAK]Often seen wandering[BREAK]around picnic sites. The[BREAK]most normal member of[BREAK]<fungus mobilus>.[END]
-3D-E:[BREAK]Wird oft bei Picknick-Plätzen gesichtet. Das gewöhnlichste Mitglied der <fungus mobilus>.[END]
+3D-E:[BREAK]Wird oft an Picknick-Plätzen gesichtet. Das gewöhnlichste Mitglied der <fungus mobilus>.[END]
 
 3E:[END]
 3E-E:[END]

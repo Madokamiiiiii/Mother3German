@@ -19,11 +19,11 @@ N.K. Cyborg
 Maskierter Mann
 Schweinesoldat
 Schweinesoldat
-EifersÃ¼chtiger Bass
+Eifersüchtiger Bass
 Pokey
 Klebrige Schnecke
 POKEY 02
-KÃ¶nigsstatue
+Königsstatue
 Nilpferdwerfer
 Neuer Fassad
 Gruseliger Schleim
@@ -33,15 +33,15 @@ POKEY 03
 POKEY 08
 Wunder-Fassad
 Major Schweinemaske
-GroÃŸe AmeisenlÃ¶we
+Große Ameisenlöwe
 Fenomeno
 Rhinocerocket Mk II
 Gefrierbot
 Die Squeekz
 Pyrofliege
-Mecha-LÃ¶we
-StraÃŸenabsperrung
-HÃ¼pfender Pilz
+Mecha-Löwe
+Straßenabsperrung
+Hüpfender Pilz
 Kreischender Besen
 Top Hundefisch
 Hr. Fledermausi
@@ -52,7 +52,7 @@ Fliegende Maus
 POKEY 01
 Aufgew. Wildschwein
 Bissige Schlange
-RuÃŸknÃ¶del
+Rußknödel
 Baked Yammonster
 Walking Bushie
 Carefree Jellyfish

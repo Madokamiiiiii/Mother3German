@@ -72,15 +72,15 @@
 21:Power Smash
 21-E:Power Schmetter
 22:Strengthen Up
-22-E:St√§rken
+22-E:St‰rken
 23:Toughen Up
-23-E:St√§hlen
+23-E:St‰hlen
 24:Duster: Thief
 24-E: Duster: Thief
 25:Wall Staple
 25-E:Wandtakker
 26:Siren Beetle
-26-E:Sirenenk√§fer
+26-E:Sirenenk‰fer
 27:Hypno-Pendulum
 27-E:Hpyno-Pendel
 28:Smoke Bomb
@@ -92,7 +92,7 @@
 2B:Boney: Sniff
 2B-E: Boney: Sniff
 2C:Sniff
-2C-E:Schn√ºffeln
+2C-E:Schn¸ffeln
 2D:Salsa:Tricks
 2D-E: Salsa:Tricks
 2E:Apologize
