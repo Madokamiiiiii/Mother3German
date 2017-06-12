@@ -1,24 +1,24 @@
-cohort
-cohorts
- and 
+Kollege
+Kollegen
+ und 
 A 
 a 
 An 
 an 
 The 
 the 
-Some 
-some 
-his 
-her 
-its 
-their 
-is 
-are 
-this 
-these 
- as a weapon.
- on the body.
- on the head.
+Einige 
+einige 
+seine 
+ihr 
+seine 
+ihre 
+ist 
+sind 
+dies 
+diese 
+ als Waffe.
+ auf den Körper.
+ auf den Kopf.
 .
-your 
+dein 

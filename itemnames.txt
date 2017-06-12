@@ -1,4 +1,5 @@
 // Item names must be 21 letters or less
+// Diese Zeile lässt die Dateien richtig kompilieren
 
 0000: EMPTY
 0000-E: EMPTY
@@ -10,7 +11,7 @@
 0003-E: Stock
 0004: Better Stick
 0004-E: Besserer Stock
-0005: Easy-Grip Stick
+0005: Easy-Grip
 0005-E: Handlicher Stock
 0006: Good Stick
 0006-E: Guter Stock
@@ -111,7 +112,7 @@
 0036: Warm Sweater
 0036-E: Warmer Pullover
 0037: Goddess Bustier
-0037-E: Göttinen-BH
+0037-E: Göttinnen-BH
 0038: Awesome Cloak
 0038-E: Fantastischer Mantel
 0039: Manly Bandana
@@ -373,7 +374,7 @@
 00B9: Hermit Crab Shell
 00B9-E: Einsiedlerkrebsschale
 00BA: Suspicious Tea
-00BA-E: Verdächtiger Tee
+00BA-E: Eigenartiger Tee
 00BB: Flame Pendant
 00BB-E: Flammen-Anhänger
 00BC: Ice Pendant
@@ -393,11 +394,11 @@
 00C3: Good Kid's Shirt
 00C3-E: Gutes Kindershirt
 00C4: Kid's Hat
-00C4-E: Kinderhut
+00C4-E: Kinderkappe
 00C5: Jar of Yummy Pickles
-00C5-E: Eingemachte Gurken
+00C5-E: Glas Essiggurken
 00C6: Red Hat
-00C6-E: Roter Hut
+00C6-E: Rote Kappe
 00C7: White Ribbon
 00C7-E: Weiße Schleife
 00C8: Bird
@@ -407,7 +408,7 @@
 00CA: Waters of Time
 00CA-E: Zeitwasser
 00CB: Stinkbug's Memory
-00CB-E: Stinkbugs Gedenken
+00CB-E: Stinkkäfers Gedanken
 00CC: Phrygia's Notebook
 00CC-E: Phrygias Notizbuch
 00CD: Shield Snatcher
@@ -445,7 +446,7 @@
 00DD: Noble Spittoon
 00DD-E: Nobler Spucknapf
 00DE: Pendant
-00DE-E: Pendel
+00DE-E: Anhänger
 00DF: Egg of Light
 00DF-E: Ei des Lichtes
 00E0: Scrap of Cloth
@@ -479,7 +480,7 @@
 00EE: Lydias Memento
 00EE-E: Lydias Andenken
 00EF: Missys Memento
-00EF-E: Missys Andenken
+00EF-E: Missys' Andenken
 00F0: Aeolias Memento
 00F0-E: Aeolias Andenken
 00F1: Tazmily Map

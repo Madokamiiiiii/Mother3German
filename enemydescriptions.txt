@@ -109,7 +109,7 @@
 23-E:[BREAK]Käse klauen, an Kabeln knabbern... Dieser schlimme Finger hat alles getan. Hat eine Frau und sieben Kinder.[END]
 
 24:[BREAK]Lives off magma flowing[BREAK]from volcanos. Its blood[BREAK]reaches temperatures[BREAK]over 1500 degrees.[END]
-24-E:[BREAK]Lebt von Magmaflüssen von Vulkanen. Sein Blut erreicht Temperaturen von über 1500 Grad.
+24-E:[BREAK]Lebt von Magmaflüssen von Vulkanen. Sein Blut erreicht Temperaturen von über 1500 Grad.[END]
 
 25:Lions are already scary[BREAK]enough as it is, but[BREAK]combine one with a mech[BREAK]and it becomes terrifyingly[BREAK]cool.[END]
 25-E:Löwen sind bereits so wie sie sind beängstigend, aber wenn man ihn mit einem Mech kombiniert, wird er erschreckend cool.[END]
@@ -190,154 +190,154 @@
 3E-E:[END]
 
 3F:[BREAK]Spins its head in a circle[BREAK]when sizing up an enemy.[BREAK]Has titanium skin[BREAK]unsuitable for handbags.[END]
-3F-E: 
+3F-E:[BREAK]Dreht seinem Kopf im Kreis[BREAK]um seinen Gegner einzuschätzen.[BREAK]Hat eine für Handtaschen unpassende Haut aus Titanium.[END]
 
 40:[BREAK]A mischievous prankster.[BREAK]In some regions, the males[BREAK]are referred to as Naughty[BREAK]Moles.[END]
-40-E: 
+40-E:[BREAK]Ein hinterhältiger Schelm.[BREAK]In einigen Gebieten werden[BREAK]die Männchen auch Ungezogene[BREAK]Maulwürfe genannt.[END]
 
 41:[BREAK]Burrows into the ground[BREAK]using the drill on its nose.[BREAK]Has a red light on its head[BREAK]for the heck of it.[END]
-41-E: 
+41-E:[BREAK]Gräbt sich mit seinem Bohrer auf seiner Nase in den Boden. Hat aus unerklärlichen Gründen ein rotes Licht auf seinen Kopf.[END]
 
 42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
-42-E: 
+42-E:[BREAK]Zieht es vor Fleisch roh zu essen.[BREAK]Es scheint aber auch gefallen an getrockneten Fleisch gefunden zu haben. Er liebt auch Gemüuse.[END]
 
 43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
-43-E: 
+43-E:[BREAK]Es hatte das Leben als Pflanze satt, also versuchte er es mit Laufen.[BREAK]Es gibt jetzt keinen Weg zurück mehr![END]
 
 44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
-44-E: 
+44-E:[BREAK][BREAK]Ein sehr orthodoxer Titany,[BREAK]berühmt wegen seiner Personalität, aber nicht für seine Stimme.[END]
 
 45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
-45-E: 
+45-E:[BREAK]Dieser Schneekronenberg-Konfekt ist tatsächlich ein Monster. Tendiert dazu in hitzigen Kämpfen zu schmelzen.[END]
 
 46:The Lady of Lava?[BREAK]The Missus of Magma?[BREAK]Someone please explain[BREAK]just who or what she's[BREAK]supposed to be.[END]
-46-E: 
+46-E:Die Frau der Lava?[BREAK]Die bessere Hälfte der Lava?[BREAK]Kann irgendjemand bitte erklären, wer oder was sie sein soll.[END]
 
 47:Its overwhelmingly pent-up[BREAK]anger explodes with a[BREAK]bang. Pyreflies make their[BREAK]home in this guy's cranial[BREAK]crater.[END]
-47-E: 
+47-E:Seine überwältigende aufgestaute Wut explodiert mit einem BUMM. Pyrofliegen hausen in dem Schädelkrater.[END]
 
 48:Not even death can stop[BREAK]him from wandering the[BREAK]graveyard. He attacks[BREAK]people as he seeks new[BREAK]life.[END]
-48-E: 
+48-E:Nicht einmal der Tod kann ihm vom Umherwandern im Friedhof stoppen. Er attackiert Menschen, während er sich nach neuem Leben sehnt.[END]
 
 49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
-49-E: 
+49-E:[BREAK]Es kaut auf seinen eigenen Knochen statt auf einen Snack. Sein charmantester Punkt ist sein herabhängender Augapfel.[END]
 
 4A:[BREAK][BREAK]Endlessly lingers around[BREAK]graveyards all alone, its[BREAK]flames burning with regret.[END]
-4A-E: 
+4A-E:[BREAK][BREAK]Lungert endlos ganz alleine an Friedhöfen herum, seine Flammen brennen mit Kummer.[END]
 
 4B:[BREAK]Wouldn't it be easier to[BREAK]visit a grave if the grave[BREAK]came to you? No, wait, it[BREAK]would just be creepy.[END]
-4B-E: 
+4B-E:[BREAK]Wäre es nicht einfacher ein Grab zu besuchen, wenn das Grab zu dir kommt? Nein, warte, das wäre einfach nur gruselig.[END]
 
 4C:[BREAK]Once it sticks, it won't[BREAK]come off easily. Even if[BREAK]you do manage to pull it[BREAK]off, the residue is gross.[END]
-4C-E: 
+4C-E:[BREAK]Sobald es sich einmal festklebt, kriegt man es nicht so einfach wieder los. Auch wenn du es schafft, es loszuziehen, sind die Rückstände widerlich.[END]
 
 4D:[BREAK]An overgrown crawfish.[BREAK]Those big pincers are so[BREAK]handy, they could shear a[BREAK]sheep near-bald.[END]
-4D-E: 
+4D-E:[BREAK]Eine übergroße Krabbe.[BREAK]Diese großen Klauen sind so[BREAK]geschickt, dass man damit[BREAK]ein Schaf scheren könnte.[END]
 
 4E:[BREAK]So big, it needs capital[BREAK]letters. When it rolls into a[BREAK]ball, its shape just begs[BREAK]for it to be dribbled.[END]
-4E-E: 
+4E-E:[BREAK]So groß, dass es Großbuchstaben braucht. Wenn sich in einen Ball rollt, ruft seine Form förmlich danach gedribbelt zu werden.[END]
 
 4F:Gets cranky once it's[BREAK]grown tired of acting[BREAK]upbeat, even cursing at[BREAK]the rattling of its own dry[BREAK]bones.[END]
-4F-E: 
+4F-E:Wird stinkig, sobald er keine Lust mehr auf fröhlich sein hat und verflucht dann sogar das Klappern seiner eigenen trockenen Knochen.[END]
 
 50:[BREAK]He and Li'l Big Bro can't[BREAK]decide on their names. If[BREAK]it's any help, this little guy[BREAK]is the older bro.[END]
-50-E: 
+50-E:[BREAK]Er und Kleiner Großer Bruder können sich auf ihre Namen festsetzen. Fall es hilft, der kleine Kerl ist der ältere.[END]
 
 51:[BREAK]Spends all day sniffing a[BREAK]faint odor lingering inside[BREAK]the barrel. Not a bad guy[BREAK]at heart.[END]
-51-E: 
+51-E:[BREAK]Verbringt den ganzen Tag mit Schnüffeln an einem schwachem im Fass liegenden Duft. Im Herzen klein schlechter Mensch.[END]
 
 52:[BREAK][BREAK]Caution. This is not[BREAK]strawberry jam. Please do[BREAK]not spread it on bread.[END]
-52-E: 
+52-E:[BREAK][BREAK]Achtung! Das ist keine Erdbeermarmelade.[BREAK]Bitte streiche es nicht auf Brot.[END]
 
 53:There's nothing special[BREAK]about this spider at all. It[BREAK]isn't poisonous, and it[BREAK]doesn't have any medicinal[BREAK]benefits whatsoever.[END]
-53-E: 
+53-E:An dieser Spinne ist überhaupt nichts Besonderes. Sie ist nicht giftig und hat auch keine andere Vorzüge.[END]
 
 54:[BREAK]If butterflies had no wings,[BREAK]they'd be butterwalkers.[BREAK]Without handsome horns,[BREAK]this guy is a... thing.[END]
-54-E: 
+54-E:[BREAK]Wenn Schmetterlinge keine Flügel hätte, wären sie Schmetterläufer. Ohne schöne Hörner ist dieser Kerl ein... Ding.[END]
 
 55:[BREAK]One of the Magypsies[BREAK]crafted these monsters to[BREAK]protect something very[BREAK]important.[END]
-55-E: 
+55-E:[BREAK]Eine der Magypsies erschuf diese Monster um etwas sehr wichtiges zu beschützen.[END]
 
 56:[BREAK]Protects its flesh and[BREAK]bones with steel armor.[BREAK]Never mind that it doesn't[BREAK]have any flesh or bones.[END]
-56-E: 
+56-E:[BREAK]Beschützt sein Fleisch und Blut mit einer Stahlrüstung.[BREAK]Obwohl... der hat gar kein Fleisch und Blut.[END]
 
 57:[BREAK]Appears to have a history[BREAK]of killing. Too heavy to be[BREAK]handled by a normal[BREAK]person.[END]
-57-E: 
+57-E:[BREAK]Scheint eine Killer-Geschichte zu haben. Zu schwer um von einer normalen Person fertig gemacht zu werden.[END]
 
 58:[BREAK]Appears to be covered in[BREAK]scars of glory. Too heavy[BREAK]to be lifted by a normal[BREAK]person.[END]
-58-E: 
+58-E:[BREAK]Scheint mit Narben seines Ruhmes umhüllt zu sein. Zu schwer um von einer normalen Person gehoben zu werden.[END]
 
 59:[BREAK]Once the empty-handed[BREAK]armor gets a hold of its[BREAK]sword and shield... terrible[BREAK]things will happen.[END]
-59-E: 
+59-E:[BREAK]Sobald die Rüstung sein Schwert und Schild erlangt, werden... schreckliche Dinge passieren.[END]
 
 5A:[BREAK][BREAK]This cape flaps gallantly in[BREAK]the breeze. It's nihilistic,[BREAK]obnoxious, and totally cool.[END]
-5A-E: 
+5A-E:[BREAK][BREAK]Dieser Umhang fliegt galant durch die Luft. Es ist nihilistisch, unausstehlich und verdammt cool.[END]
 
 5B:[BREAK]Hasn't noticed that its[BREAK]master is long gone, and[BREAK]continues to bear his[BREAK]weight on its back.[END]
-5B-E: 
+5B-E:[BREAK]Unwissend, dass sein Meister schon lange fort ist, trägt er ihn weiterhin auf seinen Rücken.[END]
 
 5C:No matter how long it[BREAK]takes, this door anxiously[BREAK]waits for someone to open[BREAK]it. It's been waiting for[BREAK]years now.[END]
-5C-E: 
+5C-E:Egal wie lange es dauert, diese Tür wartet geduldig auf jemanden, der sie öffnet. Es wartet jetzt schon eine halbe Ewigkeit darauf.[END]
 
 5D:[BREAK][BREAK]What you see isn't always[BREAK]what you get. This eerie[BREAK]grin doesn't actually exist.[END]
-5D-E: 
+5D-E:[BREAK][BREAK]Was du siehst, ist nicht immer das, was du bekommst. Dieses unheimliche Grinsen existiert tatsächlich nicht.[END]
 
 5E:[BREAK]Its favorite dung is that of[BREAK]the Cactus Wolf, but[BREAK]usually it just makes do[BREAK]with Sand Lizard dung.[END]
-5E-E: 
+5E-E:[BREAK]Sein Lieblings-Mist ist der vom Kaktuswolf, aber normalerweise nimmt es einfach den vom Zauneidechse.[END]
 
 5F:[BREAK]Digs a hole and waits for[BREAK]ants to fall inside. Doesn't[BREAK]mind if humans happen to[BREAK]fall in instead.[END]
-5F-E: 
+5F-E:[BREAK]Gräbt ein Loch und wartet darauf, dass Ameisen hereinfallen. Menschen sind ihm aber auch recht.[END]
 
 60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
-60-E: 
+60-E:[BREAK]Fliegt kinnklappernd in der Wüste herum.[BREAK]Lässt seine Gegner albern fühlen.[END]
 
 61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
-61-E: 
+61-E:[BREAK]Mistkäfer räumen ihr Durcheinander auf. Im Gegenzug essen sie die Mistkäfer. Nicht das, was man unter einem guten Deal versteht.[END]
 
 62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
-62-E: 
+62-E:[BREAK]Der Kaktuswolf hat auf seinen Vorderkopf einen Wolfkaktus.[BREAK]Die zwei kommen gut ziemlich gut miteinander aus.[END]
 
 63:[BREAK]If you rub your eyes after[BREAK]touching this guy, your[BREAK]legs will turn to goo. Be[BREAK]sure to wash your hands.[END]
-63-E: 
+63-E:[BREAK]Wenn du dir die Augen reibst, nachdem du diesen Typen angefasst hast, verwandeln sich deine Beine in Schleim. Wasch also ja deine Hände.[END]
 
 64:[BREAK]It looks like a mummified[BREAK]cat, but it's not a cat at[BREAK]all. It's something entirely[BREAK]different altogether.[END]
-64-E: 
+64-E:[BREAK]Sieht wie eine mummifizierte Katze aus, ist aber gar keine Katze. Es ist etwas völlig anderes.[END]
 
 65:[BREAK]Adjective-wise, he's[BREAK]caught between his size[BREAK]and his age. It's all very[BREAK]confusing.[END]
-65-E: 
+65-E:[BREAK]In puncto Beschreibung ist er zwischen Größe und Alter stecken geblieben. Alles sehr verwirrend.[END]
 
 66:Recently discovered on[BREAK]Tanetane Island. It's[BREAK]usually rotten, and[BREAK]attracts its food by[BREAK]dancing.[END]
-66-E: 
+66-E:Vor kurzem auf Tanetane entdeckt. Es ist normalerweise verfault, und zieht sein Essen mit Tanzen an.[END]
 
 67:[BREAK]Some ghosts in Osohe[BREAK]Castle are understanding[BREAK]and kindhearted, but these[BREAK]ones are plain ol' mean.[END]
-67-E: 
+67-E:[BREAK]Einige Geister in Osohe sind verständnisvoll und gutherzig, aber diese hier sind die altbekannten Bösen.[END]
 
 68:[BREAK]Art is dead! Or so it[BREAK]declares, but there[BREAK]doesn't seem to be any[BREAK]evidence of this.[END]
-68-E: 
+68-E:[BREAK]Kunst ist tot! Oder so verkündet er es, aber dafür scheint es gar keine Beweise zu geben.[END]
 
 69:[BREAK]A drop kick from any one[BREAK]of its eight legs is intense.[BREAK]Its third leg from the right[BREAK]is World Cup class.[END]
-69-E: 
+69-E:[BREAK]Ein Sprungkick von irgendeiner seiner acht Beine ist schmerzhaft.[BREAK]Sein drittes Bein zur rechten ist Weltcup-Klasse.[END]
 
 6A:[BREAK]This piggy plant snorts and[BREAK]blooms from spring to fall.[BREAK]It disperses pollen that[BREAK]causes watery eyes.[END]
-6A-E: 
+6A-E:[BREAK]Diese schweinische Pflanze grunzt und blüht von Frühling bis Herbst.[BREAK]Es zerstreut Pollen, die wässrige Augen hervorrufen.[END]
 
 6B:[BREAK]An unthinkable blend of a[BREAK]bird and a stick. It chirps[BREAK]and beckons for other[BREAK]animals.[END]
-6B-E: 
+6B-E:[BREAK]Eine undenkbare Mischung aus Vogel und einem Stock. Es zwitschert und winkt anderen Tieren zu.[END]
 
 6C:[BREAK]Clean the mold off of this[BREAK]guy and there won't be[BREAK]anything left. In other[BREAK]words, he's a pile of mold.[END]
-6C-E: 
+6C-E:[BREAK]Säubere den Schimmel von ihm und danach wird nichts mehr übrig bleiben. In anderen Worten ist er ein Haufen Schimmel.[END]
 
 6D:This creature is greatly[BREAK]troubled whenever it sees[BREAK]an egg. Should it warm it[BREAK]or swallow it? It can't[BREAK]make up its mind.[END]
-6D-E: 
+6D-E:Diese Kreatur steht vor einem großem Problem, wann immer er ein Ei sieht. Sollte er es wärmen oder runterschlucken? Er kann sich nicht entscheiden.[END]
 
 6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
-6E-E: 
+6E-E:Ein Chimera, das aus allem Möglichen zusammengeworfen worden ist. Ein paar sagen, dass auf diesem Weg etwas gutes rausgekommen ist.[END]
 
 6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
-6F-E: 
+6F-E:Überrascht, wenn es plötzlich aus dem See springt.[BREAK]Seine Talente beinhalten Unterwassersitzen und Unterwasserschütteln.[END]
 
 70:[BREAK]Even the creators of this[BREAK]creature are too afraid to[BREAK]approach it. Stay out of its[BREAK]way, for your own good.[END]
-70-E: 
+70-E:[BREAK]Sogar die Schöpfer dieser Kreatur haben zu viel Angst sich ihm zu nähern. Komm ihm zu deinem eigen Besten nicht in die Quere.[END]
 
 71:[BREAK][BREAK]A piggish creature with a[BREAK]primate-ish brain. It uses[BREAK]PSI, so don't take it lightly.[END]
 71-E: 

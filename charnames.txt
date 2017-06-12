@@ -176,7 +176,7 @@
 057:Fuel
 057-E:Fuel
 058:Alec
-058-E:Alec
+058-E:Alex
 059:Pigmask
 059-E:Schweinemaske
 05A:Pigmask
@@ -314,7 +314,7 @@
 09C:Lady
 09C-E:Dame
 09D:Alec
-09D-E:Alec
+09D-E:Alex
 09E:Ionia
 09E-E:Ionia
 09F:Flint

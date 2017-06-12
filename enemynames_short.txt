@@ -6,11 +6,11 @@
 (empty)
 Umgebau. Rentier
 Hr. Lust
-Ach-So-Schlange
-Clayman
+Oh-Ho-Schlange
+Lehmmensch
 Mecha-Drago
 Schweinetank
-Hr. Genetor
+Herr Genetor
 Maulwurfsgrille
 Gruseliger Schleim
 Heller Schleim
@@ -33,7 +33,7 @@ POKEY 03
 POKEY 08
 Wunder-Fassad
 Major Schweinemaske
-Große Ameisenlöwe
+Großer Ameisenlöwe
 Fenomeno
 Rhinocerocket Mk II
 Gefrierbot
@@ -44,269 +44,269 @@ Straßenabsperrung
 Hüpfender Pilz
 Kreischender Besen
 Top Hundefisch
-Hr. Fledermausi
+Herr Fledi
 Geizige Maus
 Feuerfliege
-Yammonster
+Kartoffelmonster
 Fliegende Maus
 POKEY 01
-Aufgew. Wildschwein
+Beunru. Wildschwein
 Bissige Schlange
 Rußknödel
-Baked Yammonster
-Walking Bushie
-Carefree Jellyfish
-Metal Monkey
-Crag Lizard
-Spud Bug
-Ten-Yeti
-Chilly Dog
-Slimy Slug
+Back-Kartoffelmons.
+Laufender Busch
+Sorglose Qualle
+Metallaffe
+Felslizard
+Kartoffelkäfer
+Zehn-Yeti
+Frostige Hund
+Schleimige Schnecke
 Minerali
-Ramblin' Mushroom
-Mole Cricket
-Boa Transistor
-Mischievous Mole
-Mecha-Mole!
-Balding Eagle
-Tree
-Titany
-Frosted Bun
-Mrs. Lava
-Magman
-Zombie Man
-Zombie Dog
-Lingering Spirit
-Mobile Grave
-Detached Leech
-Spineless Lobster
-HUGE Pillbug
-Cheery Skeleton
-Big Bro
-Barrel Man
-Strawberry Slime
+Wanderpilz
+Maulwurfsgrille
+Boa-Transistor
+Boshafter Maulwurf
+Mecha-Maulwurf!
+Glatzadler
+Baum
+Titani
+Gefrorenes Brötchen
+Frau Lava
+Magmann
+Zombie
+Zombiehund
+Verirrter Geist
+Mobiles Grab
+Abgetrenn. Blutegel
+Rückgratlose Hummer
+RIESIGE Assel
+Munteres Skelett
+Großer Bruder
+Fassmann
+Erdbeerschleim
 Arachnid!
-Violent Roach
-Barrier Trio
-Ghost Armor
-Ghost Sword
-Ghost Shield
-Ghost Knight
-Osohe Cape
-Rockin' Ghost
-Pseudoor
-Eerie Smile
-Dung Beetle
-Great Antlion
+Brutale Kakerlake
+Barriere Trio
+Geisterrüstung
+Geisterschwert
+Geisterschild
+Geisterritter
+Osohe Umhang
+Rockiger Geist
+Pseudo-Tür
+Gruseliger Schleim
+Mistkäfer
+Großer Ameisenlöwe
 Sara-Sara-Sahara
-Sand Lizard
-Cactus Wolf
-Gooey Goo
+Sandlizard
+Kaktuswolf
+Klebriger Klebstoff
 Cleocatra
-Li'l Big Bro
-Zombieshroom
-Stinky Ghost
-Artsy Ghost
+Klein-groß-Bruder
+Zombiepilz
+Stinkender Geist
+Künstleri. Geist
 Horsantula
 Pigtunia
-Squawking Stick
-Putrid Moldyman
-Slitherhen
+Kreischender Stock
+Schimmelmann
+Schlitterhenne
 Whatever
-Dogfish
-Cattlesnake
+Hundefisch
+Rindschlange
 Einswine
-Praying Mantis
-Ancient Dragonfly
-Filthy Attack Roach
-Muttshroom
-Mecha-Turtle
+Gottesanbeter
+Antike Libelle
+Dreckige Kakerlake
+Dusselpilz
+Mecha-Schildkröte
 Bro Team
 Batangutan
-Ostrelephant
-Sky Titany
-Monkalrus
-P. Kangashark
-Ms. Marshmallow
-Almost Mecha-Lion
+Straußfant
+Himmelstitani
+Affenross
+Elterl. Kangahai
+Fr. Marshmallow
+Beinahe Mecha-Löwe
 Rhinocerocket
-Wound-Up Road Hog
-Metal Attack Roach
-Really Flying Mouse
-Short Circuit Zap!
-Minor Robot
-Love Walker
-Eerie Smile
-Atomic Robot
-Nuclear Robot
-Negative Man
-Heftyhead
-Nice Poser
-Big Spud Bug
-Grated Yammonster
-Hippo Launcher
-Steel Mechorilla
+Verkehrsrowdy
+Metall-Kakerlake
+Fliegende Maus
+Kurzschluss-Schlag!
+Unwichtiger Roboter
+Liebesläufer
+Gruseliger Schleim
+Atomarer Roboter
+Nuklearer Roboter
+Negativer Mann
+Dickkopf
+Posierer
+Groß-Kartoffelkäfer
+Gerasp. Yammonster
+Nilpferdwerfer
+Stahl-Mechorilla
 Zombidillo
-Fish Roe Man
+Fischreh-Mann
 PORKY 07
-Return of Octobot
-Carpet Monster
-Recon Mech
-Pigmask
-Zombie Lady
-Naughty Mushroom
-Elder Batty
+Rückk. des Octobots
+Teppichmonster
+Ersatzmech
+Schweinemaske
+Zombiefrau
+Frecher Pilz
+Ober-Fledi
 Arachnid!!!!
-Greedier Mouse
-Weeping Guitar
-Beaten Drum
-Reconstructed Mole
-Reconstructed Lion
-Wobbly Robot
-Men's Room Sign
-Scrapped Robot
-Forlorn Junk Heap
-Surprise Box
-Battery Man
+Geizigere Maus
+Weinende Gitarre
+Durchgehau. Trommel
+Umgebauter Maulwurf
+Umgebauter Löwe
+Wackeliger Roboter
+Männerbad Schild
+Geschrotte. Roboter
+Verzweifel. Schrott
+Überraschungsbox
+Batteriemann
 Screwloose
-Cuddle Bomb
+Knuddelbombe
 K9000
-Alkaline Man
+Laugenartiger Mann
 PORKY 06
-Pigmask Major
-Pigmask Colonel
-Pigmask Captain
+Major Schweinemaske
+Ober-Schweinemaske
+Kapitän Schwein
 Navy SQUEAL
-Master Eddy
-Rock Lobster
-Rooound Fish
-Blue Balding Eagle
-Security Robot
-Unwelcome Gust
+Meister Eddy
+Rock-Hummer
+Ruuuunder Fisch
+Blauer Glatzadler
+Sicherheitsroboter
+Unwilkommener Gast
 PORKY 09
 PORKY 10
 Titanian
-Upgraded Robot
-Beanling
-Black Beanling
-Tiny Forest
+Verbesser. Roboter
+Bohnling
+Schwarzer Bohnling
+Kleiner Wald
 PORKY 04
 PORKY 05
-Masked Man
-Masked Man
+Maskierter Mann
+Maskierter Mann
 (empty)
-Pick
-Antlion
-Pork Trooper
-Crab
-Electric Catfish
+Hacke
+Ameisenlöwe
+Schweinesoldat
+Krabbe
+Elektr. Katzenfisch
 Shimmy Zmizz
 Magic
 Duster
 Keyboard
 OJ
-Robot
-Dung Beetle
-Tent Person
-Snow Hare
-Clayman
-Vapor
-Rope Snake
-Rope Snake
-Aeolia's Table
-Straw
-Vapor 2
-Mini-Elevator
+Roboter
+Mistkäfer
+Zeltende Person
+Schneehäschen
+Lehmmensch
+Dampf
+Seilschlange
+Seilschlange
+Aeolias Tisch
+Stroh
+Dampf 2
+Mini-Aufzug
 Drago
-Pork Trooper
-Green Train
-Pump Drago
-Three Amigos
-Flower
-Rope Ladder
-Flame 3
-Flag
-Ropeway
+Schweinesoldat
+Grüner Zug
+Pumpen-Drago
+Drei Amigos
+Blume
+Seilleiter
+Flamme 3
+Flagge
+Seilbahn
 (empty)
-Piece
-Flame 1
-Lotus Root
-Clay
+Stück
+Flamme 1
+Lotuswurzel
+Lehm
 Explosion
-Smoke
-Statue Head
-Carousel
-N. Dresser
-Fireflies
-Hinawa Cloth
-Catfish
-Broom
-Fish
-Sea Urchin
-Train
-Sign
-Sign
+Rauch
+Statuenkopf
+Karusell
+Nippos Kommode
+Feuerfliegen
+Hinawas Kleidung
+Katzenfisch
+Besen
+Fisch
+Seeigel
+Zug
+Schild
+Schild
 (empty)
 Portrait
-Friendly Ghost
-Trash Can
-Steel Ball
-Egg of Light
-Chestnut
-Rockin' Ghost
-Candle
-Mouse
-Energy Machine
-Light Blade
-Wine Glass
-Rope Snake
-Stinkbug
-Garbage Truck
-Smoke
+Freundlicher Geist
+Abfalleimer
+Stahlball
+Ei des Lichtes
+Kastanie
+Rockiger Geist
+Kerze
+Maus
+Energiemaschine
+Lichtklinge
+Weinglass
+Seilschlange
+Stinkwanze
+Müllabfuhr
+Rauch
 Aeolia
 Doria
 Magnifier
-Text Balloon
-Sign
-NO Stone
+Textballon
+Schild
+KEIN Stein
 Kumatora
-Stone Fragment
-That Car
-Black Drago
-Mole Cricket
-Lightning
-Mothership
+Steinsplitter
+Dieses Auto
+Schwarzer Drago
+Maulwurfsgrille
+Blizt
+Mutterschiff
 (empty)
 Lydia
 Mixolydia
 Hinawa
-Frozen Drago
-Porky
-Thunder
-Child Mouse
+Eingefrorener Drago
+Pokey
+Donner
+Kindermaus
 Dr. Andonuts
-Osohe Castle
-Mothership
-Volcano
+Schloss Osohe
+Mutterschiff
+Vulkan
 Explosion FX
-Caption
-D.Mothership
-Tiles
+Überschrift
+Fernes Mutterschiff
+Kachel
 (empty)
-Water Column
-D.Mothershp
-NO Rock Smoke
-Smoke
-Sapling
-(empty)
-(empty)
+Wassersäule
+Fernes Mutterschiff
+KEIN Steinrauch
+Rauch
+Setzling
 (empty)
 (empty)
 (empty)
-Grave
+(empty)
+(empty)
+Grab
 Phrygia
-Cube
-Iron Octopus
+Würfel
+Eisen Oktobus
 Caribou
 Ionia
 D.Drago Wind

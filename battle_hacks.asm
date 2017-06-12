@@ -190,16 +190,16 @@ cmp  r0,#0x01                // check for 0xEF01, which will print the cohorts s
 beq  .cc_cohorts
 
 cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
-beq  .cc_en_articles
+b    .main_loop_next
 
 cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
-beq  .cc_en_articles
+b    .main_loop_next
 
 cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
-beq  .cc_en_articles
+b    .main_loop_next
 
 cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
-beq  .cc_en_articles
+b    .main_loop_next
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
 beq  .cc_en_articles
@@ -1158,17 +1158,17 @@ beq  .ecc_enemy_name
 cmp  r0,#0x01                // check for 0xEF01, which will print "and cohort/and cohorts" if need be
 beq  .ecc_cohorts
 
-cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
-beq  .ecc_en_articles
+//cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
+//beq  .ecc_en_articles
 
-cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
-beq  .ecc_en_articles
+//cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
+//beq  .ecc_en_articles
 
-cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
-beq  .ecc_en_articles
+//cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
+//beq  .ecc_en_articles
 
-cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
-beq  .ecc_en_articles
+//cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
+//beq  .ecc_en_articles
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
 beq  .ecc_en_articles

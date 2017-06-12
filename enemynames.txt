@@ -7,15 +7,15 @@
 0002: Mr. Passion
 0002-E: Herr Lust
 0003: Oh-So-Snake
-0003-E: Ach-So-Schlange
+0003-E: Oh-Ho-Schlange
 0004: Clayman
-0004-E: Clayman
+0004-E: Lehmmensch
 0005: Mecha-Drago
 0005-E: Mecha-Drago
 0006: Pork Tank
 0006-E: Schweinetank
 0007: Mr. Genetor
-0007-E: Hr. Genetor
+0007-E: Herr Genetor
 0008: Mole Cricket
 0008-E: Maulwurfsgrille
 0009: Eerie Smile
@@ -61,7 +61,7 @@
 001D: Pigmask Major
 001D-E: Major Schweinemaske
 001E: Great Antlion
-001E-E: Große Ameisenlöwe
+001E-E: Großer Ameisenlöwe
 001F: Fenomeno
 001F-E: Fenomeno
 0020: Rhinocerocket Mark II
@@ -89,21 +89,21 @@
 002B: Feuerflie
 002B-E: Feuerfliege
 002C: Yammonster
-002C-E: Yammonster
+002C-E: Kartoffelmonster
 002D: Flying Mouse
 002D-E: Fliegende Maus
 002E: PORKY 01
 002E-E: POKEY 01
 002F: Agitated Boar
-002F-E: Aufgewühltes Wildschwein
+002F-E: Beunruhigtes Wildschwein
 0030: Mighty Bitey Snake
 0030-E: Äußerst bissige Schlange
 0031: Soot Dumpling
 0031-E: Rußknödel
 0032: Baked Yammonster
-0032-E: Gebackter Yammonster
+0032-E: Back-Kartoffelmonster
 0033: Walking Bushie
-0033-E: Laufender Buschi
+0033-E: Laufender Busch
 0034: Carefree Jellyfish
 0034-E: Sorglose Qualle
 0035: Mystery Metal Monkey
@@ -115,7 +115,7 @@
 0038: Ten-Yeti
 0038-E: Zehn-Yeti
 0039: Chilly Dog
-0039-E: Frostiger Hund
+0039-E: Frostige Hund
 003A: Slimy Slug
 003A-E: Schleimige Schnecke
 003B: Minerali
@@ -125,7 +125,7 @@
 003D: Mole Cricket
 003D-E: Maulwurfsgrille
 003E: Boa Transistor
-003E-E: Schlangentransistor
+003E-E: Boa-Transistor
 003F: Mischievous Mole
 003F-E: Boshafter Maulwurf
 0040: Mecha-Mole!
@@ -147,7 +147,7 @@
 0048: Zombie Dog
 0048-E: Zombiehund
 0049: Lingering Spirit
-0049-E: Herumschweifender Geist
+0049-E: Verirrter Geist
 004A: Mobile Grave
 004A-E: Mobiles Grab
 004B: Detached Leech
@@ -167,7 +167,7 @@
 0052: Arachnid!
 0052-E: Arachnid!
 0053: Violent Roach
-0053-E: Gefährliche Kakerlake
+0053-E: Brutale Kakerlake
 0054: Barrier Trio
 0054-E: Barriere Trio
 0055: Ghost Armor
@@ -201,7 +201,7 @@
 0063: Cleocatra
 0063-E: Cleocatra
 0064: Li'l Big Bro
-0064-E: Kleiner großer Bruder
+0064-E: Kleiner Großer Bruder
 0065: Zombieshroom
 0065-E: Zombiepilz
 0066: Stinky Ghost
@@ -223,13 +223,13 @@
 006E: Dogfish
 006E-E: Hundefisch
 006F: Cattlesnake
-006F-E: Rinderschlange
+006F-E: Rindschlange
 0070: Einswine
 0070-E: Einswine
 0071: Praying Mantis
 0071-E: Gottesanbeter
 0072: Ancient Dragonfly
-0072-E: Uralte Libelle
+0072-E: Antike Libelle
 0073: Filthy Attack Roach
 0073-E: Dreckige Kakerlake
 0074: Muttshroom
@@ -247,11 +247,11 @@
 007A: Monkalrus
 007A-E: Affenross
 007B: Parental Kangashark
-007B-E: Elterliche Kangahai
+007B-E: Elterlicher Kangahai
 007C: Li'l Miss Marshmallow
 007C-E: Kleine Frau Marshmallow
 007D: Almost Mecha-Lion
-007D-E: Beihnahe Mecha-Löwe
+007D-E: Beinahe Mecha-Löwe
 007E: Rhinocerocket
 007E-E: Rhinocerocket
 007F: Wound-Up Road Hog
@@ -261,15 +261,15 @@
 0081: Really Flying Mouse
 0081-E: Wirklich Fliegende Maus
 0082: Short Circuit Zap!
-0082-E: Kurzschluss-Schlag
+0082-E: Kurzschluss-Schlag!
 0083: Minor Robot
 0083-E: Unwichtiger Roboter
 0084: Love Walker
-0084-E: Liebender Läufewr
+0084-E: Liebesläufer
 0085: Eerie Smile
 0085-E: Gruseliger Schleim
 0086: Atomic Power Robot
-0086-E: Atomischer Powerroboter
+0086-E: Atomarer Powerroboter
 0087: Nuclear Reactor Robot
 0087-E: Nuklearer Roboter
 0088: Negative Man
@@ -285,7 +285,7 @@
 008D: Hippo Launcher
 008D-E: Nilpferdwerfer
 008E: Steel Mechorilla
-008E-E: Stahl Mechorilla
+008E-E: Stahl-Mechorilla
 008F: Zombidillo
 008F-E: Zombidillo
 0090: Fish Roe Man
@@ -311,9 +311,9 @@
 009A: Greedier Mouse
 009A-E: Geizigere Maus
 009B: Gently Weeping Guitar
-009B-E: Weinende Gitarre
+009B-E: Leicht Weinende Gitarre
 009C: Beaten Drum
-009C-E: Besiegte Trommel
+009C-E: Durchgehaute Trommel
 009D: Reconstructed Mole
 009D-E: Umgebauter Maulwurf
 009E: Reconstructed Lion
@@ -355,7 +355,7 @@
 00B0: Rooound Fish
 00B0-E: Ruuuunder Fisch
 00B1: Blue Balding Eagle
-00B1-E: Blauer Adler
+00B1-E: Blauer Glatzadler
 00B2: Security Robot
 00B2-E: Sicherheitsroboter
 00B3: Unwelcome Gust
@@ -409,13 +409,13 @@
 00CB: Dung Beetle
 00CB-E: Mistkäfer
 00CC: Tent Person
-00CC-E: Zeltender Mann
+00CC-E: Zeltende Person
 00CD: Snow Bunny
-00CD-E: Schneehase
+00CD-E: Schneehaschen
 00CE: Clayman
 00CE-E: Clayman
 00CF: Vapor
-00CF-E: Trockendampf
+00CF-E: Dampf
 00D0: Rope Snake
 00D0-E: Seilschlange
 00D1: Rope Snake
@@ -425,9 +425,9 @@
 00D3: Straw
 00D3-E: Stroh
 00D4: Vapor 2
-00D4-E: Trockendampf 2
+00D4-E: Dampf 2
 00D5: Mini Elevator
-00D5-E: Miniaufzug
+00D5-E: Mini-Aufzug
 00D6: Drago
 00D6-E: Drago
 00D7: Fierce Pork Trooper
@@ -435,7 +435,7 @@
 00D8: Green Train
 00D8-E: Grüner Zug
 00D9: Pump Drago
-00D9-E: Pumpen Drago
+00D9-E: Pumpen-Drago
 00DA: Three Amigos
 00DA-E: Drei Amigos
 00DB: Flower
@@ -457,7 +457,7 @@
 00E3: Lotus Root
 00E3-E: Lotuswurzel
 00E4: Unworked Clay
-00E4-E: Unbearbeiteter Ton
+00E4-E: Unbearbeiteter Lehm
 00E5: Explosion
 00E5-E: Explosion
 00E6: Smoke
@@ -497,7 +497,7 @@
 00F7: Steel Ball
 00F7-E: Stahlball
 00F8: Egg of Light
-00F8-E: Lichtei
+00F8-E: Ei des Lichtes
 00F9: Chestnut
 00F9-E: Kastanie
 00FA: Rockin' Ghost
@@ -649,7 +649,7 @@
 0144: Titiboo Attic Kotatsu
 0144-E: Titiboo Attic Kotatsu
 0145: Wooden MOTHER 3 Title
-0145-E: Hölzerner MOTHER 3 TITEL
+0145-E: Hölzerner MOTHER 3 Titel
 0146: Overworld
 0146-E: Overworld
 0147: Underworld

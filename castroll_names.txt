@@ -15,7 +15,7 @@ Betsy
 Tessie
 Caroline
 Angie
-Alec
+Alex
 Matt
 Jill
 Biff
@@ -48,14 +48,14 @@ Neckbeard
 Glatzkopf
 *20042C2
 Dr. Andonuts
-Mr. Pump
+Hr. Pump
 Dryguy
-Bucket Bros.
-Claymen
+Eimer Bros.
+Lehmmensch
 Ultimatives Chimera
 ~Mr. Saturn
 Leder
-Rope Snake
+Seilschlange
 Dragos
 Aeolia
 Doria

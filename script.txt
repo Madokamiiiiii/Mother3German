@@ -11,8 +11,8 @@
 0-4E:[BREAK][CENTER]Das Dorf Tazmily[END]
 0-5:[BREAK][CENTER]Beyond the[BREAK][CENTER]Sunshine Forest[END]
 0-5E:[BREAK][CENTER]Hinter dem[BREAK][CENTER]Sonnenscheinwald[END]
-0-6:[BREAK][CENTER]Home of Alec,[BREAK][CENTER][HINAWA 22 08 00]'s Father[END]
-0-6E:[BREAK][CENTER]Alecs Haus,[BREAK][CENTER]Vater von [HINAWA 22 08 00][END]
+0-6:[BREAK][CENTER]Home of Alex,[BREAK][CENTER][HINAWA 22 08 00]'s Father[END]
+0-6E:[BREAK][CENTER]Alex' Haus,[BREAK][CENTER]Vater von [HINAWA 22 08 00][END]
 0-7:[BREAK]Dear [FLINT 23 01 00],[BREAK]Just like you said they would, the children[BREAK]have been running around the mountains and[BREAK]fields tirelessly since the moment we arrived.[BREAK][BREAK][CLAUS 22 05 00] is as daring and full of energy[BREAK]as ever, while [LUCAS 23 02 00] is still a bit[BREAK]coddled. But neither one seems tired of[BREAK]playing at all.[BREAK][BREAK]My father seems sad to say goodbye to his[BREAK]grandchildren after seeing them for the first[BREAK]time in so long, but we should be home by[BREAK]this evening.[BREAK][BREAK]I had forgotten how nice and refreshing the[BREAK]mountain air is. You're always covered in the[BREAK]smell of sheep back in Tazmily Village, so I[BREAK]really wish you could have been here to take[BREAK]in this air.[BREAK][BREAK]The next time we visit, let's ask one of our[BREAK]neighbors to tend to the sheep so we can all[BREAK]come up here as a family.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], and I were[BREAK]always thinking about you. When we get[BREAK]home this evening, I'll start cooking some[BREAK]of your favorite [FAVFOOD] right away.[BREAK][BREAK]With love, your dearest [HINAWA 22 08 00][BREAK][BREAK][END]
 0-7E:[BREAK]Lieber [FLINT 23 01 00],[BREAK]Genau wie du sagtest, spielen die Kinder[BREAK]seit wir angekommen sind, unermüdlich durch[BREAK]die Berge und Felder.[BREAK][BREAK][CLAUS 22 05 00] ist so reizend und voller[BREAK]Energie wie immer, während [LUCAS 23 02 00] [BREAK]immer noch ein bisschen verhätschelt ist.[BREAK]Aber keiner von beiden scheint müde von[BREAK]dem ganzen Spielen zu sein.[BREAK][BREAK]Mein Vater scheint traurig darüber zu sein[BREAK]von seinen Enkelkindern Abschied zu nehmen,[BREAK]nachdem er sie zum ersten Mal nach einer[BREAK]langen Zeit gesehen hatte, aber wir sollten[BREAK]diesen Abend zu Hause ankommen.[BREAK][BREAK]Ich hatte vergessen wie schön und[BREAK]erfrischend die Bergluft ist. Du bist immer[BREAK]von dem Gestank der Schafe von Tazmily[BREAK]umgeben, deshalb wünsche ich mir sehr, du[BREAK]hättest hierher kommen können, um mit uns[BREAK]diese frische Luft einzuatmen.[BREAK][BREAK]Wenn wir dich das nächste Mal besuchen,[BREAK]fragen wir einen von deinen Nachbarn, sich[BREAK]um die Schafe zu kümmern, sodass wir alle[BREAK]als Familie hierher kommen können.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], und ich haben[BREAK]stets an dich gedacht. Sobald wir heute Abend[BREAK]nach Hause kommen, fang ich sofort an deine[BREAK]Lieblingsspeise [FAVFOOD] zu kochen.[BREAK][BREAK]In Liebe,[BREAK]     deine teuerste [HINAWA 22 08 00][BREAK][BREAK][END]
 0-8:[FILE=".\0-8.txt"][END]
@@ -383,7 +383,7 @@
 0-164:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 0-164E:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 0-165:@A story is a series of memories.[WAIT]@Memories are remembered with other[BREAK]  memories,[WAIT]  and in turn become memories themselves.[WAIT]@If you don't take care to preserve your[BREAK]  memories,[PAUSE 40 00] you'll forget them.[WAIT]@So, please tell us frogs your memories of[BREAK]  everything so far...[WAIT]  That is what people refer to as "saving".[WAIT]@Now, then...[EVENT][END]
-0-165E:@Eine Geschichte besteht aus Erinnerungen.[WAIT]@Man erinnert sich an Erinnerungen mit Hilfe[BREAK]  von anderen Erinnerungen,[WAIT]  und werden im Gegenzug selbst welche.[WAIT]@Wenn du nicht gut auf deine Erinnerungen[BREAK]  Acht gibst,[PAUSE 40 00] wirst du sie vergessen.[WAIT]@Also, erzähl uns Fröschen bitte alles, was[BREAK]  bis jetzt alles passiert ist...[WAIT]  Menschen bezeichnen das auch als "speichern".[WAIT]@Nun denn...[EVENT][END]
+0-165E:@Eine Geschichte besteht aus Erinnerungen.[WAIT]@Man erinnert sich an Erinnerungen mit Hilfe[BREAK]  anderer Erinnerungen,[WAIT]  und werden im Gegenzug selbst welche.[WAIT]@Wenn du nicht gut auf deine Erinnerungen[BREAK]  Acht gibst,[PAUSE 40 00] vergisst du sie.[WAIT]@Also erzähl uns Fröschen bitte alles, was[BREAK]  bis jetzt passiert ist...[WAIT]  Menschen bezeichnen das auch "speichern".[WAIT]@Nun denn...[EVENT][END]
 0-166:@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-166E:@*hüpf*[BREAK]  Speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-167:@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -646,13 +646,13 @@
 2-7:[END]
 2-7E:[END]
 2-8:@Then I'll just have to drag you there myself![END]
-2-8E:@Dann schleppe ich dich eben selbst dorthin![END]
+2-8E:@Dann schleppe ich dich eben dorthin![END]
 // Repeats: 2-8, 12-8
 2-9:@Thomas joined your party![PAUSE A0 00][END]
 2-9E:@Thomas tretete deinem Team bei![PAUSE A0 00][END]
 // Repeats: 2-9, 12-9
 2-10:@I'll follow behind you.[WAIT]@What? What's so wrong with that?[WAIT]  I happen to like following behind people![END]
-2-10E:@Ich werde dir nachfolgen.[WAIT]@Wast? Was stimmt denn daran nicht?[WAIT]  Ich mag es vielleicht Leuten[BREAK]  hinterher zu laufen![END]
+2-10E:@Ich werde dir nachfolgen.[WAIT]@Was? Was stimmt denn daran nicht?[WAIT]  Ich mag es vielleicht Leuten[BREAK]  hinterher zu laufen![END]
 // Repeats: 2-10, 12-10
 2-11:@Aahh! [FLINT 23 01 00]![EVENT][END]
 2-11E:@Aahh! [FLINT 23 01 00]![EVENT][END]
@@ -677,7 +677,7 @@
 2-18E:@Hey! [FLINT 23 01 00]![END]
 // Repeats: 2-18, 12-18
 2-19:@That stick should make a good weapon in case[BREAK]  anything happens.[WAIT]@Be sure to equip it first, though.[WAIT]@Just holding on to it'll make it as useful as a[BREAK]  caramel.[END]
-2-19E:@Diesert Stock sollte eine gute Waffe im Falle[BREAK]  machen, dass irgendwas passiert.[WAIT]@Rüste es aber zuerst aus.[WAIT]@Es einfach nur zu halten macht es genauso[BREAK]  nützlich wie Karamel.[END]
+2-19E:@Dieser Stock sollte eine gute Waffe im Falle[BREAK]  machen, dass irgendwas passiert.[WAIT]@Rüste es aber zuerst aus.[WAIT]@Es einfach nur zu halten macht es genauso[BREAK]  nützlich wie Karamel.[END]
 // Repeats: 2-19, 12-19
 2-20:@It's a letter from [HINAWA 22 08 00].[END]
 2-20E:@Es ist ein Brief von [HINAWA 22 08 00].[END]
@@ -769,13 +769,13 @@
 3-12:@Please don't make me repeat myself![WAIT]@North, as in north-south-east-west![WAIT]@Just go north![WAIT]@Do things simply not register with you the first[BREAK]  time you hear them or something?![END]
 3-12E:@Bring mich nicht dazu es zu wiederholen![WAIT]@Norden, also wie in Nord-Süd-Ost-West![WAIT]@Geh einfach nach NORDEN![WAIT]@Muss dir wirklich alles zehnmal erklärt[BREAK]  werden, bis du es endlich verstehst?![END]
 3-13:@*cough* *cough*[WAIT]@Just hearing there was a *cough*[PAUSE 30 00] fire has me[BREAK]  *cough*[PAUSE 30 00] *hack*[PAUSE 30 00] coughing uncontrollably.[WAIT]@I'm ultra-sensitive to things, you know?[WAIT]@By the way, if you'd prefer to run instead of[BREAK]  walk, I recommend trying the "Dash" ability.[WAIT]@*cough*[PAUSE 30 00] *hack*[PAUSE 10 00][END]
-3-13E:@*hust* *hust*[WAIT]@Just hearing there was a *cough*[PAUSE 30 00] fire has me[BREAK]  *cough*[PAUSE 30 00] *hack*[PAUSE 30 00] coughing uncontrollably.[WAIT]@I'm ultra-sensitive to things, you know?[WAIT]@By the way, if you'd prefer to run instead of[BREAK]  walk, I recommend trying the "Dash" ability.[WAIT]@*cough*[PAUSE 30 00] *hack*[PAUSE 10 00][END]
+3-13E:@*hust* *hust*[WAIT]@Hab grad gehört, dass *hust*[PAUSE 30 00] Feuer hat mich[BREAK]  *hust*[PAUSE 30 00] *hack*[PAUSE 30 00] unkontrolliertes Husten.[WAIT]@Ich bin bei sowas extrem[BREAK]  empfindlich, weißt du?[WAIT]@Übrigens, wenn du lieber rennen anstatt laufen[BREAK]  willst, empfehle ich dir die "Sprinten"-Fähigkeit[WAIT]  zu benutzen.[WAIT]@*hust*[PAUSE 30 00] *hack*[PAUSE 10 00][END]
 3-14:@Aah! [FLINT 23 01 00]![END]
 3-14E:@Aah! [FLINT 23 01 00]![END]
 3-15:@Th-the Sunshine Forest is on fire?[WAIT]@Oh... Umm, uhh...[BREAK]  Should I maybe give you a hand, too?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 3-15E:@D-der Sonnenscheinwald brennt?[WAIT]@Oh... Umm, uhh...[BREAK]  Soll ich auch mithelfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
 3-16:@Oh... No, I thought you'd say that.[WAIT]@It's okay. Don't take it personally.[WAIT]  I'm not going to, after all.[END]
-3-16E:@Oh... Nein, Ich dachte mir schon, du würdest[BREAK]  das sagen.[WAIT]@Ist schon in Ordnung. Nimm es nicht persönlich.[WAIT]  Ich werde trotzdem nicht mitkommen.[END]
+3-16E:@Oh... Nein, ich habe mir schon gedacht, du[BREAK]  würdest das sagen.[WAIT]@Ist schon in Ordnung. Nimm es nicht persönlich.[WAIT]  Ich tu es ja auch nicht.[END]
 3-17:@Ack! W-wait.[WAIT]@Umm, I'm actually pretty busy, y'know?[WAIT]@No, I mean, umm...[PAUSE 20 00] You know how it is...[END]
 3-17E:@Ack! W-warte.[WAIT]@Umm, Ich bin eigentlich ziemlich[BREAK]  beschäftigt, weißte?[WAIT]@Nein, Ich meine, umm...[PAUSE 20 00][BREAK] Du weißt sicher, was es wirklich ist...[END]
 3-18:@Sorry...[WAIT]@I'll leave everything to you today,[BREAK]  [FLINT 23 01 00].[END]
@@ -796,7 +796,7 @@
 3-23E:@[FLINT 23 01 00]![END]
 // Repeats: 3-23, 91-3
 3-24:@Perfect timing! I heard you were taking a rest[BREAK]  here.[WAIT]@......Mighty heavy rain, isn't it?[WAIT]  Think I'll join you under the awning.[EVENT][END]
-3-24E:@Perfektes Timing! Ich habe gehört, du[BREAK]  würdest dich hier ausruhen.[WAIT]@......Ein gewaltiger Regenschauer, findest[BREAK]  du nicht?[WAIT]  Nun, dann werde ich dir wohl unter dem[BREAK]  Vordach Gesellschaft leisten.[EVENT][END]
+3-24E:@Perfektes Timing! Ich habe gehört, dass du[BREAK]  dich hier ausruhst.[WAIT]@......Ein gewaltiger Regenschauer, findest[BREAK]  du nicht?[WAIT]  Nun, dann werde ich dir mal unter dem[BREAK]  Vordach Gesellschaft leisten.[EVENT][END]
 3-25:@[FLINT 23 01 00].[WAIT]  Tell me.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  Have you seen [HINAWA 22 08 00] and the kids?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 3-25E:@[FLINT 23 01 00].[WAIT]  Sag mir.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  Hast du [HINAWA 22 08 00] und die Kids gesehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 3-26:@Oh? That so?[WAIT]@Have you seen [HINAWA 22 08 00] today?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -828,7 +828,7 @@
 3-39:@Looks like everyone went to the Prayer[BREAK]  Sanctuary.[END]
 3-39E:@Scheint, als wäre jeder zum Gebetsaltar[BREAK]  gegangen.[END]
 3-40:@I really wanna help you out, honest. *hic*[WAIT]@I'm totally just the guy [PAUSE 20 00]to help you out.[END]
-3-40E:@Ich will wirklich euch helfen. *schnief*[WAIT]@Ich bin so eine Art Mensch[PAUSE 20 00], die anderen hilft.[END]
+3-40E:@Ich will euch wirklich helfen, ehrlich. *schnief*[WAIT]@Ich bin so eine Art Mensch[PAUSE 20 00], die euch hilft.[END]
 3-41:@This laundry has been drenched by the rain.[END]
 3-41E:@Diese Wäscherei wurde vom Regen getränkt.[END]
 3-42:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Hmm? That's not what you need?[WAIT]@Oh, [CLAUS 22 05 00] and [LUCAS 22 03 00]?[WAIT]@I believe they're at the Sunset Cemetery,[BREAK]  north of the village.[END]
@@ -837,16 +837,16 @@
 3-43E:@Oh, h-hallo, [FLINT 23 01 00]...[BREAK]  Du bist bereits außer Haus?[WAIT]@H-hast du schon gegessen?[END]
 3-44:@Mister [FLINT 23 01 00]![WAIT]@What's wrong? Why the long face?[WAIT]@Come stop by our place![WAIT]  We're baking Nut Bread![END]
 3-44E:@Herr [FLINT 23 01 00]![WAIT]@Stimmt was nicht? Warum das lange Gesicht?[WAIT]@Komm bei uns vorbei![WAIT]  Wir backen Nussbrot![END]
-3-45:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Alec's house?[BREAK]@Here, I'll mark it on your map for you.[END]
-3-45E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Alecs Haus?[BREAK]@Hier, ich markiere es für dich auf deiner Karte.[END]
-3-46:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@With old man Alec today, are you?[BREAK]  And you're going to his house?[WAIT]@In that case, I'll mark your map so you won't[BREAK]  get lost.[WAIT]@Eh? I don't need to mark it?[WAIT]@Who cares? I just like to mark maps.[END]
-3-46E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Der alte Alec heute, richtig?[BREAK]  Und du willst zu seinem Haus?[WAIT]@In diesem Fall markiere ich es für dich auf[BREAK]  deiner Karte, damit du dich nicht verläufst.[WAIT]@Was? Ich brauch es nicht zu markieren?[WAIT]@Wen interessierts? Ich markiere gerne Karten.[END]
-3-47:@There you go.[WAIT]  I've marked Alec's house for you.[END]
-3-47E:@Bitte schön.[WAIT]  Ich habe Alecs Haus für dich markiert.[END]
+3-45:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Alex's house?[BREAK]@Here, I'll mark it on your map for you.[END]
+3-45E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Alex' Haus?[BREAK]@Hier, ich markiere es für dich auf deiner Karte.[END]
+3-46:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@With old man Alex today, are you?[BREAK]  And you're going to his house?[WAIT]@In that case, I'll mark your map so you won't[BREAK]  get lost.[WAIT]@Eh? I don't need to mark it?[WAIT]@Who cares? I just like to mark maps.[END]
+3-46E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Der alte Alex heute, hab ich recht?[BREAK]  Und du willst zu seinem Haus?[WAIT]@In diesem Fall markiere ich es für dich auf[BREAK]  deiner Karte, damit du dich nicht verläufst.[WAIT]@Was? Ich brauch es nicht zu markieren?[WAIT]@Wen interessierts? Ich markiere gerne Karten.[END]
+3-47:@There you go.[WAIT]  I've marked Alex's house for you.[END]
+3-47E:@Bitte schön.[WAIT]  Ich habe Alex' Haus für dich markiert.[END]
 3-48:@Be careful out there, now.[END]
 3-48E:@Sei vorsichtig draußen.[END]
 3-49:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-3-49E:@[HINAWA 22 08 00] gab den Einwohnern von[BREAK]  Tazmily Gerberas als Geschenk.[END]
+3-49E:@[HINAWA 22 08 00] schenkte diese[BREAK]  Tazmily Gerberas den Einwohner.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 4]
@@ -903,7 +903,7 @@
 5-3E:@Moo.[WAIT]  (Sabbern oder nicht sabbern, das ist hier[BREAK]  die Frage.)[END]
 // This is a math pun in the original
 5-4:@Oink oink.[WAIT]  (There's actually secret, behind-the-scenes[BREAK]  info about MOTHER 3 that only pigs know...)[END]
-5-4E:@Oink oink.[WAIT]  (Es gibt ein Geheimnis über MOTHER 3,[BREAK]  das nur Schweine kennen...)[END]
+5-4E:@Oink oink.[WAIT]  (Es gibt ein Geheimnis über diese[BREAK]  Fan-Übersetzung, das nur Schweine kennen...)[END]
 5-5:@Oink oink?[WAIT]  (What kind of secret, behind-the-scenes[BREAK]  MOTHER 3 info would only pigs know about?)[END]
 5-5E:@Oink oink?[WAIT]  (Welches Geheimnis nur Schweine kennen?)[END]
 5-6:@Oink?[WAIT]  (I'm a pig, but I don't know any secret[BREAK]  MOTHER 3 info that only pigs know...)[END]
@@ -921,39 +921,39 @@
 5-11E:@Moo![WAIT]  (Die PETA wird uns rächen!)[END]
 // this is supposed to sound complicated. An "even-toed ungulate" is a scientific term
 5-12:@Ooooink oink, oink.[WAIT]  (Those first two oinks were me crying.)[END]
-5-12E:@Ooooink oink, oink.[WAIT]  (Die ersten zwei Oinker war Geschrei.)[END]
+5-12E:@Ooooink oink, oink.[WAIT]  (Die ersten zwei Oinker waren Geschrei.)[END]
 5-13:@Oink-oink oink.[WAIT]  (I hear there's some pig somewhere talking[BREAK]  about secret info for Something-Or-Other 3.[WAIT]  Come on, now. What a nuisance that guy is.[WAIT]  I don't know much about the secret info,[BREAK]  personally.)[END]
-5-13E:@Oink-oink oink.[WAIT]  (Ich habe gehört, dass es irgendwo Schweine[BREAK]  gibt, die über ein Geheimnis von[WAIT]  Etwas-Oder-Anderes 3 reden.[WAIT]  Jetzt komm schon.[WAIT]  Ich persönlich weiß nichts darüber.)[END]
+5-13E:@Oink-oink oink.[WAIT]  (Ich habe gehört, dass es irgendwo Schweine[BREAK]  gibt, die über ein Geheimnis von[WAIT]  Etwas-Oder-Anderes 3 reden.[WAIT]  Jetzt komm schon. Dieser Kerl ist eine echte[BREAK]  Plage.[WAIT]  Ich persönlich weiß nichts darüber.)[END]
 5-14:@Oink?[BREAK]  (Do you really wanna know?)[END]
 5-14E:@Oink?[BREAK]  (Du willst es wirklich wissen?)[END]
 5-15:@Oink oink-oink.[WAIT]  (During MOTHER 2's creation, a tonkatsu shop[BREAK]  named Katsuman opened up in Kanda,[WAIT]  and it was so great it managed to get into the[BREAK]  game.[WAIT]@But this time, with MOTHER 3, the croquette[BREAK]  rolls they sell at the Lonlon shop in Kichijoji[WAIT]  got all the attention.)[END]
-5-15E:@Oink oink-oink.[WAIT]  (Während der Entwicklung von EARTHBOUND,[BREAK]  hat ein Tonkatsu Geschäft namens Katsuman[WAIT]  in Kanda geöffnet,[WAIT]  und es war so großartig, dass sie es ins Spiel[BREAK]  geschafft haben.[WAIT]@Aber dieses Mal, in MOTHER 3, hat das[BREAK]  Krokette vom Lonlon Geschäft in Kichijoji[WAIT]  die ganze Aufmerksamkeit bekommen.)[END]
+5-15E:@Oink oink-oink.[WAIT]  (Erinnerst du dich an die zwei Linien im Kapitel-[BREAK]  bildschirm?[WAIT]  Diese sind durch ein Texturierfehler beim Über-[BREAK]  setzen entstanden, da der Übersetzer sie aber[WAIT]  schön fand, hat er es drin gelassen.)[END]
 5-16:@Oink-oink-oink-oink oink oink oinka-oink![WAIT]  (My rendition of a musical fanfare.)[END]
-5-16E:@Oink-oink-oink-oink oink oink oinka-oink![WAIT] (Meine Wiedergabe einer musikalishen Fanfare.)[END]
+5-16E:@Oink-oink-oink-oink oink oink oinka-oink![WAIT] (Meine Wiedergabe einer musikalischen[BREAK]  Fanfare.)[END]
 5-17:@Oink, oink-oink.[BREAK]  (Pigs...)[END]
 5-17E:@Oink, oink-oink.[BREAK]  (Schweine...)[END]
 5-18:@Oink oink?[BREAK]  (Pigs... What do you think of 'em?)[END]
 5-18E:@Oink oink?[BREAK]  (Schweine... Wie empfindest du sie?)[END]
 5-19:@What are cows like from a monkey's point of[BREAK]  view?[END]
-5-19E:@Was sind Kühe aus der Sicht eines Affens?[END]
+5-19E:@Wie sind Kühe aus der Sicht eines Affens?[END]
 5-20:@You know how animals talk and all that?[BREAK]  I wonder how it sounds to humans.[END]
-5-20E:@Du weißt wie Tiere reden und so?[BREAK]  Ich frage mich wie es sich für Menschen[BREAK]  anhört.[END]
+5-20E:@Du weißt, wie Tiere reden und so?[BREAK]  Ich frage mich, wie es sich für Menschen[BREAK]  anhört.[END]
 5-21:@Do you suppose a cow's cuteness is related to[BREAK]  the deliciousness of its meat?[END]
 5-21E:@Glaubst du die Klugheit einer Kuh hat etwas[BREAK]  mit der Köstlichkeit seines Fleisches zu tun?[END]
 5-22:@Never fear.[BREAK]  I am not a carnivorous cow.[END]
 5-22E:@Fürchte dich nicht![BREAK]  Ich bin keine fleischfressende Kuh.[END]
 5-23:@You a bachelor?[WAIT]@I'm a bachelor.[END]
-5-23E:@Du ein Junggeselle?[WAIT]@Ich bin ein Junggeselle.[END]
+5-23E:@Du ein Junggeselle?[WAIT]@Ich bin Junggeselle.[END]
 5-24:@Can you run fast?[WAIT]@I'm slow.[END]
 5-24E:@Kannst du schnell rennen?[WAIT]@Ich bin langsam.[END]
 5-25:@Have you put on weight lately?[WAIT]@I'm on a diet.[END]
 5-25E:@Hast du vor Kurzem dein Gewicht gemssen?[WAIT]@Ich bin auf Diet.[END]
 5-26:@Do you know the secret about MOTHER 3?[WAIT]@'Cause I do.[PAUSE 3C 00][BREAK]@I'm not telling, though.[END]
-5-26E:@Kennst du das Geheimnis über MOTHER 3?[WAIT]@'Weil ich es tu.[PAUSE 3C 00][BREAK]@Ich sags dir aber nicht.[END]
+5-26E:@Kennst du das Geheimnis über diese Fan-[BREAK]  Übersetzung?[WAIT]@Weil ich es tu'.[PAUSE 3C 00][BREAK]@Ich sags dir aber nicht.[END]
 5-27:@Wow! Just wow![WAIT]  Such magnificent, marvelous pigs![END]
 5-27E:@Wow! Einfach nur wow![WAIT]  Solch prachtvolle, fabelhafte Schweine![END]
 5-28:@When my pigs are praised, it makes ME feel[BREAK]  good, almost as if the praise is about me.[END]
-5-28E:@Wenn meine Schweine gelobt werden, fühl ICH[BREAK]  mich so gut, als würde man mich loben.[END]
+5-28E:@Wenn meine Schweine gelobt werden, fühl ICH[BREAK]  mich so, als würde man mich loben.[END]
 5-29:@*whisper* *whisper*[WAIT]@Hey. [DUSTER 22 0F 00].[WAIT]  You better not tell ANYONE about the money I[BREAK]  hid in that well![END]
 5-29E:@*flüster* *flüster*[WAIT]@Hey. [DUSTER 22 0F 00].[WAIT]  Du erzählst besser NIEMANDEN über das Geld[BREAK]  im Brunnen, das ich dort versteckt habe![END]
 5-30:@Butch has been acting kind of strange since[BREAK]  yesterday.[WAIT]@Do you know what his deal is, [DUSTER 22 0F 00]?[END]
@@ -1007,16 +1007,16 @@
 
 [Container 7]
 7-0:@[DUSTER 23 03 00].[WAIT]@Listen to the voice of the sea.[WAIT]@The sea washes away people's worries.[WAIT]@I once washed someone's back in a bath.[WAIT]@What do you think? I wrote that poem myself.[END]
-7-0E:@[DUSTER 23 03 00].[WAIT]@Höre die Stimme des Meeres.[WAIT]@Das Meer die Sorgen der Menschen[BREAK]  wegwäscht.[WAIT]@Ich habe einmal jemanden gewaschen.[WAIT]@Was denkst du?[BREAK]  Ich habe dieses Gedicht selbst geschrieben.[END]
+7-0E:@[DUSTER 23 03 00].[WAIT]@Höre die Stimme des Meeres.[WAIT]@Das Meer die Sorgen der Menschen[BREAK]  wegwäscht.[WAIT]@Ich wusch einmal jemanden den Rücken.[WAIT]@Was denkst du?[BREAK]  Ich habe dieses Gedicht selbst geschrieben.[END]
 // This should be poem-like, but not a very good poem.
 7-1:@Oh, old man Wess.[WAIT]@[DUSTER 23 03 00] was a real help the other day.[WAIT]@[FLINT 23 01 00] appreciated his help from the[BREAK]  bottom of his heart, too.[WAIT]@I know how it feels.[WAIT]@I've been thanked over and over and over by[BREAK]  all sorts of people throughout my life.[END]
-7-1E:@Oh, alter Mann Wess.[WAIT]@[DUSTER 23 03 00] war eine echte Hilfe damals.[WAIT]@[FLINT 23 01 00] schätzte seine Hilfe vom[BREAK]  ganzen Herzen.[WAIT]@Ich weiß wie es sich anfühlt.[WAIT]@Mir wurde in meinem Leben von so vielen[BREAK]  verschiedenen Menschen Danke gesagt.[END]
+7-1E:@Oh, alter Mann Wess.[WAIT]@[DUSTER 23 03 00] war damals eine echte Hilfe..[WAIT]@[FLINT 23 01 00] schätzte seine Hilfe vom[BREAK]  ganzen Herzen.[WAIT]@Ich weiß, wie es sich anfühlt.[WAIT]@Mir wurde in meinem Leben von so vielen[BREAK]  verschiedenen Menschen Danke gesagt.[END]
 7-2:@I never thought I'd see you lose it like that...[END]
 7-2E:@Ich hätte nie gedacht, dass du so[BREAK]  aufgeben würdest...[END]
 7-3:@But if you start acting like that, what'll happen[BREAK]  to the two kiddos who rely on you?[WAIT]@You know what's best.[WAIT]@[PAUSE 20 00]It's tough being a man.[END]
 7-3E:@Aber wenn du so anfängst, was wird mit[BREAK] den zwei Kindern passieren, die auf dich zählen?[WAIT]@Du weißt sicher, was das beste ist.[WAIT]@[PAUSE 20 00]Man hat es als Mann echt nicht leicht.[END]
 7-4:@No doubt [CLAUS 22 05 00] is intent on avenging[BREAK]  [HINAWA 22 08 00].[WAIT]@You'd better go after him, and fast...[WAIT]@I'll let you borrow this.[END]
-7-4E:@Ohne Frage hat [CLAUS 22 05 00] vor,[BREAK]  [HINAWA 22 08 00] zu rächen.[WAIT]@Du läufst ihm besser nach, und zwar schnell...[WAIT]@Das werde ich dir ausleihen lassen.[END]
+7-4E:@Ohne Zweifel hat [CLAUS 22 05 00] vor,[BREAK]  [HINAWA 22 08 00] zu rächen.[WAIT]@Du läufst ihm besser nach, und zwar schnell...[WAIT]@Das werde ich dir ausleihen lassen.[END]
 7-5:@Received a [ITEM 39 00]![END]
 7-5E:@Eine [ITEM 39 00] erhalten![END]
 // Item 39 = Manly Bandana
@@ -1048,7 +1048,7 @@
 7-18:@I don't want anything from you.[END]
 7-18E:@Ich will gar nichts von dir.[END]
 7-19:@I'm Nana.[WAIT]@They say that on Tanetane Island, across the[BREAK]  sea, is a world of dreams and nightmares.[WAIT]@But they also say that nobody knows the real[BREAK]  truth about it.[WAIT]@So then how do I know about it?[END]
-7-19E:@Ich heiße Nana.[WAIT]@Man sagt, dass auf der Insel Tanetane, welche[BREAK]   jenseits des Meeres liegt, eine Welt voller[WAIT]  Träume und Albträume ist.[WAIT]@Aber es heißt auch, dass noch nie jemand die[BREAK]  Wahrheit darüber gesehen hat.[WAIT]@Also, woher weiß ich es dann?[END]
+7-19E:@Ich heiße Nana.[WAIT]@Man sagt, dass auf der Insel Tanetane, welche[BREAK]   jenseits des Meeres liegt, eine Welt voller[WAIT]  Träume und Albträume ist.[WAIT]@Aber es heißt auch, dass noch nie jemand die[BREAK]  Wahrheit darüber gesehen hat.[WAIT]@Woher weiß ich es dann?[END]
 
 [Container 8]
 8-0:[ALTERNATEFONT]@this hole.[WAIT]  to cliff,[BREAK]  and fire mountain.[END]
@@ -1110,7 +1110,7 @@
 8-28:@Tsk, tsk, tsk...[BREAK]  Have some faith in me.[END]
 8-28E:@Tsk, tsk, tsk...[BREAK]  Hab doch nur ein bisschen Vertrauen in mich.[END]
 8-29:@I may've dislocated my jaw that last time...[WAIT]@...but I still got plenty left in me![WAIT]@Just gimme one more chance![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-8-29E:@Ich habe mir zwar das letzte mal das Gebiss[BREAK]  ausgerenkt...[WAIT]@...aber ich habe noch vieles auf Lager![WAIT]@Gebt mir einfach noch eine weiter Chance![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+8-29E:@Ich habe mir zwar das letzte Mal das Gebiss[BREAK]  ausgerenkt...[WAIT]@...aber ich habe noch vieles auf Lager![WAIT]@Gebt mir einfach noch eine weiter Chance![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 8-30:@That's what I'm talkin' about![WAIT]@I knew I could expect great things from you![WAIT]@[LUCAS 23 02 00]![WAIT]@This looks to be a manly[PAUSE 0F 00] journey through the[BREAK]  skies.[END]
 8-30E:@So will ich das sehen![WAIT]@Ich wusste ich kann großes von dir erwarten![WAIT]@[LUCAS 23 02 00]![WAIT]@Dies scheint eine mannhafte[PAUSE 0F 00] Reise durch den[BREAK]  Himmel zu sein.[END]
 8-31:@Ever since what happened, I've...[WAIT]@I've been toughening up my jaw by crunching[BREAK]  walnut shells day after day after day![WAIT][PAUSE 0F 00]@Yeah, and I ate the stuff inside the shells too,[BREAK]  of course.[WAIT]@Now I'm practically like a walnut-cracking jaw[BREAK]  with a snake attached![WAIT][PAUSE 1E 00]@It's really super strong![WAIT]@Please, let me try just one more time![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -1134,10 +1134,10 @@
 
 [Container 9]
 9-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
-9-0E:@[FLINT 23 01 00]![WAIT]@Der Sonnenscheinwald, welcher westlich von[BREAK]  der Kreuzung und hinter dem Heiligtum liegt,[WAIT]  brennt wie verrückt![WAIT]@Oh, sorry, das hat sich so erklärerisch[BREAK]  angehört![END]
+9-0E:@[FLINT 23 01 00]![WAIT]@Der Sonnenscheinwald, welcher westlich von[BREAK]  hier und hinter dem Heiligtum liegt,[WAIT]  brennt wie verrückt![WAIT]@Oh, sorry, das hat sich so Erklärungs-artig[BREAK]  angehört![END]
 // Repeats: 9-0, 37-0
 9-1:@Mr. [FLINT 23 01 00]![WAIT]@If you lose your way, be sure to check sign[BREAK]  posts and message boards.[WAIT]@I'm telling you this out of the kindness of my[BREAK]  heart, just so you know![END]
-9-1E:@Herr [FLINT 23 01 00]![WAIT]@Wenn du dich verlaufen solltest, checke mal[BREAK]  die Schilder ab.[WAIT]@Das sage ich nur aus reiner Nettheit, nur damit[BREAK]  dus' weißt![END]
+9-1E:@Herr [FLINT 23 01 00]![WAIT]@Wenn Sie sich verlaufen sollten, checke mal[BREAK]  die Schilder ab.[WAIT]@Das sage ich nur aus reiner Nettheit, nur damit[BREAK]  Sies' wissen![END]
 // Repeats: 9-1, 37-1
 9-2:@Even if I did go on ahead, I just know I'd be no[BREAK]  help at all.[WAIT]@What should I do...?[END]
 9-2E:@Selbst wenn ich dortlang gehen sollte,[BREAK]  wüsste ich nicht wie ich helfen sollte.[WAIT]@Was soll ich tun...?[END]
@@ -1146,7 +1146,7 @@
 9-3E:@[FLINT 26 01 00 03 00]! Falsche Richtung![BREAK] Von da kommst du nicht zum Feuer![WAIT]@Wir haben jetzt echt keine Zeit für[BREAK]  irgendwelche Abstecher![END]
 // Repeats: 3-0, 9-3, 37-3
 9-4:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
-9-4E:@Süden: Tazmily[BREAK]@Westen: Sonnenscheinwald[WAIT]@Norden: Sonnenaufgangsfriedhof[END]
+9-4E:@Süden: Tazmily[BREAK]@Westen: Sonnenscheinwald[WAIT]@Norden: Abendlicht-Friedhof[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
 9-5:@Sunset Cemetery[BREAK]  "Graves have never looked so scenic"[WAIT]@NO ZOMBIES ALLOWED[END]
 9-5E:@Sonnenaufgangsfriedhof[BREAK]  "Gräber haben nie so malerisch ausgesehen"[WAIT]@KEINE ZOMBIES ERLAUBT[END]
@@ -1155,7 +1155,7 @@
 9-6E:@Der Eingang ist verschlossen.[END]
 // Repeats: 9-6, 37-6
 9-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-9-7E:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
+9-7E:@[FLINT 23 01 00].[WAIT]  Du hast dich bei deinem Wutausbruch wirklich[BREAK]  verloren.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
 // Repeats: 9-7, 37-7
 9-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
 9-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Sonnenaufgangsfriedhof.[WAIT]@Absolut jeder liebte [HINAWA 22 08 00]...[END]
@@ -1182,7 +1182,7 @@
 9-15E:@Der Krreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
 9-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-9-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  Spielsprache anstatt Vergleichen.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts. gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Zur Zeit kannst du das Steuerkreuz benutzen[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Indem du dann den [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, wählst[BREAK]  du die Menüoption aus,[WAIT]  du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und den[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du dann weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00][BREAK]  und die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Knöpfe![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+9-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann den [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, wählst[BREAK]  du die Menüoption aus,[WAIT]  du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und den[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du dann weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00][BREAK]  und die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Knöpfe![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 9-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
 9-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Ein Spatz, der flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie ein Spatz zu[BREAK]  enden...[EVENT][END]
@@ -1239,7 +1239,7 @@
 10-14E:@[FLINT 23 01 00]...[WAIT]  Du und [HINAWA 22 08 00]...[WAIT]  Ihr habt euch so sehr geliebt, dass sogar die[BREAK]  kleinen Vögel im Wald eifersüchtig waren.[WAIT]@Und das wird sich niemals ändern, sogar nach[BREAK]  diesem Vorfall.[END]
 // Repeats: 10-14, 222-14, 506-14
 10-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-10-15E:@*hic*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@![WAIT]@Findest du nicht?[WAIT]@Ich kann jetzt nichts trinken...[END]
+10-15E:@*hic*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann jetzt nichts trinken...[END]
 // Repeats: 10-15, 222-15, 506-15
 10-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
 10-16E:@Sorry für die Betrunkenheit meines Mannes,[BREAK]  [FLINT 23 01 00].[END]
@@ -1429,8 +1429,8 @@
 11-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 11-20E:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-20, 212-20, 213-20
-11-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
-11-21E:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+11-21:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+11-21E:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-21, 212-21, 213-21
 11-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
 11-22E:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
@@ -1470,13 +1470,13 @@
 12-7:[END]
 12-7E:[END]
 12-8:@Then I'll just have to drag you there myself![END]
-12-8E:@Dann schleppe ich dich eben selbst dorthin![END]
+12-8E:@Dann schleppe ich dich eben dorthin![END]
 // Repeats: 2-8, 12-8
 12-9:@Thomas joined your party![PAUSE A0 00][END]
 12-9E:@Thomas tretete deinem Team bei![PAUSE A0 00][END]
 // Repeats: 2-9, 12-9
 12-10:@I'll follow behind you.[WAIT]@What? What's so wrong with that?[WAIT]  I happen to like following behind people![END]
-12-10E:@Ich werde dir nachfolgen.[WAIT]@Wast? Was stimmt denn daran nicht?[WAIT]  Ich mag es vielleicht Leuten nachzufolgen![END]
+12-10E:@Ich werde dir nachfolgen.[WAIT]@Was? Was stimmt denn daran nicht?[WAIT]  Ich mag es vielleicht Leuten nachzufolgen![END]
 // Repeats: 2-10, 12-10
 12-11:@Aahh! [FLINT 23 01 00]![EVENT][END]
 12-11E:@Aahh! [FLINT 23 01 00]![EVENT][END]
@@ -1501,7 +1501,7 @@
 12-18E:@Hey! [FLINT 23 01 00]![END]
 // Repeats: 2-18, 12-18
 12-19:@That stick should make a good weapon in case[BREAK]  anything happens.[WAIT]@Be sure to equip it first, though.[WAIT]@Just holding on to it'll make it as useful as a[BREAK]  caramel.[END]
-12-19E:@Diesert Stock sollte eine gute Waffe im Falle[BREAK]  machen, dass irgendwas passiert.[WAIT]@Rüste es aber zuerst aus.[WAIT]@Es einfach nur zu halten macht es genauso[BREAK]  nützlich wie Karamel.[END]
+12-19E:@Dieser Stock sollte eine gute Waffe im Falle[BREAK]  machen, dass irgendwas passiert.[WAIT]@Rüste es aber zuerst aus.[WAIT]@Es einfach nur zu halten macht es genauso[BREAK]  nützlich wie Karamel.[END]
 // Repeats: 2-19, 12-19
 12-20:@It's a letter from [HINAWA 22 08 00].[END]
 12-20E:@Es ist ein Brief von [HINAWA 22 08 00].[END]
@@ -1559,7 +1559,7 @@
 12-38E:@Tazmily Gerberas sind [HINAWA 22 08 00]s[BREAK]  Lieblingsblumen, nach Sonnenblumen.[END]
 // Repeats: 2-38, 12-38, 210-13
 12-39:@The flames started coming our way, so we[BREAK]  ran here with all our might...[WAIT]@But ol' Lighter and li'l Fuel are still stuck in the[BREAK]  forest...[END]
-12-39E:@Die Flammen begonnen sich in unsere Richtung[BREAK]  auszubreiten, also sind wir mit allem, was wir[WAIT]  hatten, weggerrannt...[WAIT]@Aber der allte Lighter und der kleine Fuel sind[BREAK]  noch immer im Wald gefangen...[END]
+12-39E:@Die Flammen fingen an sich in unsere Richtung[BREAK]  auszubreiten, also sind wir mit allem, was wir[WAIT]  hatten, weggerrannt...[WAIT]@Aber der alte Lighter und der kleine Fuel sind[BREAK]  noch immer im Wald gefangen...[END]
 12-40:@This is what he gets for running without[BREAK]  warming up first.[WAIT]@Yeesh. What a bonehead of a partner...[END]
 12-40E:@Das passiert nunmal, wenn man ohne voriges[BREAK]  Aufwärmen losrennt.[WAIT]@Maaaannnnn. Was für ein Holzkopf...[END]
 12-41:@*wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00] *wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00][WAIT]@*wheeze*[PAUSE 10 00] No... What are you doing?[WAIT]@Quit pushing that...[WAIT]@*wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00][BREAK]  Quit it...[END]
@@ -1570,7 +1570,7 @@
 12-43:@*wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00] *wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00][WAIT]@*wheeze*[PAUSE 10 00] No... What are you doing?[WAIT]@Quit pushing that...[WAIT]@*wheeze*[PAUSE 10 00] *gasp*[PAUSE 10 00][BREAK]  Quit it...[WAIT]@Seriously, stop...[WAIT]@Keep pushing that and I'll be sick...[WAIT]@Why do you keep pushing it?[WAIT]@See, you did it again...![WAIT]@If you keep this up, I'm gonna...[END]
 12-43E:@*keuch*[PAUSE 10 00] *hust*[PAUSE 10 00] *keuch*[PAUSE 10 00] *hust*[PAUSE 10 00][WAIT]@*keuch*[PAUSE 10 00] Nein...was machst du da?[WAIT]@Hör auf das zu drücken...[WAIT]@*keuch*[PAUSE 10 00] *japs*[PAUSE 10 00][BREAK]  Hör auf...[WAIT]@Ernsthaft, stop...[WAIT]@Mach weiter und ich werde krank...[WAIT]@Warum drückst du es immernoch?[WAIT]@Ach, jetzt hast du es schon wieder getan...![WAIT]@Wenn du so weitermachst, werde ich...[END]
 12-44:@Bleeeergh![WAIT]  Just so you know, if something bad happens to[BREAK]  me,[WAIT]  it's all because YOU kept pressing that stupid[BREAK]  thing![END]
-12-44E:@Bleeeergh![WAIT]  Nur damit du es weißt, wernn etwas[BREAK]  schlimmes mit mir passiert,[WAIT]  liegt das daran, weil DU dieses dumme Ding[BREAK]  ständig gedrückt hast![END]
+12-44E:@Bleeeergh![WAIT]  Nur damit du es weißt, wenn etwas[BREAK]  schlimmes mit mir passiert,[WAIT]  liegt das daran, weil DU dieses dumme Ding[BREAK]  ständig gedrückt hast![END]
 12-45:@*gasp*[PAUSE 08 00]  *wheeze*[PAUSE 08 00]  *gasp*[PAUSE 08 00]  *wheeze*[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@I still don't feel so good.[END]
 12-45E:@*hust*[PAUSE 08 00]  *keuch*[PAUSE 08 00]  *hust*[PAUSE 08 00]  *keuch*[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Mir geht es immer noch nicht gut.[END]
 12-46:[SOUND 03 00]@Chirp chirppp![WAIT]  (Sparrow Advice![WAIT]  Got a minute?[WAIT]  If you're ever out of strength or find yourself[BREAK]  poisoned,[WAIT]  a dip in a hot spring is best for what ails you.[WAIT]  But it's important that you stay in the water[BREAK]  for a while for it to be effective.[WAIT]  And actually, there's a nice hot spring right[BREAK]  inside the Sunshine Forest, too.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
@@ -1733,7 +1733,7 @@
 13-24E:@Unwahrscheinlicherweise, war in der Box eine[BREAK]  heiße Quelle![END]
 // Repeats: 13-24, 14-24, 17-24, 36-24, 42-24, 55-24, 72-24, 77-24, 80-24, 96-24, 180-24, 181-24, 182-24, 192-24, 203-24, 207-24, 249-24, 250-24, 251-24, 252-24, 263-24, 327-24, 328-24, 329-24, 330-24, 331-24, 332-24, 373-24, 374-24, 375-24, 376-24, 377-24, 378-24, 379-24, 443-24, 467-24, 468-24, 469-24, 471-24, 472-24, 477-24, 803-24, 877-24, 878-24, 880-24, 882-24, 892-24, 900-24
 13-25:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Some people always try to avoid fighting when[BREAK]  there are enemies around.[WAIT]  You know the type, right?[WAIT]  They use the dash ability to zoom right by.[WAIT]  I guess you could say they're followers of[BREAK]  "peace at any price".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] No, no, no.[PAUSE 08 00][BREAK]  I'm not saying that's how you are or anything.[WAIT]  I just think that if you keep running away from[BREAK]  everything now,[WAIT]  later on when you HAVE to fight, you'll have a[BREAK]  really rough time because you lack experience.[WAIT]     "Always running off[PAUSE 18 00][BREAK]    will only lead to regret[PAUSE 18 00][BREAK]      my young disciple."[WAIT]  Please keep this in mind.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit um ihnen zu[BREAK]  entgehen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Frieden um jeden Preis".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein, nein, nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn du[BREAK]  jetzt vor allem wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann eine ziemlich harte Zeit hast,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun um es wie ein Spatz zu beenden...[EVENT][END]
+13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit um ihnen zu[BREAK]  entkommen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Frieden um jeden Preis".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein, nein, nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn du[BREAK]  jetzt vor allem wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann eine ziemlich harte Zeit haben wirst,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun um es wie ein Spatz zu beenden...[EVENT][END]
 // Repeats: 13-25, 14-25, 17-25, 36-25, 42-25, 55-25, 72-25, 77-25, 80-25, 96-25, 180-25, 181-25, 182-25, 192-25, 203-25, 207-25, 249-25, 250-25, 251-25, 252-25, 263-25, 327-25, 328-25, 329-25, 330-25, 331-25, 332-25, 373-25, 374-25, 375-25, 376-25, 377-25, 378-25, 379-25, 443-25, 467-25, 468-25, 469-25, 471-25, 472-25, 477-25, 803-25, 877-25, 878-25, 880-25, 882-25, 892-25, 900-25
 13-26:[SOUND 03 00]  chirp-chirp chirp-chirp!)[END]
 13-26E:[SOUND 03 00]  zwitscher-zwitscher zwitscher-zwitscher!)[END]
@@ -1912,7 +1912,7 @@
 15-1:@I've been play-fighting with the Dragos all[BREAK]  morning.[WAIT]@You should play too, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 15-1E:@Ich habe den ganzen Morgen mit den Dragos[BREAK]  kämpfen gespielt.[WAIT]@Du solltest mitspielen, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 15-2:@Here, try ramming into a Drago.[END]
-15-2E:@Los, verusch mal einen Drago zu rammen.[END]
+15-2E:@Los, versuch mal einen Drago zu rammen.[END]
 15-3:@Come on. Just give it a try.[WAIT]@The Dragos are waiting.[END]
 15-3E:@Komm schon. Versuch's einfach.[WAIT]@Die Dragos warten schon.[END]
 15-4:@[CLAUS 22 05 00]![WAIT]@[LUCAS 23 02 00] still doesn't know how to ram[BREAK]  into things yet.[END]
@@ -1944,13 +1944,13 @@
 15-17:@Move it! Outta the way![BREAK]  Make way for the great Mole Cricket![END]
 15-17E:@Bewegung! Aus dem Weg![BREAK]  Macht Platz für die Großartige Maulwurfsgrille![END]
 15-18:@I can't just sit idly by when I hear someone's[BREAK]  play-fighting![WAIT]@I'm gonna wipe the floor with all of you![WAIT]@Get in my way and you're in for a world of[BREAK]  pain![END]
-15-18E:@Ich kann nicht ruhig sitzen, wenn ich höre,[BREAK]  dass jemand kämpfen spielt![WAIT]@Ich werde mit euch den Boden wischen![WAIT]@Kommt mir in die Quere und ihr werdet in der[BREAK]  Welt der Schmerzen landen![END]
+15-18E:@Ich kann nicht einfach still 'rumsitzen, wenn[BREAK]  jemand schaukämpft![WAIT]@Ich werde mit euch den Boden wischen![WAIT]@Kommt mir in die Quere und ihr werdet euch in[BREAK]  einer Welt der Schmerzen wiederfinden![END]
 15-19:@You're pretty gutsy, I'll give you that.[WAIT]@But you can challenge me to 100 fights and I'll[BREAK]  still kick your butt each and every time![END]
 15-19E:@Ihr seid ganz schön mutig, das muss man euch[BREAK]  schon lassen.[WAIT]@Ihr könnt mich 100 Mal herausforden, aber[BREAK]  auch danach werde ich eure Hintern jedes[WAIT]  einzelne Mal versohlen![END]
 15-20:@I see you have more of a spine than I thought.[WAIT]@If you'd like, I could train you personally[BREAK]  sometime.[WAIT]@Next time we meet, it'll be at the big[BREAK]  Mole Cricket Hole Stadium![WAIT]  I look forward to seein' you there![PAUSE 40 00][BREAK]  .[PAUSE 0C 00].[PAUSE 18 00].[PAUSE 20 00]Bro.[END]
-15-20E:@Ich sehe, ihr habt mehr drauf, als ich dachte.[WAIT]@Wenn ihr wollt, könnte ich euch mal persönlich[BREAK]  trainieren.[WAIT]@Das nächste Mal wo wir uns treffen, wird am[BREAK]  großen Maulwurfsgrillen-Stadion sein![WAIT]  Ich freue mich darauf, euch dort zu sehen![PAUSE 40 00][BREAK]  .[PAUSE 0C 00].[PAUSE 18 00].[PAUSE 20 00]Bro.[END]
+15-20E:@Ich sehe, ihr habt mehr drauf, als ich dachte.[WAIT]@Wenn ihr wollt, könnte ich euch irgendwann[BREAK]  mal persönlich trainieren.[WAIT]@Das nächste Mal sehen wir uns im[BREAK]  großen Maulwurfsgrillen-Stadion![WAIT]  Ich freue mich schon darauf, euch dort zu[BREAK]  sehen! [PAUSE 40 00].[PAUSE 0C 00].[PAUSE 18 00].[PAUSE 20 00]Bro.[END]
 15-21:@I stepped on a mole cricket.[BREAK]  I hope it's all right...[END]
-15-21E:@Ich bin auf eine Maulwurfsgrille getreten.[BREAK]  Ich hoffe, es geht ihr gut...[END]
+15-21E:@Ich bin auf eine Maulwurfsgrille getreten.[BREAK]  Hoffentlich geht es ihr gut...[END]
 15-22:@Lunch is ready, everyone.[WAIT]@I made you your favorite, boys.[BREAK]  [FAVFOOD]![END]
 15-22E:@Essen ist fertig![WAIT]@Ich habe euer Lieblingsessen zubereitet, Jungs.[BREAK]  [FAVFOOD]![END]
 15-23:@Ooh! Lunch, lunch! [FAVFOOD]!![END]
@@ -1960,9 +1960,9 @@
 15-25:@Now, then...[END]
 15-25E:@Also dann...[END]
 15-26:@Listen, folks...[PAUSE 20 00] Here is how to "save".[WAIT]@Talk to frogs.[PAUSE 40 00] This is how you "save".[WAIT]@It's not too tedious or troublesome, so you[BREAK]  should talk to frogs as often as you can.[WAIT]@Plus, saving is absolutely free.[WAIT]@Now then, it's time for me to return to the[BREAK]  story.[END]
-15-26E:@Hör zu...[PAUSE 20 00] So "speicherst" du.[WAIT]@Sprich mit Fröschen.[PAUSE 40 00] Damit "speicherst" du.[WAIT]@Das ist weder albern noch lästig, also solltest[BREAK]  du so oft wie möglich mit Fröschen reden.[WAIT]@Plus, speichern ist absolut kostenfrei.[WAIT]@Nun denn, dann ist es Zeit für mich ins[BREAK]  Geschehen zurückzukehren.[END]
+15-26E:@Also, Leute...[PAUSE 20 00] So "speichert" ihr.[WAIT]@Sprecht mit Fröschen.[PAUSE 40 00] Damit "speichert" ihr.[WAIT]@Das ist weder albern noch lästig, also redet so[BREAK]  oft wie möglich mit Fröschen.[WAIT]@Zudem ist es komplett kostenlos.[WAIT]@Nun denn, Zeit für mich, ins[BREAK]  Geschehen zurückzukehren.[END]
 15-27:@Hey! Wait for me![WAIT]@You saved me some [FAVFOOD] too,[BREAK]  I hope?![END]
-15-27E:@Hey! Wartet auf mich![WAIT]@Hebt etwas [FAVFOOD] für mich auf,[BREAK]  bitte?![END]
+15-27E:@Hey! Wartet auf mich![WAIT]@Hebt etwas [FAVFOOD] für mich auf,[BREAK]  [PAUSE 40 00]bitte?![END]
 
 [Container 17]
 17-0:[HOTSPRING 00 00][END]
@@ -2295,7 +2295,7 @@
 
 [Container 20]
 20-0:@The cliff here has crumbled.[WAIT]@It doesn't look like there's any way to get[BREAK]  across.[END]
-20-0E:@Der Felsvorsprung hier ist zerbröckelt.[WAIT]@Es sieht danach aus, als gäbe es einen anderen[BREAK]  Weg drum herum.[END]
+20-0E:@Der Felsvorsprung hier ist zerbröckelt.[WAIT]@Es sieht nicht danach aus, als gäbe es einen[BREAK]  anderen Weg drum herum.[END]
 20-1:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to explain "Skills" to you.[WAIT]  Oh, sorry for being so sudden.[WAIT]  Anyway, you and all your party members have[BREAK]  special skills you can use during battle.[WAIT]  These skills might be centered around items,[BREAK]  physical actions, or whatever else.[WAIT]  Basically, it's different for each person.[WAIT]  For details, press [COLOR 03 00]Start[COLOR 00 00] to bring up the menu,[WAIT]  and from there, you can check everyone's[BREAK]  skills from the "Status" screen.[WAIT]  It'd be a real waste to neglect your special[BREAK]  skills, so give it a try.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
 20-1E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Erlaube mir dir die "Fähigkeiten" zu erklären.[WAIT]  Oh, sorry, dass es so plötzlich ist.[WAIT]  Jedenfalls, du und deine Teammitglieder haben[BREAK]  besondere Fähigkeiten, die man im Kampf[BREAK]  einsetzen kann.[WAIT]  Diese Fähigkeiten sind entweder Items,[BREAK]  physische Aktionen oder anderes.[WAIT]  Grundsätzlich ist es für jeden anders.[WAIT]  Für Näheres drücke [COLOR 03 00]Start[COLOR 00 00],[WAIT]  und von dort aus kannst du Fähigkeiten von[BREAK]  jeden im "Status"-Menü sehen.[WAIT]  Es wäre eine Verschwendung deine Fähigkeiten[BREAK]  zu vernachlässigen, also probier es mal aus.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 20-2:[SOUND 03 00]  chirp!)[END]
@@ -2455,7 +2455,7 @@
 
 [Container 22]
 22-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-22-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
+22-0E:@Oh, du bist wach, Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
 // Repeats: 22-0, 23-0
 22-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
 22-1E:@Gacker gacker?[BREAK]  (Du bist wach, gacker?)[END]
@@ -2470,10 +2470,10 @@
 22-4E:@Oink.[BREAK]  (Mach dir darüber keine Sorgen.)[END]
 // Repeats: 22-4, 23-4
 22-5:@Oink oink.[WAIT]  (What the pig next to me says worries me...)[END]
-22-5E:@Oink oink.[WAIT]  (Was das Schwein neben mir sagt,[BREAK]  besorgt mich...)[END]
+22-5E:@Oink oink.[WAIT]  (Was das Schwein neben mir sagt, macht[BREAK]  mir Sorgen...)[END]
 // Repeats: 22-5, 23-5
 22-6:@Whant?![WAIT]  (Watch where you're steppin', will ya?![BREAK]  I'm standing like right here![WAIT]  I'm an ant![PAUSE 28 00]  Don't you dare step on me![WAIT]  I'm standing here 'cause I don't wanna let you[BREAK]  go this way!)[END]
-22-6E:@Wasn?![WAIT]  (Pass auf, wo du hintrittst![BREAK]  Ich stehe genau vor dir![WAIT]  Ich bin eine Ameise![PAUSE 28 00][BREAK]  Wage es nicht auf mich zu treten![WAIT]  Ich stehe hier, damit du hier nicht lang kannst!)[END]
+22-6E:@Wasn?![WAIT]  (Pass auf, wo du hintrittst, ok?![BREAK]  Ich stehe genau vor dir![WAIT]  Ich bin eine Ameise![PAUSE 28 00][BREAK]  Wage es nicht auf mich zu treten![WAIT]  Ich stehe hier, damit du hier nicht lang kannst!)[END]
 // Repeats: 22-6, 23-6
 22-7:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  When you want to talk, use the [COLOR 03 00]A[COLOR 00 00] Button.[WAIT]  When you want to check something, use the[BREAK]  [COLOR 03 00]A[COLOR 00 00] button.[WAIT]  Or, if you want, you can use the [COLOR 03 00]L[COLOR 00 00] Button[BREAK]  instead.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
 22-7E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Wenn du reden willst, drücke den [COLOR 03 00]A[COLOR 00 00]-Knopf.[WAIT]  Wenn du etwas untersuchen willst, drücke[BREAK]  den [COLOR 03 00]A[COLOR 00 00]-Knopf.[WAIT]  Alternativ, kannst du aber auch [COLOR 03 00]L[COLOR 00 00] drücken.[WAIT]  Also, um es spatzig zu enden...[EVENT][END]
@@ -2523,7 +2523,7 @@
 
 [Container 23]
 23-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-23-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
+23-0E:@Oh, du bist wach, Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
 // Repeats: 22-0, 23-0
 23-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
 23-1E:@Gacker gacker?[BREAK]  (Du bist wach, gacker?)[END]
@@ -2541,7 +2541,7 @@
 23-5E:@Oink oink.[WAIT]  (Was das Schwein neben mir sagt,[BREAK]  besorgt mich...)[END]
 // Repeats: 22-5, 23-5
 23-6:@Whant?![WAIT]  (Watch where you're steppin', will ya?![BREAK]  I'm standing like right here![WAIT]  I'm an ant![PAUSE 28 00]  Don't you dare step on me![WAIT]  I'm standing here 'cause I don't wanna let you[BREAK]  go this way!)[END]
-23-6E:@Wasn?![WAIT]  (Pass auf, wo du hintrittst![BREAK]  Ich stehe genau vor dir![WAIT]  Ich bin eine Ameise![PAUSE 28 00][BREAK]  Wage es nicht auf mich zu treten![WAIT]  Ich stehe hier, damit du hier nicht lang kannst!)[END]
+23-6E:@Wasn?![WAIT]  (Pass auf, wo du hintrittst, ok?![BREAK]  Ich stehe genau vor dir![WAIT]  Ich bin eine Ameise![PAUSE 28 00][BREAK]  Wage es nicht auf mich zu treten![WAIT]  Ich stehe hier, damit du hier nicht lang kannst!)[END]
 // Repeats: 22-6, 23-6
 23-7:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  When you want to talk, use the [COLOR 03 00]A[COLOR 00 00] Button.[WAIT]  When you want to check something, use the[BREAK]  [COLOR 03 00]A[COLOR 00 00] button.[WAIT]  Or, if you want, you can use the [COLOR 03 00]L[COLOR 00 00] Button[BREAK]  instead.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
 23-7E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Wenn du reden willst, drücke den [COLOR 03 00]A[COLOR 00 00]-Knopf.[WAIT]  Wenn du etwas untersuchen willst, drücke[BREAK]  den [COLOR 03 00]A[COLOR 00 00]-Knopf.[WAIT]  Alternativ, kannst du aber auch [COLOR 03 00]L[COLOR 00 00] drücken.[WAIT]  Also, um es spatzig zu enden...[EVENT][END]
@@ -2736,7 +2736,7 @@
 30-10:@You don't get it, huh?[BREAK]  Then I'll say it just one more time.[WAIT]@Never disobey my commands.[WAIT]@If I say dance, you dance![WAIT]@If I say laugh, you laugh![WAIT]@It's that simple.[WAIT]  Got it?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-10E:@Du checkst es nicht, huh?[BREAK]  Dann sage ich es noch ein letztes Mal.[WAIT]@Missachte niemals meine Befehle.[WAIT]@Wenn ich sage "Tanz", dann tanzt du![WAIT]@Wenn ich sage "Lach", dann lachst du![WAIT]@So einfach ist das.[WAIT]  Verstanden?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-11:@Do what I say, and we'll both get through this[BREAK]  without any hard feelings.[WAIT]@Nwehehehehe.[END]
-30-11E:@Tu, was ich sage, und wir beide werden ohne[BREAK]  jegliche Problem hierduch kommen.[WAIT]@Nwehehehehe.[END]
+30-11E:@Tu, was ich sage, und wir beide werden ohne[BREAK]  Probleme hierduch kommen.[WAIT]@Nwehehehehe.[END]
 30-12:@Oh...?[WAIT]  What's that defiant look in your eyes?[WAIT]@Dance![END]
 30-12E:@Oh...?[WAIT]  Was ist das denn für ein frecher[BREAK]  Gesichtsausdruck?[WAIT]@Tanz![END]
 30-13:@Nwahahahahahaha.[WAIT]@That's such a silly monkey dance that just[BREAK]  watching it is embarrassing![WAIT]@Try a different dance.[END]
@@ -2753,7 +2753,7 @@
 30-18:@Hey, you! Quit sleeping on the job![WAIT]@Alright, listen![WAIT]  There's a white, round building west of here.[WAIT]  We're going there![END]
 30-18E:@Hey, du! Hör auf bei der Arbeit zu schlafen![WAIT]@Ok, hör zu![WAIT]  Im Westen von hier ist ein weißes, rundes[BREAK]  Gebäude.[WAIT]  Da gehen wir hin![END]
 30-19:@You wound up being taken with Fassad![PAUSE A0 00][END]
-30-19E:@You wound up being taken with Fassad![PAUSE A0 00][END]
+30-19E:@Du bist von Fassad geschnappt worden![PAUSE A0 00][END]
 30-20:@Heya.[WAIT]@I saw everything.[WAIT]@Be strong. Endure it.[WAIT]@I'm sure things will start to go your way[BREAK]  someday.[WAIT]@To help that day come...[PAUSE 5A 00][BREAK]  ...will you save your game now?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-20E:@Heya.[WAIT]@Ich habe alles gesehen.[WAIT]@Sei stark. Halte durch.[WAIT]@Ich bin mir sicher, dass es eines Tages zu[BREAK]  deinen Gunsten laufen wird.[WAIT]@Um zu helfen, dass dieser Tag kommt...[PAUSE 5A 00][BREAK]  ...willst du dein Spiel jetzt speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 30-21:@So you're gonna endure not saving, too?[BREAK]  Is that how you prefer it?[WAIT]@Well, I have no choice but to accept that.[WAIT]@Be careful out there.[END]
@@ -2897,7 +2897,7 @@
 32-15:@Fassad![WAIT]@Stop it![WAIT]@Quit ruining this town any more than you[BREAK]  already have![END]
 32-15E:@Fassad![WAIT]@Hör auf![WAIT]@Hör auf dieses Dorf noch weiter zu zerstören,[BREAK]  als du es ohnehin schon gemacht hast![END]
 32-16:@There's something not right about all this[BREAK]  lightning, especially today's![WAIT]@I think you guys are behind it somehow![WAIT]@Leave this instant![WAIT]@Keep your grubby hands out of this town's[BREAK]  affairs![END]
-32-16E:@Nichts ist an den Gewittern normal, besonders[BREAK]  das heutige![WAIT]@Ich glaube, dass ihr irgendwie dahiner steckt![WAIT]@Verschwinde sofort![WAIT]@Halte deine schmutzigen Grabscher von diesem[BREAK]  Dorf fern![END]
+32-16E:@Nichts ist an den Gewittern normal, besonders[BREAK]  an dem heutigen![WAIT]@Ich glaube, dass ihr irgendwie dahinter steckt![WAIT]@Verschwindet sofort![WAIT]@Haltet eure schmutzigen Grabscher von[BREAK]  diesem Dorf fern![END]
 32-17:@Why, hello there, Mr. Wess.[WAIT]@You know, if you keep making the veins on[BREAK]  your forehead pop out like that,[WAIT]  happiness will only escape you.[WAIT]@By which I mean your hair,[PAUSE 20 00] in this case.[END]
 32-17E:@Oh, tagchen, Herr Wess.[WAIT]@You know, if you keep making the veins on[BREAK]  your forehead pop out like that,[WAIT]  wird dich die Glücklichkeit nur verlassen.[WAIT]@Ich meine damit deine Haare,[PAUSE 20 00] in diesem Fall.[END]
 32-18:@In any case, I haven't the slightest idea what[BREAK]  you're talking about.[END]
@@ -2913,13 +2913,13 @@
 32-23:@I'm always hoping for that day.[END]
 32-23E:@Ich hoffe, dass dieser Tag kommen wird.[END]
 32-24:@I can understand why it'd be hard[WAIT]  for an old man to watch the town he grew up[BREAK]  in change more and more.[WAIT]@But that wasn't being very considerate of[BREAK]  Mr. Fassad at all.[WAIT]@In my opinion, old people should just stay[BREAK]  inside the old folks' home[WAIT]  and drink tea and do whatever it is old people[BREAK]  do.[END]
-32-24E:@Ich verstehe, warum es für einen alten Mann[BREAK]  wie dich schwer sein kann zuzuschauen,[WAIT]  wie sich das Dorf, in dem man aufgewachsen[BREAK]  ist, mehr und mehr verändert.[WAIT]@Aber das war überhaupt nicht rücksichtsvoll[BREAK]  vom Herrn Fassad.[WAIT]@Meiner Meinung nach sollten alte Leute einfach[BREAK]  im Haus bleiben[WAIT]  und Tee trinken oder was auch immer alte[BREAK]  Menschen machen.[END]
+32-24E:@Ich verstehe, warum es für einen alten Mann[BREAK]  wie dich schwer sein kann zuzuschauen,[WAIT]  wie sich das Dorf, in dem man aufgewachsen[BREAK]  ist, mehr und mehr verändert.[WAIT]@Aber das war überhaupt nicht rücksichtsvoll[BREAK]  vom Herrn Fassad.[WAIT]@Meiner Meinung nach sollten alte Leute einfach[BREAK]  im Haus bleiben[WAIT]  und Tee trinken oder was auch immer alte[BREAK]  Menschen so machen.[END]
 32-25:@I can't believe the nerve of old man Wess...[WAIT]@Even after Mr. Fassad spoke to him in such a[BREAK]  friendly way...[END]
 32-25E:@Ich verstehe diesen alten Mann Wess einfach[BREAK]  nicht...[WAIT]@Sogar nachdem Herr Fassad so freundlich mit[BREAK]  ihm gesprochen hat...[END]
 32-26:@We don't have one of those happiness-bringing[BREAK]  boxes, either.[WAIT]@Alle won't stop talking about how much she[BREAK]  wants one, though.[WAIT]@I don't know, maybe we should finally get one.[WAIT]@But Ed is against the idea. What should I do?[END]
-32-26E:@Wir besitzen auch keine dieser[BREAK]  Glücklichkeits-bringenden Boxen.[WAIT]@Aber Eva will einfach eine haben.[WAIT]@Ich weiß nicht, vielleicht sollten wir uns doch[BREAK]  eine besorgen.[WAIT]@Aber Ed ist dagegen. Was soll ich tun?[END]
+32-26E:@Wir besitzen auch keine dieser[BREAK]  Glücklichkeits-bringenden Boxen.[WAIT]@Aber Eva will unbedingt eine haben.[WAIT]@Ich weiß nicht, vielleicht sollten wir uns doch[BREAK]  eine besorgen.[WAIT]@Aber Ed ist dagegen. Was soll ich tun?[END]
 32-27:@They're not above using violence against[BREAK]  senior citizens, I see.[END]
-32-27E:
+32-27E:@Ich sehe, sie sind sich nicht zu gut für Gewalt[BREAK]  gegen Senioren.[END]
 32-28:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Old man Wess is definitely going to go bald.[WAIT]@[PAUSE 3A 00]Yes, there's no doubt about it.[WAIT]@Bald. Definitely.[END]
 32-28E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Der alte Mann Wess wird definitiv kahlköpfig.[WAIT]@[PAUSE 3A 00]Ja, daran gibt es keine Zweifel.[WAIT]@Kahlköpfig. Definitiv.[END]
 32-29:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  I can talk about non-map stuff too, you know.[WAIT]@Is old man Wess okay?[WAIT]@No, I don't mean injury-wise...[BREAK][PAUSE 1E 00]  I mean hair-wise.[WAIT]@After all, he did get his hair caught in that bug[BREAK]  net and everything.[END]
@@ -3093,7 +3093,7 @@
 33-27E:@Wenn wir die Seile durchschneiden...[PAUSE 1E 00][BREAK]  wird sie frei sein, richtig?[WAIT]@Aber was wenn sie durchdreht und Menschen[BREAK]  verletzt, falls wir das machen?[END]
 // Repeats: 33-27, 219-27
 33-28:@No, no, no, no! I'm still scared![WAIT]@She might go crazy if we cut her ropes![WAIT]@And her beauty makes her all the scarier![END]
-33-28E:@Nein, nein, nein, nein! Ich habe zu viel Angst![WAIT]@Sie dreht vielleicht durch, wenn wir die Seile[BREAK]  durchschneiden![WAIT]@Und ihre Schönheit macht es noch gruseliger![END] 
+33-28E:@Nein, nein, nein, nein! Ich habe zu viel Angst![WAIT]@Sie dreht vielleicht durch, wenn wir die Seile[BREAK]  durchschneiden![WAIT]@Und ihre Schönheit macht es noch gruseliger![END]
 // Repeats: 33-28, 219-28
 33-29:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@This old guy clearly has hobbies and interests[BREAK]  different from regular people...[END]
 33-29E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Dieser alte Mann hat eindeutig Hobbies[BREAK]  und Interessen, die sich von normalen[WAIT]  Leuten unterscheiden...[END]
@@ -3159,7 +3159,7 @@
 34-1:@Oh, you guys wanna join our army, too?[WAIT]@Then you gotta go eat lots and lots until you're[BREAK]  nice and big first.[END]
 34-1E:@Oh, wollt ihr auch unserer Armee beitreten?[WAIT]@Dann müsst ihr zuerst VIEL essen bis ihr groß[BREAK]  und fett seid.[END]
 34-2:@Hmm, how shall I put this...[WAIT]  Saying things such as this may make me seem[BREAK]  a tad rude and unsociable,[WAIT]  and it's for that very reason that I do not[BREAK]  prefer to say it aloud,[WAIT]  but if absolutely forced to say what I want to[BREAK]  say, I would say... [PAUSE 20 00][BREAK]  Get out of the damn way![END]
-34-2E:@Hmm, wie soll ich das sagen...[WAIT]  Solche Sachen zu sagen lässt mich ein[BREAK]  bisschen gemein und asozial erscheinen,[WAIT]  und aus diesem Grund will ich es lieber nicht[BREAK]  laut sagen,[WAIT]  aber wenn ich gezwungen bin zu sagen,[BREAK]  was ich sagen will, dann würde ich sagen... [PAUSE 20 00][BREAK]  Geht mir aus den gottverdammten Weg![END] 
+34-2E:@Hmm, wie soll ich das sagen...[WAIT]  Solche Sachen zu sagen lässt mich ein[BREAK]  bisschen gemein und asozial erscheinen,[WAIT]  und aus diesem Grund will ich es lieber nicht[BREAK]  laut sagen,[WAIT]  aber wenn ich gezwungen bin zu sagen,[BREAK]  was ich sagen will, dann würde ich sagen... [PAUSE 20 00][BREAK]  Geht mir aus den gottverdammten Weg![END]
 34-3:@Stay out of the way, will ya?![WAIT]@Here, I'll give you a riddle to solve, so you can[BREAK]  go think about it somewhere else.[WAIT]@Alright, here's the riddle.[WAIT]@Jack had a parakeet named Enza.[WAIT]@Jack got sick, and his parakeet went missing.[WAIT]@He was about to give up on life, but then in[BREAK]  flew Enza.[WAIT]@Now, then. What illness did Jack have?[WAIT]@Remember, he was about to give up on life,[PAUSE 1E 00][BREAK]  and then "in flew Enza".[PAUSE 1E 00][WAIT]@The answer will come at a later time![WAIT]@Now get out of here.[END]
 34-3E:@Bleibt mir aus dem Weg, okay?![WAIT]@Bitte schön, ich gebe euch ein Rätsel, das ihr[BREAK]  irgendwo anders lösen könnt.[WAIT]@Hier kommt das Rätsel.[WAIT]@Jack hatte einen Sittich namens Enza.[WAIT]@Jack ist krank geworden und der Sittich[BREAK]  verschwand.[WAIT]@Er wollte sich gerade das Leben nehmen, doch dann flog Enza herein.[WAIT]@Nun denn. Welche Krankheit hatte Enza?[WAIT]@Denke daran, er wollte sich das Leben nehmen[PAUSE 1E 00][BREAK]  und dann "flog Enza herein".[PAUSE 1E 00][WAIT]@Die Antwort bekommt ihr später![WAIT]@Jetzt verschwindet von hier.[END]
 34-4:@Nope, I can't give you the answer yet![END]
@@ -3225,7 +3225,7 @@
 35-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62 Unused
 35-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-35-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+35-8E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 35-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 35-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -3234,7 +3234,7 @@
 35-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 35-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-35-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+35-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 35-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 35-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -3373,7 +3373,7 @@
 36-38E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 36-39:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-36-39E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+36-39E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 36-40:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 36-40E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -3382,7 +3382,7 @@
 36-41E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 36-42:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-36-42E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+36-42E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 36-43:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 36-43E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -3507,7 +3507,7 @@
 36-98:@Now, then. If you'll excuse me.[END]
 36-98E:@Nun denn. Wenn du mich bitte entschuldigen[BREAK]  würdest.[END]
 36-99:@I love the ocean.[WAIT]@I love the beach. I want to stay here forever.[WAIT]@I'll just lie around and beach-comb and stuff.[WAIT]@You want some R-and-R, too?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-36-99E:@Ich liebe den Ozean.[WAIT]@Ich liebe den Ozean. Ich möchte hier auf ewig[BREAK]  bleiben.[WAIT]@I'll just lie around and beach-comb and stuff.[WAIT]@Willst du auch etwas R-und-R?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+36-99E:@Ich liebe den Ozean.[WAIT]@Ich liebe den Strand. Ich möchte hier auf ewig[BREAK]  bleiben.[WAIT]@I'll just lie around and beach-comb and stuff.[WAIT]@Willst du auch etwas R-und-R?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-100:@Huh?[PAUSE 18 00] Leo-Leo's sweater?[WAIT]@You're asking if I sewed it?[PAUSE 1E 00][BREAK]  ...Of course I didn't![WAIT]@Give it back![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-100E:@Huh?[PAUSE 18 00] Leo-Leos Pulli?[WAIT]@Du fragst mich, ob ich ihn genäht habe?[PAUSE 1E 00][BREAK]  ..Natürlich hab ich's nicht![WAIT]@Gib es zurück![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-101:@You handed over the [ITEM F0 FF].[END]
@@ -3524,10 +3524,10 @@
 
 [Container 37]
 37-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
-37-0E:@[FLINT 23 01 00]![WAIT]@Der Sonnenscheinwald, welcher westlich von[BREAK]  der Kreuzung und hinter dem Heiligtum liegt,[WAIT]  brennt wie verrückt![WAIT]@Oh, sorry, das hat sich so erklärerisch[BREAK]  angehört![END]
+37-0E:@[FLINT 23 01 00]![WAIT]@Der Sonnenscheinwald, welcher westlich von[BREAK]  hier und hinter dem Heiligtum liegt,[WAIT]  brennt wie verrückt![WAIT]@Oh, sorry, das hat sich so Erklärungs-artig[BREAK]  angehört![END]
 // Repeats: 9-0, 37-0
 37-1:@Mr. [FLINT 23 01 00]![WAIT]@If you lose your way, be sure to check sign[BREAK]  posts and message boards.[WAIT]@I'm telling you this out of the kindness of my[BREAK]  heart, just so you know![END]
-37-1E:@Herr [FLINT 23 01 00]![WAIT]@Wenn du dich verlaufen solltest, checke mal[BREAK]  die Schilder ab.[WAIT]@Das sage ich nur aus reiner Nettheit, nur damit[BREAK]  dus' weißt![END]
+37-1E:@Herr [FLINT 23 01 00]![WAIT]@Wenn Sie sich verlaufen sollten, checke mal[BREAK]  die Schilder ab.[WAIT]@Das sage ich nur aus reiner Nettheit, nur damit[BREAK]  Sies' weißt![END]
 // Repeats: 9-1, 37-1
 37-2:@Even if I did go on ahead, I just know I'd be no[BREAK]  help at all.[WAIT]@What should I do...?[END]
 37-2E:@Auch wenn ich mitgehen sollte, wäre ich von[BREAK]  keiner Hilfe.[WAIT]@Was soll ich tun...?[END]
@@ -3545,7 +3545,7 @@
 37-6E:@Der Eingang ist verschlossen.[END]
 // Repeats: 9-6, 37-6
 37-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-37-7E:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
+37-7E:@[FLINT 23 01 00].[WAIT]  Du hast dich bei deinem Wutausbruch wirklich[BREAK]  verloren.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
 // Repeats: 9-7, 37-7
 37-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
 37-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Sonnenaufgangsfriedhof.[WAIT]@Absolut jeder liebte [HINAWA 22 08 00]...[END]
@@ -3572,7 +3572,7 @@
 37-15E:@Der Kreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
 37-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-37-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  Spielsprache anstatt Vergleichen.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts. gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Zur Zeit kannst du das Steuerkreuz benutzen[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Indem du dann den [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, wählst[BREAK]  du die Menüoption aus,[WAIT]  du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und den[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du dann weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00][BREAK]  und die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Knöpfe![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+37-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann den [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, wählst[BREAK]  du die Menüoption aus,[WAIT]  du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und den[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Knopf drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du dann weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00][BREAK]  und die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Knöpfe![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 37-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
 37-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Ein Spatz, der flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es wie ein Spatz zu enden...[EVENT][END]
@@ -3628,7 +3628,7 @@
 38-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 38-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-38-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+38-8E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 38-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 38-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -3637,7 +3637,7 @@
 38-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 38-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-38-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+38-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 38-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 38-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -3707,7 +3707,7 @@
 38-42:@But he looks JUST like him...![WAIT]@I really think we should tell old man Wess.[END]
 38-42E:@Aber er sieht GENAUSO aus wie er...![WAIT]@Ich glaube wirklich, wir sollten das dem alten[BREAK]  Mann Wess erzählen.[END]
 38-43:@Maybe if we knew for sure,[WAIT]  but we'd only wind up disappointing Wess if it[BREAK]  turns out we're wrong.[WAIT]@The guy we saw just happens to look a lot like[BREAK]  [DUSTER 23 03 00].[WAIT]@We don't know any more than that.[WAIT]@Period.[END]
-38-43E:@Vielleicht wernn wir es sicher wüssten,[WAIT]  aber wir würden nur Wess enttäuschen, wenn[BREAK]  sich herausstellt, dass wir falsch liegen.[WAIT]@Der Kerl sieht einfach nur in vielerlei Hinsicht[BREAK]  genauso aus wie [DUSTER 23 03 00].[WAIT]@Mehr wissen wir nicht.[WAIT]@Punkt.[END]
+38-43E:@Vielleicht wenn wir es sicher wüssten,[WAIT]  aber wir würden nur Wess enttäuschen, wenn[BREAK]  sich herausstellt, dass wir falsch liegen.[WAIT]@Der Kerl sieht einfach nur in vielerlei Hinsicht[BREAK]  genauso aus wie [DUSTER 23 03 00].[WAIT]@Mehr wissen wir nicht.[WAIT]@Punkt.[END]
 38-44:@Anyways, time to head home and have some[BREAK]  chow while I watch the Happy Box.[END]
 38-44E:@Egal, Zeit nach Hause zu gehen und etwas zu[BREAK]  mampfen, während ich Glücklichkeit schaue.[END]
 38-45:@You took the words right out of my mouth![WAIT]@I'm starving, too![END]
@@ -3757,7 +3757,7 @@
 38-65:@Hold it! Don't you ever listen?![END]
 38-65E:@Warte! Hörst du mir überhaupt zu?![END]
 38-66:@You're teasing me, aren't you?[WAIT]@You're not mocking me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just go on home now. [PAUSE 5A 00]Please?[END]
-38-66E:@Du willst mich veräppeln, oder?[WAIT]@You're not mocking me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Ok, das wird das letzte Mal sein.[WAIT]@Ich werde dich von nun an nicht mehr[BREAK]  aufhalten.[WAIT]@Das nächste Mal werde ich dich aufhalten.[WAIT]@Aber geh jetzt nach Hause. [PAUSE 5A 00]Bitte?[END]
+38-66E:@Du willst mich veräppeln, oder?[WAIT]@Du machst dich nicht über mich lustig, weil[BREAK]  ich nett, freundlich und sympatisch bin, oder?[WAIT]@Genau das machst du, oder?[WAIT]@Ok, das wird das letzte Mal sein.[WAIT]@Ich werde dich von nun an nicht mehr[BREAK]  aufhalten.[WAIT]@Das nächste Mal werde ich dich aufhalten.[WAIT]@Aber geh jetzt nach Hause. [PAUSE 5A 00]Bitte?[END]
 38-67:[SOUND 03 00]@......[END]
 38-67E:[SOUND 03 00]@......[END]
 38-68:[SOUND 03 00]@......[WAIT]@......[END]
@@ -3790,7 +3790,7 @@
 38-81:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Factory Station[BREAK]  is 2500 DP per person.[WAIT]@Are you factory workers?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-81E:@Pro Person kostet die Fahrt für Fabrikarbeiter[BREAK]  50 DK.[WAIT]@Für alle anderen kostet ein Ticket zur Fabrik-[BREAK]  station 2500 DK pro Person.[WAIT]@Seid ihr Fabrikarbeiter?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-82:@You're lying, aren't you?[END]
-38-82E:@Du lügst, richtig?[END]
+38-82E:@Sie lügen, hab ich recht?[END]
 // Repeats: 38-82, 47-2
 38-83:@I don't believe you.[END]
 38-83E:@Das glaube ich nicht.[END]
@@ -3845,7 +3845,7 @@
 38-104:@Ol' Beanstalk is gone, but sometimes I think I[BREAK]  can still hear the sound of his bell.[END]
 38-104E:@Die alte Bohnenstange ist verschwunden, aber[BREAK]  manchmal kann ich trotzdem das Geräusch[WAIT]  seiner Glocke hören.[END]
 38-105:@Trains are much less exhausting than walking,[BREAK]  and they're so inexpensive and inviting![WAIT]@They're so cheap, they're practically free![BREAK]  A mere 50 DP![WAIT]  Will you ride one?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-105E:@Züge sind viel weniger ermüdend als laufen,[BREAK]  und sie sind billig und einladend![WAIT]@Sie sind so günstig, dass sie praktisch[BREAK]  kostenlos sind![WAIT]  Nur 50 DK![WAIT]  Willst du fahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+38-105E:@Züge sind viel weniger ermüdend als laufen und[BREAK]  sie sind billig und einladend![WAIT]@Sie sind so günstig, dass sie praktisch[BREAK]  kostenlos sind![WAIT]  Nur 50 DK![WAIT]  Willst du fahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-105, 47-14
 38-106:@In that case, how about taking the green train?[WAIT]@The green one costs a little bit more, though.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 38-106E:@In diesem Fall, wie wär's mit dem grünen Zug?[WAIT]@Der grüne kostet aber auch ein bisschen mehr.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -3863,16 +3863,16 @@
 38-110E:@Aha, Sie mögen also kein grün.[WAIT]@Das macht dann 200 DK für vier Tickets.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-110, 47-19
 38-111:@Huh?! Really?![WAIT]@Th-th-then it'll be 100 DP for one ticket...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-111E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 100 DK für ein Ticket...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+38-111E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 100 DK für ein Ticket...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-111, 47-20
 38-112:@Huh?! Really?![WAIT]@Th-th-then it'll be 200 DP for two tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-112E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 200 DK für[BREAK]  zwei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+38-112E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 200 DK für[BREAK]   zwei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-112, 47-21
 38-113:@Huh?! Really?![WAIT]@Th-th-then it'll be 300 DP for three tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-113E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 300 DK für[BREAK]  drei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+38-113E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 300 DK für[BREAK]  drei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-113, 47-22
 38-114:@Huh?! Really?![WAIT]@Th-th-then it'll be 400 DP for four tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-38-114E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 400 DK für[BREAK]  vier Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+38-114E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 400 DK für[BREAK]  vier Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-114, 47-23
 38-115:@Alllll abooooard![END]
 38-115E:@Alllllllles eintseiiiiiiigen![END]
@@ -4133,11 +4133,11 @@
 
 [Container 47]
 47-0:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you a factory worker?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-0E:
+47-0E:@Eine Fahrt kostet für Fabrikarbeiter 50 DK.[WAIT]@Für alle anderen kostet ein Ticket zur Kreu-[BREAK] zungsstraßenstation 2500 DK pro Person.[WAIT]@Sind Sie ein Fabrikarbeiter?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-1:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you factory workers?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-1E:
+47-1E:@Eine Fahrt kostet für Fabrikarbeiter 50 DK.[WAIT]@Für alle anderen kostet ein Ticket zur Kreu-[BREAK] zungsstraßenstation 2500 DK pro Person.[WAIT]@Seid Ihr Fabrikarbeiter?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-2:@You're lying, aren't you?[END]
-47-2E:@Du lügst, richtig?[END]
+47-2E:@Sie lügen, hab ich recht?[END]
 // Repeats: 38-82, 47-2
 47-3:@I don't believe you.[END]
 47-3E:@Das glaube ich nicht.[END]
@@ -4164,17 +4164,17 @@
 47-10E:@Bzzzt![PAUSE 1E 00] Nicht genug Geld![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 47-11:@Then I suggest you walk to Tazmily.[END]
-47-11E:
+47-11E:@Dann empfehle ich nach Tazmily zu laufen.[END]
 47-12:@Factory![PAUSE 10 00] Factory![PAUSE 20 00][BREAK]@Thank you for riding with us today![END]
-47-12E:
+47-12E:@Fabrik![PAUSE 10 00] Fabrik![PAUSE 20 00][BREAK]@Danke, dass Sie heute mit uns gefahren sind![END]
 47-13:@The train won't be coming for a while.[END]
 47-13E:@Der Zug wird eine Weile fort sein.[END]
 // Repeats: 38-47, 47-13
 47-14:@Trains are much less exhausting than walking,[BREAK]  and they're so inexpensive and inviting![WAIT]@They're so cheap, they're practically free![BREAK]  A mere 50 DP![WAIT]  Will you ride one?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-14E:@Züge sind viel weniger ermüdend als laufen und[BREAK]  sie sind billig und einladend![WAIT]@Sie sind so günstig, dass sie praktisch[BREAK]  kostenlos sind![BREAK]  Nur 50 DK![WAIT]  Willst du fahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+47-14E:@Züge sind viel weniger ermüdend als laufen und[BREAK]  sie sind billig und einladend![WAIT]@Sie sind so günstig, dass sie praktisch[BREAK]  kostenlos sind![WAIT]  Nur 50 DK![WAIT]  Willst du fahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-105, 47-14
 47-15:@In that case, how about taking the green train?[WAIT]@The green one costs a little bit more, though.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-15E:
+47-15E:@In diesem Fall, wie wär's mit dem grünen Zug?[WAIT]@Der grüne kostet aber auch ein bisschen mehr.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-106, 47-15
 47-16:@You don't like green, I see.[WAIT]@Then it'll be 50 DP for one ticket.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-16E:@Aha, Sie mögen also kein grün.[WAIT]@Das macht dann 50 DK für ein Ticket.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -4189,16 +4189,16 @@
 47-19E:@Aha, Sie mögen also kein grün.[WAIT]@Das macht dann 200 DK für vier Tickets.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-110, 47-19
 47-20:@Huh?! Really?![WAIT]@Th-th-then it'll be 100 DP for one ticket...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-20E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 100 DK für ein Ticket...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+47-20E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 100 DK für ein Ticket...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-111, 47-20
 47-21:@Huh?! Really?![WAIT]@Th-th-then it'll be 200 DP for two tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-21E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 200 DK für[BREAK]  zwei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+47-21E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 200 DK für[BREAK]   zwei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-112, 47-21
 47-22:@Huh?! Really?![WAIT]@Th-th-then it'll be 300 DP for three tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-22E:
+47-22E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 300 DK für[BREAK]  drei Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-113, 47-22
 47-23:@Huh?! Really?![WAIT]@Th-th-then it'll be 400 DP for four tickets...[WAIT]@Please get on before you change your mind.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-23E:@Was?! Wirklich?![WAIT]@Da-da-das macht dann 400 DK für[BREAK]  vier Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+47-23E:@Was?! Wirklich?![WAIT]@D-d-das macht dann 400 DK für[BREAK]  vier Tickets...[WAIT]@Bitte steigen Sie ein bevor Sie[BREAK]  Ihre Meinung ändern.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 38-114, 47-23
 47-24:@Alllll abooooard![END]
 47-24E:@Alllllllles eintseiiiiiiigen![END]
@@ -4207,51 +4207,51 @@
 47-25E:@Oh, ich verstehe.[WAIT]@Gelegentlich,[WAIT]  kommen ein paar idiotische Kunden, die einfach[BREAK]  weitergehen und lieber den gottverdammten[WAIT]  Schienen entlanglaufen.[WAIT]  Nun, vielleicht ist das ja eher Ihr Vorliebe,[BREAK]  wenn ich mal so frei sein darf eine persönliche[WAIT]  Anregung zu machen.[END]
 // Repeats: 38-116, 47-25
 47-26:@We are increasing the number of Cattlesnakes.[WAIT]@They are extremely dangerous.[BREAK]  If you see one, stay away.[WAIT]  View them from a distance only![BREAK]                   -Chimera Laboratory[END]
-47-26E:
+47-26E:@Wir erhöhen die Zahl der Rindschlangen.[WAIT]@Sie sind extrem gefährlich.[BREAK]  Wenn Sie einen sehen, bleiben Sie fern.[WAIT]  Besichtigen Sie sie nur aus Entfernung![BREAK]                   -Chimera Labor[END]
 47-27:@Youngsters![BREAK]@Here's your chance to sweat beautiful sweat![WAIT]@Part time help wanted at the factory.[WAIT]@All those interested, apply at the factory![BREAK]                                      Right this way[RIGHT][END]
-47-27E:
+47-27E:@Jugendlicher![BREAK]@Hier ist deine Chance zum Schwitzen[BREAK]  wundervollen Schweißes![WAIT]@Teilzeithilfe bei der Fabrik gesucht.[WAIT]@Interessiert? Bewirb dich bei der Fabrik![BREAK]                                        Hier entlang[RIGHT][END]
 47-28:@Casablanca - Humphrey Bogart[BREAK][WAIT]@Breakfast at Tiffany's - Audrey Hepburn[BREAK][WAIT]@Plan 9 from Outer Space - Some nuts[BREAK][END]
-47-28E:
+47-28E:@Petition: Dabben für Deppen[END]
 // this is very very flexible to change, the original line doesn't make much sense. What I've done here is try to mimic the original text by listing two things and then one thing that doesn't match at all
 47-29:@Whew...[WAIT]@I can't stand doing work. I hate it.[WAIT]@I wish it'd be night already. Then I could go to[BREAK]  Titiboo.[WAIT]@...I guess you wouldn't understand, huh?[END]
-47-29E:
+47-29E:@Whew...[WAIT]@Ich kann Arbeit nicht leiden. Ich hasse es.[WAIT]@Ich wünschte, es würde endlich Nacht werden.[BREAK]  Dann könnte ich nach Titiboo gehen.[WAIT]@...Du verstehst das nicht, oder?[END]
 47-30:@I- I'm not slacking off at all.[WAIT]@I'm sort of like, you know, keeping an eye out[BREAK]  for people who ARE slacking off.[PAUSE 20 00] Yeah.[WAIT]@What're you smirkin' about?![END]
-47-30E:
+47-30E:@I-ich faulenze überhaupt nicht.[WAIT]@Ich mache irgendwie, weißt du, halte ein Auge[BREAK]  auf die Leute, DIE faulenzen.[PAUSE 20 00] Yeah.[WAIT]@Was gibt es da zu grinsen?![END]
 47-31:@[LUCAS 23 02 00]. Did you get paid yet?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-47-31E:
+47-31E:@[LUCAS 23 02 00]. Bist du schon bezahlt worden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 47-32:@Talk to Mr. Brown, the Pigmask on the ground[BREAK]  floor, and he should give you your pay...[END]
-47-32E:
+47-32E:@Sprich mit Herrn Brown, die Schweinemaske[BREAK]  im Erdgeschoss, und er sollte dir deinen Lohn[WAIT]  geben...[END]
 47-33:@Well? Whadya think?[WAIT]@Doesn't money have such a nice weight to it?[END]
-47-33E:
+47-33E:@Also? Was denkste?[WAIT]@Hat Geld nicht ein schönes Gewicht?[END]
 47-34:@Hold it![END]
-47-34E:
+47-34E:@Warte![END]
 47-35:@That's dangerous![WAIT]@What the heck are you thinking, going into the[BREAK]  tunnel this late at night?![END]
-47-35E:
+47-35E:@Das ist gefährlich![WAIT]@Was zum Henker dachtest du dir dabei, in der[BREAK]  späten Nacht in den Tunnel zu gehen?![END]
 47-36:@I dunno what yer story is, but you're still[BREAK]  young! Don't just throw away your life![WAIT]@Okay?![WAIT]@Alright, then. Now that you understand, go on![WAIT]@And just forget about me.[WAIT]@Later.[END]
-47-36E:
+47-36E:@Kene Ahnung, was dei Geschicht' ist, aber du[BREAK]  bist noch jung! Wirf nicht einfach dein Leben[WAIT]  weg![WAIT]@Okay?![WAIT]@Alles klar, jetzt wo du's verstanden hast,[BREAK]  fahre fort![WAIT]@Und vergiss mich einfach.[WAIT]@Bis später.[END]
 47-37:@You wound up being saved.[END]
-47-37E:
+47-37E:@Du bist am Ende gerettet worden.[END]
 47-38:@You again?![WAIT]@How many times do I gotta say it?![WAIT]  You're young! Don't throw yer life away![END]
-47-38E:
+47-38E:@Du schon wieder?![WAIT]@Wie oft soll ich es dir denn noch sagen?![WAIT]  Du bist jung! Wirf nicht dei Leben weg![END]
 47-39:@Youthful impatience, huh?[WAIT]  I dunno what yer deal is, but you should apply[BREAK]  that to sports or something more useful![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
-47-39E:
+47-39E:@Hach, die jugendliche Ungeduld?[WAIT]  Kene Ahnung, was für Gründe du hast, aber du solltest das für Kunst oder etwas[WAIT]  konstruktiveres verwenden![WAIT]@Sieh mich an! Ich bin selbst ein beschäftigter[WAIT]  Kerl![WAIT]@Also hör auf mir Arbeit zu geben![WAIT]@Bis dann![END]
 47-40:@Hold it! Hold it![END]
 47-40E:@Warte! WARTE![END]
 47-41:@I figured it was you again![WAIT]@Please, just give it a rest already![WAIT]@This is almost like a comic book at this point![WAIT]@Just behave yerself.[WAIT]@Forget all about this tunnel.[END]
-47-41E:
+47-41E:@Du schon wieder![WAIT]@Bitte, mach doch mal eine Pause![WAIT]@Es fängt langsam an wie eine Comedy-Nummer[BREAK]  zu wirken![WAIT]@Benimm dich einfach.[WAIT]@Vergiss alles über diesen Tunnel.[END]
 47-42:@Whoa, whoa, whoa![END]
-47-42E:
+47-42E:@Whoa, whoa, whoa![END]
 47-43:@[PAUSE 5A 00]I was keepin' an eye out for you.[WAIT]@I thought you might show up...[PAUSE 18 00] and you did.[WAIT]@C'mon, just turn back now. [PAUSE 5A 00]Please?[END]
-47-43E:
+47-43E:@[PAUSE 5A 00]Ich hab ein Auge auf dich geworfen.[WAIT]@Ich habe mir schon gedacht, du würdest hier[BREAK]  vielleicht aufkreuzen...[PAUSE 18 00] und das bist du auch.[WAIT]@Komm schon, kehr einfach um. [PAUSE 5A 00]Bitte?[END]
 47-44:@Hold it! Do you never listen?![END]
-47-44E:
+47-44E:@Warte! Hörst du denn nie zu?![END]
 47-45:@You're teasin' me, aren't you?[WAIT]@You're not mockin' me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just turn back now. [PAUSE 5A 00]Please?[END]
-47-45E:
+47-45E:@Du willst mich veräppeln, oder?[WAIT]@Du machst dich nicht über mich lustig, weil[BREAK]  ich nett, freundlich und sympatisch bin, oder?[WAIT]@Genau das machst du, oder?[WAIT]@Ok, das wird das letzte Mal sein.[WAIT]@Ich werde dich von nun an nicht mehr[BREAK]  aufhalten.[WAIT]@Das nächste Mal werde ich dich aufhalten.[WAIT]@Aber kehr jetzt um. [PAUSE 5A 00]Bitte?[END]
 47-46:@...[END]
 47-46E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 47-47:@...[WAIT]@...[WAIT]@I dunno if you care or not, but I'll tell you[BREAK]  anyways.[WAIT]@My big bro lives on the other side of this[BREAK]  tunnel.[WAIT]@People say he looks just like me.[WAIT]@...No idea what he's up to lately, though.[END]
-47-47E:
+47-47E:@...[WAIT]@...[WAIT]@Kene Ahnung, ob es dich interessiert oder[BREAK]  nicht, aber ich werde es dir trotzdem erzählen.[WAIT]@Mein großer Bruder lebt auf der anderen Seite[BREAK]  dieses Tunnels.[WAIT]@Die Leute sagen, dass er wie ich aussieht.[WAIT]@...Ich habe aber keinen Plan, was er vor[BREAK]  Kurzem gemacht hat.[END]
 
 [Container 48]
 48-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
@@ -4279,7 +4279,7 @@
 48-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 48-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-48-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+48-8E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 48-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 48-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -4288,7 +4288,7 @@
 48-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 48-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-48-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+48-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 48-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 48-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -4306,27 +4306,27 @@
 48-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 48-17:@Club Titiboo books various bands and offers all[BREAK]  sorts of services for our patrons.[WAIT]  Please come in and enjoy![WAIT]@Let our profoundly bizarre atmosphere wash[BREAK]  over you![END]
-48-17E:
+48-17E:@Club Titiboo bucht allerlei Bands und bietet[BREAK]  unseren Stammkunden jede Menge Services.[WAIT]  Bitte treten Sie ein und genießen Sie es![WAIT]@Lasst unsere zutiefst bizarre Atmosphäre Sie[BREAK]  verzaubern![END]
 48-18:@For those wishing for another day of[BREAK]  wonderful leisure time...[WAIT]@Club Titiboo has what you want.[WAIT]@Let our profoundly bizarre atmosphere wash[BREAK]  over you![END]
-48-18E:
+48-18E:@Für alle, die sich nach unvergesslicher Freizeit[BREAK]  sehnen...[WAIT]@Club Titiboo hat, was Ihr wollt.[WAIT]@Lasst unsere zutiefst bizarre Atmosphäre Sie[BREAK]  verzaubern![END]
 48-19:@*hop*[WAIT]@I'm head over heels for you.[END]
-48-19E:
+48-19E:@*hüpf*[WAIT]@Ich stehe für dich kopfüber.[END]
 48-20:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@Working in the factory isn't easy,[PAUSE 20 00] but you do[BREAK]  get free tickets to Club Titiboo out of it.[WAIT]@So it's not all bad.[END]
-48-20E:
+48-20E:@Oh, hallo, [LUCAS 23 02 00].[WAIT]@In der Fabrik zu arbeiten ist nicht einfach,[PAUSE 20 00] aber[BREAK]  man bekommt dafür kostenlose Tickets für[WAIT]  Club Titiboo.[WAIT]@Also ist das gar nicht so schlimm.[END]
 48-21:@Have you seen Butch anywhere?[WAIT]@He's always skippin' work to go off[BREAK]  somewhere...[END]
-48-21E:
+48-21E:@Hast du Butch irgendwo gesehen?[WAIT]@Er schwänzt immer die Arbeit um irgendwo[BREAK]  hinzugehen...[END]
 48-22:@Zzzz... Zzzz...[WAIT]@*mumble* *mumble*[WAIT]@Ahh![WAIT]@Oh, crap! I fell asleep![WAIT]@I guess that's what they call "sleep-standing".[WAIT]@Thanks for waking me up.[END]
-48-22E:
+48-22E:@Zzzz... Zzzz...[WAIT]@*brummel* *brummel*[WAIT]@Ahh![WAIT]@Oh, Mist! Ich bin eingenickt![WAIT]@Das nennt man dann wohl "schlaf-stehend".[WAIT]@Danke fürs Wecken.[END]
 48-23:@Hey, you kids.[WAIT]@I'm not in a very good mood at all right now.[WAIT]@Come back some other time, unless you[BREAK]  wanna get knocked flat on your butts.[END]
-48-23E:
+48-23E:@Hey, Kinder.[WAIT]@Ich habe heute alles andere als eine gute[BREAK]  Stimmung.[WAIT]@Kommt ein andermal wieder, es sei denn,[BREAK]  ihr wollt hier hochkant rausgeworfen werden.[END]
 48-24:@You know the Caeribe Falls, just to the[BREAK]  northeast of here?[WAIT]@Some mole crickets have been digging some[BREAK]  really deep holes in that area.[WAIT]@Could they be any MORE inconsiderate?![WAIT]@We moles've been digging holes here for a long[BREAK]  time now,[WAIT]  so they should've at least gone through the[BREAK]  proper channels first.[WAIT]@*mumble* *mumble*.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Oh, I'm sorry.[WAIT]@I didn't mean to dump all my complaints onto[BREAK]  complete strangers.[END]
-48-24E:
+48-24E:@Kennst du die Caeribe Fälle im Nordosten von[BREAK]  hier?[WAIT]@Einige Maulwurfsgrillen haben dort verdammt[BREAK]  tiefe Löcher gegraben.[WAIT]@Können sie etwa NOCH rücksichtsloser sein?![WAIT]@Wir Maulwürfe haben jetzt schon sehr lange[BREAK]  dort Löcher gegraben,[WAIT]  also hätten sie doch wenigstens zuerst durch[BREAK]  die richtigen Tunnel gehen können.[WAIT]@*brummel* *brummel*.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Oh, tut mir leid.[WAIT]@Ich wollte nicht all meine Beschwerden an[BREAK]  einem Fremdem ablassen.[END]
 48-25:@The factory is closed down as of today.[WAIT]  We sincerely thank you for many things.[WAIT]@"Song of the Factory"[BREAK]            Lyrics: Director Brown[WAIT]  Everyone's sweat[WAIT]  Everyone's tears[WAIT]  Everyone's strength[WAIT]  Meld it all into clay[WAIT]  The factory will always be[WAIT]  in everyone's memories[WAIT]  Forever and ever[WAIT]  Goodbye, Factory[WAIT]  Thank you, Factory[END]
-48-25E:
+48-25E:@Die Fabrik ist von heute an geschlossen.[WAIT]  Wir bedanken uns herzlich für viele Dinge.[WAIT]@"Der Fabriksong"[BREAK]            Lyrics: Direktor Brown[WAIT]  Für die Süßigkeiten[WAIT]  Für die Tränen[WAIT]  Für die Stärke[WAIT]  Alles in Lehm geschmolzen[WAIT]  Die Fabrik wird immer in[WAIT]  den Erinnerung bleiben[WAIT]  Für immer und immer[WAIT]  Auf Wiedersehen Fabrik[WAIT]  Danke dir, Fabrik[END]
 48-26:@The ropeway station is that-a-way.[END]
-48-26E:
+48-26E:@Die Seilbahn ist dort-entlang.[END]
 48-27:[END]
-48-27E:
+48-27E:[END]
 
 [Container 49]
 49-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
@@ -4354,7 +4354,7 @@
 49-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 49-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-49-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+49-8E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 49-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 49-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -4363,7 +4363,7 @@
 49-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 49-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-49-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+49-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 49-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 49-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -4381,73 +4381,73 @@
 49-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 49-17:@This ropeway leads to Club Titiboo.[BREAK]@Do you want to ride up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-49-17E:
+49-17E:@Diese Seilbahn führt zu Club Titiboo.[BREAK]@Möchtest du fahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 49-18:@Then why did you come here?![WAIT]@Oh well, whatever.[END]
-49-18E:
+49-18E:@Wieso bist du dann hierher gekommen?[WAIT]@Naja, was auch immer.[END]
 49-19:@Tickets, please.[END]
-49-19E:
+49-19E:@Tickets, bitte.[END]
 // Repeats: 49-19, 50-35
 49-20:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]You don't seem to have any tickets.[WAIT]@I can't let you on without tickets.[END]
-49-20E:
+49-20E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Du scheinst keine Tickets zu besitzen.[WAIT]@Ich kann dich ohne Tickets nicht fahren lassen.[END]
 49-21:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Yes, everything is in order here.[WAIT]@Please, get on.[END]
-49-21E:
+49-21E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Ja, alles in Ordnung.[WAIT]@Bitte, steigt ein.[END]
 // Repeats: 49-21, 50-36
 49-22:@[LUCAS 23 02 00].[WAIT]@Now isn't the time to head back to the village.[END]
-49-22E:
+49-22E:@[LUCAS 23 02 00].[WAIT]@Jetzt ist nicht die Zeit, zurück zum Dorf zu[BREAK]  gehen.[END]
 49-23:@Oh, hello there, [FLINT 23 01 00] and[BREAK]  [LUCAS 23 02 00].[WAIT]@What's that?[WAIT]  Unknown Valley?[WAIT]@Here, I'll mark it on your map for you.[END]
-49-23E:
+49-23E:@Oh, hallöchen, [FLINT 23 01 00] und[BREAK]  [LUCAS 23 02 00].[WAIT]@Was ist los?[WAIT]  Unbekanntes Tal?[WAIT]@Bitte schön, ich werde es für euch auf eurer[BREAK]  Karte markieren.[END]
 49-24:@I don't know too much about this area, but I do[BREAK]  trust in my gut instincts.[END]
-49-24E:
+49-24E:@Ich weiß nicht viel über diesen Ort, aber ich[BREAK]  vertraue einfach meinem Instinkt.[END]
 49-25:@...Whoops![WAIT]@I'd like to help you, but you don't seem to have[BREAK]  a map of this area.[WAIT]@If you do find a map, bring it here and I'll mark[BREAK]  it for you.[END]
-49-25E:
+49-25E:@...Whoops![WAIT]@Ich würde euch zwar helfen, aber ihr scheint[BREAK]  keine Karte dieses Ortes zu besitzen.[WAIT]@Wenn ihr die Karte findet, bringt sie hierher[BREAK]  und ich werde es für euch markieren.[END]
 49-26:@Club Titiboo is waiting![WAIT]  For what, you ask?[WAIT]  Why, you, of course![END]
-49-26E:
+49-26E:@Club Titiboo wartet![WAIT]  Auf was, fragst du?[WAIT]  Na, auf euch, natürlich![END]
 49-27:[END]
-49-27E:
+49-27E:[END]
 
 [Container 50]
 50-0:@Binoculars. 1 DP for a look.[WAIT]@Have a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-50-0E:
+50-0E:@Fernglas. 1 DK für einmal Reinschauen.[WAIT]@Willst du es benutzen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 50-1:@You decided not to take a look.[END]
-50-1E:
+50-1E:@Du hast dich entschieden,[BREAK]  es nicht zu benutzen.[END]
 50-2:@You didn't even have 1 DP, so you weren't[BREAK]  able to take a look.[END]
-50-2E:
+50-2E:@Du hast noch nicht einmal eine einzige DK.[END]
 50-3:@Ropeway Station[END]
-50-3E:
+50-3E:@Seilbahnstation[END]
 50-4:@Whoa, there.[WAIT]@Haven't seen you around here before...[WAIT]@We don't allow pets inside.[WAIT]@Sorry, but I'm gonna have to ask you to leave.[END]
-50-4E:
+50-4E:@Whoa, warte mal.[WAIT]@Hab dich hier noch nie zuvor gesehen...[WAIT]@Haustiere sind hier nicht erlaubt.[WAIT]@Tut mir leid, aber ich muss euch bitten[BREAK]  zu gehen.[END]
 50-5:@Come back some other time.[END]
-50-5E:
+50-5E:@Komm ein andermal wieder.[END]
 50-6:@Whoa.[WAIT]@It's that guy who had a dog with him just a[BREAK]  minute ago...[EVENT][END]
-50-6E:
+50-6E:@Whoa.[WAIT]@Das ist doch der Typ, der vor einer Minute[BREAK]  noch einen Hund bei sich hatte...[EVENT][END]
 50-7:  ...and some dog-like dude.[END]
-50-7E:
+50-7E:  ...und ein hundeartiger Kerl..[END]
 50-8:@No, there's somethin' fishy about this![WAIT]@Where'd that dog from earlier go, and where'd[BREAK]  this dog-like dude come from?![EVENT][END]
-50-8E:
+50-8E:@Nein, irgendwas stinkt hier doch![WAIT]@Wohin ist dieser Hund von vorhin gegangen,[BREAK] und von woher kommt dieser hundeartige Kerl?![EVENT][END]
 50-9:@And on top of that, you smell underage![EVENT][END]
-50-9E:
+50-9E:@Und damit nicht genug, riechst du auch[BREAK]  noch wei ein Minderjähriger![EVENT][END]
 50-10:@*sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00][BREAK]  You smell like an underage kid and a dog![END]
-50-10E:
+50-10E:@*schnüffel*[PAUSE 20 00] *schnüffel*[PAUSE 20 00][BREAK]  Du riechst wie ein minderjähriges Kind und[BREAK]  ein Hund![END]
 50-11:@Now that you mention it, this IS weird![WAIT]@No suspicious people allowed![WAIT]@That's our rule here![WAIT]@Scram![WAIT]  Get lost, you kid-like guy and you dog-like[BREAK]  dude![END]
-50-11E:
+50-11E:@Jetzt, wo du's erwähnst, das IST[BREAK]  äußerst merkwürdig![WAIT]@Keine verdächtigen Leute erlaubt![WAIT]@So sind unsere Regeln hier![WAIT]@Haut ab![WAIT]  Verschwindet, du kinderartiger Typ und[BREAK]  du hundeähnlicher Kerl![END]
 50-12:@Nah! I say we pulverize 'em right here![END]
-50-12E:
+50-12E:@Ach was! Wir sollten sie hier und jetzt[BREAK]  pulverisieren![END]
 50-13:@Oh, my![WAIT]@If it isn't the underage-smelling Poo[WAIT]  and the dog-smelling Wuuf![END]
-50-13E:
+50-13E:@Meine Güte![WAIT]@Wenn das mal nicht der minderjährig-stinkende[BREAK]  Pfurz und der hundestinkende Wauwau sind![END]
 50-14:@I take it you two've been mistaken for an[BREAK]  underage kid and a dog yet again?[WAIT]@*giggle*[END]
-50-14E:
+50-14E:@Ich nehme an, ihr zwei wurdet irrtümlich als[BREAK]  minderjähriges Kind und einem Hund gehalten?[WAIT]@*kicher*[END]
 50-15:@Whaaa?![WAIT]@You know these dudes, Violet?[END]
-50-15E:
+50-15E:@Waaaaas?![WAIT]@Du kennst diese Kerle, Violet?[END]
 50-16:@Whaaa?![WAIT]@You know these dudes, Kumatora?[END]
-50-16E:
+50-16E:@Waaaaas?![WAIT]@Du kennst diese Kerle, Kumatora?[END]
 50-17:@I dunno, I still say there's somethin' not right[BREAK]  about these guys![WAIT]@Especially this dog-like dude here.[PAUSE C0 00][WAIT]@Shake![END]
-50-17E:
+50-17E:@Ich glaube immernoch, dass etwas mit diesen[BREAK]  Typen nicht stimmt![WAIT]@Besonders dieser hundeartige Kerl hier.[PAUSE C0 00][WAIT]@Dreh dich![END]
 50-18:@Don't look away from me![WAIT][PAUSE 40 00]@Shake![END]
-50-18E:
+50-18E:@Schau mir in die Augen![WAIT][PAUSE 40 00]@Dreh dich![END]
 50-19:[PAUSE 3C 00]@See? You do know how to shake.[BREAK]  *grin*[END]
-50-19E:
+50-19E:[PAUSE 3C 00]@Siehst du? Du weißt, wie man sich dreht.[BREAK]  *grins*[END]
 50-20:@*wh-[PAUSE 10 00]whimper*[BREAK]  (Yes, I do know how to shake, but...)[END]
-50-20E:
+50-20E:@*w-[PAUSE 10 00]wimmer*[BREAK]  (Ja, ich weiß, wie man sich dreht, aber...)[END]
 50-21:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]This guy is definitely dog-like, but it seems[BREAK]  [PAUSE 20 00]he isn't a dog.[WAIT]@But, dude.[PAUSE 30 00][WAIT]@If by chance you ARE a dog.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  You'd be one of the best dogs to ever shake.[WAIT]@Heh.[END]
 50-21E:
 50-22:@Wonderful![WAIT]@Come in, have lots of fun, and forget about[BREAK]  allllll your worries![END]
@@ -4477,10 +4477,10 @@
 50-34:@This ropeway leads to the factory.[BREAK]@Will you ride down it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 50-34E:
 50-35:@Tickets, please.[END]
-50-35E:
+50-35E:@Tickets, bitte.[END]
 // Repeats: 49-19, 50-35
 50-36:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Yes, everything is in order here.[WAIT]@Please, get on.[END]
-50-36E:
+50-36E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Ja, alles in Ordnung.[WAIT]@Bitte, steigt ein.[END]
 // Repeats: 49-21, 50-36
 50-37:@Oh, okay.[WAIT]@By the way, have you had a chance to look[BREAK]  through the binoculars there?[END]
 50-37E:
@@ -4573,7 +4573,7 @@
 53-8:@Whoa, whoa, whoa![EVENT][END]
 53-8E:
 // Repeats: 53-8, 54-8
-53-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alec's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
+53-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
 53-9E:
 // Repeats: 53-9, 54-9
 
@@ -4605,7 +4605,7 @@
 54-8:@Whooooa![EVENT][END]
 54-8E:
 // Repeats: 53-8, 54-8
-54-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alec's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
+54-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
 54-9E:
 // Repeats: 53-9, 54-9
 54-10:@There should be a big hole in the ground[BREAK]  straight north of here.[WAIT]@I think I went through it and hid the egg[BREAK]  somewhere on the other side.[WAIT]@So let's head for that area first.[END]
@@ -4624,7 +4624,7 @@
 54-16E:
 54-17:@Heh[PAUSE 10 00] heh[PAUSE 10 00] heh.[PAUSE 28 00] Here it is.[WAIT]@This is where you and me are gonna fight it[BREAK]  out.[WAIT]@This is where my right hand'll be raised into[BREAK]  the air when I'm declared the winner.[WAIT]@And this is also where you're[PAUSE 1E 00] gonna hit the[BREAK]  ground with a thud.[WAIT]@This is the place! [PAUSE 1E 00]Mole Cricket Hole![WAIT]@I'll widen the hole a bit for you to fit through.[WAIT]@Come on![END]
 54-17E:
-54-18:@Hey! You're that kid who was at Alec's place![WAIT]@I was just about to go there to find you![END]
+54-18:@Hey! You're that kid who was at Alex's place![WAIT]@I was just about to go there to find you![END]
 54-18E:
 54-19:@This is where you and me are gonna fight it[BREAK]  out.[WAIT]@This is where my right hand'll be raised into[BREAK]  the air when I'm declared the winner.[WAIT]@And this is also where you're[PAUSE 1E 00] gonna hit the[BREAK]  ground with a thud.[WAIT]@This is the place! [PAUSE 1E 00]Mole Cricket Hole![WAIT]@I'll widen the hole a bit for you to fit through.[WAIT]@Come on![END]
 54-19E:
@@ -4737,7 +4737,7 @@
 [Container 58]
 58-0:@Pigmask tanks are blocking the way.[END]
 58-0E:
-58-1:@This area is off-limits so we can conduct[BREAK]  repairs on Thunder Tower![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
+58-1:@This area is off-limits so we can conduct[BREAK]  repairs on Donnerturm![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
 58-1E:
 // Repeats: 58-1, 380-12
 58-2:@Clayman Factory[END]
@@ -4772,7 +4772,7 @@
 59-11E:
 59-12:@Left: To Candrum[END]
 59-12E:
-59-13:@Right: To Garbage Dump, Thunder Tower[END]
+59-13:@Right: To Garbage Dump, Donnerturm[END]
 59-13E:
 
 [Container 61]
@@ -4890,7 +4890,7 @@
 67-8E:
 67-9:@Commander![WAIT]@What are you doing, goofing around in a place[BREAK]  like this?![END]
 67-9E:
-67-10:@We're heading straight to Thunder Tower.[WAIT]@If anyone needs to use the restroom on the[BREAK]  way there, please hold it in![EVENT][END]
+67-10:@We're heading straight to Donnerturm.[WAIT]@If anyone needs to use the restroom on the[BREAK]  way there, please hold it in![EVENT][END]
 67-10E:
 67-11:@Now to hit the pedal to the metal![END]
 67-11E:
@@ -5438,7 +5438,7 @@
 81-60:@Heh heh heh...[WAIT]@There's no escape from me.[PAUSE 20 00][BREAK]  Nwehe-nwehehehehe![END]
 81-60E:
 81-61:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-81-61E:@[HINAWA 22 08 00] gab den Einwohnern von[BREAK]  Tazmily Gerberas als Geschenk.[END]
+81-61E:@[HINAWA 22 08 00] schenkte diese[BREAK]  Tazmily Gerberas den Einwohner.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 82]
@@ -6127,26 +6127,26 @@
 104-3:@You're much manlier now.[WAIT]@Go have fun![END]
 104-3E:@Jetzt siehst du schon viel besser aus.[WAIT]@Los, hab Spaß![END]
 104-4:@Oww![BREAK]@I surrender! I surrender![END]
-104-4E:@Auch![BREAK]@Ich kapituliere! Ich kapituliere![END]
+104-4E:@Autsch![BREAK]@Ich kapituliere! Ich kapituliere![END]
 104-5:@Got some [ITEM 5E 00]![END]
 104-5E:@Du hast ein paar [ITEM 5E 00] erhalten![END]
 // Repeats: 104-5, 309-4
 104-6:@What's your favorite food, Mom?[WAIT]  [PAUSE 40 00]Oh?[PAUSE 20 00] [FAVFOOD]?[WAIT]@Then your favorite is the same as ours?[WAIT]  We make a good match![END]
 104-6E:@Was ist dein Lieblingsessen, Mama?[WAIT]  [PAUSE 40 00]Oh?[PAUSE 20 00] [FAVFOOD]?[WAIT]@Dann ist es ja dasselbe wie unseres?[WAIT]  Wir passen so gut zusammen![END]
 104-7:@After we're done eating, we need to get ready[BREAK]  to go home.[WAIT]@We have to go through the forest to get back,[BREAK]  so we'll need to leave early.[END]
-104-7E:@Wenn wir fertig mit Essen sind, müssen wir[BREAK]  uns für die Heimreise fertig machen.[WAIT]@Wir müssen durch den Wald gehen um zurück[BREAK]  zu kommen, also müssen wir früh los.[END]
+104-7E:@Wenn wir fertig mit Essen sind, müssen wir[BREAK]  uns für die Heimreise fertig machen.[WAIT]@Wir müssen dafür durch den Wald gehen, also[BREAK]  müssen wir früh los.[END]
 104-8:@Don't be silly.[WAIT]  I bet the kids could make it here on their own,[BREAK]  it's that safe.[END]
-104-8E:@Jetzt sei doch nicht so.[WAIT]  Ich wette die Kinder könnten es auch alleine[BREAK]  zurück schaffen, so sicher ist es.[END]
+104-8E:@Jetzt sei doch nicht so.[WAIT]  Ich wette, die Kinder könnten es sogar alleine[BREAK]  hierher schaffen, so sicher wie es ist.[END]
 104-9:@I bet even you could handle it, [LUCAS 23 02 00]![BREAK]  Hahahaha![END]
-104-9E:@Sogar du, [LUCAS 23 02 00]![BREAK]  Hahahaha![END]
+104-9E:@Ich wette, sogar du würdest das hinkriegen,[BREAK]  [LUCAS 23 02 00]! Hahahaha![END]
 104-10:@Oh, you made it![WAIT]@Traveling through the forest has become quite[BREAK]  dangerous indeed...[END]
 104-10E:@Oh, ihr habt es geschafft![WAIT]@Der Wald ist tatsächlich ziemlich[BREAK]  gefährlich geworden...[END]
 104-11:@What were those extremely bizarre flying[BREAK]  mouse things with bug wings?[WAIT]@It seems one bit me right on the head, too.[WAIT]@I've healed up perfectly, though...[WAIT]@No, no, no, no, no! None of that matters![WAIT]@I know where [CLAUS 22 05 00] might have gone![END]
-104-11E:@Was waren diese extrem bizarren fliegenden[BREAK]  Mäuseviecher mit Käferflügel?[WAIT]@Es scheint, eines dieser Viecher hat mich[BREAK]  gebissen.[WAIT]@Mir gehts aber wieder perfekt...[WAIT]@Nein, nein, nein, nein! Nichts dergleichen![WAIT]@Ich weiß wo [CLAUS 22 05 00] vielleicht steckt![END]
+104-11E:@Was waren denn diese extrem bizarren[BREAK]  fliegenden Mäuseviecher mit Käferflügel?[WAIT]@Eines dieser Viecher scheint mich auch noch[BREAK]  am Kopf gebissen zu haben.[WAIT]@Mir gehts aber perfekt...[WAIT]@Nein, nein, nein, nein! Nichts dergleichen![WAIT]@Ich weiß, wo [CLAUS 22 05 00] sich vielleicht[BREAK]  versteckt haben könnte![END]
 104-12:@According to my froggy intelligence, he's at[BREAK]  my friend's house.[WAIT]@Let's head there right now![END]
 104-12E:@Laut meiner Froschintelligenz, ist er im[BREAK]  Haus eines meiner Freunde.[WAIT]@Lasst uns sofort da hingehen![END]
-104-13:@Alec joined your party![PAUSE A0 00][END]
-104-13E:@Alec tretete deinem Team bei![PAUSE A0 00][END]
+104-13:@Alex joined your party![PAUSE A0 00][END]
+104-13E:@Alex tretete deinem Team bei![PAUSE A0 00][END]
 104-14:@An old bed.[WAIT]@It's fluffy and very comfortable.[END]
 104-14E:@Ein altes Bett.[WAIT]@Es ist weich und sehr gemütlich.[END]
 104-15:@The fireplace is nice and clean.[END]
@@ -7173,7 +7173,7 @@
 137-2E:
 137-3:@So you're the one they call [LUCAS 23 02 00].[WAIT]@I've heard about you from Ionia. [HEART][WAIT]@...They say you're the one who can pull the[BREAK]  Needles.[WAIT]@Such a strong, sweet face... [HEART][END]
 137-3E:
-137-4:@I am Lydia, the Magypsy of Snowcap Mountain.[END]
+137-4:@I am Lydia, the Magypsy of Schneekronenberg.[END]
 137-4E:
 137-5:@What you seek is behind this house. [HEART][WAIT]@It's surreal, realizing the time has finally come[BREAK]  for my Needle to be pulled.[WAIT]  I never thought this day would come to pass...[END]
 137-5E:
@@ -8161,7 +8161,7 @@
 175-37E:
 
 [Container 176]
-176-0:@Leave Snowcap Mountain?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+176-0:@Leave Schneekronenberg?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 176-0E:
 176-1:[END]
 176-1E:
@@ -8607,9 +8607,9 @@
 186-4E:
 186-5:@"Blunder?"[EVENT][END]
 186-5E:
-186-6:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Threw me off Blunder[PAUSE 18 00] Tower?"[WAIT][PAUSE 40 00]@I'm sorry, I don't understand... [PAUSE 30 00]Ah.[WAIT]  "...off Thunder Tower."[EVENT][END]
+186-6:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Threw me off Blunder[PAUSE 18 00] Tower?"[WAIT][PAUSE 40 00]@I'm sorry, I don't understand... [PAUSE 30 00]Ah.[WAIT]  "...off Donnerturm."[EVENT][END]
 186-6E:
-186-7:@"You threw me off Thunder Tower..."[WAIT]@He goes on to say, "The resulting shame, pain,[BREAK]  and woe[PAUSE 30 00] are humiliating. VERY humiliating.[WAIT]  Therefore, I would very much like to return[BREAK]  the favor in full."[END]
+186-7:@"You threw me off Donnerturm..."[WAIT]@He goes on to say, "The resulting shame, pain,[BREAK]  and woe[PAUSE 30 00] are humiliating. VERY humiliating.[WAIT]  Therefore, I would very much like to return[BREAK]  the favor in full."[END]
 186-7E:
 186-8:@"Today will be the day I make you cry.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  I will make you cry uncle."[WAIT]@"I do not believe I will ever[PAUSE 20 00] lose to the likes of[BREAK]  you[PAUSE 20 00] again...[PAUSE 18 00] Nwehehehehe!"[PAUSE 20 00][WAIT]  is what Fassad says.[END]
 186-8E:
@@ -8632,13 +8632,13 @@
 186-16E:
 186-17:@One Needle is far east of Tazmily.[WAIT]@At the bottom of a pond.[WAIT]  I believe Doria is protecting it.[END]
 186-17E:
-186-18:@One Needle is on Snowcap Mountain, on the[BREAK]  northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
+186-18:@One Needle is on Schneekronenberg, on the[BREAK]  northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
 186-18E:
 186-19:@One Needle is on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
 186-19E:
 186-20:@One Needle is in Chupichupyoi Temple, deep in[BREAK]  the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
 186-20E:
-186-21:@Another Needle is on Snowcap Mountain, on[BREAK]  the northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
+186-21:@Another Needle is on Schneekronenberg, on[BREAK]  the northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
 186-21E:
 186-22:@Another Needle is on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
 186-22E:
@@ -8683,7 +8683,7 @@
 188-1E:
 
 [Container 189]
-189-0:@Hello! Welcome to Snowcap Mountain![WAIT]@I'm a snowman that Lydia made![END]
+189-0:@Hello! Welcome to Schneekronenberg![WAIT]@I'm a snowman that Lydia made![END]
 189-0E:
 189-1:[END]
 189-1E:
@@ -8872,7 +8872,7 @@
 194-8E:
 194-9:@Oh, [FLINT 23 01 00].[WAIT]@I was just trying to remember what[BREAK]  sunflowers symbolize...[WAIT]@Because [HINAWA 22 08 00] really loved them.[END]
 194-9E:
-194-10:@Wife of [FLINT 23 01 00].[WAIT]  Mother of the twins[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00].[WAIT]@Daughter of Alec.[WAIT]@May the beautiful [HINAWA 22 08 00] rest in peace[BREAK]  here for all time.[END]
+194-10:@Wife of [FLINT 23 01 00].[WAIT]  Mother of the twins[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00].[WAIT]@Daughter of Alex.[WAIT]@May the beautiful [HINAWA 22 08 00] rest in peace[BREAK]  here for all time.[END]
 194-10E:
 // Repeats: 194-10, 195-0
 194-11:@Dad...[WAIT]@I thought you said anything could come true,[WAIT]  as long as we prayed from the bottom of our[BREAK]  hearts?![WAIT]@Mom can't even punish me anymore now...[WAIT]@I... don't want it like this...[END]
@@ -8930,7 +8930,7 @@
 194-35E:
 
 [Container 195]
-195-0:@Wife of [FLINT 23 01 00].[WAIT]  Mother of the twins[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00].[WAIT]@Daughter of Alec.[WAIT]@May the beautiful [HINAWA 22 08 00] rest in peace[BREAK]  here for all time.[END]
+195-0:@Wife of [FLINT 23 01 00].[WAIT]  Mother of the twins[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00].[WAIT]@Daughter of Alex.[WAIT]@May the beautiful [HINAWA 22 08 00] rest in peace[BREAK]  here for all time.[END]
 195-0E:
 // Repeats: 194-10, 195-0
 195-1:@[FLINT 23 01 00] is always offering flowers.[END]
@@ -9035,7 +9035,7 @@
 198-1E:
 198-2:@Oh, you're finally awake![WAIT]@Don't worry, [BONEY 23 05 00] is in tip-top[BREAK]  shape, too.[END]
 198-2E:
-198-3:@It's strange.[WAIT]@[HINAWA 22 08 00] appeared in Alec's dream and[BREAK]  told him to pile hay at that one spot.[WAIT]@Then, in the real world, right out of the blue,[BREAK]  you two fall right into the pile...[WAIT]@It's as strange as strange can be.[END]
+198-3:@It's strange.[WAIT]@[HINAWA 22 08 00] appeared in Alex's dream and[BREAK]  told him to pile hay at that one spot.[WAIT]@Then, in the real world, right out of the blue,[BREAK]  you two fall right into the pile...[WAIT]@It's as strange as strange can be.[END]
 198-3E:
 198-4:@It's an absolute miracle that you didn't even[BREAK]  get a scratch.[END]
 198-4E:
@@ -9096,7 +9096,7 @@
 199-16E:
 199-17:@You shouldn't dawdle, Gorgeous or whatever[BREAK]  your name is![WAIT]@Go on! Get going...![END]
 199-17E:
-199-18:@Alec? Oh, he went for a walk.[WAIT]@He's had oodles of free time ever since his[BREAK]  house burned down too.[END]
+199-18:@Alex? Oh, he went for a walk.[WAIT]@He's had oodles of free time ever since his[BREAK]  house burned down too.[END]
 199-18E:
 199-19:@This appears to be a mouse hole.[WAIT]  It almost seems like a mouse could pop out at[BREAK]  any moment.[END]
 199-19E:
@@ -9706,7 +9706,7 @@
 211-92:@Come, now.[WAIT]@I'll give you lots and lots of Luxury Bananas[BREAK]  later, so let us return to the Yado Inn.[WAIT]@Okay, little [SALSA 23 06 00]?[END]
 211-92E:
 211-93:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-211-93E:@[HINAWA 22 08 00] gab den Einwohnern von[BREAK]  Tazmily Gerberas als Geschenk.[END]
+211-93E:@[HINAWA 22 08 00] schenkte diese[BREAK]  Tazmily Gerberas den Einwohner.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 212]
@@ -9773,8 +9773,8 @@
 212-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 212-20E:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-20, 212-20, 213-20
-212-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
-212-21E:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+212-21:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+212-21E:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-21, 212-21, 213-21
 212-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
 212-22E:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
@@ -9869,8 +9869,8 @@
 213-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 213-20E:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-20, 212-20, 213-20
-213-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
-213-21E:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+213-21:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+213-21E:@Go how far into Schneekronenberg?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 // Repeats: 11-21, 212-21, 213-21
 213-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
 213-22E:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
@@ -10031,7 +10031,7 @@
 219-27E:@Wenn wir die Seile durchschneiden...[PAUSE 1E 00][BREAK]  wird sie frei sein, richtig?[WAIT]@Aber was wenn sie durchdreht und Menschen[BREAK]  verletzt, falls wir das machen?[END]
 // Repeats: 33-27, 219-27
 219-28:@No, no, no, no! I'm still scared![WAIT]@She might go crazy if we cut her ropes![WAIT]@And her beauty makes her all the scarier![END]
-219-28E:@Nein, nein, nein, nein! Ich habe zu viel Angst![WAIT]@Sie dreht vielleicht durch, wenn wir die Seile[BREAK]  durchschneiden![WAIT]@Und ihre Schönheit macht es noch gruseliger![END] 
+219-28E:@Nein, nein, nein, nein! Ich habe zu viel Angst![WAIT]@Sie dreht vielleicht durch, wenn wir die Seile[BREAK]  durchschneiden![WAIT]@Und ihre Schönheit macht es noch gruseliger![END]
 // Repeats: 33-28, 219-28
 219-29:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@This old guy clearly has hobbies and interests[BREAK]  different from regular people...[END]
 219-29E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Dieser alte Mann hat eindeutig Hobbies[BREAK]  und Interessen, die sich von normalen[WAIT]  Leuten unterscheiden...[END]
@@ -10299,7 +10299,7 @@
 222-62E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 222-63:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-222-63E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+222-63E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 222-64:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 222-64E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -10308,7 +10308,7 @@
 222-65E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 222-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-222-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+222-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 222-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 222-67E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -10361,7 +10361,7 @@
 222-83:@Woof woof woof woof![END]
 222-83E:@Wau wau wau wau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
-222-84:@This is the white, metal box you rode here[BREAK]  from Snowcap Mountain.[END]
+222-84:@This is the white, metal box you rode here[BREAK]  from Schneekronenberg.[END]
 222-84E:
 // Repeats: 222-84, 506-84
 222-85:@There's a jar here that's too hard to ignore.[WAIT]@Inside it is a letter. Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -10405,7 +10405,7 @@
 223-7E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 223-8:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-223-8E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+223-8E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 223-9:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 223-9E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -10414,7 +10414,7 @@
 223-10E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 223-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-223-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+223-11E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 223-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 223-12E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -10477,13 +10477,13 @@
 225-2:@A nice vase.[END]
 225-2E:
 // Repeats: 225-2, 254-2
-225-3:@Is that Alec? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
+225-3:@Is that Alex? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
 225-3E:
 // Repeats: 225-3, 254-3
 225-4:@My, my, who are these two?[WAIT]@Don't be rude! Ionia, introduce us. [HEART][END]
 225-4E:
 // Repeats: 225-4, 254-4
-225-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alec.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alecy-poo? [HEART][END]
+225-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alex.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alexy-poo? [HEART][END]
 225-5E:
 // Repeats: 225-5, 254-5
 225-6:@It's been a while! I'm glad to see you're well.[WAIT]@I hear you helped my grandson [CLAUS 22 05 00].[WAIT]  Do you know where he might've went?[END]
@@ -10519,7 +10519,7 @@
 225-16:@You poor things barely live a hundred years, if[BREAK]  that![WAIT]@That's a blink of an eye to us Magypsies.[WAIT]@Why would anyone bother to care about such[BREAK]  short lives?[END]
 225-16E:
 // Repeats: 225-16, 254-16
-225-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alecy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
+225-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alexy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
 225-17E:
 // Repeats: 225-17, 254-17
 225-18:@I don't care if you understand or not![WAIT]@Just tell us where [CLAUS 22 05 00] went![END]
@@ -10747,7 +10747,7 @@
 233-15E:
 233-16:@*poke* *poke*[WAIT]@Heehee! Who poked you in the back?[BREAK][PAUSE 20 00]  Guess who![WAIT]@Incidentally, I'm Wess.[WAIT]@And it wasn't me.[END]
 233-16E:
-233-17:@I'm Alec. I didn't poke you in the back,[BREAK]  [PLAYERNAME].[WAIT]@He's playing innocent, but Wess was the one[BREAK]  who did it.[WAIT]@We're both alive and well.[WAIT]@Isn't that right?[PAUSE 1E 00] We're both well.[END]
+233-17:@I'm Alex. I didn't poke you in the back,[BREAK]  [PLAYERNAME].[WAIT]@He's playing innocent, but Wess was the one[BREAK]  who did it.[WAIT]@We're both alive and well.[WAIT]@Isn't that right?[PAUSE 1E 00] We're both well.[END]
 233-17E:
 233-18:@Oxygen?[END]
 233-18E:
@@ -11280,13 +11280,13 @@
 254-2:@A nice vase.[END]
 254-2E:
 // Repeats: 225-2, 254-2
-254-3:@Is that Alec? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
+254-3:@Is that Alex? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
 254-3E:
 // Repeats: 225-3, 254-3
 254-4:@My, my, who are these two?[WAIT]@Don't be rude! Ionia, introduce us. [HEART][END]
 254-4E:
 // Repeats: 225-4, 254-4
-254-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alec.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alecy-poo? [HEART][END]
+254-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alex.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alexy-poo? [HEART][END]
 254-5E:
 // Repeats: 225-5, 254-5
 254-6:@It's been a while! I'm glad to see you're well.[WAIT]@I hear you helped my grandson [CLAUS 22 05 00].[WAIT]  Do you know where he might've went?[END]
@@ -11322,7 +11322,7 @@
 254-16:@You poor things barely live a hundred years, if[BREAK]  that![WAIT]@That's a blink of an eye to us Magypsies.[WAIT]@Why would anyone bother to care about such[BREAK]  short lives?[END]
 254-16E:
 // Repeats: 225-16, 254-16
-254-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alecy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
+254-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alexy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
 254-17E:
 // Repeats: 225-17, 254-17
 254-18:@I don't care if you understand or not![WAIT]@Just tell us where [CLAUS 22 05 00] went![END]
@@ -14044,7 +14044,7 @@
 371-7:@Problem here.[END]
 371-7E:
 371-8:@West: To Death Desert[BREAK]  North: To Garbage Dump[END]
-371-8E:
+371-8E:@Westen: Zur Todeswüste[BREAK]  Norden: Zur Mülldeponie[END]
 371-9:@Pork Beans...[WAIT]@Be sure to use them efficiently![END]
 371-9E:
 371-10:@Pork Bean Recharge Station[END]
@@ -14770,7 +14770,7 @@
 380-10E:
 380-11:@We gotta go after it![END]
 380-11E:
-380-12:@This area is off-limits so we can conduct[BREAK]  repairs on Thunder Tower![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
+380-12:@This area is off-limits so we can conduct[BREAK]  repairs on Donnerturm![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
 380-12E:
 // Repeats: 58-1, 380-12
 380-13:[END]
@@ -15097,13 +15097,13 @@
 [Container 428]
 428-0:@A garbage truck.[END]
 428-0E:
-428-1:@Pretty sweet piloting, if I do say so myself![WAIT]@Well, here we are! Thunder Tower![WAIT]@Please hurry to the generator room[BREAK]  post-haste![END]
+428-1:@Pretty sweet piloting, if I do say so myself![WAIT]@Well, here we are! Donnerturm![WAIT]@Please hurry to the generator room[BREAK]  post-haste![END]
 428-1E:
 428-2:@Don't get sidetracked![BREAK]  You need to hurry to the generator room![END]
 428-2E:
-428-3:@This is the staff entrance to Thunder Tower.[WAIT]@Say, Commander.[WAIT]  Did you ever find that embarrassing item of[BREAK]  yours that you accidentally threw away?[END]
+428-3:@This is the staff entrance to Donnerturm.[WAIT]@Say, Commander.[WAIT]  Did you ever find that embarrassing item of[BREAK]  yours that you accidentally threw away?[END]
 428-3E:
-428-4:@No one is allowed inside Thunder Tower at this[BREAK]  time.[WAIT]@And sneaking in is all the more unallowed.[WAIT]@As are peeking, leaking, and reeking![END]
+428-4:@No one is allowed inside Donnerturm at this[BREAK]  time.[WAIT]@And sneaking in is all the more unallowed.[WAIT]@As are peeking, leaking, and reeking![END]
 428-4E:
 428-5:@Stop right there![WAIT]@I'm afraid I can't even let you go through here,[BREAK]  Commander.[WAIT]@But,[PAUSE 30 00] I'm sure you'll be able to go through here[BREAK]  eventually.[END]
 428-5E:
@@ -15129,11 +15129,11 @@
 430-3E:
 430-4:@Alright. It's all set, then?[WAIT]@I'll be done here soon, so leave the Mother[BREAK]  Porkship on standby up above.[END]
 430-4E:
-430-5:@Thunder Tower is no longer usable.[WAIT]@But this is the perfect chance to eliminate the[BREAK]  whole lot of you in one fell swoop.[WAIT]@It's a bit much for three lousy rats, but our[BREAK]  king just loves being flashy.[WAIT]@So I've decided that you and Thunder Tower[BREAK]  can disappear flashily together.[END]
+430-5:@Donnerturm is no longer usable.[WAIT]@But this is the perfect chance to eliminate the[BREAK]  whole lot of you in one fell swoop.[WAIT]@It's a bit much for three lousy rats, but our[BREAK]  king just loves being flashy.[WAIT]@So I've decided that you and Donnerturm[BREAK]  can disappear flashily together.[END]
 430-5E:
 430-6:@Well, looks like my ride is here.[WAIT]@Later days, pals![END]
 430-6E:
-430-7:@Okay, all set![WAIT]@Destroy Thunder Tower![END]
+430-7:@Okay, all set![WAIT]@Destroy Donnerturm![END]
 430-7E:
 430-8:@Well, [LUCAS 23 02 00].[WAIT]@We haven't known each other long, but it's[BREAK]  been fun! I'll never forget about you guys![WAIT]@Nwehehehehe![BREAK]@Nweeeeeeehehehehe![END]
 430-8E:
@@ -15156,7 +15156,7 @@
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 431-2:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a tad unstable.[WAIT]@I wish the guys in the generator room would[BREAK]  get their act together.[END]
 431-2E:
-431-3:@Hey, you guys! You're suspicious![WAIT]@You're here to destroy Thunder Tower, aren't[BREAK]  you?![WAIT][PAUSE 2A 00]  ...That's what I'd say if any suspicious people[BREAK]  snuck inside.[WAIT]@So, as you can see, security here is airtight.[END]
+431-3:@Hey, you guys! You're suspicious![WAIT]@You're here to destroy Donnerturm, aren't[BREAK]  you?![WAIT][PAUSE 2A 00]  ...That's what I'd say if any suspicious people[BREAK]  snuck inside.[WAIT]@So, as you can see, security here is airtight.[END]
 431-3E:
 431-4:@This is your common, everyday house plant.[END]
 431-4E:
@@ -15176,7 +15176,7 @@
 435-1E:
 435-2:@Commander![WAIT]@"Rice with egg on top" equals "the generator is[BREAK]  in danger"...[WAIT]  Have you memorized that?[END]
 435-2E:
-435-3:@Oh, yes. Mr. Fassad is here at Thunder Tower.[WAIT][PAUSE 10 00]@He seems the same as ever.[END]
+435-3:@Oh, yes. Mr. Fassad is here at Donnerturm.[WAIT][PAUSE 10 00]@He seems the same as ever.[END]
 435-3E:
 435-4:@I wish they would make some new, angry[BREAK]  catfish at the Chimera Lab.[WAIT]@Huh?! You don't know about the Chimera Lab?![WAIT]@Surely you're joking again![END]
 435-4E:
@@ -15204,11 +15204,11 @@
 439-2E:
 439-3:@No problem here.[PAUSE 60 00][BREAK]  ...is what I'd like to say,[WAIT]  but the generator defense system partway up[BREAK]  the tower is really buggy.[WAIT]@We'd be in such huge trouble if any bad guys[BREAK]  snuck in![WAIT]@Yeah, that generator defense system further[BREAK]  up the tower...[WAIT]  Things could get real ugly quick.[END]
 439-3E:
-439-4:@The tower part of Thunder Tower is full of[BREAK]  areas that are always short-circuiting.[WAIT]@It's really dangerous, so please don't go up[BREAK]  there.[END]
+439-4:@The tower part of Donnerturm is full of[BREAK]  areas that are always short-circuiting.[WAIT]@It's really dangerous, so please don't go up[BREAK]  there.[END]
 439-4E:
 439-5:@Commander.[WAIT]@Have you changed your party members?[WAIT]@And that dog-like fellow in the very back...[WAIT][PAUSE 3C 00]  He certainly is dog-like. Like the way he walks,[BREAK]  for instance.[WAIT][PAUSE 1E 00]@That's so cute.[END]
 439-5E:
-439-6:@If the generator is destroyed, Thunder Tower[BREAK]  will collapse![WAIT]@So a special type of trap's been installed in the[BREAK]  generator![WAIT]@I suppose in RPG terms, it would be your[BREAK]  so-called "mid-boss"![END]
+439-6:@If the generator is destroyed, Donnerturm[BREAK]  will collapse![WAIT]@So a special type of trap's been installed in the[BREAK]  generator![WAIT]@I suppose in RPG terms, it would be your[BREAK]  so-called "mid-boss"![END]
 439-6E:
 439-7:[END]
 439-7E:
@@ -15732,7 +15732,7 @@
 462-24:@It was when a person by the name of Porky[BREAK]  stumbled upon these islands[WAIT]  that everything started to go amok.[WAIT]@It seems he used a "Time Distorter" machine[BREAK]  to travel through time and space at will.[WAIT]@However, he was apparently shut out from all[BREAK]  other times and spaces[WAIT]  and tumbled into this era and these islands.[WAIT]@Even worse, he used his Time Distorter to[BREAK]  bring many people from other eras here.[WAIT]@The Pigmasks, as well as everyone in New[BREAK]  Pork City,[WAIT]  were all brought here and brainwashed by[BREAK]  Porky.[EVENT][END]
 462-24E:
 // yes, it should be Time Distorter, not Phase Distorter
-462-25:@This Porky fellow seems to view these islands[BREAK]  as his own personal "toy box",[WAIT]  with which he can do anything he wants.[WAIT]@He would take animals apart and recombine[BREAK]  them to make creepy, new "Chimeras".[WAIT]@As a child-like dictator, he began doing[BREAK]  whatever he pleased,[WAIT]  including building Thunder Tower and forming[BREAK]  his own army.[WAIT]@Porky eventually learned the White Ship secret[BREAK]  because of a traitor among the Magypsies.[END]
+462-25:@This Porky fellow seems to view these islands[BREAK]  as his own personal "toy box",[WAIT]  with which he can do anything he wants.[WAIT]@He would take animals apart and recombine[BREAK]  them to make creepy, new "Chimeras".[WAIT]@As a child-like dictator, he began doing[BREAK]  whatever he pleased,[WAIT]  including building Donnerturm and forming[BREAK]  his own army.[WAIT]@Porky eventually learned the White Ship secret[BREAK]  because of a traitor among the Magypsies.[END]
 462-25E:
 462-26:@Do you understand about the intruder known[BREAK]  as Porky?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 462-26E:
@@ -16915,7 +16915,7 @@
 506-62E:Unused[END]
 // Repeats: 35-7, 36-38, 38-7, 48-7, 49-7, 222-62, 223-7, 506-62
 506-63:@Tanetane Island?[WAIT]@Yes. It south of beach.[WAIT]@Jonel know more.[END]
-506-63E:@Tanetane Eiland?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
+506-63E:@Die Insel Tanetane?[WAIT]@Ja. Die ist im Süden vom Strand.[WAIT]@Jonel weiß mehr darüber.[END]
 // Repeats: 35-8, 36-39, 38-8, 48-8, 49-8, 222-63, 223-8, 506-63
 506-64:@Oh, [LUCAS 23 02 00].[WAIT]@Slowly but steadily, the people of Tazmily've[BREAK]  been heading into the big city.[WAIT]@I didn't know you guys were still here, though.[EVENT][END]
 506-64E:@Oh, [LUCAS 23 02 00].[WAIT]@Langsam aber sicher, sind die Einwohner von[BREAK]  Tazmily in die Großstadt gezogen.[WAIT]@Ich wusste gar nicht, dass ihr noch hier seid.[EVENT][END]
@@ -16924,7 +16924,7 @@
 506-65E:@Was ist?[WAIT]@Du suchst nach Ionias Haus?[WAIT]@Es ist nicht in der Nähe, das kann ich dir sagen.[WAIT]@Kannst du dich an die kleine Hütte in den[BREAK]  Bergen erinnnern, das du besuchen wolltest?[WAIT]@Richtung Westen von dieser alten Hütte ist der[BREAK]  Argilla Pass.[WAIT]  Von da aus kannst du Ionias Haus erreichen.[WAIT]@Wie auch immer, ist es wahrscheinlich keine[BREAK]  schlechte Idee eine Karte mitzunehmen...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 506-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-506-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Er ist vielleicht noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
+506-66E:@Ich bin vor einer Minute Mapson begegnet.[WAIT]@Vielleicht ist er noch in der Nähe.[WAIT]@Du solltest dir die Karte von ihm markieren[BREAK]  lassen.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 506-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 506-67E:@Ionias Haus ist genau nördlich vom Argilla[BREAK]  Pass, welches in der Nähe meines Hauses ist.[WAIT]@Falls du Probleme hast den Weg zu finden, lass[BREAK]  Mapson für dich die Karte markieren.[END]
@@ -16977,7 +16977,7 @@
 506-83:@Woof woof woof woof![END]
 506-83E:@Wau wau wau wau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
-506-84:@This is the white, metal box you rode here[BREAK]  from Snowcap Mountain.[END]
+506-84:@This is the white, metal box you rode here[BREAK]  from Schneekronenberg.[END]
 506-84E:
 // Repeats: 222-84, 506-84
 506-85:@There's a jar here that's too hard to ignore.[WAIT]@Inside it is a letter. Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -20536,8 +20536,8 @@
 894-12E:@SAVE?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 894-13:@OK[END]
 894-13E:@OK[END]
-894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
-894-14E:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
+894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
+894-14E:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
 // it's important to note that these menu options can only be so long - any longer and the game will crash
 894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-15E:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
@@ -20545,16 +20545,16 @@
 894-16E:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
 894-17:@Fade Check[BREAK][MENU 14 00]  [LEFT]00: END[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]White[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Raster[RIGHT][BREAK]  [LEFT]Normal Battle[RIGHT][BREAK]  [LEFT]Boss Battle[RIGHT][BREAK]  [LEFT]LR Line 1[RIGHT][BREAK]  [LEFT]LR Line 2[RIGHT][BREAK]  [LEFT]L to R[RIGHT][BREAK]  [LEFT]R to L[RIGHT][BREAK]  [LEFT]D-U-D Lines[RIGHT][BREAK]  [LEFT]Quarter Div[RIGHT][BREAK]  [LEFT]Block Swirl[RIGHT][BREAK]  [LEFT]Swirl Layer[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]LR Waves[RIGHT][BREAK]  [LEFT]Shrink+Rot.[RIGHT][BREAK]  [LEFT]Rand. Blocks[RIGHT][BREAK]  [LEFT]Checkerboard[RIGHT][BREAK][ENDCHOICES][END]
 894-17E:@Fade Check[BREAK][MENU 14 00]  [LEFT]00: END[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]White[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Raster[RIGHT][BREAK]  [LEFT]Normal Battle[RIGHT][BREAK]  [LEFT]Boss Battle[RIGHT][BREAK]  [LEFT]LR Line 1[RIGHT][BREAK]  [LEFT]LR Line 2[RIGHT][BREAK]  [LEFT]L to R[RIGHT][BREAK]  [LEFT]R to L[RIGHT][BREAK]  [LEFT]D-U-D Lines[RIGHT][BREAK]  [LEFT]Quarter Div[RIGHT][BREAK]  [LEFT]Block Swirl[RIGHT][BREAK]  [LEFT]Swirl Layer[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]LR Waves[RIGHT][BREAK]  [LEFT]Shrink+Rot.[RIGHT][BREAK]  [LEFT]Rand. Blocks[RIGHT][BREAK]  [LEFT]Checkerboard[RIGHT][BREAK][ENDCHOICES][END]
-894-18:@Chapter 1: Event Selection[BREAK]  [MENU 0B 00][LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alec's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alec's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
-894-18E:@Chapter 1: Event Selection[BREAK]  [MENU 0B 00][LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alec's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alec's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
+894-18:@Chapter 1: Event Selection[BREAK]  [MENU 0B 00][LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alex's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alex's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
+894-18E:@Chapter 1: Event Selection[BREAK]  [MENU 0B 00][LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alex's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alex's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
 894-19:@Chapter 2: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Wess's House[RIGHT][BREAK]  [LEFT]Osohe Castle[RIGHT][BREAK]  [LEFT]Poltergeist[RIGHT][BREAK]  [LEFT]Noble Spittoon[RIGHT][BREAK]  [LEFT]Osohe Again[RIGHT][BREAK]  [LEFT]Wess's Dance[RIGHT][BREAK]  [LEFT]Egg of Light[RIGHT][BREAK]  [LEFT]Washed Up[RIGHT][BREAK][ENDCHOICES][END]
 894-19E:@Chapter 2: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Wess's House[RIGHT][BREAK]  [LEFT]Osohe Castle[RIGHT][BREAK]  [LEFT]Poltergeist[RIGHT][BREAK]  [LEFT]Noble Spittoon[RIGHT][BREAK]  [LEFT]Osohe Again[RIGHT][BREAK]  [LEFT]Wess's Dance[RIGHT][BREAK]  [LEFT]Egg of Light[RIGHT][BREAK]  [LEFT]Washed Up[RIGHT][BREAK][ENDCHOICES][END]
 894-20:@Chapter 3: Event Selection[BREAK][MENU 0A 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]From Desert[RIGHT][BREAK]  [LEFT]Pork Bean[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Happy Sales[RIGHT][BREAK]  [LEFT]Box Delivery[RIGHT][BREAK]  [LEFT]To Castle[RIGHT][BREAK]  [LEFT]Back to Inn[RIGHT][BREAK]  [LEFT]Kumatora Helps[RIGHT][BREAK]  [LEFT]Forest[RIGHT][BREAK][ENDCHOICES][END]
 894-20E:@Chapter 3: Event Selection[BREAK][MENU 0A 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]From Desert[RIGHT][BREAK]  [LEFT]Pork Bean[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Happy Sales[RIGHT][BREAK]  [LEFT]Box Delivery[RIGHT][BREAK]  [LEFT]To Castle[RIGHT][BREAK]  [LEFT]Back to Inn[RIGHT][BREAK]  [LEFT]Kumatora Helps[RIGHT][BREAK]  [LEFT]Forest[RIGHT][BREAK][ENDCHOICES][END]
 894-21:@Chapter 4: Event Selection[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Factory[RIGHT][BREAK]  [LEFT]Ropeway[RIGHT][BREAK]  [LEFT]Violet's Room[RIGHT][BREAK]  [LEFT]Lucky's Room[RIGHT][BREAK]  [LEFT]Bon Voyage[RIGHT][BREAK][ENDCHOICES][END]
 894-21E:@Chapter 4: Event Selection[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Factory[RIGHT][BREAK]  [LEFT]Ropeway[RIGHT][BREAK]  [LEFT]Violet's Room[RIGHT][BREAK]  [LEFT]Lucky's Room[RIGHT][BREAK]  [LEFT]Bon Voyage[RIGHT][BREAK][ENDCHOICES][END]
-894-22:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Thunder Tower[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
-894-22E:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Thunder Tower[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
+894-22:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Donnerturm[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
+894-22E:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Donnerturm[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
 894-23:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble Pass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupi Temple[RIGHT][BREAK][ENDCHOICES][END]
 894-23E:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble Pass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupi Temple[RIGHT][BREAK][ENDCHOICES][END]
 894-24:@Chapter 8: Event Selection[BREAK][MENU 0D 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Inside Limo[RIGHT][BREAK]  [LEFT]NPC Arrival[RIGHT][BREAK]  [LEFT]Arcade[RIGHT][BREAK]  [LEFT]Sewers[RIGHT][BREAK]  [LEFT]24 F Reunion[RIGHT][BREAK]  [LEFT]To 100 F[RIGHT][BREAK]  [LEFT]Game 1[RIGHT][BREAK]  [LEFT]Game 2[RIGHT][BREAK]  [LEFT]Game 3[RIGHT][BREAK]  [LEFT]NK Cyborg[RIGHT][BREAK]  [LEFT]Mecha-Porkies[RIGHT][BREAK]  [LEFT]Final Needle[RIGHT][BREAK][ENDCHOICES][END]

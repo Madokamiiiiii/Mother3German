@@ -74,7 +74,7 @@
 0023: A frying pan that is clearly fake.[BREAK]Offense +26.[END]
 0023-E: Eine Bratpfanne, die eindeutig künstlich[BREAK]ist. Angriff +26.[END]
 0024: A bat that brims with mystery and courage.[BREAK]Offense +100.[END]
-0024-E: Ein Schläger, der voller Mysterien und Mut ist.[BREAK]Angriff +100.[END]
+0024-E: Ein Schläger, der voller Mysterien ist.[BREAK]Angriff +100.[END]
 0025: To be equipped on the body.[BREAK]Defense +2.[END]
 0025-E: Für das Ausrüsten auf den Körper.[BREAK]Verteidigung +2.[END]
 0026: To be equipped on the body.[BREAK]Defense +5.[END]
@@ -216,7 +216,7 @@
 006A: Greasy junk food.[BREAK]Restores 50 HP.[END]
 006A-E: Fettiges Fast-Food.[BREAK]Stellt 50 HP wieder her.[END]
 006B: One rarely comes across bananas like this.[BREAK]Restores 120 HP.[END]
-006B-E: Man stolpert nur selten über eine Banane wie diese.[BREAK]Stellt 120 HP wieder her.[END]
+006B-E: Man stolpert nur selten über eine Banane wie[BREAK]diese hier. Stellt 120 HP wieder her.[END]
 006C: A bread roll with a delicious, buttery aroma.[BREAK]Restores 60 HP.[END]
 006C-E: Ein Brötchen mit einem lieblichen, butterigen Aroma.[BREAK]Stellt 60 HP wieder her.[END]
 006D: A brisk soda for the end of a hard day![BREAK]Restores 20 HP![END]
@@ -260,8 +260,9 @@
 0080: A pasta of unspeakable circumstance.[BREAK]Restores 190 HP.[END]
 0080-E: Eine Paste unaussprechlicher Lebenslage.[BREAK]Stellt 190 HP wieder her.[END]
 0081: A pizza pie for the best and most regular of[BREAK]customers. Restores 250 HP.[END]
+0081-E: Eine Pizza für die besten und regulärsten[BREAK]Kunden. Stellt 250 HP wieder her.[END]
 0082: Packed so full that the buns barely hold it[BREAK]together. Restores 280 HP.[END]
-0082-E: So voll gepackt, dass die Brötchen kaum alles[BREAK]zusammen halten können. Stellt 280 HP wieder her.[END]
+0082-E: So voll, dass die Brötchen kaum alles[BREAK]halten können. Stellt 280 HP wieder her.[END]
 0083: A thick, juicy steak.[BREAK]Restores 300 HP.[END]
 0083-E: Ein dickes, saftiges Steak.[BREAK]Stellt 300 HP wieder her.[END]
 0084: A delicious stew with no bitter vegetables.[BREAK]Restores 150 HP.[END]
@@ -277,7 +278,7 @@
 0089: Pudding that wobbles on its own.[BREAK]Restores 40 PP.[END]
 0089-E: Pudding, der von alleine wobbelt.[BREAK]Stellt 40 PP wieder her.[END]
 008A: A cake that shines with pale pink color.[BREAK]Restores 50 PP.[END]
-008A-E: Ein Kuchen, der in einer blass-pinken Farbe glänzt.[BREAK]Stellt 50 PP wieder her.[END]
+008A-E: Ein Kuchen, der in einer blass-pinken Farbe[BREAK]glänzt. Stellt 50 PP wieder her.[END]
 008B: If you're poisoned ([STATUSICON 00 00]), this is for you.[BREAK]Amazingly fast-acting![END]
 008B-E: Wenn du vergiftet ([STATUSICON 00 00]) bist, dann ist das das richtige.[BREAK]Erstaunlich schnell-wirkend![END]
 008C: Just the thing for numbness ([STATUSICON 01 00]).[BREAK]Sour, but it really does the trick![END]
@@ -285,7 +286,7 @@
 008D: A loud sound blasts away sleepiness ([STATUSICON 02 00]).[BREAK]Wakes any sleepyhead with just one shot![END]
 008D-E: Ein lautes Geräusch dröhnt Schläfrigkeit ([STATUSICON 02 00]) hinfort.[BREAK]Weckt jede Schlafmütze beim ersten Versuch![END]
 008E: Feeling sick ([STATUSICON 06 00]) and under the weather?[BREAK]This mint's piercing aroma will perk you up.[END]
-008E-E: Du fühlst dich krank ([STATUSICON 06 00]) und unter aller Sau?[BREAK]Dieses Minze-Aroma lässt dich wieder munter werden.[END]
+008E-E: Du fühlst dich krank ([STATUSICON 06 00]) und schwach?[BREAK]Dieses Aroma wird dich wieder aufpeppeln.[END]
 008F: If you're confused ([STATUSICON 03 00]), one painless whack[BREAK]with this fan will return you to your senses.[END]
 008F-E: Wenn du verwirrt([STATUSICON 03 00]) bist, wird ein schmerzloser[BREAK]Schlag mit diesem Fächer dich wieder zu Sinnen zurückholen.[END]
 0090: Feeling forgetful ([STATUSICON 05 00])? Nothing seems to[BREAK]ring a bell? Then ring this one to remember.[END]
@@ -299,7 +300,7 @@
 0094: Removes all negative status effects and[BREAK]fully heals incapacitation.[END]
 0094-E: Entfernt jegliche negative Statuseffekte und[BREAK]heilt Ohnmächtigkeit vollständig.[END]
 0095: An egg with a firm yolk and a thick white.[BREAK]Restores 100 HP.[END]
-0095-E: Ein Ei mit einem harten Eigelb und einem dicken weiß.[BREAK]Stellt 100 HP wieder her.[END]
+0095-E: Ein Ei mit einem harten Eigelb und einem[BREAK]dicken weiß. Stellt 100 HP wieder her.[END]
 0096: A throwing weapon made by Wess.[BREAK]Deals lightning damage to all enemies.[END]
 0096-E: Eine von Wess gemachte Wurfwaffe.[BREAK]Fügt allen Gegnern Blitzschaden zu.[END]
 0097: Produces a series of explosions.[BREAK]Deals damage to all enemies.[END]
@@ -313,7 +314,7 @@
 009B: A high-grade version of the Bomb.[BREAK]Deals explosive damage to all enemies.[END]
 009B-E: Eine deutlich bessere Version der Bombe.[BREAK]Fügt allen Gegnern explosiven Schaden zu.[END]
 009C: Reduces all enemies' HP to 1.[BREAK]Don't rely on it, though. It could be a dud.[END]
-009C-E: Reduziert die HP aller Gegner auf 1. Verlass dich[BREAK] aber nicht drauf. Es könnte ein Blindgänger sein.[END]
+009C-E: Reduziert die HP aller Gegner auf 1.[BREAK]Es könnte aber auch ein Blindgänger sein...[END]
 009D: Covers an enemy in honey, causing a swarm[BREAK]of bees to attack.[END]
 009D-E: Hüllt einen Gegner in Honig ein, was einen[BREAK]Schwarm Bienen dazu veranlasst ihn anzugreifen.[END]
 009E: Causes an enemy to slip and fall, inflicting[BREAK]damage.[END]
@@ -337,178 +338,178 @@
 00A7: Tricks an enemy into turning around.[END]
 00A7-E: Veräppelt einen Gegner, damit er sich umdreht.[END]
 00A8: With its vibrant black and yellow colors, this[BREAK]dragonfly is the most popular among kids.[END]
-00A8-E: 
+00A8-E: Mit seinen leuchtenden schwarzen und gelben[BREAK]Farben ist diese Libelle unter Kindern sehr beliebt.[END]
 00A9: Children love to chase this dragonfly with[BREAK]the beautiful sky-blue underside.[END]
-00A9-E: 
+00A9-E: Kinder lieben es diese Libelle mit seiner[BREAK]wunderschönen himmelblauen Unterseite zu fangen.[END]
 00AA: Tiny, yellow, fluffy, and chirpy.[END]
-00AA-E: 
+00AA-E: Klein, gelb, flauschig, und lebhaft.[END]
 00AB: A handsome red-crested bird with stylish,[BREAK]erect tailfeathers.[END]
-00AB-E: 
+00AB-E: Ein gut aussehender roter Vogel mit stylisch[BREAK]aufgerichteten Schwanzfedern.[END]
 00AC: A dish of old-fashioned pickled vegetables.[BREAK]Restores 10 HP.[END]
-00AC-E: 
+00AC-E: Ein Gericht mit altmodischen eingelegten Gemüse.[BREAK]Stellt 10 HP wieder her.[END]
 00AD: A little gift from outer space.[BREAK]Worth a whole lot of money.[END]
-00AD-E: 
+00AD-E: Ein kleines Geschenk aus dem Weltall.[BREAK]Eine Menge Geld wert.[END]
 00AE: Offense +30.[BREAK]Speed +5.[END]
-00AE-E: 
+00AE-E: Angriff +30.[BREAK]Geschwindigkeit +5.[END]
 00AF: The relic of a horrible accident. A fang sharp[BREAK]enough to pierce even Drago hide.[END]
-00AF-E: 
+00AF-E: Die Überreste eines schrecklichen Unfalls. Ein Zahn,[BREAK]der so scharf ist, dass er sogar Drago-Haut durchdringen kann.[END]
 00B0: Dung beetles can't help themselves from[BREAK]rolling this around.[END]
-00B0-E: 
+00B0-E: Mistkäfer müssen es einfach herumrollen.[END]
 00B1: A fossilized ossicle of a dolphin.[BREAK]An ossicle is an ear bone.[END]
-00B1-E: 
+00B1-E: Ein versteinertes Knöchelchen eines Delfins.[BREAK]Genauer gesagt ein Gehörknochen.[END]
 00B2: Spiky.[BREAK]Offense +47.[END]
-00B2-E: 
+00B2-E: Stachelig.[BREAK]Angriff +47.[END]
 00B3: Defense +8.[BREAK]Restores some HP every turn.[END]
-00B3-E: 
+00B3-E: Verteidigung +8.[BREAK]Heilt jede Runde einige HP.[END]
 00B4: Matching DCMC boxer shorts.[BREAK]Defense +7.[END]
-00B4-E: 
+00B4-E: Passende DCMC Boxershorts.[BREAK]Verteidigung +7.[END]
 00B5: Defense +3.[BREAK]Maximum PP +5.[END]
-00B5-E: 
+00B5-E: Verteidigung +3.[BREAK]Maximale PP +5.[END]
 00B6: No matter how down in the dumps you are,[BREAK]these choice words will lift your mood.[END]
-00B6-E: 
+00B6-E: Egal wie mies es dir geht, diese ausgewählten[BREAK] Wörter werden deine Stimmung heben.[END]
 00B7: A piping-hot baked yam.[BREAK]Restores 40 HP.[END]
-00B7-E: 
+00B7-E: Eine knallheiß gebackene Kartoffel.[BREAK]Heil 40 HP.[END]
 00B8: Leads the way back to the start point if you[BREAK]get lost in the Mole Cricket Hole.[END]
-00B8-E: 
+00B8-E: Bringt dich zurück zum Startpunkt, wenn du dich in der Maulwurfsgrillenhöhle verlaufen solltest.[END]
 00B9: The home of a hermit crab.[BREAK]Its shell, in other words.[END]
-00B9-E: 
+00B9-E: Das Zuhause eines Einsiedlerkrebs.[BREAK]Seine Schale, in anderen Worten.[END]
 00BA: Made by a disgruntled employee. It looks like[BREAK]it could contain something... unpleasant.[END]
-00BA-E: 
+00BA-E: Von einem verärgerten Angestellten gemacht worden.[BREAK]Es sieht so aus, als könnte es etwas... unangenehmes machen.[END]
 00BB: Defense +15.[BREAK]Strong against fire.[END]
-00BB-E: 
+00BB-E: Verteidigung +15.[BREAK]Effektiv gegen Feuer.[END]
 00BC: Defense +15.[BREAK]Strong against ice.[END]
-00BC-E: 
+00BC-E: Verteidigung +15.[BREAK]Effektiv gegen Eis.[END]
 00BD: Defense +15.[BREAK]Strong against lightning.[END]
-00BD-E: 
+00BD-E: Verteidigung +15.[BREAK]Effektiv gegen Blitze.[END]
 00BE: The rust and dirt conceals the design[BREAK]underneath. It's incredibly old.[END]
-00BE-E: 
+00BE-E: Rost und Dreck verdecken das darunter liegende Design. Es ist unglaublich alt.[END]
 00BF: A clean, white dress.[BREAK]Defense +13.[END]
-00BF-E: 
+00BF-E: Ein sauberes, weißes Kleid.[BREAK]Verteidigung +13.[END]
 00C0: This machine will eradicate all iron,[BREAK]pencil-shaped figures in just one second.[END]
-00C0-E: 
+00C0-E: Diese Maschine löscht alle eiserne,[BREAK]Bleistiftförmige Figuren in nur einer Sekunde aus.[END]
 00C1: A badge that reflects lightning.[END]
-00C1-E: 
+00C1-E: Ein Abzeichen, das Blitze reflektiert.[END]
 00C2: A child-sized shirt.[BREAK]Defense +7.[END]
-00C2-E: 
+00C2-E: Ein kindergroßes Shirt.[BREAK]Verteidigung +7.[END]
 00C3: Defense +17.[BREAK]IQ +10.[END]
-00C3-E: 
+00C3-E: Verteidigung +17.[BREAK]Intelligenz +10.[END]
 00C4: A child's hat.[BREAK]Defense +3.[END]
-00C4-E: 
+00C4-E: Eine Kappe für Kinder.[BREAK]Verteidigung +3.[END]
 00C5: Delicious pickles inside an easy-to-drop,[BREAK]easy-to-roll jar.[END]
-00C5-E: 
+00C5-E: Köstliche Essiggurken in einem[BREAK]leicht-aus-der-Hand-fallbaren Glas.[END]
 00C6: A red hat.[BREAK]Defense +30.[END]
-00C6-E: 
+00C6-E: Eine rote Kappe.[BREAK]Verteidigung +30.[END]
 00C7: A bright white ribbon.[BREAK]Defense +12.[END]
-00C7-E: 
+00C7-E: Eine hellweiße Schleife.[BREAK]Verteidigung +12.[END]
 00C8: A bird that inhabits the Saturn Valley area.[END]
-00C8-E: 
+00C8-E: Ein Vogel, der im Saturn-Tal lebt.[END]
 00C9: A snake that's generally quite good at[BREAK]determining the lengths of things.[END]
-00C9-E: 
+00C9-E: Eine Schlange, die ziemlich gut die Länge[BREAK]von Dingen abschätzen kann.[END]
 00CA: Time is said to speed up for whatever this[BREAK]water is poured onto.[END]
-00CA-E: 
+00CA-E: Man sagt, dass die Zeit schneller vergeht,[BREAK]wenn man dieses Wasser drüber schüttet.[END]
 00CB: A record of Leder's long and important[BREAK]story, in case you need to hear it again.[END]
-00CB-E: 
+00CB-E: Eine Aufzeichnung Leders langer und[BREAK]wichtigen Geschichte.[END]
 00CC: A notebook containing important[BREAK]information written down by Phrygia.[END]
-00CC-E: 
+00CC-E: Ein Notizbuch von Phrygia, in welchem[BREAK]wichtige Information geschrieben stehen.[END]
 00CD: A sticky paper you can use to peel an[BREAK]enemy's shield away.[END]
-00CD-E: 
+00CD-E: Ein klebriges Papier, das du benutzen kannst[BREAK]um das Schild eines Gegners abzuziehen.[END]
 00CE: (EMPTY)[END]
-00CE-E: 
+00CE-E: (EMPTY)[END]
 00CF: (EMPTY)[END]
-00CF-E: 
+00CF-E: (EMPTY)[END]
 00D0: (EMPTY)[END]
-00D0-E: 
+00D0-E: (EMPTY)[END]
 00D1: (EMPTY)[END]
-00D1-E: 
+00D1-E: (EMPTY)[END]
 00D2: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
-00D2-E: 
+00D2-E: Eine Karte mit einer belanglosen Frage drauf.[BREAK]Versuche es an menschlichen Gegnern zu verwenden.[END]
 00D3: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
-00D3-E: 
+00D3-E: Eine Karte mit einer belanglosen Frage drauf.[BREAK]Versuche es an menschlichen Gegnern zu verwenden.[END]
 00D4: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
-00D4-E: 
+00D4-E: Eine Karte mit einer belanglosen Frage drauf.[BREAK]Versuche es an menschlichen Gegnern zu verwenden.[END]
 00D5: A card with an obscure trivia question on it.[BREAK]Try using it on human enemies.[END]
-00D5-E: 
+00D5-E: Eine Karte mit einer belanglosen Frage drauf.[BREAK]Versuche es an menschlichen Gegnern zu verwenden.[END]
 00D6: Stick these in a wall for a quick ladder.[BREAK]Use in battle to briefly pin an enemy down.[END]
-00D6-E: 
+00D6-E: In der Wand ist sie eine einfache Leiter.[BREAK]Im Kampf ein Festnagler.[END]
 00D7: A beetle that makes a shrill noise.[BREAK]Causes an enemy to stop and cover its ears.[END]
-00D7-E: 
+00D7-E: Ein Käfer, der schrille Geräusche macht und[BREAK]einen Gegner zum Ohren zuhalten bringt.[END]
 00D8: Explodes into an acrid smoke, bringing an[BREAK]enemy to tears.[END]
-00D8-E: 
+00D8-E: Explodiert in einem ätzenden Rauch und[BREAK]bringt Gegner zum Weinen.[END]
 00D9: Sway it in front of an enemy to lull it into a[BREAK]deep sleep.[END]
-00D9-E: 
+00D9-E: Schwinge es vor einem Gegner um ihn in[BREAK]einen tiefen Schlaf zu versetzen.[END]
 00DA: Scares an enemy, lowering its offense.[END]
-00DA-E: 
+00DA-E: Schreckt einen Gegner auf und verringert[BREAK]seinen Angriff.[END]
 00DB: Tickles an enemy, lowering its defense.[END]
-00DB-E: 
+00DB-E: Kitzelt einen Gegner und verringert seine[BREAK]Verteidigung.[END]
 00DC: Nippolyte's key for lowering Osohe Castle's[BREAK]drawbridge.[END]
-00DC-E: 
+00DC-E: Nippolytes Schlüssel für das Herablassen[BREAK]der Osohe Zugbrücke.[END]
 00DD: A mysterious spittoon from Osohe Castle.[END]
-00DD-E: 
+00DD-E: Ein mysteriöser Spucknapf aus Schloss Osohe.[END]
 00DE: A pendant dropped by a girl seen inside[BREAK]Osohe Castle.[END]
-00DE-E: 
+00DE-E: Ein Anhänger, das ein Mädchen im Schloss Osohe verloren hat.[END]
 00DF: This is said to have the power to create or[BREAK]destroy an entire world.[END]
-00DF-E: 
+00DF-E: Man sagt, dass es die Kraft habe eine ganze[BREAK]Welt zu erschaffen oder zu zerstören.[END]
 00E0: A familiar scrap of red cloth.[BREAK]It was stuck in a tree on top of a cliff.[END]
-00E0-E: 
+00E0-E: Ein vertrauter Fetzen roter Kleidung.[BREAK]Es hing oben an einer Klippe an einem Baum.[END]
 00E1: A notebook with a pig-like symbol on it.[BREAK]The handwriting inside is terrible.[END]
-00E1-E: 
+00E1-E: Ein Notizbuch mit einem schweineähnlichen[BREAK]Symbol darauf. Die Handschrift ist furchtbar.[END]
 00E2: A small, familiar-looking shoe.[BREAK]Its counterpart is still missing.[END]
-00E2-E: 
+00E2-E: Ein kleiner, vertraut-aussehender Schuh.[BREAK]Sein Gegenstück fehlt nocht.[END]
 00E3: A metal file that's bound to break after one[BREAK]more usage.[END]
-00E3-E: 
+00E3-E: Eine Metallfeile, das dazu verdammt ist, nach[BREAK]einer weiteren Benutzung zu zerbrechen.[END]
 00E4: A snake that seems like a good replacement[BREAK]for a rope.[END]
-00E4-E: 
+00E4-E: Diese Schlange scheint eine gute Alternative[BREAK]für ein Seil zu sein.[END]
 00E5: A snake that can also act as a rope.[BREAK]Red Rope Snakes are valuable.[END]
-00E5-E: 
+00E5-E: Eine Schlange, die auch als Seil fungiert.[BREAK]Rote Seilschlangen sind wertvoll.[END]
 00E6: A high-powered transceiver left behind by a[BREAK]Pigmask.[END]
-00E6-E: 
+00E6-E: Ein leistungsstarker Sendeempfänger, das[BREAK]von einer Schweinemaske hinterlassen wurde.[END]
 00E7: Tickets to go to Club Titiboo, received after[BREAK]working in the factory.[END]
-00E7-E: 
+00E7-E: Tickets für Club Titiboo.[END]
 00E8: A list of all monsters encountered so far.[BREAK]Lets you relive memories of past battles.[END]
-00E8-E: Eine Liste bisher aller getroffenen Monster. Lässt dich[BREAK]die Erinnerung vergangener Kämpfe wiedererleben.[END]
+00E8-E: Eine Liste aller bisher getroffenen Monster.[BREAK]Lässt dich nochmal gegen sie kämpfen.[END]
 00E9: A messenger pigeon noted for its skill and[BREAK]work ethic.[END]
-00E9-E: 
+00E9-E: Eine Brieftaube, die bekannt für seine[BREAK]Fähigkeiten und ethische Arbeit ist.[END]
 00EA: Probably a memento of the Magypsy Locria.[BREAK]A razor and lipstick.[END]
-00EA-E: 
+00EA-E: Vielleicht das Andenken von Magypsy Locria.[BREAK]Ein Rasierer und Lippenstift.[END]
 00EB: Ionia's memento, a razor and lipstick.[END]
-00EB-E: 
+00EB-E: Ionias Andenken, ein Rasierer und Lippenstift.[END]
 00EC: Doria's memento, a razor and lipstick.[END]
-00EC-E: 
+00EC-E: Dorias Andenken, ein Rasierer und Lippenstift.[END]
 00ED: Phrygia's memento, a razor and lipstick.[END]
-00ED-E: 
-00EE: Lydia's memento, a razor and lipstick.[END]
-00EE-E: 
+00ED-E: Phrygias Andenken, ein Rasierer und Lippenstift.[END]
+00EE: Lydi memento, a razor and lipstick.[END]
+00EE-E: Lydias Andenken, ein Rasierer und Lippenstift.[END]
 00EF: Mixolydia's memento, a razor and lipstick.[END]
-00EF-E: 
+00EF-E: Mixolydias Andenken, ein Rasierer und[BREAK]Lippenstift.[END]
 00F0: Aeolia's memento, a razor and lipstick.[END]
-00F0-E: 
+00F0-E: Aeolias Andenken, ein Rasierer und Lippenstift.[END]
 00F1: A map of the Tazmily area.[END]
-00F1-E: 
+00F1-E: Eine Karte der Gegend von Tazmily.[END]
 00F2: A sketched map of Osohe Castle.[END]
-00F2-E: 
+00F2-E: Eine skizzierte Karte des Schlosses Osohe.[END]
 00F3: A sketched map of the Candrum Underpass[BREAK]roads.[END]
-00F3-E: 
+00F3-E: Eine skizzierte Karte der Candrum Unter-[BREAK]führungsstraßen.[END]
 00F4: A map covering the area from Cross Road[BREAK]to the factory.[END]
-00F4-E: 
+00F4-E: Eine Karte die das Gebiet von der Kreuzungs-[BREAK]straße bis zur Fabrik.[END]
 00F5: A map of the Murasaki Forest.[END]
-00F5-E: 
+00F5-E: Eine Karte des Murasaki Waldes.[END]
 00F6: A sketched map of Club Titiboo's attic.[END]
-00F6-E: 
+00F6-E: Eine skizzierte Karte des Dachbodens von[BREAK]Club Titiboo.[END]
 00F7: A map of Saturn Valley.[END]
-00F7-E: 
+00F7-E: Eine Karte vom Saturn-Tal.[END]
 00F8: A map of the Sea Floor Dungeon.[END]
-00F8-E: 
+00F8-E: Eine Karte vom Meeresboden-Dungeon.[END]
 00F9: A map of the Outland Dungeon.[END]
-00F9-E: 
+00F9-E: Eine Karte vom Ausland-Dungeon.[END]
 00FA: A map of New Pork City.[END]
-00FA-E: 
+00FA-E: Eine Karte von New Pork City.[END]
 00FB: A sketched map of Thunder Tower.[END]
-00FB-E: 
+00FB-E: Eine skizzierte Karte vom Donnerturm.[END]
 00FC: A sketched map of the Chimera Laboratory.[END]
-00FC-E: 
+00FC-E: Eine skizzierte Karte vom Chimera Labor.[END]
 00FD: A map of the Mole Cricket Hole.[END]
-00FD-E: 
+00FD-E: Eine Karte von der Maulwurfsgrillenhöhle.[END]
 00FE: A map of the highway.[END]
-00FE-E: 
+00FE-E: Eine Karte der Fernstraße.[END]
 00FF: A sketched map of the factory.[END]
-00FF-E: 
+00FF-E: Eine skizzierte Karte der Fabrik.[END]

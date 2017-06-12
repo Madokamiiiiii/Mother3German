@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<M3Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RomDirectory />
+  <FormParams />
+  <MainFormParams>
+    <WindowLoc>
+      <X>0</X>
+      <Y>0</Y>
+    </WindowLoc>
+    <WindowSize>
+      <Width>325</Width>
+      <Height>512</Height>
+    </WindowSize>
+    <WindowState>Normal</WindowState>
+  </MainFormParams>
+  <GfxImportSettings>
+    <GfxFormParams>
+      <WindowLoc>
+        <X>0</X>
+        <Y>0</Y>
+      </WindowLoc>
+      <WindowSize>
+        <Width>0</Width>
+        <Height>0</Height>
+      </WindowSize>
+      <WindowState>Normal</WindowState>
+    </GfxFormParams>
+    <UseTileset>false</UseTileset>
+    <UseFlips>false</UseFlips>
+    <UsePalette>false</UsePalette>
+    <UseTransparency>false</UseTransparency>
+    <TransparentColorS>0, 0, 0, 0</TransparentColorS>
+  </GfxImportSettings>
+</M3Settings>
