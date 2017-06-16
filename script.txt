@@ -894,7 +894,7 @@
 
 [Container 5]
 5-0:@Moo.[WAIT]  (Oops, I'm drooling.)[END]
-5-0E:@Moo.[WAIT]  (Uups, Ich sabbere.)[END]
+5-0E:@Moo.[WAIT]  (Uups, ich sabbere.)[END]
 5-1:@Moo.[WAIT]  (We drool a lot, we do.)[END]
 5-1E:@Moo.[WAIT]  (Wir sabbern eine Menge)[END]
 5-2:@Moo.[WAIT]  (*hop*[BREAK]  Save your game?[PAUSE 5A 00][WAIT]  ...is what frogs say, right?)[END]
@@ -1215,7 +1215,7 @@
 10-6E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 10-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-10-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
+10-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das einfach nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 10-8:@Oh, [FLINT 23 01 00]...[END]
 10-8E:@Oh, [FLINT 23 01 00]...[END]
@@ -4429,7 +4429,7 @@
 50-10:@*sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00][BREAK]  You smell like an underage kid and a dog![END]
 50-10E:@*schnüffel*[PAUSE 20 00] *schnüffel*[PAUSE 20 00][BREAK]  Du riechst wie ein minderjähriges Kind und[BREAK]  ein Hund![END]
 50-11:@Now that you mention it, this IS weird![WAIT]@No suspicious people allowed![WAIT]@That's our rule here![WAIT]@Scram![WAIT]  Get lost, you kid-like guy and you dog-like[BREAK]  dude![END]
-50-11E:@Jetzt, wo du's erwähnst, das IST[BREAK]  äußerst merkwürdig![WAIT]@Keine verdächtigen Leute erlaubt![WAIT]@So sind unsere Regeln hier![WAIT]@Haut ab![WAIT]  Verschwindet, du kinderartiger Typ und[BREAK]  du hundeähnlicher Kerl![END]
+50-11E:@Jetzt, wo du's erwähnst, das IST[BREAK]  äußerst merkwürdig![WAIT]@Keine verdächtigen Leute erlaubt![WAIT]@So sind unsere Regeln hier![WAIT]@Haut ab![WAIT]  Verschwindet, du kinderartiger Typ und[BREAK]  du hundeartiger Kerl![END]
 50-12:@Nah! I say we pulverize 'em right here![END]
 50-12E:@Ach was! Wir sollten sie hier und jetzt[BREAK]  pulverisieren![END]
 50-13:@Oh, my![WAIT]@If it isn't the underage-smelling Poo[WAIT]  and the dog-smelling Wuuf![END]
@@ -4449,33 +4449,33 @@
 50-20:@*wh-[PAUSE 10 00]whimper*[BREAK]  (Yes, I do know how to shake, but...)[END]
 50-20E:@*w-[PAUSE 10 00]wimmer*[BREAK]  (Ja, ich weiß, wie man sich dreht, aber...)[END]
 50-21:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]This guy is definitely dog-like, but it seems[BREAK]  [PAUSE 20 00]he isn't a dog.[WAIT]@But, dude.[PAUSE 30 00][WAIT]@If by chance you ARE a dog.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  You'd be one of the best dogs to ever shake.[WAIT]@Heh.[END]
-50-21E:
+50-21E:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]Dieser Kerl ist definitiv hundeartig,[BREAK]  aber wie es scheint,[WAIT]  [PAUSE 20 00]ist er kein Hund.[WAIT]@Aber ernsthaft.[PAUSE 30 00][WAIT]@Wenn du tatsächlich ein Hund BIST.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  Wärest du einer der besten.[WAIT]@Heh.[END]
 50-22:@Wonderful![WAIT]@Come in, have lots of fun, and forget about[BREAK]  allllll your worries![END]
-50-22E:
+50-22E:@Wunderbar![WAIT]@Kommt rein, habt jede Menge Spaß, und[BREAK]  vergesst alllllll eure Sorgen![END]
 50-23:@Please enjoy yourselves.[END]
-50-23E:
+50-23E:@Bitte genießt euren Aufenthalt.[END]
 50-24:@Good job![END]
-50-24E:
+50-24E:@Gute gemacht![END]
 50-25:@DCMC FAN CLUB[BREAK]  Members Wanted![WAIT]  D    Desperado[WAIT]  C    Crash[WAIT]  M   Mambo[WAIT]  C    Combo[WAIT]@We're looking for help for the cheering squad.[WAIT]@Try your best, and good luck![END]
-50-25E:
+50-25E:@DCMC FAN CLUB[BREAK]  Mitglieder Gesucht![WAIT]  D    Desperado[WAIT]  C    Crash[WAIT]  M   Mambo[WAIT]  C    Combo[WAIT]@Wir suchen nach Hilfe für das Anfeuerteam.[WAIT]@Tu dein Bestes, und viel Glück![END]
 50-26:@DCMC Merchandise![BREAK]  Available ONLY at Club Titiboo![WAIT]@Come stop by if you wanna support us.[END]
-50-26E:
+50-26E:@DCMC Merchandise![BREAK]  NUR bei Club Titiboo erhältlich![WAIT]@Kommt vorbei, wenn du uns unterstützen[BREAK]  willst.[END]
 50-27:@Hey. Dude.[END]
-50-27E:
+50-27E:@Hey. Alter.[END]
 50-28:@Have fun.[END]
-50-28E:
+50-28E:@Hab Spaß.[END]
 50-29:@Woof.[BREAK]  (Whew, that was scary...)[END]
-50-29E:
+50-29E:@Wau.[BREAK]  (Whew, das war gruselig...)[END]
 50-30:@Oh.[WAIT]@Headed home?[WAIT]@Please come again![END]
-50-30E:
+50-30E:@Oh.[WAIT]@Ihr geht nach Hause?[WAIT]@Beehren Sie uns wieder![END]
 50-31:@What are you doing, dude?[WAIT]@Peeing outside is strictly prohibited, you know.[END]
-50-31E:
+50-31E:@Was machst du da, Alter?[WAIT]@Draußen pinkeln ist streng verboten, weißt du.[END]
 50-32:@Sorry to keep you waiting.[WAIT]@Okay, let's go.[END]
-50-32E:
+50-32E:@Sorry, dass ich euch hab warten lassen.[WAIT]@Okay, lasst uns gehen.[END]
 50-33:@Let's go! To Unknown Valley![END]
-50-33E:
+50-33E:@Los geht's! Auf nach Unknown Valley![END]
 50-34:@This ropeway leads to the factory.[BREAK]@Will you ride down it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-50-34E:
+50-34E:@Diese Seilbahn führt zur Fabrik.[BREAK]@Willst du runterfahren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 50-35:@Tickets, please.[END]
 50-35E:@Tickets, bitte.[END]
 // Repeats: 49-19, 50-35
@@ -4483,55 +4483,55 @@
 50-36E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Ja, alles in Ordnung.[WAIT]@Bitte, steigt ein.[END]
 // Repeats: 49-21, 50-36
 50-37:@Oh, okay.[WAIT]@By the way, have you had a chance to look[BREAK]  through the binoculars there?[END]
-50-37E:
+50-37E:@Oh, okay.[WAIT]@Übrigens, hattest du schon die Gelegenheit[BREAK]  durch das Fernglas da drüben zu schauen?[END]
 50-38:@I struggled and struggled to climb up the cliff,[WAIT]  and just when I finally make it to the top, [PAUSE 0C 00]I find[BREAK]  out they shut Club Titiboo down.[WAIT]@Since there's nothing else I can do, I decided to[BREAK]  take my time to savor using these binoculars.[WAIT]@I've been looking through them for three days[BREAK]  straight now.[WAIT]@I just can't get enough of it...[END]
-50-38E:
+50-38E:@Ich hatte gekämpft und gekämpft um die[BREAK]  Klippe hochzuklettern,[WAIT]  und als ich es endlich geschafft habe, [PAUSE 0C 00]sehe ich[BREAK]  auf einmal, dass Club Titiboo dichtgemacht hat.[WAIT]@Da es nichts anderes mehr zu tun gibt, habe[BREAK]  ich beschlossen meine Zeit mit diesem[WAIT]  Fernglas zu verbrauchen.[WAIT]@Ich schaue jetzt schon seit drei Tagen durch-[BREAK]  gehend durch sie.[WAIT]@Ich kann einfach nicht genug bekommen...[END]
 50-39:@An elephant statue.[END]
-50-39E:
+50-39E:@Eine Elefantenstatue.[END]
 
 [Container 51]
 51-0:@*crawl* *climb*[WAIT]@I decided to take a shortcut to Club Titiboo,[BREAK]  which is why I'm climbing up this cliff here.[WAIT]@*crawl* *climb*[WAIT]@I'd say I'm somewhere around Day 3 now.[WAIT]@*crawl* *climb*[END]
-51-0E:
+51-0E:@*krabbel* *kletter*[WAIT]@Ich habe beschlossen eine Abkürzung nach[BREAK]  Club Titiboo zu benutzen, deswegen kletter ich[WAIT]  diese Klippe hier hoch.[WAIT]@*krabbel* *kletter*[WAIT]@Ich glaube, ich bin jetzt seit drei Tagen dabei.[WAIT]@*krabbel* *kletter*[END]
 51-1:@There's a man climbing up the cliff here.[END]
-51-1E:
+51-1E:@Ein Mann klettert die Klippe hoch.[END]
 
 [Container 52]
 52-0:@Shoo! Shoo! Scram![WAIT]@Get outta here, you kid! [PAUSE 2E 00]And dog![END]
-52-0E:
+52-0E:@Husch! Husch! Hau ab![WAIT]@Verschwinde, Kind! [PAUSE 2E 00]Und Hund![END]
 52-1:@Shoo! Shoo! Scram![WAIT]@Get outta here, you kid![END]
-52-1E:
+52-1E:@Husch! Husch! Hau ab![WAIT]@Verschwinde, Kind![END]
 52-2:@Commander![WAIT]@Only authorized personnel are allowed inside![END]
-52-2E:
+52-2E:@Kommandant![WAIT]@Nur authorisiertes Personal sind hier drinnen[BREAK]  erlaubt![END]
 52-3:@Oh, you're that part-timer from the other day![WAIT]@Perfect timing.[WAIT]@Keep watch for me, will ya?[WAIT]@I'm gonna go inside and help look for some[BREAK]  escaped monkeys.[END]
-52-3E:
+52-3E:@Oh, du bist doch dieser Teilzeitarbeiter von[BREAK]  damals![WAIT]@Du kommst gerade richtig.[WAIT]@Halt mal für mich Stellung, okay?[WAIT]@Ich werde reingehen und helfen nach irgend-[BREAK]  welchen entflohenen Affen zu suchen.[END]
 52-4:@Oh, lad.[WAIT]@I thank you for earlier.[END]
-52-4E:
+52-4E:@Oh, lad.[WAIT]@I thank you for earlier.[END]
 52-5:@...What's that?[WAIT]@You're looking for a way to transfer all of the[BREAK]  water from one pond to another?[END]
-52-5E:
+52-5E:@...Was?[WAIT]@Du suchst nach einem Weg Wasser von einem[BREAK]  Teich zu einem anderen zu bringen?[END]
 52-6:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@Those eyes of yours, lad...[WAIT]@They're the eyes of someone who's taken on[BREAK]  some sort of mission.[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 40 00]Very well.[PAUSE 20 00][WAIT]@I'll lend you a helping hand.[WAIT]@Achoo![END]
-52-6E:
+52-6E:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@Deine Augen...[WAIT]@Das sind die Augen, von einem, der auf einer[BREAK]  Mission ist.[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 40 00]Na schön.[PAUSE 20 00][WAIT]@Ich werde dir zur Hand gehen.[WAIT]@Hatschi![END]
 52-7:@Behold![END]
-52-7E:
+52-7E:@Siehe![END]
 52-8:@I've brought several of the Chimeras I've been[BREAK]  developing in secret.[WAIT]@Take whichever one you think will be the most[BREAK]  useful to you.[END]
-52-8E:
+52-8E:@Ich habe einige meiner Chimeras mitgebracht,[BREAK]  die ich im Geheimen entwickelt habe.[WAIT]@Nimm denjenigen, von dem du denkst, dass er[BREAK]  dir am meisen hilft.[END]
 52-9:@Take any Chimera you want.[END]
-52-9E:
+52-9E:@Nimm den Chimera, den du willst.[END]
 52-10:@Ah. [PAUSE 3C 00]That one, huh...[PAUSE 3A 00][WAIT]@That's a rather ho-hum Chimera known as a[BREAK]  Pump Chimera.[WAIT]@It's an extraordinarily ordinary creature that's[BREAK]  really only useful[WAIT]  when you need to transfer something from[BREAK]  one place to another, such as pond water.[END]
-52-10E:
+52-10E:@Ah. [PAUSE 3C 00]Dieser hier, also...[PAUSE 3A 00][WAIT]@Dieser eher langweilige Chimera ist auch als[BREAK]  Pumpen-Chimera bekannt.[WAIT]@Es ist eine gigantische Kreatur, die nur dann[BREAK]  nützlich ist,[WAIT]  wenn du Wasser von einem Ort zum anderen[BREAK]  transportieren musst.[END]
 52-11:@That's a Dryguy.[WAIT]@It's the latest model Dryer Chimera, and it[BREAK]  utilizes an air intake system and a jet engine![WAIT]@It can dry anything in mere moments, even[BREAK]  long hair, afros, panties, and Asian beauties![END]
-52-11E:
+52-11E:@Das ist ein Dryguy.[WAIT]@Das neueste Modell der "Trockenere Chimera",[BREAK]  es beinhaltet einen Lufteinlass-System und[WAIT]  einen Jet-Motor![WAIT]@Es kann alles mögliche blitzschnell trocknen,[BREAK]  sogar langes Haar, Afros, Hosen und[WAIT]  asiatische Schönheiten![END]
 52-12:@Those are the Bucket Brothers.[WAIT]@They're the result of combining cutting-edge[BREAK]  dough technology with Clayman technology![WAIT]@These fellows are exceptionally hard workers![END]
-52-12E:
+52-12E:@Das sind die Eimer Brüder.[WAIT]@Sie sind das Ergebnis der Kombinierung einer[BREAK]  rasierklingen-scharfen Teig-Technologie mit[WAIT]  der Lehmmensch-Technologie![WAIT]@Diese Gefährten sind außerordentliche fleißige[BREAK]  Arbeiter![END]
 52-13:@Are you certain this is what you want?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-52-13E:
+52-13E:@Bist du sicher, dass du das haben willst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 52-14:@You're certain you want something as[BREAK]  uninteresting as this?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-52-14E:
+52-14E:@Bist du sicher, dass du so etwas[BREAK]  uninteressantes wie das hier haben willst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 52-15:@Young lad.[WAIT]@I'm reminded of my son's friend when I look at[BREAK]  you.[WAIT]@I'm not sure if we'll ever meet again, but I'll[BREAK]  always be rooting for you folks.[END]
-52-15E:
+52-15E:@Junger Bursche.[WAIT]@Immer wenn ich dich sehe, muss ich an den[BREAK]  Freund meines Sohnes denken.[WAIT]@Ich weiß nicht, ob wir uns jemals wieder[BREAK]  treffen werden, aber ich werde für euch die[WAIT]  Daumen drücken.[END]
 52-16:@That red one...![WAIT]@I-i-i-i-it chomped right through this fence and[BREAK]  escaped![END]
-52-16E:
+52-16E:@Der rote...![WAIT]@E-e-e-e-es kam durch diesen Zaun gesprungen[BREAK]  und ist entkommen![END]
 52-17:@This fence has been torn apart, almost like[BREAK]  scrap paper![END]
-52-17E:
+52-17E:@Dieser Zaun ist auseinandergerissen worden,[BREAK]  fast wie Altpapier![END]
 52-18:@Oh-ho![WAIT]@You again?![WAIT]@I'll keep on makin' ya hurt, as often as it[BREAK]  takes!![END]
 52-18E:
 52-19:@Squeeak![WAIT]@I- I- I'm sorry![WAIT]@I- I- I'll give you a hint, just please don't hurt[BREAK]  me![END]
@@ -6079,29 +6079,29 @@
 
 [Container 102]
 102-0:@A machine for spinning wool.[END]
-102-0E:
+102-0E:@Eine Maschine für das Spinnen von Wolle.[END]
 102-1:@A fireplace and firewood.[END]
-102-1E:
+102-1E:@Ein Kamin mit Feuerholz.[END]
 102-2:@The letter from [HINAWA 22 08 00] is lying here.[BREAK]@Read it again?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-102-2E:
+102-2E:@Der Brief von [HINAWA 22 08 00] liegt hier.[BREAK]@Willst du es noch einmal lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 102-3:@Oh...[PAUSE 18 00] They're still not back?[WAIT]@With all this rain, they could catch cold.[END]
-102-3E:
+102-3E:@Oh...[PAUSE 18 00] Sie sind immernoch nicht zurück?[WAIT]@Bei all diesem Regen könnten sie sich noch[BREAK]  eine Erkältung einfangen.[END]
 102-4:@I'll go find them![END]
-102-4E:
+102-4E:@Ich werde sie suchen gehen![END]
 102-5:@They're probably taking shelter from the rain[BREAK]  somewhere.[WAIT]@It's getting late, so we should all go look for[BREAK]  them.[WAIT]@Let's get the other villagers to help, too.[END]
-102-5E:
+102-5E:@Sie haben sich wahrscheinlich vor den Regen[BREAK]  Schutz gesucht.[WAIT]@Es wird spät, wir sollten alle nach ihnen[BREAK]  suchen gehen.[WAIT]@Lasst uns auch die anderen Dorfbewohner[BREAK]  dazu bewegen.[END]
 102-6:@Okay. I'll go tell my dad, then.[END]
-102-6E:
+102-6E:Okay, dann werde ich das mal meinem Vater[BREAK]  erzählen.[END]
 102-7:@Maybe I should've gone with [CLAUS 22 05 00]...[END]
-102-7E:
+102-7E:@Vielleicht hätte ich mit [CLAUS 22 05 00] gehen[BREAK]  sollen...[END]
 102-8:@"Are you planning to play in your pajamas?"[END]
-102-8E:
+102-8E:@"Willst du etwa in Pyjamas spielen?"[END]
 102-9:@[CLAUS 22 05 00]'s shoes and the scrap of cloth[BREAK]  from [HINAWA 22 08 00]'s dress[WAIT]  are stored in here with care.[END]
-102-9E:
+102-9E:@Die Schuhe von [CLAUS 22 05 00] und ein[BREAK]  Stofffetzen von [HINAWA 22 08 00][WAIT]  werden hier mit Sorgfalt aufbewahrt[END]
 102-10:@Even now, there are two pillows side-by-side...[END]
-102-10E:
+102-10E:@Sogar jetzt liegen die zwei Kissen[BREAK]  Seite-bei-Seite...[END]
 102-11:@[LUCAS 23 02 00] and [CLAUS 22 05 00]'s springy[BREAK]  bed.[END]
-102-11E:
+102-11E:@Das Federbett von [LUCAS 23 02 00] und[BREAK]  [CLAUS 22 05 00].[END]
 
 [Container 103]
 103-0:@I don't have any hard feelings for you.[END]
@@ -7083,47 +7083,47 @@
 131-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 131-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
-131-6E:
+131-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glücklichkeit leben...[END]
 // Repeats: 131-6, 171-6
 131-7:@Oh, [FLINT 23 01 00]. Good to see you here.[WAIT]@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
-131-7E:
+131-7E:@Oh, [FLINT 23 01 00]. Schön, dich hier zu sehen.[WAIT]@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
 // Repeats: 131-7, 171-7
 131-8:@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
-131-8E:
+131-8E:@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
 // Repeats: 131-8, 171-8
 131-9:@Wait, wait! Didn't you hear me just now?![WAIT]@You need to pray... [PAUSE 18 00]So pray![END]
-131-9E:
+131-9E:@Warte! Hast du mir eben nicht zugehört?![WAIT]@Du musst beten... [PAUSE 18 00]Also bete auch![END]
 // Repeats: 131-9, 171-9
 131-10:@Yes. You took my advice and prayed.[WAIT]@Now be careful on your way.[END]
-131-10E:
+131-10E:@Perfekt. Du hast meinen Rat befolgt und[BREAK]  gebetet.[WAIT]@Sei bitte auf deinem weiteren Weg vorsichtig.[END]
 // Repeats: 131-10, 171-10
 131-11:@Please answer with a calm mind.[WAIT]@Please tell me your name.[PAUSE 18 00][BREAK]  Yes, the name of the person playing this game.[END]
-131-11E:
+131-11E:@Bitte antworte mit reinem Gewissen.[WAIT]@Bitte nenne mir deinen Namen.[PAUSE 18 00][BREAK]  Ja, der Name der Person, der das hier spielt.[END]
 // Repeats: 131-11, 171-11
 131-12:@Understood.[WAIT]  [PLAYERNAME]...[WAIT]@Your name is "[PLAYERNAME]",[BREAK]  correct?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-131-12E:
+131-12E:@Verstanden.[WAIT]  [PLAYERNAME]...[WAIT]@Du heißt "[PLAYERNAME]",[BREAK]  korrekt?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 131-12, 171-12
 131-13:@Oh. That's too bad.[WAIT]@I apologize for asking, but could you please[BREAK]  re-enter your name?[END]
-131-13E:
+131-13E:@Oh. Das ist schlecht[WAIT]@Entschuldige die Unannehmlichkeiten, aber[BREAK]  könntest du deinen Namen bitte nochmal[WAIT]  eingeben?[END]
 // Repeats: 131-13, 171-13
 131-14:@Okay, then. Please continue to enjoy the game.[WAIT]@After I count down from three, you will forget[BREAK]  you were ever asked this question.[WAIT]  3...[WAIT]  2...[WAIT]  1...[WAIT]@Have you forgotten?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-131-14E:
+131-14E:@Also dann. Bitte genieße dieses Spiel weiter.[WAIT]@Nachdem ich von drei runtergezählt habe,[BREAK]  wirst du vergessen, dass ich dir jemals diese[WAIT]  Frage gestellt habe.[WAIT]  3...[WAIT]  2...[WAIT]  1...[WAIT]@Hast du vergessen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 131-14, 171-14
 131-15:@Good.[END]
-131-15E:
+131-15E:@Gut.[END]
 // Repeats: 131-15, 171-15
 131-16:@...[PAUSE 1E 00]You must forget.[END]
-131-16E:
+131-16E:@...[PAUSE 1E 00]Du musst vergessen.[END]
 // Repeats: 131-16, 171-16
 131-17:@This appears to be some sort of special place.[END]
-131-17E:
+131-17E:@Dies scheint irgendein besonderer Ort zu sein.[END]
 // Repeats: 131-17, 171-17
 
 [Container 132]
 132-0:@Something...[BREAK]  Something bad is starting to take place.[WAIT]@I can feel it.[END]
-132-0E:
+132-0E:@Etwas...[BREAK]  Etwas schlimmes fängt an sich hier[BREAK]  abzuspielen.[WAIT]@Ich kann es spüren.[END]
 132-1:@*squawk* *squawk*![WAIT]@Something...[BREAK]  Something bad is starting to take place.[WAIT]@I can feel it.[WAIT]@*squawk*![END]
-132-1E:
+132-1E:@*krächz* *krächz*[WAIT]@Etwas...[BREAK]  Etwas schlimmes fängt an sich hier[BREAK]  abzuspielen.[WAIT]@Ich kann es spüren.[WAIT]@*krächz*[END]
 
 [Container 136]
 136-0:@Doria's bed.[END]
@@ -7991,40 +7991,40 @@
 171-5E:@Das Haus ist vollständig zusammengebrochen.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 171-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
-171-6E:
+171-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glücklichkeit leben...[END]
 // Repeats: 131-6, 171-6
 171-7:@Oh, [FLINT 23 01 00]. Good to see you here.[WAIT]@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
-171-7E:
+171-7E:@Oh, [FLINT 23 01 00]. Schön, dich hier zu sehen.[WAIT]@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
 // Repeats: 131-7, 171-7
 171-8:@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
-171-8E:
+171-8E:@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
 // Repeats: 131-8, 171-8
 171-9:@Wait, wait! Didn't you hear me just now?![WAIT]@You need to pray... [PAUSE 18 00]So pray![END]
-171-9E:
+171-9E:@Warte! Hast du mir eben nicht zugehört?![WAIT]@Du musst beten... [PAUSE 18 00]Also bete auch![END]
 // Repeats: 131-9, 171-9
 171-10:@Yes. You took my advice and prayed.[WAIT]@Now be careful on your way.[END]
-171-10E:
+171-10E:@Perfekt. Du hast meinen Rat befolgt und[BREAK]  gebetet.[WAIT]@Sei bitte auf deinem weiteren Weg vorsichtig.[END]
 // Repeats: 131-10, 171-10
 171-11:@Please answer with a calm mind.[WAIT]@Please tell me your name.[PAUSE 18 00][BREAK]  Yes, the name of the person playing this game.[END]
-171-11E:
+171-11E:@Bitte antworte mit reinem Gewissen.[WAIT]@Bitte nenne mir deinen Namen.[PAUSE 18 00][BREAK]  Ja, der Name der Person, der das hier spielt.[END]
 // Repeats: 131-11, 171-11
 171-12:@Understood.[WAIT]  [PLAYERNAME]...[WAIT]@Your name is "[PLAYERNAME]",[BREAK]  correct?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-171-12E:
+171-12E:@Verstanden.[WAIT]  [PLAYERNAME]...[WAIT]@Du heißt "[PLAYERNAME]",[BREAK]  korrekt?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 131-12, 171-12
 171-13:@Oh. That's too bad.[WAIT]@I apologize for asking, but could you please[BREAK]  re-enter your name?[END]
-171-13E:
+171-13E:@Oh. Das ist schlecht[WAIT]@Entschuldige die Unannehmlichkeiten, aber[BREAK]  könntest du deinen Namen bitte nochmal[WAIT]  eingeben?[END]
 // Repeats: 131-13, 171-13
 171-14:@Okay, then. Please continue to enjoy the game.[WAIT]@After I count down from three, you will forget[BREAK]  you were ever asked this question.[WAIT]  3...[WAIT]  2...[WAIT]  1...[WAIT]@Have you forgotten?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-171-14E:
+171-14E:@Also dann. Bitte genieße dieses Spiel weiter.[WAIT]@Nachdem ich von drei runtergezählt habe,[BREAK]  wirst du vergessen, dass ich dir jemals diese[WAIT]  Frage gestellt habe.[WAIT]  3...[WAIT]  2...[WAIT]  1...[WAIT]@Hast du vergessen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 131-14, 171-14
 171-15:@Good.[END]
-171-15E:
+171-15E:@Gut.[END]
 // Repeats: 131-15, 171-15
 171-16:@...[PAUSE 1E 00]You must forget.[END]
-171-16E:
+171-16E:@...[PAUSE 1E 00]Du musst vergessen.[END]
 // Repeats: 131-16, 171-16
 171-17:@This appears to be some sort of special place.[END]
-171-17E:
+171-17E:@Dies scheint irgendein besonderer Ort zu sein.[END]
 // Repeats: 131-17, 171-17
 171-18:@Oh, a kid from the village.[WAIT]@You're so nice and unsophisticated.[END]
 171-18E:
@@ -10128,10 +10128,10 @@
 222-5E:@Es ist das allerbeste Grab, wahrlich.[END]
 // Repeats: 10-5, 222-5, 506-5
 222-6:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-222-6E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
+222-6E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das einfach nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 222-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-222-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
+222-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das einfach nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 222-8:@Oh, [FLINT 23 01 00]...[END]
 222-8E:@Oh, [FLINT 23 01 00]...[END]
@@ -16744,10 +16744,10 @@
 506-5E:@Es ist das allerbeste Grab, wahrlich.[END]
 // Repeats: 10-5, 222-5, 506-5
 506-6:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-506-6E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
+506-6E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das einfach nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 506-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-506-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das nicht wahrhaben![END]
+506-7E:@[HINAWA 22 08 00] tot...[WAIT]@Ich kann das einfach nicht wahrhaben![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 506-8:@Oh, [FLINT 23 01 00]...[END]
 506-8E:@Oh, [FLINT 23 01 00]...[END]
