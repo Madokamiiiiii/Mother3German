@@ -4533,101 +4533,101 @@
 52-17:@This fence has been torn apart, almost like[BREAK]  scrap paper![END]
 52-17E:@Dieser Zaun ist auseinandergerissen worden,[BREAK]  fast wie Altpapier![END]
 52-18:@Oh-ho![WAIT]@You again?![WAIT]@I'll keep on makin' ya hurt, as often as it[BREAK]  takes!![END]
-52-18E:
+52-18E:@Oh-ho![WAIT]@Du schon wieder?![WAIT]@I'll keep on makin' ya hurt, as often as it[BREAK]  takes!![END]
 52-19:@Squeeak![WAIT]@I- I- I'm sorry![WAIT]@I- I- I'll give you a hint, just please don't hurt[BREAK]  me![END]
-52-19E:
+52-19E:@Quiiiiitsch![WAIT]@E- E- Es tut mir leid![WAIT]@I- I- Ich werde dir einen Hinweis geben, aber[BREAK]  bitte tu mir nicht weh![END]
 52-20:@The Chimera Laboratory?[WAIT]@Squeak![WAIT]@That's this building right here.[WAIT]@It's probably a good idea to go there and ask[BREAK]  around.[WAIT]@Yes.[WAIT]@I hear they're doing all sorts of bad[BREAK]  experiments inside.[END]
-52-20E:
+52-20E:@Das Chimera Labor?[WAIT]@Quietsch![WAIT]@Das ist das Gebäude da drüben.[WAIT]@Du solltest dorthin gehen und dich umhören.[WAIT]@Ja.[WAIT]@Ich habe gehört, dass man dort jede Menge[BREAK]  schlechte Experimente durchführt.[END]
 52-21:@Just please don't kill me![END]
-52-21E:
+52-21E:@Bitte töte mich nicht![END]
 52-22:@[LEFT]Murasaki Hot Spring[BREAK]  Refresh your tired body.[END]
-52-22E:
+52-22E:@[LEFT]Murasaki Heiße Quelle[BREAK]  Erfrische deinen müden Körper.[END]
 52-23:@The bottom of the garbage can is littered with[BREAK]  doughnut crumbs.[END]
-52-23E:
+52-23E:@Der Boden des Mülleimers ist übersät mit[BREAK]  Donut-Krümeln.[END]
 
 [Container 53]
 53-0:@The door doesn't budge at all.[END]
-53-0E:
+53-0E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 53-1:@There's a door here.[WAIT]@Dancing figures are depicted on it.[END]
-53-1E:
+53-1E:@Hier ist eine Tür.[WAIT]@Auf ihr sind tanzende Figuren abgebildet.[END]
 // Repeats: 53-1, 54-1
 53-2:@Commander![WAIT]@The Needle appears to be behind a strange[BREAK]  type of door in the Murasaki Forest![WAIT]@One of the monkeys in the Chimera Lab is the[BREAK]  key to pulling the Needle...[WAIT]  ...but it's broken out of its cage and is running[BREAK]  loose inside the building![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Sorry. It's cold out.[WAIT]@Anyways, please send reinforcements...[WAIT]@Ahh!! Hey, you![WAIT]@That's the key to--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *click* *beep-beep-beep*[END]
-53-2E:
+53-2E:@Kommandant![WAIT]@Die Nadel scheint sich hinter einer eigenartigen[BREAK]  Tür im Murasaki Wald zu sein![WAIT]@Einer der Affen im Chimera Labor ist der[BREAK]  Schlüssel für sie...[WAIT]  ...aber er ist aus seinem Käfig ausgebrochen[BREAK]  und rennt jetzt wie von der Tarantel[WAIT]  gestochen im Gebäude rum![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Entschuldigen Sie. Es ist kalt draußen.[WAIT]@Egal, bitte senden Sie Verstärkung...[WAIT]@Ahh!! Hey, du da![WAIT]@Das ist der Schlüssel um--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *klick* *piep-piep-piep*[END]
 // Repeats: 53-2, 54-2
 53-3:@Squeak SQUEAK![WAIT]  (Whoa, whoa, whoa! Hold it right there![WAIT]  Just where do you think YOU'RE goin'?!)[END]
-53-3E:
+53-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 53-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
-53-4E:
+53-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als hippste[BREAK]  Katze bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
 // Repeats: 53-4, 54-4
 53-5:@...[END]
 53-5E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 53-6:@What is it?[WAIT]@Is there something special about this door?[END]
-53-6E:
+53-6E:@Was ist?[WAIT]@Ist an dieser Tür etwas komisches?[END]
 // Repeats: 53-6, 54-6
 53-7:@It's not nice to ditch your friends.[END]
-53-7E:
+53-7E:@Es ist nicht nett, deine Freunde einfach stehen[BREAK]  zu lassen.[END]
 // Repeats: 53-7, 54-7
 53-8:@Whoa, whoa, whoa![EVENT][END]
-53-8E:
+53-8E:@Mach mal haltlang![EVENT][END]
 // Repeats: 53-8, 54-8
 53-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
-53-9E:
+53-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
 // Repeats: 53-9, 54-9
 
 [Container 54]
 54-0:@The door doesn't budge at all.[END]
-54-0E:
+54-0E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 54-1:@There's a door here.[WAIT]@Dancing figures are depicted on it.[END]
-54-1E:
+54-1E:@Hier ist eine Tür.[WAIT]@Auf ihr sind tanzende Figuren abgebildet.[END]
 // Repeats: 53-1, 54-1
 54-2:@Commander![WAIT]@The Needle appears to be behind a strange[BREAK]  type of door in the Murasaki Forest![WAIT]@One of the monkeys in the Chimera Lab is the[BREAK]  key to pulling the Needle...[WAIT]  ...but it's broken out of its cage and is running[BREAK]  loose inside the building![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Sorry. It's cold out.[WAIT]@Anyways, please send reinforcements...[WAIT]@Ahh!! Hey, you![WAIT]@That's the key to--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *click* *beep-beep-beep*[END]
-54-2E:
+54-2E:@Kommandant![WAIT]@Die Nadel scheint sich hinter einer eigenartigen[BREAK]  Tür im Murasaki Wald zu sein![WAIT]@Einer der Affen im Chimera Labor ist der[BREAK]  Schlüssel für sie...[WAIT]  ...aber er ist aus seinem Käfig ausgebrochen[BREAK]  und rennt jetzt wie von der Tarantel[WAIT]  gestochen im Gebäude rum![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Entschuldigen Sie. Es ist kalt draußen.[WAIT]@Egal, bitte senden Sie Verstärkung...[WAIT]@Ahh!! Hey, du da![WAIT]@Das ist der Schlüssel um--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *klick* *piep-piep-piep*[END]
 // Repeats: 53-2, 54-2
 54-3:@Squeak SQUEAK![WAIT]  (Whoa, whoa, whoa! Hold it right there![WAIT]  Just where the hell do you think YOU'RE[BREAK]  goin'?!)[END]
-54-3E:
+54-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 54-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
-54-4E:
+54-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als hippste[BREAK]  Katze bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
 // Repeats: 53-4, 54-4
 54-5:@...[END]
 54-5E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 54-6:@What is it?[WAIT]@Is there something special about this door?[END]
-54-6E:
+54-6E:@Was ist?[WAIT]@Ist an dieser Tür etwas komisches?[END]
 // Repeats: 53-6, 54-6
 54-7:@It's not nice to ditch your friends.[END]
-54-7E:
+54-7E:@Es ist nicht nett, deine Freunde einfach stehen[BREAK]  zu lassen.[END]
 // Repeats: 53-7, 54-7
 54-8:@Whooooa![EVENT][END]
-54-8E:
+54-8E:@Mach mal haltlang![EVENT][END]
 // Repeats: 53-8, 54-8
 54-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
-54-9E:
+54-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
 // Repeats: 53-9, 54-9
 54-10:@There should be a big hole in the ground[BREAK]  straight north of here.[WAIT]@I think I went through it and hid the egg[BREAK]  somewhere on the other side.[WAIT]@So let's head for that area first.[END]
-54-10E:
+54-10E:@Im Norden von hier sollte ein großes Loch im[BREAK]  Boden sein.[WAIT]@Ich glaube, ich bin da durch gegangen und habe[BREAK]  das Ei dann irgendwo auf der anderen Seite[WAIT]  versteckt.[WAIT]@Also sollten wir zuerst diesen Ort absuchen.[END]
 54-11:@There's something insignificant written here,[PAUSE 28 00][BREAK]  but because it's insignificant,[WAIT]  you didn't read it.[END]
-54-11E:
+54-11E:@Etwas Unwichtiges steht hier geschrieben,[PAUSE 28 00][BREAK]  aber weil es unwichtig ist,[WAIT]  hast du es nicht gelesen.[END]
 54-12:[END]
-54-12E:
+54-12E:[END]
 54-13:[END]
-54-13E:
+54-13E:[END]
 54-14:[END]
-54-14E:
+54-14E:[END]
 54-15:[END]
-54-15E:
+54-15E:[END]
 54-16:[END]
-54-16E:
+54-16E:[END]
 54-17:@Heh[PAUSE 10 00] heh[PAUSE 10 00] heh.[PAUSE 28 00] Here it is.[WAIT]@This is where you and me are gonna fight it[BREAK]  out.[WAIT]@This is where my right hand'll be raised into[BREAK]  the air when I'm declared the winner.[WAIT]@And this is also where you're[PAUSE 1E 00] gonna hit the[BREAK]  ground with a thud.[WAIT]@This is the place! [PAUSE 1E 00]Mole Cricket Hole![WAIT]@I'll widen the hole a bit for you to fit through.[WAIT]@Come on![END]
-54-17E:
+54-17E:@Heh[PAUSE 10 00] heh[PAUSE 10 00] heh.[PAUSE 28 00] Hier ist es.[WAIT]@Hier werden du und ich den Kampf austragen.[WAIT]@Hier werde ich meine rechte Hand in die Luft[BREAK]  heben und zum Gewinner erklärt werden.[WAIT]@Und hier werdet ihr[PAUSE 1E 00] den Boden küssen.[WAIT]@Hier ist dieser Ort! [PAUSE 1E 00]Die Maulwurfsgrillenhöhle![WAIT]@Ich werde für euch das Loch etwas[BREAK]  vergrößern, damit ihr durchpasst.[WAIT]@Kommt![END]
 54-18:@Hey! You're that kid who was at Alex's place![WAIT]@I was just about to go there to find you![END]
-54-18E:
+54-18E:@Hey! Du bist doch dieses Kind,[BREAK]  das bei Alex war![WAIT]@Ich wollte gerade dorthin gehen, um[BREAK]  dich zu suchen![END]
 54-19:@This is where you and me are gonna fight it[BREAK]  out.[WAIT]@This is where my right hand'll be raised into[BREAK]  the air when I'm declared the winner.[WAIT]@And this is also where you're[PAUSE 1E 00] gonna hit the[BREAK]  ground with a thud.[WAIT]@This is the place! [PAUSE 1E 00]Mole Cricket Hole![WAIT]@I'll widen the hole a bit for you to fit through.[WAIT]@Come on![END]
-54-19E:
+54-19E:@Hier werden du und ich den Kampf austragen.[WAIT]@Hier werde ich meine rechte Hand in die Luft[BREAK]  heben und zum Gewinner erklärt werden.[WAIT]@Und hier werdet ihr[PAUSE 1E 00] den Boden küssen.[WAIT]@Hier ist dieser Ort! [PAUSE 1E 00]Die Maulwurfsgrillenhöhle![WAIT]@Ich werde für euch das Loch etwas[BREAK]  vergrößern, damit ihr durchpasst.[WAIT]@Kommt![END]
 
 [Container 55]
 55-0:[HOTSPRING 00 00][END]
@@ -4712,94 +4712,94 @@
 55-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 55-27:@You're a wonderful person, so I'd love to share[BREAK]  some of the things we moles have collected.[WAIT]  Some worms, perhaps?[WAIT]@Will you take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-55-27E:
+55-27E:@Du bist eine wundervolle Person, also würde[BREAK]  ich gerne ein paar Sachen mit dir teilen,[WAIT]  die wir Maulwürfe sammeln.[WAIT]  Wie wär's mit ein paar Würmern?[WAIT]@Willst du einen Blick riskieren?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 55-28:@You looked.[END]
-55-28E:
+55-28E:@Du hast geschaut.[END]
 55-29:@No look?[END]
-55-29E:
+55-29E:@Nein?[END]
 
 [Container 56]
 56-0:@Woof woof.[WAIT]  (I can go back to being a dog now, right?)[END]
-56-0E:
+56-0E:@Wau wau.[WAIT]  (Ich darf jetzt wieder ein ganz normaler Hund[BREAK]  sein, richtig?)[END]
 56-1:[END]
-56-1E:
+56-1E:[END]
 
 [Container 57]
 57-0:@This is that humongous steel tower...[END]
-57-0E:
+57-0E:@Das ist also dieser gewaltige Stahlturm...[END]
 57-1:@There's a good view of this tower from Club[BREAK]  Titiboo.[WAIT]@I wonder what it's here for...[END]
-57-1E:
+57-1E:@Man hat von diesem Turm aus einen guten[BREAK]  Blick auf Club Titiboo[WAIT]@Ich frage mich, wofür er genutzt wird...[END]
 57-2:@Anyways, never mind this crap![BREAK]  We hafta catch that thing, quick![END]
-57-2E:
+57-2E:@Vergiss diesen Scheiß![BREAK]  Wir müssen dieses Teil fangen, schnell![END]
 57-3:@Tower of Love and Peace[WAIT]  Stay away![END]
-57-3E:
+57-3E:@Turm des Friedens und der Liebe[WAIT]  Nicht betreten![END]
 
 [Container 58]
 58-0:@Pigmask tanks are blocking the way.[END]
-58-0E:
+58-0E:@Schweinemaskenpanzer blockieren den Weg.[END]
 58-1:@This area is off-limits so we can conduct[BREAK]  repairs on Donnerturm![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
-58-1E:
+58-1E:@This area is off-limits so we can conduct[BREAK]  repairs on Donnerturm![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?! 58-1[END]
 // Repeats: 58-1, 380-12
 58-2:@Clayman Factory[END]
-58-2E:
+58-2E:@Lehmmenschfabrik[END]
 58-3:[END]
-58-3E:
+58-3E:[END]
 
 [Container 59]
 59-0:@Oh! C- Commander![WAIT]@Are you all right?![END]
-59-0E:
+59-0E:@Oh! K-Kommandeur![WAIT]@Geht es Ihnen gut?![END]
 59-1:@That damn Fassad's been tossing banana peels[BREAK]  all over the place, so it's easy to slip on 'em.[WAIT]@Here, you can take my Pork Bean, if you'd like.[END]
-59-1E:
+59-1E:@Dieser verdammte Fassad hat hier überall[BREAK]  Bananenschalen verteilt.[WAIT]  Man kann so einfach auf ihnen ausrutschen[WAIT]@Hier, Sie dürfen meine Schweinebohne[BREAK]  benutzen, wenn Sie wollen.[END]
 59-2:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Huh?[WAIT]@I'm not sure why, but you smell like a dog and[BREAK]  a kid...[END]
-59-2E:
+59-2E:@*schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00] .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Häh?[WAIT]@Warum riechst du wie ein Hund und ein Kind...[END]
 59-3:@You're that kid from Club Titiboo![WAIT]@Maybe you think you can fool everyone else,[BREAK]  but there's no fooling my wild nose![WAIT]@You sneaky piece of scum, pretending to be[BREAK]  our commander![END]
-59-3E:
+59-3E:@Du bist dieses Kind von Club Titiboo![WAIT]@Vielleicht kannst du alle anderen veräppeln,[BREAK]  aber meiner Nase macht keiner was vor![WAIT]@Du kleiner Mistkerl, tust so als wärst du[BREAK]  unser Kommandeur![END]
 59-4:@Back for some more, huh?![WAIT]@Sure, I'll beat the snot outta you as many[BREAK]  times as you want![END]
-59-4E:
+59-4E:@Hast wohl noch nicht genug?![WAIT]@Ich werde dir mit Freuden den Hintern treten![END]
 59-5:@N-not bad.[WAIT]@But don't think this is over just yet![END]
-59-5E:
+59-5E:@N-nicht schlecht.[WAIT]@Aber glaub ja nicht, dass das schon alles war![END]
 59-6:@This Pork Bean has been destroyed beyond[BREAK]  recognition.[END]
-59-6E:
+59-6E:@Diese Schweinebohne wurde hinter unserer[BREAK]  Vorstellungskraft zerstört.[END]
 59-7:@All signs point to Fassad having been here.[END]
-59-7E:
+59-7E:@Alle Zeichen deuten darauf hin, dass Fassad[BREAK]  hier gewesen sein muss.[END]
 59-8:@Squeak.[WAIT]  (There was an accident here.[WAIT]  I saw it with my own eyes.[WAIT]  It's scary! The world's become so scary![WAIT]  Huh? What? My mom's calling for me?[WAIT]  She's even scarier than the world is, when[BREAK]  she wants to be![WAIT]  So I better get home right away, then!)[END]
-59-8E:
+59-8E:@Quietsch.[WAIT]  (Hier gab es einen Unfall.[WAIT]  Ich habe es mit eigenen Augen gesehen.[WAIT]  Es ist beängstigend! Die Welt ist so[BREAK]  beängstigend geworden![WAIT]  Moment? Was? Meine Mutter sucht nach mir?[WAIT]  Sie ist sogar noch beängstigender, wenn sie[BREAK]  es sein will![WAIT]  Ich sollte besser sofort nach Hause gehen!)[END]
 59-9:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  To ride a Pork Bean, use the [COLOR 03 00]A[COLOR 00 00] Button.[WAIT]  To get off a Pork Bean, use the [COLOR 03 00]B[COLOR 00 00] Button to[BREAK]  stop, then press it again to get out.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-59-9E:
+59-9E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Spatz Hinweis![WAIT]  Um eine Schweinebohne zu fahren, benutze[BREAK]  den [COLOR 03 00]A[COLOR 00 00]-Knopf.[WAIT]  Um von einer Schweinebohne auszusteigen,[BREAK]  benutze den [COLOR 03 00]B[COLOR 00 00]-Knopf um anzuhalten und dann[WAIT]  nochmal um abzustaugen.[WAIT]  Und nun, um es wie ein Spatz zu beenden...[EVENT][END]
 59-10:[SOUND 03 00]  chirp chirpa-chirp!)[END]
-59-10E:
+59-10E:[SOUND 03 00]  zwitscher zwitsch-zwitscher!)[END]
 59-11:@Moles building dungeons?[WAIT]@In actuality, mole tunnels are more than just[BREAK]  places to live;[WAIT]  they also serve as traps intended to confuse[BREAK]  and capture food, such as insects.[WAIT]  In other words, the moles' tunnels also act as[BREAK]  literal dungeons.[WAIT]@Moreover, large-scale tunnels over 100[BREAK]  meters in length are not at all uncommon.[WAIT]@Incidentally, all those who have questions such[BREAK]  as, "Moles wear helmets?!"[WAIT]  or, "Since when do moles carry shovels?!",[WAIT]  please come this way.[END]
-59-11E:
+59-11E:@Maulwürfe bauen Dungeons?[WAIT]@Tatsächlich sind Maulwürftunnel mehr als nur[BREAK]  ein Ort um zu leben;[WAIT]  sie dienen auch als Fallen, um Nahrung zu[BREAK]  verwirren und zu fangen, wie Insekten.[WAIT]  Mit anderen Worten sind Maulwurftunnel[BREAK]  buchstäblich Dungeons.[WAIT]@Ferner sind großangelegte Tunnel mit über[BREAK]  100 Metern Länge keine Seltenheit.[WAIT]@Übrigens, alle, die Fragen wie "Maulwürfe[BREAK]  tragen Helme?!"[WAIT]  oder "Seit wann tragen Maulwürfe[BREAK]  Schaufeln?!" haben,[WAIT]  gehen bitte hier entlang.[END]
 59-12:@Left: To Candrum[END]
-59-12E:
+59-12E:@Links: Candrum[END]
 59-13:@Right: To Garbage Dump, Donnerturm[END]
-59-13E:
+59-13E:@Rechts: Mülldeponie, Donnerturm[END]
 
 [Container 61]
 61-0:@This is a Pork Bean recharge station.[WAIT]@It's self-service, so please use it as you see[BREAK]  fit.[PAUSE 5A 00][WAIT]@My job is to stand here and say that this[BREAK]  station is self-service.[END]
-61-0E:
+61-0E:@Das ist eine Schweinebohne-Aufladestation.[WAIT]@Bedien dich selbst.[PAUSE 5A 00][WAIT]@Mein Job ist es, hier zu stehen und zu sagen,[BREAK]  dass man sich selbst bedienen muss.[END]
 61-1:@Don't sweat it! It's no big deal![END]
-61-1E:
+61-1E:@Mach dir nichts draus! Ist nicht so schlimm![END]
 61-2:@How to Recharge[WAIT]@Step 1: Place your Pork Bean on the Recharge[BREAK]  Panel.[WAIT]@Step 2: Press the [COLOR 03 00]A[COLOR 00 00] Button on the nearby[BREAK]  device to supply the Pork Bean with power.[WAIT]@Step 3: Once the device beeps, the recharge is[BREAK]  complete.[WAIT]@WARNING![WAIT]  When the device beeps, BE SURE to press the[BREAK]  [COLOR 03 00]A[COLOR 00 00] Button to turn it off![END]
-61-2E:
+61-2E:@Anleitung für Wiederaufladen[WAIT]@Schritt 1: Parke deine Schweinebohne auf den[BREAK]  gekennzeichneten Platz.[WAIT]@Schritt 2: Bestätige den [COLOR 03 00]A[COLOR 00 00]-Knopf an dem in[BREAK]  der Nähe liegenden Gerät um das Gerät mit[WAIT]  Strom zu versorgen.[WAIT]@Schritt 3: Sobald das Gerät piept, ist der[BREAK]  Aufladevorgang abgeschlossen.[WAIT]@WARNUNG![WAIT]  Wenn das Gerät piept, drücke UNVERZÜGLICH[BREAK]  den [COLOR 03 00]A[COLOR 00 00]-Knopf![END]
 61-3:@Turn it on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-61-3E:
+61-3E:@Einschalten?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
 61-4:@A Pork Bean hasn't been set in place.[END]
-61-4E:
+61-4E:@Es befindet sich keine Schweinebohne auf den[BREAK]  gekennzeichneten Platz.[END]
 // Repeats: 61-4, 474-43
 61-5:@Recharge complete.[END]
-61-5E:
+61-5E:@Aufladevorgang abgeschlossen.[END]
 61-6:@It appears you didn't recharge it very well.[END]
-61-6E:
+61-6E:@Du scheinst es nicht sehr gut aufgeladen[BREAK]  zu haben.[END]
 61-7:@Danger! Danger! Danger![PAUSE 1E 00][BREAK]  Press the [COLOR 03 00]A[COLOR 00 00] Button to stop it immediately![END]
-61-7E:
+61-7E:@Achtung! Achtung! Achtung![PAUSE 1E 00][BREAK]  Drücke SOFORT den [COLOR 03 00]A[COLOR 00 00]-Knopf![END]
 61-8:@The Pork Bean broke down.[END]
-61-8E:
+61-8E:@Die Schweinebohne ist zusammengebrochen.[END]
 61-9:@A red light.[END]
-61-9E:
+61-9E:@Ein rotes Licht.[END]
 // Repeats: 61-9, 371-11, 474-19
 61-10:@Squeak squeeeak...[WAIT]  (Next time I'm reborn, I hope I get to be a[BREAK]  sperm whale.[WAIT]  I wanna be a sperm whale and eat giant squids[BREAK]  and stuff.[WAIT]  Huh? My mom's calling for me?[WAIT]  Aw, crap! This is no time for me to be[BREAK]  dreaming about stuff![WAIT]  Okay, I'm going home now!)[END]
-61-10E:
+61-10E:@Quietsch quiiiiiiiietsch...[WAIT]  (Ich hoffe, dass ich in meinem nächsten Leben[BREAK]  ein Pottwal werde.[WAIT]  Ich will ein Pottwal sein und gigantische Tinten-[BREAK]  fische und so fressen.[WAIT]  Was? Meine Mutter sucht nach mir?[WAIT]  Oh verdammt! Ich habe keine Zeit über so was[BREAK]  zu träumen.[WAIT]  Okay, ich gehen jetzt nach Hause!)[END]
 61-11:@Heya, I sell dangerous stuff.[WAIT]@It's my own personal [PAUSE 1E 00]dangerous stuff festival.[WAIT]@No one can say no to buying this stuff.[WAIT]@You want anything?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 61-11E:
 61-12:@Yeah, I figured as much.[WAIT]@...Say,[PAUSE 10 00] you look kinda familiar somehow.[END]
@@ -4840,11 +4840,11 @@
 63-1:@Don't tell me you threw away something[BREAK]  important,[WAIT]  and now you're chasing after it to get it back?[END]
 63-1E:
 63-2:@In that case, please use my Pork Bean.[WAIT]@Catching up to it on foot would probably be[BREAK]  impossible,[WAIT]  plus it's dangerous to walk on the highway![END]
-63-2E:
+63-2E:@Wenn das so ist, nutzen Sie bitte meine[BREAK]  Schweinebohne.[WAIT]@Zu Fuß ist es unmöglich es einzuholen,[WAIT]  außerdem ist es gefährlich auf einer Schnell-[BREAK]  straße zu laufen![END]
 63-3:@The pedals down by your feet...[WAIT]@The left one is the gas, and the right one is the[BREAK]  brake.[END]
-63-3E:
+63-3E:@Die Pedale sind bei deinen Füßen...[WAIT]@Das linke ist für's Gas, und das rechte ist für[BREAK]  die Bremse.[END]
 63-4:@All right, then! Be careful![END]
-63-4E:
+63-4E:@All right, then! Be careful![END]
 // Repeats: 63-4, 400-7
 63-5:@Oh, I rented that Pork Bean under my name,[WAIT]  so please be sure to return it, okay?[END]
 63-5E:
@@ -9030,19 +9030,19 @@
 
 [Container 198]
 198-0:@Oh, [LUCAS 22 03 00]. How've you been?[WAIT]@Lightning hit my mountain cabin a million times,[BREAK]  making it impossible to live in anymore.[WAIT]@I know it's hard to imagine the lightning was[BREAK]  trying to hit my house specifically...[WAIT]  ...but come on! One million times?![END]
-198-0E:
+198-0E:@Oh, [LUCAS 22 03 00]. Wie geht's, wie steht's?[WAIT]@Meine Berghütte wurde von einer Million Blitze[BREAK]  getroffen, was es für mich unmöglich macht,[WAIT]  dort zu leben.[WAIT]@Schwer vorzustellen, dass ein Blitz genau mein Haus trifft...[WAIT]  ...aber, ernsthaft, eine Million mal?![END]
 198-1:@Oh, [LUCAS 22 03 00]. How've you been?[WAIT]@I was dozing off just now when that really tall[BREAK]  fellow at Cross Road appeared in my dream.[WAIT]@Do you remember him, [LUCAS 23 02 00]?[WAIT]@I wonder what ever happened to him.[BREAK]  Where is he now?[END]
-198-1E:
+198-1E:@Oh, [LUCAS 22 03 00]. Wie geht's, wie steht's?[WAIT]@Ich habe vor mich hin gedöst, als mir plötzlich[WAIT]  dieser riesige Kerl von der Kreuzung in meinem[BREAK]  Traum erschienen ist.[WAIT]@Erinnerst du dich an ihn, [LUCAS 23 02 00]?[WAIT]@Ich frage mich, was mit ihm geschehen ist.[BREAK]  Wo er jetzt wohl ist?[END]
 198-2:@Oh, you're finally awake![WAIT]@Don't worry, [BONEY 23 05 00] is in tip-top[BREAK]  shape, too.[END]
-198-2E:
+198-2E:@Oh, du bist endlich aufgewacht![WAIT]@Keine Sorge, [BONEY 23 05 00] ist ebenfalls in[BREAK]  Top-Form.[END]
 198-3:@It's strange.[WAIT]@[HINAWA 22 08 00] appeared in Alex's dream and[BREAK]  told him to pile hay at that one spot.[WAIT]@Then, in the real world, right out of the blue,[BREAK]  you two fall right into the pile...[WAIT]@It's as strange as strange can be.[END]
-198-3E:
+198-3E:@Das ist merkwürdig.[WAIT]@[HINAWA 22 08 00] ist in Alex' Traum erschienen[BREAK]  und hat ihm gesagt,[WAIT]  er solle an diesem einem Ort einen[BREAK]  Heuhauen herrichten.[WAIT]@Dann, in der Realität, seid ihr zwei aus dem[BREAK]  Nichts heraus genau in den Haufen geflogen...[WAIT]@Merkwürdiger kann es gar nicht mehr werden.[END]
 198-4:@It's an absolute miracle that you didn't even[BREAK]  get a scratch.[END]
-198-4E:
+198-4E:@Es ist ein absolutes Wunder, dass ihr nicht mal[BREAK]  einen Kratzer abbekommen habt.[END]
 198-5:@In a dream I had, [HINAWA 22 08 00] told me to pile[BREAK]  hay in that spot right away.[WAIT]@She saved your lives.[END]
-198-5E:
+198-5E:@Im Traum sagte mir [HINAWA 22 08 00], ich solle[BREAK]  auf der Stelle dort einen Heuhaufen errichten.[WAIT]@Sie hat euer Leben gerettet.[END]
 198-6:@No matter where she goes, [HINAWA 22 08 00] is[BREAK]  always thinking about you.[END]
-198-6E:
+198-6E:@Ganz egal wohin sie geht, [HINAWA 22 08 00] denkt immer an dich.[END]
 198-7:@Wait, wait![PAUSE 20 00] Where are you going, and why are[BREAK]  you ignoring us?![END]
 198-7E:
 198-8:@I have the ability to tell fortunes when asleep.[WAIT]@According to my latest nap, today is a Triple[BREAK]  Lucky Day.[WAIT]@So be confident, go forth, and do great things.[END]
@@ -10335,7 +10335,7 @@
 222-74E:
 // Repeats: 222-74, 506-74, 507-2
 222-75:@The door doesn't budge at all.[END]
-222-75E:
+222-75E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 222-76:@The Transceiver seems to be reacting to the[BREAK]  door.[WAIT]@Try pressing the button on the Transceiver?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 222-76E:
@@ -14051,7 +14051,7 @@
 371-10E:
 // Repeats: 61-23, 371-10, 474-3
 371-11:@A red light.[END]
-371-11E:
+371-11E:@Ein rotes Licht.[END]
 // Repeats: 61-9, 371-11, 474-19
 371-12:@I AM A BROKEN ROBOT.[WAIT]@I HAVE FORGOTTEN WHY I AM BROKEN,[BREAK]  THOUGH...[WAIT]@YOU CERTAINLY HAVE A LOT OF FREE TIME[BREAK]  TO BE TALKING TO SOMETHING LIKE ME.[WAIT][PAUSE 5A 00]@SORRY! SORRY![BREAK]  IT WAS RUDE OF ME TO SAY THAT.[END]
 371-12E:
@@ -16424,7 +16424,7 @@
 474-18:@Hmm. That wasn't very thank you-ful.[END]
 474-18E:
 474-19:@A red light.[END]
-474-19E:
+474-19E:@Ein rotes Licht.[END]
 // Repeats: 61-9, 371-11, 474-19
 474-20:@This seems like a fast car.[END]
 474-20E:
@@ -16474,7 +16474,7 @@
 474-42E:
 // Repeats: 61-24, 474-42
 474-43:@A Pork Bean hasn't been set in place.[END]
-474-43E:
+474-43E:@Es befindet sich keine Schweinebohne auf den[BREAK]  gekennzeichneten Platz.[END]
 // Repeats: 61-4, 474-43
 474-44:@Received 1 DP.[END]
 474-44E:
@@ -16513,9 +16513,9 @@
 475-8:@One of the new bouncers slugged me![WAIT]@There must've been some sort of[BREAK]  misunderstanding here![END]
 475-8E:
 475-9:@Hey, man. I know the truth.[WAIT]@I know you're not really the commander.[BREAK]  You're an impostor.[WAIT]@Don't worry, though. I won't tell no one.[WAIT]@It'd be too much of a hassle anyways.[END]
-475-9E:
+475-9E:@Hey, Mann. Ich weiß genau, was hier abläuft.[WAIT]@Ich weiß, dass du nicht wirklich der[BREAK]  Kommandant bist. Du bist ein Hochstapler.[WAIT]@Aber keine Panik, ich erzähl's niemanden.[WAIT]@Das wäre mir sowieso viel zu anstrengend.[END]
 475-10:@Hey, man. I know the truth.[WAIT]@I know you're not really the commander.[BREAK]  You're an impostor.[WAIT]@Don't worry, though. I won't tell no one.[WAIT]@It'd be too much of a hassle anyways.[END]
-475-10E:
+475-10E:@Hey, Mann. Ich weiß genau, was hier abläuft.[WAIT]@Ich weiß, dass du nicht wirklich der[BREAK]  Kommandant bist. Du bist ein Hochstapler.[WAIT]@Aber keine Panik, ich erzähl's niemanden.[WAIT]@Das wäre mir sowieso viel zu anstrengend.[END]
 475-11:@Gum's so great, dontcha think?![WAIT]@You can chew it all day long and never run out![WAIT]@It's such an incredible deal![WAIT]  In a way, it's infinite![END]
 475-11E:
 475-12:@It's true, gum never runs out![WAIT]@It's so great! It's such a bargain![END]
@@ -16951,7 +16951,7 @@
 506-74E:
 // Repeats: 222-74, 506-74, 507-2
 506-75:@The door doesn't budge at all.[END]
-506-75E:
+506-75E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 506-76:@The Transceiver seems to be reacting to the[BREAK]  door.[WAIT]@Try pressing the button on the Transceiver?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 506-76E:
@@ -17010,7 +17010,7 @@
 507-2E:
 // Repeats: 222-74, 506-74, 507-2
 507-3:@The door doesn't budge at all.[END]
-507-3E:
+507-3E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 507-4:@The Transceiver seems to be reacting to the[BREAK]  door.[WAIT]@Try pressing the button on the Transceiver?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 507-4E:
@@ -18110,7 +18110,7 @@
 660-14:@Learned the Osohe Dance, Part C![END]
 660-14E:
 660-15:@The door doesn't budge at all.[END]
-660-15E:
+660-15E:@Die Tür bewegt sich kein bisschen.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 660-16:@Alright. We go through here.[END]
 660-16E:
