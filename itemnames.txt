@@ -304,17 +304,17 @@
 0096: Thunder Bomb
 0096-E: Donnerbombe
 0097: Running Bomb
-0097-E: Rennende Bombe
+0097-E: Rennbombe
 0098: Sprinting Bomb
-0098-E: Spurtende Bombe
+0098-E: Spurtbombe
 0099: Pencil Rocket
 0099-E: Bleistift-Rakete
 009A: Bomb
 009A-E: Bombe
 009B: Super Bomb
-009B-E: Super-Bombe
+009B-E: Superbombe
 009C: New Year's Eve Bomb
-009C-E: Neujahrs-Bombe
+009C-E: Neujahrsbombe
 009D: Honey Shower
 009D-E: Honigdusche
 009E: Ancient Banana
