@@ -97,7 +97,7 @@
 002F: Agitated Boar
 002F-E: Beunruhigtes Wildschwein
 0030: Mighty Bitey Snake
-0030-E: Äußerst bissige Schlange
+0030-E: Äußerst Bissige Schlange
 0031: Soot Dumpling
 0031-E: Rußknödel
 0032: Baked Yammonster
