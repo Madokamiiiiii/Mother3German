@@ -4801,96 +4801,95 @@
 61-10:@Squeak squeeeak...[WAIT]  (Next time I'm reborn, I hope I get to be a[BREAK]  sperm whale.[WAIT]  I wanna be a sperm whale and eat giant squids[BREAK]  and stuff.[WAIT]  Huh? My mom's calling for me?[WAIT]  Aw, crap! This is no time for me to be[BREAK]  dreaming about stuff![WAIT]  Okay, I'm going home now!)[END]
 61-10E:@Quietsch quiiiiiiiietsch...[WAIT]  (Ich hoffe, dass ich in meinem nächsten Leben[BREAK]  ein Pottwal werde.[WAIT]  Ich will ein Pottwal sein und gigantische Tinten-[BREAK]  fische und so fressen.[WAIT]  Was? Meine Mutter sucht nach mir?[WAIT]  Oh verdammt! Ich habe keine Zeit über so was[BREAK]  zu träumen.[WAIT]  Okay, ich gehen jetzt nach Hause!)[END]
 61-11:@Heya, I sell dangerous stuff.[WAIT]@It's my own personal [PAUSE 1E 00]dangerous stuff festival.[WAIT]@No one can say no to buying this stuff.[WAIT]@You want anything?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-61-11E:@Hey, ich verkaufe gefährliches Zeug.[WAIT]@(Es ist mein persönlicherl [PAUSE 1E 00]dangerous stuff festival.) 61-11[WAIT]@Keiner kann nein dazu sagen.[WAIT]@Willst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+61-11E:
 61-12:@Yeah, I figured as much.[WAIT]@...Say,[PAUSE 10 00] you look kinda familiar somehow.[END]
-61-12E:@Yeah, I figured as much.[WAIT]@...Sag,[PAUSE 10 00] du kommst mir irgendwie bekannt vor. 61-12[END]
+61-12E:
 61-13:@A fascinating bevy of goods, wouldn't you[BREAK]  agree?[WAIT]@...Say,[PAUSE 10 00] you look kinda familiar somehow.[END]
-61-13E:@Eine bezaubernde Auswahl an Gütern, findest[BREAK]  du nicht?[WAIT]@...Sag,[PAUSE 10 00] du kommst mir irgendwie bekannt vor.[END]
+61-13E:
 61-14:@Bow-wow![WAIT]  (I'm a carefree stray dog.[WAIT]  We couldn't talk when you were riding your[BREAK]  vehicle earlier.[WAIT]  So let's talk now.)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-61-14E:@Buh-hu![WAIT]  (Ich bin ein sorgenfreier Streuner.[WAIT]  Wir konnten vorhin nicht reden, als du auf deinem Gefährt gefahren bist. 61-14[WAIT]  Also lass uns jetzt reden.)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+61-14E:
 61-15:@Bow wow bow.[WAIT]  (Here, YOU start the conversation.)[END]
-61-15E:@.[PAUSE 60 00].[PAUSE 60 00].[PAUSE 60 00]Buh huh huh.[WAIT]  (Ähhm, DU hast das Gespräch gestartet, also[BREAK]  musst du auch mit einem Thema aufkommen.)[END]
+61-15E:
 61-16:@Bow.[WAIT]  (I'm not very talkative either, actually.)[END]
-61-16E:@Buh.[WAIT]  (Ich bin ehrlich gesagt auch nicht sehr[BREAK]  gesprächig.)[END]
+61-16E:
 61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of a[BREAK]  [ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-61-17E:@*schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00][WAIT]  (Dieser Duft...[PAUSE 10 00] ist der Geruch eines[BREAK]  [ITEM F0 FF] 61-17![WAIT]  Und, wie du sehen kannst, bin ich ein Streuner![WAIT]  Folglich gibt es nur eine logische Folgerung.[WAIT]  Bitte gib mir das [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+61-17E:
 61-18:@Bow wow![WAIT]  (I'm exceptionally happy![WAIT]  I want to thank you guys somehow![WAIT]  ...Oh, I know! You can have this!)[END]
-61-18E:@Buh huh![WAIT]  (Ich bin sooooo glücklich![WAIT]  Ich möchte mich irgendwie bei euch bedanken![WAIT]  ...Oh, genau! Das hier könnt ihr haben!)[END]
+61-18E:
 61-19:@Bow wow![WAIT]  (Take good care of my thank-you gift!)[END]
-61-19E:@Buh huh![WAIT]  (Passt gut auf mein Dankeschön-Geschenk[BREAK]  auf!)[END]
+61-19E:
 61-20:@*sniff*...[BREAK]  (I can't stop drooling...)[END]
-61-20E:@*schnüffel*...[BREAK]  (Ich kan nicht aufhören zu sabbern...)[END]
+61-20E:
 61-21:@[42 FF F0 FF] and company got a [ITEM F1 FF]![END]
-61-21E:@[42 FF F0 FF] und Begleitung hat ein [ITEM F1 FF] erhalten! 61-21[END]
+61-21E:
 // pencil rocket for sure, maybe other items too?
 61-22:@Preserve our beautiful scenery![BREAK]  Please refrain from posting signs.[END]
-61-22E:@Schützt unsere wunderschöne Landschaft![BREAK]  Bitte unterlasst das Schreiben von Schildern.[END]
+61-22E:
 61-23:@Pork Bean Recharge Station[END]
-61-23E:@Schweinebohne-Aufladestation[END]
+61-23E:
 // Repeats: 61-23, 371-10, 474-3
 61-24:@It seems to have plenty of energy.[END]
-61-24E:@Es scheint noch jede Menge Energie zu haben.[END]
+61-24E:
 // Repeats: 61-24, 474-42
 61-25:[END]
-61-25E:[END]
+61-25E:
 
 [Container 63]
 63-0:@Oh! Commander![BREAK]  Whatever is the matter?[END]
-63-0E:@Oh! Kommandant![BREAK]   Ist alles in Ordnung?[END]
+63-0E:
 63-1:@Don't tell me you threw away something[BREAK]  important,[WAIT]  and now you're chasing after it to get it back?[END]
-63-1E:@Sag mir nicht, du hast etwas wichtiges[BREAK]  weggeworfen,[WAIT]  und jetzt jagst du es hinterher um es[BREAK]  zurückzubekommen?[END]
+63-1E:
 63-2:@In that case, please use my Pork Bean.[WAIT]@Catching up to it on foot would probably be[BREAK]  impossible,[WAIT]  plus it's dangerous to walk on the highway![END]
 63-2E:@Wenn das so ist, nutzen Sie bitte meine[BREAK]  Schweinebohne.[WAIT]@Zu Fuß ist es unmöglich es einzuholen,[WAIT]  außerdem ist es gefährlich auf einer Schnell-[BREAK]  straße zu laufen![END]
 63-3:@The pedals down by your feet...[WAIT]@The left one is the gas, and the right one is the[BREAK]  brake.[END]
 63-3E:@Die Pedale sind bei deinen Füßen...[WAIT]@Das linke ist für's Gas, und das rechte ist für[BREAK]  die Bremse.[END]
 63-4:@All right, then! Be careful![END]
-63-4E:@Dann ist ja alles klar! Sei vorsichtig![END]
+63-4E:@All right, then! Be careful![END]
 // Repeats: 63-4, 400-7
 63-5:@Oh, I rented that Pork Bean under my name,[WAIT]  so please be sure to return it, okay?[END]
-63-5E:@Ich habe diese Schweinebohne unter meinem[BREAK]  Namen gemietet,[WAIT]  also bring es bitte wieder zurück, okay?[END]
+63-5E:
 63-6:@Oh, I hate to ask...[WAIT]  But could you explain simply how to make this[BREAK]  P-P-Pork... Bean vehicle move?[END]
-63-6E:Unused?[END]
+63-6E:
 // not sure who says this, some old man probably though
 63-7:@Oh. It's uhh, you know how it is...[WAIT]@I seem to be forgetting many things these[BREAK]  days, you see...[END]
-63-7E:Unused?
-@Oh. Es ist ähhm, du weißt wie es ist...[WAIT]@Ich vergesse heutzutage so viele Dinge...[END]
+63-7E:
 63-8:@Th-thanks.[BREAK]  That's what I thought.[END]
-63-8E:Unused?[END]
+63-8E:
 63-9:@He's passed out.[END]
-63-9E:Unused?[END]
+63-9E:
 // Repeats: 63-9, 400-8
 
 [Container 66]
 66-0:@What's goin' on?[WAIT]@What're you doing, [DUSTER 23 03 00]?[WAIT]@We need to hurry![END]
-66-0E:@Was geht hier vor sich?[WAIT]@Was machst du da, [DUSTER 23 03 00]?[WAIT]@Wir müssen uns beeilen![END]
+66-0E:
 66-1:@Damn.[PAUSE 10 00] It's no use! It won't go![WAIT]@Looks like it's out of power.[WAIT]@I guess all we can do now is walk...[END]
-66-1E:@Mist.[PAUSE 10 00] Es hat keinen Zweck! Es will sich nicht[BREAK]  bewegen![WAIT]@Es scheint kein Strom zu haben.[WAIT]@Dann werden wir wohl laufen müssen...[END]
+66-1E:
 66-2:@It won't start up at all.[END]
-66-2E:@Es lässt sich nicht starten.[END]
+66-2E:
 66-3:@Squeak squeak squeak squeak.[WAIT]  (Guess what! Guess what![WAIT]  Whenever I eat a cookie and munch on it, my[BREAK]  cheeks get all big and chubby![WAIT]  It's so funny when they get like that.[WAIT]  Huh? My mom?[WAIT]  Oh, she's smiley again today.[WAIT]  She's smiley whenever me and her are[BREAK]  together.[WAIT]  So I'm gonna go home now.)[END]
-66-3E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Rate mal! Rate mal![WAIT]  Immwer wenn ich einen Keks esse und darauf[BREAK]  herumkaue, werden meine Backen ganz groß[WAIT]  und rund![WAIT]  Das ist soooooo lustig.[WAIT]  Was? Meine Mama?[WAIT]  Oh, sie ist heute freundlich.[WAIT]  Sie ist freundlich, wann auch immer ich mit ihr[BREAK]  zusammen bin.[WAIT]  Also, ich gehe jetzt nach Hause.)[END]
+66-3E:
 
 [Container 67]
 67-0:@Finally! It's about time![END]
-67-0E:@Endlich! Es ist an der Zeit! 67-0[END]
+67-0E:
 67-1:@I just hope the egg's alright.[END]
-67-1E:@Ich hoffe, dass es dem Ei gut geht.[END]
+67-1E:
 67-2:@What is THAT?![END]
-67-2E:@Was ist DAS?![END]
+67-2E:
 67-3:@Here it is![END]
-67-3E:@Hier ist es! 67-3[END]
+67-3E:
 67-4:@Got the [ITEM DF 00]![END]
-67-4E:@[ITEM DF 00] erhalten![END]
+67-4E:
 67-5:@Now I see.[WAIT][PAUSE 1E 00]@I really am [DUSTER 23 03 00].[WAIT]@I'm [DUSTER 23 03 00].[EVENT][END]
-67-5E:@Jetzt verstehe ich.[WAIT][PAUSE 1E 00]@Ich bin tatsächlich [DUSTER 23 03 00].[WAIT]@Ich bin [DUSTER 23 03 00].[EVENT][END]
+67-5E:
 67-6:@Guys! I'm [DUSTER 23 03 00]![WAIT]@I remember now! I really am [DUSTER 23 03 00]![WAIT][PAUSE 5A 00]@Yahoooo! I finally have my memory back![END]
-67-6E:@Leute! Ich bin [DUSTER 23 03 00]![WAIT]@Ich erinnere mich! Ich bin tatsächlich[BREAK]  [DUSTER 23 03 00]![WAIT][PAUSE 5A 00]@Juhuuu! Ich kann mich wieder an alles erinnern![END]
+67-6E:
 67-7:@Awesome! We did it![WAIT]@Yep! You're [DUSTER 23 03 00]![WAIT]@[DUSTER 23 03 00]! [PAUSE 20 00][DUSTER 23 03 00]![WAIT]@I'll keep calling you that, as many times as you[BREAK]  want![WAIT]@Now don't you dare lose the egg again![END]
-67-7E:@Super! Wir haben es geschafft![WAIT]@Jep! Du bist [DUSTER 23 03 00]![WAIT]@[DUSTER 23 03 00]! [PAUSE 20 00][DUSTER 23 03 00]![WAIT]@Ich werde das sooft sagen, wie du willst![WAIT]@Aber verlier ja nicht das Ei wieder![END]
+67-7E:
 67-8:@Woof woof woof![WAIT]  (You've always been [DUSTER 23 03 00]![BREAK]  You just forgot!)[END]
-67-8E:@Wau wau wau![WAIT]  (Du bist die ganze Zeit schon [DUSTER 23 03 00][BREAK]  gewesen![WAIT]  Du hast es nur vergessen!)[END]
+67-8E:
 67-9:@Commander![WAIT]@What are you doing, goofing around in a place[BREAK]  like this?![END]
-67-9E:@Kommandant![WAIT]@What are you doing, goofing around in a place[BREAK]  like this?![END]
+67-9E:
 67-10:@We're heading straight to Donnerturm.[WAIT]@If anyone needs to use the restroom on the[BREAK]  way there, please hold it in![EVENT][END]
 67-10E:
 67-11:@Now to hit the pedal to the metal![END]
@@ -4902,7 +4901,7 @@
 67-14:@A quite old Clayman.[END]
 67-14E:
 67-15:@Squeak squeak squeak![WAIT]  Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
-67-15E:[END]
+67-15E:
 // Much of this comes from an EarthBound quote, this line isn't used in the game though
 67-16:@This is a garbage dump.[WAIT]@So let's throw our busted dreams out with the[BREAK]  rest of our trash![END]
 67-16E:
@@ -4915,7 +4914,7 @@
 
 [Container 69]
 69-0:[END]
-69-0E:[END]
+69-0E:
 69-1:[END]
 69-1E:[END]
 
@@ -4923,7 +4922,7 @@
 70-0:@I'm a debug save frog.[BREAK]@Save?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 70-0E:@I'm a debug save frog.[BREAK]@Save?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 70-1:@Ribbit ribbit.[BREAK]@You're so heartless.[END]
-70-1E:[END]
+70-1E:@Ribbit ribbit.[BREAK]@You're so heartless.[END]
 
 [Container 72]
 72-0:[HOTSPRING 00 00][END]
@@ -14905,7 +14904,7 @@
 371-9:@Pork Beans...[WAIT]@Be sure to use them efficiently![END]
 371-9E:
 371-10:@Pork Bean Recharge Station[END]
-371-10E:@Schweinebohne-Aufladestation[END]
+371-10E:
 // Repeats: 61-23, 371-10, 474-3
 371-11:@A red light.[END]
 371-11E:@Ein rotes Licht.[END]
@@ -15861,7 +15860,7 @@
 400-6:@Please be very careful not to slip and get in an[BREAK]  accident![END]
 400-6E:
 400-7:@All right, then! Be careful![END]
-400-7E:@Dann ist ja alles klar! Sei vorsichtig![END]
+400-7E:
 // Repeats: 63-4, 400-7
 400-8:@He's passed out.[END]
 400-8E:
@@ -17253,7 +17252,7 @@
 474-2:@This may seem persistent, but...[WAIT]  East: Garbage Dump[END]
 474-2E:
 474-3:@Pork Bean Recharge Station[END]
-474-3E:@Schweinebohne-Aufladestation[END]
+474-3E:
 // Repeats: 61-23, 371-10, 474-3
 474-4:@This line is so long! The wait is killing me![END]
 474-4E:
@@ -17333,7 +17332,7 @@
 474-41:@The panel on the recharge device is blinking.[BREAK]  It doesn't seem to work anymore.[END]
 474-41E:
 474-42:@It seems to have plenty of energy.[END]
-474-42E:@Es scheint noch jede Menge Energie zu haben.[END]
+474-42E:
 // Repeats: 61-24, 474-42
 474-43:@A Pork Bean hasn't been set in place.[END]
 474-43E:@Es befindet sich keine Schweinebohne auf den[BREAK]  gekennzeichneten Platz.[END]
