@@ -131,7 +131,7 @@
 40:Home Run
 40-E:Home Run
 41:Mach
-41-E:Gaming
+41-E:Zocken
 42:Top Spec
 42-E:Top Spec
 43:Mt. Fuji
