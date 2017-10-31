@@ -70,7 +70,7 @@
 20:Swing
 20-E:Schwingen
 21:Power Smash
-21-E:Power Schmetter
+21-E:Kraftschmetter
 22:Strengthen Up
 22-E:Stärken
 23:Toughen Up

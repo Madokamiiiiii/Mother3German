@@ -90,7 +90,7 @@
 2B:[END]
 2B-E:[END]
 2C:Reveals enemy information and weaknesses.[END]
-2C-E:Enthüllt Gegner-Informationen und Schwächen.[END]
+2C-E:Enthüllt Informationen und Schwächen vom Gegner.[END]
 2D:[END]
 2D-E:[END]
 2E:Apologize to an enemy to stop it in its tracks.[END]
