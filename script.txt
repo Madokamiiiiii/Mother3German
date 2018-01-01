@@ -5829,7 +5829,7 @@
 94-15:[ALTERNATEFONT]@where go?[BREAK]  there?[WAIT]  here?[WAIT]@kay-o.[END]
 94-15E:[ALTERNATEFONT]@wohin?[BREAK]  dort?[WAIT]  hier?[WAIT]@kay-o.[END]
 94-16:[ALTERNATEFONT]@getting more clever[BREAK]  and cleveeer.[END]
-94-16E:[ALTERNATEFONT]@werden schlau und[BREAK]  schluuuer.[END]
+94-16E:[ALTERNATEFONT]@werden schlau und[BREAK]  schlauuuer.[END]
 94-17:[ALTERNATEFONT]@only five can ladder.[END]
 94-17E:[ALTERNATEFONT]@nur fønf kœnnen[BREAK]  leiter.[END]
 
@@ -7216,132 +7216,132 @@
 
 [Container 138]
 138-0:@SCARINESS SEEMS TO BE WEARING OFF...[WAIT]@AM SENSING MY LIMIT NOW.[WAIT][PAUSE 0F 00]@OH, THAT WAS ME TALKING TO MYSELF.[WAIT]@DID THAT SCARE YOU ALREADY?[END]
-138-0E:
+138-0E:@GRUSELIGKEIT SCHEINT NACHZULASSEN...[WAIT]@SPÜRE JETZT MEIN LIMIT.[WAIT][PAUSE 0F 00]@OH, ICH HABE MIT MIR SELBST GEREDET.[WAIT]@HAT DICH DAS SCHON GEGRUSELT?[END]
 138-1:@OKAY! LET'S BEGIN![EVENT][END]
-138-1E:
+138-1E:@OKAY! LASST UNS ANFANGEN![EVENT][END]
 138-2:@EEK! YOU'RE SCARY![BREAK]  WE'LL STOMP YOU HARD![END]
-138-2E:
+138-2E:@EEK! DU BIST GRUSELIG![BREAK]  WIR WERDEN DICH EINSTAMPFEN![END]
 138-3:[ALTERNATEFONT]@give thanks at you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-138-3E:
+138-3E:[ALTERNATEFONT]@geben danke dir?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 138-4:[ALTERNATEFONT]@give this at you.[BREAK]  bow tie.[END]
-138-4E:
+138-4E:@[ALTERNATEFONT]@geben das dir.[BREAK]  fliege. 138-4[END]
 138-5:@You received a [ITEM A9 00], not a bow tie![END]
-138-5E:
+138-5E:@Du hast ein [ITEM A9 00] erhalten,[BREAK]  keine Fliege![END]
 138-6:@You received a [ITEM A8 00], not a raw egg![END]
-138-6E:
+138-6E:@Du hast ein [ITEM A8 00] erhalten,[BREAK]  kein rohes Ei![END]
 138-7:[ALTERNATEFONT]@say no to me,[BREAK]  give raw egg at you.[END]
-138-7E:
+138-7E:[ALTERNATEFONT]@sagen nein zu mir,[BREAK]  geben rohes ei dir.[END]
 138-8:[ALTERNATEFONT]@can't hold more[BREAK]  things.[WAIT]@give at you later.[END]
-138-8E:
+138-8E:[ALTERNATEFONT]@kann nicht mehr[BREAK]  dinge halten,[WAIT]@geben spæter.[END]
 138-9:[ALTERNATEFONT]@noooo understand[BREAK]  what is what.[END]
-138-9E:
+138-9E:[ALTERNATEFONT]@neeeeein verstehen[BREAK]  was ist was.[END]
 138-10:[ALTERNATEFONT]@sky is same.[WAIT]@huh?[END]
-138-10E:
+138-10E:[ALTERNATEFONT]@himmel ist selbe.[WAIT]@hæh?[END]
 // wtf is this
 138-11:[ALTERNATEFONT]@kaaay-o![PAUSE 0F 00][BREAK]  thanks thanks.[END]
-138-11E:
+138-11E:[ALTERNATEFONT]@kaaay-o![PAUSE 0F 00][BREAK]  danke danke.[END]
 138-12:[ALTERNATEFONT]@saved is good.[BREAK]  ding ding.[END]
-138-12E:
+138-12E:[ALTERNATEFONT]@gerettet ist gut.[BREAK]  ding ding.[END]
 138-13:[ALTERNATEFONT]@cramped.[BREAK]  ding ding.[END]
-138-13E:
+138-13E:[ALTERNATEFONT]@verkrampft.[BREAK]  ding ding.[END]
 138-14:[ALTERNATEFONT]@sleep at night.[END]
-138-14E:
+138-14E:[ALTERNATEFONT]@schlafen bei nacht.[END]
 138-15:[END]
-138-15E:
+138-15E:[END]
 
 [Container 139]
 139-0:@KEEEEEEEEEEEEE!!!![EVENT][END]
-139-0E:
+139-0E:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-1:@It's making horrible chalkboard-scratching[BREAK]  sounds while trying to tell scary stories.[END]
-139-1E:
+139-1E:@Es macht schreckliche kreideknirschenden[BREAK]  Geräusche, während es versucht gurselige[WAIT]  Geschichte zu erzählen.[END]
 139-2:@Where is the Needle?![BREAK]  Where in Saturn Valley is it?![END]
-139-2E:
+139-2E:@Wo ist die Nadel?![BREAK]  Wo im Saturntal ist es?![END]
 139-3:[ALTERNATEFONT]@do not know.[END]
-139-3E:
+139-3E:[ALTERNATEFONT]@nicht wissen.[END]
 139-4:@Don't lie![WAIT]@You lied yesterday, too![END]
-139-4E:
+139-4E:@Lüg nicht![WAIT]@Du hast gestern auch gelogen![END]
 139-5:@You'd better tell us, or we'll start tickling your[BREAK]  underarms again![END]
-139-5E:
+139-5E:@Du erzählst es uns besser, oder wir kitzeln[BREAK]  dich wieder unterm Unterarm![END]
 139-6:[ALTERNATEFONT]@yes yes.[BREAK]  we are no good.[END]
-139-6E:
+139-6E:[ALTERNATEFONT]@ja ja.[BREAK]  wir sind nicht gut.[END]
 139-7:@Who're you?! What do you want?![END]
-139-7E:
+139-7E:@Wer bist du?! Was willst du?![END]
 139-8:@Don't tell me these are the ones...?[END]
-139-8E:
+139-8E:@Sag mir nicht, dass das diejenigen sind, die...?
 139-9:@Just get 'em![END]
-139-9E:
+139-9E:@Schnappt sie einfach![END]
 139-10:@Ahh! Our Frightbot! We needed that![WAIT]@We must inform Mr. Fassad immediately![END]
-139-10E:
+139-10E:@Ahh! Unser Gruselbot! Den haben wir[BREAK]  gebraucht![WAIT]@Wir müssen sofort Herrn Fassad informieren![END]
 139-11:@You'll pay for this![WAIT]@I'll make sure you pay![END]
-139-11E:
+139-11E:@Du wirst dafür bezahlen![WAIT]@Ich sorge dafür, dass du bezahlst![END]
 139-12:@Oh, here you are, [DUSTER 23 03 00]![END]
-139-12E:
+139-12E:@Oh, hier bist du, [DUSTER 23 03 00]![END]
 139-13:@Woof woof![WAIT]  (It's [DUSTER 23 03 00]! It's [DUSTER 23 03 00]!)[END]
-139-13E:
+139-13E:@Wau wau![WAIT]  (Es ist [DUSTER 23 03 00]! Es ist [DUSTER 23 03 00]!)[END]
 139-14:@[LUCAS 26 04 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Thank goodness you're all right![END]
-139-14E:
+139-14E:@[LUCAS 26 04 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Gott sei Dank, geht es euch gut![END]
 139-15:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Thank goodness you're all right![END]
-139-15E:
+139-15E:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Gott sei Dank, geht es euch gut![END]
 139-16:@The kind people of this valley rescued me,[WAIT]  but those other guys captured us all.[WAIT]@But don't worry. The Egg of Light is safe.[END]
-139-16E:
+139-16E:@Die netten Leute dieses Dorfs haben mich[BREAK]  gerettet,[WAIT]  aber diese anderen Kerle haben uns alle[BREAK]  gefangen genommen.[WAIT]@Aber keine Sorge. Das Ei des Lichts ist sicher.[END]
 139-17:@Geez...[BREAK]  Is this lucky or unlucky? I can't tell.[END]
-139-17E:
+139-17E:@Mann...[BREAK]  Ist das Glück oder Unglück? Ich weiß nicht.[END]
 139-18:@You're all lucky.[WAIT]@That's the only way I can see it...[END]
-139-18E:
+139-18E:@Ihr habt alle Glück.[WAIT]@Anders kann ich es nicht sehen...[END]
 139-19:@That's my line, [KUMATORA 23 04 00], baby.[END]
-139-19E:
+139-19E:@Das ist meine Zeile, [KUMATORA 23 04 00], Baby.[END]
 139-20:[ALTERNATEFONT]@please to let down.[END]
-139-20E:
+139-20E:[ALTERNATEFONT]@bitte runterlassen.[END]
 139-21:@Let's let these guys down for now.[END]
-139-21E:
+139-21E:@Lasst uns diese Kerle runterholen.[END]
 139-22:@Hmmmmm. I see...[WAIT]@Needles that seal away the Dark Dragon...[BREAK]  Hmm.[END]
-139-22E:
+139-22E:@Hmmmmm, ich verstehe...[WAIT]@Nadeln, die den Schwarzen Drachen[BREAK]  versiegeln... Hmm.[END]
 139-23:@Sounds like I should go with you.[WAIT]@[LUCAS 23 02 00]. I'm coming too.[END]
-139-23E:
+139-23E:@Ich sollte wohl mitgehen.[WAIT]@[LUCAS 23 02 00]. Ich gehe mit dir.[END]
 139-24:@Actually, we would've dragged you along with[BREAK]  us anyways.[END]
-139-24E:
+139-24E:@Um ehrlich zu sein, hätten wir dich sowieso[BREAK]  mitgeschleppt.[END]
 139-25:@[DUSTER 23 03 00] joined your party![PAUSE 68 01][END]
-139-25E:
+139-25E:@[DUSTER 23 03 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 139-25, 321-94
 139-26:[ALTERNATEFONT]@whew. saved.[END]
-139-26E:
+139-26E:[ALTERNATEFONT]@phew, gerettet.[END]
 139-27:@The Pigmasks were asking about the Needle's[BREAK]  location...[WAIT]  Do you really not know where it is?[END]
-139-27E:
+139-27E:@Die Schweinemasken haben euch über die[BREAK]  Position der Nadel befragt...[WAIT]  Wisst ihr wirklich nicht, wo sie ist?[END]
 139-28:[ALTERNATEFONT]@do know.[END]
-139-28E:
+139-28E:[ALTERNATEFONT]@gut wissen.[END]
 139-29:[ALTERNATEFONT]@dooooo know.[END]
-139-29E:
+139-29E:[ALTERNATEFONT]@guuuuuut wissen.[END]
 139-30:[ALTERNATEFONT]@know.[END]
-139-30E:
+139-30E:[ALTERNATEFONT]@wissen.[END]
 139-31:[ALTERNATEFONT]@do do know.[END]
-139-31E:
+139-31E:[ALTERNATEFONT]@gut gut wissen.[END]
 139-32:@They say they know![WAIT]@Does that mean they've met one of the[BREAK]  Magypsies?[END]
-139-32E:
+139-32E:@Sie sagen, dass sie es wissen![WAIT]@Bedeutet das, dass sie eine der Magypsies[BREAK]  getroffen haben?[END]
 139-33:[ALTERNATEFONT]@ding ding![WAIT]  met.[WAIT]@can go far that way.[BREAK]  easy.[END]
-139-33E:
+139-33E:[ALTERNATEFONT]@ding ding![WAIT]  getroffen.[WAIT]@kœnnen gehen weit[BREAK]  diesen weg.[BREAK]  einfach.[END]
 139-34:[ALTERNATEFONT]@boing.[WAIT]  can go.[END]
-139-34E:
+139-34E:[ALTERNATEFONT]@boing.[WAIT]  kœnnen gehen.[END]
 139-35:@"That way" means that way.[WAIT]@I can tell by their eyes.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]North![WAIT]@They're saying to go toward the volcano to[BREAK]  the north.[END]
-139-35E:
+139-35E:@"Diesen Weg" bedeutet dieser Weg.[WAIT]@Ich weiß das durch ihre Augen.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Norden![WAIT]@Sie sagen zum Vulkan im Norden zu gehen.[END]
 139-36:[ALTERNATEFONT]@have map.[BREAK]  give at you.[END]
-139-36E:
+139-36E:[ALTERNATEFONT]@haben karte.[BREAK]  geben dir.[END]
 139-37:[ALTERNATEFONT]@we are fulgrate.[END]
-139-37E:
+139-37E:[ALTERNATEFONT]@wir sind fulgrate.[END]
 139-38:[ALTERNATEFONT]@we are great[BREAK]  grateful.[END]
-139-38E:
+139-38E:[ALTERNATEFONT]@wir sind spitze[BREAK]  dankbar.[END]
 139-39:[ALTERNATEFONT]@fall but get right[BREAK]  back up.[END]
-139-39E:
+139-39E:[ALTERNATEFONT]@fallen aber sofort[BREAK]  zurøck oben.[END]
 139-40:[ALTERNATEFONT]@we are catched lots.[WAIT]@we are mr. saturn.[END]
-139-40E:
+139-40E:[ALTERNATEFONT]@wir sind gefangene[BREAK]  menge.[WAIT]@wir sind mr. saturn.[END]
 139-41:[ALTERNATEFONT]@no want to catched[BREAK]  any more.[WAIT]@mantises scary.[END]
-139-41E:
+139-41E:[ALTERNATEFONT]@nicht gefangen[BREAK]  mehr wollen.[WAIT]@gottesanbeter[BREAK]  gruselig.[END]
 139-42:[ALTERNATEFONT]@always get catched.[BREAK]  barley tea.[END]
-139-42E:
+139-42E:[ALTERNATEFONT]@immer gefangen[BREAK]  werden.[BREAK]  gerstentee.[END]
 139-43:[ALTERNATEFONT]@potential![END]
-139-43E:
+139-43E:[ALTERNATEFONT]@potential![END]
 // Repeats: 99-14, 139-43
 139-44:[ALTERNATEFONT]@sprinkle water[BREAK]  on floor?[WAIT]  no sprinkle?[WAIT]@is dry.[END]
-139-44E:
+139-44E:[ALTERNATEFONT]@spritzig wasser[BREAK]  auf boden?[WAIT]  nicht spritzig?[WAIT]@ist trocken.[END]
 139-45:@There are some things I want to forget...[PAUSE 20 00][BREAK]  and some things I have forgotten...[WAIT][PAUSE 0F 00]  but have you forgotten me?[WAIT]@It's me, the Rope Snake.[WAIT]@I apologize for the trouble I caused before.[WAIT]@No,[PAUSE 0F 00] I'm not depressed.[WAIT]@I'm not.[WAIT]@Really. I'm not depressed.[END]
 139-45E:
 139-46:@Until the day comes when I can be useful[BREAK]  again...[WAIT]  I'll...[PAUSE 20 00] I'll...[PAUSE 20 00][BREAK]  I'll devote myself to being patient![END]
@@ -12481,7 +12481,7 @@
 321-93:@Okay! Let's go![END]
 321-93E:
 321-94:@[DUSTER 23 03 00] joined your party![PAUSE 68 01][END]
-321-94E:
+321-94E:@[DUSTER 23 03 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 139-25, 321-94
 321-95:[END]
 321-95E:
