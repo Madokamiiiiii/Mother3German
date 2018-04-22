@@ -6895,21 +6895,21 @@
 
 [Container 127]
 127-0:@Oh, hi, Mr. Thief-Who-Doesn't-Take-Anything.[END]
-127-0E:
+127-0E: @Oh, hi, Herr Dieb-der-nicht-alles-stiehlt.[END]
 127-1:@Oh, what a rare sight.[END]
-127-1E:
+127-1E:@Oh, was für ein seltener Besuch.[END]
 127-2:@Hey there, [DUSTER 22 0F 00]. You look sleepy.[END]
-127-2E:
+127-2E:@Hey [DUSTER 22 0F 00]. Du siehst müde aus.[END]
 127-3:@[DUSTER 23 03 00]. Are you trying to be a devoted[BREAK]  son or something?[WAIT]  Is that what this is?[END]
-127-3E:
+127-3E:@[DUSTER 23 03 00]. Versuchst du ein ergebener[BREAK]  Sohn oder sowas zu sein?[WAIT]  Ist es das, was es ist?[END]
 127-4:@I really enjoyed that dance of yours earlier.[WAIT]@But that man's speech was kind of creepy.[END]
-127-4E:
+127-4E:@Dein Tanz vorhin war einfach super.[WAIT]@Aber die Rede von diesem Mann war irgendwie[BREAK]  gruselig.[END]
 127-5:@I don't need happiness. It's already right by my[BREAK]  side.[END]
-127-5E:
+127-5E:@Ich brauch keine Glückseligkeit. Es ist bereits[BREAK]  an meiner Seite.[END]
 127-6:@I'd really appreciate it if you wouldn't put any[BREAK]  weird ideas into Isaac's head...[END]
-127-6E:
+127-6E:@Es wäre wirklich schön, wenn du keine[BREAK]  komischen Ideen in Isaacs Kopf legst...[END]
 127-7:[END]
-127-7E:
+127-7E:[END]
 
 [Container 128]
 128-0:@[FLINT 23 01 00]...[WAIT]@Umm...[WAIT]@Please just forget that you hit me.[WAIT]@I'm going to forget about it.[WAIT]@Compared to your pain, this is nothing at all.[END]
@@ -7367,55 +7367,55 @@
 
 [Container 140]
 140-0:@You weakling, stinkling Mr. Saturns![WAIT]@Don't force us to use this Frightbot to make[BREAK]  you cry![END]
-140-0E:
+140-0E:@Ihr verdammten, stinkenden Mr. Saturns![WAIT]@Zwingt uns nicht dazu diesen Angstbot zu[BREAK]  verwenden um euch zum Weinen zu bringen![END]
 140-1:@Enough of your stupid nonsense![WAIT]@Tell us where the Needle is, or we'll make it[BREAK]  tell you even scarier stories![END]
-140-1E:
+140-1E:@Genug mit eurem blödem Unsinn![WAIT]@Sagt uns, wo die Nadel ist, oder ihr bekommt[BREAK]  noch viel gruseligere Geschichten zu hören![END]
 140-2:@OKAY, LET'S GET STARTED![WAIT]@THIS IS GOING TO BE SCARY![BREAK]  SO LISTEN GOOD...![end]
-140-2E:
+140-2E:@OKAY, FANGEN WIR AN![WAIT]@JETZT WIRD ES GRUSELIG![BREAK]  HÖRT GUT ZU...![END]
 140-3:@AHH! NON-MR. SATURNS![EVENT][END]
-140-3E:
+140-3E:@AHH! NICHT-MR. SATURNS![EVENT][END]
 140-4:@WHAT ARE YOU DOING HERE?![BREAK]  WE'LL BEAT YOU GOOD![END]
-140-4E:
+140-4E:@WAS MACHT IHR HIER?![BREAK]  WIR SCHLAGEN EUCH ZU KLEINHOLZ![END]
 140-5:[ALTERNATEFONT]@hi hi hi.[WAIT]@you come buying?[WAIT]@you can sell, too.[WAIT]@i, mr. saturn, boing,[BREAK]  can do all for you.[WAIT]@you want buy, zoom?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-140-5E:
+140-5E:[ALTERNATEFONT]@hi hi hi.[WAIT]@du kaufen kommen?[WAIT]@du auch verkaufen.[WAIT]@ich, mr. saturn,[BREAK]  boing, alles før[WAIT]  dich tun kœnnen.[WAIT]@du wollen kaufen,[BREAK]  zoom?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 140-6:[ALTERNATEFONT]@thank you.[WAIT]@boing![END]
-140-6E:
+140-6E:[ALTERNATEFONT]@danke.[WAIT]@boing![END]
 140-7:[ALTERNATEFONT]@no?[WAIT]@no buyooooola?[END]
-140-7E:
+140-7E:[ALTERNATEFONT]@nein?[WAIT]@nein kauoooofen?[END]
 140-8:[ALTERNATEFONT]@thank you.[BREAK]  happy.[END]
-140-8E:
+140-8E:[ALTERNATEFONT]@danke.[BREAK]  gløcklich.[END]
 140-9:[ALTERNATEFONT]@thank you thank you.[BREAK]  yes, zoom.[END]
-140-9E:
+140-9E:[ALTERNATEFONT]@danke danke.[BREAK]  ja, zoom.[END]
 140-10:[ALTERNATEFONT]@come again.[WAIT]  what is come again?[END]
-140-10E:
+140-10E:[ALTERNATEFONT]@komm wieder.[WAIT]  was sein komm[BREAK]  wieder?[END]
 140-11:[ALTERNATEFONT]@ding.[BREAK]  looking this way.[END]
-140-11E:
+140-11E:[ALTERNATEFONT]@ding.[BREAK]  hierhin schauen.[END]
 140-12:[ALTERNATEFONT]@thank goodness.[BREAK]  am smiling.[END]
-140-12E:
+140-12E:[ALTERNATEFONT]@gott sei dank.[BREAK]  læcheln.[END]
 140-13:[ALTERNATEFONT]@am happy.[BREAK]  am in trouble.[WAIT]@no, wait.[WAIT]  am happy.[END]
-140-13E:
+140-13E:[ALTERNATEFONT]@gløcklich sein.[BREAK]  in problem sein.[WAIT]@nein, warte.[WAIT]  gløcklich sein.[END]
 140-14:[ALTERNATEFONT]@saved.[BREAK]  zoom zoom.[END]
-140-14E:
+140-14E:[ALTERNATEFONT]@gerettet.[BREAK]  zoom zoom.[END]
 140-15:[END]
-140-15E:
+140-15E:[END]
 
 [Container 141]
 141-0:@OKAY! HERE COMES THE SCARY![END]
-141-0E:
+141-0E:@OKAY! JETZT WIRD'S GRUSELIG![END]
 141-1:@AHH! NON-SCARING PEOPLE![END]
-141-1E:
+141-1E:@AHH! NICHT-GEGRUSELTE LEUTE![END]
 141-2:[ALTERNATEFONT]@was scary,[BREAK]  but now unscary.[END]
-141-2E:
+141-2E:[ALTERNATEFONT]@gruselig waren,[BREAK]  jetzt ungruselig.[END]
 141-3:[ALTERNATEFONT]@not scary[BREAK]  is not scary.[END]
-141-3E:
+141-3E:[ALTERNATEFONT]@nicht gruselig[BREAK]  ist nicht gruselig.[END]
 141-4:[ALTERNATEFONT]@am reliefed.[END]
-141-4E:
+141-4E:[ALTERNATEFONT]@erleichtert bin.[END]
 141-5:[ALTERNATEFONT]@will watch mantis.[END]
-141-5E:
+141-5E:[ALTERNATEFONT]@werden schauen[BREAK]  gottesanbeterin.[END]
 141-6:[ALTERNATEFONT]@sleep at eleven.[WAIT]  thank you, boing.[END]
-141-6E:
+141-6E:[ALTERNATEFONT]@um elf schlafen.[WAIT]  danke, boing.[END]
 141-7:[ALTERNATEFONT]@me too. boing.[END]
-141-7E:
+141-7E:[ALTERNATEFONT]@ich auch. boing.[END]
 
 [Container 142]
 142-0:@[LUCAS 26 03 00 03 00]!![BREAK]  How long're you gonna sleep?![WAIT]  Get up so we can play![WAIT]@Get up, already![WAIT]@The Dragos brought their babies over![WAIT]@They're really cute!![WAIT]@Hurry up![END]
@@ -7433,259 +7433,259 @@
 
 [Container 143]
 143-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
-143-0E:
+143-0E:@Oh, [LUCAS 22 03 00].[WAIT]@Ich muss schon sagen, dein Haus muss es[BREAK]  lieben vom Blitz getroffen zu werden![WAIT]@Hast du vor nach dem ganzen Feuer und[BREAK]  Verbrennen und was weiß ich nicht alles[WAIT]  IMMER NOCH darin leben?[WAIT]@Ich muss zugeben, es ist ein harter Schlag für[BREAK]  Tazmilys Image.[WAIT]@Oh, ja, ja...[WAIT]@Dein mütterlicher Großvater ist in das neue[BREAK]  und glänzende Seniorenheim gezogen.[WAIT]@Wo ist es? ...Dort entlang, in diese Richtung. 143-0[END]
 // Repeats: 143-0, 149-0, 161-0
 143-1:@How many hundreds of times must I say it?![BREAK]  The retirement home is that-a-way![END]
-143-1E:
+143-1E:@Wie oft muss ich es noch sagen?![BREAK]  Das Seniorenheim ist in diese Richtung![END]
 // Repeats: 143-1, 149-1, 161-1
 143-2:@Oh, hello, [LUCAS 22 03 00].[WAIT]@Don't bother Mr. Fassad and the others too[BREAK]  much, now.[END]
-143-2E:
+143-2E:@Oh, hallo, [LUCAS 22 03 00].[WAIT]@Stör Herrn Fassad und die anderen jetzt bitte[BREAK]  nicht zu sehr.[END]
 // Repeats: 143-2, 149-2, 161-2
 143-3:@What a rebellious look![END]
-143-3E:
+143-3E:@Was für ein rebellischer Blick![END]
 // Repeats: 143-3, 149-3, 161-3
 143-4:@This is a peaceful village.[WAIT]@There is no way an uproar would ever happen[BREAK]  here.[WAIT]@But, even if by chance something uproar-like[BREAK]  did happen...[WAIT]  ...it wouldn't be my fault.[WAIT]@Understand, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Well, do you?[END]
-143-4E:
+143-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 143-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-143-5E:
+143-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 143-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
-143-6E:
+143-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
 // Repeats: 143-6, 149-6, 161-6
 143-7:@Hate me.[WAIT]@Hate me more.[WAIT]@It would be easier for me knowing that you[BREAK]  hate me.[WAIT]@Ohohoho![END]
-143-7E:
+143-7E:@Hasse mich.[WAIT]@Hasse mich mehr.[WAIT]@Es wäre besser für mich, wenn ich wüsste,[BREAK]  dass du mich hasst.[WAIT]@Ohohoho![END]
 // Repeats: 143-7, 149-7, 161-7
 143-8:@The village's progress is my progress.[WAIT]@I get bigger and more important by the day.[WAIT]@Understand?[END]
-143-8E:
+143-8E:@Des Dorfes Fortschritt ist mein Fortschritt.[WAIT]@Ich werde mit jedem Tag größer und wichtiger.[WAIT]@Verstehst du?[END]
 // Repeats: 143-8, 149-8, 161-8
 143-9:@Oh, if it isn't [LUCAS 22 03 00].[WAIT]@Everyone's talking about how you've been[BREAK]  living it up at clubs instead of coming home.[WAIT]@And then there's [FLINT 22 01 00], always[BREAK]  wandering around in the mountains, aimlessly.[WAIT]  You're such a weird family.[END]
-143-9E:
+143-9E:@Oh, wenn das mal nicht [LUCAS 22 03 00] ist.[WAIT]@Alle reden darüber, wie du lieber in Clubs gehst[BREAK]  als nach Hause kommst.[WAIT]@Und dann gibt es noch [FLINT 22 01 00], immer[BREAK]  in den Bergen ziellos herumrennend.[WAIT]  Du hast so eine komische Familie.[END]
 // Repeats: 143-9, 149-9, 161-9
 143-10:@W-w-what?! What?![WAIT]@What're you trying to scare me for?![WAIT]@Get out of here! Leave![WAIT]@Leave this village![END]
-143-10E:
+143-10E:@W-w-was?! Was?![WAIT]@Wieso versuchst du mich zu erschrecken?![WAIT]@Raus hier! Verschwinde![WAIT]@Verlasse dieses Dorf![END]
 // Repeats: 143-10, 149-10, 161-10
 143-11:@Eww! You filthy thing! Shoe![WAIT]@Huh? Shoe? Shoo?[BREAK]  ...[PAUSE 20 00]Get out![END]
-143-11E:
+143-11E:@Eww! Du dreckiges Ding! Husch![WAIT]@Häh? Husch? Hasch?[BREAK]  ...[PAUSE 20 00]Verschwinde! 143-11 pun funzt nicht[END]
 // don't like this pun in English, but oh well
 // Repeats: 143-11, 149-11, 161-11
 143-12:@First there's a fire, then lightning, and now[BREAK]  earthquakes?![WAIT]@Why does this have to happen to us?[WAIT]@Actually, when I think about it, I somehow get[BREAK]  the feeling this is all your fault.[WAIT]@Please stay away from us, if you'd be so kind![END]
-143-12E:
+143-12E:@Zuerst gibt es ein Feuer, dann Gewitter, und jetzt Erdbeben?![WAIT]@Warum passiert uns das?[WAIT]@Nun, wenn ich darüber nachdenke, dann[BREAK]  bekomme ich irgendwie das Gefühl, dass das[WAIT]  alles deine Schuld ist.[WAIT]
 // Repeats: 143-12, 149-12, 161-12
 143-13:@You don't seem to take hints very well, so I'll[BREAK]  just come out and say it.[WAIT]  My family[PAUSE 1E 00] hates you.[WAIT]@Why do you keep coming here?[WAIT]@Yet, even after I've said this, I just know[BREAK]  you'll keep coming back.[END]
-143-13E:
+143-13E:@Du scheinst Andeutungen nicht so gut zu ver-[BREAK]  stehen, also werde ich es einfach aussprechen.[WAIT]  Meine Familie[PAUSE 1E 00] hasst dich.[WAIT]@Wieso kommst du immer wieder hierher?[WAIT]@Auch nachdem ich dir das gesagt habe, weiß[BREAK]  ich einfach, dass du wieder kommen wirst.[END]
 // Repeats: 143-13, 149-13, 161-13
 143-14:@We STILL can't move out, because of my[BREAK]  husband's job.[WAIT]@Oh, why did he have to be the mayor of[BREAK]  this dinky little village?[END]
-143-14E:
+143-14E:@Wir können wegen den Job meines Ehemanns[BREAK]  IMMER NOCH nicht ausziehen.[WAIT]@Oh, warum muss er der Bürgermeister dieses[BREAK]  schäbigen, kleinen Dorfes sein?
 // Repeats: 143-14, 149-14, 161-14
 143-15:@A nice vase.[END]
-143-15E:
+143-15E:@Eine schöne Vase.[END]
 // Repeats: 143-15, 149-15, 161-15
 
 [Container 145]
 145-0:@Regular ol' mice, run-of-the-mill snakes,[BREAK]  and ordinary Dragos...[WAIT]@When you think about it, the forest sure was[BREAK]  boring until three years ago.[END]
-145-0E:
+145-0E:@Normale Mäuse, 08/15 Schlangen, und[BREAK]  gewöhnliche Dragos...[WAIT]@Wenn man so darüber nachdenkt, dann war der[BREAK]  Wald vor drei Jahren ziemlich langweilig.[END]
 145-1:[END]
-145-1E:
+145-1E:[END]
 
 [Container 146]
 146-0:[END]
-146-0E:
+146-0E:[END]
 146-1:[END]
-146-1E:
+146-1E:[END]
 
 [Container 147]
 147-0:[END]
-147-0E:
+147-0E:[END]
 147-1:[END]
-147-1E:
+147-1E:[END]
 
 [Container 148]
 148-0:@I haven't seen ol' [FLINT 23 01 00] lately.[BREAK]  How's he doing?[WAIT]@Is he visiting her grave again?[END]
-148-0E:
+148-0E:@Ich habe den alten [FLINT 23 01 00] zuletzt gar[BREAK]  nicht gesehen.[BREAK]  Wie geht's ihm?[WAIT]@Besucht er wieder ihr Grab?[END]
 148-1:@I hear they're digging stuff up over at the[BREAK]  factory.[WAIT]@Dunno why, but there's something iffy about[BREAK]  that place.[END]
-148-1E:
+148-1E:@Ich habe gehört, dass sie drüben an der Fabrik[BREAK]  irgendwas ausbuddeln.[WAIT]@Kein Plan wieso, aber irgendwas stinkt da[BREAK]  doch gewaltig.[END]
 148-2:@Heya, [DUSTER 22 0F 00]. Haven't seen you in[BREAK]  three whole years.[WAIT]@Have you gotten a little condor--[WAIT]@Wait, that's not the word.[WAIT]@Have you gotten a little balder?[WAIT]  Gahahaha.[END]
-148-2E:
+148-2E:@Heya, [DUSTER 22 0F 00]. Hab dich seit drei[BREAK]  ganzen Jahren nicht mehr gesehen.[WAIT]@Bist du etwas condor-[WAIT]@Warte, das ist nicht das richtige Wort.[WAIT]@Bist du etwas kahler geworden?[WAIT]  Gahahaha.[END]
 148-3:@You've really grown up.[WAIT]@You even look a little like [FLINT 22 01 00] now.[WAIT]@Oh, but you look like [HINAWA 22 08 00], too.[WAIT]@But you look most like your twin brother[BREAK]  [CLAUS 22 05 00], of course.[WAIT]@I wonder where he is and what he's up to...[END]
-148-3E:
+148-3E:@Du bist ganz schön gewachsen.[WAIT]@Du siehst jetzt sogar ein bisschen wie[BREAK]  [FLINT 22 01 00] aus.[WAIT]@Oh, aber du siehst auch etwas wie[BREAK]  [HINAWA 22 08 00] aus.[WAIT]@Aber am meisten siehst du natürlich deinem[BREAK]  Zwillingsbruder [CLAUS 22 05 00] ähnlich.[WAIT]@Ich frage mich, wo er ist und was er macht...[END]
 
 [Container 149]
 149-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
-149-0E:
+149-0E:@Oh, [LUCAS 22 03 00].[WAIT]@Ich muss schon sagen, dein Haus muss es[BREAK]  lieben vom Blitz getroffen zu werden![WAIT]@Hast du vor nach dem ganzen Feuer und[BREAK]  Verbrennen und was weiß ich nicht alles[WAIT]  IMMER NOCH darin leben?[WAIT]@Ich muss zugeben, es ist ein harter Schlag für[BREAK]  Tazmilys Image.[WAIT]@Oh, ja, ja...[WAIT]@Dein mütterlicher Großvater ist in das neue[BREAK]  und glänzende Seniorenheim gezogen.[WAIT]@Wo ist es? ...Dort entlang, in diese Richtung. 143-0[END]
 // Repeats: 143-0, 149-0, 161-0
 149-1:@How many hundreds of times must I say it?![BREAK]  The retirement home is that-a-way![END]
-149-1E:
+149-1E:@Wie oft muss ich es noch sagen?![BREAK]  Das Seniorenheim ist in diese Richtung![END]
 // Repeats: 143-1, 149-1, 161-1
 149-2:@Oh, hello, [LUCAS 22 03 00].[WAIT]@Don't bother Mr. Fassad and the others too[BREAK]  much, now.[END]
-149-2E:
+149-2E:@Oh, hallo, [LUCAS 22 03 00].[WAIT]@Stör Herrn Fassad und die anderen jetzt bitte[BREAK]  nicht zu sehr.[END]
 // Repeats: 143-2, 149-2, 161-2
 149-3:@What a rebellious look![END]
-149-3E:
+149-3E:@Was für ein rebellischer Blick![END]
 // Repeats: 143-3, 149-3, 161-3
 149-4:@This is a peaceful village.[WAIT]@There is no way an uproar would ever happen[BREAK]  here.[WAIT]@But, even if by chance something uproar-like[BREAK]  did happen...[WAIT]  ...it wouldn't be my fault.[WAIT]@Understand, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Well, do you?[END]
-149-4E:
+149-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 149-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-149-5E:
+149-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 149-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
-149-6E:
+149-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
 // Repeats: 143-6, 149-6, 161-6
 149-7:@Hate me.[WAIT]@Hate me more.[WAIT]@It would be easier for me knowing that you[BREAK]  hate me.[WAIT]@Ohohoho![END]
-149-7E:
+149-7E:@Hasse mich.[WAIT]@Hasse mich mehr.[WAIT]@Es wäre besser für mich, wenn ich wüsste,[BREAK]  dass du mich hasst.[WAIT]@Ohohoho![END]
 // Repeats: 143-7, 149-7, 161-7
 149-8:@The village's progress is my progress.[WAIT]@I get bigger and more important by the day.[WAIT]@Understand?[END]
-149-8E:
+149-8E:@Des Dorfes Fortschritt ist mein Fortschritt.[WAIT]@Ich werde mit jedem Tag größer und wichtiger.[WAIT]@Verstehst du?[END]
 // Repeats: 143-8, 149-8, 161-8
 149-9:@Oh, if it isn't [LUCAS 22 03 00].[WAIT]@Everyone's talking about how you've been[BREAK]  living it up at clubs instead of coming home.[WAIT]@And then there's [FLINT 22 01 00], always[BREAK]  wandering around in the mountains, aimlessly.[WAIT]  You're such a weird family.[END]
-149-9E:
+149-9E:@Oh, wenn das mal nicht [LUCAS 22 03 00] ist.[WAIT]@Alle reden darüber, wie du lieber in Clubs gehst[BREAK]  als nach Hause kommst.[WAIT]@Und dann gibt es noch [FLINT 22 01 00], immer[BREAK]  in den Bergen ziellos herumrennend.[WAIT]  Du hast so eine komische Familie.[END]
 // Repeats: 143-9, 149-9, 161-9
 149-10:@W-w-what?! What?![WAIT]@What're you trying to scare me for?![WAIT]@Get out of here! Leave![WAIT]@Leave this village![END]
-149-10E:
+149-10E:@W-w-was?! Was?![WAIT]@Wieso versuchst du mich zu erschrecken?![WAIT]@Raus hier! Verschwinde![WAIT]@Verlasse dieses Dorf![END]
 // Repeats: 143-10, 149-10, 161-10
 149-11:@Eww! You filthy thing! Shoe![WAIT]@Huh? Shoe? Shoo?[BREAK]  ...[PAUSE 20 00]Get out![END]
-149-11E:
+149-11E:@Eww! Du dreckiges Ding! Husch![WAIT]@Häh? Husch? Hasch?[BREAK]  ...[PAUSE 20 00]Verschwinde! 143-11 pun funzt nicht[END]
 // Repeats: 143-11, 149-11, 161-11
 149-12:@First there's a fire, then lightning, and now[BREAK]  earthquakes?![WAIT]@Why does this have to happen to us?[WAIT]@Actually, when I think about it, I somehow get[BREAK]  the feeling this is all your fault.[WAIT]@Please stay away from us, if you'd be so kind![END]
-149-12E:
+149-12E:@Zuerst gibt es ein Feuer, dann Gewitter, und jetzt Erdbeben?![WAIT]@Warum passiert uns das?[WAIT]@Nun, wenn ich darüber nachdenke, dann[BREAK]  bekomme ich irgendwie das Gefühl, dass das[WAIT]  alles deine Schuld ist.[WAIT]
 // Repeats: 143-12, 149-12, 161-12
 149-13:@You don't seem to take hints very well, so I'll[BREAK]  just come out and say it.[WAIT]  My family[PAUSE 1E 00] hates you.[WAIT]@Why do you keep coming here?[WAIT]@Yet, even after I've said this, I just know[BREAK]  you'll keep coming back.[END]
-149-13E:
+149-13E:@Du scheinst Andeutungen nicht so gut zu ver-[BREAK]  stehen, also werde ich es einfach aussprechen.[WAIT]  Meine Familie[PAUSE 1E 00] hasst dich.[WAIT]@Wieso kommst du immer wieder hierher?[WAIT]@Auch nachdem ich dir das gesagt habe, weiß[BREAK]  ich einfach, dass du wieder kommen wirst.[END]
 // Repeats: 143-13, 149-13, 161-13
 149-14:@We STILL can't move out, because of my[BREAK]  husband's job.[WAIT]@Oh, why did he have to be the mayor of[BREAK]  this dinky little village?[END]
-149-14E:
+149-14E:@Wir können wegen den Job meines Ehemanns[BREAK]  IMMER NOCH nicht ausziehen.[WAIT]@Oh, warum muss er der Bürgermeister dieses[BREAK]  schäbigen, kleinen Dorfes sein?
 // Repeats: 143-14, 149-14, 161-14
 149-15:@A nice vase.[END]
-149-15E:
+149-15E:@Eine schöne Vase.[END]
 // Repeats: 143-15, 149-15, 161-15
 149-16:@*gasp*[BREAK][PAUSE 18 00]  Busy, so busy![END]
-149-16E:
+149-16E:@*keuch*[BREAK][PAUSE 18 00]  Beschäftigt, so beschäftigt![END]
 149-17:@*pant*[BREAK][PAUSE 18 00]  Busy, so busy![END]
-149-17E:
+149-17E:@*schnauf*[BREAK][PAUSE 18 00]  Beschäftigt, so beschäftigt![END]
 149-18:@*wheeze*[BREAK][PAUSE 18 00]  Busy, so busy![END]
-149-18E:
+149-18E:@*röchel*[BREAK][PAUSE 18 00]  Beschäftigt, so beschäftigt![END]
 149-19:@*huff*[BREAK][PAUSE 18 00]  Busy, so busy![END]
-149-19E:
+149-19E:@*schnaub*[BREAK][PAUSE 18 00]  Beschäftigt, so beschäftigt![END]
 149-20:@*gasp* *hack*[BREAK][PAUSE 18 00]  Busy, so busy![END]
-149-20E:
+149-20E:@*keuch* *hust*[BREAK][PAUSE 18 00]  Beschäftigt, so beschäftigt![END]
 149-21:@I know I look really important in some way,[WAIT]  but REALLY, I'm the sidest of side-characters.[WAIT]@My name is Sebastian, and working busily is all[BREAK]  I do.[END]
-149-21E:
+149-21E:@Ich weiß, dass ich sehr wichtig aussehe.[WAIT]  aber WIRKLICH, ich bin der nebenste der[BREAK]  Nebencharaktere.[WAIT]@Ich heiße Sebastian, und fleißig arbeiten ist[BREAK]  alles, was ich tue.[END]
 149-22:@This is just between you and me, but I've[BREAK]  landed a new job in the city.[WAIT]@I couldn't care less about the mayor and his[BREAK]  wife.[WAIT]@So I'm going to suddenly up and disappear in a[BREAK]  day or two.[WAIT]@Ack![PAUSE 18 00] Busy! So busy![END]
-149-22E:
+149-22E:@Das ist jetzt nur zwischen dir und mir, aber ich[BREAK]  habe einen neuen Job in der Stadt bekommen.[WAIT]@Mir könnte der Bürgermeister und seine Frau[BREAK]  gar nicht egaler sein.[WAIT]@Also werde ich plötzlich aufsteigen und in ein[BREAK]  oder zwei Tagen verschwinden.[WAIT]@Ack![PAUSE 18 00] Beschäftigt! So beschäftigt![END]
 149-23:[END]
-149-23E:
+149-23E:[END]
 
 [Container 150]
 150-0:@Some moron by the name of [FLINT 23 01 00][BREAK]  busted the lock on this door.[WAIT]@So now I have to stand here like this to hold it[BREAK]  shut.[END]
-150-0E:
+150-0E:@Irgendein Depp bei den Namen [FLINT 23 01 00][BREAK]  hat das Schloss zu dieser Tür kaputt gemacht.[WAIT]@Also muss ich jetzt hier stehen um die Tür zu[BREAK]  zu halten.[END]
 150-1:@This village used to have no policemen at all?[WAIT]@You gotta be kidding me![END]
-150-1E:
+150-1E:@Dieses Dorf hatte gar keine Polizei?[WAIT]@Du willst mich doch verarschen![END]
 150-2:@Things've really quieted down here.[WAIT]@It's just me and the dog now.[END]
-150-2E:
+150-2E:@Dinge haben sich wirklich beruhigt.[WAIT]@Jetzt sind es nur noch ich und der Hund.[END]
 150-3:@Please don't stare directly at me.[WAIT]@It might make me want to arrest you.[END]
-150-3E:
+150-3E:@Bitte starr uns nicht so an.[WAIT]@Es bringt mich vielleicht dazu dich in den[BREAK]  Knast zu werfen.[END]
 150-4:@I got busted for larceny, when all I did was pick[BREAK]  up a doorknob I found on the ground.[WAIT]@This isn't fair...[END]
 150-4E:
 150-5:@Huh? Where's the doorknob now?[WAIT]  How should I know?![WAIT]@Maybe it was sent to the forensics lab or[BREAK]  something?[END]
-150-5E:
+150-5E:@Häh? Wo ist der Türknopf jetzt?[WAIT]  Woher soll ich das wissen?![WAIT]@Vielleicht wurde es zum Forensiks Labor oder[BREAK]  sowas geschickt?[END]
 150-6:@This policeman suddenly made the ruling[BREAK]  against me just now.[WAIT]@This has to be a joke![WAIT]  A 20 million year prison sentence?![END]
-150-6E:
+150-6E:@Die Polizisten haben jetzt plötzlich den[BREAK]  Urteilsspruch gegen mich gewendet.[WAIT]@Das muss ein Witz sein![WAIT]  Eine 20 Millionen Jahre Gefängnisstrafe?![END]
 150-7:@Bow-wow![BREAK]  (It looks like I've been arrested,[WAIT]  but I actually came in here on my own.[WAIT]  I don't care what anyone says. I'm not coming[BREAK]  out.)[END]
-150-7E:
+150-7E:@Buh-huh![BREAK]  (Es sieht so aus, als wäre ich in den Knast[BREAK]  geworfen worden. aber eigentlich bin ich[WAIT]  freiwillig hierher gekommen.[WAIT]  Mir ist es egal, was alle sagen. Ich gehe hier[BREAK]  nicht raus.)[END]
 150-8:@Bow-wooow.[WAIT]  (Wherever [NOTE] we [NOTE] stray [NOTE] dogs [NOTE] go... [NOTE][WAIT][PAUSE 3C 00]  ...That's as far as the song goes so far.)[END]
-150-8E:
+150-8E:@Buh-huuuuh.[WAIT]  (Woimmer [NOTE] wir [NOTE] Streuner [NOTE] Hunde [NOTE][BREAK]  gehen... [NOTE][WAIT][PAUSE 3C 00]  ...Weiter geht das Lied noch nicht.)[END]
 150-9:@Bow. Bow-wow.[WAIT]  (I don't want to go to the city. I like it here.)[END]
-150-9E:
+150-9E:@Buh. Buh-huh.[WAIT]  (Ich will nicht in die Stadt. Ich mag es hier.)[END]
 150-10:@Bow.[WAIT]  (When you think about it, a lot has happened.[WAIT]  I'm reminded of so many things.[WAIT]  I'm now a stray dog with a home.[WAIT]  But I have no owner.[WAIT]  That's my story.)[END]
-150-10E:
+150-10E:@Buh.[WAIT]  (Wenn man so darüber nachdenkt, ist eine[BREAK]  Menge passiert.[WAIT]  Ich erinnere mich an so viele Dinge.[WAIT]  Ich bin jetzt ein Streuner mit einem zu Hause.[WAIT]  Aber ich habe keinen Besitzer.[WAIT]  Das ist meine Geschichte.)[END]
 150-11:[END]
-150-11E:
+150-11E:[END]
 
 [Container 152]
 152-0:@Dona's training kickboard.[BREAK]  She doesn't know how to swim.[END]
-152-0E:
+152-0E:@Donas Trainingsschwimmbrett.[BREAK]  Sie weiß nicht, wie man schwimmt.[END]
 152-1:@Dona's surfboard.[BREAK]  She doesn't know how to swim.[END]
-152-1E:
+152-1E:@Donas Schwimmbrett.[BREAK]  Sie weiß nicht, wie man schwimmt.[END]
 
 [Container 153]
 153-0:@In the old days, we sent letters by dove.[WAIT]@And now look at how we do things.[END]
-153-0E:
+153-0E:@Früher haben wir Briefe mit der Taube[BREAK]  verschickt.[WAIT]@Und jetzt schau wie wir Dinge jetzt machen.[END]
 153-1:@Oh, I see you have a train map there.[WAIT]@Trains are convenient, but the fact you can't[BREAK]  get off along the way is inconvenient.[END]
-153-1E:
+153-1E:@Oh, du hast ja eine Zugkarte.[WAIT]@Züge sind bequem, aber die Tatsache, dass[BREAK]  man nicht mittendrin aussteigen kann, ist[WAIT]  unbequem.[END]
 // This was a semi-bad pun in Japanese, but I just avoided it altogether in English
 153-2:@I see you still wander around as scatterbrained[BREAK]  as always.[WAIT]@I'm busy sorting letters.[WAIT]@Please don't bother me.[END]
-153-2E:
+153-2E:@Du läufst so schusselig wie immer herum.[WAIT]@Ich sortiere gerade Briefe.[WAIT]@Bitte stör mich nicht.[END]
 153-3:@I'm not sure why, but that person with you[BREAK]  gives off a magical vibe.[END]
-153-3E:
+153-3E:@Ich weiß nicht warum, aber diese Person bei[BREAK]  dir hat so eine "magische Aura".[END]
 153-4:@Don't you want to go to the city,[BREAK]  [LUCAS 23 02 00]?[END]
-153-4E:
+153-4E:@Willst du nicht in die Stadt, [LUCAS 23 02 00]?[END]
 153-5:[END]
-153-5E:
+153-5E:[END]
 
 [Container 154]
 154-0:@Oh, [LUCAS 22 03 00].[WAIT]@Do you still not have a Happy Box at home?[END]
-154-0E:
+154-0E:@Oh, [LUCAS 22 03 00].[WAIT]@Besitzt du immer noch keine[BREAK]  Glückseeligkeitsbox?[END]
 154-1:@Out taking your dog for a walk?[WAIT]@You must really think you're someone special.[BREAK]  Seriously, you don't even work.[WAIT]@Even kids are working at the factory[BREAK]  nowadays, you know.[END]
-154-1E:
+154-1E:@Du führst deinen Hund aus?[WAIT]@Du musst wohl denken, dass du was besonde-[BREAK]  res bist. Ernsthaft, du arbeitest nicht einmal.[WAIT]@Sogar Kinder arbeiten heutzutage in der Fabrik,[BREAK]  weiß du.[END]
 154-2:@Huh?! You're going to Club Titiboo?[BREAK]@Oh, you're so lucky! I wish I could go, too![WAIT]@I don't have money for the train, but I hear you[BREAK]  can get there on foot.[END]
-154-2E:
+154-2E:@Häh?! Du gehst in den Club Titiboo?[BREAK]@Oh, du hast so viel Glück! Ich wünschte,[WAIT]  ich könnte auch dorthin![WAIT]@Ich habe kein Geld für den Zug, aber ich habe[BREAK]  gehört, dass man auch zu Fuß dorthin kann.[END]
 154-3:@You're going there to meet the bassist?[WAIT]@Why's that, now?[WAIT]@Because he looks like [DUSTER 22 0F 00]?[WAIT]@Oh, I play the bass, too, you know.[BREAK]  Wait. No, I don't.[WAIT]@I play the fool. All the time.[END]
-154-3E:
+154-3E:@Du gehst dahin um den Bassist zu treffen?[WAIT]@Warum das denn?[WAIT]@Weil er wie [DUSTER 22 0F 00] aussieht?[WAIT]@Oh, ich spiele auch Bass, weißt du.[BREAK]  Warte. Nein, tu ich nicht.[WAIT]@Ich spiele Dödel. Die ganze Zeit.[END]
 154-4:@Hey! Hey![WAIT]  So, how was Titiboo?[END]
-154-4E:
+154-4E:@Hey! Hey![WAIT]  Also, wie war Titiboo?[END]
 154-5:@What...?[BREAK]  What?! What?! What?![WAIT]@Oh, it's nothing?[WAIT]@Oh.[WAIT]@Peaches are my favorite food.[END]
-154-5E:
+154-5E:@Was...?[BREAK]  Was?! Was?! Was?![WAIT]@Oh, es ist nichts?[WAIT]@Oh.[WAIT]@Pfirsiche sind mein Lieblingsessen.[END]
 154-6:@Happy Boxes are wonderful, you know![WAIT]@Just looking at one makes you feel happy.[WAIT]@[LUCAS 22 03 00]. Why don't you try looking at[BREAK]  one, just once?[END]
-154-6E:
+154-6E:@Glückseeligkeitsboxen sind super, weißt du![WAIT]@Nur das Anschauen macht die glücklich.[WAIT]@[LUCAS 22 03 00]. Warum versuchst es nicht[BREAK]  mal, indem du dir eine anschaust, nur einmal?[END]
 154-7:@Do you know about the big city?[WAIT]@I bet there's much more happiness there than[BREAK]  in this entire village![END]
-154-7E:
+154-7E:@Kennst du die Großstadt?[WAIT]@Ich wette, dass es dort noch viel Glückseelig-[BREAK]  keit gibt, als in diesem Dorf![END]
 154-8:@Each time my old man gets a year older, his[BREAK]  "me"-ness gets worse and worse.[WAIT]@Me, me, me, me, me...[PAUSE 20 00] It gets so annoying![END]
-154-8E:
+154-8E:@Jedes Mal, wenn mein Alter älter wird, wird[BREAK]  seine "Ich"-heit immer schlimmer.[WAIT]@Ich, ich, ich, ich, ich...[PAUSE 20 00] Es nervt so sehr![END]
 154-9:@I just thought of something.[WAIT]@I do nothing but think about myself, so I think[BREAK]  that might make others not like me...[WAIT]@But if other people would think about me even[BREAK]  more, it would all balance out.[WAIT]@Why won't other people think about me more?[WAIT][PAUSE 1E 00]@[LUCAS 23 02 00]![WAIT]  I like you. You come to talk to me every once[BREAK]  in a while.[WAIT]@I could make you my successor, if you'd like.[WAIT]@But it's lonely living my kind of life...[END]
-154-9E:
+154-9E:@Mir ist grad etwas in den Sinn gekommen.[WAIT]@Ich tu nichts anderes, als an mich zu denken.[WAIT]  Ich glaube, dass das dazu führt, dass mich[BREAK]  andere vielleicht nicht so mögen...[WAIT]@Aber wenn andere Leute noch mehr über mich[BREAK]  denken würden, würde es alles ausbalancieren.[WAIT]@Warum denken andere Leute nicht[BREAK]  mehr an mich?[WAIT][PAUSE 1E 00]@[LUCAS 23 02 00]![WAIT]  Ich mag dich. Du kommst immer mal wieder[BREAK]  zum Reden vorbei.[WAIT]@Ich könnte dich zu meinem Nachfolger machen,[BREAK]  wenn du willst.[WAIT]@Aber meine Art des Lebens ist einsam...[END]
 154-10:@I'm lazy, so I don't want to do anything that[BREAK]  requires being active.[END]
-154-10E:
+154-10E:@Ich bin faul, also will ich nichts tun, weswegen[BREAK]  ich aktiv werden muss.[END]
 154-11:[END]
-154-11E:
+154-11E:[END]
 
 [Container 155]
 155-0:@This hotel's poster girl is so cute![WAIT]@I wonder what her name is.[END]
-155-0E:
+155-0E:@Dieses Postermädchen ist so süß![WAIT]@Ich frage mich, wie sie heißt.[END]
 155-1:@I'm in a luxury hotel, but surprisingly enough,[BREAK]  I'm not acting nervous. Have you noticed?[WAIT]@It's 'cause my back pocket's filled with money[BREAK]  I earned at the factory.[END]
-155-1E:
+155-1E:@Ich bin in einem Luxushotel, aber es wirklich[BREAK]  überraschend, dass ich nicht nervös bin.[WAIT]  Ist dir das aufgefallen?[WAIT]@Das liegt daran, weil meine Tasche mit Geld[BREAK]  gefüllt ist, die ich in der Fabrik verdient habe.[END]
 155-2:@I'm about to go on a walk with my grandkid to[BREAK]  Cerulean Beach.[WAIT]@It'll be like "old man on the beach" and all that![BREAK]  Hohoho![END]
-155-2E:
+155-2E:@Ich wollte gerade einen Spaziergang zum Ceru-[BREAK]  lean Strand mit meinem Enkelkind machen.[WAIT]@Es wird so "alter Mann am Strand" sein und[BREAK]  all das! Hohohoho![END]
 155-3:@Don't try to go inside![WAIT]@A quite young girl is in the middle of changing[BREAK]  her clothes.[END]
-155-3E:
+155-3E:@Wage es nicht reinzugehen![WAIT]@Ein relativ junges Mädchen ist gerade dabei[BREAK]  ihre Klamotten zu wechseln.[END]
 155-4:@(*whisper* *whisper*)[BREAK]  What do you want for lunch?[END]
-155-4E:
+155-4E:@(*flüster* *flüster*)[BREAK]  Was willst du fürs Mittagessen?[END]
 155-5:@(*whisper* *whisper*)[BREAK]  Just anything but that pasta.[END]
-155-5E:
+155-5E:@(*flüster* *flüster*)[BREAK]  Alles, solange es keine Nudeln sind.[END]
 155-6:@(*whisper* *whisper*)[BREAK]  Croquette rolls are fine with me.[WAIT]@No, actually, that's what I'd prefer.[END]
-155-6E:
+155-6E:@(*flüster* *flüster*)[BREAK]  Croquettenrollen gehen klar.[WAIT]@Nein, eigentlich sogar ziemlich gerne.[END]
 155-7:@(*whisper* *whisper*)[WAIT]  But should we keep going until we find a good[BREAK]  place to stop?[END]
-155-7E:
+155-7E:@(*flüster* *flüster*)[WAIT]  Aber sollen wir weitergehen bis wir einen[BREAK]  guten Pausenort gefunden haben?[END]
 155-8:@(*whisper* *whisper*)[WAIT]  No, it'd actually be more efficient to just take[BREAK]  a quick five-minute break.[END]
-155-8E:
+155-8E:@(*flüster* *flüster*)[WAIT]  Nein, es wäre effizienter, wenn wir einfach[BREAK]  eine kurze Fünf-Minuten-Pause machen.[END]
 155-9:@(*whisper* *whisper*)[WAIT]  Eek, exclamation mark.[BREAK]  New line. What a lovely person, space.[END]
-155-9E:
+155-9E:@(*flüster* *flüster*)[WAIT]  Eek, Ausrufezeichen.[BREAK]  Neue Zeile. Was für eine Person, Leerzeichen.[END]
 155-10:@(*whisper* *whisper*)[WAIT]  Wait, are you sure we need a new line there?[END]
-155-10E:
+155-10E:@(*flüster* *flüster*)[WAIT]  Warte, bist du dir sicher, dass wir dort eine[BREAK]  neue Zeile brauchen?[END]
 155-11:@(*whisper* *whisper*)[BREAK]  I dunno. I think it would be better that way.[END]
-155-11E:
+155-11E:@(*flüster* *flüster*)[BREAK]  Ich weiß nicht. Ich glaube, so wäre es besser.[END]
 155-12:@(*whisper* *whisper*)[BREAK]  You bought too many rice balls.[WAIT]@Were you hungry or something?[END]
-155-12E:
+155-12E:@(*flüster* *flüster*)[BREAK]  Du hast zu viele Reisbälle gekauft.[WAIT]@Hattest du Hunger oder so?[END]
 155-13:@(*whisper* *whisper*)[WAIT]  If there are any extra rice balls left over,[BREAK]  could I have 'em?[END]
-155-13E:
+155-13E:@(*flüster* *flüster*)[WAIT]  Könntest du mir welche geben, wenn noch[BREAK]  welche da sind?
 155-14:@(*whisper* *whisper*)[BREAK]  How long are we going to keep at this?[END]
-155-14E:
+155-14E:@(*flüster* *flüster*)[BREAK]  Wie lange wollen wir noch so weitermachen?[END]
 155-15:@(*whisper* *whisper*)[BREAK]  There's no set time or anything.[WAIT]@We can stop whenever you're tired.[WAIT][PAUSE 50 00]@I take it you're tired too, though?[END]
-155-15E:
+155-15E:@(*flüster* *flüster*)[BREAK]  Es gibt kein Zeitlimit oder sowas.[WAIT]@Wir können dann aufhören, wenn du müde[BREAK]  wirst.[WAIT][PAUSE 50 00]@Ich nehme an, dass du auch müde bist?[END]
 155-16:@(*whisper* *whisper*)[BREAK]  It's strange. Why is this so tiring?[WAIT]  All we do is sit here really.[END]
-155-16E:
+155-16E:@(*flüster* *flüster*)[BREAK]  Das ist komisch. Warum ist das so ermüdend?[WAIT]  Wir sitzen doch nur.[END]
 155-17:@(*whisper* *whisper*)[WAIT]  This is no time to be trying so hard to get[BREAK]  these lines edited just right.[END]
-155-17E:
+155-17E:@(*flüster* *flüster*)[WAIT]  Jetzt ist nicht die Zeit 
 155-18:@(*whisper* *whisper*)[BREAK]  Yeah. Let's stop for now.[END]
 155-18E:
 155-19:@(*whisper* *whisper*)[BREAK]  Yeah.[END]
@@ -7763,52 +7763,52 @@
 
 [Container 161]
 161-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
-161-0E:
+161-0E:@Oh, [LUCAS 22 03 00].[WAIT]@Ich muss schon sagen, dein Haus muss es[BREAK]  lieben vom Blitz getroffen zu werden![WAIT]@Hast du vor nach dem ganzen Feuer und[BREAK]  Verbrennen und was weiß ich nicht alles[WAIT]  IMMER NOCH darin leben?[WAIT]@Ich muss zugeben, es ist ein harter Schlag für[BREAK]  Tazmilys Image.[WAIT]@Oh, ja, ja...[WAIT]@Dein mütterlicher Großvater ist in das neue[BREAK]  und glänzende Seniorenheim gezogen.[WAIT]@Wo ist es? ...Dort entlang, in diese Richtung. 143-0[END]
 // Repeats: 143-0, 149-0, 161-0
 161-1:@How many hundreds of times must I say it?![BREAK]  The retirement home is that-a-way![END]
-161-1E:
+161-1E:@Wie oft muss ich es noch sagen?![BREAK]  Das Seniorenheim ist in diese Richtung![END]
 // Repeats: 143-1, 149-1, 161-1
 161-2:@Oh, hello, [LUCAS 22 03 00].[WAIT]@Don't bother Mr. Fassad and the others too[BREAK]  much, now.[END]
-161-2E:
+161-2E:@Oh, hallo, [LUCAS 22 03 00].[WAIT]@Stör Herrn Fassad und die anderen jetzt bitte[BREAK]  nicht zu sehr.[END]
 // Repeats: 143-2, 149-2, 161-2
 161-3:@What a rebellious look![END]
-161-3E:
+161-3E:@Was für ein rebellischer Blick![END]
 // Repeats: 143-3, 149-3, 161-3
 161-4:@This is a peaceful village.[WAIT]@There is no way an uproar would ever happen[BREAK]  here.[WAIT]@But, even if by chance something uproar-like[BREAK]  did happen...[WAIT]  ...it wouldn't be my fault.[WAIT]@Understand, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Well, do you?[END]
-161-4E:
+161-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 161-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-161-5E:
+161-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 161-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
-161-6E:
+161-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
 // Repeats: 143-6, 149-6, 161-6
 161-7:@Hate me.[WAIT]@Hate me more.[WAIT]@It would be easier for me knowing that you[BREAK]  hate me.[WAIT]@Ohohoho![END]
-161-7E:
+161-7E:@Hasse mich.[WAIT]@Hasse mich mehr.[WAIT]@Es wäre besser für mich, wenn ich wüsste,[BREAK]  dass du mich hasst.[WAIT]@Ohohoho![END]
 // Repeats: 143-7, 149-7, 161-7
 161-8:@The village's progress is my progress.[WAIT]@I get bigger and more important by the day.[WAIT]@Understand?[END]
-161-8E:
+161-8E:@Des Dorfes Fortschritt ist mein Fortschritt.[WAIT]@Ich werde mit jedem Tag größer und wichtiger.[WAIT]@Verstehst du?[END]
 // Repeats: 143-8, 149-8, 161-8
 161-9:@Oh, if it isn't [LUCAS 22 03 00].[WAIT]@Everyone's talking about how you've been[BREAK]  living it up at clubs instead of coming home.[WAIT]@And then there's [FLINT 22 01 00], always[BREAK]  wandering around in the mountains, aimlessly.[WAIT]  You're such a weird family.[END]
-161-9E:
+161-9E:@Oh, wenn das mal nicht [LUCAS 22 03 00] ist.[WAIT]@Alle reden darüber, wie du lieber in Clubs gehst[BREAK]  als nach Hause kommst.[WAIT]@Und dann gibt es noch [FLINT 22 01 00], immer[BREAK]  in den Bergen ziellos herumrennend.[WAIT]  Du hast so eine komische Familie.[END]
 // Repeats: 143-9, 149-9, 161-9
 161-10:@W-w-what?! What?![WAIT]@What're you trying to scare me for?![WAIT]@Get out of here! Leave![WAIT]@Leave this village![END]
-161-10E:
+161-10E:@W-w-was?! Was?![WAIT]@Wieso versuchst du mich zu erschrecken?![WAIT]@Raus hier! Verschwinde![WAIT]@Verlasse dieses Dorf![END]
 // Repeats: 143-10, 149-10, 161-10
 161-11:@Eww! You filthy thing! Shoe![WAIT]@Huh? Shoe? Shoo?[BREAK]  ...[PAUSE 20 00]Get out![END]
-161-11E:
+161-11E:@Eww! Du dreckiges Ding! Husch![WAIT]@Häh? Husch? Hasch?[BREAK]  ...[PAUSE 20 00]Verschwinde! 143-11 pun funzt nicht[END]
 // Repeats: 143-11, 149-11, 161-11
 161-12:@First there's a fire, then lightning, and now[BREAK]  earthquakes?![WAIT]@Why does this have to happen to us?[WAIT]@Actually, when I think about it, I somehow get[BREAK]  the feeling this is all your fault.[WAIT]@Please stay away from us, if you'd be so kind![END]
-161-12E:
+161-12E:@Zuerst gibt es ein Feuer, dann Gewitter, und jetzt Erdbeben?![WAIT]@Warum passiert uns das?[WAIT]@Nun, wenn ich darüber nachdenke, dann[BREAK]  bekomme ich irgendwie das Gefühl, dass das[WAIT]  alles deine Schuld ist.[WAIT]
 // Repeats: 143-12, 149-12, 161-12
 161-13:@You don't seem to take hints very well, so I'll[BREAK]  just come out and say it.[WAIT]  My family[PAUSE 1E 00] hates you.[WAIT]@Why do you keep coming here?[WAIT]@Yet, even after I've said this, I just know[BREAK]  you'll keep coming back.[END]
-161-13E:
+161-13E:@Du scheinst Andeutungen nicht so gut zu ver-[BREAK]  stehen, also werde ich es einfach aussprechen.[WAIT]  Meine Familie[PAUSE 1E 00] hasst dich.[WAIT]@Wieso kommst du immer wieder hierher?[WAIT]@Auch nachdem ich dir das gesagt habe, weiß[BREAK]  ich einfach, dass du wieder kommen wirst.[END]
 // Repeats: 143-13, 149-13, 161-13
 161-14:@We STILL can't move out, because of my[BREAK]  husband's job.[WAIT]@Oh, why did he have to be the mayor of[BREAK]  this dinky little village?[END]
-161-14E:
+161-14E:@Wir können wegen den Job meines Ehemanns[BREAK]  IMMER NOCH nicht ausziehen.[WAIT]@Oh, warum muss er der Bürgermeister dieses[BREAK]  schäbigen, kleinen Dorfes sein?
 // Repeats: 143-14, 149-14, 161-14
 161-15:@A nice vase.[END]
-161-15E:
+161-15E:@Eine schöne Vase.[END]
 // Repeats: 143-15, 149-15, 161-15
 161-16:@Oh, hello.[WAIT]@Well, if you'll excuse me.[BREAK]  *hurry*[PAUSE 10 00] *hurry*[PAUSE 10 00] *haste*[PAUSE 10 00] *haste*[PAUSE 10 00][END]
 161-16E:
@@ -10475,7 +10475,7 @@
 225-1E:
 // Repeats: 225-1, 254-1
 225-2:@A nice vase.[END]
-225-2E:
+225-2E:@Eine schöne Vase.[END]
 // Repeats: 225-2, 254-2
 225-3:@Is that Alex? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
 225-3E:
@@ -11278,7 +11278,7 @@
 254-1E:
 // Repeats: 225-1, 254-1
 254-2:@A nice vase.[END]
-254-2E:
+254-2E:@Eine schöne Vase.[END]
 // Repeats: 225-2, 254-2
 254-3:@Is that Alex? It is, it is! Good to see you,[BREAK]  snookums! [HEART][END]
 254-3E:
