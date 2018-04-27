@@ -7681,85 +7681,85 @@
 155-14:@(*whisper* *whisper*)[BREAK]  How long are we going to keep at this?[END]
 155-14E:@(*flüster* *flüster*)[BREAK]  Wie lange wollen wir noch so weitermachen?[END]
 155-15:@(*whisper* *whisper*)[BREAK]  There's no set time or anything.[WAIT]@We can stop whenever you're tired.[WAIT][PAUSE 50 00]@I take it you're tired too, though?[END]
-155-15E:@(*flüster* *flüster*)[BREAK]  Es gibt kein Zeitlimit oder sowas.[WAIT]@Wir können dann aufhören, wenn du müde[BREAK]  wirst.[WAIT][PAUSE 50 00]@Ich nehme an, dass du auch müde bist?[END]
+155-15E:@(*flüster* *flüster*)[BREAK]  Es gibt kein Zeitlimit oder sowas.[WAIT]@Wir können aufhören, wenn du müde wirst.[WAIT][PAUSE 50 00]@Ich nehme an, dass du auch müde bist?[END]
 155-16:@(*whisper* *whisper*)[BREAK]  It's strange. Why is this so tiring?[WAIT]  All we do is sit here really.[END]
 155-16E:@(*flüster* *flüster*)[BREAK]  Das ist komisch. Warum ist das so ermüdend?[WAIT]  Wir sitzen doch nur.[END]
 155-17:@(*whisper* *whisper*)[WAIT]  This is no time to be trying so hard to get[BREAK]  these lines edited just right.[END]
-155-17E:@(*flüster* *flüster*)[WAIT]  Jetzt ist nicht die Zeit 
+155-17E:@(*flüster* *flüster*)[WAIT]  Jetzt ist nicht die Zeit, so viel Zeit damit zu[BREAK]  verbringen diese Zeilen richtig zu editieren.[END]
 155-18:@(*whisper* *whisper*)[BREAK]  Yeah. Let's stop for now.[END]
-155-18E:
+155-18E:@(*flüster* *flüster*)[WAIT]  Ja. Lasst uns jetzt aufhören.[END]
 155-19:@(*whisper* *whisper*)[BREAK]  Yeah.[END]
-155-19E:
+155-19E:@(*flüster* *flüster*)[WAIT]  Ja.[END]
 155-20:@(*whisper* *whisper*)[END]
-155-20E:
+155-20E:@(*flüster* *flüster*)[END]
 155-21:@This is a cleaning supply closet now.[END]
-155-21E:
+155-21E:@Das ist jetzt ein Putzzeugschrank.[END]
 
 [Container 156]
 156-0:@The guy who looks just like [DUSTER 23 03 00]?[BREAK]  He's over at Club Titiboo.[WAIT]@He's got different hair, but other than that, he[BREAK]  definitely looks like him.[WAIT]@Especially that bum-like vibe he has.[END]
-156-0E:
+156-0E:@Der Kerl, der wie [DUSTER 23 03 00] aussieht?[BREAK]  Er ist drüben im Club Titiboo.[WAIT]@Sein Haar ist anders, aber abgesehen davon[BREAK]  sieht er genau wie er aus.[WAIT]@Gerade diese Penner-artige Atmosphäre, die[BREAK]  er ausstrahlt.[END]
 156-1:@Everyone who works at the factory loves Club[BREAK]  Titiboo.[WAIT]@But do they admit people who don't work at[BREAK]  the factory? I can't remember...[END]
-156-1E:
+156-1E:@Jeder, der in der Fabrik arbeitet, liebt Club[BREAK]  Titiboo.[WAIT]@Aber dürfen überhaupt auch Leute rein, die[BREAK]  nicht in der Fabrik arbeiten?[WAIT]@Ich kann mich nicht erinnern...[END]
 156-2:@The factory? Like I said, you go faaaaaar east,[BREAK]  along the tracks.[WAIT]@It's waaaay east of the hot spring.[END]
-156-2E:
+156-2E:@Die Fabrik? Wie ich sagte, man muss weiiiiiiiiit[BREAK]  nach Osten, den Schienen entlang.[WAIT]@Es ist weiiiiiiiiit östlich von der Heißen Quelle.[END]
 156-3:@Did you make it to Titiboo?[END]
-156-3E:
+156-3E:@Hast du es nach Titiboo geschafft?[END]
 156-4:@An oven for turning iron red-hot.[BREAK]  This is the very latest, automated model.[END]
-156-4E:
+156-4E:@Ein Ofen, der Eisen rot-heiß macht.[BREAK]  Das ist das neueste automatisierte Modell.[END]
 156-5:[END]
-156-5E:
+156-5E:[END]
 
 [Container 157]
 157-0:@My dad is working over at the factory, so he[BREAK]  left me in charge of the store.[WAIT]@Would you like to buy something?[END]
-157-0E:
+157-0E:@Mein Papa arbeitet in der Fabrik, also habe ich[BREAK]  die Verantwortung über das Geschäft.[WAIT]@Möchtest du etwas kaufen?[END]
 157-1:@Whoa! You're going to Titiboo?![WAIT]@You're so lucky. I have to stay here and watch[BREAK]  the dumb store.[END]
-157-1E:
+157-1E:@Whoa! Du willst nach Titiboo gehen?![WAIT]@Du hast so viel Glück. Ich muss hier bleiben[BREAK]  und auf dieses blödes Geschäft aufpassen.[END]
 157-2:@Hey, hey![WAIT]@Did you ever make it to Titiboo?[WAIT]@Was it cool?[END]
-157-2E:
+157-2E:@Hey, hey![WAIT]@Hast du es schon mal zu Titiboo geschafft?[WAIT]@War's cool?[END]
 157-3:@Welcome![WAIT]@Check out this top merchandise, straight from[BREAK]  the big city![END]
-157-3E:
+157-3E:@Willkommen![WAIT]@Schau dir diesen Top-Merchandise an, direkt[BREAK]  aus der Großstadt![END]
 157-4:@I wish I could visit the big city...[WAIT]@I bet it's way cooler than Titiboo, even![END]
-157-4E:
+157-4E:@Ich wünschte, ich könnte die Großstadt[BREAK]  besuchen gehen...[WAIT]@Ich wette, dass es sogar cooler als Titiboo ist![END]
 157-5:@Welcome![WAIT]@Oh, hey there, pretty girl! Buy something,[BREAK]  wontcha?[END]
-157-5E:
+157-5E:@Willkommen![WAIT]@Oh, hallöchen hübsches Mädel! Was willste[BREAK]  denn kaufen?[END]
 157-6:@Lots of people are heading to New Pork lately.[WAIT]@I wanna go, too.[WAIT]@I don't want to be stuck in this blah village[BREAK]  forever.[END]
-157-6E:
+157-6E:@Eine Menge Leute ziehen nach New Pork.[WAIT]@Ich möchte auch gehen.[WAIT]@Ich will nicht für immer in diesem Loch[BREAK]  feststecken.[END]
 157-7:@Welcome![WAIT]@If you want stuff from the city, we got it![BREAK]  Check out our merchandise![END]
-157-7E:
+157-7E:@Willkommen![WAIT]@Wenn du Sachen von der Stadt willst, dann[BREAK]  haben wir es! Check unseren Merchandise aus![END]
 157-8:@Customers have all but disappeared, and even[BREAK]  my own family has headed into the city.[WAIT]@Not me, though. I can't just up and leave my[BREAK]  store behind.[WAIT]@Would you like to buy something?[END]
-157-8E:
+157-8E:@Kunden sind alle verschwunden, und sogar[BREAK]  meine eigene Familie ist in der Stadt.[WAIT]@Nicht aber ich. Ich kann nicht einfach mein[BREAK]  Geschäft hinter mich lassen.[WAIT]@Möchtest du etwas kaufen?[END]
 157-9:@A display case.[BREAK]  Knick-knacks are lined up inside it.[END]
-157-9E:
+157-9E:@Ein Schaukasten.[BREAK]  Verschiedenster Nippsachen kann man sehen.[END]
 
 [Container 158]
 158-0:@......[END]
-158-0E:
+158-0E:@......[END]
 158-1:@He seems to be captivated by the Happy Box.[END]
-158-1E:
+158-1E:@Er scheint von der Glückseeligkeitsbox[BREAK]  gefesselt zu sein.[END]
 158-2:@Huh? Titiboo?[WAIT]@...That's pretty far away.[WAIT]@You'll need to take the train.[WAIT]@...You'll also need a ticket.[END]
-158-2E:
+158-2E:@Was? Titiboo?[WAIT]@...Das ist ziemlich weit weg.[WAIT]@Du wirst den Zug nehmen müssen.[WAIT]@...Du wirst auch ein Ticket haben müssen.[END]
 158-3:@If you're gonna fall from the sky, at least say[BREAK]  something first.[WAIT]@That'd freak anyone out.[END]
-158-3E:
+158-3E:@Wenn du schon vom Himmel fällst, dann sag[BREAK]  doch zuerst etwas.[WAIT]@Mach doch allen keinen Angst.[END]
 158-4:@[LUCAS 22 03 00].[WAIT]@I think I'm going to go to New Pork soon, so[BREAK]  this may be the last time we meet.[WAIT]@This rural nowheresville suits you great,[BREAK]  though.[END]
-158-4E:
+158-4E:@[LUCAS 22 03 00].[WAIT]@Ich glaube, ich werde bald nach New Pork[BREAK]  ziehen, also wird das vielleicht das letzte Mal[WAIT]  sein, dass wir uns treffen.[WAIT]@Wobei, dieser Pixel auf der Landkarte[BREAK]  passt wirklich großartig zu dir.[END]
 158-5:[END]
-158-5E:
+158-5E:[END]
 
 [Container 159]
 159-0:@Wow! What a pretty person![END]
-159-0E:
+159-0E:@Wow! Was für eine hübsche Person![END]
 159-1:@You know, however depressed you may get,[WAIT]  as long as you have hope, there'll always be[BREAK]  tomorrow.[WAIT]@So try not to give up hope.[WAIT]@And what's also important[PAUSE 20 00] is humor![END]
-159-1E:
+159-1E:@Egal wie deprimierend es werden mag,[WAIT]  so lange du Hoffnung hast, wird es immer ein[BREAK]  Morgen geben.[WAIT]@Also gib die Hoffnung nicht auf.[WAIT]@Und was auch wichtig ist, ist [PAUSE 20 00]Humor![END]
 159-2:@Oh, you're back?[WAIT]@I can't really teach you anything about humor.[WAIT]@I'm still in training myself.[WAIT]@But I can see you really lack humor, too.[END]
-159-2E:
+159-2E:@Oh, du bist zurück?[WAIT]@Ich kann dir nicht wirklich viel über Humor[BREAK]  beibringen.[WAIT]@Ich lerne selbst noch.[WAIT]@Aber ich sehe, dass es dir auch wirklich[BREAK]  an Humor fehlt.[END]
 159-3:[END]
-159-3E:
+159-3E:[END]
 
 [Container 160]
 160-0:@Reggie liked living in tent better.[WAIT]@[LUCAS 22 03 00].[WAIT]@Reggie is sure you feel similar way.[END]
-160-0E:
+160-0E:@Reggie mochte das Zelt lieber.[WAIT]@[LUCAS 22 03 00].[WAIT]@Reggie ist sich sicher, dass du ähnlich fühlst.[END]
 160-1:[END]
-160-1E:
+160-1E:[END]
 
 [Container 161]
 161-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
@@ -7811,82 +7811,82 @@
 161-15E:@Eine schöne Vase.[END]
 // Repeats: 143-15, 149-15, 161-15
 161-16:@Oh, hello.[WAIT]@Well, if you'll excuse me.[BREAK]  *hurry*[PAUSE 10 00] *hurry*[PAUSE 10 00] *haste*[PAUSE 10 00] *haste*[PAUSE 10 00][END]
-161-16E:
+161-16E:@Oh, hallo.[WAIT]@Wenn du mich bitte entschuldigen würdest.[BREAK]  *schnell*[PAUSE 10 00] *schnell*[PAUSE 10 00] *los*[PAUSE 10 00] *los*[PAUSE 10 00] 161-16[END]
 161-17:@I'm the one teaching Master Ollie about humor.[WAIT]@Though I may not look it, I've been known as[BREAK]  "Huck the Huckster" since childhood.[END]
 161-17E:
 // I changed the guy's name, anything along these lines is fine though
 161-18:@Do you speak to others with a smile on your[BREAK]  face?[WAIT]@That's one of the most basic things you can[BREAK]  do to be lively.[WAIT]@This has been Huck the Huckster's "Humor[BREAK]  Dojo".[END]
-161-18E:
+161-18E:@Sprichst du mit einem Lächeln im Gesicht zu[BREAK]  anderen?[WAIT]@Das ist eine der grundsätzlichsten Dinge, die[BREAK]  du tun kannst um lebendig zu wirken.[WAIT]@Das war's mit Huck das "Humor Dojo" 161-18[END]
 161-19:[END]
-161-19E:
+161-19E:[END]
 
 [Container 162]
 162-0:@Attention, guests staying here on group work[BREAK]  retreats:[WAIT]@Please talk in whispered voices when[BREAK]  conducting meetings. Thank you.[END]
-162-0E:
+162-0E:@Achtung.Gäste, die hier auf dem[BREAK]  Gruppenarbeitsgebiet besichtigen, beachtet;[WAIT]@Bitte sprecht in Flüsterstimme, wenn Treffen[BREAK]  gehalten werden. Danke. 162-0[END]
 162-1:@Welcome.[WAIT]@You're a non-staying guest, yes?[END]
-162-1E:
+162-1E:@Willkommen.[WAIT]@Du bist ein nicht-bleibender Gast, richtig?[END]
 162-2:@They say this village had no Happy Boxes until[BREAK]  three years ago.[END]
-162-2E:
+162-2E:@Man sagt, dass dieses Dorf bis vor drei Jahren[BREAK]  keine Glückseeligkeitsboxen hatte.[END]
 162-3:@The DCMC band has a bassist named Lucky.[WAIT]@He seems a little bum-like, but apparently he's[BREAK]  a really good performer.[END]
-162-3E:
+162-3E:@Die DCMC-Band hatte einen Bassisten[BREAK]  namens Lucky.[WAIT]@Er ist zwar etwas Penner-artig, aber[BREAK]  anscheinend ist er ein richtig guter Musiker.[END]
 162-4:@The DCMC band has a bassist named[BREAK]  Gorgeous.[WAIT]@He seems a little bum-like, but apparently he's[BREAK]  a really good performer.[END]
-162-4E:
+162-4E:@Die DCMC-Band hatte einen Bassisten[BREAK]  namens Gorgeous.[WAIT]@Er ist zwar etwas Penner-artig, aber[BREAK]  anscheinend ist er ein richtig guter Musiker.[END]
 162-5:@You guys seem kind of outta place here.[WAIT]@Maybe it's because you're too classy for it...[PAUSE 28 00][BREAK]  Or unclassy...[END]
-162-5E:
+162-5E:@Ihr Kerle erscheint hier etwas fehl am Platze.[WAIT]@Vielleicht weil ihr zu stilvoll dafür seid...[PAUSE 28 00][BREAK]  Oder unstilvoll...[END]
 162-6:@I was so scared of being forced to pay my[BREAK]  hotel bill that I holed up inside my room.[WAIT]@Finally, I worked up the resolve to not care[BREAK]  what happens, so I stepped outside...[WAIT]  ...and everyone was gone.[WAIT]@Which means this hotel now belongs to me.[WAIT]@This is what they mean by, "Stepping outside[BREAK]  your comfort zone will lead to greater things."[WAIT]@Understand, kid?[WAIT]@Learn by my example![WAIT]@I went from a man with no money whatsoever[BREAK]  to a hotel king![WAIT][PAUSE 3C 00]@Welcome![END]
-162-6E:
+162-6E:@Ich hatte so viel Angst gezwungen zu werden[BREAK]  meine Hotelrechnung zu bezahlen, dass ich[WAIT]  mich im meinem Zimmer verkrochen habe.[WAIT]@Irgendwann bin ich zum Entschluss gekommen,[BREAK]  sich nicht darum zu sorgen, was passieren[WAIT]  wird, also ging ich nach draußen...[WAIT]  ...und alle waren verwschwunden.[WAIT]@Was bedeutet, dass das Hotel jetzt mir gehört.[WAIT]@Das ist also was mit "Aus seiner Komfortzone[BREAK]  herauszukommen wird einem nur gutes tun"[WAIT]  gemeint ist.[WAIT]@Verstanden, Kind?[WAIT]@Lerne durch mein Vorbild![WAIT]@Ich war am Anfang ein Mann ohne jegliches[BREAK]  Geld, und jetzt bin ich ein Hotelkönig![WAIT] [PAUSE 3C 00]@Willkommen in meinem Reich![END]
 162-7:@I hear they used to raise cows and pigs where[BREAK]  the training facility to the southeast is now.[WAIT]  Mr. Fassad bought up all the land there.[END]
-162-7E:
+162-7E:@Ich habe gehört, dass man früher Kühe und[BREAK]  Schweine hochgezogen hat, wo jetzt die[WAIT]  Trainingseinrichtung im Südosten steht.[WAIT]  Herr Fassad hat das ganze Land dort gekauft.[END]
 162-8:@Lately, I've...[PAUSE 3C 00] had nothing to do.[END]
-162-8E:
+162-8E:@Seit kurzem, habe ich...[PAUSE 3C 00] hatte ich nichts zu[BREAK]  tun.[END]
 162-9:@You're the type that just has to talk to[BREAK]  everyone, aren't you?[WAIT]@No, no. I'm not saying that's a bad thing.[WAIT]@I think that's actually a very important thing to[BREAK]  do.[END]
-162-9E:
+162-9E:@Du bist einfach die Art, der einfach mit jedem[BREAK]  sprechen muss, richtig?[WAIT]@Nein, nein. Ich will damit nicht sagen, dass es[BREAK]  schlecht ist.[WAIT]@Ich denke sogar, dass es sehr wichtig ist.[END]
 162-10:@Lately, I've...[PAUSE 3C 00] REALLY had nothing to do.[END]
-162-10E:
+162-10E:@Seit kurzem, habe ich...[PAUSE 3C 00] hatte ich WIRKLICH[BREAK] nichts zu tun.[END]
 162-11:@I hate to ask this, [LUCAS 22 03 00]...[WAIT]@But could you, uhh, not come here anymore?[WAIT]@Whenever you visit, our reputation gets[BREAK]  worse...[END]
-162-11E:
+162-11E:@Ich hasse es das zu fragen, [LUCAS 22 03 00]...[WAIT]@Aber könntest du, ähh, bitte nicht mehr[BREAK]  kommen?[WAIT]@Immer wenn du zu Besuch kommst,[BREAK]  verschlechtert sich unser Ruf...[END]
 162-12:@Huh?[WAIT]@Club Titiboo?[WAIT]@Oh, well, my advice is that you head to the[BREAK]  factory and then ask around there.[WAIT]@N-now could you please go away?[END]
-162-12E:
+162-12E:@Was?[WAIT]@Club Titiboo?[WAIT]@Öhm, nun, mein Vorschlag wäre es zur Fabrik[BREAK]  zu gehen und sich dort umzuhören.[WAIT]@K-könntest du bitte weggehen?[END]
 162-13:@Our Yado Inn has changed so much and gained[BREAK]  so many new customers[WAIT]  ever since Mr. Fassad came to town.[END]
-162-13E:
+162-13E:@Unsere Yado Kneipe hat sich so sehr verändert[BREAK]  und so viele neue Kunden bekommen,[WAIT]  seit Herr Fassad hierher gekommen ist.[END]
 162-14:@Oh... You're here too, [DUSTER 22 0F 00]?[WAIT]@P-please, could you not come in here anymore?[WAIT]@I'd prefer to avoid rumors that we have[BREAK]  thieves coming and going here...[END]
-162-14E:
+162-14E:@Oh... Du bist auch da, [DUSTER 22 0F 00]?[WAIT]@B-bitte könntest du bitte nicht mehr kommen?[WAIT]@Ich bevorzuge es Gerüchte zu vermeiden, dass[BREAK]  wir einen Dieb hier haben...[END]
 162-15:@Visitors from the big city have really dropped[BREAK]  in number.[WAIT]@Conversely, people wanting to leave this[BREAK]  village for the city are on the rise.[WAIT]@In which case, it would be best to move our[BREAK]  hotel to the city.[WAIT]@Right? Well, that's what I think, at least.[END]
-162-15E:
+162-15E:@Besucher von der Großstadt sind in der Zahl[BREAK]  ziemlich gefallen.[WAIT]@Im Gegensatz zu der Zahl von Leuten, die[BREAK]  dieses Dorf für die Stadt verlassen wollen.[WAIT]@In welchem Fall es am besten wäre unser[BREAK]  Hotel in die Stadt zu verlagern.[WAIT]@Richtig? Nun, zumindest finde ich das.[END]
 162-16:@I'm all for moving this hotel to the big city.[END]
-162-16E:
+162-16E:@Ich bin voll dafür dieses Hotel in die[WAIT]  Großstadt zu verlagern.[END]
 162-17:@I hear someone's calling me a "poster girl".[WAIT]@It's not true, though.[END]
-162-17E:
+162-17E:@Irgendjemand nennt mich ein[BREAK]  "Poster-Mädchen".[WAIT]@Das stimmt aber nicht.[END]
 162-18:@Oh, [DUSTER 22 0F 00].[WAIT]  Has your memory returned yet?[END]
-162-18E:
+162-18E:@Oh, [DUSTER 22 0F 00].[WAIT]  Sind deine Erinnerungen zurück?[END]
 162-19:@That person with you...[WAIT]  Is it a he or a she?[END]
-162-19E:
+162-19E:@Diese Person bei dir...[WAIT]  Ist das ein er oder eine sie?[END]
 162-20:@I bet it'd be fun if we all went together.[WAIT]@[LUCAS 22 03 00], won't you and your friends[BREAK]  come with us?[END]
-162-20E:
+162-20E:@Es wäre wirklich schön, wenn wir alle[BREAK]  zusammen gehen könnten.[WAIT]@[LUCAS 22 03 00], willst du und deine Freunde[BREAK]  nicht mit uns kommen?[END]
 162-21:[END]
-162-21E:
+162-21E:[END]
 
 [Container 163]
 163-0:@Why did you come in here?[WAIT]@What was your reason?[WAIT]    1. Because I was enamoring.[WAIT]    2. So you could flirt with me.[WAIT]    3. Because you like me.[WAIT]    4. Other[WAIT]  Which is it?![END]
-163-0E:
+163-0E:@Warum bist du hierher gekommen?[WAIT]@Was war dein Grund?[WAIT]   1. Weil ich so anziehend war.[WAIT]   2. Damit du mit mir flirten kannst.[WAIT]   3. Weil du mich magst.[WAIT]   4. Sonstiges[WAIT]  Was ist es?![END]
 163-1:@I've decided to call you "Other".[WAIT]@You're so boring![END]
-163-1E:
+163-1E:@Ich habe beschlossen dich "Sonstiges" zu[BREAK]  nennen.[WAIT]@Du bist so langweilig![END]
 
 [Container 164]
 164-0:@The two of us have been searching for[BREAK]  something for a long time.[WAIT]@But no matter how hard we try, we just can't[BREAK]  seem to find it.[WAIT]  We looked for it so much that we somehow[BREAK]  wound up out here in the sticks.[END]
-164-0E:
+164-0E:@Wir zwei haben etwas sehr lange gesucht.[WAIT]@Aber egal wie gut wir es versucht haben, wir[BREAK]  finden es aber einfach nicht.[WAIT]  Wir haben so sehr danach gesucht, dass wir ir-[BREAK]  gendwie am Arsch der Welt angekommen sind.[END]
 164-1:@We've been looking for it for a long time.[WAIT]@Just can't seem to find it, though.[END]
-164-1E:
+164-1E:@Wir haben so lange danach gesucht.[WAIT]@Doch finden können wir es einfach nicht.[END]
 
 [Container 165]
 165-0:@*sniffle*[WAIT]@Grandpa and I are supposed to go to the beach[BREAK]  after I change into my swimsuit,[WAIT]  but I can't take my eyes off this Happy Box.[WAIT]@*sniffle*[END]
-165-0E:
+165-0E:@*schnief*[WAIT]@Opa und ich wollten zum Strand, nachdem ich[BREAK]  mein Schwimmzeug angezogen habe,[WAIT]  aber ich kann meine Augen einfach nicht von[BREAK]  der Glückseeligkeitsbox abwenden.[WAIT]@*schnief*
 165-1:@Hey, you! I can't see![END]
-165-1E:
+165-1E:@Hey, du! Ich kann nicht sehen![END]
 165-2:@Hotels are always so dry inside, y'know?[WAIT]@So I like to sprinkle water all over the floor.[WAIT]@It really helps soothe my throat.[END]
-165-2E:
+165-2E:@Hotels sind innen immer so trocken, weißte?[WAIT]@Also mag ich es Wasser über den Boden zu[BREAK]  sprenkeln.[WAIT]@Das tut meiner Kehle verdammt gut.[END]
 165-3:@I've been staying here a long time, pretending[BREAK]  I have money, [PAUSE 20 00]but I actually don't.[WAIT]@I dunno what to do, so I'm gonna stay in here[BREAK]  again today.[WAIT]@I'm afraid. Every day I'm so afraid.[WAIT]@I can't leave my room, I'm so scared they'll[BREAK]  demand that I pay up.[END]
-165-3E:
+165-3E:@Ich bin hier schon sehr lange, habe so getan[BREAK]  als hätte ich Geld,[PAUSE 20 00] aber das habe ich nicht.[WAIT]@Ich weiß nicht, was ich tun soll, also bleibe ich[BREAK]  heute wieder hier.[WAIT]@Ich habe Angst. Jeden Tag habe ich Angst.[WAIT]@Ich kann meine Zimmer nicht verlassen, ich[BREAK]  habe so viel Angst, dass man verlangen wird,[WAIT]  dass ich zahle.[END]
 
 [Container 166]
 166-0:@Time really flies.[WAIT]@It's almost been half a year since ol' Scamp[BREAK]  passed away.[WAIT]@I get the feeling it's rare for scamps like him[BREAK]  to be so easily forgotten.[WAIT]@So, in that sense, he's a great scamp.[END]
