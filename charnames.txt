@@ -160,7 +160,7 @@
 04F:Lou
 04F-E:Lou
 050:Scamp
-050-E:Scamp
+050-E:Schuft
 051:Ed
 051-E:Ed
 052:Nan

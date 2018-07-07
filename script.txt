@@ -5290,7 +5290,7 @@
 80-42:@Oh, wait.[PAUSE 18 00] I almost forgot something very[BREAK]  important.[WAIT]@Could you be a dear and give this to Ionia for[BREAK]  me? [HEART][END]
 80-42E:@Oh, warte.[PAUSE 18 00] Ich hätte fast etwas sehr[BREAK]  wichtiges vergessen.[WAIT]@Könntest du mir bitte einen Gefallen tun und[BREAK]  das hier Ionia geben? [HEART][END]
 80-43:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-80-43E:@Übergib es, und Ionia sollte erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
+80-43E:@Übergib es, und Ionia wird erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 80-44:@Don't worry about me. [HEART][WAIT]@You can use the white box at the top of this[BREAK]  mountain to leave. [HEART][EVENT][END]
 80-44E:@Mach dir keine Sorgen um mich. [HEART][WAIT]@Du kannst die weiße Box auf dem Gipfel des[BREAK]  Berges verwenden um hier wegzukommen. [HEART][EVENT][END]
@@ -5969,7 +5969,7 @@
 98-9E:@Oh, warte. Ich hätte fast etws sehr wichtiges[BREAK]  vergessen.[WAIT]@Könntest du das hier Ionia für mich geben? [HEART][END]
 // Repeats: 98-9, 175-19
 98-10:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-98-10E:@Übergib es, und Ionia sollte erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
+98-10E:@Übergib es, und Ionia wird erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 98-11:@In Tazmily, I believe there is a[PAUSE 10 00][BREAK]  "map-loving and map-owning" fellow,[PAUSE 0F 00] yes?[WAIT]@I think he'll know where Ionia's house is.[WAIT]@So hurry there! Take this to Ionia! [HEART][END]
 98-11E:@In Tazmily gibt es, glaube ich, einen[PAUSE 10 00] "Karten-[BREAK]  liebenden und Kartenbesitzenden" Kerl,[PAUSE 0F 00] oder?[WAIT]@Ich denke, er weiß, wo Ionias Haus ist.[WAIT]@Also geh schnell dorthin! Gib das Ionia! [HEART][END]
@@ -6042,7 +6042,7 @@
 100-9:@Thanks for the pickles earlier. [HEART][WAIT]@The dog drool was a bit disconcerting, though.[WAIT]  *giggle*[END]
 100-9E:@Danke für die Gurken. [HEART][WAIT]@Der Hundesabber war jedoch etwas[BREAK]  unangenehm.[WAIT]  *kicher*[END]
 100-10:@Pull the Needle?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-100-10E:@Die Nadel ziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+100-10E:@Die Nadel herausziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 100-10, 175-10, 186-14
 100-11:@What are you doing?! You big dummy![END]
 100-11E:@Was machst du?! Du großes Dummerchen![END]
@@ -7890,86 +7890,86 @@
 
 [Container 166]
 166-0:@Time really flies.[WAIT]@It's almost been half a year since ol' Scamp[BREAK]  passed away.[WAIT]@I get the feeling it's rare for scamps like him[BREAK]  to be so easily forgotten.[WAIT]@So, in that sense, he's a great scamp.[END]
-166-0E:
-// I changed his name to Scamp partly because of this and a few other lines that play off of his name as a normal noun
+166-0E:@Die Zeit vergeht wirklich wie im Fluge.[WAIT]@Seit fast einem halbem Jahr ist der alte[BREAK]  Schuft von uns geschieden.[WAIT]@Ich habe das Gefühl, dass Schufte wie er[BREAK]  nicht so leicht vergessen werden.[WAIT]@Also ist er, im gewissen Sinne, ein[BREAK]  großartiger Schuft.[END]
+// I changed his name to Scamp partly because of this and a few other lines that play off of his name as a normal noun; Übersetzung: Scamp = Schuft
 166-1:@Working at the factory, then relaxing at[BREAK]  Titiboo.[WAIT]@That's what regular folk look forward to.[WAIT]@They even got a band there.[END]
-166-1E:
+166-1E:@Zuerst in der Fabrik arbeiten, dann sich bei[BREAK]  Titiboo ausruhen.[WAIT]@Darauf freut sich das gewöhnliche Volk.[WAIT]@Die haben dort sogar eine Band.[END]
 166-2:@Something's always happening wherever you[BREAK]  go, [LUCAS 22 03 00].[WAIT]@That must be exhausting.[END]
-166-2E:
+166-2E:@Egal wohin du gehst, [LUCAS 22 03 00],[BREAK]  irgendwas passiert dort immer.[WAIT]@Das muss anstrengend sein.[END]
 166-3:@There's almost no one left in the village now.[WAIT]@Even my Alle and Nan just left for New Pork.[END]
-166-3E:
+166-3E:@Es gibt kaum noch Leute mehr im Dorf.[WAIT]@Sogar meine Alle und Nan sind vor kurzem[BREAK]  erst nach New Pork gezogen.[END]
 166-4:@Scamp's memento, Mr. Beary.[END]
-166-4E:
+166-4E:@Schufts Memento, Herr Beary.[END]
 166-5:[END]
-166-5E:
+166-5E:[END]
 
 [Container 167]
 167-0:@Oh, [LUCAS 23 02 00].[WAIT]@Are you so jealous of my happiness that[BREAK]  you've come to see it for yourself?[END]
-167-0E:
+167-0E:@Oh, [LUCAS 23 02 00].[WAIT]@Bist du so neidisch auf meine Glückseeligkeit,[BREAK]  dass du extra gekommen bist um es zu sehen?[END]
 167-1:@*giggle*[BREAK]  Our Happy Cooling Box is just handy-dandy,[WAIT]  so I'm thinking of buying a Happy Massage[BREAK]  Chair next.[WAIT]@Don't you think it's about time you at least put[BREAK]  a Happy Box in your home already?[END]
-167-1E:
+167-1E:@*kicher*[WAIT]  Unsere Glückskühlbox ist einfach so[BREAK]   wunderprimasuperbar,[WAIT]  also will ich mir als nächstes eine[BREAK]  Glücksmassagestuhl kaufen.[WAIT]@Findest du nicht, dass es Zeit wird zumindest[BREAK] eine Glückseeligkeitsbox in dein Haus zu stellen?[END]
 167-2:@I often go to Club Titiboo, too.[END]
-167-2E:
+167-2E:@Ich gehe auch oft zum Club Titiboo,[END]
 167-3:@I often...[PAUSE 10 00] want to go to Club Titiboo, too.[END]
-167-3E:
+167-3E:@Ich wil auch oft...[PAUSE 10 00] zu Club Titiboo gehen.[END]
 167-4:@For some reason, working at the factory just[BREAK]  isn't my thing.[END]
-167-4E:
+167-4E:@Aus irgendeinem Grund ist Arbeiten in der[BREAK]  Fabrik einfach nicht mein Ding.[END]
 167-5:@Actually...[WAIT]@Uhhhh... Actually...[WAIT]@I was about to say something, but now I forget[BREAK]  what it was.[END]
-167-5E:
+167-5E:@Also...[WAIT]@Ähhhm... Also...[WAIT]@Ich wollte grad etwas sagen, jetzt habe ich[BREAK]  aber vergessen, was es war.[END]
 167-6:@Geez, you have so many friends![BREAK]  Where do you find them all?[END]
-167-6E:
+167-6E:@Mann, du hast so viele Freunde![BREAK]  Wo findest du die alle?[END]
 167-7:@Can I find friends like him in the city?[WAIT]@If so, then I think he's really cool.[WAIT]@But if he's from the forest or the middle of[BREAK]  nowhere, that's just creepy.[END]
-167-7E:
+167-7E:@Kann ich Freunde wie ihn in der Stadt finden?[WAIT]@Wenn das so ist, dann finde ich, dass er sehr[BREAK]  cool ist.[WAIT]@Aber wenn er vom Wald oder mitten aus dem[BREAK]  Nirgendwo kommt, dann ist es einfach nur[WAIT]  gruselig.[END]
 167-8:@We have to get ready to move![END]
-167-8E:
+167-8E:@Wir müssen uns bereit machen![END]
 167-9:@Just seeing Abbot so lively and excited makes[BREAK]  me happy.[END]
-167-9E:
+167-9E:@Schon Abbot so lebendig und aufgeregt zu[BREAK]  sehen macht mich glücklich.[END]
 
 [Container 168]
 168-0:@Linda is over at the retirement home again,[BREAK]  taking care of the senior citizens there.[WAIT]@I wish she'd take care of me, too...[END]
-168-0E:
+168-0E:@Linda ist wieder drüben im Seniorenheim[BREAK]  und passt auf die Senioren dort auf.[WAIT]@Ich wünschte, sie würde sich auch um mich[BREAK]  kümmern...[END]
 168-1:@Club Titiboo, huh?[WAIT]@Your best bet is to head to the factory.[WAIT]@And if you want, I'm sure you can get a job[BREAK]  working there too, so I say head on over.[WAIT]@You can take the train here to go straight to[BREAK]  the factory.[END]
-168-1E:
+168-1E:@Club Titiboo, wie?[WAIT]@Am besten gehst du zur Fabrik.[WAIT]@Und wenn du willst, bekommst du dort sicher[BREAK]  eine Job.[WAIT]@Du kannst den Zug direkt zur Fabrik nehmen.[END]
 168-2:@Did you try your hand at hauling Claymen?[WAIT]@Pretty tough work, huh?[END]
-168-2E:
+168-2E:@168-2[WAIT]@Ziemlich harte Arbeit, was?[END]
 168-3:@Oh, that's cool in my book.[WAIT]@I think people should be free to do whatever[BREAK]  they want.[END]
-168-3E:
+168-3E:@Oh, 168-3[WAIT]@Ich glaube, man sollte frei entscheiden können,[BREAK]  was man tun möchte.[END]
 168-4:@The other day, Linda and I went to the beach[BREAK]  to pick up dolphin ossicles[WAIT]  when we found Pigmasks' shoes all lined up by[BREAK]  the shore.[WAIT]@You don't think they all jumped to their deaths,[BREAK]  do you?![WAIT]@If not, what are they doing? Sea bathing?[BREAK]  Diving?[WAIT]  I wonder what they could be doing...[END]
-168-4E:
+168-4E:@Damals gingen Linda und ich zum Strand um[BREAK]  Delfinohrknöchelchen zu suchen[WAIT]  als wir auf einmal eine Reihe Schweinemasken-[BREAK]  schuhe an der Küste fanden.[WAIT]@Du glaubst doch nicht, dass sie alle in ihr[BREAK]  Verderben gesprungen sind, oder?![END]
 168-5:@A wide-screen, flat-panel thing.[BREAK]  Is it a type of Happy Box?[END]
-168-5E:
+168-5E:@Ein weit, flachbildschirm-Dingens.[BREAK]  Ist das eine Art Glückseeligkeitsbox?[END]
 
 [Container 169]
 169-0:@Oh, [LUCAS 23 02 00]. Welcome.[WAIT]@Fuel's been helping out around the store lately.[BREAK]  He's a real life-saver.[WAIT]@Oh, are you here to buy something?[WAIT]  What can I get you?[END]
-169-0E:
+169-0E:@Oh, [LUCAS 23 02 00]. Willkommen.[WAIT]@Fuel hilft mir im Shop aus.[BREAK]  Er ist ein wahrer Lebensretter.[WAIT]@Oh, bist du da um was zu kaufen?[WAIT]  Was soll es denn sein?[END]
 169-1:@Thanks.[BREAK]@Come again![END]
-169-1E:
+169-1E:@Danke.[BREAK]@Auf Wiedersehen![END]
 169-2:@Oh, [LUCAS 23 02 00]. Welcome.[WAIT]@Are you here to buy something?[WAIT]  What can I get you?[END]
-169-2E:
+169-2E:@Oh, [LUCAS 23 02 00]. Willkommen.[WAIT]@Oh, bist du da um was zu kaufen?[WAIT]  Was soll es denn sein?[END]
 169-3:@Potato-like men are my type.[END]
-169-3E:
+169-3E:@Kartoffelmänner sind mein Typ.[END]
 169-4:@Fuel's been helping out around the store,[PAUSE 1E 00] but[BREAK]  sometimes I feel like he's getting in the way.[WAIT]@I don't have the heart to tell him, though.[END]
-169-4E:
+169-4E:@Fuel hilft im Shop aus, [PAUSE 1E 00]aber manchmal finde[BREAK]  ich, dass er eher im Weg steht.[WAIT]@Ich bring es aber nicht übers Herz das ihm zu[BREAK]  sagen.[END]
 169-5:@Fuel sometimes eats the store's bread.[WAIT]@I've seen him do it.[WAIT]@I only eat it once in a while.[END]
-169-5E:
+169-5E:@Fuel nascht manchmal vom Brot.[WAIT]@Ich habe ihn dabei erwischt.[WAIT]@Ich esse nur ab und zu mal was.[END]
 169-6:@Fuel's got this crazy idea that I like him...[WAIT]@But that would never[PAUSE 20 00], ever[PAUSE 20 00] happen, just so[BREAK]  you know![END]
-169-6E:
+169-6E:@Fuel hat diesen albernen Gedanken, dass ich[BREAK]  ihn mag...[WAIT]@Aber das würde niemals[PAUSE 20 00], NIEMALS[PAUSE 20 00] passieren, [BREAK]  nur damit du es weißt![END]
 169-7:@The factory?[WAIT]@I walked along the tracks to get there one[BREAK]  time.[WAIT]@It was so far away![WAIT]@My dad yelled at me afterwards.[END]
-169-7E:
+169-7E:@Die Fabrik?[WAIT]@Ich bin ein mal entlang der Schienen gelaufen[BREAK]  um dorthin zu kommen.[WAIT]@Es war so weit weg![WAIT]@Mein Vater hat mich danach angeschrien.[END]
 169-8:@I love helping people out.[END]
-169-8E:
+169-8E:@Ich liebe es Leuten zu helfen.[END]
 169-9:@How are you? I'm just great![END]
-169-9E:
+169-9E:@Wie geht's dir? Mir geht's einfach großartig![END]
 169-10:@Angie keeps watching me all annoying-like.[WAIT]@I wonder if she likes me...[END]
-169-10E:
+169-10E:@Angie sieht mich die ganze Zeit so genervt an.[WAIT]@Ich frage mich, ob sie mich mag...[END]
 169-11:@Freshly-baked bread. Not to be poked at.[END]
-169-11E:
+169-11E:@Frischgebackenes Brot. Nicht mit den Finger[BREAK]  darin herumstochern.[END]
 
 [Container 170]
 170-0:@I'm the producer for "Mr. Pirkle and Ms.[BREAK]  Lardna's Love Nest".[END]
-170-0E:
+170-0E:@Ich bin der Produzierer von "Herr Pirkle und[BREAK]  Frau Lardnas Liebesnest".[END]
 170-1:@The wallpaper here is made to look like a filled[BREAK]  bookcase.[END]
-170-1E:
+170-1E:@Die Tapete hier soll so aussehen wie ein[BREAK]  gefülltes Bücherregal.[END]
 
 [Container 171]
 171-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
@@ -8027,150 +8027,150 @@
 171-17E:@Dies scheint irgendein besonderer Ort zu sein.[END]
 // Repeats: 131-17, 171-17
 171-18:@Oh, a kid from the village.[WAIT]@You're so nice and unsophisticated.[END]
-171-18E:
+171-18E:@Oh, ein Kind vom Dorf.[WAIT]@Du bst so nett und einfach.[END]
 171-19:@It used to be that Tazmily's villagers were the[BREAK]  only people you saw around here,[WAIT]  but these days, visitors from far away have[BREAK]  been growing in number.[WAIT]@And those visitors[PAUSE 20 00] are us![WAIT]@Hahahahaha![END]
-171-19E:
+171-19E:@Früher waren die Bewohner von Tazmily die[BREAK]  einzigen hier in dieser Gegend,[WAIT]  aber heutzutage wächst die Zahl an Besuchern[BREAK]  von weiter weg.[WAIT]@Und diese Besucher[PAUSE 20 00] sind wir![WAIT]@Muahahahaha![END]
 
 [Container 172]
 172-0:@*squawk* *squawk*![BREAK]  I'm not stuffed![WAIT]@I'm alive![PAUSE 1E 00] I'm plenty alive, dagnabbit![END]
-172-0E:
+172-0E:@*krächz**krächz*![BREAK]  Ich bin nicht gestopft![WAIT]@Ich lebe![PAUSE 1E 00] Ich bin total am Leben,[BREAK]  Herrschaftszeiten![END]
 172-1:[END]
-172-1E:
+172-1E:[END]
 
 [Container 173]
 173-0:@Today's Menu[WAIT]@[FAVFOOD] Bowl[BREAK]@[FAVFOOD] Curry[BREAK]@[FAVFOOD] Fried Rice[BREAK]@[FAVFOOD] Egg Soup[BREAK]@[FAVFOOD] Soup[BREAK]@Meh Salad with [FAVFOOD] Topping[BREAK]@[FAVFOOD] Lunch[BREAK]@[FAVFOOD] Combo[BREAK]@[FAVFOOD] Set[BREAK]@Jumbo [FAVFOOD][BREAK]@[FAVFOOD] Parfait[BREAK]@[FAVFOOD] Juice[BREAK]@[FAVFOOD] Special[END]
-173-0E:
+173-0E:@Heutiges Menü[WAIT]@[FAVFOOD] Suppe[BREAK]@[FAVFOOD] Curry[BREAK]@[FAVFOOD] Reis[BREAK]@[FAVFOOD] Einlauf[BREAK]@[FAVFOOD] Suppe[BREAK]@Salat mit [FAVFOOD]-Topping[BREAK]@[FAVFOOD] mit Brot[BREAK]@[FAVFOOD] Combo[BREAK]@[FAVFOOD] Set[BREAK]@Jumbo [FAVFOOD][BREAK]@[FAVFOOD] Parfait[BREAK]@[FAVFOOD] Saft[BREAK]@[FAVFOOD] Spezial[END]
 173-1:@There's nothing wrong with being picky![END]
-173-1E:
+173-1E:@Man darf doch wohl wählerisch sein![END]
 173-2:@Fill yourself up with your favorite food, and[BREAK]  nothing else![WAIT]@That's this restaurant's... rule.[END]
-173-2E:
+173-2E:@Fülle deinen Magen mit deinem Lieblingsessen,[BREAK]  und nichts anderem![WAIT]@Das ist unsere... Regel.[END]
 173-3:@This shop's filled to the brim with pretty girls.[END]
-173-3E:
+173-3E:@Dieses Geschäft ist bis zum Rand mit[BREAK]  hübschen Mädels gefüllt.[END]
 173-4:@Aya[PAUSE 0E 00]a[PAUSE 0E 00]a[PAUSE 0E 00]e[PAUSE 0E 00]e[PAUSE 0E 00]e![BREAK]@I think it's a dung beetle![END]
-173-4E:
+173-4E:@Aya[PAUSE 0E 00]a[PAUSE 0E 00]a[PAUSE 0E 00]e[PAUSE 0E 00]e[PAUSE 0E 00]e![BREAK]@Ich glaube, das ist ein Mistkäfer![END]
 173-5:@I know I don't look like it, but I'm a robot![BREAK]  Honestly, now![END]
-173-5E:
+173-5E:@Ich weiß, dass ich nicht so aussehe, aber ich[BREAK]  bin ein Roboter! Jetzt, ernsthaft![END]
 173-6:@BROKEN[PAUSE 10 00] BROKEN[PAUSE 10 00] I'M SO BROOOKEN.[PAUSE 10 00][WAIT] *clank* *clank* *thud*[END]
-173-6E:
+173-6E:@Ich und mein Holz. Ich und mein Holz. Aha.[WAIT] *rausch* *rausch* *bumm*[WAIT]@Oh, nein! Mein Lautsprecher ist kaputt. Wie[BREAK]  soll ich jetzt nur weiter dieses Meisterstück[WAIT]  der Musik hören?! Und mein Wap bab erst![WAIT]  *schluchz*[END]
 // this was a pop culture reference in Japanese to a famous old song, but I couldn't come up with a good American equivalent
 173-7:@I keep hearing this "Ding!" sound coming from[BREAK]  the kitchen.[WAIT]@What could that be?[END]
-173-7E:
+173-7E:@Ich höre die ganze Zeit ein "Ding!"-Geräusch[BREAK]  aus der Küche.[WAIT]@Was könnte das sein?[END]
 // It's a microwave oven sound, not a Mr. Saturn
 173-8:@This town's filling up with more and more[BREAK]  people, but this shop's still as empty as ever.[END]
-173-8E:
+173-8E:@Dieses Dorf wird immer voller und voller, aber[BREAK]  dieser Shop ist trotzdem so leer wie eh und je.[END]
 173-9:@This is a restroom.[PAUSE 5A 00][WAIT]@That door you're knocking on leads to a[BREAK]  restroom.[PAUSE 3C 00][WAIT]@What business do you have in a restroom?![END]
-173-9E:
+173-9E:@Das ist eine Toilette.[PAUSE 5A 00][WAIT]@Die Tür, an die du klopfst, führt zu einer[BREAK]  Toilette.[PAUSE 3C 00][WAIT]@Was willst du in einer Toilette?![END]
 173-10:@A cleaning supply closet.[END]
-173-10E:
+173-10E:@Ein Putzschrank.[END]
 173-11:@You people don't fit in with this shop.[END]
-173-11E:
+173-11E:@Ihr passt nicht rein in dieses Geschäft.173-11[END]
 173-12:@Like, girls like fancy hamburger shops more[BREAK]  than men do, y'know?[WAIT]@And, like, most of the time, girls sit in groups.[WAIT]@Also, girls like stuff like French food and stuff,[BREAK]  y'know?[WAIT]@And they just love curry, y'know?[WAIT]  Right? Right?[WAIT]@In my case, if there's, like, curry or something,[BREAK]  I totally can't say no to it.[WAIT]@I eat, like, way more rice than usual, y'know?[WAIT]@I eat a shocking amount of rice![END]
-173-12E:
+173-12E:@Halt so, Mädchen mögen so schnucke[BREAK]  Hamburger-Shops mehr als Männer, weißte?[WAIT]@Und halt, dass Mädchen die meiste Zeit in[BREAK]  Gruppen sitzen.[WAIT]@Dazu mögen Mädchen so Zeug wie franzö-[BREAK]  sisches Essen und so Gedöhns, weißte?[WAIT]@Und sie lieben einfach Curry, weißte?[WAIT]  Nicht wahr? Richtigr?[WAIT]@In meinem Fall kann ich, wenn es halt so etwas[BREAK]  wie Curry gibt, total nicht Nein dazu sagen.[WAIT]@Ich esse halt viel mehr Reis als[BREAK]  gewöhnlich, weißte?[WAIT]@Ich esse eine schockierende Menge Reis![END]
 173-13:@Compared to, like, people long ago, don't you[BREAK]  think we drink, like, way more water?[WAIT]@Like, people in the old days didn't drink this[BREAK]  much water, y'know?[WAIT]@My old man, he, like, drinks waaaay less water[BREAK]  than me.[WAIT]@When I, like, think about that, I, like, sorta feel[BREAK]  like people are a lost cause, you know?![WAIT]@Like, if something happens, I, like, HAVE to[BREAK]  have my water![WAIT]@Are we sea monsters?[PAUSE 2D 00] Of course we're not![WAIT]  We ARE, like, human, though![WAIT]@But we drink water.[WAIT]@Hey, you! You even listenin' to me?![END]
-173-13E:
+173-13E:@Verglichen mit so uralten Menschen, findest[BREAK]  du nicht, dass wir halt so viel mehr Wasser[WAIT]  trinken?[WAIT]@Also so, in die Jahre gekommen Leute haben[BREAK]  halt nicht so viel Wasser getrunken, weißte?[WAIT]@Mein Alter, er trinkt halt so viiiiiiiiel weniger[BREAK]  Wasser als ich.[WAIT]@Wenn ich halt so drüber nachdenke. Denke ich[BREAK]  halt, dass Menschen ein hoffnungsloser Fall[WAIT]  sind, weißte?![WAIT]@Halt, wenn etwas passiert, MUSS ich halt[BREAK]  mein Wasser haben![WAIT]@Sind wir Seeungeheuer?[PAUSE 2D 00] Natürlich nicht![WAIT]  Wior SIND halt Menschen![WAIT]
 
 [Container 174]
 174-0:@Ooh! Look at him suck up the water![END]
-174-0E:
+174-0E:@Ohh! Sieh nur wie er Wasser ausschlürft![END]
 174-1:@Ooooh![WAIT]@The pond is slowly emptying![WAIT]@More! Do more![END]
-174-1E:
+174-1E:@Ooooh![WAIT]@Der Teich leert sich langsam![WAIT]@Weiter! Mach weiter![END]
 
 [Container 175]
 175-0:@Ooh, just look at him swagger away so[BREAK]  confidently! [HEART][WAIT]@He leaves the stage with such a calm air[BREAK]  about him![WAIT]@A natural if I ever saw one![BREAK]  What a casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Mr. Pump! [HEART][END]
-175-0E:
+175-0E:@Ooh, sieh nur wie er voller Zuversicht prahlt! [HEART][WAIT]@Er verlässt die Bühne mit so einem chilligen[BREAK]  Gesichtsausdruck![WAIT]@Ein Naturtalent wie er im Buche steht![BREAK]  Was für ein Casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Herr Pump! [HEART][END]
 175-1:@There it is! [HEART][WAIT]@That's the Needle! [HEART][WAIT]@One of the seven Needles sealing the Dragon[BREAK]  away![END]
-175-1E:
+175-1E:@Da ist es! [HEART][WAIT]@Da ist die Nadel! [HEART][WAIT]@Eine der sieben Nadeln, die den Drachen[BREAK]  versiegeln![END]
 175-2:@What's gonna happen when you pull it?[WAIT]@I dunno yet, either.[END]
-175-2E:
+175-2E:@Was wohl passieren wird, wenn du ihn[BREAK]  rausziehst?[WAIT]@Ich weiß es auch noch nicht.[END]
 175-3:@What's...[END]
-175-3E:
+175-3E:@Was wird...[END]
 175-4:@What's gonna happen to us?[END]
-175-4E:
+175-4E:@Was wird mit uns geschehen?[END]
 175-5:@Where are you going?! The Needle is right here![END]
-175-5E:
+175-5E:@Wo gehst du hin?! Die Nadel ist genau dort![END]
 175-6:@Can you really pull this Needle, like Ionia said...?[WAIT]@I'm not sure if I should be afraid or happy...[WAIT]  A rush of emotions is overcoming me! I can't[BREAK]  believe I'm here, witnessing this moment![WAIT]@*thump*[PAUSE 1E 00] *thump*[PAUSE 1E 00][BREAK]  And another *thump*. [HEART][PAUSE 1E 00][END]
-175-6E:
+175-6E:@Kannst du wirklich die Nadel ziehen, wie Ionia[BREAK]  sagte...?[WAIT]@Ich bin mir nicht sicher, ob ich Angst haben[BREAK]  oder froh sein sollte...[WAIT]  Ein Emotionsrausch überkommt mich! Ich kann[BREAK]  nicht glauben, dass ich hier bin, und Zeuge[WAIT]  dieses Moments sein kann![WAIT]@*klopf*[PAUSE 1E 00] *klopf*[PAUSE 1E 00][BREAK]  Und noch einmal *klopf*. [HEART][PAUSE 1E 00][END]
 175-7:@Okay! Now pull it! [HEART][WAIT]@With all your might! [HEART][WAIT]@Right before my very eyes! [HEART][END]
-175-7E:
+175-7E:@Okay! Jetzt zieh es raus! [HEART][WAIT]@Mit all deiner Kraft! [HEART][WAIT]@Vor meinen Augen! [HEART][END]
 175-8:@If this Needle gets pulled, will you disappear[BREAK]  like Aeolia did?[END]
-175-8E:
+175-8E:@Wenn diese Nadel gezogen wird, wirst du dann[BREAK]  wie Aeolia verschwinden?[END]
 175-9:@Yes, that's right. [HEART][WAIT]@Because the Needle won't need my protection[BREAK]  anymore...[WAIT]@The Needle can only be pulled when "the time"[BREAK]  comes.[WAIT]@So when the Needle finally IS pulled, "the time"[BREAK]  has come.[WAIT]@We Magypsies have lived our lives so that we[BREAK]  can happily accept that fate when it comes.[WAIT]@So don't worry. I'm not going to die. [HEART][WAIT]@I'm simply going to follow fate and disappear.[WAIT]@So it will be a happy thing.[PAUSE 1E 00][WAIT]@I do have many fond memories, though,[PAUSE 1E 00] so it[BREAK]  will be a little sad, too. *giggle*[END]
-175-9E:
+175-9E:@Ja, richtig. [HEART][WAIT]@Weil die Nadel meinen Schutz nicht mehr[BREAK]  braucht...[WAIT]@Die Nadel kann nur gezogen werden, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Also wenn die Nadel endlich gezogen IST, ist[BREAK]  "die Zeit" gekommen.[WAIT]@Wir Magypsies haben unsere Leben so gelebt,[BREAK]  dass wir freien Mutes dieses Schicksal[BREAK]  akzeptieren können, wenn es kommt.[WAIT]@Also keine Sorge. Ich werde nicht sterben. [HEART][WAIT]@Ich werde einfach meinem Schicksal folgen[BREAK]  und verschwinden.[WAIT]@Also ist dies eine glückliche Sache.[PAUSE 1E 00][WAIT]@Ich habe aber auch liebgewonne Erinnerungen,[BREAK]  [PAUSE 1E 00]also ist es auch etwas traurig. *kicher*[END]
 175-10:@Pull the Needle?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-175-10E:
+175-10E:@Die Nadel herausziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 100-10, 175-10, 186-14
 175-11:@Now pull it! [HEART][WAIT]@Pull it right out! [HEART][WAIT]@Come on, now! [HEART][WAIT]@Do it!! [HEART][END]
-175-11E:
+175-11E:@Zieh! [HEART][WAIT]@Zieh es raus! [HEART][WAIT]@Jetzt komm schon! [HEART][WAIT]@Mach es!! [HEART][END]
 175-12:@This really is...[PAUSE 20 00] the beginning of the end.[WAIT]@"The time" has finally come...[PAUSE 18 00] Eeee! [HEART][END]
-175-12E:
+175-12E:@Dies ist wirklich...[PAUSE 20 00] der Anfang vom Ende.[WAIT]@"Die Zeit" ist endlich gekommen...[PAUSE 18 00] Eeee! [HEART][END]
 175-13:@I never once imagined someone would show up[BREAK]  at this tender girl's home to pull the Needle. [HEART][END]
-175-13E:
+175-13E:@Ich hatte mir nie ausgemahlt, dass jemand zum[BREAK]  Hause dieses zärtlichen Mädchens kommen[WAIT]  würde um die Nadel zu ziehen. [HEART][END]
 175-14:@Disappearing while still young and beautiful...[WAIT]  In one sense...[PAUSE 18 00] it's bliss. [HEART][END]
-175-14E:
+175-14E:@Schon zu verschwinden, während man noch[BREAK]  jung und schön ist...[WAIT]  Im gewissen Sinne...[PAUSE 18 00] ist das eine Wonne. [HEART]
 175-15:@[KUMATORA 23 04 00].[WAIT]@Go with little [LUCAS 23 02 00] here and[BREAK]  see things through to the end. [HEART][END]
-175-15E:
+175-15E:@[KUMATORA 23 04 00].[WAIT]@Gehe mit [LUCAS 23 02 00] hier und schau wie[BREAK]  die Dinge vorangehen. [HEART][END]
 175-16:@I'm about to disappear youthfully[BREAK]  and beautifully...[WAIT]@Think about me sometimes, okay? [HEART][WAIT]@Here, take this memento of me. [HEART][END]
-175-16E:
+175-16E:@Ich bin dabei jung und schön zu verschwinden...[WAIT]@Denk an mich, okay? [HEART][WAIT]@Hier, nimm dieses Memento von mir. [HEART][END]
 175-17:@Received [ITEM EC 00][PAUSE 40 00]![END]
-175-17E:
+175-17E:@[ITEM EC 00] erhalten[PAUSE 40 00]![END]
 175-18:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
 175-18E:@Meine Güte. Dein Inventar ist voll.[WAIT]@Oh, wie schade! [HEART][END]
 // Repeats: 80-41, 175-18
 175-19:@Oh, wait. I almost forgot something very[BREAK]  important.[WAIT]@Could you give this to Ionia for me? [HEART][END]
-175-19E:
+175-19E:@Oh, warte. Ich hätte fast etwas sehr[BREAK]  wichtiges vergessen.[WAIT]@Könntest du das hier Ionia geben? [HEART][END]
 // Repeats: 98-9, 175-19
 175-20:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-175-20E:@Übergib es, und Ionia sollte erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
+175-20E:@Übergib es, und Ionia wird erkennen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 175-21:@I leave the rest in your hands now. [HEART][END]
-175-21E:
+175-21E:@Den Rest überlasse ich jetzt dir. [HEART][END]
 175-22:@Bye, now! [HEART][WAIT]@La la la! [HEART][END]
-175-22E:
+175-22E:@Tschüssi! [HEART][WAIT]@La la la! [HEART][END]
 175-23:@Ionia told me this a long time ago.[END]
-175-23E:
+175-23E:@Ionia hat mir das vor langer Zeit erzählt.[END]
 175-24:@When the Dark Dragon that's sleepin' under[BREAK]  the island wakes up,[WAIT]  all life and all time'll be reborn...[END]
-175-24E:
+175-24E:@Wenn der schwarze Drache, der unter dieser[BREAK]  Insel schläft, aufwacht.[WAIT]  wird alles Leben und alle Zeit wiedergeboren...[END]
 175-25:@I dunno what's gonna happen,[WAIT]  but I'm gonna see things through to the end.[WAIT]@[LUCAS 23 02 00]. Can I come along with you?[WAIT][PAUSE 1E 00]@...I wanna go with you.[END]
-175-25E:
+175-25E:@Keine Ahnung was passieren wird, aber ich werde bis zum Ende dabei sein.[WAIT]@[LUCAS 23 02 00]. Darf ich mit dir kommen?[WAIT][PAUSE 1E 00]@...Ich möchte mit dir gehen.[END]
 175-26:@We hafta hurry and find [DUSTER 23 03 00] and[BREAK]  the Egg of Light, too![END]
-175-26E:
+175-26E:@Wir müssen uns beeilen und [DUSTER 23 03 00][BREAK]  finden und das Ei des Lichts auch![END]
 175-27:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
-175-27E:
+175-27E:@[KUMATORA 23 04 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 175-28:@[SALSA 23 06 00].[BREAK]@We just met again after all this time,[WAIT]  but it looks like this is goodbye again.[END]
-175-28E:
+175-28E:@[SALSA 23 06 00].[BREAK]@Wir haben uns nach so einer langen Zeit erst[BREAK]  wieder getroffen, aber es ist wohl schon[WAIT]  wieder Zeit Abschied zu nehmen.[END]
 175-29:@You and Love Monkey take care, now.[END]
-175-29E:
+175-29E:@Du und Liebesaffe. Passt auf euch auf.175-29[END]
 175-30:@What's with that look?[WAIT]@You're such a sentimental monkey...[END]
-175-30E:
+175-30E:@Was schaust du denn so?[WAIT]@Du bist solch ein sentimentaler Affe...[END]
 175-31:@Let's go![WAIT]@Let's get to that next Needle![END]
-175-31E:
+175-31E:@Los geht's![WAIT]@Auf zur nächsten Nadel![END]
 175-32:@Huh?[WAIT]@What is it?[PAUSE 40 00][EVENT][END]
-175-32E:
+175-32E:@Häh?[WAIT]@Was ist das?[PAUSE 40 00][EVENT][END]
 175-33:@A [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]For me?[END]
-175-33E:
+175-33E:@Eine [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Für mich?[END]
 // item is a Nut
 175-34:@Received a [ITEM 5D 00].[END]
-175-34E:
+175-34E:@Eine [ITEM 5D 00] erhalten.[END]
 // item is a Nut
 175-35:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Sorry, but we're holding too much stuff[BREAK]  right now.[END]
-175-35E:
+175-35E:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Sorry, but we're holding too much stuff[BREAK]  right now. 175-35[END]
 175-36:@Thanks![END]
-175-36E:
+175-36E:@Danke![END]
 175-37:@See you later, if we ever get the chance![END]
-175-37E:
+175-37E:@Auf Wiedersehen, wenn wir jemals wieder die[BREAK]  Chance dazu haben![END]
 
 [Container 176]
 176-0:@Leave Schneekronenberg?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-176-0E:
+176-0E:@Schneekronenberg verlassen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 176-1:[END]
-176-1E:
+176-1E:[END]
 
 [Container 177]
 177-0:@Ooooh![BREAK]@Look! Look![WAIT]@Just look at him go![WAIT]@It's enough to give me chills![END]
-177-0E:
+177-0E:@Ooooh![BREAK]@Schau! Schau![WAIT]@Schaum, wie er geht![WAIT]@Da läuft es mir kalt den Rücken runter![END]
 177-1:[END]
-177-1E:
+177-1E:[END]
 
 [Container 180]
 180-0:[HOTSPRING 00 00][END]
@@ -8267,74 +8267,74 @@
 180-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 180-31:@The mailbox lid is open...[WAIT]@Peek inside?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-31E:
+180-31E:@Der Briefkasten ist offen...[WAIT]@Reinlinsen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 180-31, 878-27
 180-32:@There are lots of postcards inside.[WAIT]@Read them?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-32E:
+180-32E:@Da sind viele Postkarten drin.[WAIT]@Sie lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 180-32, 878-28
 180-33:@The boy named [LUCAS 23 02 00] is crying at a[BREAK]  grave.[WAIT]@The boy named [LUCAS 23 02 00] and his dog are[BREAK]  loitering in the forest.[WAIT]@The boy named [LUCAS 23 02 00] is getting into[BREAK]  trouble in the mountains.[WAIT]@The boy named [LUCAS 23 02 00] stole [ITEM 5D 00]s[BREAK]  from our garden.[WAIT]@The boy named [LUCAS 23 02 00] is bullying[BREAK]  animals.[WAIT]@The boy named [LUCAS 23 02 00] learned some[BREAK]  bad magic.[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] .........[PAUSE 20 00][WAIT]@The mailbox let out a tremendous scream.[END]
-180-33E:
+180-33E:@Der Junge namens [LUCAS 23 02 00] weint an[BREAK]  einem Grab.[WAIT]@Der Junge namens [LUCAS 23 02 00] und sein[BREAK]  Hund lunger im Wald herum.[WAIT]@Der Junge namens [LUCAS 23 02 00] stößt in den[BREAK]  Bergen auf Ärger.[WAIT]@Der Junge namens [LUCAS 23 02 00] stahl Nüsse aus unserem Garten.[WAIT]@Der Junge namens [LUCAS 23 02 00] mobbt Tiere.[WAIT]@Der Junge names [LUCAS 23 02 00] lernte[BREAK]  schwarze Magie.[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] .........[PAUSE 20 00][WAIT]@Der Briefkasten macht einen fürchterlichen[BREAK]  Schrei.[END]
 // item = Nut
 180-34:@Someone looked back at you from inside the[BREAK]  mailbox![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Or so it seemed, but it must've been your[BREAK]  imagination.[END]
-180-34E:
+180-34E:@Jemand sah dich aus dem Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber es muss[BREAK]  eine Einbildung gewessen sein.[END]
 180-35:@Inside the mailbox were countless screams.[END]
-180-35E:
+180-35E:@Im Briefkasten waren zahllose Schreie.[END]
 180-36:@Stuffed inside the mailbox was sheer,[BREAK]  never-ending darkness.[END]
-180-36E:
+180-36E:@Im Briefkasten war eine schier[BREAK]  niemals-endende Dunkelheit.[END]
 180-37:@Inside the mailbox was the sound of yourself[BREAK]  crying.[END]
-180-37E:
+180-37E:@Im Briefkasten war das Geräusch deines[BREAK]  eigenen Weinens.[END]
 180-38:@Inside the mailbox was absolutely nothing.[WAIT]@Nothing after nothing came bursting out.[END]
-180-38E:
+180-38E:@Im Briefkasten war absolut nichts.[WAIT]@Nichts und Nichts kam herausgebrochen.[END]
 180-39:@Inside the mailbox were lots of pretty[BREAK]  butterflies.[END]
-180-39E:
+180-39E:@Im Briefkasten waren eine Menge schöne[BREAK]  Schmetterlinge.[END]
 180-40:@Someone looked back at you from inside the[BREAK]  mailbox![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Or so it seemed, but you were the one[BREAK]  looking from the other side, too.[END]
-180-40E:
+180-40E:@Jemand sah dich aus dem Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber du warst derjenige,[BREAK]  der auch von der anderen Seite geschaut hat.[END]
 180-41:@![PAUSE 40 00][BREAK]@There was nothing inside.[END]
-180-41E:
+180-41E:@![PAUSE 40 00][BREAK]@Da war nichts drin.[END]
 180-42:@Inside the mailbox was a pile of rotten, putrid[BREAK]  [FAVFOOD].[END]
-180-42E:
+180-42E:@Im Briefkasten war ein Haufen verrotteter,[BREAK]  schimmliger [FAVFOOD].[END]
 180-43:@[DUSTER 23 03 00]...[WAIT]@It was my fault you lost full use of your left[BREAK]  leg.[WAIT]@I'm sorry...[WAIT]@Don't leave me again.[WAIT]@Come with me. Let's leave this place together.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-43E:
+180-43E:@[DUSTER 23 03 00]...[WAIT]@Es war alles meine Schuld, dass dein linkes[BREAK]  Bein nicht mehr voll nutzen kannst.[WAIT]@Es tut mir leid...[WAIT]@Verlass mich nicht nochmal.[WAIT]@Komm mit mir. Gehen wir zusammen von hier[BREAK]  fort.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-44:@Oh, wonderful![WAIT]@In that case, I'll take you with me.[WAIT][PAUSE 50 00][BREAK]@To a dark, far-away place![END]
-180-44E:
+180-44E:@Oh, wundervoll![WAIT]@Wenn das so ist, werde ich dich mitnehmen.[WAIT][PAUSE 50 00][BREAK]@Zu einem dunklen, weit entfernten Ort![END]
 180-45:@Oh, wonderful![WAIT]@Oh, I know![WAIT]@Let's take Princess [KUMATORA 23 04 00] with us,[BREAK]  too![WAIT][PAUSE 50 00]@To a dark, far-away place![END]
-180-45E:
+180-45E:@Oh, wundervoll![WAIT]@Genau, ich weiß![WAIT]@Nehmen wir Prinzessin [KUMATORA 23 04 00] auch[BREAK]  mit![WAIT]@Zu einem dunklen, weit entfernten Ort![END]
 180-46:@You ungrateful child.[BREAK]  You would make anyone cry.[END]
-180-46E:
+180-46E:@Du undankbares Kind,[WAIT]  Du bringst andere zum Weinen.[END]
 180-47:@[LUCAS 23 02 00].[WAIT]@Where is [HINAWA 22 08 00]?[WAIT]@Have you seen [HINAWA 22 08 00] anywhere?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-47E:
+180-47E:@[LUCAS 23 02 00].[WAIT]@Wo ist [HINAWA 22 08 00]?[WAIT]@Hast du [HINAWA 22 08 00] irgendwo gesehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-48:@Oh. Then bring her here right away.[END]
-180-48E:
+180-48E:@Oh. Dann bring sie sofort hierher.[END]
 180-49:@I know you've seen her![END]
-180-49E:
+180-49E:@Ich weiß, dass du sie gesehen hast.[END]
 180-50:@Say, [LUCAS 23 02 00]. Whatcha up to?[WAIT]@It looks so fun! Let me join you![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-50E:
+180-50E:@Sag, [LUCAS 23 02 00]. Was haste vor?[WAIT]@Das sieht lustig aus! Lass mich mitgehen![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-51:@Yes![WAIT]@Okay, then I'll be at the very end![BREAK]@Thanks![END]
-180-51E:
+180-51E:@Ja![WAIT]@Okay, ich werde am Ende auf dich warten![BREAK]@Danke![END]
 180-52:@[LUCAS 23 02 00].[WAIT]  [LUCAS 23 02 00].[WAIT]@I'm [CLAUS 22 05 00].[WAIT]  [CLAUS 22 05 00].[WAIT]@I'm the [CLAUS 22 05 00] you can't see,[BREAK]  [LUCAS 23 02 00].[END]
-180-52E:
+180-52E:@[LUCAS 23 02 00].[WAIT]  [LUCAS 23 02 00].[WAIT]@Ich bin [CLAUS 22 05 00].[WAIT]  [CLAUS 22 05 00].[WAIT]@Ich bin der [CLAUS 22 05 00], den du nicht sehen[BREAK]  kannst, [LUCAS 23 02 00].[END]
 180-53:@You won't let me join in?[BREAK]  Why not? Why not?[WAIT]@Why won't you let me join in?[END]
-180-53E:
+180-53E:@Ich darf nicht mitgehen![BREAK]  Warum nicht? Warum nicht![WAIT]@Warum nimmst du mich nicht mit?[END]
 180-54:@Go to sleep.[BREAK]  In the absolute darkness.[WAIT]  Don't do aaaanything.[BREAK]  Don't see anyone.[WAIT]  Just sleep.[PAUSE 0F 00][WAIT]@It'll be oh, so much fun......![BREAK]  Ohohohoho![END]
-180-54E:
+180-54E:@Geh schlafen.[BREAK]  In der absoluten Dunkelheit.[WAIT]  Mach gaaaaar nichts.[BREAK]  Sehe niemanden.[WAIT]  Schlaf einfach.[PAUSE 0F 00][WAIT]@Es wird so, so viel Spaß.........![BREAK]  Ohohohohoho![END]
 180-55:@I'm gonna beat you.[BREAK]  I'm gonna beat you, boy.[WAIT]@Daddy's gonna beat you.[END]
-180-55E:
+180-55E:@Ich werde dich schlagen.[BREAK]  Ich werde dich schlagen, Junge.[WAIT]@Papa wird dich schlagen.[END]
 180-56:@It's almost suppertime.[WAIT]@[HINAWA 22 08 00] should be back soon.[WAIT]@What? She's not coming back?[BREAK]  Why, did you do something to her?[WAIT]@Huh? I did it to her?[WAIT]  [HINAWA 22 08 00] isn't coming back?[WAIT]@Who are you?[BREAK]  What did you do?[WAIT]@It's time for supper.[WAIT]  It's time for supper.[END]
-180-56E:
+180-56E:@Es ist fast Zeit für's Abendessen.[WAIT]@[HINAWA 22 08 00] sollte bald zurück kommen.[WAIT]@Was? Sie komm nicht?[BREAK]  Warum, hast du ihr etwas angetan?[WAIT]@Was? Ich habe es getan?[WAIT]  [HINAWA 22 08 00] kommt nicht zurück?[WAIT]@Wer bist du?[BREAK]  Was hast du getan?[WAIT]@Es ist Zeit für's Abendessen.[WAIT]  Es ist Zeit für's Abendessen.[END]
 180-57:@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[END]
-180-57E:
+180-57E:@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[END]
 180-58:@Is Is Is Is Is there there there there there[BREAK] something something something something[WAIT]  on on on on on on on my my my my face face[BREAK]  face face face face face face ? ? ? ? ? ? ? ?[WAIT]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00].[PAUSE 18 00].[PAUSE 20 00].[PAUSE 40 00][WAIT]@You're scary.[WAIT]  You're you're you're you're you're TOO TOO[BREAK]  TOO TOO TOO ssss ssss sssscary scary.[END]
-180-58E:
+180-58E:@Ist Ist Ist Ist da da da da da da da etwas etwas etwas etwas auf auf auf auf auf auf auf auf[WAIT]  meinem meinem meinem meinem Gesicht Gesicht Gesicht Gesicht Gesicht Gesicht ? ? ? ? ? ? ?[WAIT]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00].[PAUSE 18 00].[PAUSE 20 00].[PAUSE 40 00][WAIT]@Du bist gruselig.[WAIT]  Du bist du bist du bist du bist du bist ZU ZU ZU[BREAK]  ZU ZU ZU gggg gggg ggggruselig gruselig.[END]
 180-59:@Your mommy's waiting for you.[WAIT]@She's waiting for you with fresh-made[BREAK]  [FAVFOOD].[WAIT]  She's waiting.[PAUSE 1E 00][WAIT]@SHE'S WAITING FOR YOU![END]
-180-59E:
+180-59E:@Deine Mama wartet auf dich.[WAIT]@Sie wartet mit frischen [FAVFOOD] auf[BREAK]  dich.[WAIT]  Sie wartet.[PAUSE 1E 00][WAIT]@SIE WARTET AUF DICH![END]
 180-60:@Have you seen me anywhere?[BREAK]  Where could I have gone?[WAIT]@You[PAUSE 20 00] hid me, didn't you?[END]
-180-60E:
+180-60E:@Hast du mich irgendwo gesehen?[BREAK]  Wo könnte ich hin sein?[WAIT]@Du[PAUSE 20 00] hast mich versteckt, oder?[END]
 180-61:@Yes![WAIT]@Fi na l ly, I canh ave ame al af ter al lth ist ime![END]
-180-61E:
+180-61E:@Ja![WAIT]@En dl ich, k an nich ei ni chna ch all derz ei tha[BREAK]  ben![END]
 180-62:@Everyone's waiting for you.[WAIT]@Everyone's waiting to throw rocks at you, spit[BREAK]  on you, and make your life hell.[PAUSE 1E 00][WAIT]@Who's "everyone"...?[PAUSE 38 00][BREAK]  Everyone you love.[END]
-180-62E:
+180-62E:@Alle warten auf dich.[WAIT]@Alle warten darauf Steine auf dich zu werfen, dich anzuspucken, und dein Leben zur Hölle zu machen.[PAUSE 1E 00][WAIT]@Wer ist "alle"...?[PAUSE 38 00][BREAK]  Alle, die du liebst.[END]
 180-63:@Let's switch places.[WAIT]@Let's switch places.[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Let's switch places.[WAIT]@You're more...[PAUSE 1E 00][BREAK]  You're more...[END]
-180-63E:
+180-63E:@Tauschen wir Plätze.[WAIT]@Tauschen wir Plätze.,[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Tauschen wir Plätze.[WAIT]@Du bist mehr...[PAUSE 1E 00][BREAK]  Du bist mehr...[END]
 
 [Container 181]
 181-0:[HOTSPRING 00 00][END]
@@ -8431,27 +8431,27 @@
 181-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 181-31:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-181-31E:
+181-31E:@Du hast ein paar Pilze gefunden, aber sie sehen ziemlich verrückt aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-31, 192-45
 181-32:@[LUCAS 23 02 00] and company felt just dandy![END]
-181-32E:
+181-32E:@[LUCAS 23 02 00] und Begleitung fühlten sich[BREAK]  einfach prima![END]
 181-33:@It's really not a good idea to go into the ocean[BREAK]  right now![END]
-181-33E:
+181-33E:@Es ist wirklich keine gute Idee jetzt ins Meer[BREAK]  zu gehen![END]
 181-34:@Oh, [LUCAS 23 02 00].[WAIT]@What are you doing here?[PAUSE 30 00][WAIT]@Are you lost?[PAUSE 40 00][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-181-34E:
+181-34E:@Oh, [LUCAS 23 02 00].[WAIT]@Was machst du da?[PAUSE 30 00][WAIT]@Hast du dich verirrt?[PAUSE 40 00][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 181-35:@Oh, there's nothing wrong with being lost.[END]
-181-35E:
+181-35E:@Oh, ist doch in Ordnung verirrt zu sein.[END]
 // Repeats: 181-35, 181-36
 181-36:@Oh, there's nothing wrong with being lost![END]
-181-36E:
+181-36E:@Oh, ist doch in Ordnung verirrt zu sein![END]
 // Repeats: 181-35, 181-36
 181-37:@You seem pretty lost to me![END]
-181-37E:
+181-37E:@Du kommst mir ziemlich verirrt vor![END]
 181-38:@*wriggle*[WAIT]@Please excuse me, I'm currently in a stomach.[WAIT]@I was the frog that shouted that emergency[BREAK]  message just now.[WAIT]@Various circumstances led me to be inside this[BREAK]  snake.[WAIT]@Anyway, never mind that. You should probably[BREAK]  save your game. Will you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-181-38E:
+181-38E:@*schlängel*[WAIT]@Bitte entschuldige mich, ich bin momentan in[BREAK]  einem Magen.[WAIT]@Ich war der Frosch, der gerade diese Notfall[BREAK]  -Nachricht gerufen hat.[WAIT]@Verschiedene Umstände führten mich in[BREAK]  diese Schlange.[WAIT]@Aber das ist jetzt egal. Du solltest[BREAK]  vermutlich dein Spiel speichern. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-38, 192-32
 181-39:@Ribbit, ribbit![WAIT]@Will the snake's gastric juices win, or will my[BREAK]  focused determination prevail?[WAIT]@I didn't get swallowed - this is actually a[BREAK]  one-on-one, all-out battle.[END]
-181-39E:
+181-39E:@Quack, quack![WAIT]@Werden die Magensäfte der Schlange siegen,[BREAK]  oder wird meine Entschlossenheit siehen?[WAIT]@Ich wurde nicht verschluckt - das ist ein Einer-[BREAK]  Gegen-Einen, Alles-Oder-Nichts Kampf.[END]
 // Repeats: 181-39, 192-33
 
 [Container 182]
@@ -8578,96 +8578,97 @@
 
 [Container 184]
 184-0:[END]
-184-0E:
+184-0E:[END]
 184-1:[END]
-184-1E:
+184-1E:[END]
 184-2:[END]
-184-2E:
+184-2E:[END]
 184-3:[END]
-184-3E:
+184-3E:[END]
 184-4:[END]
-184-4E:
+184-4E:[END]
 184-5:[END]
-184-5E:
+184-5E:[END]
 184-6:[END]
-184-6E:
+184-6E:[END]
 184-7:[END]
-184-7E:
+184-7E:[END]
 
 [Container 186]
 186-0:@There's the Needle![END]
-186-0E:
+186-0E:@Da ist die Nadel![END]
 186-1:@So that's the Needle thing we're here for?[END]
-186-1E:
+186-1E:@Also das ist diese Nadel-dinges, für das wir[BREAK]  hier sind![END]
 186-2:@[PAUSE 20 00]"I found you.[PAUSE 18 00] I finally[PAUSE 18 00] found you. Nwehehehe!"[PAUSE 3C 00][WAIT]  is what Fassad says.[END]
-186-2E:
+186-2E:@[PAUSE 20 00]"Ich habe dich gefunden.[PAUSE 18 00] Ich habe dich endlich[PAUSE 18 00] gefunden. Nwehehehe!"[PAUSE 3C 00][WAIT]  ist, was Fassad sagt.[END]
 186-3:@Please forgive my late introduction.[WAIT]@I am Fassad's interpreter.[END]
-186-3E:
+186-3E:@Bitte vergib meine späte Vorstellung.[WAIT]@Ich bin Fassads Interpreter.[END]
 186-4:@"Because of you,[PAUSE 10 00] I feel more beautiful,[PAUSE 20 00] newer,[PAUSE 20 00][BREAK]  and more wonderful[PAUSE 20 00] than ever before,[WAIT]  but I will not thank you."[PAUSE 30 00][BREAK]  is what Fassad just said.[END]
-186-4E:
+186-4E:@"Wegen dir,[PAUSE 10 00] fühle ich mich besser,[PAUSE 20 00] neuer,[PAUSE 20 00][BREAK]  und schöner[PAUSE 20 00] als jemals zuvor,[WAIT]  aber ich werde mich nicht dafür bedanken."[PAUSE 30 00][BREAK]  ist, was Fassad gerade gesagt hat.[END]
 186-5:@"Blunder?"[EVENT][END]
-186-5E:
+186-5E:@"Domer?"[EVENT][END]
 186-6:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Threw me off Blunder[PAUSE 18 00] Tower?"[WAIT][PAUSE 40 00]@I'm sorry, I don't understand... [PAUSE 30 00]Ah.[WAIT]  "...off Donnerturm."[EVENT][END]
-186-6E:
+186-6E:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Vom Domer Turm[PAUSE 18 00] geworfen?"[WAIT][PAUSE 40 00]@Entschuldigen Sie, ich verstehe nicht... [PAUSE 30 00]Ah.[WAIT]  "...vom Donnerturm."[EVENT][END]
 186-7:@"You threw me off Donnerturm..."[WAIT]@He goes on to say, "The resulting shame, pain,[BREAK]  and woe[PAUSE 30 00] are humiliating. VERY humiliating.[WAIT]  Therefore, I would very much like to return[BREAK]  the favor in full."[END]
-186-7E:
+186-7E:@"Du hast mich vom Donnerturm geworfen..."[WAIT]@Weiterhin sagt er: "Der damit entstandene[BREAK]  Scham, Schmerz und Leid[PAUSE 30 00] sind erniedrigend,[WAIT]  SEHR erniedrigend.[WAIT]  Deshalb möchte ich euch liebend gerne das hier[BREAK]  in voller Gänze zurückgeben."[END]
 186-8:@"Today will be the day I make you cry.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  I will make you cry uncle."[WAIT]@"I do not believe I will ever[PAUSE 20 00] lose to the likes of[BREAK]  you[PAUSE 20 00] again...[PAUSE 18 00] Nwehehehehe!"[PAUSE 20 00][WAIT]  is what Fassad says.[END]
-186-8E:
+186-8E:@"An diesem Tag werde ich dich zum Weinen[BREAK]  bringen.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  Bis du dich für besiegt erklärt hast."[WAIT]@"Ich glaube nicht,[PAUSE 20 00] dass ich jemals wegen euch[BREAK]  nochmal[PAUSE 20 00] verlieren werde...[WAIT]  [PAUSE 18 00] Nwehehehehe!"[PAUSE 20 00][WAIT]  ist, was Fassad sagt. 186-8[END]
+//Wortspiel
 186-9:@"Now let us begin, kind sirs.[WAIT][PAUSE 0C 00]  I will show a mature, grownup terribleness.[WAIT]  And that terribleness[PAUSE 10 00] is a very[PAUSE 10 00] mature and[BREAK]  grownup terribleness."[PAUSE 18 00][WAIT]  is what Fassad says.[WAIT]@He also adds,[PAUSE 18 00] "Nwehehehehehe!"[END]
-186-9E:
+186-9E:@"Also, fangen wir an, meine Herren.[WAIT][PAUSE 0C 00]  Ich werde euch eine reife, ausgewachsene[BREAK]  Schrecklichkeit zeigen.[WAIT]  Und diese Screcklichkeit[PAUSE 10 00] ist eine sehr[PAUSE 10 00] reife und[BREAK]  ausgewachsene Schrecklichkeit."[PAUSE 18 00][WAIT]  ist, was Fassad sagt.[WAIT]@Außerdem ein:[PAUSE 18 00] "Nwehehehehehe!"[END]
 186-10:@"Nwehehehehe!"[WAIT]@Followed by, "Hehehe! Nwehhehehehehe!"[END]
-186-10E:
+186-10E:@"Nwehehehehe!"[WAIT]@Gefolgt von: "Hehehe! Nwehhehehehehe!"[END]
 186-11:@Fassad also says, "I will humbly make you pay[BREAK]  for this."[WAIT]@And he says it with intense emotion.[WAIT]@I believe it is an anger-filled emotion.[END]
-186-11E:
+186-11E:@Fassad sagt außerdem: "Ihr werdet demütig[BREAK]  für das hier bezahlen."[WAIT]@Und er sagt das mit einer heftigen Emotion.[WAIT]@Ich glaube, es ist eine wuterfüllte Emotion.[END]
 186-12:@Well, that concludes my interpretation session.[END]
-186-12E:
+186-12E:@Nun, damit wäre meine Interpretation[BREAK]  abgeschlossen.[END]
 186-13:@?![BREAK]  Where do you think you're going?[END]
-186-13E:
+186-13E:@?![BREAK]  Wo denkst du, wohin du gehst?[END]
 186-14:@Pull the Needle?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-186-14E:
+186-14E:@Die Nadel herausziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 100-10, 175-10, 186-14
 186-15:@*gasp* *pant*[PAUSE 20 00] I thought it would get pulled[BREAK]  while I was asleep,[PAUSE 18 00] but I saw it.[WAIT]  I saw the Needle get pulled. [HEART][END]
-186-15E:
+186-15E:@*keuch* *schnauf*[PAUSE 20 00] Ich dachte, er würde gezogen werden, während ich schlafe, [PAUSE 15 00]aber ich habe es gesehen.[WAIT]  Gesehen, wie die Nadel gezogen wurde. [HEART][END]
 186-16:@That leaves [80 FF F0 FF] more left.[WAIT]@Unlike the other Magypsies, I'm very[BREAK]  detail-oriented. [HEART][WAIT]@I'll tell you about the Needles and then[BREAK]  disappear. [HEART][END]
-186-16E:
+186-16E:@Damit sind noch [80 FF F0 FF] übrig.[WAIT]@Im Gegensatz zu den anderen Magypsies bin[BREAK]  ich sehr detailorientiert. [HEART][WAIT]@Ich werde dir über die Nadeln erzählen und[BREAK]  dann verschwinde ich. [HEART][END]
 186-17:@One Needle is far east of Tazmily.[WAIT]@At the bottom of a pond.[WAIT]  I believe Doria is protecting it.[END]
-186-17E:
+186-17E:@Eine Nadel ist weit östlich von Tazmily.[WAIT]@Am Grunde eines Teiches.[WAIT]  ich glaube, Donia beschützt es.[END]
 186-18:@One Needle is on Schneekronenberg, on the[BREAK]  northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
-186-18E:
+186-18E:@Eine Nadel ist auf dem Schneekronenberg, am[BREAK]  nordöstlichen Rand der Insel.[WAIT]  Ich glaube, Lydia beschützt es.[END]
 186-19:@One Needle is on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
-186-19E:
+186-19E:@Eine Nadel ist auf der Insel Tanetane, südlich[BREAK]  von Tazmily.[WAIT]  Ich glaube, Mixolydia beschützt es.[END]
 186-20:@One Needle is in Chupichupyoi Temple, deep in[BREAK]  the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
-186-20E:
+186-20E:@Eine Nadel ist im Tempel Chupichupyoi, tief im[BREAK]  Berg Oriander.[WAIT]  Ich glaube, Ionia beschützt es.[END]
 186-21:@Another Needle is on Schneekronenberg, on[BREAK]  the northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
-186-21E:
+186-21E:@Eine andere Nadel ist auf dem Schnee-[BREAK]  kronenberg, nordöstlichen Rand der Insel.[WAIT]  Ich glaube, Lydia beschützt es.[END]
 186-22:@Another Needle is on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
-186-22E:
+186-22E:@Eine andere Nadel ist auf der Insel Tanetane,[BREAK]  südlich von Tazmily.[WAIT]  Ich glaube, Mixolydia beschützt es.[END]
 186-23:@Another Needle is in Chupichupyoi Temple,[BREAK]  deep in the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
-186-23E:
+186-23E:@Eine andere Nadel ist im Tempel Chupichupyoi,[BREAK]  tief im Berg Oriander.[WAIT]  Ich glaube, Ionia beschützt es.[END]
 186-24:@There's also one on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
-186-24E:
+186-24E:@Es gibt auch eine auf der Insel Tanetane,[BREAK]  südlich von Tazmily.[WAIT]  Ich glaube, Mixolydia beschützt es.[END]
 186-25:@There's also one in Chupichupyoi Temple, deep[BREAK]  in the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
-186-25E:
+186-25E:@Es gibt auch eine im Tempel Chupichupyoi,[BREAK]  tief im Berg Oriander.[WAIT]  Ich glaube, Ionia beschützt es.[END]
 186-26:@And then there's one in Chupichupyoi Temple,[BREAK]  deep in the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
-186-26E:
+186-26E:@Und dann gibt es noch eine im Tempel[BREAK]  Chupichupyoi, tief im Berg Oriander.[WAIT]  Ich glaube, Ionia beschützt es.[END]
 186-27:@And one other one...[WAIT]@The Needle said to be sticking out of the Dark[BREAK]  Dragon's head...[WAIT][PAUSE 5A 00]  I can't seem to locate it at all.[WAIT]@Nor Locria, who's supposed to protect that[BREAK]  particular Needle...[WAIT]@I'm so picky about details, yet I have no idea[BREAK]  where they are...[WAIT]@Having to disappear without finding out...[BREAK][PAUSE 0F 00]  It's a little bit sad.[END]
-186-27E:
+186-27E:@Und noch eine andere...[WAIT]@Die Nadel soll auf dem Kopf des schwarzen[BREAK]  Drachens stecken...[WAIT][PAUSE 5A 00] Ich kann sie überhaupt nicht orten.[WAIT]@Und auch nicht Locria, die diese gewisse Nadel[BREAK]  beschützen sollte...[WAIT]@Ich bin so pingelig bei Details, doch ich habe[BREAK]  keine Ahnung, wo sie sind...[WAIT]@Verschwinden zu müssen, ohne es[BREAK]  herauszufinden...[BREAK][PAUSE 0F 00]  Das ist ein bisschen traurig.[END]
 186-28:@I wrote down everything I just told you in this[BREAK]  secret notebook.[WAIT]@Take it with you. [HEART][END]
-186-28E:
+186-28E:@Ich habe allesm, was ich grad gesagt habe in[BREAK]  dieses geheimen Notizblock geschrieben.[WAIT]@Nimm ihn mit. [HEART][END]
 186-29:@Please... don't forget me.[WAIT]@Here, this is a memento of me. [HEART][WAIT]@A razor and lipstick...[PAUSE 20 00][BREAK]  Please take good care of them, okay? [HEART][END]
-186-29E:
+186-29E:@Bitte... vergiss mich nicht.[WAIT]@Hier, das ist ein Memento an mich. [HEART][WAIT]@Ein Rasierer und Lippenstift...[PAUSE 20 00][BREAK]  Bitte pass gut auf sie auf, okay? [HEART][END]
 186-30:@I think you already know this, of course,[WAIT]  but it's said that the heart of whoever pulls[BREAK]  the Needles is passed on to the Dark Dragon...[WAIT]@Instill the power of power,[WAIT]  the darkness of darkness,[WAIT]  and the light of light[WAIT]  into your spirit.[WAIT][PAUSE 5A 00]@Let me peer into your eyes.[WAIT][PAUSE 5A 00]@Thank you.[BREAK][PAUSE 1E 00]  Thank you... [LUCAS 23 02 00]. [HEART][END]
-186-30E:
+186-30E:@Ich denke, dass du das bereits weißt, natürlich,[BREAK]  aber es heißt, dass das Herz von demjenigen,[WAIT]  der die Nadeln zieht, auf den schwarzen[BREAK]  Drachen übertragen wird...[WAIT]@Instilliere die Macht von Macht,[WAIT]  die Dunkelheit von Dunkelheit,[WAIT]  und das Licht von Licht[WAIT]  in deinen Geist.[WAIT][PAUSE 5A 00]@Lass mich in deine Augen blicken.[WAIT][PAUSE 5A 00]@Danke.[BREAK][PAUSE 1E 00]  Danke... [LUCAS 23 02 00]. [HEART][END]
 186-31:@Received [ITEM ED 00]![PAUSE 40 00][END]
-186-31E:
+186-31E:@[ITEM ED 00] erhalten![PAUSE 40 00][END]
 186-32:@Oh, how rude![WAIT]@You're holding all that useless junk![WAIT]@You big dummy![WAIT]@Here, I'll toss it onto my bed for now.[WAIT]  ...You're just too adorable, after all. [HEART][END]
-186-32E:
+186-32E:@Oh, wie gemein![WAIT]@Du tragst all diesen nutzlosen Müll![WAIT]@Du großes Dummerchen![WAIT]@Hier, ich werde es auf mein Bett.[WAIT]  ...Du bist ja letzten Endes so süß. [HEART][END]
 186-33:@I have one last favor to ask you.[WAIT]@Could you give this to Ionia for me? [HEART][END]
-186-33E:
+186-33E:@Ich möchte dich um einen letzten Gefallen bitten.[WAIT]@Könntest du das hier Ionia geben? [HEART][END]
 186-34:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][WAIT]@I've now told you everything...[END]
-186-34E:
+186-34E:@Übergib es, und Ionia sollte erkennen, dass[BREAK]  fünf der Nadeln gezogen worden sind. [HEART][WAIT]@Ich habe dir jetzt alles gesagt...[END]
 186-35:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
-186-35E:
+186-35E:@Du kannst mich von nun an öfters in deinen[BREAK]  Träumen erwarten. [HEART][WAIT]@*kicher* Wiedersehen! [HEART][END]
 // Repeats: 186-35, 224-8
 
 [Container 187]
@@ -8791,10 +8792,10 @@
 192-31:@Going back into the ocean would be even MORE[BREAK]  dangerous.[END]
 192-31E:
 192-32:@*wriggle*[WAIT]@Please excuse me, I'm currently in a stomach.[WAIT]@I was the frog that shouted that emergency[BREAK]  message just now.[WAIT]@Various circumstances led me to be inside this[BREAK]  snake.[WAIT]@Anyway, never mind that. You should probably[BREAK]  save your game. Will you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-32E:
+192-32E:@*schlängel*[WAIT]@Bitte entschuldige mich, ich bin momentan in[BREAK]  einem Magen.[WAIT]@Ich war der Frosch, der gerade diese Notfall[BREAK]  -Nachricht gerufen hat.[WAIT]@Verschiedene Umstände führten mich in[BREAK]  diese Schlange.[WAIT]@Aber das ist jetzt egal. Du solltest[BREAK]  wahrscheinlich dein Spiel speichern. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-38, 192-32
 192-33:@Ribbit, ribbit![WAIT]@Will the snake's gastric juices win, or will my[BREAK]  focused determination prevail?[WAIT]@I didn't get swallowed - this is actually a[BREAK]  one-on-one, all-out battle.[END]
-192-33E:
+192-33E:@Quack, quack![WAIT]@Werden die Magensäfte der Schlange siegen,[BREAK]  oder wird meine Entschlossenheit siehen?[WAIT]@Ich wurde nicht verschluckt - das ist ein Einer-[BREAK]  Gegen-Einen, Alles-Oder-Nichts Kampf.[END]
 // Repeats: 181-39, 192-33
 192-34:@I'm the frog that was inside the snake.[WAIT]@The snake and I talked things over, and I[BREAK]  decided to go back outside.[WAIT]@So now we're both back in our natural states.[WAIT]@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-34E:
@@ -8821,7 +8822,7 @@
 192-44:@Energizing mushrooms![WAIT]@Don't eat too many.[END]
 192-44E:
 192-45:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-45E:
+192-45E:@Du hast ein paar Pilze gefunden, aber sie sehen ziemlich verrückt aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-31, 192-45
 192-46:@These mushrooms...[BREAK]  They have a funky-looking color,[WAIT]  but they're okay to eat, right?[END]
 192-46E:
@@ -10462,7 +10463,7 @@
 224-7:@The Needle in the Dragon's right foot is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
 224-7E:
 224-8:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
-224-8E:
+224-8E:@Du kannst mich von nun an öfters in deinen[BREAK]  Träumen erwarten. [HEART][WAIT]@*kicher* Wiedersehen! [HEART][END]
 // Repeats: 186-35, 224-8
 224-9:[END]
 224-9E:
@@ -12500,7 +12501,7 @@
 322-5:@Let's go![END]
 322-5E:
 322-6:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
-322-6E:
+322-6E:@[KUMATORA 23 04 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 322-7:@Nnnng. Nnnggggg.[END]
 322-7E:
@@ -17951,7 +17952,7 @@
 646-18:@Hey! Geezer's son![WAIT]@Escort me, will ya?! Geez![END]
 646-18E:
 646-19:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
-646-19E:
+646-19E:@[KUMATORA 23 04 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 646-20:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@Rumor has it that [KUMATORA 23 04 00], the[BREAK]  mysterious, strong girl who just joined you,[WAIT]  is able to use psychic powers, or PSI.[WAIT]@If it's true, then you'll definitely have the[BREAK]  upper hand in battles from now on.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whooosh*[END]
 646-20E:
@@ -19993,10 +19994,10 @@
 878-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 878-27:@The mailbox lid is open...[WAIT]@Peek inside?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-878-27E:
+878-27E:@Der Briefkasten ist offen...[WAIT]@Reinlinsen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 180-31, 878-27
 878-28:@There are lots of postcards inside.[WAIT]@Read them?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-878-28E:
+878-28E:@Da sind viele Postkarten drin.[WAIT]@Sie lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 180-32, 878-28
 878-29:@There's nothing in the mailbox.[WAIT]@[PAUSE 20 00]Except for the 1000 rat corpses.[END]
 878-29E:
