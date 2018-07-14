@@ -1379,7 +1379,7 @@
 11-3E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Du hast es durch den unterirdischen Weg[BREAK]  geschafft, ohne von den Monstern[WAIT]  fertig gemacht zu werden?[WAIT]@Na das ist ja beachtlich.[END]
 // Repeats: 11-3, 212-3, 213-3
 11-4:@Want inside the castle, do ya?[BREAK]@'Fraid that's not gonna happen.[WAIT]@The gate's locked, and *huff*[PAUSE 30 00] won't budge at[BREAK]  all.[WAIT]@Only way inside now is to climb up the walls.[END]
-11-4E:@Willste ins Schloss?[BREAK]@Leider, wirds dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist übers Klettern.[END]
+11-4E:@Willste ins Schloss?[BREAK]@Leider, wird's dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist durch Klettern.[END]
 // Repeats: 11-4, 212-4, 213-4
 11-5:@No one's inside there, not even King Osohe or[BREAK]  Queen Senaka.[WAIT]@It's just an old, crumbling castle now.[WAIT]@'Bout the only things in there are ghosts and[BREAK]  spooks.[WAIT]@Ain't no point in climbing the wall to get inside,[BREAK]  if you ask me.[END]
 11-5E:@Keiner lebt da drin, nicht mal König Osohe oder[BREAK]  Königin Senaka.[WAIT]@Es ist jetzt nur noch ein altes, bröckelndes[BREAK]  Schloss.[WAIT]@Nur Geister und Gespenster sind da drin.[WAIT]@Gibt keinen Grund da rein zu klettern, wenn du[BREAK]  mich fragst.[END]
@@ -1394,7 +1394,7 @@
 11-8E:@Diese Wand scheint nicht anpassbar zu sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 11-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-11-9E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+11-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 11-10:@It seems to be locked from the inside.[END]
 11-10E:@Es scheint von innen verschlossen zu sein.[END]
@@ -3084,10 +3084,10 @@
 33-24E:@Oh.[WAIT]@Ich wollte dir noch mehr über diesen Türknopf[BREAK]  erzählen...[WAIT]  ...aber du scheinst es nicht hören zu wollen.[END]
 // Repeats: 33-24, 219-24
 33-25:@She's asking for help, but the only thing I can[BREAK]  think of is to stand her up.[WAIT]@What should I do?[WAIT]  Should I stand her up?[END]
-33-25E:@She's asking for help, but the only thing I can[BREAK]  think of is to stand her up.[WAIT]@Was soll ich tun?[WAIT]  Should I stand her up?[END]
+33-25E:@Sie bittet um Hilfe, aber das einzige woran ich[BREAK]  denken kann, ist, sie sitzen zu lassen.[WAIT]@Was soll ich tun?[WAIT]  Soll ich sie sitzen lassen?[END]
 // Repeats: 33-25, 219-25
 33-26:@While I was standing around, deciding whether[BREAK]  to stand her up or not,[WAIT]  you stood her up for me.[WAIT]@I guess the ability to take action is an[BREAK]  important thing to have, huh?[END]
-33-26E:@While I was standing around, deciding whether[BREAK]  to stand her up or not,[WAIT]  you stood her up for me.[WAIT]@Ich glaube, die Fähigkeit zu besitzen, aktiv zu[BREAK]  werden, ist sehr wichtig, nicht wahr?[END]
+33-26E:@Während ich herumstand um zu entscheiden ob ich sie sitzen lassen soll oder nicht,[WAIT]  hast du sie für mich sitzenlassen.[WAIT]@Ich glaube, die Fähigkeit zu besitzen, aktiv zu[BREAK]  werden, ist etwas sehr wichtiges, nicht wahr?[END]
 // Repeats: 33-26, 219-26
 33-27:@If we cut her ropes...[PAUSE 1E 00] she'll be free, right?[WAIT]@But what if she goes crazy and hurts people if[BREAK]  we do?[END]
 33-27E:@Wenn wir die Seile durchschneiden...[PAUSE 1E 00][BREAK]  wird sie frei sein, richtig?[WAIT]@Aber was wenn sie durchdreht und Menschen[BREAK]  verletzt, falls wir das machen?[END]
@@ -3099,7 +3099,7 @@
 33-29E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Dieser alte Mann hat eindeutig Hobbies[BREAK]  und Interessen, die sich von normalen[WAIT]  Leuten unterscheiden...[END]
 // Repeats: 33-29, 219-29
 33-30:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@He smells like the forest.[WAIT]@I think he should go back there, where he[BREAK]  belongs.[END]
-33-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er stinkt wie der Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
+33-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er riecht wie der Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
 // Repeats: 33-30, 219-30
 33-31:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ooh, I undid the gag on my own! [HEART][WAIT]@I just moved my mouth up[PAUSE 20 00] and down[PAUSE 20 00] like so[BREAK]  and slowly slipped it off![WAIT]@Ooh, I'm wonderful! [HEART][WAIT][PAUSE 20 00]@I hate to be a bother, but could you stand me[BREAK]  up?[END]
 33-31E:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ooh, I undid the gag on my own! [HEART][WAIT]@I just moved my mouth up[PAUSE 20 00] and down[PAUSE 20 00] like so[BREAK]  and slowly slipped it off![WAIT]@Ohh, ich bin wundervoll! [HEART][WAIT][PAUSE 20 00]@Ich bin andern nur ungern eine Last, aber könntest du?[END]
@@ -3123,10 +3123,10 @@
 33-37E:@Fabelhaft! [HEART][WAIT]@Let's make some magic happen together! [HEART][WAIT]  ...I mean that in a nice way.[END]
 // Repeats: 33-37, 219-37
 33-38:@This isn't like packing for a trip or brushing[BREAK]  your teeth or any daily chores like that.[WAIT]@This is on a whole different level altogether.[WAIT]@We're going to Aeolia's house together, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-33-38E:@Das ist doch keine alltägliche Arbeit wie Zähne[BREAK]  putzen oder so.[WAIT]@Das hier ist auf einem völlig anderen Level.[WAIT]@Wir gehen zusammen zu Aeolias Haus, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+33-38E:@Das ist nicht sowas wie Sachen packen oder[BREAK]  Zähne putzen oder sonstige tägliche Arbeiten.[WAIT]@Das ist auf einem völlig anderem Level.[WAIT]@Wir gehen zusammen zu Aeolias Haus, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-38, 219-38
 33-39:@Too bad! We're going! [HEART][END]
-33-39E:@Wie schade! Wir WERDEN gehen! [HEART][END]
+33-39E:@Wie schade! Wir WERDEN aber gehen! [HEART][END]
 // Repeats: 33-39, 219-39
 33-40:@Ionia joined your party![PAUSE A0 00][END]
 33-40E:@Ionia trat deinem Team bei![PAUSE A0 00][END]
@@ -6212,19 +6212,19 @@
 110-1:@[FLINT 23 01 00].[WAIT]@You gave Ollie and Abbot a real walloping, but[BREAK]  they're alright now.[END]
 110-1E:@[FLINT 23 01 00].[WAIT]@Du hast Ollie und Abbot ganz schön einen[BREAK]  mitgegeben, doch ihnen geht es[WAIT]  mittlerweile wieder gut.[END]
 110-2:@About [HINAWA 22 08 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][WAIT]  I can only offer my deepest condolences.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][END]
-110-2E:@Wegen [HINAWA 22 08 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][WAIT]  Ich kann dir nur mein tiefstes Beileid anbieten.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][END]
+110-2E:@Wegen [HINAWA 22 08 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][WAIT]  Ich kann dir nur mein[BREAK]  tiefstes Beileid aussprechen.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][END]
 110-3:@Still, why would a Drago attack someone?[BREAK]  They're such friendly creatures...[END]
-110-3E:@Dennoch, wieso sollte ein Drago jemanden[WAIT]  angreifen?[BREAK]  Sie sind doch solch freundliche Kreaturen...[END]
+110-3E:@Dennoch, wieso sollte ein Drago jemanden[WAIT]  angreifen?[WAIT]  Sie sind doch solch freundliche Kreaturen...[END]
 110-4:@...Take it easy in here for a while.[WAIT]@I know you must be having a hard time with[BREAK]  this, but try and get some sleep.[END]
-110-4E:@...Immer mit der Ruhe, während du hier bist.[WAIT]@Ich weiß, dass es schwer ist, aber versuch[BREAK]  ein bisschen zu schlafen.[END]
+110-4E:@...Reg dich hier erstmal ab.[WAIT]@Ich weiß, dass es schwer ist, aber versuch[BREAK]  etwas Schlaf zu kriegen.[END]
 110-5:@The Drago fang that was stuck in[BREAK]  [HINAWA 22 08 00]'s chest...[WAIT]@I'll hold on to it for you.[WAIT]@When you get outta here, come drop by my[BREAK]  house and get it.[WAIT]@Don't forget, now.[END]
 110-5E:@Der Drago-Zahn, der in der Brust von[BREAK]  [HINAWA 22 08 00] steckte...[WAIT]@Ich werde ihn für dich aufbewahren.[WAIT]@Wenn du hier raus kommst, kannst du ihn dir[BREAK]  bei meinem Haus abholen.[WAIT]@Vergiss das nicht.[END]
 110-6:@Dad. It's me. [CLAUS 22 05 00].[END]
 110-6E:@Papa. Ich bin's. [CLAUS 22 05 00].[END]
 110-7:@I told [LUCAS 22 03 00] to come too,[WAIT]  but he's been crying at Mom's grave all this[BREAK]  time.[END]
-110-7E:@Ich habe [LUCAS 22 03 00] erzählt auch zu[BREAK]  kommen,[WAIT]  doch er weint die ganze Zeit bei Mamas Grab.[END]
+110-7E:@Ich habe [LUCAS 22 03 00] erzählt auch zu[BREAK]  kommen,[WAIT]  doch er heult die ganze Zeit bei Mamas Grab.[END]
 110-8:@Dad. I'm gonna leave this apple here.[WAIT]@The core might be hard, but...[WAIT]@The core...[WAIT]@The core might be too hard to eat, but be[BREAK]  SURE you eat it![END]
-110-8E:@Papa. Ich werde dir diesen Apfel da lassen.[WAIT]@Der Kern ist vielleicht hart, aber...[WAIT]@Der Kern...[WAIT]@Der Kern ist vielleicht zu hart zum Essen, aber[BREAK]  iss ihn AUF JEDEN FALL![END]
+110-8E:@Papa. Ich werde dir diesen Apfel da lassen.[WAIT]@Der Kern ist vielleicht hart, aber...[WAIT]@Der Kern...[WAIT]@Der Kern ist vielleicht zu hart zum Essen,[BREAK]  aber iss ihn AUF JEDEN FALL![END]
 110-9:@I'm gonna get stronger.[WAIT]@...I'm gonna get so strong even Dragos won't[BREAK]  stand a chance against me![WAIT]@Dad... I...[END]
 110-9E:@Ich werde stärker werden.[WAIT]@...Ich werde so stark werden, dass nicht mal[BREAK]  Dragos eine Chance gegen mich haben werden![WAIT]@Papa... Ich...[END]
 110-10:@The lock is rusted.[END]
@@ -6234,7 +6234,7 @@
 110-12:@Inside the apple, there was a Hand File![END]
 110-12E:@Im Apfel war eine Flachfeile![END]
 110-13:@[FLINT 23 01 00] got the Hand File![END]
-110-13E:@[FLINT 23 01 00] hat die Flachfeile erhalten![END]
+110-13E:@[FLINT 23 01 00] hat eine Flachfeile erhalten![END]
 110-14:@This appears to have been unused for a long[BREAK]  time.[END]
 110-14E:@Das scheint seit einer langen Zeit nicht mehr[BREAK]  benutzt worden zu sein.[END]
 // Repeats: 110-14, 336-4
@@ -8673,27 +8673,27 @@
 
 [Container 187]
 187-0:@I'm Loner, the explorer.[WAIT]@Ha! Oh, man![WAIT]@You're going to wander around this volcano[BREAK]  dressed like THAT...?[WAIT]@This is why I can't stand no-brained newbies.[WAIT]@Alright, alright, fine.[WAIT]@I'll share some of my adventurer essentials[BREAK]  with you.[WAIT]@Do you need anything?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-187-0E:
+187-0E:@Ich bin Loner, der Entdecker.[WAIT]@Ha! Oh mann![WAIT]@Du willst SO angezogen am Vulkan[BREAK]  herumlaufen...?[WAIT]@Deshalb kann ich selbstläuferische Neulinge[BREAK]  nicht ausstehen.[WAIT]@Okay, okay. Schön.[WAIT]@Ich werde ein paar meiner lebenswichtiger[BREAK]  Güter mit dir teilen.[WAIT]@Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 187-1:@Ha! Oh, man![BREAK]@You don't need anything, huh?[WAIT]@I don't know if you're brave youngsters or just[BREAK]  brain-dead simpletons,[WAIT]  but be extra careful out there![END]
-187-1E:
+187-1E:@Ha! Oh mann![BREAK]@Du brauchst wohl nichts.[WAIT]@Ich weiß nicht, ob ihr mutige Kinder seid oder[BREAK]  einfach nur hirntode Deppen,[WAIT]  aber seid besonders vorsichtig da draußen![END]
 
 [Container 188]
 188-0:@Welcome![WAIT]@I'm surprised anyone would come to such a[BREAK]  cold place![END]
-188-0E:
+188-0E:@Willkommen![WAIT]@Ich hätte nicht gedacht, dass jemand zu so[BREAK]  einem kalten Ort kommen würde![END]
 188-1:[END]
-188-1E:
+188-1E:[END]
 
 [Container 189]
 189-0:@Hello! Welcome to Schneekronenberg![WAIT]@I'm a snowman that Lydia made![END]
-189-0E:
+189-0E:@Hallo! Willkommen auf dem Schneekronenberg![WAIT]@Ich bin ein Schneeman, den Lydia gemacht hat![END]
 189-1:[END]
-189-1E:
+189-1E:[END]
 
 [Container 190]
 190-0:@Lydia is a very kind person.[WAIT]@We snowmen love Lydia.[END]
-190-0E:
+190-0E:@Lydia ist eine sehr nette Person.[WAIT]@Wir Schneemänner lieben Lydia.[END]
 190-1:[END]
-190-1E:
+190-1E:[END]
 
 [Container 192]
 192-0:[HOTSPRING 00 00][END]
@@ -8925,7 +8925,7 @@
 194-33:@I said it before, and I'll say it again. I don't[BREAK]  want any of your cockamamie Happy Boxes.[WAIT]@So could you stop bothering me already?[END]
 194-33E:@Ich habe es vorhin gesagt, und ich werde es[BREAK]  nochmal sagen. Ich will keine deiner[WAIT]  fadenscheinigen Glückseligkeitsboxen.[WAIT]@Also hör schon auf mich damit zu nerven![WAIT][END]
 194-34:@Sunflowers... [HINAWA 22 08 00]'s favorite.[END]
-194-34E:@Sonnenblumen...[BREAK]  Lieblingsblume von [HINAWA 22 08 00].[END]
+194-34E:@Sonnenblumen...[BREAK]  Die Lieblingsblume von [HINAWA 22 08 00].[END]
 // Repeats: 194-34, 195-8, 200-10
 194-35:[END]
 194-35E:[END]
@@ -8947,26 +8947,26 @@
 195-6:@Here.[WAIT]@[FLINT 23 01 00] gave me this.[WAIT]  He asked me to give it to you the next time[BREAK]  you came by.[WAIT]@Supposedly, it's a good luck charm your pop's[BREAK]  treasured since he was a boy himself.[END]
 195-6E:@Bitte schön.[WAIT]@[FLINT 23 01 00] hat es mir gegeben.[WAIT]  Er bat mich, es dir zu geben.[WAIT]@Anscheinend ist es ein Glücksbringer, den dein[BREAK]  Papi seit er selbst ein Junge war gehütet hat.[END]
 195-7:@[HINAWA 22 08 00] may be gone, but even now[BREAK]  she's watching over you and your family.[END]
-195-7E:@[HINAWA 22 08 00] ist vielleicht weg, aber auch[BREAK]  jezt noch wacht sie über dich und deine Familie.[END]
+195-7E:@[HINAWA 22 08 00] ist vielleicht weg, aber auch[BREAK]  jezt wacht sie über dich und deine Familie.[END]
 195-8:@Sunflowers... [HINAWA 22 08 00]'s favorite.[END]
-195-8E:@Sonnenblumen...[BREAK]  Lieblingsblume von [HINAWA 22 08 00].[END]
+195-8E:@Sonnenblumen...[BREAK]  Die Lieblingsblume von [HINAWA 22 08 00].[END]
 // Repeats: 194-34, 195-8, 200-10
 195-9:[END]
 195-9E:[END]
 
 [Container 196]
 196-0:@Oh, hello, [LUCAS 23 02 00].[WAIT]@Your grandfather is upstairs, in the room on[BREAK]  the far left.[END]
-196-0E:
+196-0E:@Ach hallo, [LUCAS 23 02 00].[WAIT]@Dein Großvater ist oben, im Raum ganz links.[END]
 196-1:@Oh, hello, [LUCAS 23 02 00].[WAIT]@Oh, and [BONEY 22 09 00], too.[WAIT]@Your grandfather is upstairs, in the room on[BREAK]  the far left.[END]
-196-1E:
+196-1E:@Ach hallo, [LUCAS 23 02 00].[WAIT]@Oh, und [BONEY 22 09 00] auch.[WAIT]@Dein Großvater ist oben, im Raum ganz links.[END]
 196-2:@I haven't seen [FLINT 23 01 00] at all lately.[BREAK]  How is he?[END]
-196-2E:
+196-2E:@Ich habe [FLINT 23 01 00] seit einiger Zeit[BREAK]  überhaupt nicht gesehen.[WAIT]  Wie geht es ihm?[END]
 196-3:@Having your grandchildren visit is a true cause[BREAK]  for happiness.[END]
-196-3E:
+196-3E:@Der Besuch deiner Enkelkinder ist ein wahrer[BREAK]  Grund für Glück.[END]
 196-4:@I love to play games with my granddaughter.[WAIT]  Especially "Pin the Tail on the Leak", "Hide 'n[BREAK]  Go Sweep", and "The Hokey Pokey".[END]
-196-4E:
+196-4E:@Ich liebe es mit meiner Enkeltochter Spiele spiel zu spielen.[WAIT]  Besonders "Pin the Tail on the Leak", "Hide 'n[BREAK]  Go Sweep", und "The Hokey Pokey".[END]
 196-5:@I'm here visiting my grandma.[WAIT]@We play games like "Pin the Tail on the Leak",[BREAK]  "Hide 'n Go Sweep", and "The Hokey Pokey".[END] [END]
-196-5E:
+196-5E:@Ich bin hier um meine Oma zu besuchen.[WAIT]@Wir spielen Spiel wie "Pin the Tail on the Leak",[BREAK]  "Hide 'n Go Sweep", und "The Hokey Pokey".[END]
 196-6:@Someone who looks just like [DUSTER 23 03 00]?[WAIT]@I'm not really sure about the details, but Jackie[BREAK]  did mention something like that.[END]
 196-6E:
 196-7:@I hear the guy who looks just like[BREAK]  [DUSTER 23 03 00] is at a place called Club Titiboo.[END]
@@ -9124,7 +9124,7 @@
 200-9:@Being cooped up inside this building all day is so[BREAK]  boring...[PAUSE 20 00] that I can't help but yawn and yawn.[WAIT]@You young'uns have it so nice...[END]
 200-9E:
 200-10:@Sunflowers... [HINAWA 22 08 00]'s favorite.[END]
-200-10E:@Sonnenblumen...[BREAK]  Lieblingsblume von [HINAWA 22 08 00].[END]
+200-10E:@Sonnenblumen...[BREAK]  Die Lieblingsblume von [HINAWA 22 08 00].[END]
 // Repeats: 194-34, 195-8, 200-10
 200-11:[END]
 200-11E:
@@ -9476,39 +9476,39 @@
 
 [Container 210]
 210-0:@The contents of these boxes cost money.[WAIT]@Please refrain from using them without paying.[END]
-210-0E:
+210-0E:@Die Inhalte dieser Boxen kosten Geld.[WAIT]@Bitte öffne sie nicht ohne zu bezahlen.[END]
 210-1:@Clothes have been hung out to dry.[END]
-210-1E:
+210-1E:@Kleider hängen dort zum Trocknen.[END]
 // Repeats: 210-1, 210-2
 210-2:@Clothes have been hung out to dry.[END]
-210-2E:
+210-2E:@Kleider hängen dort zum Trocknen.[END]
 // Repeats: 210-1, 210-2
 210-3:@The mailbox is empty.[END]
 210-3E:@Der Briefkasten ist leer.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 210-4:@Monkey.[END]
-210-4E:
+210-4E:@Affe.[END]
 // Repeats: 210-4, 210-5, 210-6
 210-5:@Monkey.[END]
-210-5E:
+210-5E:@Affe.[END]
 // Repeats: 210-4, 210-5, 210-6
 210-6:@Monkey.[END]
-210-6E:
+210-6E:@Affe.[END]
 // Repeats: 210-4, 210-5, 210-6
 210-7:@One sheep...[WAIT]  Two sheep...[WAIT]  Three...[END]
-210-7E:
+210-7E:@Ein Schaf...[WAIT]  Zwei Schafe...[WAIT]  Drei...[END]
 210-8:@A box?[WAIT]@Sorry, little monkey. Could you come back[BREAK]  some other time?[END]
 210-8E:@Eine Box?[WAIT]@Sorry, kleiner Affe. Könntest du ein andermal[BREAK]  wiederkommen?[END]
 // Repeats: 2-31, 12-31, 210-8
 210-9:@Oh... [DUSTER 23 03 00].[WAIT]@I tried, but I just can't get to sleep...[END]
-210-9E:
+210-9E:@Oh... [DUSTER 23 03 00].[WAIT]@Ich habe es versucht, aber ich kann nicht[BREAK]  schlafen...[END]
 210-10:@Hi, little monkey...[WAIT]@I wanna be strong, too.[END]
-210-10E:
+210-10E:@Hi, kleiner Affe...[WAIT]@Ich möchte auch stark sein.[END]
 210-11:@[END]
 210-11E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 210-12:@*whimper*...[BREAK]  (You have such a sad look, Mr. Monkey...)[END]
-210-12E:
+210-12E:@*wimmer*...[BREAK]  (Sie sehen so traurig aus, Herr Affe...)[END]
 210-13:@Tazmily gerberas are [HINAWA 22 08 00]'s[BREAK]  favorite flowers, after sunflowers.[END]
 210-13E:@Gerberas sind [HINAWA 22 08 00]s[BREAK]  Lieblingsblumen, nach Sonnenblumen.[END]
 // Repeats: 2-38, 12-38, 210-13
@@ -9724,7 +9724,7 @@
 212-3E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Du hast es durch den unterirdischen Weg[BREAK]  geschafft, ohne von den Monstern[WAIT]  fertig gemacht zu werden?[WAIT]@Na das ist ja beachtlich.[END]
 // Repeats: 11-3, 212-3, 213-3
 212-4:@Want inside the castle, do ya?[BREAK]@'Fraid that's not gonna happen.[WAIT]@The gate's locked, and *huff*[PAUSE 30 00] won't budge at[BREAK]  all.[WAIT]@Only way inside now is to climb up the walls.[END]
-212-4E:@Willste ins Schloss?[BREAK]@Leider, wirds dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist übers Klettern.[END]
+212-4E:@Willste ins Schloss?[BREAK]@Leider, wird's dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist durch Klettern.[END]
 // Repeats: 11-4, 212-4, 213-4
 212-5:@No one's inside there, not even King Osohe or[BREAK]  Queen Senaka.[WAIT]@It's just an old, crumbling castle now.[WAIT]@'Bout the only things in there are ghosts and[BREAK]  spooks.[WAIT]@Ain't no point in climbing the wall to get inside,[BREAK]  if you ask me.[END]
 212-5E:@Keiner lebt da drin, nicht mal König Osohe oder[BREAK]  Königin Senaka.[WAIT]@Es ist jetzt nur noch ein altes, bröckelndes[BREAK]  Schloss.[WAIT]@Nur Geister und Gespenster sind da drin.[WAIT]@Gibt keinen Grund da rein zu klettern, wenn du[BREAK]  mich fragst.[END]
@@ -9739,7 +9739,7 @@
 212-8E:@Diese Wand scheint nicht anpassbar zu sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 212-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-212-9E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+212-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 212-10:@It seems to be locked from the inside.[END]
 212-10E:@Es scheint von innen verschlossen zu sein.[END]
@@ -9820,7 +9820,7 @@
 213-3E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Du hast es durch den unterirdischen Weg[BREAK]  geschafft, ohne von den Monstern[WAIT]  fertig gemacht zu werden?[WAIT]@Na das ist ja beachtlich.[END]
 // Repeats: 11-3, 212-3, 213-3
 213-4:@Want inside the castle, do ya?[BREAK]@'Fraid that's not gonna happen.[WAIT]@The gate's locked, and *huff*[PAUSE 30 00] won't budge at[BREAK]  all.[WAIT]@Only way inside now is to climb up the walls.[END]
-213-4E:@Willste ins Schloss?[BREAK]@Leider, wirds dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist übers Klettern.[END]
+213-4E:@Willste ins Schloss?[BREAK]@Leider, wird's dazu nicht kommen.[WAIT]@Das Tor ist verschlossen, und *huff*[PAUSE 30 00] bewegt[BREAK]  sich kein bisschen.[WAIT]@Der einzige Weg rein ist durch Klettern.[END]
 // Repeats: 11-4, 212-4, 213-4
 213-5:@No one's inside there, not even King Osohe or[BREAK]  Queen Senaka.[WAIT]@It's just an old, crumbling castle now.[WAIT]@'Bout the only things in there are ghosts and[BREAK]  spooks.[WAIT]@Ain't no point in climbing the wall to get inside,[BREAK]  if you ask me.[END]
 213-5E:@Keiner lebt da drin, nicht mal König Osohe oder[BREAK]  Königin Senaka.[WAIT]@Es ist jetzt nur noch ein altes, bröckelndes[BREAK]  Schloss.[WAIT]@Nur Geister und Gespenster sind da drin.[WAIT]@Gibt keinen Grund da rein zu klettern, wenn du[BREAK]  mich fragst.[END]
@@ -9835,7 +9835,7 @@
 213-8E:@Diese Wand scheint nicht anpassbar zu sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 213-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-213-9E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+213-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 213-10:@It seems to be locked from the inside.[END]
 213-10E:@Es scheint von innen verschlossen zu sein.[END]
@@ -9886,9 +9886,9 @@
 213-25E:[SOUND 03 00]  ...zwitscher zwitscher zwitscher!)[END]
 // Repeats: 11-25, 212-25, 213-25
 213-26:@Ow ow oww...[WAIT]@I sure wound up in a bit o' trouble, I did.[WAIT]@Some pig-looking guys just bust right into[BREAK]  the castle.[WAIT]@If you're going inside, *huff*[PAUSE 20 00] do be careful.[END]
-213-26E:
+213-26E:@Au au auuu...[WAIT]@Ich bin auf ein ganz schönes Stück Ärger[BREAK]  getroffen.[WAIT]@Ein paar schweineartige Kerle sind ins Schloss[BREAK]  eingebrochen.[WAIT]@Wenn du rein gehst, *schnaub*[PAUSE 20 00] sei vorsichtig.[END]
 213-27:@A strange vehicle is sitting here.[END]
-213-27E:
+213-27E:@Ein komisches Fahrzeug steht hier.[END]
 213-28:@Potatoto.[END]
 213-28E:@Kartofelolo.[END]
 // Repeats: 11-12, 212-12, 212-29, 213-12, 213-28
@@ -9899,52 +9899,53 @@
 213-30E:@Es ist eine Skizze dieses Areals.[END]
 // Repeats: 11-0, 212-0, 212-31, 213-0, 213-30, 223-19
 213-31:@Got a doorknob![END]
-213-31E:
+213-31E:@Einen Türknopf erhalten![END]
 213-32:@Hey![WAIT]@Don't pick up cheap, doorknob-ish things like[BREAK]  that![END]
-213-32E:
+213-32E:@Hey![WAIT]@Heb nicht einfach so schäbige, türknopferische[BREAK]  Dinge auf![END]
 213-33:@C'mon! Let's go![BREAK]@Quit dawdling![END]
-213-33E:
+213-33E:@Komm schon! Gehen wir![WAIT]@Hör auf herumzutrödeln![END]
 213-34:@Dunno who you are, but you'd best be careful[BREAK]  if you're going inside the castle.[WAIT]@Some guys dressed like pigs went in and are[BREAK]  up to no good.[END]
-213-34E:
+213-34E:@Keine Ahnung wer du bist, aber sei sehr[BREAK]  vorscihtig, wenn du ins Schloss gehst.[WAIT]@Ein paar Kerle, die wie Schweine gekleidet sind,[BREAK]  sind reingegangen und machen Radau.[END]
 213-35:@What are you doing?![WAIT]@One of you two, get out of my way![END]
-213-35E:
+213-35E:@Was machst du da?[WAIT]@Einer von euch zwei. Geht mir aus den Weg![END]
 213-36:@Hey![WAIT]@You heard Mr. Fassad![WAIT]  Fall back![END]
-213-36E:
+213-36E:@Hey![WAIT]@Ihr habt Herrn Fassad gehört![WAIT]  Zurückgetreten![END]
 213-37:@He was looking at you when he said it![WAIT]@YOU fall back![END]
-213-37E:
+213-37E:@Er hat dich angesehen, als er das gesagt hat![WAIT]@DU trittst zurück![END]
 213-38:@SHUT UP!![EVENT][END]
-213-38E:
+213-38E:@HALT DIE KLAPPE!![EVENT][END]
 213-39:@I don't give a damn about any of that![WAIT]@BOTH of you get out of my way, now!![END]
-213-39E:
+213-39E:@Mir ist das piepsegal![WAIT]@Ihr geht mir BEIDE aus den Weg. Jetzt!![END]
 213-40:@Just look how late it is now![WAIT]@You're so stupid![END]
-213-40E:
+213-40E:@Schaut nur, wie spät es jetzt ist![END]
+@Ihr seid so dumm![END]
 213-41:@It's all your fault, you idiot![END]
-213-41E:
+213-41E:@Es ist alles eure Schuld, ihr Idioten![END]
 213-42:@He was looking at you when he said that![WAIT]@So you're the idiot, you idiot![END]
-213-42E:
+213-42E:@Er hat dich angesehen, als er das gesagt hat![WAIT]@Also bist du der Idiot, du Idiot![END]
 213-43:@I know you are, but what am I?![WAIT]@You idiot![END]
-213-43E:
+213-43E:@Ich weiß, dass du das bist, aber was bin ich?![WAIT]@Du Idiot![END]
 213-44:@Both of you idiots, go find them NOW!![END]
-213-44E:
+213-44E:@Ihr zwei Idioten, geht und findet sie. JETZT!![END]
 213-45:[END]
-213-45E:
+213-45E:[END]
 
 [Container 215]
 215-0:@...Is that...?[END]
-215-0E:
+215-0E:@...Ist das...?[END]
 215-1:@Gah...![END]
-215-1E:
+215-1E:@Gah...![END]
 215-2:@They're trying to shake us off![WAIT]@[LUCAS 23 02 00]![WAIT]@[KUMATORA 23 04 00]![WAIT]@[BONEY 23 05 00]![WAIT]@Hold on tight, now...![END]
-215-2E:
+215-2E:@Sie versuchen uns abzuschütteln![WAIT]@[LUCAS 23 02 00]![WAIT]@[KUMATORA 23 04 00]![WAIT]@[BONEY 23 05 00]![WAIT]@Haltet jetzt gut fest...![END]
 215-3:@[DUSTER 23 03 00]...[WAIT]@It's me, the Rope Snake...[WAIT]@I know this isn't the best time to chat, but I[BREAK]  have some good news for me[WAIT]  and bad news[PAUSE 20 00] for you.[WAIT]@The good news for me.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  is that although we haven't known each other[BREAK]  long, I'm now a major character in the story,[WAIT]  thanks to you.[PAUSE 20 00][WAIT]@And the bad news for you.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  is that my jaw isn't sturdy enough to support[BREAK]  the weight of three people and one dog.[PAUSE 40 00][WAIT]@In other words, my jaw.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][WAIT]@It's.[PAUSE 10 00].[PAUSE 10 00]. at its.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00] limit.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  This is[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. literally[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. jaw-dropping![END]
-215-3E:
+215-3E:@[DUSTER 23 03 00]...[WAIT]@Ich bin's die Seilschlange...[WAIT]@Ich weiß, dass jetzt nicht die beste Zeit zum[BREAK]  Reden ist, aber ich habe eine gute Neuigkeit für[WAIT]  mich[WAIT]  und eine schlechte Neuigkeit[PAUSE 20 00] für euch.[WAIT]@Die gute Neuigkeit für mich.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  ist, dass ich jetzt ein bedeutender Charakter in[BREAK]  der Geschichte bin dank euch.[PAUSE 20 00][WAIT]@Und die schlechte Neuigkeit für euch.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  ist, dass mein Kiefer nicht beständig genug ist[BREAK]  um das Gewicht von drei Leuten und einem[WAIT]  Hund zu halten.[PAUSE 40 00][WAIT]@Mit anderen Worten ist mein Kiefer.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][WAIT]@Es ist.[PAUSE 10 00].[PAUSE 10 00]. an seinem.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00] Limit.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  Da bleibt einem[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. wortwörtlich[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. der Mund[BREAK]  offen![END]
 // the Japanese text has a jaw-related pun at the end too. I think the English pun is actually better, though :D
 
 [Container 216]
 216-0:[END]
-216-0E:
+216-0E:[END]
 216-1:[END]
-216-1E:
+216-1E:[END]
 
 [Container 219]
 219-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
@@ -10023,10 +10024,10 @@
 219-24E:@Oh.[WAIT]@Ich wollte dir noch mehr über diesen Türknopf[BREAK]  erzählen...[WAIT]  ...aber du scheinst es nicht hören zu wollen.[END]
 // Repeats: 33-24, 219-24
 219-25:@She's asking for help, but the only thing I can[BREAK]  think of is to stand her up.[WAIT]@What should I do?[WAIT]  Should I stand her up?[END]
-219-25E:
+219-25E:@Sie bittet um Hilfe, aber das einzige woran ich[BREAK]  denken kann, ist, sie sitzen zu lassen.[WAIT]@Was soll ich tun?[WAIT]  Soll ich sie sitzen lassen?[END]
 // Repeats: 33-25, 219-25
 219-26:@While I was standing around, deciding whether[BREAK]  to stand her up or not,[WAIT]  you stood her up for me.[WAIT]@I guess the ability to take action is an[BREAK]  important thing to have, huh?[END]
-219-26E:
+219-26E:@Während ich herumstand um zu entscheiden ob ich sie sitzen lassen soll oder nicht,[WAIT]  hast du sie für mich sitzenlassen.[WAIT]@Ich glaube, die Fähigkeit zu besitzen, aktiv zu[BREAK]  werden, ist etwas sehr wichtiges, nicht wahr?[END]
 // Repeats: 33-26, 219-26
 219-27:@If we cut her ropes...[PAUSE 1E 00] she'll be free, right?[WAIT]@But what if she goes crazy and hurts people if[BREAK]  we do?[END]
 219-27E:@Wenn wir die Seile durchschneiden...[PAUSE 1E 00][BREAK]  wird sie frei sein, richtig?[WAIT]@Aber was wenn sie durchdreht und Menschen[BREAK]  verletzt, falls wir das machen?[END]
@@ -10038,7 +10039,7 @@
 219-29E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Dieser alte Mann hat eindeutig Hobbies[BREAK]  und Interessen, die sich von normalen[WAIT]  Leuten unterscheiden...[END]
 // Repeats: 33-29, 219-29
 219-30:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@He smells like the forest.[WAIT]@I think he should go back there, where he[BREAK]  belongs.[END]
-219-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er stinkt wie der Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
+219-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er riecht wie der Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
 // Repeats: 33-30, 219-30
 219-31:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ooh, I undid the gag on my own! [HEART][WAIT]@I just moved my mouth up[PAUSE 20 00] and down[PAUSE 20 00] like so[BREAK]  and slowly slipped it off![WAIT]@Ooh, I'm wonderful! [HEART][WAIT][PAUSE 20 00]@I hate to be a bother, but could you stand me[BREAK]  up?[END]
 219-31E:
@@ -10062,10 +10063,10 @@
 219-37E:
 // Repeats: 33-37, 219-37
 219-38:@This isn't like packing for a trip or brushing[BREAK]  your teeth or any daily chores like that.[WAIT]@This is on a whole different level altogether.[WAIT]@We're going to Aeolia's house together, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-219-38E:
+219-38E:@Das ist nicht sowas wie Sachen packen oder[BREAK]  Zähne putzen oder sonstige tägliche Arbeiten.[WAIT]@Das ist auf einem völlig anderem Level.[WAIT]@Wir gehen zusammen zu Aeolias Haus, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-38, 219-38
 219-39:@Too bad! We're going! [HEART][END]
-219-39E:@Wie schade! Wir WERDEN gehen! [HEART][END]
+219-39E:@Wie schade! Wir WERDEN aber gehen! [HEART][END]
 // Repeats: 33-39, 219-39
 219-40:@Ionia joined your party![PAUSE A0 00][END]
 219-40E:@Ionia trat deinem Team bei![PAUSE A0 00][END]
@@ -10106,13 +10107,13 @@
 
 [Container 220]
 220-0:[END]
-220-0E:
+220-0E:[END]
 220-1:[END]
-220-1E:
+220-1E:[END]
 
 [Container 222]
 222-0:[END]
-222-0E:
+222-0E:[END]
 222-1:@It's locked tightly.[END]
 222-1E:@Es ist fest verschlossen.[END]
 // Repeats: 10-1, 222-1, 506-1
@@ -10433,9 +10434,9 @@
 223-16E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 223-17:@A Pigmask car![WAIT]@There seems to be a Pigmask in it![END]
-223-17E:
+223-17E:@Ein Schweinemaskenauto![WAIT]@Eine Schweinemaske scheint drin zu sein![END]
 223-18:@A Pigmask vehicle![WAIT]@There seems to be a Pigmask in it![END]
-223-18E:
+223-18E:@Ein Schweinemaskenfahrzeug![WAIT]@Eine Schweinemaske scheint drin zu sein![END]
 223-19:@It's a sketch of the area.[END]
 223-19E:@Es ist eine Skizze dieses Areals.[END]
 // Repeats: 11-0, 212-0, 212-31, 213-0, 213-30, 223-19
@@ -17268,216 +17269,216 @@
 
 [Container 621]
 621-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-621-0E:
+621-0E:@Herunterspringen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-0, 665-0
 621-1:@This statue's title is written on the plate.[WAIT]          Title: "Heavy Metal"[END]
-621-1E:
+621-1E:@Auf einer Plakette steht der Name der Statue.[WAIT]            Titel: "Heavy Metal"[END]
 // Repeats: 621-1, 665-1
 621-2:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Shall I save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-621-2E:
+621-2E:@*hüpf*[BREAK]  Nein, ich bin kein Geisterfrosch.[WAIT]@Soll ich dein Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-2, 665-2
 621-3:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-621-3E:
+621-3E:@*hüpf*[BREAK]  Nein, ich bin kein Geisterfrosch.[WAIT]@Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-3, 665-3
 621-4:@A decorative suit of armor.[END]
-621-4E:
+621-4E:@Eine Rüstung zur Zierde.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 621-5:@You get the odd feeling that the woman in the[BREAK]  painting is staring at you.[END]
-621-5E:
+621-5E:@Dich beschleicht ds Gefühl, dass die Frau im[BREAK]  Gemälde dich anstarrt.[END]
 // Repeats: 621-5, 665-5
 621-6:@I swear, the lady in this painting keeps staring[BREAK]  at me.[WAIT]@So I've decided to stare right back at her.[WAIT]@I'm staring back with all my might.[END]
-621-6E:
+621-6E:@Ich schwöre, dass diese Dame im Bild mich die[BREAK]  ganze Zeit anstarrt.[WAIT]@Also starre ich zurück.[WAIT]@Ich starre mit all meiner Kraft.[END]
 // Repeats: 621-6, 665-6
 621-7:@Mr. Fassad, sir![WAIT]@I'm currently thinking about how to dispose of[BREAK]  this bronze statue![WAIT]@I'm putting my life on the line to get it done![END]
-621-7E:
+621-7E:@Herr Fassad, Sir![WAIT]@Ich überlege gerade wie wir diese Bronze-[BREAK]  Statue am besten loswerden![WAIT]@Ich setze mein Leben dafür aufs Spiel![END]
 // Repeats: 621-7, 665-7
 621-8:@It doesn't move...[BREAK]  It appears to be an ordinary decoration.[END]
-621-8E:
+621-8E:@Es bewegt sich nicht...[BREAK]  Scheint nur ein gewöhnliches Dekorationsstück[BREAK]  zu sein.[END]
 // Repeats: 621-8, 665-8
 621-9:[END]
 621-9E:
 
 [Container 622]
 622-0:@You know that feeling when you're just kind of[BREAK]  bleh and can't eat anything at all?[WAIT]@When that happens, a Fresh Mint will freshen[BREAK]  you right up![END]
-622-0E:
+622-0E:@Kennst du dieses Gefühl, wenn dir total meh[BREAK]  ist und nichts essen kannst?[WAIT]@Wenn das passiert, frischt dich ein Minzbonbon[BREAK]  sofort wieder auf![END]
 622-1:[END]
-622-1E:
+622-1E:[END]
 
 [Container 623]
 623-0:@You felt sick.[END]
-623-0E:
+623-0E:@Dir ist übel.[END]
 // Repeats: 623-0, 634-1
 623-1:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-623-1E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+623-1E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 
 [Container 624]
 624-0:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-0E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+624-0E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 624-1:@Life as a ghost is the greatest![WAIT]@I want to stay a ghost for as long as I live![END]
-624-1E:
+624-1E:@Das Leben eines Geistes ist das beste![WAIT]@Ich möchte so lang ich lebe, ein Geist sein![END]
 // Repeats: 624-1, 633-1
 624-2:@Some people think ghosts are scary,[WAIT]  but I don't think so![END]
-624-2E:
+624-2E:@Einige glauben, dass Geister gruselig sind,[WAIT]  aber ich finde das nicht![END]
 // Repeats: 624-2, 633-2
 624-3:@YOU![WAIT]@You're an ordinary person, aren't you?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-3E:
+624-3E:@DU![WAIT]@Du bist eine normaler Mensch, oder?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-3, 633-3
 624-4:@No, you're not normal.[WAIT]@You appear to be a thief-person![END]
-624-4E:
+624-4E:@Nein, du bist nicht normal.[WAIT]@Du scheinst ein diebischer Mensch zu sein![WAIT]
 // Repeats: 624-4, 633-4
 624-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-624-5E:
+624-5E:@Genau![BREAK]  Du bist SO ein normaler Mensch![END]
 // Repeats: 624-5, 633-5
 624-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-624-6E:
+624-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiiß.[END]
 // Repeats: 624-6, 633-6
 624-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
-624-7E:
+624-7E:@Wie ich sagte...![WAIT]@Wein...[PAUSE 5A 00][BREAK]  ist meine brennende Leidenschaft.[WAIT]@Versteh mich doch![END]
 // Repeats: 624-7, 633-7
 624-8:@You must really know the score to be able to[BREAK]  talk with me for so long.[END]
-624-8E:
+624-8E:@Du musst dich ja wirklich auskennen,[BREAK]  wenn du so lange mit mir sprichst.[END]
 // Repeats: 624-8, 633-8
 624-9:@I said earlier that you really know the score,[BREAK]  but I take that back now.[WAIT]@Why? Because...[PAUSE 5A 00] you haven't said even a[BREAK]  single word.[END]
-624-9E:
+624-9E:@Ich habe vorhin zwar gesagt,[BREAK]  dass du dich wirklich auskennen musst,[WAIT]  aber das nehme ich jetzt zurück.[WAIT]@Warum? Weil...[PAUSE 5A 00] du nicht mal ein[BREAK]   einziges Wort gesagt hast.[END]
 // Repeats: 624-9, 633-9
 624-10:@We ghosts enjoy having food pass through our[BREAK]  spirits at mealtime.[END]
-624-10E:
+624-10E:@Wir Geister lieben es Essen durch unseren[BREAK]  Geist gleiten zu lassen.[END]
 // Repeats: 624-10, 633-10
 624-11:@We're not wasting any food. Honest.[END]
-624-11E:
+624-11E:@Wir verschwenden kein Essen. Ehrlich.[END]
 // Repeats: 624-11, 633-11
 624-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-12E:
+624-12E:@Willste och was zu ess'n?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 624-13:@Here you go.[END]
-624-13E:
+624-13E:@Bitt' schö.[END]
 // Repeats: 624-13, 633-13
 624-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-624-14E:
+624-14E:@[ITEM 67 00] hier im Schloss schmeckt[BREAK]  genauso wie Mama es immer gemacht hat.[WAIT]@Probier mal![END]
 // Repeats: 624-14, 633-14
 624-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-15E:
+624-15E:@Willste mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 624-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
-624-16E:
+624-16E:@Hat di dei' Mam nie beigebrach' och ma'[BREAK]  Nee zu sag'n?![END]
 // Repeats: 624-16, 633-16
 624-17:@Hey, now. You don't hafta hold back to be[BREAK]  polite.[WAIT]@You and me are buddies.[WAIT]@Take one as a gift for your mom.[END]
-624-17E:
+624-17E:@Hey, hey. Du brachst di net zurückhalt'n, nur[BREAK]  um höflisch zu seen.[WAIT]@Wir sin Kump'ls.[WAIT]@Des is'n G'schenk für dei Mam.[END]
 // Repeats: 624-17, 633-17
 624-18:@Whoa, you can't hold any more stuff.[WAIT]@If you want to eat some that badly, go throw[BREAK]  something out first.[END]
-624-18E:
+624-18E:@Whoa, du kann's nix mehr trag'n.[WAIT]@Wenn du's unbedingt wills', wirf was weg.[END]
 // Repeats: 624-18, 633-18
 624-19:@Oh, you can't hold any more stuff.[WAIT]@Guess I'll eat it, then![END]
-624-19E:
+624-19E:@Oh, kannst nix mehr trag'n.[WAIT]@Dann es ich's selbst![END]
 // Repeats: 624-19, 633-19
 624-20:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
-624-20E:
+624-20E:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
 // Repeats: 624-20, 633-20
 624-21:@The ghosts here party every single day.[WAIT]@I can't fit in with that. It's just not my thing...[END]
-624-21E:
+624-21E:@Die Geister hier schmeißen jeden einzelnen Tag[BREAK]  eine Party.[WAIT]@Ich schaffe es aber einfach nicht mich einzu-[BREAK]  bringen. Das ist einfach nicht mein Ding...[END]
 // Repeats: 624-21, 633-21
 624-22:@Thanks for talking to me.[WAIT]@I'll try harder to fit in with the others.[END]
-624-22E:
+624-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und mich einzubringen.[END]
 // Repeats: 624-22, 633-22
 624-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-624-23E:
+624-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Es ist großartig![WAIT]  Es bewegt! Es ist herzzereißend![BREAK]  Es ist andeutend![END]
 // Repeats: 624-23, 633-23
 624-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
-624-24E:
+624-24E:@Vorher waren hier ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]
 // Repeats: 624-24, 633-24
 624-25:@We're currently using every resource available[BREAK]  to us to locate it...[WAIT]  ...but it still hasn't turned up![WAIT]@...Hold on, pipsqueak monkey. I'm not talking[BREAK]  to you.[END]
-624-25E:
+624-25E:@Wir nutzen alles in unserer Macht stehende[BREAK]  um den Ort zu finden...[WAIT]  ...aber es wurde noch nichts gefunden...[WAIT]@...Moment mal, Würstchen. Ich rede nicht[BREAK]  mit dir.[END]
 // Repeats: 624-25, 633-25
 624-26:@That bum-looking guy and his cohort headed[BREAK]  upstairs after they beat the snot out of us![WAIT]@Only now do I realize that thieves are truly[PAUSE 2E 00][BREAK]  a force to be reckoned with![END]
-624-26E:
+624-26E:@Der Kerl, der aussieht wie ein Penner, und[BREAK]  seine Kumpanen sind nach oben gegangen,[WAIT]   nachdem sie uns total vermöbelt hatten![WAIT]@Erst jetzt bemerke ich, dass Diebe wirklich[PAUSE 2E 00][BREAK]  was auf den Kasten haben![END]
 // Repeats: 624-26, 633-26
 624-27:@Yeah?[END]
-624-27E:
+624-27E:@Ja?[END]
 // Repeats: 624-27, 633-27
 624-28:@What?! They fled into the basement?![WAIT]@They have it with them?![BREAK]  Alright! Got it![END]
-624-28E:
+624-28E:@Was?! Sie sind in den Keller geflohen?![WAIT]@Sie haben es bei ihnen?![BREAK]  Okay! Verstanden![END]
 // Repeats: 624-28, 633-28
 624-29:@Hey, monkey![BREAK]  We're heading into the basement now![WAIT]@There should be an entrance to the basement[BREAK]  somewhere inside this castle.[WAIT]@Find it![END]
-624-29E:
+624-29E:@Hey, Affe![BREAK]  Wir gehen jetzt in den Keller![WAIT]@Irgendwo im Schloss sollte es einen Eingang in[BREAK]  den Keller geben.[WAIT]@Finde ihn![END]
 // Repeats: 624-29, 633-29
 624-30:@Whew.[PAUSE 5A 00] Boy, it's stuffy in this thing...[END]
-624-30E:
+624-30E:@Phew.[PAUSE 5A 00] Junge ist es stickig hier...[END]
 // Repeats: 624-30, 633-30
 // same guy shows up in the farm area saying similar stuff
 624-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
-624-31E:
+624-31E:@Herr Fassad![WAIT]@Wir sind unsterblich![WAIT]@Wenn wir uns alle konzentrieren, könnten wir[BREAK]  sogar riesige Rüben aus den Boden ziehen![END]
 // Repeats: 624-31, 633-31
 624-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-624-32E:
+624-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobelten[BREAK]  Mitglied in unserer Gruppe.[END]
 // Repeats: 624-32, 633-32
 624-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
-624-33E:
+624-33E:@Wir haben gefeiert und gefeiert und gefeiert,[BREAK]  aber irgendwann wurde es langeweilig.[WAIT]@Also haben mehr und mehr von uns das[BREAK]  Partyleben aufgegeben.[END]
 // Repeats: 624-33, 633-33
 624-34:@Wow, I'm surprised you came here. This[BREAK]  castle's so boring now I could just die.[WAIT]@It WAS the setting for an adventure three[BREAK]  years ago, though.[WAIT]@But there's been nothing at all since then.[BREAK]  Nothing.[WAIT]@In fact, if you hadn't come and talked to me[BREAK]  just now,[WAIT]  today would've been yet another empty day[BREAK]  leading into another empty tomorrow.[WAIT]@So, how about a leisurely chat?[WAIT]@No?![WAIT]@Oh, but I want to talk.[WAIT]@No?[WAIT]@I see.[WAIT]@Okay. Whatever.[END]
-624-34E:
+624-34E:@Wow, ich bin überrascht, dass du du hier bist.[WAIT]@Dieses Schloss ist so langweilig geworden,[BREAK]  dass man sterben könnte.[WAIT]@Es WAR allerding vor drei Jahren ein[BREAK]  Schauplatz für ein Abenteuer.[WAIT]@Aber seitdem gab es gar nichts mehr.[WAIT]  Gar nichts.[WAIT]@Um genau zu sein, wenn du nicht zu mir geko-[BREAK]  mmen wärest und mich angesprochen hättest,[WAIT]  wäre heute ein weiterer leerer Tag geworden,[BREAK]  der in ein leeres Morgen geführt hätte.[WAIT]@Also wie wär's mit einem ruhigen Plausch?[WAIT]@Nein?![WAIT]@Och, ich will aber reden.[WAIT]@Nein?[WAIT]@Ich verstehe.[WAIT]@Okay. Ist ja auch egal.[END]
 // Repeats: 624-34, 633-34
 624-35:@I've been playing this one song for three years[BREAK]  straight.[WAIT]@It's like it's my fate to keep singing this song.[WAIT]@I know it's a bit old at this point, but would you[BREAK]  like to hear it again anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-35E:
+624-35E:@Dieses eine Lied spiele sich seit drei Jahren[BREAK]  durch.[WAIT]@Es ist sozusagen mein Schicksal,[BREAK]  dieses Lied zu singen.[WAIT]@Ich weiß, dass es mittlerweile alt ist, aber[BREAK]  möchtest du es trotzdem nochmal hören?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-35, 633-35
 624-36:@No?[WAIT]@You don't want to hear it?[WAIT]@Your loss.[END]
-624-36E:
+624-36E:@Nein?[WAIT]@Du willst es nicht hören?[WAIT]@Dein Verlust.[END]
 // Repeats: 624-36, 633-36
 624-37:@Oh, I'm so very happy you talked to me.[WAIT]@Unless we're especially lucky, characters like[BREAK]  me without notable personalities[WAIT]  often wind up overlooked and ignored.[WAIT]@But I'm happy.[WAIT]@You talked to me.[WAIT]@You've acknowledged me, in other words.[WAIT]@Oh, I'm so happy! Here, this is for you![END]
-624-37E:
+624-37E:@Oh, ich bin so froh, dass du mit mir redest.[WAIT]@Außer wenn wir besonders viel Glück haben, werden Leute wie ich ohne besonderen Charakter oft übersehen und ignoriert.[WAIT]@Aber ich bin glücklich.[WAIT]@Du hast mit mir geredet.[WAIT]@Mit anderen Worten, hast du mich bemerkt.[WAIT]@Oh, ich bin so glücklich! Hier, das ist für dich![END]
 // Repeats: 624-37, 633-37
 624-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-624-38E:
+624-38E:@Du bist so nett zu mir gewesen, aber dein[BREAK]  Körper scheint mich nicht so sehr zu mögen.[WAIT]@Es sagt, dass dein Inventar voll ist...[END]
 // Repeats: 624-38, 633-38
 624-39:@Hiya, friend![END]
-624-39E:
+624-39E:@Heya, Freund![END]
 // Repeats: 624-39, 633-39
 624-40:@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![WAIT]@Did you find it interesting?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-40E:
+624-40E:@Es gibt gewisse eigenartig geformte Steine,[BREAK]  die oft an die Küste gespült werden.[WAIT]@Sie alle haben die selbe Größe.[WAIT]@Die Leute früher dachten, dass sie aussehen[BREAK]  wie ein dickbäuchiger Buddha,[WAIT]  also haben sie sie "Dickbauchsteine" genannt.[WAIT]@In Wahrheit sind es aber Gehörknöchelchen von[BREAK]  Delfinen gewesen.[WAIT]  Diese Knochen sind die kleinsten Knochen im[BREAK]  ganzen Körper und heißen Hammer, Amboss[WAIT]  und Steigbügel, falls du es nicht wusstest.[WAIT]@Sie sind extrem hart.[WAIT]@Anscheinend werden sie an die Küste gespült,[BREAK]  weil sie im Meer nicht verwesen können.[WAIT]@Ich wette, man könnte ein paar am Strand[BREAK]  finden, wenn man danach sucht.[WAIT]@Das war's mit Unnützem Wissen von[BREAK]  Klein Geisti![WAIT]@Fandest du es interessant?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-40, 633-40
 624-41:@Here, I'll give you an actual dolphin ossicle![END]
-624-41E:
+624-41E:@Hier, ich gebe dir ein echtes[BREAK]  Delfin-Gehörknöchelchen![END]
 // Repeats: 624-41, 633-41
 624-42:@I was going to give you a dolphin ossicle, but it[BREAK]  looks like you can't hold any more stuff.[END]
-624-42E:
+624-42E:@Ich wollte dir ein Delfin-Gehörknöchelchen[BREAK]  geben, aber du kannst nichts mehr tragen.[END]
 // Repeats: 624-42, 633-42
 624-43:@What's that? You want to hear that story[BREAK]  again?[WAIT]@Sure thing! Here goes![WAIT]@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![END]
-624-43E:
+624-43E:@Was? Du willst die Geschichte noch mal hören?[WAIT]@Klar doch! Los geht's![WAIT]@Es gibt gewisse eigenartig geformte Steine,[BREAK]  die oft an die Küste gespült werden.[WAIT]@Sie alle haben die selbe Größe.[WAIT]@Die Leute früher dachten, dass sie aussehen[BREAK]  wie ein dickbäuchiger Buddha,[WAIT]  also haben sie sie "Dickbauchsteine" genannt.[WAIT]@In Wahrheit sind es aber Gehörknöchelchen von[BREAK]  Delfinen gewesen.[WAIT]  Diese Knochen sind die kleinsten Knochen im[BREAK]  ganzen Körper und heißen Hammer, Amboss[WAIT]  und Steigbügel, falls du es nicht wusstest.[WAIT]@Sie sind extrem hart.[WAIT]@Anscheinend werden sie an die Küste gespült,[BREAK]  weil sie im Meer nicht verwesen können.[WAIT]@Ich wette, man könnte ein paar am Strand[BREAK]  finden, wenn man danach sucht.[WAIT]@Das war's mit Unnützem Wissen von[BREAK]  Klein Geisti![WAIT]
 // Repeats: 624-43, 633-43
 624-44:@...[END]
 624-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 624-45:@An awkward feeling hung in the air.[END]
-624-45E:
+624-45E:@Ein unbehagliches Gefühl hängt in der Luft.[END]
 // Repeats: 624-45, 633-45
 624-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
-624-46E:
+624-46E:@Aus irgendeinem Grund sind nur die Tasten[BREAK]  dieses Pianos hell und glänzend.[END]
 // Repeats: 624-46, 633-46
 624-47:@Moldy, putrid apples.[WAIT]   "Putrapples" for short.[END]
-624-47E:
+624-47E:@Schimmlige, faulige Äpfel.[WAIT]  Kurz: "Schauläpfel"
 // Repeats: 624-47, 633-47
 624-48:@Open the castle gate?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-48E:
+624-48E:@Das Schlosstor öffnen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 624-49:@Opened the castle gate![END]
-624-49E:
+624-49E:@Das Schlosstor geöffnet![END]
 624-50:@Hey![BREAK]@Geezer's son![WAIT]@We gotta find "it" first![END]
-624-50E:
+624-50E:@Hey![BREAK]@Sohn des alten Kerls![WAIT]@Wir müssen zuerst "es" finden![END]
 624-51:@What's going on?[WAIT]@Did you find it?![END]
-624-51E:
+624-51E:@Was ist hier los?[WAIT]@Hast du es gefunden?![END]
 624-52:@What? You STILL haven't found it?![WAIT]@Just who are these other intruders?[END]
-624-52E:
+624-52E:@Was? IMMER NOCH NICHT gefunden?![WAIT]@Wer genau sind diese Eindringlinge?[END]
 624-53:@An old man and a guy with a gloomy feel[BREAK]  about him?![WAIT]@Wait, you mean HIM?![WAIT]@The guy with brown hair, a gloomy feel, slightly[BREAK]  bad breath, and looks kind of like a bum?![WAIT]@So, where are they now?[END]
-624-53E:
+624-53E:@Ein alter Mann und ein Kerl mit einer[BREAK]  schaurigen Ausstrahlung?![WAIT]@Warte. Meinst du etwa IHN?![WAIT]@Er hat braunes Haar, eine schaurige Aus-[BREAK]  strahlung, etwas schlechten Mundgeruch, und[WAIT]  sieht in etwa wie ein Penner aus?[WAIT]@Wo sind sie jetzt?[END]
 // this uses the same description of Duster as earlier in the script
 624-54:@What?! They're headed for the top floor?![END]
-624-54E:
+624-54E:@Was?! Sie sind zur obersten Etage?![END]
 624-55:@YOU FOOLS!!!![END]
-624-55E:
+624-55E:@IHR HOHLKÖPFE!!!![END]
 624-56:@Whatever you do, do NOT let them get there[BREAK]  first![END]
-624-56E:
+624-56E:@Egal was, lasst sie NICHT als erstes oben[BREAK]  ankommen![END]
 624-57:[END]
-624-57E:
+624-57E:[END]
 
 [Container 626]
 626-0:@This book's covers and binding are top-notch,[BREAK]  but there's nothing noteworthy written inside.[END]
@@ -17496,38 +17497,38 @@
 
 [Container 627]
 627-0:@Hey there, person![WAIT]@How about a [ITEM E4 00]?[BREAK]  He's incredibly popular these days![WAIT]@He makes for a good pet,[WAIT]  and he can even change into a jump-rope or a[BREAK]  clothesline at the drop of a hat![WAIT]@He's a very handy and hard-working snake![BREAK]  Yessiree![END]
-627-0E:
+627-0E:@He da, Person![WAIT]@Wir wär's mit einer [ITEM E4 00]?[BREAK]  Ist heutzutage richtig beliebt![WAIT]@Sie gibt sich gut als Haustier ab und kann sich[BREAK]  bei Bedarf in nur einem Augenblick in ein[WAIT]  Sprungseil oder Wäscheleine verwandeln![WAIT]@Sie ist eine sehr praktische und[BREAK]  hart-arbeitende Schlange![WAIT]  Jawollja![END]
 627-1:@That's the [ITEM E4 00].[BREAK]  He's incredibly popular these days![WAIT]@I'll trade him for one [ITEM 67 00]![WAIT]@What do you say? Do we have a deal?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-1E:
+627-1E:@Das ist die [ITEM E4 00].[BREAK]  Ist heutzutage richtig beliebt![WAIT]@Ich tausche sie für ein [ITEM 67 00]![WAIT]@Was sagst du? Deal?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 627-2:@That's a [ITEM F0 FF].[WAIT]@If you have any [ITEM 67 00]s, I'll trade this[BREAK]  for [80 FF F1 FF] of them![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-2E:
+627-2E:@Das ist ein [ITEM F0 FF].[WAIT]@Wenn [ITEM 67 00] hast,[BREAK]  tausche ich sie gegen [80 FF F1 FF] davon![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 627-3:@That's a not-very-tasty [ITEM F0 FF].[WAIT]@I'll trade it for [80 FF F1 FF] [ITEM 67 00]![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-3E:
+627-3E:@Das ist ein nicht sehr leckerer [ITEM F0 FF].[WAIT]@Wenn [ITEM 67 00] hast,[BREAK]  tausche ich sie gegen [80 FF F1 FF] davon![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // I think this is a Nut Cookie, but I'm not sure
 627-4:@Thanks a bunch![WAIT]@Things like this last a lifetime,[WAIT]  so even if they seem expensive, it's smart to[BREAK]  buy as many as you can.[END]
-627-4E:
+627-4E:@Herzlichen Dank![WAIT]@Solche Dinge halten eine Ewigkeit.[WAIT]  also auch wenn sie teuer erscheinen, ist es[BREAK]  schlau so viele wie möglich zu kaufen.[END]
 627-5:@Oh, I'm sorry to hear that.[WAIT]@Things like this last a lifetime,[WAIT]  so even if they seem expensive, it's smart to[BREAK]  buy as many as you can.[END]
-627-5E:
+627-5E:@Oh. Es tut mir leid das zu hören.[WAIT]@Solche Dinge halten eine Ewigkeit.[WAIT]  also auch wenn sie teuer erscheinen, ist es[BREAK]  schlau so viele wie möglich zu kaufen.[END]
 627-6:@Hold on, now![BREAK]  You don't have enough [ITEM 67 00]s![WAIT]@It's not wise to tease ghosts, you know![END]
-627-6E:
+627-6E:@Jetzt mach mal halblang![BREAK]  Da fehlt mindestens ein [ITEM 67 00]![WAIT]@Mit Geister ist nicht gut Kirschen essen, mein[BREAK]  Freund![END]
 627-7:@Hold on, now![BREAK]  You don't have any [ITEM 68 00]![WAIT]@It's not wise to tease ghosts, you know![END]
-627-7E:
+627-7E:@Moment mal![BREAK]  Du hast gar kein [ITEM 67 00]![WAIT]@Geister solltest du besser nicht veräppeln,[BREAK]  mein Freund![END]
 627-8:@It looks like you can't carry any more items.[END]
-627-8E:
+627-8E:@Du kannst nicht noch mehr Items tragen.[END]
 627-9:@Ahh!![END]
-627-9E:
+627-9E:@Ahh!![END]
 627-10:@Excuse me![BREAK]@That's a nice item you have there![WAIT]@I'm referring to that [ITEM 68 00][BREAK]  in your inventory.[WAIT]@If you let me have it, I'll give you the rare item[BREAK]  I'm hiding behind me in return.[WAIT]@What do you say?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-627-10E:
+627-10E:@Entschuldige mich![BREAK]@Da hast du aber ein schönes Ding dabei![WAIT]@Ich meine natürlich deine [ITEM 68 00][BREAK]  in deinem Inventar.[WAIT]@Wenn ich es haben darf, werde ich dir im[BREAK]  Gegenzug ein seltenes Ding geben.[WAIT]@Was sagst du?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 627-11:@I know it's not my place to say this, but that[BREAK]  [ITEM 68 00] isn't good for you.[WAIT]@It's rotten, you know![EVENT][END]
-627-11E:
+627-11E:@Ich bin vielleicht nicht gerade in der Position[BREAK]  das zu sagen, aber diese [ITEM 68 00][WAIT]  ist nicht gut für dich.[WAIT]@Ich meine, es ist verrotet![EVENT][END]
 627-12:[SOUND 03 00]@Keeheehee![END]
-627-12E:
+627-12E:[SOUND 03 00]@Keeheehee![END]
 627-13:@Thanks![WAIT]@It looks like we both profited![WAIT]@Treasure it for the rest of your life![END]
-627-13E:
+627-13E:@Danke![WAIT]@Wir haben beide Profit gemacht![WAIT]@Bewahre es für den Rest deines Lebens auf![END]
 627-14:@Hmm, what to choose, what to choose...[WAIT]@I just can't decide...[END]
-627-14E:
+627-14E:@Hmm, was soll ich nehmen,[BREAK]  was soll ich nehmen...[WAIT]@Ich kann mich einfach nicht entscheiden...[END]
 627-15:@I really like the Rope Snake.[WAIT]@There's something charming about him.[WAIT]  Like his length. And his jaw.[END]
-627-15E:
+627-15E:@Ich liebe Seilschlangen.[WAIT]@An ihr ist wirklich etwas bezauberndes.[WAIT]  Wie ihre Länge. Und ihr Kiefer.[END]
 
 [Container 628]
 628-0:@There's nothing in there.[WAIT]@Let's head to the top floor![END]
@@ -17559,7 +17560,7 @@
 
 [Container 631]
 631-0:@A decorative suit of armor.[END]
-631-0E:
+631-0E:@Eine Rüstung zur Zierde.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 631-1:@This suit of armor has been mercilessly[BREAK]  destroyed.[END]
 631-1E:
@@ -17578,166 +17579,166 @@
 
 [Container 632]
 632-0:@A torn-up painting is lying on the ground.[END]
-632-0E:
+632-0E:@Ein zerissenes Gemälde liegt auf dem Boden.[END]
 632-1:@Squeek-squeek-squeeek.[WAIT]  (All the fireplaces in this castle are connected[BREAK]  via a squeekret passageway.[WAIT]  You can use them to go straight to the hot[BREAK]  spring in the basement in no time flat.)[END]
-632-1E:
+632-1E:@Quieetsch-quieetsch-quieetsch.[WAIT]  (Alle Kamine in diesem Schloss sind über einen[BREAK]  Geheimgang miteinander verbunden.[WAIT]  Du kannst sie benutzen um ohne Umwege[BREAK]  direkt zur heißen Quelle im Keller zu gelangen.)[END]
 632-2:@All the fireplaces in this castle are connected[BREAK]  via a squeekret passageway.[WAIT]  Keep it a squeekret from the ghosts, though.[END]
-632-2E:
+632-2E:@Alle Kamine in diesem Schloss sind über einen[BREAK]  Geheimgang miteinander verbunden.[WAIT]  Halte das aber vor den Geister geheim.[END]
 632-3:@This grandfather clock no longer works.[END]
-632-3E:
+632-3E:@Die Standuhr funktioniert nicht mehr.[END]
 // Repeats: 632-3, 642-17
 
 [Container 633]
 633-0:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-0E:@Diese Wand scheint anpassbar zu sein.[WAIT]  Raufklettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+633-0E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 633-1:@Life as a ghost is the greatest![WAIT]@I want to stay a ghost for as long as I live![END]
-633-1E:
+633-1E:@Das Leben eines Geistes ist das beste![WAIT]@Ich möchte so lang ich lebe, ein Geist sein![END]
 // Repeats: 624-1, 633-1
 633-2:@Some people think ghosts are scary,[WAIT]  but I don't think so![END]
-633-2E:
+633-2E:@Einige glauben, dass Geister gruselig sind,[WAIT]  aber ich finde das nicht![END]
 // Repeats: 624-2, 633-2
 633-3:@YOU![WAIT]@You're an ordinary person, aren't you?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-3E:
+633-3E:@DU![WAIT]@Du bist eine normaler Mensch, oder?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-3, 633-3
 633-4:@No, you're not normal.[WAIT]@You appear to be a thief-person![END]
-633-4E:
+633-4E:@Nein, du bist nicht normal.[WAIT]@Du scheinst ein diebischer Mensch zu sein![WAIT]
 // Repeats: 624-4, 633-4
 633-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-633-5E:
+633-5E:@Genau![BREAK]  Du bist SO ein normaler Mensch![END]
 // Repeats: 624-5, 633-5
 633-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-633-6E:
+633-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiiß.[END]
 // Repeats: 624-6, 633-6
 633-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
-633-7E:
+633-7E:@Wie ich sagte...![WAIT]@Wein...[PAUSE 5A 00][BREAK]  ist meine brennende Leidenschaft.[WAIT]@Versteh mich doch![END]
 // Repeats: 624-7, 633-7
 633-8:@You must really know the score to be able to[BREAK]  talk with me for so long.[END]
-633-8E:
+633-8E:@Du musst dich ja wirklich auskennen,[BREAK]  wenn du so lange mit mir sprichst.[END]
 // Repeats: 624-8, 633-8
 633-9:@I said earlier that you really know the score,[BREAK]  but I take that back now.[WAIT]@Why? Because...[PAUSE 5A 00] you haven't said even a[BREAK]  single word.[END]
-633-9E:
+633-9E:@Ich habe vorhin zwar gesagt,[BREAK]  dass du dich wirklich auskennen musst,[WAIT]  aber das nehme ich jetzt zurück.[WAIT]@Warum? Weil...[PAUSE 5A 00] du nicht mal ein[BREAK]   einziges Wort gesagt hast.[END]
 // Repeats: 624-9, 633-9
 633-10:@We ghosts enjoy having food pass through our[BREAK]  spirits at mealtime.[END]
-633-10E:
+633-10E:@Wir Geister lieben es Essen durch unseren[BREAK]  Geist gleiten zu lassen.[END]
 // Repeats: 624-10, 633-10
 633-11:@We're not wasting any food. Honest.[END]
-633-11E:
+633-11E:@Wir verschwenden kein Essen. Ehrlich.[END]
 // Repeats: 624-11, 633-11
 633-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-12E:
+633-12E:@Möchtest du auch etwas zu essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 633-13:@Here you go.[END]
-633-13E:
+633-13E:@Bitte sehr.[END]
 // Repeats: 624-13, 633-13
 633-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-633-14E:
+633-14E:@[ITEM 67 00] hier im Schloss schmeckt[BREAK]  genauso wie Mama es immer gemacht hat.[WAIT]@Probier mal![END]
 // Repeats: 624-14, 633-14
 633-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-15E:
+633-15E:@Möchtest du noch mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 633-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
-633-16E:
+633-16E:@Hat di dei' Mam nie beigebrach' och ma'[BREAK]  Nee zu sag'n?![END]
 // Repeats: 624-16, 633-16
 633-17:@Hey, now. You don't hafta hold back to be[BREAK]  polite.[WAIT]@You and me are buddies.[WAIT]@Take one as a gift for your mom.[END]
-633-17E:
+633-17E:@Hey, hey. Du brachst di net zurückhalt'n, nur[BREAK]  um höflisch zu seen.[WAIT]@Wir sin Kump'ls.[WAIT]@Des is'n G'schenk für dei Mam.[END]
 // Repeats: 624-17, 633-17
 633-18:@Whoa, you can't hold any more stuff.[WAIT]@If you want to eat some that badly, go throw[BREAK]  something out first.[END]
-633-18E:
+633-18E:@Whoa, du kann's nix mehr trag'n.[WAIT]@Wenn du's unbedingt wills', wirf was weg.[END]
 // Repeats: 624-18, 633-18
 633-19:@Oh, you can't hold any more stuff.[WAIT]@Guess I'll eat it, then![END]
-633-19E:
+633-19E:@Oh, kannst nix mehr trag'n.[WAIT]@Dann es ich's selbst![END]
 // Repeats: 624-19, 633-19
 633-20:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
-633-20E:
+633-20E:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
 // Repeats: 624-20, 633-20
 633-21:@The ghosts here party every single day.[WAIT]@I can't fit in with that. It's just not my thing...[END]
-633-21E:
+633-21E:@Die Geister hier schmeißen jeden einzelnen Tag[BREAK]  eine Party.[WAIT]@Ich schaffe es aber einfach nicht, reinzu-[BREAK]  passen. Das ist einfach nicht so mein Ding...[END]
 // Repeats: 624-21, 633-21
 633-22:@Thanks for talking to me.[WAIT]@I'll try harder to fit in with the others.[END]
-633-22E:
+633-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und reinzupassen.[END]
 // Repeats: 624-22, 633-22
 633-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-633-23E:
+633-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Es ist großartig![WAIT]  Es bewegt! Es ist herzzereißend![BREAK]  Es ist andeutend![END]
 // Repeats: 624-23, 633-23
 633-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
-633-24E:
+633-24E:@Vorher waren hier ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]
 // Repeats: 624-24, 633-24
 633-25:@We're currently using every resource available[BREAK]  to us to locate it...[WAIT]  ...but it still hasn't turned up![WAIT]@...Hold on, pipsqueak monkey. I'm not talking[BREAK]  to you.[END]
-633-25E:
+633-25E:@Wir nutzen alles in unserer Macht stehende[BREAK]  um den Ort zu finden...[WAIT]  ...aber es wurde noch nichts gefunden...[WAIT]@...Moment mal, Würstchen. Ich rede nicht[BREAK]  mit dir.[END]
 // Repeats: 624-25, 633-25
 633-26:@That bum-looking guy and his cohort headed[BREAK]  upstairs after they beat the snot out of us![WAIT]@Only now do I realize that thieves are truly[PAUSE 2E 00][BREAK]  a force to be reckoned with![END]
-633-26E:
+633-26E:@Der Kerl, der aussieht wie ein Penner, und[BREAK]  seine Kumpanen sind nach oben gegangen,[WAIT]   nachdem sie uns total vermöbelt hatten![WAIT]@Erst jetzt bemerke ich, dass Diebe wirklich[PAUSE 2E 00][BREAK]  was auf den Kasten haben![END]
 // Repeats: 624-26, 633-26
 633-27:@Yeah?[END]
-633-27E:
+633-27E:@Ja?[END]
 // Repeats: 624-27, 633-27
 633-28:@What?! They fled into the basement?![WAIT]@They have it with them?![BREAK]  Alright! Got it![END]
-633-28E:
+633-28E:@Was?! Sie sind in den Keller geflohen?![WAIT]@Sie haben es bei ihnen?![BREAK]  Okay! Verstanden![END]
 // Repeats: 624-28, 633-28
 633-29:@Hey, monkey![BREAK]  We're heading into the basement now![WAIT]@There should be an entrance to the basement[BREAK]  somewhere inside this castle.[WAIT]@Find it![END]
-633-29E:
+633-29E:@Hey, Affe![BREAK]  Wir gehen jetzt in den Keller![WAIT]@Irgendwo im Schloss sollte es einen Eingang in[BREAK]  den Keller geben.[WAIT]@Finde ihn![END]
 // Repeats: 624-29, 633-29
 633-30:@Whew.[PAUSE 5A 00]  Boy, it's stuffy in this thing...[END]
-633-30E:
+633-30E:@Phew.[PAUSE 5A 00] Junge ist es stickig hier...[END]
 // Repeats: 624-30, 633-30
 633-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
 633-31E:
 // Repeats: 624-31, 633-31
 633-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-633-32E:
+633-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobelten[BREAK]  Mitglied in unserer Gruppe.[END]
 // Repeats: 624-32, 633-32
 633-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
-633-33E:
+633-33E:@Wir haben gefeiert und gefeiert und gefeiert,[BREAK]  aber irgendwann wurde es langeweilig.[WAIT]@Also haben mehr und mehr von uns das[BREAK]  Partyleben aufgegeben.[END]
 // Repeats: 624-33, 633-33
 633-34:@Wow, I'm surprised you came here. This[BREAK]  castle's so boring now I could just die.[WAIT]@It WAS the setting for an adventure three[BREAK]  years ago, though.[WAIT]@But there's been nothing at all since then.[BREAK]  Nothing.[WAIT]@In fact, if you hadn't come and talked to me[BREAK]  just now,[WAIT]  today would've been yet another empty day[BREAK]  leading into another empty tomorrow.[WAIT]@So, how about a leisurely chat?[WAIT]@No?![WAIT]@Oh, but I want to talk.[WAIT]@No?[WAIT]@I see.[WAIT]@Okay. Whatever.[END]
-633-34E:
+633-34E:@Wow, ich bin überrascht, dass du du hier bist.[WAIT]@Dieses Schloss ist so langweilig geworden,[BREAK]  dass man sterben könnte.[WAIT]@Es WAR allerding vor drei Jahren ein[BREAK]  Schauplatz für ein Abenteuer.[WAIT]@Aber seitdem gab es gar nichts mehr.[WAIT]  Gar nichts.[WAIT]@Um genau zu sein, wenn du nicht zu mir geko-[BREAK]  mmen wärest und mich angesprochen hättest,[WAIT]  wäre heute ein weiterer leerer Tag geworden,[BREAK]  der in ein leeres Morgen geführt hätte.[WAIT]@Also wie wär's mit einem ruhigen Plausch?[WAIT]@Nein?![WAIT]@Och, ich will aber reden.[WAIT]@Nein?[WAIT]@Ich verstehe.[WAIT]@Okay. Ist ja auch egal.[END]
 // Repeats: 624-34, 633-34
 633-35:@I've been playing this one song for three years[BREAK]  straight.[WAIT]@It's like it's my fate to keep singing this song.[WAIT]@I know it's a bit old at this point, but would you[BREAK]  like to hear it again anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-35E:
+633-35E:@Dieses eine Lied spiele sich seit drei Jahren[BREAK]  durch.[WAIT]@Es ist sozusagen mein Schicksal,[BREAK]  dieses Lied zu singen.[WAIT]@Ich weiß, dass es mittlerweile alt ist, aber[BREAK]  möchtest du es trotzdem nochmal hören?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-35, 633-35
 633-36:@No?[WAIT]@You don't want to hear it?[WAIT]@Your loss.[END]
-633-36E:
+633-36E:@Nein?[WAIT]@Du willst es nicht hören?[WAIT]@Dein Verlust.[END]
 // Repeats: 624-36, 633-36
 633-37:@Oh, I'm so very happy you talked to me.[WAIT]@Unless we're especially lucky, characters like[BREAK]  me without notable personalities[WAIT]  often wind up overlooked and ignored.[WAIT]@But I'm happy.[WAIT]@You talked to me.[WAIT]@You've acknowledged me, in other words.[WAIT]@Oh, I'm so happy! Here, this is for you![END]
-633-37E:
+633-37E:@Oh, ich bin so froh, dass du mit mir redest.[WAIT]@Außer wenn wir besonders viel Glück haben, werden Leute wie ich ohne besonderen Charakter oft übersehen und ignoriert.[WAIT]@Aber ich bin glücklich.[WAIT]@Du hast mit mir geredet.[WAIT]@Mit anderen Worten, hast du mich bemerkt.[WAIT]@Oh, ich bin so glücklich! Hier, das ist für dich![END]
 // Repeats: 624-37, 633-37
 633-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-633-38E:
+633-38E:@Du bist so nett zu mir gewesen, aber dein[BREAK]  Körper scheint mich nicht so sehr zu mögen.[WAIT]@Es sagt, dass dein Inventar voll ist...[END]
 // Repeats: 624-38, 633-38
 633-39:@Hiya, friend![END]
-633-39E:
+633-39E:@Heya, Freund![END]
 // Repeats: 624-39, 633-39
 633-40:@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![WAIT]@Did you find it interesting?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-40E:
+633-40E:@Es gibt gewisse eigenartig geformte Steine,[BREAK]  die oft an die Küste gespült werden.[WAIT]@Sie alle haben die selbe Größe.[WAIT]@Die Leute früher dachten, dass sie aussehen[BREAK]  wie ein dickbäuchiger Buddha,[WAIT]  also haben sie sie "Dickbauchsteine" genannt.[WAIT]@In Wahrheit sind es aber Gehörknöchelchen von[BREAK]  Delfinen gewesen.[WAIT]  Diese Knochen sind die kleinsten Knochen im[BREAK]  ganzen Körper und heißen Hammer, Amboss[WAIT]  und Steigbügel, falls du es nicht wusstest.[WAIT]@Sie sind extrem hart.[WAIT]@Anscheinend werden sie an die Küste gespült,[BREAK]  weil sie im Meer nicht verwesen können.[WAIT]@Ich wette, man könnte ein paar am Strand[BREAK]  finden, wenn man danach sucht.[WAIT]@Das war's mit Unnützem Wissen von[BREAK]  Klein Geisti![WAIT]@Fandest du es interessant?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-40, 633-40
 633-41:@Here, I'll give you an actual dolphin ossicle![END]
-633-41E:
+633-41E:@Hier, ich gebe dir ein echtes[BREAK]  Delfin-Gehörknöchelchen![END]
 // Repeats: 624-41, 633-41
 633-42:@I was going to give you a dolphin ossicle, but it[BREAK]  looks like you can't hold any more stuff.[END]
-633-42E:
+633-42E:@Ich wollte dir ein Delfin-Gehörknöchelchen[BREAK]  geben, aber du kannst nichts mehr tragen.[END]
 // Repeats: 624-42, 633-42
 633-43:@What's that? You want to hear that story[BREAK]  again?[WAIT]@Sure thing! Here goes![WAIT]@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![END]
-633-43E:
+633-43E:@Was? Du willst die Geschichte noch mal hören?[WAIT]@Klar doch! Los geht's![WAIT]@Es gibt gewisse eigenartig geformte Steine,[BREAK]  die oft an die Küste gespült werden.[WAIT]@Sie alle haben die selbe Größe.[WAIT]@Die Leute früher dachten, dass sie aussehen[BREAK]  wie ein dickbäuchiger Buddha,[WAIT]  also haben sie sie "Dickbauchsteine" genannt.[WAIT]@In Wahrheit sind es aber Gehörknöchelchen von[BREAK]  Delfinen gewesen.[WAIT]  Diese Knochen sind die kleinsten Knochen im[BREAK]  ganzen Körper und heißen Hammer, Amboss[WAIT]  und Steigbügel, falls du es nicht wusstest.[WAIT]@Sie sind extrem hart.[WAIT]@Anscheinend werden sie an die Küste gespült,[BREAK]  weil sie im Meer nicht verwesen können.[WAIT]@Ich wette, man könnte ein paar am Strand[BREAK]  finden, wenn man danach sucht.[WAIT]@Das war's mit Unnützem Wissen von[BREAK]  Klein Geisti![WAIT]
 // Repeats: 624-43, 633-43
 633-44:@...[END]
 633-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 633-45:@An awkward feeling hung in the air.[END]
-633-45E:
+633-45E:@Ein unbehagliches Gefühl hängt in der Luft.[END]
 // Repeats: 624-45, 633-45
 633-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
-633-46E:
+633-46E:@Aus irgendeinem Grund sind nur die Tasten[BREAK]  dieses Pianos hell und glänzend.[END]
 // Repeats: 624-46, 633-46
 633-47:@Moldy, putrid apples.[WAIT]   "Putrapples" for short.[END]
-633-47E:
+633-47E:@Schimmlige, faulige Äpfel.[WAIT]  Kurz: "Schauläpfel"
 // Repeats: 624-47, 633-47
 
 [Container 634]
 634-0:@Squeaky-squeak.[WAIT]  (Many of the ghosts here are actually pretty[BREAK]  friendly, huh?[WAIT]  That's not something you'd normally expect.)[END]
 634-0E:
 634-1:@You felt sick.[END]
-634-1E:
+634-1E:@Dir ist übel.[END]
 // Repeats: 623-0, 634-1
 634-2:@There's nothing you can do here,[WAIT]  nor is there anything that CAN be done.[END]
 634-2E:
@@ -17815,10 +17816,10 @@
 
 [Container 641]
 641-0:@A decorative suit of armor.[END]
-641-0E:
+641-0E:@Eine Rüstung zur Zierde.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 641-1:[END]
-641-1E:
+641-1E:[END]
 
 [Container 642]
 642-0:@This furniture is shaking violently.[END]
@@ -17858,45 +17859,45 @@
 642-16:@An old clock that runs too fast.[END]
 642-16E:
 642-17:@This grandfather clock no longer works.[END]
-642-17E:
+642-17E:@Die Standuhr funktioniert nicht mehr.[END]
 // Repeats: 632-3, 642-17
 
 [Container 643]
 643-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
-643-0E:
+643-0E:@Man kann ganz schwach den Wind hinter[BREAK]  dieser Wand hören.
 // Repeats: 643-0, 660-0
 643-1:@An odd dance is depicted on the wall.[END]
-643-1E:
+643-1E:@Ein komischer Tanz ist auf der Wand[BREAK]  eingraviert.[END]
 // Repeats: 643-1, 660-1
 643-2:@There's a very delicately-crafted vase here.[END]
-643-2E:
+643-2E:@Hier steht eine sehr sorgfältige[BREAK]  hergestellte Vase.[END]
 // Repeats: 643-2, 660-2
 643-3:@Got the [ITEM DD 00]![END]
-643-3E:
+643-3E:@[ITEM DD 00] erhalten![END]
 // Repeats: 643-3, 660-3
 643-4:@The real treasure is further inside.[END]
-643-4E:
+643-4E:@Der wahre Schatz befindet sich tiefer im[BREAK]  Schloss.[END]
 // Repeats: 643-4, 660-4
 643-5:@It appears someone has opened this door...[WAIT]@Very recently, too.[WAIT]@I believe only the princess has the ability to[BREAK]  open this secret door...[END]
-643-5E:
+643-5E:@Scheinbar hat jemand diese Tür geöffnet...[WAIT]@Sogar erst vor kurzem.[WAIT]@Ich glaube, die Prinzessin hat die Gabe diese[BREAK]  geheime Tür zu öffnen...[END]
 // Repeats: 643-5, 660-5
 643-6:@...[DUSTER 23 03 00].[WAIT]@This is embarrassing. Turn the other way.[END]
-643-6E:
+643-6E:@...[DUSTER 23 03 00].[WAIT]@Das ist peinlich. Dreh dich um.[END]
 // Repeats: 643-6, 660-6
 643-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-643-7E:
+643-7E:@Schau jetzt nicht her![WAIT]@Es nicht so als würde ich meinen Hintern oder[BREAK]  sowas herausstrecken.[END]
 // Repeats: 643-7, 660-7
 643-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
-643-8E:
+643-8E:@Ich glaube, ich habe dir diesen Tanz[BREAK]  beigebracht, als du noch sehr jung warst.[END]
 // Repeats: 643-8, 660-8
 643-9:@I even told you a million times to do it[BREAK]  whenever you find yourself stuck...[END]
-643-9E:
+643-9E:@Ich habe dir sogar eine Million Mal gesagt,[WAIT]  dass du ihn machen sollst, wenn du in der[BREAK]  Klemme bist...[END]
 // Repeats: 643-9, 660-9
 643-10:@The princess most likely went through here.[WAIT]@And those pig fellows are probably still inside[BREAK]  the castle as well.[WAIT]@So we need to be careful![PAUSE 40 00] You moron![END]
-643-10E:
+643-10E:@Die Prinzessin ist höchstwahrscheinlich hier[BREAK]  durch.[WAIT]@Und dieses Schweingefolge ist wahrscheinlich[BREAK]  auch noch im Schloss.[WAIT]@Also müssen wir vorsichtig sein![PAUSE 40 00] Du Depp![END]
 // Repeats: 643-10, 660-10
 643-11:[END]
-643-11E:
+643-11E:[END]
 
 [Container 645]
 645-0:@There's a large garbage can here.[WAIT]  ...What's it used for?[END]
@@ -18070,37 +18071,37 @@
 
 [Container 660]
 660-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
-660-0E:
+660-0E:@Man kann ganz schwach den Wind hinter[BREAK]  dieser Wand hören.
 // Repeats: 643-0, 660-0
 660-1:@An odd dance is depicted on the wall.[END]
-660-1E:
+660-1E:@Ein komischer Tanz ist auf der Wand[BREAK]  eingraviert.[END]
 // Repeats: 643-1, 660-1
 660-2:@There's a very delicately-crafted vase here.[END]
-660-2E:
+660-2E:@Hier steht eine sehr sorgfältige[BREAK]  hergestellte Vase.[END]
 // Repeats: 643-2, 660-2
 660-3:@Got the [ITEM DD 00]![END]
-660-3E:
+660-3E:@[ITEM DD 00] erhalten![END]
 // Repeats: 643-3, 660-3
 660-4:@The real treasure is further inside.[END]
-660-4E:
+660-4E:@Der wahre Schatz befindet sich tiefer im[BREAK]  Schloss.[END]
 // Repeats: 643-4, 660-4
 660-5:@It appears someone has opened this door...[WAIT]@Very recently, too.[WAIT]@I believe only the princess has the ability to[BREAK]  open this secret door...[END]
-660-5E:
+660-5E:@Scheinbar hat jemand diese Tür geöffnet...[WAIT]@Sogar erst vor kurzem.[WAIT]@Ich glaube, die Prinzessin hat die Gabe diese[BREAK]  geheime Tür zu öffnen...[END]
 // Repeats: 643-5, 660-5
 660-6:@...[DUSTER 23 03 00].[WAIT]@This is embarrassing. Turn the other way.[END]
-660-6E:
+660-6E:@...[DUSTER 23 03 00].[WAIT]@Das ist peinlich. Dreh dich um.[END]
 // Repeats: 643-6, 660-6
 660-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-660-7E:
+660-7E:@Schau jetzt nicht her![WAIT]@Es nicht so als würde ich meinen Hintern oder[BREAK]  sowas herausstrecken.[END]
 // Repeats: 643-7, 660-7
 660-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
 660-8E:
 // Repeats: 643-8, 660-8
 660-9:@I even told you a million times to do it[BREAK]  whenever you find yourself stuck...[END]
-660-9E:
+660-9E:@Ich habe dir sogar eine Million Mal gesagt,[WAIT]  dass du ihn machen sollst, wenn du in der[BREAK]  Klemme bist...[END]
 // Repeats: 643-9, 660-9
 660-10:@The princess most likely went through here.[WAIT]@And those pig fellows are probably still inside[BREAK]  the castle as well.[WAIT]@So we need to be careful![PAUSE 40 00] You moron![END]
-660-10E:
+660-10E:@Die Prinzessin ist höchstwahrscheinlich hier[BREAK]  durch.[WAIT]@Und dieses Schweingefolge ist wahrscheinlich[BREAK]  auch noch im Schloss.[WAIT]@Also müssen wir vorsichtig sein![PAUSE 40 00] Du Depp![END]
 // Repeats: 643-10, 660-10
 660-11:@An odd dance is depicted here.[END]
 660-11E:
@@ -18268,34 +18269,34 @@
 
 [Container 665]
 665-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-665-0E:
+665-0E:@Herunterspringen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-0, 665-0
 665-1:@This statue's title is written on the plate.[WAIT]          Title: "Heavy Metal"[END]
-665-1E:
+665-1E:@Auf einer Plakette steht der Name der Statue.[WAIT]            Titel: "Heavy Metal"[END]
 // Repeats: 621-1, 665-1
 665-2:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Shall I save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-665-2E:
+665-2E:@*hüpf*[BREAK]  Nein, ich bin kein Geisterfrosch.[WAIT]@Soll ich dein Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-2, 665-2
 665-3:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-665-3E:
+665-3E:@*hüpf*[BREAK]  Nein, ich bin kein Geisterfrosch.[WAIT]@Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 621-3, 665-3
 665-4:@A decorative suit of armor.[END]
-665-4E:
+665-4E:@Eine Rüstung zur Zierde.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 665-5:@You get the odd feeling that the woman in the[BREAK]  painting is staring at you.[END]
-665-5E:
+665-5E:@Dich beschleicht ds Gefühl, dass die Frau im[BREAK]  Gemälde dich anstarrt.[END]
 // Repeats: 621-5, 665-5
 665-6:@I swear, the lady in that painting keeps staring[BREAK]  at me.[WAIT]@So I've decided to stare right back at her.[WAIT]@I'm staring as hard as I can.[END]
-665-6E:
+665-6E:@Ich schwöre, dass diese Dame im Bild mich die[BREAK]  ganze Zeit anstarrt.[WAIT]@Also starre ich zurück.[WAIT]@Ich starre mit all meiner Kraft.[END]
 // Repeats: 621-6, 665-6
 665-7:@Mr. Fassad, sir![WAIT]@I'm currently thinking about how to dispose of[BREAK]  this bronze statue![WAIT]@I'm putting my life on the line to get it done![END]
-665-7E:
+665-7E:@Herr Fassad, Sir![WAIT]@Ich überlege gerade wie wir diese Bronze-[BREAK]  Statue am besten loswerden![WAIT]@Ich setze mein Leben dafür aufs Spiel![END]
 // Repeats: 621-7, 665-7
 665-8:@It doesn't move...[BREAK]  It appears to be an ordinary decoration.[END]
-665-8E:
+665-8E:@Es bewegt sich nicht...[BREAK]  Scheint nur ein gewöhnliches Dekorationsstück[BREAK]  zu sein.[END]
 // Repeats: 621-8, 665-8
 665-9:[END]
-665-9E:
+665-9E:[END]
 
 [Container 666]
 666-0:@[END]
