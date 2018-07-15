@@ -1,7 +1,47 @@
 <?xml version="1.0"?>
 <M3Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <RomDirectory />
-  <FormParams />
+  <RomDirectory>D:\Mother 3 Translation</RomDirectory>
+  <FormParams>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmLevelExpEditor</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>0</X>
+            <Y>0</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>280</Width>
+            <Height>504</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+          <ItemIndex>
+            <int>0</int>
+          </ItemIndex>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmDontCareNamesEditor</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>130</X>
+            <Y>130</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>286</Width>
+            <Height>301</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+        </FormParams>
+      </value>
+    </item>
+  </FormParams>
   <MainFormParams>
     <WindowLoc>
       <X>0</X>
