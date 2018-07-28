@@ -246,7 +246,7 @@
 0079: Rice so tasty, you feel lucky just to be[BREAK]eating it. HP restored depends on luck.[END]
 0079-E: Ein so leckerer Reis, dass man vom bloßen Essen[BREAK]glücklich wird. Wiederherstellbare HP hängt vom Glück ab.[END]
 007A: When eaten in battle, anything can happen.[END]
-007A-E: Wenn man es im Kampf isst, kann alles passieren.[END]
+007A-E: Wenn man es im Kampf isst, kann vieles passieren.[END]
 007B: A soup made with tantalizing jumbo shrimp.[BREAK]Restores 150 HP.[END]
 007B-E: Eine Suppe, die aus verlockenden Jumbo Shrimps gemacht wurde.[BREAK]Stellt 150 HP wieder her.[END]
 007C: A grilled and buttered abalone filet.[BREAK]Restores 180 HP.[END]

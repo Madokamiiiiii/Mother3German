@@ -350,7 +350,7 @@
 00AD: Meteotite
 00AD-E: Meteorit
 00AE: Friend's Yo-Yo
-00AE-E: Jo-Jo eines Freundes
+00AE-E: Freundes Jo-Jo
 00AF: Drago Fang
 00AF-E: Drago-Zahn
 00B0: Dung
@@ -388,7 +388,7 @@
 00C0: Pencil Eraser
 00C0-E: Bleistiftradierer
 00C1: Franklin Badge
-00C1-E: Franklin-Abzeichen
+00C1-E: Franklin-Stecknadel
 00C2: Kid's Shirt
 00C2-E: Kindershirt
 00C3: Good Kid's Shirt
@@ -408,7 +408,7 @@
 00CA: Waters of Time
 00CA-E: Zeitwasser
 00CB: Stinkbug's Memory
-00CB-E: Stinkkäfers Gedanken
+00CB-E: Stinkkäfers Erinnerung
 00CC: Phrygia's Notebook
 00CC-E: Phrygias Notizbuch
 00CD: Shield Snatcher
@@ -496,7 +496,7 @@
 00F6: Attic Guide
 00F6-E: Karte des Dachbodens
 00F7: Saturn Valley Map
-00F7-E: Karte des Saturn Tals
+00F7-E: Karte des Saturn-Tals
 00F8: Sea Floor Map
 00F8-E: Meeresbodenkarte
 00F9: Cave Map

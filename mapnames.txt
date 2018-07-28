@@ -10,7 +10,7 @@
 002:Tazmily Village[BREAK]Town Square[END]
 002-E:Dorf Tazmily[BREAK]Dorfmitte[END]
 003:Tazmily Village[BREAK]Wess' Haus[END]
-003-E:Dorf Tazmily[END]
+003-E:Dorf Tazmily[BREAK]Wess' Haus[END]
 004:Tazmily Village[END]
 004-E:Dorf Tazmily[END]
 005:Tazmily Village[END]
