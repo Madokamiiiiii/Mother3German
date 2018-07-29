@@ -1910,7 +1910,7 @@
 15-0:@*huff*[PAUSE 18 00] *gasp*[PAUSE 18 00][BREAK]  Whew, I'm beat.[EVENT][END]
 15-0E:@*schnauf*[PAUSE 18 00] *keuch*[PAUSE 18 00][BREAK]  Uff, ich gebe auf.[EVENT][END]
 15-1:@I've been play-fighting with the Dragos all[BREAK]  morning.[WAIT]@You should play too, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-15-1E:@Ich habe den ganzen Morgen mit den Dragos[BREAK]  kämpfen gespielt.[WAIT]@Du solltest mitspielen, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+15-1E:@Ich habe den ganzen Morgen mit den Dragos[BREAK]  Kämpfen gespielt.[WAIT]@Du solltest mitspielen, [LUCAS 23 02 00].[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 15-2:@Here, try ramming into a Drago.[END]
 15-2E:@Los, versuch mal einen Drago zu rammen.[END]
 15-3:@Come on. Just give it a try.[WAIT]@The Dragos are waiting.[END]
@@ -1918,13 +1918,13 @@
 15-4:@[CLAUS 22 05 00]![WAIT]@[LUCAS 23 02 00] still doesn't know how to ram[BREAK]  into things yet.[END]
 15-4E:@[CLAUS 22 05 00]![WAIT]@[LUCAS 23 02 00] weiß noch gar nicht, wie man[BREAK]  Sachen rammt.[END]
 15-5:@[LUCAS 23 02 00]![WAIT]  Try to imagine a thing called a [COLOR 03 00]B[COLOR 00 00] Button![WAIT]@And then hold that [COLOR 03 00]B[COLOR 00 00] Button for a second,[BREAK]  then let go.[WAIT]@Doing this will let you "dash".[WAIT]@And by using this "dash" ability, you can ram[BREAK]  into that Drago there![WAIT]@[CLAUS 22 05 00]! Show him an example![END]
-15-5E:@[LUCAS 23 02 00]![WAIT]  Stell dir mal so etwas wie einen [COLOR 03 00]B[COLOR 00 00]-Knopf vor![WAIT]@Und dann halte diesen [COLOR 03 00]B[COLOR 00 00]-Knopf für eine[BREAK]  Sekunde lang, und dann lass ihn los.[WAIT]@Damit kannst du "sprinten".[WAIT]@Und mit dieser "Sprinten"-Fähigkeit kannst du[BREAK]  diesen Drago rammen![WAIT]@[CLAUS 22 05 00]! Zeig wie man's macht![END]
+15-5E:@[LUCAS 23 02 00]![WAIT]  Stell dir mal so etwas wie einen [COLOR 03 00]B[COLOR 00 00]-Knopf vor![WAIT]@Und dann halte diesen [COLOR 03 00]B[COLOR 00 00]-Knopf für eine[BREAK]  Sekunde lang, und dann lass ihn los.[WAIT]@Damit kannst du "sprinten".[WAIT]@Und mit dieser "Sprinten"-Fähigkeit kannst du[BREAK]  diesen Drago rammen![WAIT]@[CLAUS 22 05 00]! Zeig mal, wie man's macht![END]
 15-6:@Yes! Just like that![WAIT]@Now it's your turn, [LUCAS 23 02 00]![BREAK]  Give it a try![END]
 15-6E:@Ja! Genau so![WAIT]@Jetzt bist du dran, [LUCAS 23 02 00]![BREAK]  Probier's mal![END]
 15-7:@Now it's your turn, [LUCAS 23 02 00]![BREAK]  Give it a try![END]
 15-7E:@Jetzt bist du dran, [LUCAS 23 02 00]![BREAK]  Probier's mal![END]
 15-8:@You'll never succeed with such a sullen look on[BREAK]  your face.[WAIT]@That holds true for anything. [PAUSE 20 00]Just relax![END]
-15-8E:@Dir wird es nie mit so einem mürrischen[BREAK]  Gesichtsausdruck gelingen.[WAIT]@Das gilt auch für alles andere.[PAUSE 20 00] Relaxe![END]
+15-8E:@Dir wird es nie mit so einem mürrischen[BREAK]  Gesichtsausdruck gelingen.[WAIT]@Das gilt auch für alles andere.[PAUSE 20 00] Entspann dich![END]
 15-9:@You're a weakling now, but I just know that[BREAK]  someday you'll be stronger than anyone else.[WAIT]  Hahahaha![END]
 15-9E:@Du bist ein Schwächling, aber ich bin mir[BREAK]  sicher, dass du eines Tages stärker sein wirst[WAIT]  als alle anderen.[WAIT]  Hahahahaha![END]
 15-10:@The harder you run into them, the more the[BREAK]  Dragos like it.[END]
@@ -1942,7 +1942,7 @@
 15-16:@Wait, where are you going?[WAIT]@We're having so much fun here...[END]
 15-16E:@Warte, wo gehst du hin?[WAIT]@Wir haben hier doch so viel Spaß...[END]
 15-17:@Move it! Outta the way![BREAK]  Make way for the great Mole Cricket![END]
-15-17E:@Bewegung! Aus dem Weg![BREAK]  Macht Platz für die Großartige Maulwurfsgrille![END]
+15-17E:@Bewegung! Aus dem Weg![WAIT]  Macht Platz für die Großartige[BREAK]  Maulwurfsgrille![END]
 15-18:@I can't just sit idly by when I hear someone's[BREAK]  play-fighting![WAIT]@I'm gonna wipe the floor with all of you![WAIT]@Get in my way and you're in for a world of[BREAK]  pain![END]
 15-18E:@Ich kann nicht einfach still 'rumsitzen, wenn[BREAK]  jemand schaukämpft![WAIT]@Ich werde mit euch den Boden wischen![WAIT]@Kommt mir in die Quere und ihr werdet euch in[BREAK]  einer Welt der Schmerzen wiederfinden![END]
 15-19:@You're pretty gutsy, I'll give you that.[WAIT]@But you can challenge me to 100 fights and I'll[BREAK]  still kick your butt each and every time![END]
@@ -1960,7 +1960,7 @@
 15-25:@Now, then...[END]
 15-25E:@Also dann...[END]
 15-26:@Listen, folks...[PAUSE 20 00] Here is how to "save".[WAIT]@Talk to frogs.[PAUSE 40 00] This is how you "save".[WAIT]@It's not too tedious or troublesome, so you[BREAK]  should talk to frogs as often as you can.[WAIT]@Plus, saving is absolutely free.[WAIT]@Now then, it's time for me to return to the[BREAK]  story.[END]
-15-26E:@Also, Leute...[PAUSE 20 00] So "speichert" ihr.[WAIT]@Sprecht mit Fröschen.[PAUSE 40 00] Damit "speichert" ihr.[WAIT]@Das ist weder albern noch lästig, also redet so[BREAK]  oft wie möglich mit Fröschen.[WAIT]@Zudem ist es komplett kostenlos.[WAIT]@Nun denn, Zeit für mich, ins[BREAK]  Geschehen zurückzukehren.[END]
+15-26E:@Also, Leute...[PAUSE 20 00] So "speichert" ihr.[WAIT]@Sprecht mit Fröschen.[PAUSE 40 00] Damit "speichert" ihr.[WAIT]@Das ist weder albern noch lästig, also redet so[BREAK]  oft wie möglich mit Fröschen.[WAIT]@Zudem ist es komplett kostenlos.[WAIT][COLOR 01 00]                *Notiz des Übersetzers*[BREAK][WAIT]  Hallo, hier spricht der Übersetzer.[BREAK][WAIT]  Ich bedanke mich jetzt schon einmal, dass du[BREAK]  dich entschlossen hast, Beta-Tester zu sein.[WAIT]  Dies ist die erste öffentliche Version der[BREAK]  Übersetzung.[WAIT]  Das heißt, man findet bestimmt immer wieder[BREAK]  mal Rechtschreib- und Grammatikfehler,[WAIT]  Inkonsistenzen bei der Übersetzung usw.[WAIT]  Wenn du so etwas findest, dann schreibe bitte[BREAK]  den entsrechenden Satz mit dem Fehler in den[WAIT]  Thread, oder mache einen Screenshot von[BREAK]  dem Text.[WAIT]  (Die falschen Relativpronomen beim Sammeln[BREAK]  von Items sind mir bewusst, erfordern aber[WAIT]  manuelles Eingreifen, was ich erst am Ende[BREAK]  der Übersetzung machen werde.)[WAIT] @Mit dieser Version ist es möglich das Spiel bis[BREAK]  zum 6. Kapitel zu spielen.[WAIT]  Man kann das Spiel damit noch nicht[BREAK]  durchspielen![WAIT]                      *Ende der Notiz*[BREAK][WAIT][COLOR 00 00]@Nun denn, Zeit für mich, ins[BREAK]  Geschehen zurückzukehren.[END]
 15-27:@Hey! Wait for me![WAIT]@You saved me some [FAVFOOD] too,[BREAK]  I hope?![END]
 15-27E:@Hey! Wartet auf mich![WAIT]@Hebt etwas [FAVFOOD] für mich auf,[BREAK]  [PAUSE 40 00]bitte?![END]
 
@@ -7419,7 +7419,7 @@
 
 [Container 142]
 142-0:@[LUCAS 26 03 00 03 00]!![BREAK]  How long're you gonna sleep?![WAIT]  Get up so we can play![WAIT]@Get up, already![WAIT]@The Dragos brought their babies over![WAIT]@They're really cute!![WAIT]@Hurry up![END]
-142-0E:@[LUCAS 26 03 00 03 00]!![BREAK]  Wie lang willst du denn noch schlafen?![WAIT]  Steh auf damit wir spielen können![WAIT]@Jetzt steh schon auf![WAIT]@Die Dragos haben ihre Babys mitgebracht![WAIT]@Die sind verdammt süß!![WAIT]@Beeil dich![END]
+142-0E:@[LUCAS 26 03 00 03 00]!![BREAK]  Wie lang willst du denn noch schlafen?![WAIT]  Steh endlich auf, damit wir spielen können![WAIT]@Jetzt steh schon auf![WAIT]@Die Dragos haben ihre Babys mitgebracht![WAIT]@Die sind verdammt süß!![WAIT]@Beeil dich![END]
 142-1:@[HINAWA 22 08 00]'s bed.[END]
 142-1E:@Das Bett von [HINAWA 22 08 00].[END]
 142-2:@The bed that [HINAWA 22 08 00] used.[END]
@@ -13309,7 +13309,7 @@
 
 [Container 344]
 344-0:@Authorized personnel only.[END]
-344-0E:
+344-0E:@Zutritt nur für authorisiertes Personal.[END]
 344-1:@Now Showing: "Chimera Report"[BREAK]  Sponsored by P-Corp.[END]
 344-1E:[END]
 344-2:@Oh, hold on there.[BREAK]@Little boy.[END]
@@ -13327,31 +13327,31 @@
 344-8:@Thank you for coming![WAIT]@Please visit again sometime![BREAK]@*giggle*[END]
 344-8E:[END]
 344-9:@*click* *whir*[WAIT]@WELCOME.[WAIT]@THE CHIMERA THEATER IS CURRENTLY[BREAK]  CLOSED.[WAIT]@*whir* *click*[END]
-344-9E:
+344-9E:@*knack* *surr*[WAIT]@WILLKOMMEN.[WAIT]@DAS CHIMERA-KINO IST MOMENTAN[BREAK]  GESCHLOSSEN.[WAIT]@*surr* *knack*[END]
 344-10:@*click* *whir*[WAIT]@THANK YOU FOR COMING.[WAIT]@*whir* *click*[END]
-344-10E:
+344-10E:@*knack* *surr*[WAIT]@DANKE FÜR DAS KOMMEN.[WAIT]@*surr* *knack*[END]
 344-11:@*click* *whir*[WAIT]@I AM BROKEN.[WAIT]  BROKEN.[WAIT]  BROKEN.[WAIT]  YOU DON'T MIND, DO YOU?[WAIT]@*whir* *click*[END]
-344-11E:
+344-11E:@*knack* *surr*[WAIT]@ICH BIN KAPUTT.[WAIT]  KAPUTT.[WAIT]  KAPUTT.[WAIT]  DIR IST DAS EGAL, ODER?[WAIT]@*surr* *knack*[END]
 344-12:@This area is off-limits![WAIT]@And don't you dare try to find some other way[BREAK]  inside![END]
-344-12E:
+344-12E:@Dieser Ort abgesperrt![WAIT]@Und wage es ja nicht, einen anderen Weg[BREAK]  hinein zu nehmen![END]
 344-13:@Oh! You're...[WAIT]  ...the part-timers who start here today, right?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-344-13E:
+344-13E:@Oh! Ihr seid...[WAIT]  ...die Teilzeitarbeiter, die ab heute hier[BREAK]  arbeiten, richtig?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 344-14:@Okay, cool.[WAIT]@You can get inside through the back of the[BREAK]  mini-theater.[WAIT]  The mini-theater's to the right of the[BREAK]  entrance, in case you didn't know.[WAIT]@Go in through there and change your clothes.[WAIT]@It's good to have you on board![END]
-344-14E:
+344-14E:@Cool.[WAIT]@Ihr könnt hinten im Mini-Kino reinkommen.[WAIT]  Das Mini-Kino ist rechts von der Eingangshalle,[BREAK]  falls ihr es nicht wusstet.[WAIT]@Geht dort rein und zieht euch um.[WAIT]@Es ist schön, euch an Bord zu haben![END]
 344-15:@Oh.[WAIT]@Well, it's great that you're so interested in our[BREAK]  company's research,[WAIT]  especially at such a young age.[WAIT]@But please don't go behind the mini-theater's[BREAK]  speakers to get inside the lab.[WAIT]@When someone tells you not to do something,[BREAK]  you're not supposed to do it.[WAIT]@Understand?[END]
-344-15E:
+344-15E:@Oh.[WAIT]@Nun, es ist schön, dass ihr so an der Wissen-[BREAK]  schaft interessiert seid,[WAIT]  besonders in solch einem Alter.[WAIT]@Aber bitte geht nicht hinten im Mini-Kino in das[BREAK]  Labor, das dürft ihr nicht.[WAIT]@Okay?[END]
 344-16:@These shutters will close in the case of an[BREAK]  emergency.[END]
-344-16E:
+344-16E:@Diese Rollläden schließen sich im Falle eines[BREAK]  Notfalls.[END]
 344-17:@Hey, you guys![WAIT]@Where do you think you're going?![BREAK]  You're on the job![END]
-344-17E:
+344-17E:@Hey, ihr da![WAIT]@Wo denkt ihr, geht ihr hin?![BREAK]  Ihr habt Arbeit zu erledigen![END]
 344-18:@I have some special medicine here, not sold in[BREAK]  any vending machines.[WAIT]  Could I interest you in some?[END]
-344-18E:
+344-18E:@Ich habe besondere Medizin hier, die in keinem[BREAK]  Automaten verkauft werden.[WAIT]  Bist du interessiert?[END]
 344-19:@Cheapskate.[END]
-344-19E:
+344-19E:@Geizkragen.[END]
 344-20:@Heh heh.[WAIT]@If you ever need anything else, I'm your man.[END]
-344-20E:
+344-20E:@Heh heh.[WAIT]@Wenn du noch etwas anderes brauchst,[BREAK]  bin ich dein Mann.[END]
 344-21:[END]
-344-21E:
+344-21E:[END]
 
 [Container 345]
 345-0:@Check out what's playing in the theater?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -13383,21 +13383,21 @@
 
 [Container 347]
 347-0:@There are pig masks in here.[WAIT]  Put them on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-347-0E:
+347-0E:@Da sind Schweinemasken drin.[WAIT]  Aufziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
 347-1:@This locker is empty.[END]
-347-1E:
+347-1E:@Dieser Spind ist leer.[END]
 // Repeats: 347-1, 357-27
 347-2:@A bunch of yucky laundry is inside here.[END]
-347-2E:
+347-2E:@Ein Haufen widerliche Wäsche ist da drin.[END]
 // Repeats: 347-2, 357-26
 347-3:[END]
-347-3E:
+347-3E:[END]
 
 [Container 348]
 348-0:[END]
-348-0E:
+348-0E:[END]
 348-1:[END]
-348-1E:
+348-1E:[END]
 
 [Container 349]
 349-0:@A bunch of filthy cloth has been placed in here.[END]
@@ -13407,46 +13407,46 @@
 349-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 349-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-349-2E:
+349-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 349-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-349-3E:
+349-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 349-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-349-4E:
+349-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 349-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-349-5E:
+349-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 349-6:@Come, now![BREAK]@Be courageous![END]
-349-6E:
+349-6E:@Komm jetzt![BREAK]@Hab etwas Mut![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 349-7:@Use the dog as bait![END]
-349-7E:
+349-7E:@Nutz den Hund als Köder![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 349-8:@Oh...[END]
-349-8E:
+349-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 349-9:@Thank you, lad.[BREAK]  And monkey.[END]
-349-9E:
+349-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 349-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-349-10E:
+349-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 349-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-349-11E:
+349-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 349-12:@I- I'm sorry![END]
-349-12E:
+349-12E:@E-es tut mir leid![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 349-13:@I was merely joking about the bait thing![END]
-349-13E:
+349-13E:@Die Sache mit dem Köder war doch nur ein[BREAK]  Witz![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 349-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-349-14E:
+349-14E:@Das ist ein einfaches Missverständnis![BREAK]  Du verstehst das ganz falsch!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 349-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-349-15E:
+349-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 
 [Container 350]
@@ -13529,16 +13529,16 @@
 
 [Container 353]
 353-0:@Various chemicals are lined up here.[END]
-353-0E:
+353-0E:@Verschiedene Chemikalien sind hier[BREAK]  aneinandergereiht.[END]
 // Repeats: 353-0, 362-0
 353-1:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-353-1E:
+353-1E:@Oben scheint eine besondere Chemikalie zu[BREAK]  sein, aber es ist außer Reichweite.[END]
 // Repeats: 353-1, 353-3, 362-1
 353-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-353-2E:
+353-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 353-3:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-353-3E:
+353-3E:@Oben scheint eine besondere Chemikalie zu[BREAK]  sein, aber es ist außer Reichweite.[END]
 // Repeats: 353-1, 353-3, 362-1
 353-4:@This appears to be an operating table for[BREAK]  animals.[END]
 353-4E:
@@ -13557,46 +13557,46 @@
 354-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 354-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-354-2E:
+354-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 354-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-354-3E:
+354-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 354-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-354-4E:
+354-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 354-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-354-5E:
+354-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 354-6:@Come, now![BREAK]@Be courageous![END]
-354-6E:
+354-6E:@Komm jetzt![BREAK]@Hab etwas Mut![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 354-7:@Use the dog as bait![END]
-354-7E:
+354-7E:@Nutz den Hund als Köder![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 354-8:@Oh...[END]
-354-8E:
+354-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 354-9:@Thank you, lad.[BREAK]  And monkey.[END]
-354-9E:
+354-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 354-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-354-10E:
+354-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 354-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-354-11E:
+354-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 354-12:@I- I'm sorry![END]
-354-12E:
+354-12E:@E-es tut mir leid![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 354-13:@I was merely joking about the bait thing![END]
-354-13E:
+354-13E:@Die Sache mit dem Köder war doch nur ein[BREAK]  Witz![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 354-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-354-14E:
+354-14E:@Das ist ein einfaches Missverständnis![BREAK]  Du verstehst das ganz falsch!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 354-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-354-15E:
+354-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 354-16:@There's an elevator here.[WAIT][MENU 02 00][MENUSPACEYES]B1[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 354-16E:
@@ -13667,93 +13667,93 @@
 357-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 357-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-357-2E:
+357-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 357-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-357-3E:
+357-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 357-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-357-4E:
+357-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 357-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-357-5E:
+357-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 357-6:@Come, now![BREAK]@Be courageous![END]
-357-6E:
+357-6E:@Komm jetzt![BREAK]@Hab etwas Mut![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 357-7:@Use the dog as bait![END]
-357-7E:
+357-7E:@Nutz den Hund als Köder![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 357-8:@Oh...[END]
-357-8E:
+357-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 357-9:@Thank you, lad.[BREAK]  And monkey.[END]
-357-9E:
+357-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 357-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-357-10E:
+357-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 357-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-357-11E:
+357-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 357-12:@I- I'm sorry![END]
-357-12E:
+357-12E:@E-es tut mir leid![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 357-13:@I was merely joking about the bait thing![END]
-357-13E:
+357-13E:@Die Sache mit dem Köder war doch nur ein[BREAK]  Witz![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 357-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-357-14E:
+357-14E:@Das ist ein einfaches Missverständnis![BREAK]  Du verstehst das ganz falsch!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 357-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-357-15E:
+357-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 357-16:@I can't believe I got assigned to this post...[END]
-357-16E:
+357-16E:@Ich kann nicht glauben, dass man mir diesen[BREAK]  Posten gegeben hat...[END]
 357-17:@I should've had one of those extra rice balls[BREAK]  this morning...[END]
-357-17E:
+357-17E:@Ich hätte heute morgen eine dieser extra[BREAK]  Reisbälle essen sollen...[END]
 357-18:@I was no match at all...[END]
-357-18E:
+357-18E:@Ich hatte überhaupt keine Chance...[END]
 357-19:@When that red one's in the hallway, you gotta[BREAK]  hide in an elevator or room until it passes...[WAIT]@I knew all about that, and yet...[BREAK]@...Man, I'm so stupid![WAIT]  Stupid! Stupid! Stupid![WAIT]@Oww.[END]
-357-19E:
+357-19E:@Wenn der rote im Flur ist, musst du dich im[BREAK]  Aufzug verstecken, bis er weg ist...[WAIT]@Ich wusste das zwar alles, aber trotzdem...[BREAK]@...Mann, ich bin so dumm![WAIT]  Dumm! Dumm! Dumm![WAIT]@Auu.[END]
 357-20:@Let's see...[WAIT]  The next room over is the[PAUSE 24 00] specimen room.[WAIT]@And then... And then... And then...[BREAK]  Those stairs there[PAUSE 24 00] take you to the first floor...[WAIT]@And then... there's an elevator[PAUSE 24 00] in that room[BREAK]  over there, with the door open[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. I think?[WAIT]@Huh??[WAIT]@Now I'm all confused again...[WAIT]@But I think that's probably right.[WAIT]@Should I repeat all that?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-357-20E:
+357-20E:@Mal schauen...[WAIT]  Der Raum da drüben ist das[PAUSE 24 00] Prüfungszimmer.[WAIT]@Und dann... Und dann... Und dann...[WAIT]  Die Treppen da drüben[PAUSE 24 00] bringen dich in die[BREAK]  erste Etage...[WAIT]@Und dann... ist ein Aufzug[PAUSE 24 00] in diesem Raum da[BREAK]  drüben, mit der offenen Tür[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. Glaube ich?[WAIT]@Was??[WAIT]@Jetzt bin ich total verwirrt...[WAIT]@Aber das müsste alles passen.[WAIT]@Soll ich es wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 357-20, 357-21
 357-21:@Let's see...[WAIT]  The next room over is the[PAUSE 24 00] specimen room.[WAIT]@And then... And then... And then...[BREAK]  Those stairs there[PAUSE 24 00] take you to the first floor...[WAIT]@And then... there's an elevator[PAUSE 24 00] in that room[BREAK]  over there, with the door open[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. I think?[WAIT]@Huh??[WAIT]@Now I'm all confused again...[WAIT]@But I think that's probably right.[WAIT]@Should I repeat all that?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-357-21E:
+357-21E:@Mal schauen...[WAIT]  Der Raum da drüben ist das[PAUSE 24 00] Prüfungszimmer.[WAIT]@Und dann... Und dann... Und dann...[WAIT]  Die Treppen da drüben[PAUSE 24 00] bringen dich in die[BREAK]  erste Etage...[WAIT]@Und dann... ist ein Aufzug[PAUSE 24 00] in diesem Raum da[BREAK]  drüben, mit der offenen Tür[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. Glaube ich?[WAIT]@Was??[WAIT]@Jetzt bin ich total verwirrt...[WAIT]@Aber das müsste alles passen.[WAIT]@Soll ich es wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 357-20, 357-21
 357-22:@Alright, here goes![PAUSE 3C 00][EVENT][END]
-357-22E:
+357-22E:@Okay, los geht's![PAUSE 3C 00][EVENT][END]
 357-23:@What a relief![END]
-357-23E:
+357-23E:@Was für eine Erleichterung![END]
 357-24:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-357-24E:
+357-24E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 357-25:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-357-25E:
+357-25E:@Hier ist ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 357-25, 364-0
 357-26:@A bunch of yucky laundry is inside here.[END]
-357-26E:
+357-26E:@Ein Haufen widerliche Wäsche ist da drin.[END]
 // Repeats: 347-2, 357-26
 357-27:@This locker is empty.[END]
-357-27E:
+357-27E:@Dieser Spind ist leer.[END]
 // Repeats: 347-1, 357-27
 
 [Container 358]
 358-0:@Books about mammals and such.[END]
-358-0E:
+358-0E:@Bücher über Säugetiere und so Zeug.[END]
 358-1:@"Ultimate Chimera Report"[WAIT]  Removal of this report from laboratory[BREAK]  premises is forbidden.[END]
-358-1E:
+358-1E:@"Der ultimative Chimera-Bericht"[WAIT]  Das Entfernen dieses Berichts aus der[BREAK]  Laboreinrichtung ist verboten.[END]
 358-2:@Books not about mammals.[END]
-358-2E:
+358-2E:@Bücher, die nicht über Säugetiere sind.[END]
 358-3:@I found this really old magazine in the storage[BREAK]  room earlier.[WAIT]@Who the heck put it there, I wonder...[END]
-358-3E:
+358-3E:@Ich habe dieses alte Magazin vorhin im[BREAK]  Lagerraum gefunden.[WAIT]@Ich frage mich, wer zur Hölle das dorthin[BREAK]  gebracht hat...[END]
 
 [Container 359]
 359-0:@I'm all ticked off 'cause the part-timers[BREAK]  who're supposed to come today are late.[WAIT]@You're in the way, so go on, get outta here.[WAIT]@And don't you even dare think about checking[BREAK]  inside the lockers[WAIT]  and putting on any pig masks you find.[END]
-359-0E:
+359-0E:@Ich bin total angepisst, weil die Teilzeitler, die[BREAK]  heute eigentlich kommen sollten, spät sind.[WAIT]@Du stehst mir im Weg, hopp, raus hier.[WAIT]@Und wag es ja nicht, die Spinde zu prüfen,[BREAK]  und dann die Schweinemasken aufzuziehen.[END]
 359-1:[END]
-359-1E:
+359-1E:[END]
 
 [Container 360]
 360-0:@A bunch of filthy cloth has been placed in here.[END]
@@ -13763,49 +13763,49 @@
 360-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 360-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-360-2E:
+360-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 360-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-360-3E:
+360-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 360-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-360-4E:
+360-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 360-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-360-5E:
+360-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 360-6:@Come, now![BREAK]@Be courageous![END]
-360-6E:
+360-6E:@Komm jetzt![BREAK]@Hab etwas Mut![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 360-7:@Use the dog as bait![END]
-360-7E:
+360-7E:@Nutz den Hund als Köder![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 360-8:@Oh...[END]
-360-8E:
+360-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 360-9:@Thank you, lad.[BREAK]  And monkey.[END]
-360-9E:
+360-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 360-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-360-10E:
+360-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 360-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-360-11E:
+360-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 360-12:@I- I'm sorry![END]
-360-12E:
+360-12E:@E-es tut mir leid![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 360-13:@I was merely joking about the bait thing![END]
-360-13E:
+360-13E:@Die Sache mit dem Köder war doch nur ein[BREAK]  Witz![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 360-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-360-14E:
+360-14E:@Das ist ein einfaches Missverständnis![BREAK]  Du verstehst das ganz falsch!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 360-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-360-15E:
+360-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 360-16:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
-360-16E:
+360-16E:@Gerade richtig.[WAIT]@Ihr seid die Teilzeitarbeiter, richtig?[BREAK]@Dann sucht mit![WAIT]@Ein paar Affen sind verschwunden![END]
 // Repeats: 360-16, 361-0
 360-17:@I was just about to go home for today, but[BREAK]  now I hafta look for some stupid monkeys...[WAIT]@They are SO gonna get reconstructed if I get[BREAK]  my hands on 'em![END]
 360-17E:
@@ -13832,17 +13832,17 @@
 
 [Container 361]
 361-0:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
-361-0E:
+361-0E:@Gerade richtig.[WAIT]@Ihr seid die Teilzeitarbeiter, richtig?[BREAK]@Dann sucht mit![WAIT]@Ein paar Affen sind verschwunden![END]
 // Repeats: 360-16, 361-0
 361-1:@They should be hiding somewhere in the lab.[WAIT]@There's two of 'em! Scour every last inch of[BREAK]  the place![END]
-361-1E:
+361-1E:@Sie sollten sich irgendwo im Labor verstecken.[WAIT]@Es sind zwei! Sucht jeden Zentimeter dieses[BREAK]  Gebäudes ab![END]
 
 [Container 362]
 362-0:@Various chemicals are lined up here.[END]
-362-0E:
+362-0E:@Verschiedene Chemikalien sind hier[BREAK]  aneinandergereiht.[END]
 // Repeats: 353-0, 362-0
 362-1:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-362-1E:
+362-1E:@Oben scheint eine besondere Chemikalie zu[BREAK]  sein, aber es ist außer Reichweite.[END]
 // Repeats: 353-1, 353-3, 362-1
 
 [Container 363]
@@ -13857,7 +13857,7 @@
 
 [Container 364]
 364-0:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-364-0E:
+364-0E:@Hier ist ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 357-25, 364-0
 364-1:@*squawk* *squawk*![BREAK]  I'm not stuffed![WAIT]@I'm alive![PAUSE 1E 00] I'm plenty alive, dagnabbit![END]
 364-1E:@*krächz* *krächz*![BREAK]  Ich bin nicht gestopft![WAIT]@Ich lebe![PAUSE 1E 00] Ich bin sehr viel am Leben,[BREAK]  verdammt nochmal![END]
@@ -13967,46 +13967,46 @@
 369-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 369-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-369-2E:
+369-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 369-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-369-3E:
+369-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 369-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-369-4E:
+369-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 369-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-369-5E:
+369-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 369-6:@Come, now![BREAK]@Be courageous![END]
-369-6E:
+369-6E:@Komm jetzt![BREAK]@Hab etwas Mut![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 369-7:@Use the dog as bait![END]
-369-7E:
+369-7E:@Nutz den Hund als Köder![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 369-8:@Oh...[END]
-369-8E:
+369-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 369-9:@Thank you, lad.[BREAK]  And monkey.[END]
-369-9E:
+369-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 369-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-369-10E:
+369-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 369-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-369-11E:
+369-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 369-12:@I- I'm sorry![END]
-369-12E:
+369-12E:@E-es tut mir leid![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 369-13:@I was merely joking about the bait thing![END]
-369-13E:
+369-13E:@Die Sache mit dem Köder war doch nur ein[BREAK]  Witz![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 369-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-369-14E:
+369-14E:@Das ist ein einfaches Missverständnis![BREAK]  Du verstehst das ganz falsch!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 369-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-369-15E:
+369-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 369-16:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 369-16E:@Hier ist ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
@@ -15377,7 +15377,7 @@
 443-39:@What could this be?[END]
 443-39E:@Was könnte das sein?[END]
 443-40:@A radio-controlled car.[END]
-443-40E:@Ein radio-kontrolliertes Auto
+443-40E:@Ein radio-kontrolliertes Auto[END]
 443-41:@A bicycle.[WAIT]@Easy to ride if you take it gently.[END]
 443-41E:@Ein Fahrrad,[WAIT]@Easy to ride if you take it gently 443-41.[END]
 443-42:@A rubber ducky bath toy.[END]
