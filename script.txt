@@ -13599,27 +13599,27 @@
 354-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 354-16:@There's an elevator here.[WAIT][MENU 02 00][MENUSPACEYES]B1[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-354-16E:
+354-16E:@Da ist ein Aufzug.[WAIT][MENU 02 00][MENUSPACEYES]U1[MENUSPACENO]Nicht nutzen[BREAK][ENDCHOICES][END]
 354-17:@This operating table is so big that even a[BREAK]  Drago could fit on it.[END]
-354-17E:
+354-17E:@Der OP-Tisch ist so groß, dass sogar ein[BREAK]  Drago drauf passen würde.[END]
 354-18:@A robotic arm.[END]
-354-18E:
+354-18E:@Ein Roboterarm.[END]
 354-19:@There are so many huge machines lined up here[WAIT]  that it almost seems more like a construction[BREAK]  site than an operating room.[END]
-354-19E:
+354-19E:@Hier stehen so viele große Maschinen herum,[WAIT]  dass der Raum mehr wie eine Baustelle als[BREAK]  ein OP-Zimmer aussieht.[END]
 354-20:@Various tools are lined up here.[END]
-354-20E:
+354-20E:@Verschiedene Werkzeuge liegen hier.[END]
 354-21:@Everything past here is top secret.[END]
-354-21E:
+354-21E:@Alles dahinter ist streng geheim.[END]
 354-22:@Haven't seen any monkeys come through here.[BREAK]  Have you checked the second floor?[END]
-354-22E:
+354-22E:@Hab keine Affen hier durchgehen sehen.[BREAK]  Hast du das 2. Stockwerk schon überprüft?[END]
 354-23:@Monkeys?[WAIT]@Yeah, some ran through this door, actually.[END]
-354-23E:
+354-23E:@Affen?[WAIT]@Ja, es sind tatsächlich welche hier durch.[END]
 354-24:@...Why didn't I run after them, you ask?[END]
-354-24E:
+354-24E:@...Warum ich sie nicht verfolgt habe,[WAIT]  fragst du?[END]
 354-25:@...Ow...[BREAK]  Oww, oww...[WAIT]@M-my stomach, it pains me so.[WAIT]@Yeah, that Ultimate Chimera or Kimura or[BREAK]  whatever it's called....[WAIT]@I'd make quick work of it,[PAUSE 30 00] if only it weren't for[BREAK]  my aching stomach...[END]
-354-25E:
+354-25E:@...Au...[BREAK]  Aua, auu...[WAIT]@M-mein Bauch, es tut so weh.[WAIT]@Ja, dieser Ultimative Chimera oder Kimura wie[BREAK]  auch immer es heißt.....[WAIT]@Ich würde kurzen Prozess mit ihm machen,[PAUSE 30 00][BREAK]  wenn nicht mein Bauch so wehtun würde...[END]
 354-26:@Like they say, you can't fight on an aching[BREAK]  stomach.[WAIT]@So I leave the rest to you! See ya![END]
-354-26E:
+354-26E:@Wie sagt man so schön:[BREAK]  Mit schmerzenden Magen kämpft man nicht.[WAIT]@Also überlasse ich das dir! Bis dann![END]
 354-27:@I opened that door, and it was standing like[BREAK]  RIGHT THERE.[WAIT]@Oh, man. This is too much for me to handle...[WAIT]@If that red one's out there, I'm just gonna[BREAK]  have to wait it out in the freezer room...[END]
 354-27E:
 354-28:@Wait, that elevator goes to the basement?[WAIT]@Huh?[WAIT]@Then... what room is this again?[END]
@@ -13808,11 +13808,11 @@
 360-16E:@Gerade richtig.[WAIT]@Ihr seid die Teilzeitarbeiter, richtig?[BREAK]@Dann sucht mit![WAIT]@Ein paar Affen sind verschwunden![END]
 // Repeats: 360-16, 361-0
 360-17:@I was just about to go home for today, but[BREAK]  now I hafta look for some stupid monkeys...[WAIT]@They are SO gonna get reconstructed if I get[BREAK]  my hands on 'em![END]
-360-17E:
+360-17E:@Ich wollte grad Feierabend machen, und jetzt[BREAK]  muss ich nach diesen blöden Affen suchen...[WAIT]@Die werden SOWAS von auseinander-[BREAK]  genommen, wenn ich die in die Finger bekomm![END]
 360-18:@Oink...[END]
-360-18E:
+360-18E:@Oink...[END]
 360-19:@Okay, here's the plan. I escape into a room[BREAK]  when the red one is waiting outside.[WAIT]@But if he's already standing in front of the[BREAK]  room I wanna go in,[WAIT]  I make a mad dash for the next room over[BREAK]  instead.[WAIT]@...Brilliant![WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-360-19E:
+360-19E:@Okay, hier ist der Plan. Ich fliehe in einen[BREAK]  Raum, wenn der rote draußen wartet.[WAIT]@Aber wenn er vor dem Raum steht, in den ich[BREAK]  rein will,[WAIT]  renne ich stattdessen in den[BREAK]  nächstbesten Raum.[WAIT]@...Brillant![WAIT]@Ich bin so schlau![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auja.[END]
 360-20:@There's a slot for money here.[WAIT]@Insert 150 DP?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 360-20E:@Hier ist ein Schlitz für Geld.[WAIT]@150 DK einwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 322-14, 360-20
@@ -13826,9 +13826,9 @@
 360-23E:@Du hast nicht genügend Geld.[END]
 // Repeats: 0-229, 322-17, 360-23
 360-24:@Sounds like things have quieted down now.[WAIT]@Do you think they caught it?[END]
-360-24E:
+360-24E:@Es scheint sich beruhigt zu haben.[WAIT]@Glaubst du, sie haben es geschnappt?[END]
 360-25:@I realize that Dr. Andonuts is awesomely[BREAK]  awesome,[WAIT]  but what exactly did he create that Ultimate[BREAK]  Chimera for, I wonder?[WAIT][PAUSE 2E 00]@Art?[END]
-360-25E:
+360-25E:@Dr. Andonuts ist so super mega cool,[WAIT]  aber wofür hat der diesen Ultimativen[BREAK]  Chimera erschaffen?[WAIT][PAUSE 2E 00]@Kunst?[END]
 
 [Container 361]
 361-0:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
@@ -13863,75 +13863,75 @@
 364-1E:@*krächz* *krächz*![BREAK]  Ich bin nicht gestopft![WAIT]@Ich lebe![PAUSE 1E 00] Ich bin sehr viel am Leben,[BREAK]  verdammt nochmal![END]
 // Repeats: 126-10, 364-1
 364-2:@All kinds of mathematical formulas have been[BREAK]  scribbled here.[END]
-364-2E:
+364-2E:@Jede Menge mathematische Formeln wurden[BREAK]  hierhin gekrizzelt.[END]
 364-3:@Various experimentation tools are lined up[BREAK]  here.[END]
-364-3E:
+364-3E:@Verschiedene Experimentierwerkzeuge stehen[BREAK]  hier nebeneinander.[END]
 364-4:@Various things are lined up in confusion here.[END]
-364-4E:
+364-4E:@Verschiedene Dinge wurden hier völlig[BREAK]  durcheinander hingelegt.]END]
 364-5:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
-364-5E:
+364-5E:@Hier steht eine große Maschine.[BREAK]  Wofür es benutzt wird, weiß kein Schwein.[END]
 
 [Container 365]
 365-0:[END]
-365-0E:
+365-0E:[END]
 365-1:@(*hop*[BREAK]  Save your game?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-365-1E:
+365-1E:@(*hüpf*[BREAK]  Spiel speichern?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 365-2:@(Even when stuffed, a frog is still a frog.)[END]
-365-2E:
+365-2E:@Auch ausgestopft bleibt ein Frosch ein Frosch.)[END]
 365-3:@Some sort of competition trophy has been[BREAK]  placed here as decoration.[WAIT]@"Runner-up"[END]
-365-3E:
+365-3E:@Irgendeine Wettkampftrophäe wurde hier zur[BREAK]  Dekoration aufgestellt.[WAIT]@"Vizemeister"[END]
 365-4:@A skull of a young Drago.[END]
-365-4E:
+365-4E:@Der Schädel eines jungen Drago.[END]
 365-5:@Some bones. Who knows.[END]
-365-5E:
+365-5E:@Ein paar Knochen. Wer weiß das schon.[END]
 365-6:@Mouse bones.[END]
-365-6E:
+365-6E:@Mausknochen.[END]
 365-7:@Miscellaneous bones.[END]
-365-7E:
+365-7E:@Andere Knochen.[END]
 365-8:@Various bones.[END]
-365-8E:
+365-8E:@Verschiedene Knochen.[END]
 365-9:@A full [ENEMYNAME 6F 00] skeleton.[END]
-365-9E:
+365-9E:@Ein komplette Skelett einer [ENEMYNAME 6F 00].[END]
 365-10:@A full [ENEMYNAME 78 00] skeleton.[END]
-365-10E:
+365-10E:@Ein komplette Skelett einer [ENEMYNAME 78 00].[END]
 365-11:@A full [ENEMYNAME 61 00] skeleton.[END]
-365-11E:
+365-11E:@Ein komplette Skelett einer [ENEMYNAME 61 00].[END]
 365-12:@A full Dragosaurus skeleton.[END]
-365-12E:
+365-12E:@Ein komplettes Dragosaurus-Skelett.[END]
 365-13:@Look out!![END]
-365-13E:
+365-13E:@Pass auf!![END]
 365-14:@Are you okay, cute part-timer?![END]
-365-14E:
+365-14E:@Geht's dir gut, süßer Teilzeitler?![END]
 365-15:@How many are left?[END]
-365-15E:
+365-15E:@Wie viele fehlen noch?[END]
 365-16:@Just the one now.[END]
-365-16E:
+365-16E:@Nur noch der eine.[END]
 365-17:@"The" one...?[WAIT]@You mean the red one with the huge mouth...?[END]
-365-17E:
+365-17E:@"Der" eine...?[WAIT]@Meinst du etwa den roten mit den riesigen[BREAK]  Maul...?[END]
 365-18:@...Yeah.[END]
-365-18E:
+365-18E:@...Ja,[END]
 365-19:@That thing means serious trouble.[END]
-365-19E:
+365-19E:@Dieses Ding macht pure Arbeit.[END]
 365-20:@Just standing here won't solve anything.[WAIT]@For now, let's hurry and seal the exits.[END]
-365-20E:
+365-20E:@Aber einfach hier stehen zu bleiben, bringt uns[BREAK]  auch nicht weiter.[WAIT]@Wir müssen zuerst einmal schnell die[BREAK]  Ausgänge verschließen.[END] 
 365-21:@Watch yourselves, guys![END]
-365-21E:
+365-21E:@Vorsicht, Leute![END]
 365-22:@Hey, cute part-timer.[WAIT]@There's actually one more that's still lurking[BREAK]  around here somewhere...[WAIT]@One that's WAY more dangerous than that one[BREAK]  just now...[END]
-365-22E:
+365-22E:@Hey, süßer Teilzeitler.[WAIT]@Hier schleicht noch ein letzter hier irgendwo[BREAK]  rum...[WAIT]@Ein letzter, der VIEL gefährlicher ist als der[BREAK]  von gerade eben...[END]
 365-23:@If, while looking for the monkeys, you happen[BREAK]  to see a red thing with a gigantic mouth...[WAIT]  ...GET[PAUSE 20 00] THE HECK[PAUSE 20 00] OUT[PAUSE 20 00] OF[PAUSE 20 00] THERE![PAUSE 40 00][END]
-365-23E:
+365-23E:@Wenn du, während du nach den Affen suchst,[BREAK]  ein rotes Ding mit einem riesigen Maul siehst...[WAIT]  ...BRING[PAUSE 20 00] DICH[PAUSE 20 00] IN[PAUSE 20 00] SICHERHEIT![PAUSE 20 00] SOFORT![PAUSE 40 00][END]
 365-24:@Listen. Pay close attention, now...[WAIT]@If you run into a red,[PAUSE 0C 00] huge-mouthed[PAUSE 0C 00] Chimera,[WAIT]  do absolutely[PAUSE 20 00] NOTHING[PAUSE 20 00] to it.[PAUSE 40 00][WAIT]@Got that?[WAIT][PAUSE 20 00]@I've warned you.[PAUSE 40 00][WAIT]@And, while I'm warning you like this,[WAIT]  I should add that it'd be even more dangerous[BREAK]  not to take the time out to talk with that frog.[END]
-365-24E:
+365-24E:@Hör jetzt gut zu...[WAIT]@Wenn du auf einen roten, großmauligen[BREAK]  Chimera triffst.[WAIT]  Mach [PAUSE 20 00] ABSOLUT[PAUSE 20 00] nichts.[PAUSE 40 00][WAIT]@Verstanden?[WAIT][PAUSE 20 00]@Ich habe dich gewarnt.[PAUSE 40 00][WAIT]@Und während ich dich so warne, sollte ich hin-[BREAK]  zufügen, dass es noch viel gefährlicher wäre,[WAIT]  sich nicht die Zeit zu nehmen, mit diesem[BREAK]  Frosch zu reden.[END]
 365-25:@All right! Be careful, now![END]
-365-25E:
+365-25E:@Alles klar! Sei vorsichtig![END]
 365-26:@Here, you can have this medicine.[WAIT]@It's the latest stuff.[WAIT]@All these medicines have such similar names[BREAK]  that I mix them up all the time.[END]
-365-26E:
+365-26E:@Bitte sehr. Nimm diese Medizin.[WAIT]@Das ist der neueste Schrei.[WAIT]@Die Medizine haben so viele ähnliche Namen,[BREAK]  dass ich sie ständig verwechsel.[END]
 365-27:@Wha...?[BREAK]@Looks like you can't hold any more stuff.[END]
-365-27E:
+365-27E:@Wa...?[BREAK]@Ihr scheint nichts mehr tragen zu können.[END]
 365-28:@I've been stuck inside the lab and out of[BREAK]  natural sunlight for so long[WAIT]  that I think it's starting to affect my health.[WAIT]@Actually, I think you guys could use some[BREAK]  sunlight and fresh air, too.[END]
-365-28E:
+365-28E:@Ich stecke schon so lange in diesem Labor[BREAK]  und ohne Sonnenlicht fest,[WAIT]  dass ich anfange zu glauben, dass es meine[BREAK]  Gesundheit beeinflusst.[WAIT]@Um ehrlich zu sein, glaube ich,[WAIT]  dass ihr auch etwas Sonnenlicht und frische[BREAK]  Luft vertragen könntet.[END]
 365-29:@Regular Route[RIGHT][BREAK]  (But, you know, do whatever you want.)[END]
-365-29E:
+365-29E:@Rundgang[RIGHT][BREAK]  (Aber, weißt du, mach, was du willst.)[END]
 
 [Container 366]
 366-0:@There are many unidentifiable objects here, all[BREAK]  preserved in formaldehyde.[END]
@@ -13949,15 +13949,15 @@
 
 [Container 367]
 367-0:@[ENEMYNAME F0 FF].[END]
-367-0E:
+367-0E:@[ENEMYNAME F0 FF].[END]
 367-1:[END]
-367-1E:
+367-1E:[END]
 
 [Container 368]
 368-0:@Brain specimens of various animals are stored[BREAK]  here.[END]
-368-0E:
+368-0E:@Gehirnproben verschiedener Tiere werden hier[BREAK]  gelagert.[END]
 368-1:@The nervous systems of various animals are[BREAK]  being preserved in chemicals here.[END]
-368-1E:
+368-1E:@Die Nervensysteme verschiedener Tiere sind[BREAK]  hier in Chemikalien konserviert.[END]
 
 [Container 369]
 369-0:@A bunch of filthy cloth has been placed in here.[END]
@@ -14012,7 +14012,7 @@
 369-16E:@Hier ist ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 369-16, 370-1
 369-17:[END]
-369-17E:
+369-17E:[END]
 
 [Container 370]
 370-0:@Up ahead is a monster that could even make[BREAK]  quick work of a skilled security guard like me.[WAIT]@In one sense, I guess you could say he's...[BREAK]  Giygas-y.[WAIT]@He's dangerous, so you can't go inside.[END]
