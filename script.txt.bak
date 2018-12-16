@@ -4503,9 +4503,9 @@
 52-2:@Commander![WAIT]@Only authorized personnel are allowed inside![END]
 52-2E:@Kommandant![WAIT]@Nur authorisiertes Personal sind hier drinnen[BREAK]  erlaubt![END]
 52-3:@Oh, you're that part-timer from the other day![WAIT]@Perfect timing.[WAIT]@Keep watch for me, will ya?[WAIT]@I'm gonna go inside and help look for some[BREAK]  escaped monkeys.[END]
-52-3E:@Ach, du bist doch dieser Teilzeitarbeiter von[BREAK]  damals![WAIT]@Du kommst gerade richtig.[WAIT]@Halt mal für mich Stellung, okay?[WAIT]@Ich werde reingehen und helfen nach irgend-[BREAK]  welchen entflohenen Affen zu suchen.[END]
+52-3E:@Oh, du bist doch dieser Teilzeitarbeiter von[BREAK]  damals![WAIT]@Du kommst gerade richtig.[WAIT]@Halt mal für mich Stellung, okay?[WAIT]@Ich werde reingehen und helfen nach irgend-[BREAK]  welchen entflohenen Affen zu suchen.[END]
 52-4:@Oh, lad.[WAIT]@I thank you for earlier.[END]
-52-4E:@Oh, junger Mann.[WAIT]@Ich möchte mich für vorhin bedanken.[END]
+52-4E:@Oh, lad.[WAIT]@I thank you for earlier.[END]
 52-5:@...What's that?[WAIT]@You're looking for a way to transfer all of the[BREAK]  water from one pond to another?[END]
 52-5E:@...Was?[WAIT]@Du suchst nach einem Weg Wasser von einem[BREAK]  Teich zu einem anderen zu bringen?[END]
 52-6:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@Those eyes of yours, lad...[WAIT]@They're the eyes of someone who's taken on[BREAK]  some sort of mission.[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 40 00]Very well.[PAUSE 20 00][WAIT]@I'll lend you a helping hand.[WAIT]@Achoo![END]
@@ -4559,7 +4559,7 @@
 53-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 53-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
-53-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als[BREAK]  hippster Kater bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
+53-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als hippste[BREAK]  Katze bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
 // Repeats: 53-4, 54-4
 53-5:@...[END]
 53-5E:@...[END]
@@ -4574,7 +4574,7 @@
 53-8E:@Mach mal haltlang![EVENT][END]
 // Repeats: 53-8, 54-8
 53-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
-53-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast,[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
+53-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
 // Repeats: 53-9, 54-9
 
 [Container 54]
@@ -4591,7 +4591,7 @@
 54-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 54-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
-54-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als[BREAK]  hippster Kater bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
+54-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als hippste[BREAK]  Katze bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
 // Repeats: 53-4, 54-4
 54-5:@...[END]
 54-5E:@...[END]
@@ -4606,7 +4606,7 @@
 54-8E:@Mach mal haltlang![EVENT][END]
 // Repeats: 53-8, 54-8
 54-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alex's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
-54-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast,[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
+54-9E:@Hmm, du hast dein Versprechen tatsächlich[BREAK]  gehalten und bist nun also endlich zur[WAIT]  Maulwurfsgrillenhöhle gekommen?![WAIT]@Ich bin es! Ich bin es! Erinnerst du dich denn[BREAK]  nicht an mich?![WAIT]  Ich bin die Maulwurfsgrille, die du bei Alex[BREAK]  bekämpft hast[WAIT]  als du mit den Dragos schaugekämpt hast und[BREAK]  du noch klein warst![WAIT]@Ich habe all die Jahre auf diesen Tag hin[BREAK]  trainiert![WAIT]@Okay, lasst uns gehen![WAIT]@Die Zeit für das Rematch ist gekommen![WAIT]@Folge mir![END]
 // Repeats: 53-9, 54-9
 54-10:@There should be a big hole in the ground[BREAK]  straight north of here.[WAIT]@I think I went through it and hid the egg[BREAK]  somewhere on the other side.[WAIT]@So let's head for that area first.[END]
 54-10E:@Im Norden von hier sollte ein großes Loch im[BREAK]  Boden sein.[WAIT]@Ich glaube, ich bin da durch gegangen und habe[BREAK]  das Ei dann irgendwo auf der anderen Seite[WAIT]  versteckt.[WAIT]@Also sollten wir zuerst diesen Ort absuchen.[END]
@@ -5150,7 +5150,7 @@
 79-3:@You know that Chimera Laboratory to the[BREAK]  west of here?[WAIT]@There might be some junk there that could[BREAK]  help us move the pond water.[WAIT]@Why not look for something there? [HEART][END]
 79-3E:@Kennst du das Chimera Labor im Westen[BREAK]  von hier?[WAIT]@Vielleicht gibt es dort irgendein Schrotthaufen,[BREAK]  welches uns helfen könnte.[WAIT]@Warum schaust du dort nicht mal vorbei? [HEART][END]
 79-4:@After I fell from the airship...[WAIT]  Doria was there to rescue me.[WAIT]@Apparently, a pretty woman dressed in red[BREAK]  appeared in Doria's dreams...[WAIT]  ...and foretold that I'd fall into this pond.[WAIT]@For some reason, after I heard that story...[WAIT]  ...I just somehow knew you guys were alright[BREAK]  too, and that I'd see you again soon enough.[WAIT]@I was a little worried about you, though,[BREAK]  [LUCAS 23 02 00].[END]
-79-4E:@Nachdem ich vom Luftschiff gefallen bin...[WAIT]  Doria war da und hat mich gerettet.[WAIT]@Anscheinend ist 'ne rot gekleidete, wunder-[BREAK]  schöne Frau in Dorias Traum erschienen...[WAIT]  ...und hat vorausgesagt, dass ich in diesen[BREAK]  Teich fall'n werde.[WAIT]@Aus irgend 'nem Grund, nachdem ich diese[BREAK]  Geschichte gehört hatte...[WAIT]  ...wusst' ich einfach, dass es euch gut geht,[BREAK]  und dass ich euch bald wiederseh'n werde.[WAIT]@Ich hab' mir aber Sorgen um dich gemacht,[BREAK]  [LUCAS 23 02 00].[END]
+79-4E:@Nachdem ich vom Luftschiff gefallen bin...[WAIT]  Doria war da und hat mich gerettet.[WAIT]@Anscheinend ist eine rot gekleidete, wunder-[BREAK]  schöne Frau in Dorias Traum erschienen...[WAIT]  ...und hat vorausgesagt, dass ich in diesen[BREAK]  Teich fallen werde.[WAIT]@Aus irgendeinem Grund, nachdem ich diese[BREAK]  Geschichte gehört hatte...[WAIT]  ...wusste ich einfach, dass es euch gut geht,[BREAK]  und dass ich euch bald wiedersehen werde.[WAIT]@Ich habe mir aber Sorgen um dich gemacht,[BREAK]  [LUCAS 23 02 00].[END]
 79-5:@Doria also says [DUSTER 23 03 00]'s alright.[WAIT]@I think he is, too.[END]
 79-5E:@Doria hat auch gesagt, dass es [DUSTER 23 03 00][BREAK]  gut geht.[END]
 79-6:@Ooh![PAUSE 20 00] Yes, here we are! [HEART][WAIT]@This will solve our pond water dilemma![BREAK]  I just know it! [HEART][END]
@@ -5259,7 +5259,7 @@
 80-27:@*gasp* *wheeze* *huff*[WAIT]  I'm a mole cricket! I followed you here![WAIT]@I'm studying, you see![BREAK]  I have an undying sense of curiosity![WAIT]@It's like the Call of the Wild[PAUSE 20 00], and all that![EVENT][END]
 80-27E:@*keuch* *röchel* *schnaub*[WAIT]  Ich bin eine Maulwurfsgrille! Ich bin dir gefolgt![WAIT]@Ich studiere, wie du siehst![BREAK]  Ich habe einen extremen Wissensdurst![WAIT]@Es ist wie der Ruf der Wildnis[PAUSE 20 00] und all das![EVENT][END]
 80-28:@For whatever reason, I picked up all sorts of[BREAK]  stuff along the way![WAIT]@Please let me use them to conduct business![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-80-28E:@Aus welchem Grund auch immer, habe ich auf[BREAK]  dem Weg eine Menge Zeugs mitgenommen![WAIT]@Bitte lass mich damit Geschäfte mit dir führen![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+80-28E:@Aus welchem Grund auch immer habe ich auf[BREAK]  dem Weg eine Menge Zeugs mitgenommen![WAIT]@Bitte lass mich damit Geschäfte mit dir führen![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 80-29:@Thank you![WAIT]@I'm still new to this, but I'm going to work as[BREAK]  hard as I possibly can![END]
 80-29E:@Danke![WAIT]@Ich bin zwar ein Neuling auf diesem Gebiet,[BREAK]  aber ich werde mein Möglichstes geben![END]
 80-30:@Oh. Okay, then.[WAIT]@But if you ever need anything, just let me[BREAK]  know anytime![WAIT]@I'll try my very hardest to serve you then, too![END]
@@ -5271,17 +5271,17 @@
 80-33:@From the moment they're made, snowmen[BREAK]  wait for someone.[WAIT]@Some snowmen melt away without ever[BREAK]  meeting anyone.[END]
 80-33E:@Vom Moment an, an dem sie gemacht werden,[BREAK]  warten Schneemänner auf jemanden.[WAIT]@Einige Schneemänner schmelzen aber ohne[BREAK]  überhaupt jemanden getroffen zu haben.[END]
 80-34:@Oh, dear me.[WAIT]@My little bunnies have run off.[WAIT]@...This is quite a surprise, you see. We haven't[BREAK]  had visitors in some time. [HEART][END]
-80-34E:@Oh jemine.[WAIT]@Meine kleinen Hässchen sind ausgerissen.[WAIT]@...Das ist aber eine Überraschung. Wir hatten[BREAK]  schon seit einer Weile keine Besucher mehr. [HEART][END]
+80-34E:@Oh Jemine.[WAIT]@Meine kleinen Hässchen sind ausgerissen.[WAIT]@...Das ist aber eine Überraschung. Wir hatten[BREAK]  schon seit einer Weile keine Besucher mehr. [HEART][END]
 80-35:@You must be cold.[WAIT]@Come inside and warm up. [HEART][END]
 80-35E:@Dir muss kalt sein.[WAIT]@Komm rein und wärm dich auf. [HEART][END]
 80-36:@That masked man...[WAIT]  Could he be the one pulling the Needles?![END]
 80-36E:@Dieser maskierte Mann...[WAIT]  Könnte er derjenige sein, der die Nadeln zieht?![END]
 80-37:@Is Lydia alright...?[END]
-80-37E:@Geht's Lydia gut...?[END]
+80-37E:@Geht es Lydia gut...?[END]
 80-38:@Woof![BREAK]  ([LUCAS 23 02 00].[WAIT]  Do you think Lydia's all right?)[END]
 80-38E:@Wuff![BREAK]  ([LUCAS 23 02 00].[WAIT]  Glaubst du, Lydia geht es gut?)[END]
 80-39:@[LUCAS 23 02 00].[WAIT]@Someone other than you has pulled the Needle.[WAIT]@Whatever is inside that person's heart has[BREAK]  been passed on to the Dark Dragon...[WAIT]@You MUST pull the rest of the remaining[BREAK]  Needles from here on out...[END]
-80-39E:@[LUCAS 23 02 00].[WAIT]@Jemand anderes hat die Nadel gezogen.[WAIT]@Was auch immer im Herz derjenigen Person[BREAK]  ist, ist auf den Schwarzen Drachen[WAIT]  übertragen worden...[WAIT]@Du MUSST auf jeden Preis die übrigen Nadeln[BREAK]  ziehen...[END]
+80-39E:@[LUCAS 23 02 00].[WAIT]@Jemand anderes hat die Nadel gezogen.[WAIT]@Was auch immer im Herz derjenigen Person[BREAK]  ist, ist auf den Schwarzen Drachen[WAIT]  übertragen worden...[WAIT]@Du MUSST auf jeden Fall die übrigen Nadeln[BREAK]  ziehen...[END]
 80-40:@Before I disappear, take this memento of me.[WAIT]@Take good care of it. [HEART][END]
 80-40E:@Bevor ich verschwinde, nimm bitte dieses[BREAK]  Memento von mir.[WAIT]@Pass gut darauf auf. [HEART][END]
 80-41:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
@@ -5295,7 +5295,7 @@
 80-44:@Don't worry about me. [HEART][WAIT]@You can use the white box at the top of this[BREAK]  mountain to leave. [HEART][EVENT][END]
 80-44E:@Mach dir keine Sorgen um mich. [HEART][WAIT]@Du kannst die weiße Box auf dem Gipfel des[BREAK]  Berges verwenden um hier wegzukommen. [HEART][EVENT][END]
 80-45:@Also, go and ask my little Pigmask friend what[BREAK]  he wants to do now.[END]
-80-45E:@Ach, und geh und frag bitte meinen Schweine-[BREAK]  maskenfreund, was er jetzt machen möchte.[END]
+80-45E:@Ach, und geh und frag bitte meinen Schweine-[BREAK]  maskenfreund, weas er jetzt machen will.[END]
 80-46:@[LUCAS 23 02 00].[EVENT][END]
 80-46E:@[LUCAS 23 02 00].[EVENT][END]
 80-47:@This is it. "The time" has come.[WAIT]@Believe in that, and keep pushing forward.[WAIT]@This is where I say farewell.[END]
@@ -7135,33 +7135,33 @@
 136-3:@Whoa! Awesome![WAIT]@You guys really did show up![END]
 136-3E:@Whoa! Hammergeil![WAIT]@Ihr seid ja wirklich gekommen![END]
 136-4:@Oh! You're here too, [SALSA 23 06 00]?![WAIT]@It's great to see you again![WAIT]@I didn't know you were alive![END]
-136-4E:@Oh! Du bist auch da, [SALSA 23 06 00]?![WAIT]@Schön dich wieder zu sehen![WAIT]@Ich dacht', du wärst tot![END]
+136-4E:@Oh! Du bist auch da, [SALSA 23 06 00]?![WAIT]@Schön dich wieder zu sehen![WAIT]@Ich dachte, du wärst tot![END]
 136-5:@Oh![WAIT]@And how've you been, Love Monkey?[END]
-136-5E:@Oh![WAIT]@Und wie geht's dir, Liebesaffe?[END]
+136-5E:@Oh![WAIT]@Und wie geht es dir, Liebesaffe?136-5[WAIT][END]
 136-6:@Hello![END]
 136-6E:@Hallo![END]
 136-7:@Oh, my![WAIT]@What adorable visitors! [HEART][WAIT]@Introduce me to them, won't you? [HEART][END]
-136-7E:@Meine Güte![WAIT]@Was für süße Besucher! [HEART][WAIT]@Stell mich ihnen vor, okay? [HEART][END]
+136-7E:@Meine Güte![WAIT]@Was für süße Besucher! [HEART][WAIT]@Stell mich ihnen vor, okay?136-7 [HEART][END]
 136-8:@Yeah, sure.[WAIT]@These're my friends.[EVENT][END]
-136-8E:@Na sicher doch.[WAIT]@Das sind meine Freunde.[EVENT][END]
+136-8E:@Sicher doch.[WAIT]@Das sind meine Freunde.[EVENT][END]
 136-9:@This is [SALSA 23 06 00] the monkey and his[BREAK]  "Love Monkey".[END]
-136-9E:@Das ist [SALSA 23 06 00], der Affe, und sein[BREAK]  "Liebesaffe".[END]
+136-9E:@Das ist [SALSA 23 06 00] der Affe und sein[BREAK]  "Liebesaffe".[END]
 136-10:@And this is [LUCAS 23 02 00] the human.[END]
-136-10E:@Und das ist [LUCAS 23 02 00], der Mensch.[END]
+136-10E:@Und das ist [LUCAS 23 02 00] der Mensch.[END]
 136-11:@And this is [LUCAS 23 02 00] the human[BREAK]  and [DUSTER 23 03 00] the thief.[END]
-136-11E:@Und das ist [LUCAS 23 02 00], der Mensch,[BREAK]  und [DUSTER 23 03 00], der Dieb.[END]
+136-11E:@Und das ist [LUCAS 23 02 00] der Mensch[BREAK]  und [DUSTER 23 03 00] der Dieb.[END]
 136-12:@And this dog is.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  [PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[END]
 136-12E:@Und dieser Hund ist.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  [PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[END]
 136-13:@[BONEY 23 05 00] the dog![END]
-136-13E:@[BONEY 23 05 00], der Hund![END]
+136-13E:@[BONEY 23 05 00] der Hund![END]
 136-14:@*giggle*[BREAK]@So you're sweet little [LUCAS 23 02 00]? [HEART][WAIT]@Ionia's told me all about you. [HEART][END]
-136-14E:@*kicher*[WAIT]@Also du bist der süße, kleine [LUCAS 23 02 00]? [HEART][WAIT]@Ionia hat mir alles über dich erzählt. [HEART][END]
+136-14E:@*kicher*[WAIT]@Also du bist der süße kleine [LUCAS 23 02 00]? [HEART][WAIT]@Ionia hat mir alles über dich erzählt. [HEART][END]
 136-15:@Come with me.[WAIT]@I'll show you where the Needle is. [HEART][BREAK]  *giggle*[END]
 136-15E:@Komm mit mir.[WAIT]@Ich zeige dir, wo die Nadel ist. [HEART][BREAK]  *kicher*[END]
 136-16:@Oh yeah, almost forgot.[WAIT]@[LUCAS 23 02 00].[WAIT]@That's Doria, one of the seven Magypsies.[END]
-136-16E:@Oh, fast vergess'n.[WAIT]@[LUCAS 23 02 00].[WAIT]@Des is' Doria, eine der sieben Magypsies.[END]
+136-16E:@Oh, fast vergessen.[WAIT]@[LUCAS 23 02 00].[WAIT]@Das ist Doria, eine der sieben Magypsies.[END]
 136-17:@He saved me.[WAIT]@Apparently, that's what fate had in store.[END]
-136-17E:@Sie hat mich gerettet.[WAIT]@Anscheinend wollte es das Schicksal so.[END]
+136-17E:@Er hat mich gerettet.[WAIT]@Anscheinend wollte es das Schicksal so.[END]
 
 [Container 137]
 137-0:@It's locked.[END]
@@ -7182,7 +7182,7 @@
 137-7:@And then there's him.[WAIT]  He still hasn't regained his strength yet...[END]
 137-7E:@Und dann gibt es noch ihn.[WAIT]  Er hat noch immer keine Kraft...[END]
 137-8:@I hope everything works out for the best when[BREAK]  "the time" comes.[WAIT]@We aren't permitted to interfere, and it's[BREAK]  wrong of me to worry so much about it.[WAIT][PAUSE 1E 00]@I'm a mess, a horrible Magypsy. I never[BREAK]  believed "the time" would come! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Pull the Needle.[WAIT]@Because it's time. [HEART][END]
-137-8E:@Ich hoffe, dass alles bestens verläuft, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Uns ist es nicht erlaubt einzugreifen, und es[BREAK]  ist falsch, dass ich mir so viele Sorgen mache.[WAIT][PAUSE 1E 00]@Ich bin eine Sauerei für eine Magypsy.[WAIT]  Ich habe nie geglaubt, dass die "die Zeit"[BREAK]  jemals kommen würde! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Zieh die Nadel.[WAIT]@Denn es ist Zeit. [HEART][END]
+137-8E:@Ich hoffe, dass alles bestens verläuft, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Uns ist es nicht erlaubt einzugreifen, und es[BREAK]  ist falsch, dass ich mir so viele Sorgen mache.[WAIT][PAUSE 1E 00]@Ich bin eine Sauerei für eine Magypsy. Ich habe[BREAK]  nie geglaubt, dass die "die Zeit" jemals kommen[WAIT]  würde! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Zieh die Nadel.[WAIT]@Denn es ist Zeit. [HEART][END]
 137-9:@Now, then. Have faith that "the time" has[BREAK]  come, and go pull the Needle.[WAIT]@I've unlocked the door for you. [HEART][END]
 137-9E:@Also dann. Hab Mut und zieh die Nadel.[WAIT]@Ich habe die Tür für dich geöffnet. [HEART][END]
 137-10:@O.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]oink.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@*mumble* *mutter*... *snore*[END]
@@ -7202,9 +7202,9 @@
 137-17:@I have no intention of helping you guys out.[END]
 137-17E:@Ich habe nicht vor euch zu helfen.[END]
 137-18:@That Magypsy helped me out, though.[BREAK]  Even though I'm a complete stranger.[END]
-137-18E:@Diese Magypsy hat mir aber geholfen.[BREAK]  Obwohl ich ein kompletter Fremder bin.[END]
+137-18E:@Diese Magypsy hat mir aber geholfen.[BREAK]  Obwohl ein kompletter Fremder bin.[END]
 137-19:@So I'm gonna stay here and look after his[BREAK]  rabbits.[WAIT]@Then we'll be even.[END]
-137-19E:@Also werde ich hierbleiben und auf ihre[BREAK]  Häschen aufpassen.[WAIT]@Damit sind wir quitt.[END]
+137-19E:@Also werde ich hierbleiben und auf ihre[BREAK]  Häschen aufpassen.[WAIT]@Dann sind wir quitt.[END]
 137-20:@Get going already![WAIT]@Before another Needle gets pulled![END]
 137-20E:@Bewegt euch schon![WAIT]@Bevor noch eine weitere Nadel gezogen wird![END]
 137-21:@A Pigmask helmet.[END]
@@ -7253,7 +7253,7 @@
 139-0:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-0E:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-1:@It's making horrible chalkboard-scratching[BREAK]  sounds while trying to tell scary stories.[END]
-139-1E:@Es macht schreckliche kreideknirschenden[BREAK]  Geräusche, während es versucht, gruselige[WAIT]  Geschichte zu erzählen.[END]
+139-1E:@Es macht schreckliche kreideknirschenden[BREAK]  Geräusche, während es versucht gurselige[WAIT]  Geschichte zu erzählen.[END]
 139-2:@Where is the Needle?![BREAK]  Where in Saturn Valley is it?![END]
 139-2E:@Wo ist die Nadel?![BREAK]  Wo im Saturntal ist es?![END]
 139-3:[ALTERNATEFONT]@do not know.[END]
@@ -7271,7 +7271,7 @@
 139-9:@Just get 'em![END]
 139-9E:@Schnappt sie einfach![END]
 139-10:@Ahh! Our Frightbot! We needed that![WAIT]@We must inform Mr. Fassad immediately![END]
-139-10E:@Ahh! Unser Angstbot! Den haben wir[BREAK]  gebraucht![WAIT]@Wir müssen sofort Herrn Fassad informieren![END]
+139-10E:@Ahh! Unser Gruselbot! Den haben wir[BREAK]  gebraucht![WAIT]@Wir müssen sofort Herrn Fassad informieren![END]
 139-11:@You'll pay for this![WAIT]@I'll make sure you pay![END]
 139-11E:@Du wirst dafür bezahlen![WAIT]@Ich sorge dafür, dass du bezahlst![END]
 139-12:@Oh, here you are, [DUSTER 23 03 00]![END]
@@ -7283,7 +7283,7 @@
 139-15:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Thank goodness you're all right![END]
 139-15E:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Gott sei Dank, geht es euch gut![END]
 139-16:@The kind people of this valley rescued me,[WAIT]  but those other guys captured us all.[WAIT]@But don't worry. The Egg of Light is safe.[END]
-139-16E:@Die netten Leute dieses Dorfs haben mich[BREAK]  gerettet,[WAIT]  aber diese anderen Kerle haben uns alle[BREAK]  gefangen genommen.[WAIT]@Aber keine Sorge. Das Kolibri-Ei ist sicher.[END]
+139-16E:@Die netten Leute dieses Dorfs haben mich[BREAK]  gerettet,[WAIT]  aber diese anderen Kerle haben uns alle[BREAK]  gefangen genommen.[WAIT]@Aber keine Sorge. Das Ei des Lichts ist sicher.[END]
 139-17:@Geez...[BREAK]  Is this lucky or unlucky? I can't tell.[END]
 139-17E:@Mann...[BREAK]  Ist das Glück oder Unglück? Ich weiß nicht.[END]
 139-18:@You're all lucky.[WAIT]@That's the only way I can see it...[END]
@@ -7318,7 +7318,7 @@
 139-32:@They say they know![WAIT]@Does that mean they've met one of the[BREAK]  Magypsies?[END]
 139-32E:@Sie sagen, dass sie es wissen![WAIT]@Bedeutet das, dass sie eine der Magypsies[BREAK]  getroffen haben?[END]
 139-33:[ALTERNATEFONT]@ding ding![WAIT]  met.[WAIT]@can go far that way.[BREAK]  easy.[END]
-139-33E:[ALTERNATEFONT]@ding ding![WAIT]  getroffen.[WAIT]@kœnnen gehen weit[BREAK]  diesen weg.[WAIT]  einfach.[END]
+139-33E:[ALTERNATEFONT]@ding ding![WAIT]  getroffen.[WAIT]@kœnnen gehen weit[BREAK]  diesen weg.[BREAK]  einfach.[END]
 139-34:[ALTERNATEFONT]@boing.[WAIT]  can go.[END]
 139-34E:[ALTERNATEFONT]@boing.[WAIT]  kœnnen gehen.[END]
 139-35:@"That way" means that way.[WAIT]@I can tell by their eyes.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]North![WAIT]@They're saying to go toward the volcano to[BREAK]  the north.[END]
@@ -8077,7 +8077,7 @@
 
 [Container 175]
 175-0:@Ooh, just look at him swagger away so[BREAK]  confidently! [HEART][WAIT]@He leaves the stage with such a calm air[BREAK]  about him![WAIT]@A natural if I ever saw one![BREAK]  What a casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Mr. Pump! [HEART][END]
-175-0E:@Ooh, sieh nur wie er voller Zuversicht prahlt! [HEART][WAIT]@Er verlässt die Bühne mit so einem chilligen[BREAK]  Gesichtsausdruck![WAIT]@Ein Naturtalent wie er im Buche steht![BREAK]  Was für ein Casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Herr Pumpe! [HEART][END]
+175-0E:@Ooh, sieh nur wie er voller Zuversicht prahlt! [HEART][WAIT]@Er verlässt die Bühne mit so einem chilligen[BREAK]  Gesichtsausdruck![WAIT]@Ein Naturtalent wie er im Buche steht![BREAK]  Was für ein Casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Herr Pump! [HEART][END]
 175-1:@There it is! [HEART][WAIT]@That's the Needle! [HEART][WAIT]@One of the seven Needles sealing the Dragon[BREAK]  away![END]
 175-1E:@Da ist es! [HEART][WAIT]@Da ist die Nadel! [HEART][WAIT]@Eine der sieben Nadeln, die den Drachen[BREAK]  versiegeln![END]
 175-2:@What's gonna happen when you pull it?[WAIT]@I dunno yet, either.[END]
@@ -8093,7 +8093,7 @@
 175-7:@Okay! Now pull it! [HEART][WAIT]@With all your might! [HEART][WAIT]@Right before my very eyes! [HEART][END]
 175-7E:@Okay! Jetzt zieh es raus! [HEART][WAIT]@Mit all deiner Kraft! [HEART][WAIT]@Vor meinen Augen! [HEART][END]
 175-8:@If this Needle gets pulled, will you disappear[BREAK]  like Aeolia did?[END]
-175-8E:@Wenn diese Nadel gezogen wird, wirste dann[BREAK]  wie Aeolia verschwinden?[END]
+175-8E:@Wenn diese Nadel gezogen wird, wirst du dann[BREAK]  wie Aeolia verschwinden?[END]
 175-9:@Yes, that's right. [HEART][WAIT]@Because the Needle won't need my protection[BREAK]  anymore...[WAIT]@The Needle can only be pulled when "the time"[BREAK]  comes.[WAIT]@So when the Needle finally IS pulled, "the time"[BREAK]  has come.[WAIT]@We Magypsies have lived our lives so that we[BREAK]  can happily accept that fate when it comes.[WAIT]@So don't worry. I'm not going to die. [HEART][WAIT]@I'm simply going to follow fate and disappear.[WAIT]@So it will be a happy thing.[PAUSE 1E 00][WAIT]@I do have many fond memories, though,[PAUSE 1E 00] so it[BREAK]  will be a little sad, too. *giggle*[END]
 175-9E:@Ja, richtig. [HEART][WAIT]@Weil die Nadel meinen Schutz nicht mehr[BREAK]  braucht...[WAIT]@Die Nadel kann nur gezogen werden, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Also wenn die Nadel endlich gezogen IST, ist[BREAK]  "die Zeit" gekommen.[WAIT]@Wir Magypsies haben unsere Leben so gelebt,[BREAK]  dass wir freien Mutes dieses Schicksal[BREAK]  akzeptieren können, wenn es kommt.[WAIT]@Also keine Sorge. Ich werde nicht sterben. [HEART][WAIT]@Ich werde einfach meinem Schicksal folgen[BREAK]  und verschwinden.[WAIT]@Also ist dies eine glückliche Sache.[PAUSE 1E 00][WAIT]@Ich habe aber auch liebgewonne Erinnerungen,[BREAK]  [PAUSE 1E 00]also ist es auch etwas traurig. *kicher*[END]
 175-10:@Pull the Needle?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -8129,36 +8129,36 @@
 175-23:@Ionia told me this a long time ago.[END]
 175-23E:@Ionia hat mir das vor langer Zeit erzählt.[END]
 175-24:@When the Dark Dragon that's sleepin' under[BREAK]  the island wakes up,[WAIT]  all life and all time'll be reborn...[END]
-175-24E:@Wenn der schwarze Drache, der unter dieser[BREAK]  Insel schläft, aufwacht,[WAIT]  wird alles Leben und alle Zeit wiedergebor'n...[END]
+175-24E:@Wenn der schwarze Drache, der unter dieser[BREAK]  Insel schläft, aufwacht.[WAIT]  wird alles Leben und alle Zeit wiedergeboren...[END]
 175-25:@I dunno what's gonna happen,[WAIT]  but I'm gonna see things through to the end.[WAIT]@[LUCAS 23 02 00]. Can I come along with you?[WAIT][PAUSE 1E 00]@...I wanna go with you.[END]
-175-25E:@Ke'ne Ahnung was passier'n wird, aber ich[BREAK]  werd' bis zum Ende dabei sein.[WAIT]@[LUCAS 23 02 00]. Darf ich mit dir kommen?[WAIT][PAUSE 1E 00]@...Ich möchte mit dir geh'n.[END]
+175-25E:@Keine Ahnung was passieren wird, aber ich werde bis zum Ende dabei sein.[WAIT]@[LUCAS 23 02 00]. Darf ich mit dir kommen?[WAIT][PAUSE 1E 00]@...Ich möchte mit dir gehen.[END]
 175-26:@We hafta hurry and find [DUSTER 23 03 00] and[BREAK]  the Egg of Light, too![END]
-175-26E:@Wir müssen uns beeil'n und [DUSTER 23 03 00][BREAK]  find'n und das Ei des Lichts auch![END]
+175-26E:@Wir müssen uns beeilen und [DUSTER 23 03 00][BREAK]  finden und das Ei des Lichts auch![END]
 175-27:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
 175-27E:@[KUMATORA 23 04 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 175-28:@[SALSA 23 06 00].[BREAK]@We just met again after all this time,[WAIT]  but it looks like this is goodbye again.[END]
-175-28E:@[SALSA 23 06 00].[BREAK]@Wir hab'n uns nach so einer langen Zeit erst[BREAK]  wieder getroffen, aber es ist wohl schon[WAIT]  wieder Zeit Abschied zu nehm'n.[END]
+175-28E:@[SALSA 23 06 00].[BREAK]@Wir haben uns nach so einer langen Zeit erst[BREAK]  wieder getroffen, aber es ist wohl schon[WAIT]  wieder Zeit Abschied zu nehmen.[END]
 175-29:@You and Love Monkey take care, now.[END]
-175-29E:@Du und Liebesaffe. Passt auf euch auf.[END]
+175-29E:@Du und Liebesaffe. Passt auf euch auf.175-29[END]
 175-30:@What's with that look?[WAIT]@You're such a sentimental monkey...[END]
-175-30E:@Was schauste denn so?[WAIT]@Du bist solch 'n sentimentaler Affe...[END]
+175-30E:@Was schaust du denn so?[WAIT]@Du bist solch ein sentimentaler Affe...[END]
 175-31:@Let's go![WAIT]@Let's get to that next Needle![END]
 175-31E:@Los geht's![WAIT]@Auf zur nächsten Nadel![END]
 175-32:@Huh?[WAIT]@What is it?[PAUSE 40 00][EVENT][END]
 175-32E:@Häh?[WAIT]@Was ist das?[PAUSE 40 00][EVENT][END]
 175-33:@A [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]For me?[END]
-175-33E:@'ne [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Für mich?[END]
+175-33E:@Eine [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Für mich?[END]
 // item is a Nut
 175-34:@Received a [ITEM 5D 00].[END]
 175-34E:@Eine [ITEM 5D 00] erhalten.[END]
 // item is a Nut
 175-35:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Sorry, but we're holding too much stuff[BREAK]  right now.[END]
-175-35E:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Sorry, aber wir tragen bereits zu viel Zeug.[END]
+175-35E:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Sorry, but we're holding too much stuff[BREAK]  right now. 175-35[END]
 175-36:@Thanks![END]
 175-36E:@Danke![END]
 175-37:@See you later, if we ever get the chance![END]
-175-37E:@Bis später, wenn wir jemals wieder die[BREAK]  Chance dazu hab'n![END]
+175-37E:@Auf Wiedersehen, wenn wir jemals wieder die[BREAK]  Chance dazu haben![END]
 
 [Container 176]
 176-0:@Leave Schneekronenberg?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -8168,7 +8168,7 @@
 
 [Container 177]
 177-0:@Ooooh![BREAK]@Look! Look![WAIT]@Just look at him go![WAIT]@It's enough to give me chills![END]
-177-0E:@Ooooh![BREAK]@Schau! Schau![WAIT]@Schau, wie's läuft![WAIT]@Da läuft es mir kalt den Rücken runter![END]
+177-0E:@Ooooh![BREAK]@Schau! Schau![WAIT]@Schaum, wie er geht![WAIT]@Da läuft es mir kalt den Rücken runter![END]
 177-1:[END]
 177-1E:[END]
 
@@ -10342,19 +10342,19 @@
 222-76E:@Die Fernbedienung scheint auf die Tür zu[BREAK]  reagieren.[WAIT]@Den Knopf auf der Fernbedienung drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 222-76, 506-76, 507-4
 222-77:@Grape.[BREAK]  (Extra lines have been engraved by vandals...)[END]
-222-77E:@Grape.[BREAK]  (Extra lines have been engraved by vandals...)[END]
+222-77E:
 // Repeats: 222-77, 506-77
 222-78:@As a young boy, Scamp loved to scamper[BREAK]  about, to-and-fro.[WAIT]  This is how he earned the nickname "Scamp",[BREAK]  the name he went by until the age of 99.[WAIT]  May he rest here in peace.[END]
-222-78E:@Als junger Mann, liebte Schuft es hin und her[BREAK]  zu pfuschen.[WAIT]  So hatte er den Nicknamen "Schuft" erhalten,[BREAK]  den er bis zum Alter von 99 behalten hatte.[WAIT]  Möge er in Frieden ruhen.[END]
+222-78E:
 // Repeats: 222-78, 506-78
 222-79:@Poor Mr. Nippolyte.[WAIT]@Apparently, lightning struck his house 14[BREAK]  times over the course of three years.[END]
-222-79E:@Armer Herr Nippolyte.[WAIT]@Scheinbar wurde sein Haus im Verlaufe der[BREAK]  letzten drei Jahre 14 Mal vom Blitz getroffen.[END]
+222-79E:
 // Repeats: 222-79, 506-79
 222-80:@Oh, [LUCAS 23 02 00].[WAIT]@Your old man's always visiting[BREAK]  [HINAWA 22 08 00]'s grave.[END]
-222-80E:@Oh, [LUCAS 23 02 00].[WAIT]@Dein Alter besucht immer das Grab von[BREAK]  [HINAWA 22 08 00].[END]
+222-80E:
 // Repeats: 222-80, 506-80
 222-81:@It's been mercilessly destroyed.[END]
-222-81E:@Es wurde rücksichtslos zerstört.[END]
+222-81E:
 // Repeats: 222-81, 506-81
 222-82:@Woof woof![END]
 222-82E:@Wuff wuff![END]
@@ -10363,19 +10363,19 @@
 222-83E:@Wau wau wau wau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 222-84:@This is the white, metal box you rode here[BREAK]  from Schneekronenberg.[END]
-222-84E:@Das ist die weiße Metallbox, mit der du vom[BREAK]  Schneekronenberg gekommen bist.[END]
+222-84E:
 // Repeats: 222-84, 506-84
 222-85:@There's a jar here that's too hard to ignore.[WAIT]@Inside it is a letter. Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-222-85E:@Da ist eine Flasche, die man nicht leicht[BREAK]  übersehen kann.[WAIT]@Da drin ist ein Brief. Lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+222-85E:
 // Repeats: 222-85, 506-85
 222-86:[ALTERNATEFONT]@this way.[END]
 222-86E:[ALTERNATEFONT]@lang hier.[END]
 // Repeats: 222-86, 386-1, 506-86
 222-87:@The jar looks sad.[END]
-222-87E:@Die Flasche sieht traurig aus.[END]
+222-87E:
 // Repeats: 222-87, 506-87
 222-88:@The remnants of my humble abode.[BREAK]  NO TOURISTS[END]
-222-88E:@Die Überreste meiner bescheidenen Bleibe.[BREAK]  TOURISTEN VERBOTEN[END]
+222-88E:
 // Repeats: 222-88, 506-88
 222-89:[END]
 222-89E:[END]
@@ -13193,9 +13193,9 @@
 336-0:@For part-timers, you sure do work hard.[BREAK]  You're really something.[WAIT]@But you should probably get out of this building[BREAK]  as fast as you can.[END]
 336-0E:@Für einen Teilzeitler arbeitest du ziemlich hart.[BREAK]  Du hast was drauf.[WAIT]@Aber du solltest wahrscheinlich so schnell wie[BREAK]  möglich hier raus.[END]
 336-1:@I put some rice balls in the freezer room, but[BREAK]  they wound up frozen solid.[WAIT]@I should've eaten them sooner...[END]
-336-1E:@Ich habe ein paar Reisbälle in den Gefrierraum[BREAK]  gelegt, aber sie sind festgefroren.[WAIT]@Ich hätte sie früher essen sollen...[END]
+336-1E:@ich habe ein paar Reisbälle in den Gefrierraum[BREAK]  gelegt, aber sie sind festgefroren.[WAIT]@Ich hätte sie früher essen sollen...[END]
 336-2:@The monkey...[BREAK]  It let the red one out of its cage...[WAIT]@We're done for now...[END]
-336-2E:@Der Affe...[BREAK]  Er hat den Roten aus den Käfig gelassen...[WAIT]@Wir sind erledigt...[END]
+336-2E:@Der Affe...[BREAK]  Er hat den roten aus den Käfig gelassen...[WAIT]@Wir sind hier fertig...[END]
 336-3:@There are lots of boxes here. There's stuff[BREAK]  inside, but who knows what it is...[END]
 336-3E:@Hier sind eine Menge Boxen. Das sind Sachen[BREAK]  drin, aber wer weiß, was das ist...[END]
 336-4:@This appears to have been unused for a long[BREAK]  time.[END]
@@ -13385,7 +13385,7 @@
 347-0:@There are pig masks in here.[WAIT]  Put them on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 347-0E:@Da sind Schweinemasken drin.[WAIT]  Aufziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
 347-1:@This locker is empty.[END]
-347-1E:@Der Spind ist leer.[END]
+347-1E:@Dieser Spind ist leer.[END]
 // Repeats: 347-1, 357-27
 347-2:@A bunch of yucky laundry is inside here.[END]
 347-2E:@Ein Haufen widerliche Wäsche ist da drin.[END]
@@ -13404,7 +13404,7 @@
 349-0E:@Ein Haufen schmutziger Stoff wurde hier[BREAK]  hingelegt.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 349-1:@There's nothing in here.[END]
-349-1E:@Es ist leer.[END]
+349-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 349-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 349-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
@@ -13413,7 +13413,7 @@
 349-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 349-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-349-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+349-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 349-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 349-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
@@ -13451,81 +13451,81 @@
 
 [Container 350]
 350-0:@A Memo About the Kind of Chimeras I Want[WAIT]  - Ones that don't eat much![WAIT]  - Ones as nice and loving as they are cool![WAIT]  - Ones with a decent flavor and scent![WAIT]  - Ones that won't cry at night![WAIT]  - Ones that make a good bodyguard![WAIT]  - Ones with a great coat of fur![WAIT]  - Ones that don't chew with their mouth open![WAIT]  - Ones with poop that doesn't stink much![WAIT]  - Ones that are warmhearted![WAIT]  - Ones that aren't oversensitive![END]
-350-0E:@Eine Notiz über Arten von Chimera, die ich[BREAK]  haben will:[WAIT]  -Welche, die nicht viel fressen![WAIT]  -Welche, die genauso nett und goldig wie cool[BREAK]    sind![WAIT]  -Welche mit einem angenehmen Geschmack[BREAK]    und Duft![WAIT]  -Welche, die in der Nacht nicht weinen![WAIT]  -Welche, die gute Bodyguards machen![WAIT]  -Welche mit fetten Fell![WAIT]  -Welche, die nicht bei offenem Maul kauen![WAIT]  -Welche mit Kacke, die nicht so sehr stinken![WAIT]  -Welche, die warmherzig sind![WAIT]  -Welche, die nicht überempfindlich sind![END]
+350-0E:
 350-1:@[ENEMYNAME 7B 00][WAIT]@10,000,000 DP[END]
-350-1E:@[ENEMYNAME 7B 00][WAIT]@10,000,000 DK[END]
+350-1E:
 350-2:@[ENEMYNAME 78 00][WAIT]@8,000,000 DP[END]
-350-2E:@[ENEMYNAME 78 00][WAIT]@8,000,000 DK[END]
+350-2E:
 350-3:@[ENEMYNAME 70 00][WAIT]@12,500,000 DP[END]
-350-3E:@[ENEMYNAME 70 00][WAIT]@12,500,000 DK[END]
+350-3E:
 350-4:@[ENEMYNAME 1B 00][WAIT]@SOLD OUT[END]
-350-4E:@[ENEMYNAME 1B 00][WAIT]@AUSVERKAUFT[END]
+350-4E:
 350-5:@I just remembered this Chimera's weakness,[BREAK]  so I mustered up the courage to come here.[END]
 350-5E:
 350-6:@This is a high-tech, battery-operated Chimera.[WAIT]@In other words, if we set the power switch on[BREAK]  its back to "OFF", it will stop![END]
-350-6E:@Dies ist ein hight-tech batteriebetriebener[BREAK]  Chimera.[WAIT]@Mit anderen Worten, wenn wir den An-/Aus-[BREAK]  Schalter zurück auf "AUS" stellen, stoppt er![END]
+350-6E:
 350-7:[END]
-350-7E:[END]
+350-7E:
 350-8:[END]
-350-8E:[END]
+350-8E:
 350-9:[END]
-350-9E:[END]
+350-9E:
 350-10:[END]
-350-10E:[END]
+350-10E:
 350-11:[END]
-350-11E:[END]
+350-11E:
 350-12:[END]
-350-12E:[END]
+350-12E:
 350-13:[END]
-350-13E:[END]
+350-13E:
 350-14:[END]
-350-14E:[END]
+350-14E:
 350-15:[END]
-350-15E:[END]
+350-15E:
 350-16:[END]
-350-16E:[END]
+350-16E:
 350-17:[END]
-350-17E:[END]
+350-17E:
 350-18:[END]
-350-18E:[END]
+350-18E:
 350-19:[END]
-350-19E:[END]
+350-19E:
 350-20:[END]
-350-20E:[END]
+350-20E:
 350-21:[END]
-350-21E:[END]
+350-21E:
 350-22:[END]
-350-22E:[END]
+350-22E:
 350-23:[END]
-350-23E:[END]
+350-23E:
 350-24:[END]
-350-24E:[END]
+350-24E:
 350-25:[END]
-350-25E:[END]
+350-25E:
 
 [Container 351]
 351-0:@S-stop!! Stay away!![WAIT]@This is my hiding spot![END]
-351-0E:@S-stop!! Geh weg!![WAIT]@Das ist mein Versteck![END]
+351-0E:
 351-1:@An image of an odd creature you've never[BREAK]  seen before is being displayed on the screen.[END]
-351-1E:@Ein Bild einer kuriosen Kreatur, die du noch nie[BREAK]  gesehen, wird auf dem Bildschirm abgebildet.[END]
+351-1E:
 351-2:@There are lots of graphs here, but there's no[BREAK]  telling what they mean.[END]
-351-2E:@Hier sind eine Menge Graphen, aber was sie[BREAK]  bedeuten, sieht man nicht.[END]
+351-2E:
 351-3:@The creature in this photograph?[WAIT]@This is a being known as a "Mr. Saturn".[WAIT]@Apparently.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] Ahem.[PAUSE 10 00][WAIT]  [ALTERNATEFONT]they talk like this.[EVENT][END]
-351-3E:@Die Kreatur auf dem Foto?[WAIT]@Dieses Wesen ist bekannt als ein "Mr. Saturn".[WAIT]@Anscheinend.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] Ähm.[PAUSE 10 00][WAIT]  [ALTERNATEFONT]sprechen sie so.[EVENT][END]
+351-3E:
 351-4:@According to recent research, they appear to[BREAK]  live on the far eastern edge of the highway,[WAIT]  in a village they constructed for themselves.[END]
-351-4E:@Der neuesten Forschung nach scheinen sie am[BREAK]  östlichen Rand der Schnellstraße zu leben.[WAIT]  In einem Dorf, das sie ganz alleine gebaut[BREAK]  haben.[END]
+351-4E:
 351-5:@Supposedly, there's a village of Mr. Saturns on[BREAK]  the far eastern edge of the highway.[WAIT]@A Pork Bean would probably be the quickest[BREAK]  way to get there.[END]
-351-5E:@Angeblich gibt es ein Mr. Saturn Dorf ganz am[BREAK]  östlichen Rand der Fernstraße.[WAIT]@Mit einer Schweinebohne kommt man[BREAK]  wahrscheinlich am schnellsten dort hin.[END]
+351-5E:
 
 [Container 352]
 352-0:@Instructions are written on the whiteboard.[WAIT]@"Emergency Measures"[WAIT]@"Should the Ultimate Chimera escape from its[BREAK]  cage, seal all entrances and exits immediately.[WAIT]@In the unlikely event that it gets outside,[WAIT]  use full force[PAUSE 3E 00] to feign ignorance and pretend[BREAK]  nothing happened.[WAIT]@In the event that the Ultimate Chimera is seen[BREAK]  by civilians," ............[WAIT]@The rest has been erased and is unreadable.[END]
-352-0E:@Instruktionen sind auf der Tafel geschrieben.[WAIT]@"Notfallmaßnahmen"[WAIT]@"Sollte der Ultimative Chimera aus seinem[BREAK]  Käfig entkommen,[WAIT]  versiegelt sofort alle Eingänge und Ausgänge.[WAIT]@Im unwahrscheinlichen Falle, dass er es nach[BREAK]  draußen schafft,[WAIT]  nutzt alle Kraft[PAUSE 3E 00] um Unwissenheit vorzutäu-[BREAK]  schen und so zu tun, als wäre nichts passiert.[WAIT]@Im Falle, dass der Ultimative Chimera von[BREAK]  Zivilisten gesehen wird,"..............[WAIT]@Der Rest wurde weggewischt und ist[BREAK]  unleserlich.[END]
+352-0E:
 352-1:@These lab coats have been neatly cleaned.[END]
-352-1E:@Diese Laborkittel sind sehr sauber.[END]
+352-1E:
 352-2:@There are many documents in here.[END]
-352-2E:@Da drin sind viele Dokumente.[END]
+352-2E:
 352-3:[END]
-352-3E:[END]
+352-3E:
 
 [Container 353]
 353-0:@Various chemicals are lined up here.[END]
@@ -13541,20 +13541,20 @@
 353-3E:@Oben scheint eine besondere Chemikalie zu[BREAK]  sein, aber es ist außer Reichweite.[END]
 // Repeats: 353-1, 353-3, 362-1
 353-4:@This appears to be an operating table for[BREAK]  animals.[END]
-353-4E:@Dies scheint ein OP-Tisch für Tiere zu sein.[END]
+353-4E:
 353-5:@Everything is neatly organized here.[END]
-353-5E:@Alles ist säuberlich aufgeräumt hier.[END]
+353-5E:
 353-6:@I don't know anything about it breaking out of[BREAK]  the lab![WAIT]@I haven't seen anything![WAIT]@I don't know anything![END]
-353-6E:@Ich weiß nichts über einem Ausbruch aus[BREAK]  dem Labor![WAIT]@Ich habe nichts gesehen![WAIT]@Ich weiß nichts![END]
+353-6E:
 353-7:[END]
-353-7E:[END]
+353-7E:
 
 [Container 354]
 354-0:@A bunch of filthy cloth has been placed in here.[END]
 354-0E:@Ein Haufen schmutziger Stoff wurde hier[BREAK]  hingelegt.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 354-1:@There's nothing in here.[END]
-354-1E:@Es ist leer.[END]
+354-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 354-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 354-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
@@ -13563,7 +13563,7 @@
 354-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 354-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-354-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+354-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 354-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 354-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
@@ -13599,72 +13599,72 @@
 354-15E:@[SALSA 22 12 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 354-16:@There's an elevator here.[WAIT][MENU 02 00][MENUSPACEYES]B1[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-354-16E:@Hier ist ein Aufzug.[WAIT][MENU 02 00][MENUSPACEYES]U1[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
+354-16E:@Da ist ein Aufzug.[WAIT][MENU 02 00][MENUSPACEYES]U1[MENUSPACENO]Nicht nutzen[BREAK][ENDCHOICES][END]
 354-17:@This operating table is so big that even a[BREAK]  Drago could fit on it.[END]
-354-17E:@Dieser OP-Tisch ist so groß, dass sogar ein[BREAK]  Drago drauf passen würde.[END]
+354-17E:@Der OP-Tisch ist so groß, dass sogar ein[BREAK]  Drago drauf passen würde.[END]
 354-18:@A robotic arm.[END]
-354-18E:@Ein Roboter-Arm.[END]
+354-18E:@Ein Roboterarm.[END]
 354-19:@There are so many huge machines lined up here[WAIT]  that it almost seems more like a construction[BREAK]  site than an operating room.[END]
-354-19E:@So viele Maschinen sind hier aneinander[BREAK]  gereiht, dass es mehr wie eine Baustelle als[WAIT]  ein OP-Saal aussieht.[END]
+354-19E:@Hier stehen so viele große Maschinen herum,[WAIT]  dass der Raum mehr wie eine Baustelle als[BREAK]  ein OP-Zimmer aussieht.[END]
 354-20:@Various tools are lined up here.[END]
 354-20E:@Verschiedene Werkzeuge liegen hier.[END]
 354-21:@Everything past here is top secret.[END]
-354-21E:@Alles hinter dieser Tür ist streng geheim.[END]
+354-21E:@Alles dahinter ist streng geheim.[END]
 354-22:@Haven't seen any monkeys come through here.[BREAK]  Have you checked the second floor?[END]
-354-22E:@Hab keine Affen gesehen, die hier durch gingen.[BREAK]  Hast du schon auf der zweiten Etage gesucht?[END]
+354-22E:@Hab keine Affen hier durchgehen sehen.[BREAK]  Hast du das 2. Stockwerk schon überprüft?[END]
 354-23:@Monkeys?[WAIT]@Yeah, some ran through this door, actually.[END]
-354-23E:@Affen?[WAIT]@Ja, ein paar sind tatsächlich durch diese Tür.[END]
+354-23E:@Affen?[WAIT]@Ja, es sind tatsächlich welche hier durch.[END]
 354-24:@...Why didn't I run after them, you ask?[END]
-354-24E:@...Warum ich ihnen nicht hinterher gerannt bin,[BREAK]  fragst du?[END]
+354-24E:@...Warum ich sie nicht verfolgt habe,[WAIT]  fragst du?[END]
 354-25:@...Ow...[BREAK]  Oww, oww...[WAIT]@M-my stomach, it pains me so.[WAIT]@Yeah, that Ultimate Chimera or Kimura or[BREAK]  whatever it's called....[WAIT]@I'd make quick work of it,[PAUSE 30 00] if only it weren't for[BREAK]  my aching stomach...[END]
-354-25E:@...Au...[BREAK]  Auu, auu...[WAIT]@M-mein Bauch, er tut so weh.[WAIT]@Ja, dieses Ultimative Chimera oder Kimura[BREAK]  oder wie auch immer es heißt...[WAIT]@Ich würde kurzen Prozess mit ihm machen,[PAUSE 30 00][BREAK]  wenn mein Bauch nur nicht so wehtun würde...[END]
+354-25E:@...Au...[BREAK]  Aua, auu...[WAIT]@M-mein Bauch, es tut so weh.[WAIT]@Ja, dieser Ultimative Chimera oder Kimura wie[BREAK]  auch immer es heißt.....[WAIT]@Ich würde kurzen Prozess mit ihm machen,[PAUSE 30 00][BREAK]  wenn nicht mein Bauch so wehtun würde...[END]
 354-26:@Like they say, you can't fight on an aching[BREAK]  stomach.[WAIT]@So I leave the rest to you! See ya![END]
-354-26E:@Man kann nicht mit scherzenden Bauch[BREAK]  kämpfen,wie man so schön sagt.[WAIT]@Also überlass ich es euch! Bis denne![END]
+354-26E:@Wie sagt man so schön:[BREAK]  Mit schmerzenden Magen kämpft man nicht.[WAIT]@Also überlasse ich das dir! Bis dann![END]
 354-27:@I opened that door, and it was standing like[BREAK]  RIGHT THERE.[WAIT]@Oh, man. This is too much for me to handle...[WAIT]@If that red one's out there, I'm just gonna[BREAK]  have to wait it out in the freezer room...[END]
-354-27E:@Ich hatte die Tür geöffnet, und er stand[BREAK]  DIREKT VOR MIR.[WAIT]@Oh, Mann. Ich komm nicht damit klar...[WAIT]@Wenn der Rote da draußen ist, werde ich[BREAK]  einfach im Gefrierraum warten...[END]
+354-27E:
 354-28:@Wait, that elevator goes to the basement?[WAIT]@Huh?[WAIT]@Then... what room is this again?[END]
-354-28E:@Warte, dieser Aufzug führt in den Keller?[WAIT]@Was?[WAIT]@Dann... was ist das dann für ein Raum?[END]
+354-28E:
 354-29:[END]
-354-29E:[END]
+354-29E:
 
 [Container 355]
 355-0:@This Drago has been frozen and encased in ice.[END]
-355-0E:@Dieser Drago ist gefroren und in Eis[BREAK]  eingeschlossen.[END]
+355-0E:
 355-1:@It's covered in frost.[WAIT]@There seems to be an animal encased in ice in[BREAK]  here.[END]
-355-1E:@Es ist voller Frost.[WAIT]@Ein Tier scheint hier in Eis eingeschlossen[BREAK]  zu sein.[END]
+355-1E:
 355-2:@It's so covered in frost that you can't see[BREAK]  what's inside.[END]
-355-2E:@Es ist so voller Frost. dass du nicht sehen[BREAK]  kannst, was drin ist.[END]
+355-2E:
 355-3:@Frigid air is blowing ceaselessly from this[BREAK]  machine.[WAIT]@It's so cold that someone could probably[BREAK]  freeze in here.[END]
-355-3E:@Eisige Luft wird ohne Ende von dieser[BREAK]  Maschine hineingeblasen.[WAIT]@Es ist so kalt, dass man hier tatsächlich[BREAK]  gefrieren könnte.[END]
+355-3E:
 355-4:@The doors on this cabinet are frozen shut.[END]
-355-4E:@Die Türen dieses Schranks sind fest gefroren.[END]
+355-4E:
 355-5:[END]
-355-5E:[END]
+355-5E:
 
 [Container 356]
 356-0:@You found a very old magazine.[WAIT]@Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-356-0E:@Du hast ein sehr altes Magazin gefunden.[WAIT]@Es lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+356-0E:
 356-1:@"My Secret Life,[PAUSE 20 00] chapter three."[WAIT]  (Story from the previous chapter.)[WAIT]@I was neither a murder suspect, nor a target[BREAK]  for an international spy organization.[WAIT]@But I drove a car down the Jersey Turnpike at[BREAK]  80 mph.[WAIT]@...A police officer pulled me over and asked for[BREAK]  my driver's license.[WAIT]@He said I was going 20 mph over the speed[BREAK]  limit.[WAIT]@I instantly pointed to my wife and said,[BREAK]  "I'm in a hurry,[PAUSE 20 00] my wife is in labor."[WAIT]@Fortunately,[PAUSE 20 00] my wife actually had a big[BREAK]  stomach.[WAIT]@I hoped he'd let me go with this excuse.[WAIT]@"Oh,[PAUSE 20 00] since it's an emergency.[WAIT]@I'll lead you to the hospital with my police car,"[PAUSE 20 00][BREAK]  he said.[WAIT]@"No,[PAUSE 20 00] it's not necessary."[PAUSE 24 00][BREAK]  "Why not?"[PAUSE 20 00] asked the officer.[WAIT]@"Uh...[PAUSE 20 00] well..."[PAUSE 2E 00][BREAK]  "Let's get going,"[PAUSE 20 00] said the officer...[WAIT]@<No,[PAUSE 20 00] no![PAUSE 20 00]  We can't![PAUSE 20 00][BREAK]  This baby is a demon child!"[END]
-356-1E:@"Mein geheimes Leben,[PAUSE 20 00] Kapitel drei"[WAIT]  (Geschichte von Kapitel zwei)[WAIT]@Ich war weder ein Mordverdächtigter, noch[BREAK]  das Ziel einer internationalen[WAIT]  Spionageorganisation.[WAIT]@Aber ich fuhr mit 80 km/h auf der[BREAK]  Jersey-Schnellstraße.[WAIT]@...Ein Polizist zog mich raus und fragte nach[BREAK]  meinem Führerschein.[WAIT]@Er sagte, dass ich 20 km/h über der[BREAK]  Geschwindigkeitsbegrenzung fuhr.[WAIT]@Ich zeigte sofort auf meine Frau und sagte:[WAIT]  "Ich habe es eilig, [PAUSE 20 00]meine Frau ist in den[BREAK]  Wehen."[WAIT]@Glücklicherweise[PAUSE 20 00] hatte meine Frau einen[BREAK]  großen Bauch.[WAIT]@Ich hoffte, er würde mich mit dieser Ausrede[BREAK]  gehen lassen.[WAIT]@"Oh,[PAUSE 20 00] da es ein Notfall ist, werde ich euch mit[BREAK]  meinem Polizeiauto zum Krankenhaus führen",[PAUSE 20 00][WAIT]  sagte er.[WAIT]@"Nicht doch,[PAUSE 20 00] das ist nicht notwendig."[PAUSE 24 00][BREAK]  "Warum nicht?",[PAUSE 20 00] fragte der Polizist.[WAIT]@*Ähm...[PAUSE 20 00] nun..."[PAUSE 2E 00][BREAK]  "Gehen wir",[PAUSE 20 00] sagte der Polizist...[WAIT]@<Nein,[PAUSE 20 00] nein![PAUSE 20 00]  Das dürfen wir nicht![PAUSE 20 00][BREAK]  Dieses Baby ist ein Dämonenkind!"[END]
+356-1E:
 356-2:@Good.[WAIT]@That may be the best choice.[END]
-356-2E:@Gut.[WAIT]@Das ist vielleicht die beste Wahl.[END]
+356-2E:
 356-3:@There's an old book here, titled[BREAK]  "Overcoming Shyness".[END]
-356-3E:@Hier liegt ein altes Buch mit dem Titel[BREAK]  "Wie man Schüchternheit bewältigt".[END]
+356-3E:
 356-4:@This box is filled with brand-new syringes and[BREAK]  the like.[END]
-356-4E:@Diese Box ist gefüllt mit brandneuen Spritzen[BREAK]  und ähnliches Zeug.[END]
+356-4E:
 356-5:@There are lots of hard-to-understand books[BREAK]  lined up here.[END]
-356-5E:@Ein Haufen schwer verständliche Bücher sind[BREAK]  hier aneinander gestellt.[END]
+356-5E:
 356-6:@Some animal food is sitting here.[WAIT]@Chimera-Chow[BREAK]  "Chimeras Go Straight For It!"[END]
-356-6E:@Etwas Tierfutter liegt hier.[WAIT]@Chimera-Futter[BREAK]  "Chimera fahren voll drauf ab!"[END]
+356-6E:
 356-7:@There are various documents in here.[END]
-356-7E:@Verschiedene Dokumente sind hier drin.[END]
+356-7E:
 
 [Container 357]
 357-0:@A bunch of filthy cloth has been placed in here.[END]
 357-0E:@Ein Haufen schmutziger Stoff wurde hier[BREAK]  hingelegt.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 357-1:@There's nothing in here.[END]
-357-1E:@Es ist leer.[END]
+357-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 357-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 357-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
@@ -13673,7 +13673,7 @@
 357-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 357-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-357-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+357-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 357-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 357-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
@@ -13715,7 +13715,7 @@
 357-18:@I was no match at all...[END]
 357-18E:@Ich hatte überhaupt keine Chance...[END]
 357-19:@When that red one's in the hallway, you gotta[BREAK]  hide in an elevator or room until it passes...[WAIT]@I knew all about that, and yet...[BREAK]@...Man, I'm so stupid![WAIT]  Stupid! Stupid! Stupid![WAIT]@Oww.[END]
-357-19E:@Wenn der Rote im Flur ist, musst du dich im[BREAK]  Aufzug verstecken, bis er weg ist...[WAIT]@Ich wusste das zwar alles, aber trotzdem...[BREAK]@...Mann, ich bin so dumm![WAIT]  Dumm! Dumm! Dumm![WAIT]@Auu.[END]
+357-19E:@Wenn der rote im Flur ist, musst du dich im[BREAK]  Aufzug verstecken, bis er weg ist...[WAIT]@Ich wusste das zwar alles, aber trotzdem...[BREAK]@...Mann, ich bin so dumm![WAIT]  Dumm! Dumm! Dumm![WAIT]@Auu.[END]
 357-20:@Let's see...[WAIT]  The next room over is the[PAUSE 24 00] specimen room.[WAIT]@And then... And then... And then...[BREAK]  Those stairs there[PAUSE 24 00] take you to the first floor...[WAIT]@And then... there's an elevator[PAUSE 24 00] in that room[BREAK]  over there, with the door open[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. I think?[WAIT]@Huh??[WAIT]@Now I'm all confused again...[WAIT]@But I think that's probably right.[WAIT]@Should I repeat all that?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 357-20E:@Mal schauen...[WAIT]  Der Raum da drüben ist das[PAUSE 24 00] Prüfungszimmer.[WAIT]@Und dann... Und dann... Und dann...[WAIT]  Die Treppen da drüben[PAUSE 24 00] bringen dich in die[BREAK]  erste Etage...[WAIT]@Und dann... ist ein Aufzug[PAUSE 24 00] in diesem Raum da[BREAK]  drüben, mit der offenen Tür[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. Glaube ich?[WAIT]@Was??[WAIT]@Jetzt bin ich total verwirrt...[WAIT]@Aber das müsste alles passen.[WAIT]@Soll ich es wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 357-20, 357-21
@@ -13736,7 +13736,7 @@
 357-26E:@Ein Haufen widerliche Wäsche ist da drin.[END]
 // Repeats: 347-2, 357-26
 357-27:@This locker is empty.[END]
-357-27E:@Der Spind ist leer.[END]
+357-27E:@Dieser Spind ist leer.[END]
 // Repeats: 347-1, 357-27
 
 [Container 358]
@@ -13760,7 +13760,7 @@
 360-0E:@Ein Haufen schmutziger Stoff wurde hier[BREAK]  hingelegt.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 360-1:@There's nothing in here.[END]
-360-1E:@Es ist leer.[END]
+360-1E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 360-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 360-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
@@ -13769,7 +13769,7 @@
 360-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 360-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-360-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+360-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 360-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 360-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
@@ -13808,9 +13808,9 @@
 360-16E:@Gerade richtig.[WAIT]@Ihr seid die Teilzeitarbeiter, richtig?[BREAK]@Dann sucht mit![WAIT]@Ein paar Affen sind verschwunden![END]
 // Repeats: 360-16, 361-0
 360-17:@I was just about to go home for today, but[BREAK]  now I hafta look for some stupid monkeys...[WAIT]@They are SO gonna get reconstructed if I get[BREAK]  my hands on 'em![END]
-360-17E:@Ich wollte gerade Feierabend machen,[WAIT]  aber jetzt muss ich nach diesen blöden Affen[BREAK]  suchen...[WAIT]@Die werden SOWAS von auseinanderge-[BREAK]  nommen, wenn ich sie in die Finger bekomme![END]
+360-17E:@Ich wollte grad Feierabend machen, und jetzt[BREAK]  muss ich nach diesen blöden Affen suchen...[WAIT]@Die werden SOWAS von auseinander-[BREAK]  genommen, wenn ich die in die Finger bekomm![END]
 360-18:@Oink...[END]
-360-18E:@Grunz...[END]
+360-18E:@Oink...[END]
 360-19:@Okay, here's the plan. I escape into a room[BREAK]  when the red one is waiting outside.[WAIT]@But if he's already standing in front of the[BREAK]  room I wanna go in,[WAIT]  I make a mad dash for the next room over[BREAK]  instead.[WAIT]@...Brilliant![WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
 360-19E:@Okay, hier ist der Plan. Ich fliehe in einen[BREAK]  Raum, wenn der rote draußen wartet.[WAIT]@Aber wenn er vor dem Raum steht, in den ich[BREAK]  rein will,[WAIT]  renne ich stattdessen in den[BREAK]  nächstbesten Raum.[WAIT]@...Brillant![WAIT]@Ich bin so schlau![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auja.[END]
 360-20:@There's a slot for money here.[WAIT]@Insert 150 DP?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -13847,13 +13847,13 @@
 
 [Container 363]
 363-0:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
-363-0E:@Hier steht eine große Maschine.[BREAK]  Wofür sie benutzt wird? Das weiß keiner.[END]
+363-0E:
 363-1:@A giant hippopotamus Chimera has been placed[BREAK]  here.[END]
-363-1E:@Ein riesiger Nilpferd-Chimera ist hier platziert[BREAK]  worden.[END]
+363-1E:
 363-2:@This here Chimera is, I believe, my best yet:[WAIT]  The Hippo-Launcher![WAIT]@Not even you guys could stand up to it.[END]
-363-2E:@Dieser Chimera hier ist, glaube ich:[WAIT]  Der Nilpferd-Werfer![WAIT]@Nicht einmal ihr hättet eine Chance dagegen.[END]
+363-2E:
 363-3:[END]
-363-3E:[END]
+363-3E:
 
 [Container 364]
 364-0:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
@@ -13863,13 +13863,13 @@
 364-1E:@*krächz* *krächz*![BREAK]  Ich bin nicht gestopft![WAIT]@Ich lebe![PAUSE 1E 00] Ich bin sehr viel am Leben,[BREAK]  verdammt nochmal![END]
 // Repeats: 126-10, 364-1
 364-2:@All kinds of mathematical formulas have been[BREAK]  scribbled here.[END]
-364-2E:@Jede Menge mathematische Formeln wurden[BREAK]  hierhin gekritzelt.[END]
+364-2E:@Jede Menge mathematische Formeln wurden[BREAK]  hierhin gekrizzelt.[END]
 364-3:@Various experimentation tools are lined up[BREAK]  here.[END]
-364-3E:@Verschiedene Experementierwerkzeuge.[END]
+364-3E:@Verschiedene Experimentierwerkzeuge stehen[BREAK]  hier nebeneinander.[END]
 364-4:@Various things are lined up in confusion here.[END]
-364-4E:@Verschiedene Dinge sind gänzlich planlos hier[BREAK]  aneinander gereiht.[END]
+364-4E:@Verschiedene Dinge wurden hier völlig[BREAK]  durcheinander hingelegt.]END]
 364-5:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
-364-5E:@Hier steht eine große Maschine.[BREAK]  Wofür sie benutzt wird? Das weiß keiner.[END]
+364-5E:@Hier steht eine große Maschine.[BREAK]  Wofür es benutzt wird, weiß kein Schwein.[END]
 
 [Container 365]
 365-0:[END]
@@ -13879,23 +13879,23 @@
 365-2:@(Even when stuffed, a frog is still a frog.)[END]
 365-2E:@Auch ausgestopft bleibt ein Frosch ein Frosch.)[END]
 365-3:@Some sort of competition trophy has been[BREAK]  placed here as decoration.[WAIT]@"Runner-up"[END]
-365-3E:@Irgendeine Wettstreit-Trophäe wurde zur Dekoration hierher gestellt.[WAIT]@"zweiter Sieger"[END]
+365-3E:@Irgendeine Wettkampftrophäe wurde hier zur[BREAK]  Dekoration aufgestellt.[WAIT]@"Vizemeister"[END]
 365-4:@A skull of a young Drago.[END]
-365-4E:@Ein Schädel eines jungen Dragos.[END]
+365-4E:@Der Schädel eines jungen Drago.[END]
 365-5:@Some bones. Who knows.[END]
-365-5E:@Ein paar Knochen. Wer weiß.[END]
+365-5E:@Ein paar Knochen. Wer weiß das schon.[END]
 365-6:@Mouse bones.[END]
-365-6E:@Mäuseknochen.[END]
+365-6E:@Mausknochen.[END]
 365-7:@Miscellaneous bones.[END]
 365-7E:@Andere Knochen.[END]
 365-8:@Various bones.[END]
 365-8E:@Verschiedene Knochen.[END]
 365-9:@A full [ENEMYNAME 6F 00] skeleton.[END]
-365-9E:@ komplette Skelett einer [ENEMYNAME 6F 00].[END]
+365-9E:@Ein komplette Skelett einer [ENEMYNAME 6F 00].[END]
 365-10:@A full [ENEMYNAME 78 00] skeleton.[END]
-365-10E:@Das komplette Skelett einer [ENEMYNAME 78 00].[END]
+365-10E:@Ein komplette Skelett einer [ENEMYNAME 78 00].[END]
 365-11:@A full [ENEMYNAME 61 00] skeleton.[END]
-365-11E:@Das komplette Skelett einer [ENEMYNAME 61 00].[END]
+365-11E:@Ein komplette Skelett einer [ENEMYNAME 61 00].[END]
 365-12:@A full Dragosaurus skeleton.[END]
 365-12E:@Ein komplettes Dragosaurus-Skelett.[END]
 365-13:@Look out!![END]
@@ -13909,17 +13909,17 @@
 365-17:@"The" one...?[WAIT]@You mean the red one with the huge mouth...?[END]
 365-17E:@"Der" eine...?[WAIT]@Meinst du etwa den roten mit den riesigen[BREAK]  Maul...?[END]
 365-18:@...Yeah.[END]
-365-18E:@...Ja.[END]
+365-18E:@...Ja,[END]
 365-19:@That thing means serious trouble.[END]
-365-19E:@Dieses Ding macht mächtig Ärger.[END]
+365-19E:@Dieses Ding macht pure Arbeit.[END]
 365-20:@Just standing here won't solve anything.[WAIT]@For now, let's hurry and seal the exits.[END]
-365-20E:@Aber einfach hier stehen zu bleiben, bringt uns[BREAK]  auch nicht weiter.[WAIT]@Wir müssen zuerst einmal schnell die[BREAK]  Ausgänge versiegeln.[END] 
+365-20E:@Aber einfach hier stehen zu bleiben, bringt uns[BREAK]  auch nicht weiter.[WAIT]@Wir müssen zuerst einmal schnell die[BREAK]  Ausgänge verschließen.[END] 
 365-21:@Watch yourselves, guys![END]
-365-21E:@Passt auf euch auf, Leute![END]
+365-21E:@Vorsicht, Leute![END]
 365-22:@Hey, cute part-timer.[WAIT]@There's actually one more that's still lurking[BREAK]  around here somewhere...[WAIT]@One that's WAY more dangerous than that one[BREAK]  just now...[END]
 365-22E:@Hey, süßer Teilzeitler.[WAIT]@Hier schleicht noch ein letzter hier irgendwo[BREAK]  rum...[WAIT]@Ein letzter, der VIEL gefährlicher ist als der[BREAK]  von gerade eben...[END]
 365-23:@If, while looking for the monkeys, you happen[BREAK]  to see a red thing with a gigantic mouth...[WAIT]  ...GET[PAUSE 20 00] THE HECK[PAUSE 20 00] OUT[PAUSE 20 00] OF[PAUSE 20 00] THERE![PAUSE 40 00][END]
-365-23E:@Wenn du, während du nach den Affen suchst,[WAIT]  zufällig ein rotes Ding mit einem gigantischem[BREAK]  Maul siehst...[WAIT]  ...MACH,[PAUSE 20 00] DASS[PAUSE 20 00] DU[PAUSE 20 00] WEG[PAUSE 20 00] KOMMST![PAUSE 40 00] [END]
+365-23E:@Wenn du, während du nach den Affen suchst,[BREAK]  ein rotes Ding mit einem riesigen Maul siehst...[WAIT]  ...BRING[PAUSE 20 00] DICH[PAUSE 20 00] IN[PAUSE 20 00] SICHERHEIT![PAUSE 20 00] SOFORT![PAUSE 40 00][END]
 365-24:@Listen. Pay close attention, now...[WAIT]@If you run into a red,[PAUSE 0C 00] huge-mouthed[PAUSE 0C 00] Chimera,[WAIT]  do absolutely[PAUSE 20 00] NOTHING[PAUSE 20 00] to it.[PAUSE 40 00][WAIT]@Got that?[WAIT][PAUSE 20 00]@I've warned you.[PAUSE 40 00][WAIT]@And, while I'm warning you like this,[WAIT]  I should add that it'd be even more dangerous[BREAK]  not to take the time out to talk with that frog.[END]
 365-24E:@Hör jetzt gut zu...[WAIT]@Wenn du auf einen roten, großmauligen[BREAK]  Chimera triffst.[WAIT]  Mach [PAUSE 20 00] ABSOLUT[PAUSE 20 00] nichts.[PAUSE 40 00][WAIT]@Verstanden?[WAIT][PAUSE 20 00]@Ich habe dich gewarnt.[PAUSE 40 00][WAIT]@Und während ich dich so warne, sollte ich hin-[BREAK]  zufügen, dass es noch viel gefährlicher wäre,[WAIT]  sich nicht die Zeit zu nehmen, mit diesem[BREAK]  Frosch zu reden.[END]
 365-25:@All right! Be careful, now![END]
@@ -13927,7 +13927,7 @@
 365-26:@Here, you can have this medicine.[WAIT]@It's the latest stuff.[WAIT]@All these medicines have such similar names[BREAK]  that I mix them up all the time.[END]
 365-26E:@Bitte sehr. Nimm diese Medizin.[WAIT]@Das ist der neueste Schrei.[WAIT]@Die Medizine haben so viele ähnliche Namen,[BREAK]  dass ich sie ständig verwechsel.[END]
 365-27:@Wha...?[BREAK]@Looks like you can't hold any more stuff.[END]
-365-27E:@Wa...?[BREAK]@Du scheinst nichts mehr tragen zu können.[END]
+365-27E:@Wa...?[BREAK]@Ihr scheint nichts mehr tragen zu können.[END]
 365-28:@I've been stuck inside the lab and out of[BREAK]  natural sunlight for so long[WAIT]  that I think it's starting to affect my health.[WAIT]@Actually, I think you guys could use some[BREAK]  sunlight and fresh air, too.[END]
 365-28E:@Ich stecke schon so lange in diesem Labor[BREAK]  und ohne Sonnenlicht fest,[WAIT]  dass ich anfange zu glauben, dass es meine[BREAK]  Gesundheit beeinflusst.[WAIT]@Um ehrlich zu sein, glaube ich,[WAIT]  dass ihr auch etwas Sonnenlicht und frische[BREAK]  Luft vertragen könntet.[END]
 365-29:@Regular Route[RIGHT][BREAK]  (But, you know, do whatever you want.)[END]
@@ -13935,17 +13935,17 @@
 
 [Container 366]
 366-0:@There are many unidentifiable objects here, all[BREAK]  preserved in formaldehyde.[END]
-366-0E:@Viele unidentifiezierbare Objekte sind hier,[BREAK]  alle in Methanal konserviert.[END]
+366-0E:
 366-1:@Full bodies of animals large and small are being[BREAK]  preserved in chemicals.[END]
-366-1E:@Ganze Körper von großen und kleinen Tieren[BREAK]  werden in Chemikalien konserviert.[END]
+366-1E:
 366-2:@You get the feeling that staying in here for too[BREAK]  long will make you lose your appetite.[END]
-366-2E:@Dich beschleicht das Gefühl, dass alle ihren[BREAK]  Appetit verlieren werden,[WAIT]  wenn du noch länger hier bleibst.[END]
+366-2E:
 366-3:@Everyone in [42 FF 00 00]'s party lost their[BREAK]  appetite.[END]
-366-3E:@Alle haben ihren Appetit verloren.[END]
+366-3E:
 366-4:@I know this is my job, but I really don't want to[BREAK]  stay in here for too long...[WAIT]@*bleeergh*[BREAK]@I lost my appetite again...[END]
-366-4E:@Ich weiß, dass es mein Job ist, aber ich möch-[BREAK]  te hier wirklich nicht zu lange bleiben...[WAIT]@*blöörgh*[BREAK]@Schon wieder...[END]
+366-4E:
 366-5:@I dunno what my partner's deal is. This place[BREAK]  doesn't bother me at all.[WAIT]@In fact, I even come in here to eat sometimes.[END]
-366-5E:@Ich hab' kene Ahnung, was mein Partner hat.[BREAK]  Dieser Ort stört mich gar nicht.[WAIT]@Ich esse sogar manchmal hier.[END]
+366-5E:
 
 [Container 367]
 367-0:@[ENEMYNAME F0 FF].[END]
@@ -13955,7 +13955,7 @@
 
 [Container 368]
 368-0:@Brain specimens of various animals are stored[BREAK]  here.[END]
-368-0E:@Gehirnproben verschiedener Tiere werden[BREAK]  hier gelagert.[END]
+368-0E:@Gehirnproben verschiedener Tiere werden hier[BREAK]  gelagert.[END]
 368-1:@The nervous systems of various animals are[BREAK]  being preserved in chemicals here.[END]
 368-1E:@Die Nervensysteme verschiedener Tiere sind[BREAK]  hier in Chemikalien konserviert.[END]
 
@@ -13973,7 +13973,7 @@
 369-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 369-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-369-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+369-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 369-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 369-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]
@@ -14021,7 +14021,7 @@
 370-1E:@Hier ist ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 369-16, 370-1
 370-2:@There's nothing in here.[END]
-370-2E:@Es ist leer.[END]
+370-2E:@Hier drin ist nichts.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 370-3:@A bunch of filthy cloth has been placed in here.[END]
 370-3E:@Ein Haufen schmutziger Stoff wurde hier[BREAK]  hingelegt.[END]
@@ -14801,162 +14801,162 @@
 
 [Container 386]
 386-0:@Ahead: Foot traffic only.[BREAK]  Pork Beans not allowed.[END]
-386-0E:@Voraus: Nur Fußverkehr.[BREAK]  Schweinebohnen nicht erlaubt.[END]
+386-0E:
 386-1:[ALTERNATEFONT]@this way.[END]
 386-1E:[ALTERNATEFONT]@lang hier.[END]
 // Repeats: 222-86, 386-1, 506-86
 386-2:[ALTERNATEFONT]@watching ceiling.[END]
-386-2E:[ALTERNATEFONT]@anschauen decke.[END]
+386-2E:
 386-3:[ALTERNATEFONT]@tears overflow.[END]
-386-3E:[ALTERNATEFONT]@trænen øberfließen.[END]
+386-3E:
 386-4:@The construction here has been left unfinished.[END]
-386-4E:@Der Bau hier wurde unfertig verlassen.[END]
+386-4E:
 386-5:[END]
-386-5E:[END]
+386-5E:
 
 [Container 388]
 388-0:@Something that looks like a lotus root is[BREAK]  blocking the path.[END]
-388-0E:@Etwas, was wie eine Lotuswurzel aussieht,[BREAK]  blockiert den Weg.[END]
+388-0E:
 388-1:@*mumble* *mumble*[END]
-388-1E:@*knabber* *knabber*[END]
+388-1E:
 388-2:@Oh, glad to see you didn't wimp out on me.[WAIT]@This here is our elder.[WAIT]@I've asked him to be the judge for our match[BREAK]  today.[WAIT]@If you try to run away or do anything cheap,[BREAK]  neither of us'll sit by quietly...[WAIT]  Just so you know.[WAIT][PAUSE 1E 00]@Anyways, I've got special rules for our match.[WAIT]@If, by some chance, an outcome isn't reached[BREAK]  after 10 minutes have passed,[WAIT]  we'll go to overtime, which'll last five more[BREAK]  minutes.[WAIT]@And if a conclusion still isn't reached after[BREAK]  that, our elder'll decide who the winner is.[WAIT][PAUSE 1E 00]@Elder. Is there anything you'd like to add?[END]
-388-2E:@Oh, wie schön, dass du nicht vor mir kneifst.[WAIT]@Das ist unser Ältester.[WAIT]@Ich habe ihn gebeten, unser Richter für das[BREAK]  heutigen Match zu sein.[WAIT]@Wenn du versuchst wegzurennen oder[BREAK]  irgendwas unfaires zu machen,[WAIT]  wird keiner von uns nur tatenlos zusehen...[WAIT]  Nur damit du's weißt.[WAIT][PAUSE 1E 00]@Wie auch immer, ich habe mir besondere[BREAK]  Regeln für unser Match ausgedacht.[WAIT]@Wenn, aus welchem Grund auch immer, nach[BREAK]  zehn Minuten kein Ergebnis feststeht,[WAIT]  gehen wir in die Verlängerung und schauen,[BREAK]  wer noch fünf weitere Minuten durchhält.[WAIT]@Und wenn dann immer noch kein Sieger fest-[BREAK]  steht, wird unser Ältester entscheiden,[WAIT]  wer der Gewinner ist.[WAIT][PAUSE 1E 00]@Ältester, möchtest du noch irgendwas[BREAK]  hinzufügen?[END]
+388-2E:
 388-3:@Wait.[PAUSE 30 00] You folks are truly, seriously going to[BREAK]  fight him?[WAIT]@Take my advice.[WAIT]@Sometimes, the bravest thing to do is to run[BREAK]  away.[WAIT][PAUSE 3C 00]@...But you insist on it?[WAIT]@In that case, I won't stop you.[END]
-388-3E:@Warte.[PAUSE 30 00] Ihr Leute wollt absolut, wirklich gegen[BREAK]  ihn kämpfen?[WAIT]@Ich habe einen Tipp.[WAIT]@Manchmal ist fliehen die beste Wahl.[WAIT][PAUSE 3C 00]@...Aber, ihr besteht darauf?[WAIT]@Wenn das so ist, werde ich euch nicht länger[BREAK]  aufhalten.[END]
+388-3E:
 388-4:@Now do you realize the strength of the mole[BREAK]  cricket?![WAIT]@Huh?[WAIT]@Wait a minute! Don't tell me you got wiped out[BREAK]  on purpose?![WAIT]@Fight me seriously! C'mon, gimme your best[BREAK]  shot![WAIT]@Are you ready?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-4E:@Siehst du jetzt die wahre Stärke der[BREAK]  Maulwurfsgrille?![WAIT]@Was?[WAIT]@Warte mal! Sag mir nicht, dass du dich[BREAK]  absichtlich besiegt hast lassen?![WAIT]@Kämpfe ernsthaft! Komm schon, zeig' was du[BREAK]  drauf hast![WAIT]@Bist du bereit?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-4E:
 388-5:@You ready to do this thing?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-5E:@Bist du bereit?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-5E:
 388-6:@Too bad! Quit complaining![WAIT]@The bell has rung![END]
-388-6E:@Wie schade! Hör auf zu quengeln![WAIT]@Die Glocke hat geschlagen![END]
+388-6E:
 388-7:@Alright! I guess you have no care for your own[BREAK]  life![WAIT]@The bell has rung![END]
-388-7E:@Alles klar! Dir ist dein Leben wohl völlig egal![WAIT]@Die Glocke hat geschlagen![END]
+388-7E:
 388-8:@That's enough! That's enough! We give up![WAIT]@To think that such a mighty mole cricket[BREAK]  warrior could be so easily defeated...[WAIT]@Perhaps mole crickets aren't so powerful[BREAK]  after all...[WAIT]@I'll meditate on what else this means at a later[BREAK]  time.[WAIT]@But, for now, the match is over.[PAUSE 20 00][WAIT]@I suppose the traditional thing to do now is be[BREAK]  on good terms with you.[WAIT]@So let's be friends.[WAIT]@Is there anything you need?[END]
-388-8E:@Das reicht! Das reicht! Wir geben auf![WAIT]@Dass so ein starker Maulwurfsgrillen-Krieger[BREAK]  so leicht besiegt werden würde...[WAIT]@Vielleicht sind Maulwurfsgrillen doch nicht so[BREAK]  stark...[WAIT]@Ich werde mir später Gedanken machen, was[BREAK]  das sonst noch bedeutet.[WAIT]@Aber das Match ist hiermit vorbei.[PAUSE 20 00][WAIT]@Ich glaube, wir sollten uns nicht mit euch[BREAK]  anlegen.[WAIT]@Also, lasst uns Freunde sein.[WAIT]@Gibt es etwas, das du brauchst?[END]
+388-8E:
 388-9:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-9E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir suchen nach ihnen.[END]
+388-9E:
 388-10:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-10E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir suchen nach ihnen.[END]
+388-10E:
 388-11:@...Come again?[WAIT]@You're searching for Needles said to be sealing[BREAK]  away the Dark Dragon?[END]
-388-11E:@...Wie bitte?[WAIT]@Du suchst nach Nadeln, die den Schwarzen[BREAK]  Drachen versiegeln sollen?[END]
+388-11E:
 388-12:@We mole crickets aren't very knowledgeable[BREAK]  creatures.[WAIT]@But, call it a hunch, I think there could be a[BREAK]  clue to these mysterious objects[WAIT]  on the mountain on the far end of this mole[BREAK]  cricket hole.[WAIT]@I figure that's what the elder wants to say,[BREAK]  too.[WAIT]@He's hard to read sometimes, though.[END]
-388-12E:@Wir Maulwurfsgrillen sind keine sehr schlauen[BREAK]  Wesen.[WAIT]@Aber, es ist nur so ein Gefühl, ich glaube, dass[BREAK]  diese mysteriösen Objekte auf dem Berg[WAIT]  ganz am Ende des Maulwurfsgrillenlochs[BREAK]  etwas damit zu tun haben könnten.[WAIT]@Ich glaube, das ist, was der Älteste sagen[BREAK]  möchte.[WAIT]@Es ist manchmal ziemlich schwer ihn zu[BREAK]  verstehen.[END]
+388-12E:
 388-13:@Yes. I agree.[WAIT]@The mountain![WAIT]@Go through this mole cricket hole and head up[BREAK]  the mountain![WAIT]@I'm certain that's what you must do![END]
-388-13E:@Ja, ich stimme zu.[WAIT]@Der Berg![WAIT]@Geh durch das Maulwurfsgrillenloch und geh[BREAK]  den Berg rauf![WAIT]@Ich bin mir sicher, dass du das machen musst![END]
+388-13E:
 388-14:@The mountain, huh...[WAIT]@We don't have any other leads to follow up on,[BREAK]  so let's check it out.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
-388-14E:@Der Berg, wie...[WAIT]@Wir haben keine ander'n Hinweise, denen wir[BREAK]  folg'n können, also schau'n wir's uns an.[WAIT]@Oh, hey.[WAIT]@Ihr Kerle wisst aber nix über den Schwarzen[BREAK]  Drachen selbst oder?[END]
+388-14E:
 388-15:@The mountain, huh...[WAIT]@Let's check it out, then.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
-388-15E:@Der Berg, wie...[WAIT]@Also, schau'n wir's uns an.[WAIT]@Oh, hey.[WAIT]@Ihr Kerle wisst aber nix über den Schwarzen[BREAK]  Drachen selbst oder?[END]
+388-15E:
 388-16:@...Come again?[WAIT]  Do we know anything about the Dark Dragon?[END]
-388-16E:@...Wie bitte?[WAIT]  Wissen wir etwas über den Schwarzen[BREAK]  Drachen?[END]
+388-16E:
 388-17:@Sadly, we don't.[WAIT]@We really are just mole crickets.[WAIT]@Even though he's our elder, he's still just a[BREAK]  mole cricket, too.[WAIT]@We have no real strength at all... It's a pity.[WAIT]@The very least we can do...[WAIT]  ...is help you by eating the lotus roots blocking[BREAK]  your way, and other things like that.[WAIT][PAUSE 1E 00]@Wow... A dragon...[PAUSE 0F 00][BREAK]  I bet it's really incredible...[END]
-388-17E:@Leider tun wir das nicht.[WAIT]@Wir sind lediglich Maulwurfsgrillen.[WAIT]@Auch wenn er unser Ältester ist, ist er[BREAK]  trotzdem immer noch eine Maulwurfsgrille.[WAIT]@Wir besitzen keine echte Stärke...[BREAK]  Es ist erbärmlich.[WAIT]@Das Einzige, das wir tun können...[WAIT]  ...ist, die Lotuswurzeln zu fressen, die deinen[BREAK]  Weg blockieren, und so Sachen.[WAIT][PAUSE 1E 00]@Wow... Ein Drache...[PAUSE 0F 00][BREAK]  Der muss atemberaubend sein...[END]
+388-17E:
 388-18:@It must be incredible, indeed.[WAIT]@I've learned so much today.[WAIT]@A dragon that sleeps underground, needles[BREAK]  that seal it away, us being surprisingly weak...[WAIT]@Living a long life is worth it.[WAIT]@Do you suppose you could tell us mole crickets[BREAK]  about even more things?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-18E:@Er muss wirklich atemberaubend sein.[WAIT]@Ich habe heute so viel gelernt.[WAIT]@Ein Drache, der unter der Erde schläft,[BREAK]  Nadeln, die ihn versiegeln,[WAIT]  dass wir überraschend schwach sind...[WAIT]@Es ist es wert, lange zu leben.[WAIT]@Denkst du, du könntest uns Maulwurfsgrillen[BREAK]  noch mehr Dinge erzählen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-18E:
 388-19:@Thanks.[WAIT]@We'll try not to be too much of a bother,[WAIT][PAUSE 20 00]  so please raise us to be great.[END]
-388-19E:@Danke.[WAIT]@Wir werden versuchen, dich nicht allzu sehr zu[BREAK]  stören,[WAIT][PAUSE 20 00]  also mach uns bitte zu etwas Großartigem.[END]
+388-19E:
 388-20:@I see. I figured you might say that.[WAIT]@I guess we'll try to learn about all sorts of[BREAK]  things as we study you from afar, then.[WAIT]  I hope that's all right.[END]
-388-20E:@Ich verstehe. Das dachte ich mir schon.[WAIT]@Ich glaube, wir werden auch viele Dinge erfah-[BREAK] ren, wenn wir dich vom Weitem beobachten.[WAIT]  Ich hoffe, das ist in Ordnung.[END]
+388-20E:
 388-21:@To start off, I'm thinking of starting a business[BREAK]  in our own unique, mole cricket way.[WAIT]@Please stop by if you ever happen to see us![END]
-388-21E:@Zum Start denke ich an die Gründung eines[BREAK]  Unternehmens ganz nach unserer eigenen,[WAIT]  einzigartigen Maulwurfsgrillen-Art.[WAIT]@Bitte schau vorbei, wenn du uns siehst![END]
+388-21E:
 388-22:@Oh, yeah.[EVENT][END]
-388-22E:@Auf geht's.[EVENT][END]
+388-22E:
 388-23:@If you're gonna go through this mole cricket[BREAK]  hole, you should take my little bro with you.[WAIT]@He's little, but he's a tough one.[WAIT]@You can treat him just like any other item.[WAIT][PAUSE 0F 00]@Hey! Little bro! C'mere![END]
-388-23E:@Wenn du durch dieses Maulwurfsgrillenloch[BREAK]  gehst,[WAIT]  sollteste meinen kleinen Bruder mitnehm'n.[WAIT]@Er is' zwar klein, aber 'n ganz krasser Junge.[WAIT]@Du kannst ihn wie jedes and're Item behand'ln.[WAIT][PAUSE 0F 00]@Hey! Kleiner! Hierher![END]
+388-23E:
 388-24:@Received the [ITEM B8 00]![PAUSE 40 00][END]
-388-24E:@[ITEM B8 00] erhalten![PAUSE 40 00][END]
+388-24E:
 388-25:@If you get lost in this mole cricket hole,[WAIT]  just ask my little bro for help and he'll bring[BREAK]  you straight back here.[WAIT][PAUSE 0F 00]@Right, little bro?[WAIT]@...C'mon, bro! Get your act together![WAIT]@The bad news is he's kinda lame and hates the[BREAK]  sunlight more than anything else in the world.[WAIT]@So be careful. You can't take him with you[BREAK]  outside the mole cricket hole.[WAIT][PAUSE 1E 00]@...Right, little bro?![END]
-388-25E:@Falls du dich in der Höhle verlauf'n solltest,[BREAK]  kannste einfach meinen kleinen Bruder frag'n[WAIT]  und der wird dich hierher zurück bring'n.[WAIT][PAUSE 0F 00]@Nich' wahr, kleiner Bruder?[WAIT]@...Komm schon, Bruder! Reiß dich zusammen![WAIT]@Die schlechte Nachricht ist, dass er langweilig[BREAK]  ist und das Sonnenlicht abgrundtief hasst.[WAIT]@Also sei vorsichtig. Du kannst ihn nicht mit[BREAK]  aus der Höhle nehmen.[WAIT][PAUSE 1E 00]@...Nicht wahr, kleiner Bruder?![END]
+388-25E:
 388-26:@Oh, it looks like your inventory's full.[BREAK]  I guess you can't take my little bro with you.[END]
-388-26E:@Oh, dein Inventar scheint voll zu sein.[WAIT]  Dann kannste meinen kle'nen Bruder wohl[BREAK]  nich' mitnehmen.[END]
+388-26E:
 388-27:@*mumble* *mumble* *murmur*...[BREAK]  What wonderful times![END]
-388-27E:@*knabber* *knabber* *schmatz*...[BREAK]  Was tolle Zeiten![END]
+388-27E:
 388-28:@After meeting you guys, the elder's suddenly[BREAK]  full of life and enthusiastically asleep.[END]
-388-28E:@Nachdem der Älteste euch getroffen hatte,[WAIT]  ist er plötzlich total energiegeladen und[BREAK]  enthusiastisch am Schlafen.[END]
+388-28E:
 388-29:@Our elder knows everything.[WAIT]@Our elder has many acquaintances.[END]
-388-29E:@Unser Ältester weiß alles.[WAIT]@Unser Ältester hat viele Bekannte.[END]
+388-29E:
 388-30:@We're mole crickets.[WAIT]@We dig holes and live in them.[WAIT][PAUSE 1E 00]@We're exceptionally proud.[END]
-388-30E:@Wir sind Maulwurfsgrillen.[WAIT]@Wir graben Löcher und leben in ihnen.[WAIT][PAUSE 1E 00]@Wir sind überdurchschnittlich stolz.[END]
+388-30E:
 388-31:@We are Mr. Mole Crickets.[WAIT]@We dig holes and live in them,[PAUSE 2E 00] but we're very[BREAK]  humble.[END]
-388-31E:@Wir sind Gentlemen Maulwurfsgrillen.[WAIT]@Wir graben Löcher und leben in ihnen,[PAUSE 2E 00] aber wir[BREAK]  sind sehr bescheiden.[END]
+388-31E:
 388-32:@Mole crickets know everything.[WAIT]@Just about everything ever.[WAIT]@Like how to dig holes and how to win fights.[END]
-388-32E:@Maulwurfsgrillen wissen alles.[WAIT]@Absolut alles.[WAIT]@Zum Beispiel, wie man Löcher gräbt und[BREAK]  Kämpfe gewinnt.[END]
+388-32E:
 388-33:@Lotus root-things are yum.[WAIT]@Even their holes are yum.[END]
-388-33E:@Lotuswurzel-Dingsens sind lecker.[WAIT]@Sogar ihre Löcher sind lecker.[END]
+388-33E:
 388-34:@This mole cricket hole is reallllly big, you know.[WAIT]@You're gonna get bored fast if you don't do[BREAK]  pointless chit-chat with us.[END]
-388-34E:@Diese Maulwurfsgrillenhöhle ist seeeeehr groß,[BREAK]  weißt du.[WAIT]@Dir wird schnell langweilig werden, wenn du[BREAK]  keinen sinnlosen Small-Talk mit uns führst.[END]
+388-34E:
 388-35:@Whenever there's a turn, turn.[WAIT]@Always turn.[WAIT]@Absolutely turn.[WAIT]@That's the trick to getting through this mole[BREAK]  cricket hole.[END]
-388-35E:@Immer wenn es eine Wegbiegung gibt, bieg ab.[WAIT]@Bieg immer ab.[WAIT]@Absolut immer abbiegen.[WAIT]@Das ist der ganze Trick, um durch diese Höhle[BREAK]  zu kommen.[END]
+388-35E:
 388-36:@Here, I'll give you this unbelievably accurate[BREAK]  yet unhelpful map.[END]
-388-36E:@Hier, ich gebe dir diese unglaublich genaue und[BREAK]  doch nicht hilfreiche Karte.[END]
+388-36E:
 388-37:@*crawl* *crawl*[WAIT]@I'm the only green save mole cricket in the[BREAK]  whole world.[WAIT]@The frogs have given me their permission to[BREAK]  save games here, so I'm in charge of that.[WAIT]@So, will you save your game?[WAIT]@Oooh! This is so exciting![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-37E:@*krabbel* *krabbel*[WAIT]@Ich bin die einzige grüne Speicher-Maulwurfs-[BREAK]  grille auf der ganzen Welt.[WAIT]@Die Frösche haben mir ihre Erlaubnis gegeben[BREAK]  hier Spiele speichern zu dürfen.[WAIT]@Also, möchtest du dein Spiel speichern?[WAIT]@Oooh! Das ist so aufregend![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-37E:
 388-38:@*crawl* *crawl*[WAIT]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-38E:@*krabbel* *krabbel*[WAIT]  Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-38E:
 388-39:@Thank you![WAIT]@I'm so happy you believed me![WAIT]@I'll work hard to save your game juuuust right![END]
-388-39E:@Danke![WAIT]@Ich bin so froh, dass an mich geglaubt hast![WAIT]@Ich arbeite hart, um dein Spiel genau richtig[BREAK]  zu speichern![END]
+388-39E:
 388-40:@Yeah... You're right.[WAIT]@Only frogs can save games...[BREAK]  Anything else is just a cheap imitation.[WAIT]@I guess that's one way to think about it...[WAIT]@It's not much,[PAUSE 20 00] but I feel a little rejected.[END]
-388-40E:@Ja... Du hast recht.[WAIT]@Nur Frösche können Spiele speichern...[BREAK]  Alles andere ist bloß eine billige Imitierung.[WAIT]@So kann man es auch sehen...[WAIT]@Es ist zwar nicht viel,[PAUSE 20 00] aber ich fühle mich ein[BREAK]  bisschen abgelehnt.[END]
+388-40E:
 388-41:@Please take care![END]
-388-41E:@Bitte pass auf dich auf![END]
+388-41E:
 388-42:@Give my regards to the next frog you meet![END]
-388-42E:@Grüße den nächsten Frosch von mir![END]
+388-42E:
 388-43:@Now on sale![WAIT]@The Mole Cricket Hole's famous Sincerity[BREAK]  Dumplings![WAIT]@Whether they sell or not,[WAIT]  I make them every day and set them out so I[BREAK]  can practice conducting business.[WAIT]@I have some super-fresh ones today, too![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-388-43E:@Jetzt im Angebot![WAIT]@Die berühmten Aufrichtigkeits-Klöße der[BREAK]  Maulwurfsgrillenhöhle![WAIT]@Ob sie sich verkaufen oder nicht,[WAIT]  ich mache jeden Tag neue und stelle sie aus,[BREAK]  damit ich Geschäfte führen üben kann.[WAIT]@Auch heute habe ich ein paar superfrische![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+388-43E:
 388-44:@I understand. This is helping me learn a lot.[WAIT]@You're right, though. They may be sincere, but[BREAK]  they're not very tasty.[END]
-388-44E:@Ich verstehe. Ich lerne dadurch viel.[WAIT]@Du hast aber recht. Sie sind vielleicht[BREAK]  aufrichtig, aber nicht sehr schmackhaft.[END]
+388-44E:
 388-45:@Now on sale! Elder approved![WAIT]@Made fresh daily![WAIT]@Only the most honest of the honest make[BREAK]  these Sincerity Dumplings![END]
-388-45E:@Jetzt im Angebot! Vom Ältesten empfohlen![WAIT]@Jeden Tag frisch gemacht![WAIT]@Nur die ehrlichsten der ehrlichsten machen[BREAK]  diese Aufrichtigkeits-Klöße![END]
+388-45E:
 
 [Container 389]
 389-0:@You want to get to what's on the other end of[BREAK]  this mole cricket hole?[WAIT]@Everything over there is mysterious for some[BREAK]  reason.[WAIT]@I'm not brave at all, so I'm too scared to go.[END]
-389-0E:@Du möchtest ans andere Ende der[BREAK]  Maulwurfgrillenhöhle?[WAIT]@Alles dort drüben ist irgendwie so mysteriös.[WAIT]@Ich bin überhaupt nicht mutig. Deshalb gehe[BREAK]  ich dort auch nicht hin.[END]
+389-0E:
 389-1:@If there's a turn, turn. Even if you don't want[BREAK]  to.[WAIT]@Do that, and you'll eventually reach the other[BREAK]  end of this mole cricket hole.[WAIT]@Have faith in yourself, and proceed[PAUSE 2E 00] NOT[BREAK]  straight ahead![WAIT]@Time for another song![WAIT]  [NOTE] It's a twisty, turny road [NOTE][WAIT]  [NOTE] but it's not the path I chose [NOTE][WAIT]  [NOTE] But don't complain, just grin and bear it [NOTE][WAIT]  [NOTE] as you go down that twisty, turny road [NOTE][WAIT]  [NOTE] It's not the path I chose [NOTE][WAIT]  [NOTE] Who did choose it, I wonder [NOTE][END]
-389-1E:@Wenn es eine Abbiegung gibt, bieg ab.[BREAK]  Auch wenn du es nicht willst.[WAIT]@Tu das, und du wirst irgendwann auf die[BREAK]  andere Seite der Höhle kommen.[WAIT]@Glaub an dich, und fahre[PAUSE 2E 00] NICHT direkt fort![WAIT]@Zeit für ein weiteres Lied![WAIT]  [NOTE] Es ist ein verzwickter, wendiger Weg [NOTE][WAIT]  [NOTE] aber es ist nicht der Weg, den ich gewählt[BREAK]      habe [NOTE][WAIT]  [NOTE] Aber beschwer dich nicht, lächel einfach[BREAK]     und ertrage es [NOTE][WAIT]  [NOTE] Es ist nicht der Weg, den ich gewählt habe [NOTE][WAIT]  [NOTE] Wer hat ihn gewählt, frage ich mich [NOTE][END]
+389-1E:
 389-2:@It's so rare to meet non-mole crickets.[WAIT]@Could you let me bite you real quick?[WAIT]@If not, could you let me lick you instead?[WAIT]@No? Oh, well.[END]
-389-2E:@Es kommt so selten vor, nicht-Maulwurfsgrillen[BREAK]  zu treffen.[WAIT]@Dürfte ich euch mal anknabbern?[WAIT]@Wenn nicht, könnte ich euch stattdessen[BREAK]  ablecken?[WAIT]@Nein? Na gut.[END]
+389-2E:
 389-3:@You went out of your way to come talk to me?[WAIT]@Even when you could've lost your way?[WAIT]@You make me so happy I wanna cry...[END]
-389-3E:@Du hast dir die Mühe gemacht, mit mir zu[BREAK]  reden?[WAIT]@Auch wenn du damit den richtigen Weg[BREAK]  verlieren könntest?[WAIT]@Du machst mich so glücklich, dass ich am[BREAK]  liebsten heulen würde...[END]
+389-3E:
 389-4:@Whenever there's a turn, be SURE you turn![WAIT]@No matter what happens, turn at every turn![WAIT]@Do that, and you'll never get lost![END]
-389-4E:@Immer wenn es eine Abbiegung gibt, bieg[BREAK]  IMMER ab![WAIT]@Egal was passiert, bieg bei jeder Abbiegung ab![WAIT]@Tu das, und du wirst dich nie mehr verlaufen![END]
+389-4E:
 389-5:[END]
-389-5E:[END]
+389-5E:
 
 [Container 391]
 391-0:[END]
-391-0E:[END]
+391-0E:
 391-1:[END]
-391-1E:[END]
+391-1E:
 
 [Container 392]
 392-0:[END]
-392-0E:[END]
+392-0E:
 392-1:[END]
-392-1E:[END]
+392-1E:
 
 [Container 393]
 393-0:[END]
-393-0E:[END]
+393-0E:
 393-1:[END]
-393-1E:[END]
+393-1E:
 
 [Container 394]
 394-0:[END]
-394-0E:[END]
+394-0E:
 394-1:[END]
-394-1E:[END]
+394-1E:
 
 [Container 395]
 395-0:[END]
-395-0E:[END]
+395-0E:
 395-1:[END]
-395-1E:[END]
+395-1E:
 
 [Container 398]
 398-0:@Squeak![WAIT]  (Huh?! Oh, okay! I'll go home right now![WAIT]  By the way, I'm pretty sure none of my[BREAK]  brothers went past this tunnel.)[END]
-398-0E:@Quietsch![WAIT]  (Was?! Oh, okay! Ich werde sofort nach Hause[BREAK]  gehen![WAIT]  Übrigens bin ich mir ziemlich sicher, dass kei-[BREAK]  ner meiner Brüder duch diesen Tunnel gingen.)[END]
+398-0E:
 398-1:[END]
-398-1E:[END]
+398-1E:
 
 [Container 399]
 399-0:@Squeeeark![WAIT]  (Ahh! You found me![WAIT]  And I was so proud of the fact I'd never lost a[BREAK]  game of one-player hide-and-go-seek before...[WAIT]  Huh? My mom's calling for me?[WAIT]  Well, I better go home, then! Bye-bye!)[END]
@@ -16958,19 +16958,19 @@
 506-76E:@Die Fernbedienung scheint auf die Tür zu[BREAK]  reagieren.[WAIT]@Den Knopf auf der Fernbedienung drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 222-76, 506-76, 507-4
 506-77:@Grape.[BREAK]  (Extra lines have been engraved by vandals...)[END]
-506-77E:@Grape.[BREAK]  (Extra lines have been engraved by vandals...)[END]
+506-77E:
 // Repeats: 222-77, 506-77
 506-78:@As a young boy, Scamp loved to scamper[BREAK]  about, to-and-fro.[WAIT]  This is how he earned the nickname "Scamp",[BREAK]  the name he went by until the age of 99.[WAIT]  May he rest here in peace.[END]
-506-78E:@Als junger Mann, liebte Schuft es hin und her[BREAK]  zu pfuschen.[WAIT]  So hatte er den Nicknamen "Schuft" erhalten,[BREAK]  den er bis zum Alter von 99 behalten hatte.[WAIT]  Möge er in Frieden ruhen.[END]
+506-78E:
 // Repeats: 222-78, 506-78
 506-79:@Poor Mr. Nippolyte.[WAIT]@Apparently, lightning struck his house 14[BREAK]  times over the course of three years.[END]
-506-79E:@Armer Herr Nippolyte.[WAIT]@Scheinbar wurde sein Haus im Verlaufe der[BREAK]  letzten drei Jahre 14 Mal vom Blitz getroffen.[END]
+506-79E:
 // Repeats: 222-79, 506-79
 506-80:@Oh, [LUCAS 23 02 00].[WAIT]@Your old man's always visiting[BREAK]  [HINAWA 22 08 00]'s grave.[END]
-506-80E:@Oh, [LUCAS 23 02 00].[WAIT]@Dein Alter besucht immer das Grab von[BREAK]  [HINAWA 22 08 00].[END]
+506-80E:
 // Repeats: 222-80, 506-80
 506-81:@It's been mercilessly destroyed.[END]
-506-81E:@Es wurde rücksichtslos zerstört.[END]
+506-81E:
 // Repeats: 222-81, 506-81
 506-82:@Woof woof![END]
 506-82E:@Wuff wuff![END]
@@ -16979,26 +16979,26 @@
 506-83E:@Wau wau wau wau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 506-84:@This is the white, metal box you rode here[BREAK]  from Schneekronenberg.[END]
-506-84E:@Das ist die weiße Metallbox, mit der du vom[BREAK]  Schneekronenberg gekommen bist.[END]
+506-84E:
 // Repeats: 222-84, 506-84
 506-85:@There's a jar here that's too hard to ignore.[WAIT]@Inside it is a letter. Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-506-85E:@Da ist eine Flasche, die man nicht leicht[BREAK]  übersehen kann.[WAIT]@Da drin ist ein Brief. Lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+506-85E:
 // Repeats: 222-85, 506-85
 506-86:[ALTERNATEFONT]@this way.[END]
 506-86E:[ALTERNATEFONT]@lang hier.[END]
 // Repeats: 222-86, 386-1, 506-86
 506-87:@The jar looks sad.[END]
-506-87E:@Die Flasche sieht traurig aus.[END]
+506-87E:
 // Repeats: 222-87, 506-87
 506-88:@The remnants of my humble abode.[BREAK]  NO TOURISTS[END]
-506-88E:@Die Überreste meiner bescheidenen Bleibe.[BREAK]  TOURISTEN VERBOTEN[END]
+506-88E:
 // Repeats: 222-88, 506-88
 506-89:@This is one of the pigs' vehicles.[WAIT]@It's probably best to not touch it.[END]
 506-89E:
 506-90:[ALTERNATEFONT]@attacked.[WAIT]@very bad.[WAIT]@come to thunder[BREAK]  area.[WAIT]@thanks thanks.[END]
-506-90E:[ALTERNATEFONT]@angegriffen.[WAIT]@sehr schlimm.[WAIT]@kommen zum[BREAK]  donnerort.[WAIT]@danke danke.[END]
+506-90E:
 506-91:[ALTERNATEFONT]@this is[BREAK]  "this vehicle".[WAIT]@made pig one better.[WAIT]@use as you please.[BREAK]  bathroom.[END]
-506-91E:[ALTERNATEFONT]@das ist "dieses[BREAK]  fahrzeug".[WAIT]@gemacht schwein[BREAK]  eins besser.[WAIT]@nutzen, wie du[BREAK]  wollen.[WAIT]  toilette.[END]
+506-91E:
 
 [Container 507]
 507-0:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
@@ -17017,7 +17017,7 @@
 507-4E:@Die Fernbedienung scheint auf die Tür zu[BREAK]  reagieren.[WAIT]@Den Knopf auf der Fernbedienung drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 222-76, 506-76, 507-4
 507-5:[END]
-507-5E:[END]
+507-5E:
 
 [Container 509]
 509-0:@[42 FF 00 00] opened the present.[EVENT][END]
@@ -17042,7 +17042,7 @@
 509-6E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber [81 FF] kann keine Sachen mehr tragen.[END]
 // Repeats: 39-6, 509-6
 509-7:[END]
-509-7E:[END]
+509-7E:
 
 [Container 551]
 551-0:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@Are you here at the factory for something?[WAIT]@If you feel like working, I'm sure they'll hire[BREAK]  you.[END]

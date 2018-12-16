@@ -67,7 +67,7 @@
 0020: Rhinocerocket Mark II
 0020-E: Rhinocerocket Mark II
 0021: Angstbot
-0021-E: Gefrierbot
+0021-E: Angstbot
 0022: The Squeekz
 0022-E: Die Squeekz
 0023: Pyrefly
