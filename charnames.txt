@@ -275,7 +275,7 @@
 088-E:Kerl
 089:Boney
 089-E:Boney
-08A:Guy
+08A:GuyOber
 08A-E:Kerl
 08B:Cow
 08B-E:Kuh
@@ -296,7 +296,7 @@
 093:Mole Cricket
 093-E:Maulwurfsgrille
 094:Elder Cricket
-094-E:Chef-Maulwurfsgrille
+094-E:Ober-Maulwurfsgrille
 095:Duster
 095-E:Duster
 096:Kumatora

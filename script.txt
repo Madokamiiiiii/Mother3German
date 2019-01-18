@@ -203,7 +203,7 @@
 0-87:@The magic butterfly made everyone in[BREAK]  [42 FF 00 00]'s party relax.[END]
 0-87E:@Der magische Schmetterling ließ jeden im[BREAK]  Team von [42 FF 00 00] entspannen.[END]
 0-88:@There's an oxygen supply machine here.[WAIT]  Ask it for some oxygen?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-0-88E:@Hier ist eineSauerstoffliefermaschine.[WAIT]  Willst du es nach Sauerstoff fragen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
+0-88E:@Hier ist eine Sauerstoffliefermaschine.[WAIT]  Willst du es nach Sauerstoff fragen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
 0-89:@Inside the trash can, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-89E:@Im Mülleimer war[BREAK]  [EF 11][81 FF].[WAIT]@Aber dein Inventar ist voll.[END]
 0-90:@You felt something warm inside your heart.[END]
@@ -404,11 +404,11 @@
 0-173:@Ol' "Beanstalk" Leder's bell is ringing.[EVENT][END]
 0-173E:@Die Glocke der alten Bohnenstange[BREAK]  Leder läutet.[EVENT][END]
 0-174:@Ol' "Beanstalk" Leder's bell can be heard off in[BREAK]  the distance.[EVENT][END]
-0-174E:@Die Glocke der alten "Bohnenstange" Leder[BREAK]  kann in weiter Entfernung gehört werden.[EVENT][END]
+0-174E:@Du kannst die Glocke der alten "Bohnenstange" Leder[BREAK]  hören.[EVENT][END]
 0-175:@You got the feeling that you heard ol'[BREAK]  "Beanstalk" Leder's bell.[EVENT][END]
 0-175E:@Du hast das Gefühl, du hättest die Glocke[BREAK]  der alten "Bohnenstange" Leder gehört.[EVENT][END]
 0-176:@"You should probably quit for now~!"[WAIT]@"I appreciate all you've done today, but you[BREAK]  should probably quit for now~!"[WAIT]@"Try to remember how you are today~!"[WAIT]@...For some strange reason, that's what the[BREAK]  bell's ringing seems to sound like.[WAIT]@You've had a big day. What do you say you call[BREAK]  it quits and hit the hay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-0-176E:@"Du solltest jetzt wohl eine Pause einlegen~!"[WAIT]@"Ich bedanke mich für all die Arbeit, aber du[BREAK]  solltest jetzt eine Pause einlegen~!"[WAIT]@"Denk an deine Gesundheit~!"[WAIT]@...Aus irgendeinem unerklärlichen Grund scheint[BREAK]  das Glockenleuten genau das zu sagen.[WAIT]@Heute war ein angstrengender Tag. Wie wärs,[BREAK]  wenn du jetzt aufhörst und in die Falle gehst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+0-176E:@"Du solltest jetzt wohl eine Pause einlegen~!"[WAIT]@"Ich bedanke mich für all die Arbeit, aber du[BREAK]  solltest jetzt wirklich eine Pause einlegen~!"[WAIT]@"Denk an deine Gesundheit~!"[WAIT]@...Aus irgendeinem unerklärlichen Grund scheint[BREAK]  das Glockenläuten genau das zu sagen.[WAIT]@Heute war ein angstrengender Tag. Wie wärs,[BREAK]  wenn du jetzt aufhörst und in die Falle gehst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 0-177:@In that case, talk to a nearby frog and have[BREAK]  pleasant dreams.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 0-177E:@In diesem Fall, sprich mit einem Frosch[BREAK]  in der Nähe und hab schöne Träume.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 0-178:@Please be careful now.[END]
@@ -3492,7 +3492,7 @@
 36-91:@These appear to be a Pigmask's shoes.[END]
 36-91E:@Dies scheinen ein Paar Schweinemaskenschuhe[BREAK]  zu sein.[END]
 36-92:@I'm a not-very-rare Imitation Crab![WAIT]@Real crabs try to copy our taste, color, and[BREAK]  texture, but we just look the other way.[WAIT]@What CAN'T be overlooked, though, is[BREAK]  Tanetane Island south of here.[WAIT]@You're headed there too, right?[WAIT]@I pretty much knew before I even saw ya.[WAIT]@You can wait all you want, but no ship's gonna[BREAK]  come.[WAIT]  You gotta walk across the ocean.[WAIT]@First, talk to the sea.[WAIT]@Get up real nice and close.[WAIT]@And then everything'll start from there.[END]
-36-92E:@Ich bin eine nicht-sehr-seltene[BREAK]  Nachahmerkrabbe![WAIT]@Echte Krabben versuchen unseren Geschmack,[BREAK]  Farbe, und Aussehen zu kopieren,[WAIT]  aber wir sehen einfach weg.[WAIT]@Was man aber NICHT übersehen kann, ist,[BREAK]  dass die Insel Tanetane südlich von hier ist.[WAIT]@Du willst dorthin, richtig?[WAIT]@Ich wusste das schon, bevor ich dich[BREAK]  überhaupt gesehen habe.[WAIT]@Du kannst solange warten wie du willst, aber[BREAK]  es wird kein Schiff kommen.[WAIT]  Du musst übers Meer laufen.[WAIT]@Zuerst sprichst du zum Meer.[WAIT]@Mach dich schick und geh' nah ran.[WAIT]@Und dann geht's los.[END]
+36-92E:@Ich bin eine nicht-sehr-seltene[BREAK]  Nachahmerkrabbe![WAIT]@Echte Krabben versuchen unseren Geschmack,[BREAK]  Farbe, und Aussehen zu kopieren,[WAIT]  aber wir sehen einfach weg.[WAIT]@Was man aber NICHT übersehen kann, ist,[BREAK]  dass die Insel Tanetane südlich von hier ist.[WAIT]@Du willst dorthin, richtig?[WAIT]@Ich wusste das schon, bevor ich dich[BREAK]  überhaupt gesehen habe.[WAIT]@Du kannst solange warten wie du willst, aber[BREAK]  es wird kein Schiff kommen.[WAIT]  Du musst über's Meer laufen.[WAIT]@Sprich mal zum Meer.[WAIT]@Mach dich schick und geh' nah ran.[WAIT]@Und dann geht's los.[END]
 36-93:@Dive into the ocean?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-93E:@Tauchen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-93, 192-56
@@ -8818,39 +8818,39 @@
 192-42:@Woo-woof![WAIT]  (We need to find some food! It doesn't matter[BREAK]  what it is!)[END]
 192-42E:@Wau-wauu![WAIT]  (Wir brauchen etwas zu essen![BREAK]  Egal, was es ist!)[END]
 192-43:@H-heeeeey! Hey, there![WAIT]@This is an emergency frog message![WAIT]@Can you hear me?!?![BREAK]  This is an emergency message!!![WAIT]@Your guys' energy is at its very lowest!![WAIT]@It's fallen as low as it can get![END]
-192-43E:
+192-43E:@H-heeeey! Hey, ihr da![WAIT]@Dies ist eine Notfallfrosch-Nachricht![WAIT]@Könnt ihr mich hören?!?![BREAK]  Dies ist eine Notfallnachricht[WAIT]@Eure Energie ist an ihrem niedrigsten Punkt!![WAIT]@Es kann nicht noch tiefer fallen![END]
 192-44:@Energizing mushrooms![WAIT]@Don't eat too many.[END]
-192-44E:
+192-44E:@Energisierende Pilze![WAIT]@Iss nicht zu viele.[END]
 192-45:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-45E:@Du hast ein paar Pilze gefunden, aber sie sehen ziemlich verrückt aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-31, 192-45
 192-46:@These mushrooms...[BREAK]  They have a funky-looking color,[WAIT]  but they're okay to eat, right?[END]
-192-46E:
+192-46E:@Diese Pilze...[BREAK]  Sie haben eine verrückte Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
 // Repeats: 192-46, 192-47
 192-47:@These mushrooms...[BREAK]  They have a funky-looking color,[WAIT]  but they're okay to eat, right?[END]
-192-47E:
+192-47E:@Diese Pilze...[BREAK]  Sie haben eine verrückte Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
 // Repeats: 192-46, 192-47
 192-48:@*whimper*...[WAIT]  (I really want to eat them, but they don't[BREAK]  seem very safe...)[END]
-192-48E:
+192-48E:@*wimmer*...[WAIT]  (Ich will sie essen, aber sie sehen nicht sehr[BREAK]  sicher aus...)[END]
 192-49:@Are you really going to eat them?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-49E:
+192-49E:@Willst du sie wirklich essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-50:@They seem.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  .[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]to be[PAUSE 20 00] all right.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 50 00][EVENT][END]
-192-50E:
+192-50E:@Sie scheinen[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  .[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]in Ordnung[PAUSE 20 00] zu sein.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 50 00][EVENT][END]
 192-51:@.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]Or not![WAIT]@You're overcome by an indescribably odd[BREAK]  sensation.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]![PAUSE 20 00][END]
-192-51E:
+192-51E:@.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]Oder auch nicht!![WAIT]@Dich überkommt ein unbeschreiblich[BREAK]  merkwürdiges Gefühl.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]![PAUSE 20 00][END]
 192-52:@But there doesn't seem to be anything else[BREAK]  that's edible.[END]
-192-52E:
+192-52E:@Aber es scheint nichts anderes Essbare[BREAK]  zu geben.[END]
 192-53:@Mixolydia instructed me to take you back to[BREAK]  Tazmily.[WAIT]@I know I'm an octopus, but please get on.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-53E:
+192-53E:@Mixolydia hat mir aufgetragen, euch zurück[BREAK]  nach Tazmily zu bringen.[WAIT]@Ich weiß, ich bin ein Oktopus,[BREAK]  aber bitte steigt auf.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-54:@Is it because[PAUSE 20 00] I'm an octopus?[END]
-192-54E:
+192-54E:@Liegt es daran[PAUSE 20 00], weil ich ein Oktopus bin?[END]
 192-55:@There's nothing to hold on to,[PAUSE 20 00] but hold on tight.[END]
-192-55E:
+192-55E:@Es gibt nichts, wo man sich festhalten kann,[BREAK]  [PAUSE 20 00]aber bitte haltet gut fest.[END]
 192-56:@Dive into the ocean?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-56E:@Tauchen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-93, 192-56
 192-57:@Yes. The ocean IS filled with danger.[END]
-192-57E:
+192-57E:@Ja. Der Ozean IST voller Gefahren.[END]
 
 [Container 194]
 194-0:@[FLINT 22 01 00] is always offering flowers.[END]
@@ -10447,26 +10447,26 @@
 
 [Container 224]
 224-0:@Phrygia's bed.[END]
-224-0E:
+224-0E:@Phrygias Bett.[END]
 224-1:@Chamomile tea?[END]
-224-1E:
+224-1E:@Chamisentee?[END]
 224-2:@Sleep-talking?[PAUSE 20 00] Me, sleep-talking? [HEART][WAIT][PAUSE 20 00]  Is this me sleep-talking?[PAUSE 30 00] ..."Slalking"? [HEART][WAIT]@*mumble* *murmur*...[END]
-224-2E:
+224-2E:@Schlafreden?[PAUSE 20 00] Ich und Schlafreden? [HEART][WAIT][PAUSE 20 00]  Schlafreden?[PAUSE 30 00] ..."Schwafreden"? [HEART][WAIT]@*brummel* *murren*...[END]
 224-3:@There's a letter from Phrygia on this sign.[WAIT]@Read it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-224-3E:
+224-3E:@Ein Brief von Phrygia ist auf dem Schild.[WAIT]@Lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 224-4:@Welcome. [HEART][WAIT]@I am Phrygia, the sleeping Magypsy.[WAIT]@I assume I'll be fast asleep when you arrive, so[BREAK]  I'm leaving this letter here for you. [HEART][WAIT]@I'm a little more serious and detail-oriented[BREAK]  than the other Magypsies.[END]
-224-4E:
+224-4E:@Willkommen. [HEART][WAIT]@Ich bin Phrygia, die schlafende Magypsy.[WAIT]@Ich nehme an, dass ich tief schlafe, wenn du[BREAK]  ankommst,[WAIT]  also schreibe ich diesen Brief für dich. [HEART][WAIT]@Ich bin ein bisschen ernster und[BREAK]  detailorientierter als die anderen Magypsies.[END]
 224-5:@Hello again, [LUCAS 23 02 00]. [HEART][WAIT]@Ionia told me you would be coming here.[WAIT]@The Dark Dragon Needle you're to pull is in a[BREAK]  lake of lava up ahead.[WAIT]@I don't mind if you pull it while I'm asleep...[WAIT][PAUSE 0F 00]  It will mean "the time" has come,[PAUSE 1E 00] and I will[BREAK]  disappear in my sleep. [HEART][END]
-224-5E:
+224-5E:@Hallo nochmal, [LUCAS 23 02 00]. [HEART][WAIT]@Ionia hat mir erzählt, dass du kommen wirst.[WAIT]@Die Nadel, den du ziehen sollst, liegt in einem[BREAK]  Lavasee weiter hinten.[WAIT]@Mir ist es egal, ob du ihn ziehst, während ich[BREAK]  schlafe...[WAIT][PAUSE 0F 00]  Es bedeutet, dass "die Zeit" gekommen ist,[PAUSE 1E 00][BREAK]  und ich werde im Schlaf verschwinden. [HEART][END]
 224-6:@There is a boulder blocking the path to the[BREAK]  volcano.[WAIT]  You should give it some [ITEM B6 00].[WAIT]@Well, good luck. [HEART][BREAK]@Smoochie smoochie. [HEART][END]
-224-6E:
+224-6E:@Ein Steinbrocken blockiert den Weg[BREAK]  zum Vulkan.[WAIT]  Du solltest ihn ein paar[BREAK]  [ITEM B6 00] geben.[WAIT]@Also. Viel Glück. [HEART][BREAK]@Schmatzer, schmatzer. [HEART][END]
 224-7:@The Needle in the Dragon's right foot is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
-224-7E:
+224-7E:@Die Nadel im rechten Fuß des Drachens ist[BREAK]  im Vulkankrater.[WAIT]@Also. Viel Glück. [HEART][BREAK]@Schmatzer, schmatzer. [HEART][END]
 224-8:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
 224-8E:@Du kannst mich von nun an öfters in deinen[BREAK]  Träumen erwarten. [HEART][WAIT]@*kicher* Wiedersehen! [HEART][END]
 // Repeats: 186-35, 224-8
 224-9:[END]
-224-9E:
+224-9E:[END]
 
 [Container 225]
 225-0:@Aeolia's bed.[END]
@@ -12642,7 +12642,7 @@
 327-32:@Whew...[WAIT]@I know they supply us with oxygen, but these[BREAK]  machines just aren't my thing...[WAIT]@They're really demoralizing.[END]
 327-32E:@Phew...[WAIT]@Ich weiß, sie geben uns Sauerstoff, aber diese[BREAK]  Maschinen sind einfach nicht so mein Ding...[WAIT]@Sie sind ziemlich demoralisierend.[END]
 327-33:@...Really?[WAIT]@I like 'em a lot.[END]
-327-33E:@...Wirklich?[WAIT]@ich lieb' sie.[END]
+327-33E:@...Wirklich?[WAIT]@Ich lieb' sie.[END]
 327-34:@Danger![WAIT]  Don't forget to supply yourself with oxygen[BREAK]  while underwater.[WAIT]@Use the oxygen supply machines efficiently and[BREAK]  effectively.[END]
 327-34E:@Vorsicht![WAIT]  Nicht vergessen sich mit Sauerstoff zu[BREAK]  versorgen, während man Unterwasser ist.[WAIT]@Nutze die Sauerstofflieferanten-Maschinen[BREAK]  effizient und effektiv.[END]
 327-35:@Good work today.[END]
@@ -13369,17 +13369,17 @@
 
 [Container 346]
 346-0:@Even in the bathroom [NOTE][BREAK]  I can save [NOTE][WAIT]@I really suggest you save your game here.[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-346-0E:
+346-0E:@Auch auf dem Klo [NOTE][BREAK]  kann ich speichern [NOTE][WAIT]@Ich empfehle dir, hier dein Spiel zu speichern.[WAIT]@*hüpf*[BREAK]  Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 346-1:@For frogs inside bathrooms, the sky is[BREAK]  rectangular and small.[WAIT]@But no saving for you, huh?[WAIT]@Well, if you ever change your mind, just let me[BREAK]  know.[END]
-346-1E:
+346-1E:@Für Frosche auf dem Klo ist der Himmel[BREAK]  rechteckig und klein.[WAIT]@Das bringt dich wohl nicht zum[BREAK]  Speichern, was?[WAIT]@Nun, falls du deine Meinung ändern solltest,[BREAK]  lass es mich wissen.[END]
 346-2:[END]
-346-2E:
+346-2E:[END]
 346-3:[END]
-346-3E:
+346-3E:[END]
 346-4:[END]
-346-4E:
+346-4E:[END]
 346-5:[END]
-346-5E:
+346-5E:[END]
 
 [Container 347]
 347-0:@There are pig masks in here.[WAIT]  Put them on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -13461,9 +13461,9 @@
 350-4:@[ENEMYNAME 1B 00][WAIT]@SOLD OUT[END]
 350-4E:@[ENEMYNAME 1B 00][WAIT]@AUSVERKAUFT[END]
 350-5:@I just remembered this Chimera's weakness,[BREAK]  so I mustered up the courage to come here.[END]
-350-5E:
+350-5E:@Ich habe mich gerade an die Schwäche[BREAK]  des Chimeras erinnert![END]
 350-6:@This is a high-tech, battery-operated Chimera.[WAIT]@In other words, if we set the power switch on[BREAK]  its back to "OFF", it will stop![END]
-350-6E:@Dies ist ein hight-tech batteriebetriebener[BREAK]  Chimera.[WAIT]@Mit anderen Worten, wenn wir den An-/Aus-[BREAK]  Schalter zurück auf "AUS" stellen, stoppt er![END]
+350-6E:@Dies ist ein high-tech, batteriebetriebener[BREAK]  Chimera.[WAIT]@Mit anderen Worten, wenn wir den An-/Aus-[BREAK]  Schalter zurück auf "AUS" stellen, stoppt er![END]
 350-7:[END]
 350-7E:[END]
 350-8:[END]
@@ -13507,7 +13507,7 @@
 351-0:@S-stop!! Stay away!![WAIT]@This is my hiding spot![END]
 351-0E:@S-stop!! Geh weg!![WAIT]@Das ist mein Versteck![END]
 351-1:@An image of an odd creature you've never[BREAK]  seen before is being displayed on the screen.[END]
-351-1E:@Ein Bild einer kuriosen Kreatur, die du noch nie[BREAK]  gesehen, wird auf dem Bildschirm abgebildet.[END]
+351-1E:@Das Bild einer Kreatur, die du noch nie zuvor[BREAK]  gesehen, wird auf den Bildschirm gebeamt.[END]
 351-2:@There are lots of graphs here, but there's no[BREAK]  telling what they mean.[END]
 351-2E:@Hier sind eine Menge Graphen, aber was sie[BREAK]  bedeuten, sieht man nicht.[END]
 351-3:@The creature in this photograph?[WAIT]@This is a being known as a "Mr. Saturn".[WAIT]@Apparently.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] Ahem.[PAUSE 10 00][WAIT]  [ALTERNATEFONT]they talk like this.[EVENT][END]
@@ -13913,7 +13913,7 @@
 365-19:@That thing means serious trouble.[END]
 365-19E:@Dieses Ding macht mächtig Ärger.[END]
 365-20:@Just standing here won't solve anything.[WAIT]@For now, let's hurry and seal the exits.[END]
-365-20E:@Aber einfach hier stehen zu bleiben, bringt uns[BREAK]  auch nicht weiter.[WAIT]@Wir müssen zuerst einmal schnell die[BREAK]  Ausgänge versiegeln.[END] 
+365-20E:@Aber einfach hier stehen zu bleiben, bringt uns[BREAK]  auch nicht weiter.[WAIT]@Wir müssen zuerst einmal schnell die[BREAK]  Ausgänge versiegeln.[END]
 365-21:@Watch yourselves, guys![END]
 365-21E:@Passt auf euch auf, Leute![END]
 365-22:@Hey, cute part-timer.[WAIT]@There's actually one more that's still lurking[BREAK]  around here somewhere...[WAIT]@One that's WAY more dangerous than that one[BREAK]  just now...[END]
