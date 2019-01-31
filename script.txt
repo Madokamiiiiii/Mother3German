@@ -14029,25 +14029,25 @@
 
 [Container 371]
 371-0:@It appears to be broken.[END]
-371-0E:
+371-0E:@Es scheint kaputt zu sein.[END]
 371-1:@It's broken.[END]
-371-1E:
+371-1E:@Es ist kaputt.[END]
 371-2:@This recharge device seems to be broken.[WAIT]@Oh, but please don't worry. I'll manage[BREAK]  somehow.[END]
-371-2E:
+371-2E:@Die Ladestation scheint kaputt zu sein.[WAIT]@Oh, aber mach dir bitte keine Sorgen. Ich krieg[BREAK]  das schon irgendwie hin.[END]
 371-3:@Whew...[WAIT]@I tried to fix this recharge device myself...[WAIT]@But it was just too formidable a foe...[END]
-371-3E:
+371-3E:@Puh...[WAIT]@Ich habe versucht die Ladestation zu[BREAK]  reparieren...[WAIT]@Aber der Feind war einfach zu stark...[END]
 371-4:@Greetings, Commander.[WAIT]@Our Pork Bean ran out of power, you see,[BREAK]  and...[WAIT]@Yes? A garbage truck?[WAIT]@Oh, one just headed north from here.[END]
-371-4E:
+371-4E:@Grüße. Kommandant.[WAIT]@Unserer Schweinebohne ist der Saft[BREAK]  ausgegangen, wie du siehst, und...[WAIT]@Ja? Ein Müllauto?[WAIT]@Oh, einer ist gerade erst nach Norden[BREAK]  gefahren.[END]
 371-5:@He said, "I'll kick this stupid thing 'til it works!"[BREAK]  and then he broke the recharge device...[END]
-371-5E:
+371-5E:@Er sagte: "Ich werde dieses blöde Ding[BREAK]  solange treten, bis es funktioniert!"[WAIT]  und dann hat er die Ladestation kaputt[BREAK]  gemacht...[END]
 371-6:@This Pork Bean is out of power.[END]
-371-6E:
+371-6E:@Die Batterie der Schweinebohne ist alle.[END]
 371-7:@Problem here.[END]
-371-7E:
+371-7E:@Problem hier.[END]
 371-8:@West: To Death Desert[BREAK]  North: To Garbage Dump[END]
 371-8E:@Westen: Zur Todeswüste[BREAK]  Norden: Zur Mülldeponie[END]
 371-9:@Pork Beans...[WAIT]@Be sure to use them efficiently![END]
-371-9E:
+371-9E:@Schweinebohnen...[WAIT]@Nutze sie effizient![END]
 371-10:@Pork Bean Recharge Station[END]
 371-10E:@Schweinebohne-Aufladestation[END]
 // Repeats: 61-23, 371-10, 474-3
@@ -14055,9 +14055,9 @@
 371-11E:@Ein rotes Licht.[END]
 // Repeats: 61-9, 371-11, 474-19
 371-12:@I AM A BROKEN ROBOT.[WAIT]@I HAVE FORGOTTEN WHY I AM BROKEN,[BREAK]  THOUGH...[WAIT]@YOU CERTAINLY HAVE A LOT OF FREE TIME[BREAK]  TO BE TALKING TO SOMETHING LIKE ME.[WAIT][PAUSE 5A 00]@SORRY! SORRY![BREAK]  IT WAS RUDE OF ME TO SAY THAT.[END]
-371-12E:
+371-12E:@ICH BIN EIN KAPUTTER ROBOTER.[WAIT]@ICH HABE ABER VERGESSEN, WARUM ICH[BREAK]  KAPUTT BIN...[WAIT]@DU HAST WOHL SEHR VIEL FREIE ZEIT, WENN[BREAK]  DU MIT MIR REDEST.[WAIT][PAUSE 5A 00]@SORRY! SORRY![BREAK]  ES WAR UNHÖFLICH VON MIR, DAS ZU SAGEN.[END]
 371-13:[END]
-371-13E:
+371-13E:[END]
 
 [Container 373]
 373-0:[HOTSPRING 00 00][END]
