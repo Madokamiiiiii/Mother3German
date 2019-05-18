@@ -31,3 +31,5 @@ test.sav
 *.sav
 *.psd
 *.xml
+*.db
+._sync_d8b906d13577.db

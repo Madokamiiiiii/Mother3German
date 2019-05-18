@@ -15015,13 +15015,13 @@
 
 [Container 404]
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
-404-0E:@Quietsch, quietsch-quietsch-quieeeetsch.[WAIT]  (Oh je, oh je.[WAIT]  Meine Kinder sind zum Spielen weggegangen,[BREAK]  aber sie sind noch nicht zurück.[WAIT]@Wenn du sie zufällig siehst, sag ihnen bitte,[BREAK]  dass ihre Mutter will, dass sie heim kommen.[WAIT]  Bitte.[WAIT]  Bitte.[WAIT]  Übrigens, ich habe insgesamt sieben Kinder.[END])
+404-0E:@Quietsch, quietsch-quietsch-quieeeetsch.[WAIT]  (Oh je, oh je.[WAIT]  Meine Kinder sind zum Spielen weggegangen,[BREAK]  aber sie sind noch nicht zurück.[WAIT]@Wenn du sie zufällig siehst, sag ihnen bitte,[BREAK]  dass ihre Mutter will, dass sie heim kommen.[WAIT]  Bitte.[WAIT]  Bitte.[WAIT]  Übrigens, ich habe insgesamt sieben Kinder.)[END]
 404-1:@Squeak squeeeeak.[WAIT]  (Oh, you're that kind person from before.[WAIT]  Parenting is indeed difficult.[WAIT]  Mice grow exponentially in number, after all.[WAIT]  But,[PAUSE 2E 00] but![WAIT]  Having children makes our happiness grow[BREAK]  exponentially, too!)[END]
 404-1E:@Quietsch quieeeeeetsch.[WAIT]  (Oh, du bist diese nette Person von vorher.[WAIT]  Erziehung ist wirklich anstrengend.[WAIT]  Mäuse vermehren sich schließlich exponentiell.[WAIT]  Aber,[PAUSE 2E 00] aber![WAIT]  Kinder zu haben, lässt auch unsere[BREAK]  Glücklichkeit exponentiell wachsen!)[END]
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
 404-2E:@Quietsch-quietsch.[WAIT]  (Danke für deine Hilfe, meine Kinder[BREAK]  kommen langsam zurück.[WAIT]  Danke. Vielen Dank!)[END]
 404-3:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-3E:@Quietsch-quieeeetsch.[WAIT]  (Trotzdem fehlen noch [80 FF F0 FF].[WAIT]  Wenn du sie zufällig siehst, sag ihnen, dass sei sofort zu ihrer Mutter gehen sollen.[WAIT]  Bitte,[PAUSE 1E 00] sag es ihnen.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
+404-3E:@Quietsch-quieeeetsch.[WAIT]  (Trotzdem fehlen noch [80 FF F0 FF].[WAIT]  Wenn du sie zufällig siehst, sag ihnen, dass sie[BREAK]  sofort zu ihrer Mutter gehen sollen.[WAIT]  Bitte,[PAUSE 1E 00] sag es ihnen.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-4:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
 404-4E:@Quietsch-quieeeetsch.[WAIT]  (Trotzdem fehltnoch [80 FF F0 FF].[WAIT]  Wenn du ihn zufällig siehst, sag ihm, dass er sofort zu seiner Mutter gehen soll.[WAIT]  Bitte,[PAUSE 1E 00] sag es ihm.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-5:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
@@ -15033,7 +15033,7 @@
 404-8:@Got a Shield Snatcher![END]
 404-8E:@Einen Schildschnapper erhalten![END]
 404-9:@Squeak![WAIT]  (Hey! Dude![WAIT]  It's me, The Squeekz! That hip chick magnet[BREAK]  you met by the pond earlier.[WAIT]  But now I'm a stay-at-home daddy-o.)[END]
-404-9E:@Quietsch![WAIT]  (Hey! Mann![WAIT]  Ich bin's, der Squeekz![WAIT]  Dieser coole Frau'nmagnet, den de mal beim[BREAK]  Teich getroff'n hast.[WAIT]  Doch jetzt bin ich erstma' brav zu Haus'.)
+404-9E:@Quietsch![WAIT]  (Hey! Mann![WAIT]  Ich bin's, der Squeekz![WAIT]  Dieser coole Frau'nmagnet, den de mal beim[BREAK]  Teich getroff'n hast.[WAIT]  Doch jetzt bin ich erstma' brav zu Haus'.)[END]
 404-10:@Squeak.[WAIT]  (I'm not really sure what happened, but my[BREAK]  hubby finally came back home.[WAIT][PAUSE 1E 00]  But just between you and me, I think his old[BREAK]  self might've had more charm...[WAIT]  Ohohohoho!)[END]
 404-10E:@Quietsch.[WAIT]  (Ich bin mir nicht ganz sicher, was passiert ist,[BREAK]  aber mein Ehemann ist endlich zurück.[WAIT][PAUSE 1E 00]  Aber nur so zwischen du und mir, ich finde[BREAK]  sein altes Selbst hatte mehr Charme...[WAIT]  Ohohohohoho!)[END]
 404-11:@Try not to speed too much![BREAK]  "Dept. of Highway Management"[END]
@@ -15069,25 +15069,25 @@
 
 [Container 406]
 406-0:@Squeak... squeak... squeak...[WAIT]  ("[PAUSE 14 00]Th[PAUSE 14 00]ank[PAUSE 14 00] you[PAUSE 14 00] for[PAUSE 14 00] ta[PAUSE 14 00]king[PAUSE 14 00] the[PAUSE 14 00] time[PAUSE 14 00] to[PAUSE 14 00] read[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Whew. Reading stuff is so hard.)[END]
-406-0E:
+406-0E:@Quietsch... quietsch... quietsch...[WAIT]  ("[PAUSE 14 00]Da[PAUSE 14 00]nk[PAUSE 14 00]e für[PAUSE 14 00] das[PAUSE 14 00] Le[PAUSE 14 00]sen[PAUSE 14 00] des[PAUSE 14 00] Schi[PAUSE 14 00]lds[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Puh. Lesen ist schwer.)[END]
 406-1:@Squeak squeak?[WAIT]  (What? My mom's calling for me?[WAIT]  Okay. I'll head back right now.)[END]
-406-1E:
+406-1E:@Quietsch quietsch?[WAIT]  (Was? Meine Mama ruft mich?[WAIT]  Okay. Ich geh sofort nach Hause.)[END]
 406-2:@Thank you for taking the time to read this sign.[WAIT]  This sign loves you.[END]
-406-2E:
+406-2E:@Danke fürs Lesen des Schilds.[WAIT]  Das Schild liebt dich.[END]
 406-3:[END]
-406-3E:
+406-3E:[END]
 
 [Container 413]
 413-0:[END]
-413-0E:
+413-0E:[END]
 413-1:[END]
-413-1E:
+413-1E:[END]
 
 [Container 420]
 420-0:[END]
-420-0E:
+420-0E:[END]
 420-1:[END]
-420-1E:
+420-1E:[END]
 
 [Container 421]
 421-0:@Some strange stuff you've never seen before[BREAK]  is lying here.[END]
@@ -15097,7 +15097,7 @@
 
 [Container 428]
 428-0:@A garbage truck.[END]
-428-0E:@Ein Abfall-LKW.[END]
+428-0E:@Ein Müllwagen.[END]
 428-1:@Pretty sweet piloting, if I do say so myself![WAIT]@Well, here we are! Donnerturm![WAIT]@Please hurry to the generator room[BREAK]  post-haste![END]
 428-1E:@Ziemlich geiles Fahren, wenn ich das mal so[BREAK]  sagen darf![WAIT]@Also, wir sind da! Der Donnerturm![WAIT]@Bitte gehen Sie schnellstens zum[BREAK]  Generatorraum![END]
 428-2:@Don't get sidetracked![BREAK]  You need to hurry to the generator room![END]
@@ -15151,14 +15151,14 @@
 
 [Container 431]
 431-0:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a little unstable.[WAIT]@Please be careful![END]
-431-0E:@Das Stromlevel ist zur Zeit niedrig, also ist[BREAK]  einige Maschinerie im Turm etwas instabil.[WAIT]@Bitte seien Sie vorsichtig![END]
+431-0E:@Der Strompegel ist zur Zeit niedrig, deshalb ist[BREAK]  einige Maschinerie im Turm etwas instabil.[WAIT]@Bitte seien Sie vorsichtig![END]
 431-1:@The door is firmly shut.[END]
 431-1E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 431-2:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a tad unstable.[WAIT]@I wish the guys in the generator room would[BREAK]  get their act together.[END]
-431-2E:@Das Stromlevel ist zur Zeit niedrig, also ist[BREAK]  einige Maschinerie im Turm instabil.[WAIT]@Ich wünschte, die Leute im Generatorraum[BREAK]  würden sich endlich mal zusammenreißen.[END]
+431-2E:@Der Strompegel ist zur Zeit niedrig, deshalb ist[BREAK]  einige Maschinerie im Turm etwas instabil.[WAIT]@Ich wünschte, die Leute im Generatorraum[BREAK]  würden sich endlich mal zusammenreißen.[END]
 431-3:@Hey, you guys! You're suspicious![WAIT]@You're here to destroy Donnerturm, aren't[BREAK]  you?![WAIT][PAUSE 2A 00]  ...That's what I'd say if any suspicious people[BREAK]  snuck inside.[WAIT]@So, as you can see, security here is airtight.[END]
-431-3E:@Hey, ihr da! Ihr seid verdächtig![WAIT]@Ihr seid hier um den Donnerturm zu zerstören, oder?![WAIT][PAUSE 2A 00]  Ist, was ich sagen würde, wenn irgendwelche[BREAK] verdächtigen Leute sich reingeschlichen hätten.[WAIT]@Also, wie Sie sehen können, ist die Sicherheit[BREAK]  hier luftdicht.[END]
+431-3E:@Hey, ihr da! Ihr seid verdächtig![WAIT]@Ihr seid hier um den Donnerturm zu zerstören,[BREAK]  oder?![WAIT][PAUSE 2A 00]  Ist, was ich sagen würde, wenn irgendwelche[BREAK] verdächtigen Leute sich reingeschlichen hätten.[WAIT]@Also, wie Sie sehen können, ist die Sicherheit[BREAK]  hier luftdicht.[END]
 431-4:@This is your common, everyday house plant.[END]
 431-4E:@Deine gewöhnliche, stinknormale Hauspflanze.[END]
 431-5:[END]
@@ -18588,27 +18588,27 @@
 
 [Container 800]
 800-0:@[LUCAS 23 02 00].[WAIT]@Welcome to my room![WAIT]@This is the REAL 100th floor that you wanted[BREAK]  to come to oh-so-badly![PAUSE 0F 00][WAIT]@Again, I welcome you, my beloved, detestable[BREAK]  pests.[WAIT]@I was the one who invited you here.[WAIT]@So you're free to come inside if you wish.[WAIT]@It's just,[PAUSE 1E 00] I've given orders to let no one enter[BREAK]  my room[WAIT]  to that little attack toy you see right there.[PAUSE 1E 00][WAIT]@Who knows, maybe this is where we'll say[BREAK]  goodbye, even though I invited you here.[WAIT]@Alright, let's turn it on![BREAK]  Say hello to the Natural Killer Cyborg![END]
-800-0E:@[LUCAS 23 02 00].[WAIT]@Willkommen in meinem Zimmer![WAIT]@Dies ist die WAHRE 100. Etage, zu der du ach-so-gern kommen wolltest![PAUSE 0F 00][WAIT]@Und noch einmal, heiße ich euch willkommen, meine geliebten, abscheuliche Ungeziefer.[WAIT]@Ich war derjenige, der euch hierher eingeladen hat.[WAIT]@Also könn
+800-0E:@[LUCAS 23 02 00].[WAIT]@Willkommen in meinem Zimmer![WAIT]@Dies ist die WAHRE 100. Etage, zu der du[BREAK]  ach-so-gern kommen wolltest![PAUSE 0F 00][WAIT]@Und noch einmal, heiße ich euch willkommen,[BREAK]  meine geliebten, abscheulichen Ungeziefer.[WAIT]@Ich war derjenige, der euch hierher eingeladen[BREAK]  hat.[WAIT]@Also kommt gerne herein, wenn ihr wollt.[WAIT]@Es ist nur,[PAUSE 1E 00] ich habe Befehle, niemandem[BREAK]  mein Zimmer betreten zu lassen,[WAIT]  und euch mit diesem kleinem Angriffsspielzeug[BREAK]  spielen zu  lassen.[PAUSE 1E 00][WAIT]@Wer weiß, vielleicht ist das sogar schon der[BREAK]  Abschied, obwohl ich euch eingeladen habe.[WAIT]@Okay, schalten wir das Ding mal an![BREAK]  Sagt Hallo zum Natürlichen Killer-Cyborg![END]
 800-1:[END]
 800-1E:[END]
 
 [Container 801]
 801-0:@Board the boat?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-801-0E:
+801-0E:@Das Boot besteigen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 801-1:@The boat won't move now.[END]
-801-1E:
+801-1E:@Das Boot wird sich jetzt nicht mehr bewegen.[END]
 
 [Container 802]
 802-0:[END]
-802-0E:
+802-0E:[END]
 802-1:[END]
-802-1E:
+802-1E:[END]
 802-2:@[42 FF 00 00] used the [ITEM C0 00]![EVENT][END]
-802-2E:
+802-2E:@[42 FF 00 00] nutzte den [ITEM C0 00]![EVENT][END]
 802-3:@For some weird reason, the iron pencil statue[BREAK]  was erased![END]
-802-3E:
+802-3E:@Aus irgendeinem unerklärlichem Grund ist die[BREAK]  eiserne Bleistiftstatue verschwunden![END]
 802-4:@For some weird reason, a pencil-shaped iron[BREAK]  statue is blocking the path.[END]
-802-4E:
+802-4E:@Aus irgendeinem unerklärlichem Grund ist das[BREAK]  bleistiftförmige Eisen verschwunden![END]
 802-5:[END]
 802-5E:[END]
 
@@ -18698,26 +18698,26 @@
 803-27E:@*hüpf*[BREAK]  Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 0-167, 803-27
 803-28:@I am the final frog in the game.[WAIT]@It's been such a short time, though it seems[BREAK]  long, too.[WAIT]@In any case, thank you for your continued[BREAK]  patronage throughout it all.[WAIT]@For me, and all the other frogs, I thank you.[WAIT]@*hop*[BREAK]  *teardrop*[END]
-803-28E:
+803-28E:@Ich bin der allerletzte Frosch im Spiel.[WAIT]@Es ist so wenig Zeit vergangen, wobei es[BREAK]  gleichzeitig so lang scheint.[WAIT]@Im jeden Falle möchte ich mich für deine[BREAK]  fortwährende Unterstützung bedanken.[WAIT]@Für mich, und all die anderen Frösche,[BREAK]  danke ich dir.[WAIT]@*hüpf*[BREAK]  *Träne runterfall*[WAIT]----------------------------------------------------[BREAK][COLOR 01 00]@Hallo! Hier ist der Übersetzer.[WAIT]  Auch ich möchte mich herzlich bedanken, dass[BREAK]  du dieses wundervolle Spiel mit meiner[WAIT]  Übersetzung gespielt hast.[WAIT]@Ich möchte die Gelegenheit nutzen, etwas über[BREAK]  das Projekt zu schreiben.[WAIT]@Das Projekt hatte definitiv seine Höhen und[BREAK]  Tiefen. Mal hatte ich es mehrere Monate liegen[WAIT]  gelassen, mal jeden Tag angefasst.[WAIT]  Die ersten Textblöcke habe ich ständig[BREAK]  geändert. Ich dachte immer wieder:[WAIT]  "Gott, ist das mieses Deutsch und schlecht[BREAK]  übersetzt". Es zeigt aber auch, dass sich[WAIT]  meine Englisch-Fähigkeiten durch dieses[BREAK]  Projekt verbessert haben.[WAIT]@Und nach einem langen steinigen Weg ist das[BREAK]  hier herausgekommen. [WAIT]@Das Projekt hat für mich persönlich einen[BREAK]  besonderen Stellenwert, so hat es mir in einer[WAIT]  sehr schweren Phase meines Lebens[BREAK]  Beschäftigung gegeben, und mir ein Stück weit[WAIT]  geholfen, die Phase zu überstehen.[WAIT]@Ich möchte mich auch bei ein paar Leuten[BREAK]  bedanken:[WAIT]@Zum einen beim "Smexy" (einem weiteren[BREAK]  Mother 3-Übersetzer), ohne dessen Zusage[WAIT]  ich wahrscheinlich das Projekt in den Boden[BREAK]  gestampft hätte.[WAIT]@Dann möchte ich mich noch beim englischen[BREAK]  Übersetzer-Team bedanken, die die nötigen[WAIT]  Tools bereit gestellt haben.[WAIT]@Und ich möchte mich bei Vanessa und Rebecca[BREAK]  bedanken. Sie waren Spieltester und[WAIT]  haben mich in der schweren Phase des Lebens[BREAK]  begleitet und sind super Freunde! DANKE![HEART][WAIT]@Und natürlich dich, als Spieler meines Werkes.[WAIT]@Sorry für den langen Text... Jetzt geht's[BREAK]  weiter.[WAIT]@Viel Spaß noch.[BREAK]~Youmu[END]
 803-29:[END]
-803-29E:
+803-29E:[END]
 
 [Container 804]
 804-0:@[END]
 804-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 804-1:[END]
-804-1E:
+804-1E:[END]
 
 [Container 805]
 805-0:@The beginning[PAUSE 30 00] of the end.[WAIT]@The end[PAUSE 38 00] of everything.[END]
-805-0E:
+805-0E:@Der Anfang[PAUSE 30 00] vom Ende.[WAIT]@Das Ende[PAUSE 38 00] von allem.[END]
 805-1:@Let's be friends.[WAIT]@I'm Porky.[WAIT]@I'm really just this meek little boy.[END]
-805-1E:
+805-1E:@Lasst uns Freunde sein.[WAIT]@Ich bin Pokey.[WAIT]@Ich bin wirklich nur dieser bescheidene kleine[BREAK]  Junge.[END]
 805-2:@Please dote over me more.[WAIT]@Please talk to me like good boys and girls.[BREAK]  You know, just like me.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-805-2E:
+805-2E:@Please dote over me more.[WAIT]@Please talk to me like good boys and girls.[BREAK]  You know, just like me.805-2[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 805-3:@Thanks[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@But,[PAUSE 20 00] to be honest,[PAUSE 20 00][WAIT]  you guys are[PAUSE 40 00] nothing but pests to me.[END]
-805-3E:
+805-3E:@Danke[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@Aber,[PAUSE 20 00] um ehrlich zu sein,[PAUSE 20 00][WAIT]  seid ihr[PAUSE 40 00] nichts weiter als Ungeziefer für mich.[END]
 805-4:@That's[PAUSE 0C 00] not[PAUSE 0C 00] very[PAUSE 0C 00] nice,[PAUSE 0C 00] now is it?[WAIT]@Actually...[PAUSE 30 00] I'm not very nice either.[END]
 805-4E:
 805-5:@Come, [BONEY 23 05 00].[WAIT]@[PAUSE 20 00][LUCAS 23 02 00]. This is it...[PAUSE 30 00][BREAK]  This is finally it...[END]
