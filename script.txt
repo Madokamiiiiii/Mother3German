@@ -18323,7 +18323,7 @@
 
 [Container 688]
 688-0:@You know that really tall guy who was always[BREAK]  ringing the bell for the people in Tazmily?[WAIT]  For some reason, I haven't seen him anywhere[BREAK]  at all.[WAIT]@I wonder if they managed to brainwash him.[END]
-688-0E:@Kennst du diesen großen Kerl, der immer die[BREAK]  Glocke für Tazmily geläutet hatte?[WAIT]  Aus irgendeinem Grund habe ich ihn nirgends[BREAK]  mehr gesehen.[WAIT]@Ich frage mich, ob sie es geschafft ihn einer Gehirnwäsche zu unterziehen.[END]
+688-0E:@Kennst du diesen großen Kerl, der immer die[BREAK]  Glocke für Tazmily geläutet hatte?[WAIT]  Aus irgendeinem Grund habe ich ihn nirgends[BREAK]  mehr gesehen.[WAIT]@Ich frage mich, ob sie es geschafft ihn einer[BREAK]  Gehirnwäsche zu unterziehen.[END]
 688-1:[END]
 688-1E:[END]
 
@@ -18353,7 +18353,7 @@
 
 [Container 694]
 694-0:@I made it to the 30th floor today! Yes![WAIT]  ...Though I made it to the 30th floor[BREAK]  yesterday, too.[END]
-694-0E:@Ich habe es heute bis Etage 30 geschafft![BREAK]  Yeah![WAIT]  ...Gestern habe ich es aber auch bis Etage 30[BREAK]  geschafft...[END]
+694-0E:@Ich habe es heute bis Etage 30 geschafft![BREAK]  Juhu![WAIT]  ...Gestern hatte ich es auch bis Etage 30[BREAK]  geschafft.[END]
 694-1:@Gaah...[BREAK] ...My legs are killing me...[END]
 694-1E:@Arghhh...[BREAK]  ...Meine Beine bringen mich um...[END]
 
@@ -18713,76 +18713,76 @@
 805-0:@The beginning[PAUSE 30 00] of the end.[WAIT]@The end[PAUSE 38 00] of everything.[END]
 805-0E:@Der Anfang[PAUSE 30 00] vom Ende.[WAIT]@Das Ende[PAUSE 38 00] von allem.[END]
 805-1:@Let's be friends.[WAIT]@I'm Porky.[WAIT]@I'm really just this meek little boy.[END]
-805-1E:@Lasst uns Freunde sein.[WAIT]@Ich bin Pokey.[WAIT]@Ich bin wirklich nur dieser bescheidene kleine[BREAK]  Junge.[END]
+805-1E:@Lasst uns Freunde sein.[WAIT]@Ich heiße Pokey.[WAIT]@Ich bin wirklich nur ein kleiner bescheidener[BREAK]  Junge.[END]
 805-2:@Please dote over me more.[WAIT]@Please talk to me like good boys and girls.[BREAK]  You know, just like me.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 805-2E:@Please dote over me more.[WAIT]@Please talk to me like good boys and girls.[BREAK]  You know, just like me.805-2[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 805-3:@Thanks[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@But,[PAUSE 20 00] to be honest,[PAUSE 20 00][WAIT]  you guys are[PAUSE 40 00] nothing but pests to me.[END]
 805-3E:@Danke[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@Aber,[PAUSE 20 00] um ehrlich zu sein,[PAUSE 20 00][WAIT]  seid ihr[PAUSE 40 00] nichts weiter als Ungeziefer für mich.[END]
 805-4:@That's[PAUSE 0C 00] not[PAUSE 0C 00] very[PAUSE 0C 00] nice,[PAUSE 0C 00] now is it?[WAIT]@Actually...[PAUSE 30 00] I'm not very nice either.[END]
-805-4E:
+805-4E:@Das ist[PAUSE 0C 00] nicht[PAUSE 0C 00] sehr[PAUSE 0C 00] nett,[PAUSE 0C 00] oder?[WAIT]@Um ehrlich zu sein...[PAUSE 30 00] Ich bin auch nicht nett.[END]
 805-5:@Come, [BONEY 23 05 00].[WAIT]@[PAUSE 20 00][LUCAS 23 02 00]. This is it...[PAUSE 30 00][BREAK]  This is finally it...[END]
-805-5E:
+805-5E:@Komm, [BONEY 23 05 00].[WAIT]@[PAUSE 20 00][LUCAS 23 02 00]. Es ist soweit...[PAUSE 30 00][BREAK]  Endlich ist es soweit...[END]
 805-6:@Have we managed to corner the enemy...[BREAK]  or have we all been dragged here?[WAIT]@Hmm. I suppose it doesn't matter either way.[WAIT]@Right, [DUSTER 23 03 00]?[END]
-805-6E:
+805-6E:@Haben wir es geschafft, den Feind in die[BREAK]  Enge zu treiben...[WAIT]  oder wurden wir es?[WAIT]@Hmm, so oder so ist es egal.[WAIT]@Richtig, [DUSTER 23 03 00]?[END]
 805-7:@*cough*[PAUSE 28 00] *wheeze*[PAUSE 28 00] *cough*[WAIT]@Come a little closer[PAUSE 30 00] so I can see your face[BREAK]  better...[END]
-805-7E:
+805-7E:@*Hust*[PAUSE 28 00] *keuch*[PAUSE 28 00] *hust*[WAIT]@Komm etwas näher[PAUSE 30 00], damit ich dein Gesicht[BREAK]  besser sehen kann...[END]
 805-8:@Oh, is that what you look like?[PAUSE 3C 00][WAIT]@I was the one who brought you here.[WAIT]@A traveler who has journeyed to and from[BREAK]  past and future.[WAIT]@I'm the most clever, most charming, and[BREAK]  most trouble-making boy ever...[WAIT]  ...Master Porky Minch![END]
-805-8E:
+805-8E:@Oh, so siehst du also aus?[PAUSE 3C 00][WAIT]@Ich bin derjenige, der euch hierher[BREAK]  gebracht hat.[WAIT]@Ein Reisender, der durch Vergangenheit und[BREAK]  Zukunft reist.[WAIT]@Ich bin der schlauste, bezauberndste, und [BREAK] Ärger verursachendste Junge, den es gibt...[WAIT]  ...Meister Pokey Minch![END]
 805-9:@I welcome you once again,[WAIT]  you weak hangers-on pretending to be the last[BREAK]  survivors of this world![WAIT]@Spankety, spankety, spankety![WAIT]  Ahahahahaha![END]
-805-9E:
+805-9E:@Ich heiße euch noch einmal Willkommen,[WAIT]  ihr schwachen Anhänger, die so tun, als wären[BREAK]  sie die letzten Überlebenden dieser Welt![WAIT]@Ihr Weltklasse Looser![WAIT]  Ahahahahaha![END]
 805-10:@*cough*[PAUSE 20 00] *cough*...[PAUSE 20 00] *wheeze*[PAUSE 20 00] *wheeze*[WAIT]@You resorted to blanking your memories to[BREAK]  create a new world[WAIT]  where humanity's past failures would never be[BREAK]  repeated...[WAIT]@How stupid can you be?![WAIT]  No matter how much you change the rules, no[BREAK]  matter how much you refuse to admit defeat,[WAIT]  in the end, the creatures known as "people"[BREAK]  will always sign their own death warrant[WAIT]  by acting out of stupidity and evil.[WAIT]@And then... mankind will be gone for good.[WAIT]@You could've been happy, if only you would've[BREAK]  done as I did[WAIT]  and obediently followed the visionary, selfish[BREAK]  desires of a great hero...[WAIT]@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 25 00] *wheeze*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]@Why is it you struggle to cling to life with such[BREAK]  puny minds, pitiable bodies, and feeble hearts?[END]
-805-10E:
+805-10E:@*hust*[PAUSE 20 00] *hust*...[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[WAIT]@Ihr habt euch entschlossen, eure Erinnerungen[BREAK]  zu löschen um eine Welt zu erschaffen,[WAIT]  in welcher die Fehler der Menschheit niemals[BREAK]  wiederholt werden würden...[WAIT]@Wie blöd kann man sein?![WAIT]  Egal, wie sehr ihr die Regeln ändert, egal, wie[BREAK]  sehr ihr euren Untergang leugnet.[WAIT]  Am Ende werden die Kreaturen namens[BREAK]  "Menschen" immer ihr eigenes Todesurteil[WAIT]  aus Dummheit und Bosheit unterschreiben.[WAIT]@Und dann... wird die Menschheit endgültig[BREAK]  weg sein.[WAIT]@Ihr hättet glücklich sein können, wenn ihr nur[BREAK]  wie ich gehandelt hättet und gehorsam den[WAIT]  eingebildeten, egoistischen Wünschen eines[BREAK]  großen Helden gefolgt wärt...[WAIT]@*keuch*[PAUSE 20 00] *keuch*[PAUSE 25 00] *keuch*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[WAIT]@Warum hängt ihr euch nur so an's Leben,[WAIT]  mit eurem mickrigen Verstand, erbärmlichen[BREAK]  Körpern und laschen Herzen?[END]
 805-11:@Well, no matter.[WAIT]  The curtain is about to fall on this pathetic[BREAK]  little play of yours.[WAIT]@Because, soon, the power of power will be[BREAK]  mine.[WAIT]@The world and everything in it has been my[BREAK]  oyster so far,[WAIT]  and now I'll end it all by acquiring the ultimate[BREAK]  power.[WAIT]@Heheheh heheh.[WAIT]@Aha ahahaha ahahahahahaha.[WAIT]@*cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 2E 00][BREAK]  *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[WAIT]@Whew...[WAIT]@Though everything so far has been fun and[BREAK]  games, I've given you many a concession.[WAIT]@I was bored out of my mind and wanted to play[BREAK]  something more thrilling, you see.[WAIT]@But, now that we're face-to-face like this,[BREAK]  I won't hold anything back.[WAIT]@My slave...[PAUSE 30 00] My lifeless son will pull the final[BREAK]  Needle for me.[WAIT]@And, the moment he does, the Dragon should[BREAK]  awaken and do as I want.[WAIT]@At which time, I assume you fools will turn[BREAK]  into garbage or dust or something[WAIT]  and finally disappear for good.[WAIT]@Ahahaha.[WAIT]  I'll admit, that is kind of sad.[WAIT]@But I would be crushed under the weight of[BREAK]  boredom if it were any other way.[END]
-805-11E:
+805-11E:@Naja, egal.[WAIT]  Der Vorhang eures kleines lächerlichen[BREAK]  Schauspiels fällt.[WAIT]@Denn, bald, wird die Kraft der Kräfte mir sein.[WAIT]@Die Welt und alles darin ist bis jetzt eine Auster gewesen,[WAIT]  und jetzt werde ich alles enden,[BREAK]  indem ich die ultimative Kraft erlange.[WAIT]@Heheheh heheh.[WAIT]@Aha ahahaha ahahahahahaha.[WAIT]@*hust*[PAUSE 10 00] *hust*[PAUSE 10 00] *hust*[PAUSE 10 00] *hust*[PAUSE 2E 00][BREAK]  *röchel*[PAUSE 10 00] *röchel*[PAUSE 10 00] *röchel*[PAUSE 10 00] *röchel*[WAIT]@Puh...[WAIT]@Es war so bisher so spaßig, dass ich euch[BREAK]  Häuflein ein Geständnis schulde.[WAIT]@Mir war todlangweilig und ich wollte etwas[BREAK]  Spannendes spielen.[WAIT]@Aber jetzt wo wir Angesicht zu Angesicht[BREAK]  gegenüber stehen,[WAIT]  werde ich mich nicht zurückhalten.[WAIT]@Mein Sklave...[PAUSE 30 00] Mein lebloser Sohn wird die[BREAK]  letzte Nadel für mich ziehen.[WAIT]@Und in dem Moment wo er das macht, sollte[BREAK]  der Drache erwachen und tun, was ich will.[WAIT]@Ihr Dummköpfe werdet zu diesem Zeitpunkt[BREAK]  zu Müll oder Staub oder sonstwas[WAIT]  und endlich endgültig verschwinden.[WAIT]@Ahahaha.[WAIT]  Ich geb zu, es ist irgendwie traurig.[WAIT]@Aber ich würde vor Langeweile sterben,[BREAK]  wenn es anders wär.[END]
 805-12:@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 20 00] *wheeze*[WAIT]  *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]@Do you understand now?[WAIT]  Do you understand the sadness Master Porky[BREAK]  bears, now that he's god-like?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 25 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[END]
-805-12E:
+805-12E:@*keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[WAIT]  *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[WAIT]@Versteht ihr jetzt?[WAIT]  Versteht ihr die Traurigkeit, die Meister[BREAK]  Pokey trägt, jetzt wo er gottähnlich ist?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*hust*[PAUSE 20 00] *hust*[PAUSE 25 00] *hust*[PAUSE 20 00] *hust*[PAUSE 20 00] *hust*[END]
 805-13:@Oh![WAIT]@You love your little dramatic plays, so this[BREAK]  couldn't have come at a better time for you![WAIT]@It seems the seventh and final Needle has just[BREAK]  been located deep underground, below here.[END]
-805-13E:
+805-13E:@Oh![WAIT]@Ihr liebt euer kleines dramatisches Schauspiel,[BREAK]  also hätte es gar nicht besser für euch[WAIT]  kommen können![WAIT]@Die siebte und letzte Nadel wurde gerade tief[BREAK]  im Untergrund lokalisiert, direkt hierunter.[END]
 805-14:@I refuse to help you anymore![END]
-805-14E:
+805-14E:@Ich helfe euch nicht mehr![END]
 805-15:@Waha[PAUSE 20 00]...[WAIT]@Waha[PAUSE 20 00]...[WAIT]@Wahahahahaha![END]
-805-15E:
+805-15E:@Waha[PAUSE 20 00]...[WAIT]@Waha[PAUSE 20 00]...[WAIT]@Wahahahahaha![END]
 805-16:@I assume you want to pull it too, right,[BREAK]  [LUCAS 23 02 00]?[WAIT]  Why not go and check it out then?[WAIT]  I'm even being fair enough to tell you where it[BREAK]  is.[WAIT]@That really will make this game all the more[BREAK]  fun![END]
-805-16E:
+805-16E:@Ich nehme an, du willst sie auch ziehen,[BREAK]  richtig, [LUCAS 23 02 00]?[WAIT]  Warum gehst du nicht dorthin?[WAIT]  Ich bin sogar so fair, dir zu sagen, wo du[BREAK]  sie findest.[WAIT]@Das macht das Spiel hier noch viel spaßiger![END]
 805-17:@But I think I'll use my shortcut to give myself[BREAK]  a head start, if you don't mind![WAIT]  Ahahahahahahaha![WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 2E 00][BREAK]  *wheeze*[PAUSE 20 00] *wheeze*[WAIT]@*gasp*[PAUSE 20 00] *gasp*[WAIT]@Bring it on! If you can catch up to me, that is![WAIT]  Here, you can use this elevator all you want![WAIT]@Spankety, spankety, spankety![PAUSE 14 00][WAIT]@*wheeze*[PAUSE 20 00] *gasp*[END]
-805-17E:
+805-17E:@Aber ich denke, ich werde meine Abkürzung[BREAK]  verwenden, um mir einen Vorsprung zu[WAIT]  verschaffen, wenn es euch nichts ausmacht![WAIT]  Ahahahahahahahahaha![WAIT]@*keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[PAUSE 2E 00][BREAK]  *röchel*[PAUSE 20 00] *röchel*[WAIT]@*hust*[PAUSE 20 00] *hust*[WAIT]@Auf geht's! Wenn ihr mich einholen könnt![WAIT]  Hier, ihr könnt diesen Aufzug nach Beliebem[BREAK]  benutzen![WAIT]@Ihr Weltklasse Looser![PAUSE 14 00][WAIT]@*hust*[PAUSE 20 00] *röchel*[END]
 
 [Container 807]
 807-0:@I'm certain that [HINAWA 22 08 00] is watching[BREAK]  over us.[WAIT]@There's nothing to be afraid of.[END]
-807-0E:
+807-0E:[END]
 // all the text in here is unused in the game
 807-1:@[CLAUS 22 05 00]...[WAIT]@I wonder where he is now, and what he's[BREAK]  doing.[WAIT]@He's alive. I know it.[BREAK]@I've always had complete faith in that.[WAIT]@Until I find any clues leading to him, I'll keep on[BREAK]  searching, even if it takes 50 or 100 years.[END]
-807-1E:
+807-1E:[END]
 807-2:@[LUCAS 23 02 00].[WAIT]@Once you've made up your mind, there's no[BREAK]  need to hesitate.[WAIT]@I'm always behind you all the way.[END]
-807-2E:
+807-2E:[END]
 807-3:@Good luck.[END]
-807-3E:
+807-3E:[END]
 807-4:@If that old fogey's right and our memories[BREAK]  were all made up...[WAIT]@Then who exactly am I?[WAIT]@Was I really princess of Osohe Castle?[WAIT]@............[WAIT]@No, never mind.[WAIT]@Right now we gotta focus on the Needle.[END]
-807-4E:
+807-4E:[END]
 807-5:@What was your mom like, [LUCAS 23 02 00]?[WAIT]@Was she nice?[WAIT]@...Huh?[WAIT]@No, uhh, it's just that I have no memory of my[BREAK]  mom.[WAIT]@I only asked 'cause I wondered what it's like to[BREAK]  have one.[END]
-807-5E:
+807-5E:[END]
 807-6:@...............[WAIT]@Family, huh...[WAIT]@I wonder what ol' Ionia's up to...[END]
-807-6E:
+807-6E:[END]
 807-7:@Even if our memories are just fabrications, the[BREAK]  fact we're here now is real.[WAIT]@Let's go, [LUCAS 23 02 00]![BREAK]@Let's go and pull that final Needle![END]
-807-7E:
+807-7E:[END]
 807-8:@Come to think of it...[WAIT]@All three of us are mother-less.[WAIT]@Talk about a big coincidence.[END]
-807-8E:
+807-8E:[END]
 807-9:@My mom died a long time ago.[WAIT]@My dad raised me by himself.[WAIT]@He'd make food and teach me how to fish and[BREAK]  stuff.[WAIT]@He was a strict, but nice dad.[END]
-807-9E:
+807-9E:[END]
 807-10:@Even if my memories since childhood are fake,[WAIT]  Wess probably really is my real dad.[WAIT]@I get the feeling that there's definitely no[BREAK]  mistake about that.[END]
-807-10E:
+807-10E:[END]
 807-11:@...[WAIT]@What do you suppose could be waiting up[BREAK]  ahead...?[END]
-807-11E:
+807-11E:[END]
 
 [Container 808]
 808-0:@Wha...?![BREAK]  Aren't you...[WAIT]  Aren't you Lucky, the bass player for the[BREAK]  DCMC?![WAIT]@Sweet! Lucky's back![WAIT]@That incredible bass line is finally back![WAIT]@Let's go, Mr. Lucky! Let's go![END]
-808-0E:
+808-0E:@Wa...?![BREAK]  Bist du nicht...[WAIT]  Bist du nicht Lucky, der Bass des DCMC?![WAIT]@Geil! Lucky ist zurück![WAIT]@Der unglaubliche Bass ist endlich zurück![WAIT]@Gehen wir, Herr Lucky! Gehen wir![END]
 808-1:@Wha...?![BREAK]  Aren't you...[WAIT]  Aren't you Gorgeous, the bass player for the[BREAK]  DCMC?![WAIT]@Sweet! Gorgeous is back![WAIT]@That incredible bass line is finally back![WAIT]@Let's go, Mr. Gorgeous! Let's go![END]
-808-1E:
+808-1E:@Wa...?![BREAK]  Bist du nicht...[WAIT]  Bist du nicht Gorgeous, der Bass des DCMC?![WAIT]@Geil! Gorgeous ist zurück![WAIT]@Der unglaubliche Bass ist endlich zurück![WAIT]@Gehen wir, Herr Gorgeous! Gehen wir![END]
 808-2:@Next stop, 100th floor.[END]
-808-2E:
+808-2E:@Nächster Halt, Etage 100.[END]
 808-3:[END]
-808-3E:
+808-3E:[END]
 
 [Container 810]
 810-0:@[LUCAS 23 02 00].[END]
