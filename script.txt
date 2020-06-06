@@ -43,7 +43,7 @@
 0-19:[BREAK][BREAK][CENTER]I bet they'll accomplish things[BREAK][CENTER]together that they couldn't alone.[END]
 0-19E:[BREAK][BREAK][CENTER]Ich wette, sie werden zusammen Dinge[BREAK][CENTER]erreichen, zu denen sie alleine nicht fähig wären.[END]
 0-20:[BREAK][BREAK][BREAK][CENTER]I'm sure they'll argue a lot, too.[END]
-0-20E:[BREAK][BREAK][CENTER]Ich bin mir auch sicher,[BREAK][CENTER]dass sie of streiten werden.[END]
+0-20E:[BREAK][BREAK][CENTER]Ich bin mir auch sicher,[BREAK][CENTER]dass sie oft streiten werden.[END]
 0-21:[BREAK][BREAK][CENTER]And I can see them helping each[BREAK][CENTER]other out when they need it.[END]
 0-21E:[BREAK][BREAK][CENTER]Und ich sehe, dass sie sich gegenseitig[BREAK][CENTER]helfen werden, wenn sie einander brauchen.[END]
 0-22:[BREAK][BREAK][BREAK][CENTER][CLAUS 22 05 00]...[END]
@@ -57,13 +57,13 @@
 0-25E:[BREAK][BREAK][BREAK][CENTER][CLAUS 22 05 00]...[END]
 // Repeats: 0-22, 0-25
 0-26:[BREAK][BREAK][BREAK][CENTER]...and [LUCAS 23 02 00], huh...[END]
-0-26E:[BREAK][BREAK][BREAK][CENTER]...und [LUCAS 23 02 00], was...[END]
+0-26E:[BREAK][BREAK][BREAK][CENTER]...und [LUCAS 23 02 00], wie...[END]
 0-27:[BREAK][BREAK][CENTER]How do you want them[BREAK][CENTER]to grow up to be?[END]
-0-27E:[BREAK][BREAK][CENTER]Wie willst du sie[BREAK][CENTER]aufwachsen lassen?[END]
+0-27E:[BREAK][BREAK][CENTER]Was sie[BREAK][CENTER]wohl werden?[END]
 0-28:[BREAK][BREAK][BREAK][CENTER]To be kind, just like you.[END]
 0-28E:[BREAK][BREAK][BREAK][CENTER]Um ehrlich zu sein, genauso wie du.[END]
 0-29:[BREAK][BREAK][BREAK][CENTER]Oh. I was just going to say...[END]
-0-29E:[BREAK][BREAK][BREAK][CENTER]Oh. Ich wollte gerade sagen...[END]
+0-29E:[BREAK][BREAK][BREAK][CENTER]Oh. Ich wollte sagen...[END]
 0-30:[BREAK][BREAK][BREAK][CENTER]...to be kind, just like YOU.[END]
 0-30E:[BREAK][BREAK][BREAK][CENTER]...um ehrlich zu sein, genau wie DU.[END]
 0-31:[BREAK][BREAK][BREAK][CENTER]Great. Then it's decided.[END]
@@ -18353,7 +18353,7 @@
 
 [Container 694]
 694-0:@I made it to the 30th floor today! Yes![WAIT]  ...Though I made it to the 30th floor[BREAK]  yesterday, too.[END]
-694-0E:@Ich habe es heute bis Etage 30 geschafft![BREAK]  Juhu![WAIT]  ...Gestern hatte ich es auch bis Etage 30[BREAK]  geschafft.[END]
+694-0E:@Ich habe es heute bis auf Etage 30 geschafft![BREAK]  Juhu![WAIT]  ...Gestern hatte ich es aber auch bis Etage 30[BREAK]  geschafft.[END]
 694-1:@Gaah...[BREAK] ...My legs are killing me...[END]
 694-1E:@Arghhh...[BREAK]  ...Meine Beine bringen mich um...[END]
 
@@ -18786,176 +18786,176 @@
 
 [Container 810]
 810-0:@[LUCAS 23 02 00].[END]
-810-0E:
+810-0E:@[LUCAS 23 02 00].[END]
 810-1:@[LUCAS 23 02 00].[PAUSE 20 00] There's something that has[BREAK]  me concerned.[WAIT]@Could you let me go on ahead first?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-810-1E:
+810-1E:@[LUCAS 23 02 00].[PAUSE 20 00] Es gibt da etwas, was mir[BREAK]  zu denken gibt.[WAIT]@Könntest du mich vorlassen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 810-2:@Just say "yes" and don't ask why. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-810-2E:
+810-2E:@Sag einfach "Ja" und frag nicht warum. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 810-3:@Thanks. Don't ask why.[WAIT]@But if it seems like I've been gone a long time,[BREAK]  then go ahead and keep going.[END]
-810-3E:
+810-3E:@Danke. Frag einfach nicht, warum.[WAIT]@Falls ich nach längerer Zeit nicht zurück-[BREAK]  kommen sollte, dann geh einfach weiter.[END]
 810-4:@You gonna go?[PAUSE 80 00][EVENT][END]
-810-4E:
+810-4E:@Du willst gehen?[PAUSE 80 00][EVENT][END]
 810-5:[0C FF 80 00][END]
-810-5E:
+810-5E:[0C FF 80 00][END]
 // dunno what this is
 810-6:@The door is shut.[BREAK]  And the elevator is broken.[END]
-810-6E:
+810-6E:@Die Tür ist verschlossen.[BREAK]  Und der Aufzug ist kaputt.[END]
 810-7:[END]
-810-7E:
+810-7E:[END]
 
 [Container 811]
 811-0:@That... that masked man...[PAUSE 20 00][BREAK]  He's [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... He's your brother...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@I don't know why he's obeying this Porky guy,[WAIT]  but as a father, I've finally found the son I[BREAK]  lost.[WAIT]@[LUCAS 23 02 00]. Be happy.[WAIT]  I've finally,[PAUSE 30 00] finally found your brother.[END]
-811-0E:
+811-0E:@Dieser... dieser maskierte Mann...[PAUSE 20 00][BREAK]  Es ist [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... Er ist dein Bruder...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@Ich weiß nicht, wieso er diesem Pokey folgt,[WAIT]  aber als Vater habe ich endlich meinen Sohn[BREAK]  wiedergefunden, den ich verloren hatte.[WAIT]@[LUCAS 23 02 00]. Sei glücklich.[WAIT]  Ich habe endlich,[PAUSE 30 00] endlich deinen Bruder[BREAK]  gefunden.[END]
 811-1:@The final Needle[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Make sure YOU pull it.[WAIT]@I'll catch up with you in a bit...[WAIT]@Don't worry about me. Just hurry to the[BREAK]  Needle![END]
-811-1E:
+811-1E:@Die letzte Nadel[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@DU musst sie ziehen.[WAIT]@Ich komme gleich nach...[WAIT]@Mach dir um mich keine Sorgen.[BREAK]  Geh einfach zur Nadel![END]
 811-2:@I'm fine. I'm not hurt too bad.[WAIT]  [PAUSE 30 00]No, [CLAUS 22 05 00] didn't do this to me.[WAIT]@I tried to fight the "Porky" that's inside him.[END]
-811-2E:
+811-2E:@Mir geht's gut. Ich bin nicht schwer verletzt.[WAIT]  [Pause 30 00]Nein, [CLAUS 22 05 00] war das nicht.[WAIT]@Es war dieser "Pokey", der ihn besitzt.[END]
 811-3:@Geez, you're persistent.[WAIT]  You're wondering about my hair, aren't you?[WAIT]  That's right.[WAIT]  I'm bald as a bean.[END]
-811-3E:
+811-3E:@Mensch bist du hartnäckig.[WAIT]  Du machst dir Sorgen um meine Haare, oder?[WAIT]  Genau.[WAIT]  Ich bin kahl wie eine Bohne.[END]
 811-4:@What's that? "Bald as a bean" is a dumb way[BREAK]  of putting it?![WAIT]@When did you become such a bitter person?![WAIT]@Talking to me like this isn't very nice.[WAIT]@Quit it![END]
-811-4E:
+811-4E:@Was meinst du? "Kahl wie eine Bohne" ist ein[BREAK]  dummer Vergleich!?[WAIT]@Seit wann bist du so eine hämische Person?![WAIT]@So mit mir zu reden ist nicht sehr nett.[WAIT]@Hör damit auf![END]
 811-5:@Stop! Stop! Stop right there~![END]
-811-5E:
+811-5E:@Stop! Stop! Ich habe Stop gesagt~![END]
 811-6:@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[WAIT]@This really is no time for games anymore.[WAIT]@I don't feel like letting you go any further.[WAIT]@If you're after the Needle, then don't worry.[WAIT]  My adorable little monster is on its way to it[BREAK]  as we speak.[WAIT]@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 2A 00] *gasp*[PAUSE 20 00] *gasp*[END]
-811-6E:
+811-6E:@*keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *röchel*[WAIT]@Jetzt ist wirklich nicht die Zeit für Witze.[WAIT]@Ich will dich nicht weitergehen lassen.[WAIT]@Mach dir keine Sorgen um die Nadel.[WAIT]  Mein kleines süßes Monster kümmert sich[BREAK]  schon drum.[WAIT]@*schnauf*[PAUSE 20 00] *keuch*[PAUSE 2A 00] *röchel*[PAUSE 20 00] *röchel*[END]
 811-7:@...[PAUSE 15 00]Huh?[WAIT]  That monster's name is [CLAUS 22 05 00]?[WAIT]@Its name was [CLAUS 22 05 00]?![WAIT]@That almost sounds like a person's name![WAIT]@But now it's my robot.[WAIT]  Not even a fragment of life remains inside it.[WAIT]@It's Master Porky's slave robot![WAIT]  It does whatever I say![WAIT]@It acts on my will alone.[WAIT]  It's my double.[WAIT]  It doesn't know anything about who you are![WAIT]@*cough*[PAUSE 20 00] *cough*[END]
-811-7E:
+811-7E:@...[PAUSE 15 00]Was?[WAIT]  Der Name des Monster ist [CLAUS 22 05 00]?[WAIT]@Sein Name ist [CLAUS 22 05 00]?![WAIT]@Das hört sich ja fast wie ein Name einer[BREAK]  Person an![WAIT]@Aber es ist nun lediglich ein Roboter.[WAIT]  Nicht ein Brüchstück Leben ist noch da drin.[WAIT]@Es ist mein Sklave![WAIT]  Es tut, was ich sage![WAIT]@Es beugt sich meinem Willen alleine.[WAIT]  Es ist mein Doppelgänger.[WAIT]  Es hat keine Ahnung, wer ihr seid![WAIT]@*keuch*[PAUSE 20 00] *keuch*[END]
 811-8:@[PAUSE 18 00]Oh, my![END]
-811-8E:
+811-8E:@[PAUSE 18 00]Meine Güte![END]
 811-9:@As evil as old Porky here is, I feel bad for him[BREAK]  now.[END]
-811-9E:
+811-9E:@So böse wie der alte Pokey hier ist, habe ich[BREAK]  ja fast schon Mitleid.[END]
 811-10:@It's true that the "Absolutely Safe Capsule"[BREAK]  that the Mr. Saturns and I developed together[WAIT]  can protect one from every manner of danger.[WAIT]@It IS an absolutely[PAUSE 20 00] safe[PAUSE 20 00] capsule,[WAIT]  but once you enter it, you can never exit it[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
-811-10E:
+811-10E:@Es stimmt, dass die "absolut sichere Kapsel",[BREAK]  die die Mr. Saturn und ich gebaut haben,[WAIT]  einem vor jeglicher Gefahr schützt.[WAIT]@Es ist nun mal eine absolut[PAUSE 20 00] SICHERE[PAUSE 20 00] Kapsel.[WAIT]  Aber sobald man einmal drin ist, kommt man[BREAK]  nie mehr raus[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
 811-11:@Even what's outside of the Absolutely Safe[BREAK]  Capsule[PAUSE 20 00] is absolutely safe.[WAIT]@I did tell Porky in a hushed voice that he[BREAK]  shouldn't use it yet[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@But all he can do now is live for eternity inside[BREAK]  the capsule, in absolute safety.[WAIT]@Who knows, in a way,[PAUSE 20 00] he may've gotten[BREAK]  exactly what he wanted.[WAIT]@What do you think?[WAIT]  Is it wrong of me to think this way?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-811-11E:
+811-11E:@Auch das Äußere der absolut sicheren Kapsel[BREAK]  ist absolut sicher.[WAIT]@Ich habe Pokey mit gedämpfter Stimme[BREAK]  gesagt, dass er sie noch  nicht nutzen soll[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Nun kann kann er nur noch bis in alle Ewigkeit[BREAK]  in dieser Kapsel leben, in absoluter Sicherheit.[WAIT]@Wer weiß, vielleicht hat er in gewisser Weise[PAUSE 20 00][BREAK]  genau das bekommen, was er wollte.[WAIT]@Was denkst du?[WAIT]  Ist es falsch, so zu denken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 811-12:@It's NOT wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  I wonder.[WAIT]  I somehow get the feeling it is.[END]
-811-12E:
+811-12E:@Es ist NICHT falsch,[PAUSE 20 00] sagst du?[PAUSE 20 00][WAIT]  Hmm.[WAIT]  Ich habe irgendwie das Gefühl, das es das ist.[END]
 811-13:@It IS wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  Be that as it may, it's a little too late to do[BREAK]  anything now...[END]
-811-13E:
+811-13E:@Es IST falsch,[PAUSE 20 00] sagst du?[PAUSE 20 00][WAIT]  Es ist, wie es ist. Jetzt ist es zu spät[BREAK]  irgendwas zu tun...[END]
 811-14:@Want to roll him around a bit?[WAIT]  No, no, it's okay. It IS absolutely safe, after all.[END]
-811-14E:
+811-14E:@Möchtest du ihn etwas herumrollen?[WAIT]  Nein nein, ist schon okay.[BREAK]  Es ist immerhin absolut SICHER.[END]
 811-15:@Rolly, rolly...[END]
-811-15E:
+811-15E:@Rollen, rollen...[END]
 811-16:@Whee! Rolly rolly![END]
-811-16E:
+811-16E:@Wheee! Rollen rollen![END]
 811-17:@Porky is sticking his tongue out at you from[BREAK]  inside the Absolutely Safe Capsule.[END]
-811-17E:
+811-17E:@Pokey streckt dir seine Zunge raus.[END]
 811-18:@Hey, Alfie.[EVENT][END]
-811-18E:
+811-18E:@Hey, Alfie.[EVENT][END]
 // this is the same name the weird attic mice call you
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-19:@Hey, Alfie.[EVENT][END]
-811-19E:
+811-19E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-20:@Hey, Alfie.[EVENT][END]
-811-20E:
+811-20E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-21:@Hey, Alfie.[EVENT][END]
-811-21E:
+811-21E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-22:@Hey, Alfie.[EVENT][END]
-811-22E:
+811-22E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-23:@Hey, Alfie.[EVENT][END]
-811-23E:
+811-23E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-24:@Hey, Alfie.[EVENT][END]
-811-24E:
+811-24E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-25:@Hey, Alfie.[EVENT][END]
-811-25E:
+811-25E:@Hey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-26:@Oh, [LUCAS 23 02 00]![EVENT][END]
-811-26E:
+811-26E:@Oh, [LUCAS 23 02 00]![EVENT][END]
 811-27:@Hi! It's me, the friendly item storage man![WAIT]@I can't believe I made it all the way here, too.[WAIT]@Anyway! How can I help you?[END]
-811-27E:
+811-27E:@Hi! Ich bin's, der freundliche Itemlagermann![WAIT]@Ich kann's nicht glauben, dass ich es auch[BREAK]  bis hierher geschafft habe.[WAIT]@Wie auch immer! Wie kann ich dir helfen?[END]
 811-28:@We're right behind you all the way![END]
-811-28E:
+811-28E:@Wir stehen direkt hinter dir![END]
 811-29:[END]
-811-29E:
+811-29E:[END]
 811-30:[END]
-811-30E:
+811-30E:[END]
 811-31:[END]
-811-31E:
+811-31E:[END]
 811-32:[END]
-811-32E:
+811-32E:[END]
 811-33:[END]
-811-33E:
+811-33E:[END]
 
 [Container 816]
 816-0:@An ornamental plant.[END]
-816-0E:
+816-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 816-1:[END]
-816-1E:
+816-1E:[END]
 
 [Container 817]
 817-0:@An ornamental plant.[END]
-817-0E:
+817-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 817-1:@Sorry![WAIT]@I'm a little busy at the moment.[WAIT]  Could you save it for later?[END]
-817-1E:
+817-1E:@Sorry![WAIT]@Ich bin gerade etwas beschäftigt.[WAIT]  Könntest du später nochmal vorbeikommen?[END]
 817-2:@Someone's iiiiin here! [NOTE][END]
-817-2E:
+817-2E:@Jemand ist hieeeer drin! [NOTE][END]
 817-3:@I said, someone's in here![WAIT]@Being rushed like this makes me want to NOT[BREAK]  come out now, just to teach you a lesson![END]
-817-3E:
+817-3E:@Ich hab gesagt, dass besetzt ist![WAIT]@Wenn ich so gehetzt werde, komme ich jetzt[WAIT]  extra NICHT raus, nur um dir eine Lektion[BREAK]  zu erteilen![END]
 
 [Container 818]
 818-0:@This is surprisingly spick-and-span.[END]
-818-0E:
+818-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 818-1:@It looks like someone was just using this...[END]
-818-1E:
+818-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 818-2:@There's toilet paper here.[END]
-818-2E:
+818-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 818-3:@Cleaning tools are lying here.[END]
-818-3E:
+818-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 818-4:@The trash can is empty.[END]
-818-4E:
+818-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 818-5:[END]
-818-5E:
+818-5E:[END]
 
 [Container 819]
 819-0:@Whew! Made it just in time![END]
-819-0E:
+819-0E:@Puh! Gerade rechtzeitig geschafft![END]
 819-1:@[NOTE] I made it~ I made it~ I made it in time~! [NOTE][WAIT]  [NOTE] Oh~ how did I make it in such time~? [NOTE][END]
-819-1E:
+819-1E:@[NOTE] Ich hab's geschafft~ geschafft~[BREAK]  rechtzeitig geschafft~! [NOTE][WAIT]  [NOTE] Oh~ wie hab ich es nur rechzeitig[BREAK]  geschafft~? [NOTE][END]
 819-2:@A cheerful song can be heard from the other[BREAK]  side of the door.[END]
-819-2E:
+819-2E:@Von der anderen Seite der Tür kann ein[BREAK]  frohes Lied gehört werden.[END]
 819-3:[END]
-819-3E:
+819-3E:[END]
 
 [Container 820]
 820-0:@This is surprisingly spick-and-span.[END]
-820-0E:
+820-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 820-1:@It looks like someone was just using this...[END]
-820-1E:
+820-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 820-2:@There's toilet paper here.[END]
-820-2E:
+820-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 820-3:@Cleaning tools are lying here.[END]
-820-3E:
+820-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 820-4:@The trash can is empty.[END]
-820-4E:
+820-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 820-5:@This is surprisingly spick-and-span.[END]
-820-5E:
+820-5E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 820-6:@Give some thought to what a toilet is?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-820-6E:
+820-6E:@Möchtest du darüber nachdenken,[BREAK]  was eine Toilette ist?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 820-7:@If you reach any nice conclusions, please be[BREAK]  sure to tell your friends.[END]
-820-7E:
+820-7E:@Wenn du eine Antwort gefunden hast,[BREAK]  erzähl es bitte all deinen Freunden.[END]
 820-8:@That's probably for the best.[END]
-820-8E:
+820-8E:@Das ist wahrscheinlich für das Beste.[END]
 820-9:@It looks like someone was just using this...[END]
-820-9E:
+820-9E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 
 [Container 821]
@@ -18963,76 +18963,76 @@
 821-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 821-1:[END]
-821-1E:
+821-1E:[END]
 
 [Container 822]
 822-0:@An ornamental plant.[END]
-822-0E:
+822-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 822-1:@There must be something crazy going on inside[BREAK]  this restroom, huh?[END]
-822-1E:
+822-1E:@Etwas Verrücktes muss auf dieser Toilette[BREAK]  vorgehen, was?[END]
 822-2:@Hmm?[WAIT]@I'm jumping and flopping around because I want[BREAK]  to. Don't worry.[END]
-822-2E:
+822-2E:@Hmm?[WAIT]@Ich springe und hüpfe herum, weil ich Spaß[BREAK]  dran habe. Mach dir keine Sorgen.[END]
 822-3:@N-never mind me![WAIT]@I'm fine here, so please go away![END]
-822-3E:
+822-3E:@K-kümmer dich nicht um mich![WAIT]@Mir geht's gut hier, also geh bitte weg![END]
 
 [Container 823]
 823-0:@This is surprisingly spick-and-span.[END]
-823-0E:
+823-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 823-1:@It looks like someone was just using this...[END]
-823-1E:
+823-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 823-2:@There's toilet paper here.[END]
-823-2E:
+823-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 823-3:@Cleaning tools are lying here.[END]
-823-3E:
+823-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 823-4:@The trash can is empty.[END]
-823-4E:
+823-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 823-5:@Japanese style.[END]
-823-5E:
+823-5E:@Japanischer Style.[END]
 823-6:@A duck type.[END]
-823-6E:
+823-6E:@Für Enten.[END]
 823-7:@For big people.[END]
-823-7E:
+823-7E:@Für große Menschen[END]
 
 [Container 824]
 824-0:@This is surprisingly spick-and-span.[END]
-824-0E:
+824-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 824-1:@It looks like someone was just using this...[END]
-824-1E:
+824-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 824-2:@There's toilet paper here.[END]
-824-2E:
+824-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 824-3:@Cleaning tools are lying here.[END]
-824-3E:
+824-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 824-4:@The trash can is empty.[END]
-824-4E:
+824-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 824-5:@Flush?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-824-5E:
+824-5E:@Spülen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 824-6:@Nothing out of the ordinary here.[END]
-824-6E:
+824-6E:@Nichts Ungewöhnliches hier.[END]
 824-7:@Flush a whole bunch of times?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-824-7E:
+824-7E:@Ganz oft spülen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 824-8:@Welcome! How good of you to visit![PAUSE 30 00][BREAK]  Wait a minute! What am I saying?![WAIT]  This is a bathroom! What the heck's your[BREAK]  problem?![EVENT][END]
-824-8E:
+824-8E:@Willkommen![BREAK]  Wie schön, dass du mich besuchst![WAIT]  Warte mal! Was sage ich da?![WAIT]  Das ist ein Toilette! Was zur Hölle ist[BREAK]  dein Problem?![EVENT][END]
 824-9:@What're you doing in here, anyways?[WAIT]@All in a big group, no less.[END]
-824-9E:
+824-9E:@Was machst du eigentlich hier?[WAIT]@Und dann auch noch in so großer Gruppe.[END]
 824-10:@We're friendly ghosts who used to live the[BREAK]  easy life in Osohe Castle.[WAIT]@But some Pigmasks crammed us all in here the[BREAK]  other day.[END]
-824-10E:
+824-10E:@Wir sind freundliche Geister, die mal ein ruhiges[BREAK]  Leben im Schloss Osohe gehabt haben.[WAIT]@Aber ein paar Schweinemasken haben uns alle[BREAK]  hier eingepfercht[END]
 824-11:@People give ghosts the cold shoulder whenever[BREAK]  they don't seem mean.[END]
-824-11E:
+824-11E:@Menschen zeigen Geistern die kalte Schulter,[BREAK]  wenn sie nicht gerade aggressiv sind.[END]
 824-12:@GHOSTS![END]
-824-12E:
+824-12E:@GEISTER![END]
 824-13:[END]
-824-13E:
+824-13E:[END]
 
 [Container 825]
 825-0:@Look at the walls...[PAUSE 2E 00] Look at the door...[PAUSE 2E 00][BREAK]  What else was there to do, again?[END]
@@ -19050,40 +19050,40 @@
 
 [Container 826]
 826-0:@An ornamental plant.[END]
-826-0E:
+826-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 826-1:[END]
 826-1E:
 
 [Container 827]
 827-0:@This is surprisingly spick-and-span.[END]
-827-0E:
+827-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 827-1:@It looks like someone was just using this...[END]
-827-1E:
+827-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 827-2:@There's toilet paper here.[END]
-827-2E:
+827-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 827-3:@Cleaning tools are lying here.[END]
-827-3E:
+827-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 827-4:@The trash can is empty.[END]
-827-4E:
+827-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 827-5:[END]
 827-5E:
 
 [Container 828]
 828-0:@An ornamental plant.[END]
-828-0E:
+828-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 828-1:[END]
 828-1E:
 
 [Container 829]
 829-0:@An ornamental plant.[END]
-829-0E:
+829-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 829-1:@I'm trying to eat here![END]
 829-1E:
@@ -19091,38 +19091,38 @@
 
 [Container 830]
 830-0:@This is surprisingly spick-and-span.[END]
-830-0E:
+830-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 830-1:@It looks like someone was just using this...[END]
-830-1E:
+830-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 830-2:@There's toilet paper here.[END]
-830-2E:
+830-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 830-3:@Cleaning tools are lying here.[END]
-830-3E:
+830-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 830-4:@The trash can is empty.[END]
-830-4E:
+830-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 830-5:[END]
 830-5E:
 
 [Container 831]
 831-0:@This is surprisingly spick-and-span.[END]
-831-0E:
+831-0E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 831-1:@It looks like someone was just using this...[END]
-831-1E:
+831-1E:@Es sieht so aus, als hätte das gerade eben[BREAK]  erst jemand benutzt...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 831-2:@There's toilet paper here.[END]
-831-2E:
+831-2E:@Dort ist Toilettenpapier.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 831-3:@Cleaning tools are lying here.[END]
-831-3E:
+831-3E:@Reinigungssachen liegen hier.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 831-4:@The trash can is empty.[END]
-831-4E:
+831-4E:@Der Mülleimer ist leer.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 831-5:@A clean toilet is a mirror of the heart.[WAIT]@Wipe it and polish it until it sparkles.[END]
 831-5E:
@@ -19131,7 +19131,7 @@
 831-7:@Tons and tons of toilet paper.[END]
 831-7E:
 831-8:@This is surprisingly spick-and-span.[END]
-831-8E:
+831-8E:@Es ist erstaunlich sauber.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 831-9:[END]
 831-9E:
@@ -19144,7 +19144,7 @@
 
 [Container 833]
 833-0:@An ornamental plant.[END]
-833-0E:
+833-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 833-1:[END]
 833-1E:
@@ -20006,7 +20006,7 @@
 
 [Container 879]
 879-0:@An ornamental plant.[END]
-879-0E:
+879-0E:@Eine Zierblume.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 879-1:@I'm trying to eat here![END]
 879-1E:
