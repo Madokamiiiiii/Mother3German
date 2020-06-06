@@ -1,2 +1,3 @@
 # Mother3German
-fabianweller.de/mother3.html
+Langsam aber sicher, wird es was.
+Die rohe Übersetzung erreicht sein Ende
