@@ -15003,7 +15003,7 @@
 400-5:@The garbage dump is northeast of here.[WAIT]@Please hurry after it[WAIT]  and retrieve whatever embarrassing thing it[BREAK]  was that you accidentally threw away.[END]
 400-5E:@Die Mülldeponie liegt im Nordosten vonhier.[WAIT]@Bitte beeilen Sie sich[WAIT]  und holen Sie sich dieses peinliche Ding zurück,[BREAK]  dass Sie versehentlich weggeworfen haben.[END]
 400-6:@Please be very careful not to slip and get in an[BREAK]  accident![END]
-400-6E:@Bitten seien Sie vorsichtig nicht auszurutschen[BREAK]  und in einen Unfall zu kommen![END]
+400-6E:@Bitten seien Sie äußerst vorsichtig nicht aus-[BREAK]  zurutschen und einen Unfall zu verursachen![END]
 400-7:@All right, then! Be careful![END]
 400-7E:@Dann ist ja alles klar! Sei vorsichtig![END]
 // Repeats: 63-4, 400-7
@@ -15015,85 +15015,85 @@
 
 [Container 404]
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
-404-0E:
+404-0E:@Quietsch quietsch-quietsch quieeeetsch.[WAIT]  (Oh je, oh je.[WAIT]  Meine Kinder sind zum Spielen weg gegangen[BREAK]  und sind nicht nach Hause gekommen.[WAIT]@Wenn du zufällig siehst, sag ihnen bitte,[WAIT]  dass ihre Mutter will, dass sie nach Hause[BREAK]  kommen sollen.[WAIT]  Bitte.[WAIT]  Bitte.[WAIT]  Übrigens, ich habe insgesamt sieben Kinder.)[END]
 404-1:@Squeak squeeeeak.[WAIT]  (Oh, you're that kind person from before.[WAIT]  Parenting is indeed difficult.[WAIT]  Mice grow exponentially in number, after all.[WAIT]  But,[PAUSE 2E 00] but![WAIT]  Having children makes our happiness grow[BREAK]  exponentially, too!)[END]
-404-1E:
+404-1E:@Quietsch quieeeeetsch.[WAIT]  (Oh. du bist diese nette Person von damals.[WAIT]  Erziehung ist wirklich schwer.[WAIT]  Mäuse wachsen schließlich exponentiell an.[WAIT]  Aber,[PAUSE 2E 00] aber![WAIT]  Kinder zu haben lässt auch unser Glück[BREAK]  exponentiell anwachsen!)[END]
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
-404-2E:
+404-2E:@Quietsch-quietsch.[WAIT]  (Danke für deine Hilfe, meine Kinder kommen[BREAK]  langsam zurück.[WAIT]  Danke. Vielen,vielen Dank!)[END]
 404-3:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-3E:
+404-3E:@Quietsch-quieeeeeetsch.[WAIT]  (Aber es fehlen immer noch [80 FF F0 FF].[WAIT]  Wenn du sie zufällig siehst, erzähle ihnen,[BREAK]  sofort zurück zu ihrer Mutter zu kehren.[WAIT]  Bitte[PAUSE 1E 00] sage es ihnen.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-4:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-4E:
+404-4E:@Quietsch-quieeeeeetsch.[WAIT]  (Aber es fehlt immer noch [80 FF F0 FF].[WAIT]  Wenn du ihn zufällig siehst, erzähl ihm,[BREAK]  sofort zurück zu ihrer Mutter zu kehren.[WAIT]  Bitte[PAUSE 1E 00] sag es ihm.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-5:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-5E:
+404-5E:@Quietsch-quieeeeeetsch.[WAIT]  (Aber es fehlt immer noch [80 FF F0 FF].[WAIT]  Wenn du ihn zufällig siehst, erzähl ihm,[BREAK]  sofort zurück zu ihrer Mutter zu kehren.[WAIT]  Bitte[PAUSE 1E 00] sag es ihm.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-6:@Squeeeeeeeeaaak![WAIT]  (Thank you so much![WAIT]  Thanks to you, all my children have returned[BREAK]  home, with cheerful smiles on their faces.[WAIT]  For being so kind to me, I insist[PAUSE 2E 00] on giving you[BREAK]  two things as a token of appreciation.[WAIT]  The first is a kiss from me.[WAIT]  And the other thing is th[PAUSE 20 00]-th[PAUSE 20 00]-this!)[END]
-404-6E:
+404-6E:@Quieeeeeeeeeetsch![WAIT]  (Vielen, vielen Dank![WAIT]  Dank dir sind alle meine Kinder wieder mit[BREAK]  Lächeln in ihrem Gesicht zu Hause.[WAIT]  Da du so nett warst, bestehe ich darauf[PAUSE 2E 00] dir[BREAK]  zwei Dinge als Zeichen meiner Dankabarkeit[WAIT]  zu geben.[WAIT]  Das erst ist ein Kuss von mir.[WAIT]  Und das andere ist d-[PAUSE 20 00]d-[PAUSE 20 00]-das!)
 404-7:@Squeeeak.[WAIT]  (...Or at least that was the plan, but it seems[BREAK]  you can't hold any more stuff.[WAIT]  Please come back after tidying your items.)[END]
-404-7E:
+404-7E:@Quieetsch.[WAIT]  (...Oder zumindest war das der Plan, aber du[BREAK]  hast keinen Platz mehr.[WAIT]  Komm wieder, wenn du etwas aufgeräumt[BREAK]  hast.)[END]
 404-8:@Got a Shield Snatcher![END]
-404-8E:
+404-8E:@Einen Schildschnapper erhalten![END]
 404-9:@Squeak![WAIT]  (Hey! Dude![WAIT]  It's me, The Squeekz! That hip chick magnet[BREAK]  you met by the pond earlier.[WAIT]  But now I'm a stay-at-home daddy-o.)[END]
-404-9E:
+404-9E:@Quietsch![WAIT]  (Hey! Mann![WAIT]  Ich bin's, Squeekz! Dieser Frau'nmagnet, den[BREAK]  de' am Teich getroff'n hast.[WAIT]  Aber jetzt bin ich zuhaus' als Vatti.)[END]
 404-10:@Squeak.[WAIT]  (I'm not really sure what happened, but my[BREAK]  hubby finally came back home.[WAIT][PAUSE 1E 00]  But just between you and me, I think his old[BREAK]  self might've had more charm...[WAIT]  Ohohohoho!)[END]
-404-10E:
+404-10E:@Quietsch.[WAIT]  (Ich weiß nicht, was geschehen ist, aber mein[BREAK]  Ehemann ist endlich nach Hause gekommen.[WAIT][PAUSE 1E 00]  Aber nur so zwischen dir und mir, ich finde,[BREAK]  sein altes Ich hatte mehr Charme...[WAIT]  Ohohohoho!)[END]
 404-11:@Try not to speed too much![BREAK]  "Dept. of Highway Management"[END]
-404-11E:
+404-11E:@Nicht zu sehr rasen![BREAK]  "Abteilung für Schnellstraßen-Management"[END]
 404-12:@Caution! Chimera crossing![END]
-404-12E:
+404-12E:@Achtung! Kreuzender Chimera![END]
 404-13:@Graffiti has been written on this sign.[WAIT]@"Put the pedal to the metal, you morons!"[END]
-404-13E:
+404-13E:@Graffiti wurde auf das Schild gesprüht.[WAIT]@"Gebt Gas, ihr Vollpfosten!"[END]
 404-14:@East: Garbage Dump[END]
-404-14E:
+404-14E:@Osten: Müllhalde[END]
 404-15:@"Bouillon" is written on the sign.[WAIT]@Add "Soup" to the end of it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-404-15E:
+404-15E:@"Fleisch" wurde auf das Schild geschrieben.[WAIT]@"Salat" anhängen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 404-16:@Nice.[WAIT]@Surely everyone gets the urge to write graffiti[BREAK]  on something at least once, wouldn't you say?[END]
-404-16E:
+404-16E:@Nice.[WAIT]@Jeder hat doch mal den Drang etwas mit[BREAK]  Graffiti abzuändern, würdest du nicht sagen?[END]
 404-17:@Yes, that may be for the best.[END]
-404-17E:
+404-17E:@Ja, das ist vielleicht besser so.[END]
 404-18:@"Bouillon Soup" is written on the sign.[END]
-404-18E:
+404-18E:@"Fleischsalat" steht auf den Schild.[END]
 404-19:@"Dog" is written on the sign.[WAIT]@Add "Hot" to the sign?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-404-19E:
+404-19E:@"Dog" ist auf das Schild geschrieben.[WAIT]@"Hot" hinzufügen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 404-20:@I could really go for a hot dog...[WAIT]  Especially a Schickhaus from Little Mac's on[BREAK]  Jenkinson's Boardwalk.[WAIT]  Loaded with chili, cheese, and onions. Mmm.[WAIT]  Little Mac's is known for its pizza and[BREAK]  cheesesteak, but the hot dogs are fantastic.[WAIT]  If you're ever at the Jersey Shore, be sure to[BREAK]  stop by![WAIT]  Or, if you ever happen to be in the Pittsburgh[BREAK]  area, check out the Dirty O.[WAIT]  There's some amazing hot dog fare to be had[BREAK]  there![END]
-404-20E:
+404-20E:@I could really go for a hot dog...[WAIT]  Especially a Schickhaus from Little Mac's on[BREAK]  Jenkinson's Boardwalk.[WAIT]  Loaded with chili, cheese, and onions. Mmm.[WAIT]  Little Mac's is known for its pizza and[BREAK]  cheesesteak, but the hot dogs are fantastic.[WAIT]  If you're ever at the Jersey Shore, be sure to[BREAK]  stop by![WAIT]  Or, if you ever happen to be in the Pittsburgh[BREAK]  area, check out the Dirty O.[WAIT]  There's some amazing hot dog fare to be had[BREAK]  there! 404-20[END]
 404-21:@Yeah, "Dog Food" would be much better.[BREAK]  Let's just call the whole thing off.[END]
-404-21E:
+404-21E:@Ja, "Hot Dog" schmeckt sowieso nicht.[BREAK]  Lass es also einfach bleiben.[END]
 404-22:@"Hot Dog" is written on the sign.[END]
-404-22E:
+404-22E:@"Hot Dog" steht auf den Schild.[END]
 404-23:@Beware of accidents![END]
-404-23E:
+404-23E:@Vorsicht vor Unfällen![END]
 404-24:@A marvelous backhoe.[END]
-404-24E:
+404-24E:@Ein bewundernswerter Bagger.[END]
 404-25:[END]
-404-25E:
+404-25E:[END]
 
 [Container 406]
 406-0:@Squeak... squeak... squeak...[WAIT]  ("[PAUSE 14 00]Th[PAUSE 14 00]ank[PAUSE 14 00] you[PAUSE 14 00] for[PAUSE 14 00] ta[PAUSE 14 00]king[PAUSE 14 00] the[PAUSE 14 00] time[PAUSE 14 00] to[PAUSE 14 00] read[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Whew. Reading stuff is so hard.)[END]
-406-0E:
+406-0E:@Quietsch... quietsch... quietsch...[WAIT]  ("[PAUSE 14 00]Da[PAUSE 14 00]nke[PAUSE 14 00] für[PAUSE 14 00] das[PAUSE 14 00] Ze[PAUSE 14 00]it[PAUSE 14 00]neh[PAUSE 14 00]men[PAUSE 14 00] das[PAUSE 14 00] Schi[PAUSE 14 00]ld[PAUSE 14 00] zu[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Puh. Lesen ist schwer.)[END]
 406-1:@Squeak squeak?[WAIT]  (What? My mom's calling for me?[WAIT]  Okay. I'll head back right now.)[END]
-406-1E:
+406-1E:@Quietsch quietsch?[WAIT]  (Was? Meine Mutter sucht mich?[WAIT]  Okay. Dann geh jetzt zurück.)[END]
 406-2:@Thank you for taking the time to read this sign.[WAIT]  This sign loves you.[END]
-406-2E:
+406-2E:@Danke für das Zeitnehmen das Schild zu lesen.[WAIT]  Das Schild liebt dich.[END]
 406-3:[END]
-406-3E:
+406-3E:[END]
 
 [Container 413]
 413-0:[END]
-413-0E:
+413-0E:[END]
 413-1:[END]
-413-1E:
+413-1E:[END]
 
 [Container 420]
 420-0:[END]
-420-0E:
+420-0E:[END]
 420-1:[END]
-420-1E:
+420-1E:[END]
 
 [Container 421]
 421-0:@Some strange stuff you've never seen before[BREAK]  is lying here.[END]
-421-0E:
+421-0E:@Merkwürdiges Zeug, das du noch nie zuvor[BREAK]  gesehen hast, liegt hier.[END]
 421-1:@Got an [ITEM 63 00]![END]
-421-1E:
+421-1E:@Einen [ITEM 63 00] gefunden![END]
 
 [Container 428]
 428-0:@A garbage truck.[END]
@@ -15377,7 +15377,7 @@
 443-39:@What could this be?[END]
 443-39E:@Was könnte das sein?[END]
 443-40:@A radio-controlled car.[END]
-443-40E:@Ein radio-kontrolliertes Auto[END]
+443-40E:@Ein ferngesteuertes Auto.[END]
 443-41:@A bicycle.[WAIT]@Easy to ride if you take it gently.[END]
 443-41E:@Ein Fahrrad,[WAIT]@Easy to ride if you take it gently 443-41.[END]
 443-42:@A rubber ducky bath toy.[END]
@@ -15484,32 +15484,32 @@
 
 [Container 455]
 455-0:@There's no admission fee at this theater![WAIT]@We're showing a wonderful adventure movie[BREAK]  personally selected by Master Porky himself![WAIT]@But apparently a stinkbug has snuck inside and[BREAK]  stunk up the place.[WAIT]@I hate having to kill those things. Yuck![END]
-455-0E:
+455-0E:@Der Eintritt ist frei in diesem Kino![WAIT]@Wir zeigen einen wundervollen Abenteuerfilm,[BREAK]  den Meister Pokey persönlich ausgewählt hat![WAIT]@Aber anscheinend hat sich eine Stinkwanze[BREAK]  reingeschlichen und den Ort verpestet.[WAIT]@Ich hasse es, diese Dinger zu töten. Igitt![END]
 455-1:@Are you the type of person that always has to[BREAK]  sneak behind everything?[END]
-455-1E:
+455-1E:@Bist du die Art Person, die immer hinter allem[BREAK]  herumschnüffelt?[END]
 455-2:@Oh! Welcome![BREAK]  Can I help you find something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-455-2E:
+455-2E:@Oh! Willkommen![BREAK]  Kann ich dir irgendwie behilflich sein?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 455-3:@Please come again![END]
-455-3E:
+455-3E:@Bitte komm wieder![END]
 455-4:@Oh.[END]
 455-4E:@Oh.[END]
 // Repeats: 443-32, 455-4
 455-5:@Please don't come in here through the[BREAK]  employee entrance.[END]
-455-5E:
+455-5E:@Bitte nutze nicht den Mitarbeitereingang.[END]
 455-6:@Apparently, there's some kind of stinky,[BREAK]  smelly bug in the theater...[WAIT]@Maybe I should just blow this popsicle stand.[END]
-455-6E:
+455-6E:@Anscheinend ist irgendeine Art stinkende,[BREAK]  müffelnde Wanze im Kino...[WAIT]@Vielleicht sollte ich diesen Eisstand einfach[BREAK]  aufgeben.[END]
 455-7:@Well? How was it?[BREAK]  Was the theater filled with stink?[END]
-455-7E:
+455-7E:@Also? Wie war er?[BREAK]  War das Kino voller Gestank?[END]
 455-8:@Oh, [LUCAS 23 02 00].[WAIT]@Are you looking for something?[WAIT]@Whenever you're not really sure what to do,[BREAK]  the theater's the best place to go! Yep![END]
-455-8E:
+455-8E:@Oh, [LUCAS 23 02 00].[WAIT]@Suchst du etwas?[WAIT]@Immer wenn du nicht wirklich weißt, wohin,[BREAK]  ist das Kino die beste Anlaufstelle! Jawoll![END]
 455-9:@Oh![WAIT]@You're here too, [LUCAS 23 02 00]?[WAIT]@I guess everyone from Tazmily is here now.[WAIT]@Eeeeveryone.[END]
-455-9E:
+455-9E:@Oh![WAIT]@Du bist auch hier, [LUCAS 23 02 00]?[WAIT]@Jetzt sind wohl alle von Tazmily hier.[WAIT]@Alleeeeeee.[END]
 455-10:@According to my research, stinkbugs appear to[BREAK]  possess a terrific capacity for memorization.[WAIT]@I'd love to study them to find out even more,[BREAK]  but... they're just so stinky![END]
-455-10E:
+455-10E:@Laut meiner Untersuchung scheinen Stink-[BREAK]  wanzen erschreckend viel merken zu können.[WAIT]@Ich würde liebend gerne mehr über sie heraus-[BREAK]  finden, aber... sie stinken einfach so sehr![END]
 455-11:@My granddaughter is always by my side...[WAIT]@I'm so thankful.[WAIT][PAUSE 3C 00]@I love her[PAUSE 30 00] more than my daughter.[END]
-455-11E:
+455-11E:@Meine Enkelin immer an meiner Seite...[WAIT]@Ich bin so dankbar.[WAIT][PAUSE 3C 00]@Ich liebe sie[PAUSE 30 00] mehr als meine Tochter.[END]
 455-12:@Grandma didn't really wanna leave Tazmily.[WAIT]@But everyone else left to come here, so...[END]
-455-12E:
+455-12E:@Oma wollte Tazmily nicht verlassen.[WAIT]@Aber alle anderen gingen, also...[END]
 455-13:@*rabble* *zabble* *rabble*.[WAIT]@I'm trying to express in words this strange and[BREAK]  creepy feeling in the air.[WAIT]@Heheheh.[WAIT]@*rabble* *zabble* *rabble*.[END]
 455-13E:
 455-14:@Whew.[BREAK]@When I'm busy, I'm REALLY busy.[WAIT]@Saying it out loud like this is the only way for[BREAK]  me to relax.[END]
