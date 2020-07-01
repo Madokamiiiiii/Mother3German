@@ -10832,33 +10832,33 @@
 
 [Container 239]
 239-0:[END]
-239-0E:
+239-0E:[END]
 239-1:[END]
-239-1E:
+239-1E:[END]
 
 [Container 240]
 240-0:[END]
-240-0E:
+240-0E:[END]
 240-1:[END]
-240-1E:
+240-1E:[END]
 
 [Container 241]
 241-0:[END]
-241-0E:
+241-0E:[END]
 241-1:[END]
-241-1E:
+241-1E:[END]
 
 [Container 242]
 242-0:[END]
-242-0E:
+242-0E:[END]
 242-1:[END]
-242-1E:
+242-1E:[END]
 
 [Container 243]
 243-0:[END]
-243-0E:
+243-0E:[END]
 243-1:[END]
-243-1E:
+243-1E:[END]
 
 [Container 244]
 244-0:[END]
@@ -10868,21 +10868,21 @@
 
 [Container 246]
 246-0:[END]
-246-0E:
+246-0E:[END]
 246-1:[END]
-246-1E:
+246-1E:[END]
 
 [Container 247]
 247-0:[END]
-247-0E:
+247-0E:[END]
 247-1:[END]
-247-1E:
+247-1E:[END]
 
 [Container 248]
 248-0:[END]
-248-0E:
+248-0E:[END]
 248-1:[END]
-248-1E:
+248-1E:[END]
 
 [Container 249]
 249-0:[HOTSPRING 00 00][END]
@@ -10967,7 +10967,7 @@
 249-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 249-27:[END]
-249-27E:
+249-27E:[END]
 
 [Container 250]
 250-0:[HOTSPRING 00 00][END]
@@ -11052,7 +11052,7 @@
 250-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 250-27:[END]
-250-27E:
+250-27E:[END]
 
 [Container 251]
 251-0:[HOTSPRING 00 00][END]
@@ -11242,34 +11242,34 @@
 252-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 252-27:@Cluck cluck?[BREAK]  (Want an egg?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-252-27E:
+252-27E:@Gacker gacker?[BREAK]  (Möchtest du ein Ei?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 252-28:@Cluck?[BREAK]  (Want more?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-252-28E:
+252-28E:@Gacker?[BREAK]  (Möchtest du mehr?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 252-29:@Cluck cluck.[WAIT]  (You got it. Just leave it to me.)[END]
-252-29E:
+252-29E:@Gacker gacker.[WAIT]  (Verstanden. Überlass es mir.)[END]
 252-30:@Cluck.[WAIT]  (Eggs. Yolks and whites.)[END]
-252-30E:
+252-30E:@Gacker.[WAIT]  (Eier. Eigelb und Eiweiß.)[END]
 252-31:@Cluck cluck.[WAIT]  (I guess not everyone is an egg person.)[END]
-252-31E:
+252-31E:@Gacker gacker.[WAIT]  (Es ist wohl nicht jeder eine Eierperson.)[END]
 252-32:@Cluck-cluck.[WAIT]  (Your inventory is full.)[END]
-252-32E:
+252-32E:@Gacker-gack.[WAIT]  (Dein Inventar ist voll.)[END]
 252-33:[END]
-252-33E:
+252-33E:[END]
 
 [Container 253]
 253-0:@A Magypsy's beloved bed.[WAIT]@On it is Fassad's clothing...?[END]
-253-0E:
+253-0E:@Das geliebte Bett einer Magypsy.[WAIT]@Darauf liegen Fassads Kleidung...?[END]
 253-1:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 253-1E:@Hier steht eine Holztruhe.[BREAK]  Ein Bananengeruch geht davon aus.[END]
 // Repeats: 253-1, 859-0, 860-1, 861-1
 253-2:@There's a [ITEM F0 FF] on the floor.[WAIT]@Pick them up?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-253-2E:
+253-2E:@Ein [ITEM F0 FF] liegt auf den Boden.[WAIT]@Aufheben?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 253-3:@You can't carry any more stuff.[END]
 253-3E:@Du kannst keine weiteren Sachen mehr tragen.[END]
 253-4:@Special types of musical horns are lying here.[END]
-253-4E:
+253-4E:@Spezielle Arten von Hörnern liegen hier.[END]
 253-5:[END]
-253-5E:
+253-5E:[END]
 
 [Container 254]
 254-0:@Aeolia's bed.[END]
@@ -11429,129 +11429,129 @@
 254-51E:@Zierliche, hübsche Süßigkeiten.[WAIT]  Und Hagebuttentee und andere Sachen.[END]
 // Repeats: 225-51, 254-51
 254-52:[END]
-254-52E:
+254-52E:[END]
 254-53:[END]
-254-53E:
+254-53E:[END]
 
 [Container 255]
 255-0:@I know, man. I know all about you.[WAIT]@You're here to destroy New Pork City, aren't[BREAK]  you?[END]
-255-0E:
+255-0E:@Ich weiß. Ich weiß alles über dich.[WAIT]@Du bist hier, um New Pork City zu zerstören,[BREAK]  nicht wahr?[END]
 255-1:@You're free in this city.[WAIT]@Master Porky has given you your freedom.[END]
-255-1E:
+255-1E:@Du bist frei in dieser Stadt.[WAIT]@Meister Pokey hat dir Freiheit gegeben.[END]
 255-2:@Walk, stop, sleep, shout...[BREAK]  You're free to do it all![END]
-255-2E:
+255-2E:@Laufen, stehen, schlafen, schreien...[BREAK]  Du darfst alles machen![END]
 255-3:@Everyone else came to the city, so I couldn't[BREAK]  just stay back there all alone...[WAIT]@I figured there'd be something here for me if I[BREAK]  came, but now I dunno. I'm not really sure...[WAIT]@Do you feel the same way, [LUCAS 23 02 00]?[END]
-255-3E:
+255-3E:@Alle anderen sind in die Stadt gezogen.[BREAK]  Einfach zu bleiben war keine Option...[WAIT]@Ich war mir sicher, dass es hier irgendwas für[BREAK]  mich gäbe, aber ich weiß nicht so recht...[WAIT]@Findest du das auch so, [LUCAS 23 02 00]?[END]
 255-4:@Oh, [LUCAS 23 02 00].[WAIT]@Did you follow me here for some of my slightly[BREAK]  unclean and not very tasty cookies?[WAIT]@Because I don't make those anymore.[PAUSE 1E 00][WAIT]@Have you forgotten?[END]
-255-4E:
+255-4E:@Oh, [LUCAS 23 02 00].[WAIT]@Bist du mir wegen der etwas dreckigen und[BREAK]  nicht sehr leckeren Keksen gefolgt?[WAIT]@Ich mache sie nämlich nicht mehr.[PAUSE 1E 00][WAIT]@Hast du das vergessen?[END]
 255-5:@Boys who hang out in places like this are all so [BREAK]  stupid.[END]
-255-5E:
+255-5E:@Jungs, die an solchen Orten abhängen, sind alle[BREAK]  so dumm.[END]
 255-6:@What? What?[END]
-255-6E:
+255-6E:@Was? Was?[END]
 255-7:@Left. Right.[END]
-255-7E:
+255-7E:@Links. Rechts.[END]
 255-8:@This. That.[END]
-255-8E:
+255-8E:@Dies. Das.[END]
 255-9:@Yay. Yay.[END]
-255-9E:
+255-9E:@Jay. Jay.[END]
 255-10:@Look. Look.[END]
 255-10E:
 255-11:@Welcomidos to New Pork City![END]
-255-11E:
+255-11E:@Wëllkomm in New Pork City![END]
 // original is a mixture of japanese and english "welcome", here is welcome + bienvenidos, which also has the added nuance of "comido"
 255-12:@Arcade "1-Up"[BREAK]  (Please, by all means, hang out inside.)[END]
-255-12E:
+255-12E:@Arcade "1-Up"[BREAK]  (Bitte halte dich IMMER innen auf.)[END]
 255-13:[END]
-255-13E:
+255-13E:[END]
 
 [Container 256]
 256-0:@Welcome.[WAIT]@I heard from Master Porky that you would be[BREAK]  coming here.[WAIT]@He says you're quite strong.[WAIT]@In one way or another.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
-256-0E:
+256-0E:@Willkommen.[WAIT]@Meister Pokey hat mir erzählt,[BREAK]  dass ihr kommt.[WAIT]@Er sagt, dass ihr ziemlich stark seit.[WAIT]@Auf gewisse Weise.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
 // Repeats: 256-0, 260-0
 256-1:@You can go anywhere you want, aside from[BREAK]  the 100th floor of the Empire Porky Building.[WAIT]@In fact, go have a look around at everything.[END]
-256-1E:
+256-1E:@Ihr dürft überall hingehen, abgesehen von der[BREAK]  100. Etage des Empire Pokey Building.[WAIT]@Schaut euch ruhig um.[END]
 // Repeats: 256-1, 260-1
 256-2:@They say the DCMC are gonna have a concert[BREAK]  in this city.[WAIT]@I guess in that way, this city might not be half[BREAK]  bad at all.[END]
-256-2E:
+256-2E:@DCMC soll ein Konzert in dieser Stadt haben.[WAIT]@Wenn man's so sieht, ist die Stadt gar nicht[BREAK]  so übel.[END]
 // Repeats: 256-2, 260-2
 256-3:@Boy, New Pork City doesn't make any sense.[WAIT]@I can't tell if it's kiddie-like, creepy, disgusting,[BREAK]  flashy, or what...[END]
-256-3E:
+256-3E:@Junge, New Pork City macht überhaupt kein[BREAK]  Sinn.[WAIT]@Ich weiß nicht, wie ich die Stadt beschreiben[BREAK]  sollte...[WAIT]  Kinderfreundlich, gruselig, abstoßend, protzig,[BREAK]  oder was auch immer...[END]
 // Repeats: 256-3, 260-3
 256-4:@Be sure to obey the rules of the road.[WAIT]@My heart is always filled with the rules of the[BREAK]  road.[END]
-256-4E:
+256-4E:@Beachte die Straßenordnung.[WAIT]@Mein Herz ist erfüllt von der Straßenordnung.[END]
 // Repeats: 256-4, 260-4
 256-5:@I'm sorry, but car puns[PAUSE 20 00] drive me crazy.[END]
-256-5E:
+256-5E:@I'm sorry, but car puns[PAUSE 20 00] drive me crazy.[END]
 // Repeats: 256-5, 260-5
 256-6:@Look, how many times do I have to tell you?[WAIT]  I'm [PAUSE 20 00]not a post office clerk.[WAIT]@Can't you get that through your head?[END]
-256-6E:
+256-6E:@Schau, wie oft muss ich es dir noch sagen?[WAIT]  Ich bin[PAUSE 20 00] kein Briefträger.[WAIT]@Wieso kriegst du das nicht in deinen Schädel?[END]
 // Repeats: 256-6, 260-6
 256-7:@Car.[END]
-256-7E:
+256-7E:@Auto.[END]
 // Repeats: 256-7, 260-7
 256-8:@Police car.[END]
-256-8E:
+256-8E:@Streifenwagen.[END]
 // Repeats: 256-8, 260-8
 256-9:@Gaze. Gaze.[END]
-256-9E:
+256-9E:@Starren. Starren.[END]
 // Repeats: 256-9, 260-9
 256-10:@Don't push. Don't push.[END]
-256-10E:
+256-10E:@Nicht drücken. Nicht drücken.[END]
 // Repeats: 256-10, 260-10
 256-11:@Trouble. Trouble.[END]
-256-11E:
+256-11E:@Ärger. Ärger.[END]
 // Repeats: 256-11, 260-11
 256-12:@Knock on wood. Knock on wood.[END]
-256-12E:
+256-12E:@Holz schlagen. Holz schlagen.[END]
 // Repeats: 256-12, 260-12
 256-13:@Oof. Oof.[END]
-256-13E:
+256-13E:@Uff. Uff.[END]
 // Repeats: 256-13, 260-13
 256-14:@Oog. Oog.[END]
-256-14E:
+256-14E:@Ugg. Ugg.[END]
 // Repeats: 256-14, 260-14
 256-15:[END]
-256-15E:
+256-15E:[END]
 
 [Container 257]
 257-0:@This is the big city life! [PAUSE 20 00]Or is it?[WAIT]@It somehow doesn't seem like it.[END]
-257-0E:
+257-0E:@Das ist das Großstadtleben! [PAUSE 20 00] Oder nicht?[WAIT]@Fühlt sich irgendwie nicht so an.[END]
 257-1:@Apparently, all of the waitresses in the[BREAK]  restaurant over there[WAIT]  are robots built to look like the mother of[BREAK]  some really important person.[END]
-257-1E:
+257-1E:@Anscheinend sind alle Kellnerinnen in dem[BREAK]  Restaurant da drüben[WAIT]  Roboter, die aussehen wie die Mutter einer[BREAK]  sehr wichtigen Person.[END]
 257-2:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@I was just talking business with this tiny fellow[BREAK]  here.[WAIT]  I'm not really sure what I should do, though...[END]
-257-2E:
+257-2E:@Oh, hallöchen [LUCAS 23 02 00].[WAIT]@Ich habe gerade ein ernstes Wörtchen mit[BREAK]  diesem kleinem Burschen geredet,[WAIT]  aber ich weiß nicht so wirklich, was ich tun[BREAK]  soll...[END]
 257-3:@What should I do...?[END]
-257-3E:
+257-3E:@Was soll ich tun...?[END]
 257-4:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@I was just talking business with this fellow[BREAK]  here.[WAIT]@I feel the time is finally ripe for us mole[BREAK]  crickets to try our luck in the big city, you see.[WAIT]@Are you an acquaintance of Jackie's, by any[BREAK]  chance?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-257-4E:
+257-4E:@Wir sind vielleicht klein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir erkämpfen unser Leben als[BREAK]  Maulwurfsgrillen.[WAIT]@Ich habe gerade mit dem Kerl hier ein ernstes[BREAK]  Wörtchen geredet.[WAIT]@Ich fühle, dass die Zeit endlich reif ist, dass wir[BREAK]  Maulwurfsgrillen unser Glück in der Großstadt[WAIT]  versuchen.[WAIT]@Bist du zufällig ein Bekannter von Jackie?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 257-5:@Could you ask him if he'd be willing to partner[BREAK]  with us mole crickets to strike it rich?[WAIT]@*twinkle*[END]
-257-5E:
+257-5E:@Könntest du ihn fragen, ob er mit uns eine[BREAK]  Partnerschaft eingeht möchte?[WAIT]@*funkel*[END]
 257-6:@Oh, that look says you're lying.[WAIT]@Heh heh heh.[WAIT]  Mole crickets like me who've lived at the[BREAK]  forefront of the business world[WAIT]  can easily see through such lies.[WAIT]@*twinkle*[END]
-257-6E:
+257-6E:@Oh, dieser Gesichtsausdruck sagt mir, dass[BREAK]  du lügst.[WAIT]@Heh heh heh.[WAIT]  Maulwurfsgrillen wie mich, die an der[BREAK]  vordersten Front der Business-Welt stehen,[WAIT]  können mit Leichtigkeit solche Lügen[BREAK]  durchschauen.[WAIT]@*funkel*[END]
 257-7:@Oh! This array of artisticness I see before me![WAIT]@The lion-ness gushing forth from it![BREAK]  The mask-ness dripping from it![WAIT]  And this nose hair-ness![BREAK]  And the archaicness.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]?[WAIT]@It's so magnificent it's positively frightening![END]
-257-7E:
+257-7E:@Oh! Dieser Strahl der Künstlerischheit, die sich[BREAK]  vor mir entfaltet![WAIT]@Die Löwigkeit sprudelt aus ihm hevor![WAIT]  Die Maskenhaftigkeit tropft davon![WAIT]  Und diese Nasenhaarigkeit![BREAK]  Und die Altmodischheit[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]?[WAIT]@Es ist so atemberaubend, dass es positiv[BREAK]  beängstigend ist![END]
 257-8:@Dona's a sucker for art.[WAIT]@She's been stuck to this spot for what seems[BREAK]  forever now.[END]
-257-8E:
+257-8E:@Dona ist verrückt nach Kunst.[WAIT]@Sie steht hier schon eine gefühlte Ewigkeit.[END]
 257-9:@Hey, Paul.[BREAK]@It says there's an amusement park this way![WAIT]@Let's go have a look![END]
-257-9E:
+257-9E:@Hey, Paul.[BREAK]@Hier entlang soll es ein Freizeitpark geben![WAIT]@Schauen wir es uns an![END]
 257-10:@Oh, you're always such a kid at heart.[END]
-257-10E:
+257-10E:@Oh, du bist im Herzen schon immer ein Kind[BREAK]  gewesen.[END]
 257-11:@Did you chase me all the way to New Pork?[WAIT]  *chew* *chew*[WAIT]@Not that there's anything wrong with that.[BREAK]  I think it's actually kind of charming.[WAIT]  *chew* *chew*[END]
-257-11E:
+257-11E:@Bist du mir den ganzen Weg nach New Pork[BREAK]  gefolgt?[WAIT]  *kau* *kau*[WAIT]@Nicht als wäre das irgendwas Schlimmes.[BREAK]  Ich finde das sogar ziemlich charmant.[WAIT]  *kau* *kau*[END]
 257-12:@No buts. No buts.[END]
-257-12E:
+257-12E:@Kein aber. Kein aber.[END]
 257-13:@But. But.[END]
-257-13E:
+257-13E:@Aber. Aber.[END]
 
 [Container 258]
 258-0:@This is the Empire Porky Building, headquarters[BREAK]  for the Porky Corporation.[WAIT]@Don't you dare touch it with your filthy, sticky[BREAK]  fingers![PAUSE 40 00] If you'd be so kind.[WAIT]@*smile* *smile*[END]
-258-0E:
+258-0E:@Dies ist das Empire Pokey Building, das[BREAK]  Hauptquartier der Pokey Corporation.[WAIT]@Wage es ja nicht, es mit deinen schmutzigen,[BREAK]  klebrigen Fingern zu berühren![PAUSE 40 00][WAIT]  Wenn du so nett wärst.[WAIT]@*lächel* *lächel*[END]
 258-1:@This is the Empire Porky Building, headquarters[BREAK]  for the Porky Corporation.[WAIT]@So you're the ones who...[PAUSE 3C 00] Heh heh heh.[WAIT]@No, no, no! It's nothing at all! Never mind me![WAIT]@*smile* *smile*[END]
-258-1E:
+258-1E:@Dies ist das Empire Pokey Building, das[BREAK]  Hauptquartier der Pokey Corporation.[WAIT]@Also du bist derjenige, der...[PAUSE 3C 00] Heh heh heh.[WAIT]@Nein nein nein! Es ist überhaupt nichts![BREAK]  Beachte mich nicht![WAIT]@*lächel* *lächel*[END]
 258-2:@Do I look like a hermit crab?![WAIT]@Oh! [LUCAS 23 02 00]! We were just practicing[BREAK]  our comedy routine.[END]
-258-2E:
+258-2E:@Seh ich etwa wie ein Einsiedlerkrebs aus?![WAIT]@Oh! [LUCAS 23 02 00]! Wir üben nur unser[BREAK]  Comedy-Sketch.[END]
 258-3:@Do I look like a hermit crab?![END]
-258-3E:
+258-3E:@Seh ich etwa wie ein Einsiedlerkrebs aus?![END]
 258-4:@Everyone's here nowadays, so this is where[BREAK]  you can see all your old friends again.[WAIT]@But do you suppose the forest and Tazmily and[BREAK]  all those other places are empty now?[WAIT]@I wonder what's going to happen to them.[END]
 258-4E:
 258-5:@Even nobodies like us have been caught up in[BREAK]  something really big...[END]
@@ -11624,49 +11624,49 @@
 
 [Container 260]
 260-0:@Welcome.[WAIT]@I heard from Master Porky that you would be[BREAK]  coming here.[WAIT]@He says you're quite strong.[WAIT]@In one way or another.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
-260-0E:
+260-0E:@Willkommen.[WAIT]@Meister Pokey hat mir erzählt,[BREAK]  dass ihr kommt.[WAIT]@Er sagt, dass ihr ziemlich stark seit.[WAIT]@Auf gewisse Weise.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
 // Repeats: 256-0, 260-0
 260-1:@You can go anywhere you want, aside from[BREAK]  the 100th floor of the Empire Porky Building.[WAIT]@In fact, go have a look around at everything.[END]
-260-1E:
+260-1E:@Ihr dürft überall hingehen, abgesehen von der[BREAK]  100. Etage des Empire Pokey Building.[WAIT]@Schaut euch ruhig um.[END]
 // Repeats: 256-1, 260-1
 260-2:@They say the DCMC are gonna have a concert[BREAK]  in this city.[WAIT]@I guess in that way, this city might not be half[BREAK]  bad at all.[END]
-260-2E:
+260-2E:@DCMC soll ein Konzert in dieser Stadt haben.[WAIT]@Wenn man's so sieht, ist die Stadt gar nicht[BREAK]  so übel.[END]
 // Repeats: 256-2, 260-2
 260-3:@Man, New Pork City doesn't make any sense.[WAIT]@I can't tell if it's kiddie-like, creepy, disgusting,[BREAK]  flashy, or what...[END]
-260-3E:
+260-3E:@Junge, New Pork City macht überhaupt kein[BREAK]  Sinn.[WAIT]@Ich weiß nicht, wie ich die Stadt beschreiben[BREAK]  sollte...[WAIT]  Kinderfreundlich, gruselig, abstoßend, protzig,[BREAK]  oder was auch immer...[END]
 // Repeats: 256-3, 260-3
 260-4:@Be sure to obey the rules of the road.[WAIT]@My heart is always filled with the rules of the[BREAK]  road.[END]
-260-4E:
+260-4E:@Beachte die Straßenordnung.[WAIT]@Mein Herz ist erfüllt von der Straßenordnung.[END]
 // Repeats: 256-4, 260-4
 260-5:@I'm sorry, but car puns[PAUSE 20 00] drive me crazy.[END]
-260-5E:
+260-5E:@I'm sorry, but car puns[PAUSE 20 00] drive me crazy.[END]
 // Repeats: 256-5, 260-5
 260-6:@Look, how many times do I have to tell you?[WAIT]  I'm [PAUSE 20 00]not a post office clerk.[WAIT]@Can't you get that through your head?[END]
-260-6E:
+260-6E:@Schau, wie oft muss ich es dir noch sagen?[WAIT]  Ich bin[PAUSE 20 00] kein Briefträger.[WAIT]@Wieso kriegst du das nicht in deinen Schädel?[END]
 // Repeats: 256-6, 260-6
 260-7:@Car.[END]
-260-7E:
+260-7E:@Auto.[END]
 // Repeats: 256-7, 260-7
 260-8:@Police car.[END]
-260-8E:
+260-8E:@Streifenwagen.[END]
 // Repeats: 256-8, 260-8
 260-9:@Gaze. Gaze.[END]
-260-9E:
+260-9E:@Starren. Starren.[END]
 // Repeats: 256-9, 260-9
 260-10:@Don't push. Don't push.[END]
-260-10E:
+260-10E:@Nicht drücken. Nicht drücken.[END]
 // Repeats: 256-10, 260-10
 260-11:@Trouble. Trouble.[END]
-260-11E:
+260-11E:@Ärger. Ärger.[END]
 // Repeats: 256-11, 260-11
 260-12:@Knock on wood. Knock on wood.[END]
-260-12E:
+260-12E:@Holz schlagen. Holz schlagen.[END]
 // Repeats: 256-12, 260-12
 260-13:@Oof. Oof.[END]
-260-13E:
+260-13E:@Uff. Uff.[END]
 // Repeats: 256-13, 260-13
 260-14:@Oog. Oog.[END]
-260-14E:
+260-14E:@Ugg. Ugg.[END]
 // Repeats: 256-14, 260-14
 260-15:@Welcome![WAIT]@I know you're from the sticks,[WAIT]  but you should buy some of the sophisticated[BREAK]  goods that New Pork has to offer![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 260-15E:
