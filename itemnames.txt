@@ -250,7 +250,7 @@
 007B: Jumbo Shrimp Soup
 007B-E: Jumbo Shrimp-Suppe
 007C: Giant Abalone Steak
-007C-E: Riesiges Meerohr-Steak
+007C-E: Riesen-Meerohr-Steak
 007D: Double Jerky
 007D-E: Doppel-Dörrfleisch
 007E: Grilled Chicken
@@ -370,7 +370,7 @@
 00B7: Baked Yam
 00B7-E: Gebackene Kartoffel
 00B8: Mole Cricket Brother
-00B8-E: Bruder-Maulwurfsgrille
+00B8-E: Bruder-Maulwurfgrille
 00B9: Hermit Crab Shell
 00B9-E: Einsiedlerkrebsschale
 00BA: Suspicious Tea
@@ -408,7 +408,7 @@
 00CA: Waters of Time
 00CA-E: Zeitwasser
 00CB: Stinkbug's Memory
-00CB-E: Stinkkäfers Erinnerung
+00CB-E: Stinkkäfererinnerung
 00CC: Phrygia's Notebook
 00CC-E: Phrygias Notizbuch
 00CD: Shield Snatcher

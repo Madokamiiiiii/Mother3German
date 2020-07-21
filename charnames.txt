@@ -294,9 +294,9 @@
 092:Drago Pup
 092-E:Drago Welpe
 093:Mole Cricket
-093-E:Maulwurfsgrille
+093-E:Maulwurfgrille
 094:Elder Cricket
-094-E:Ober-Maulwurfsgrille
+094-E:Ober-Maulwurfgrille
 095:Duster
 095-E:Duster
 096:Kumatora
