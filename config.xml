@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <M3Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <RomDirectory>D:\Mother 3 Translation</RomDirectory>
+  <RomDirectory>C:\Users\Fabian Weller\Desktop\Mother3German</RomDirectory>
   <FormParams>
     <item>
       <key>
@@ -36,6 +36,137 @@
           <WindowSize>
             <Width>286</Width>
             <Height>301</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmCompression</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>0</X>
+            <Y>0</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>212</Width>
+            <Height>100</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+          <ItemIndex>
+            <int>-1</int>
+          </ItemIndex>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmLogoEditor</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>52</X>
+            <Y>52</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>927</Width>
+            <Height>645</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmTownMapEditor</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>78</X>
+            <Y>78</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>687</Width>
+            <Height>711</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+          <ItemIndex>
+            <int>0</int>
+            <int>0</int>
+            <int>0</int>
+            <int>483</int>
+            <int>473</int>
+            <int>1</int>
+            <int>2</int>
+            <int>1</int>
+            <int>4</int>
+            <int>1</int>
+            <int>8</int>
+          </ItemIndex>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmMapViewer</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>0</X>
+            <Y>0</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>500</Width>
+            <Height>501</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+          <ItemIndex>
+            <int>4</int>
+          </ItemIndex>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmMainTextViewer</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>0</X>
+            <Y>0</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>500</Width>
+            <Height>476</Height>
+          </WindowSize>
+          <WindowState>Normal</WindowState>
+          <ItemIndex>
+            <int>0</int>
+            <int>0</int>
+          </ItemIndex>
+        </FormParams>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MOTHER3Funland.frmCharNamesEditor</string>
+      </key>
+      <value>
+        <FormParams>
+          <WindowLoc>
+            <X>0</X>
+            <Y>0</Y>
+          </WindowLoc>
+          <WindowSize>
+            <Width>396</Width>
+            <Height>130</Height>
           </WindowSize>
           <WindowState>Normal</WindowState>
         </FormParams>

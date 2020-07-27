@@ -972,7 +972,7 @@ org $9B05580; incbin gfx_chapt5-8_arrangement.bin
 org $98AA8D0; incbin gfx_3yearslater.bin
 
 // Insert YOU WON! graphics to replace YOU WIN!
-org $9C98A28; incbin gfx_youwon.bin
+org $9C98A28; incbin gfx_youwon_trans.bin
 
 // Insert text speed/window flavor graphics
 org $9BA141C; incbin gfx_flavours.bin
@@ -1168,8 +1168,8 @@ org $805AD14; bl introhackcode // bl extra_hacks.intro_screen //
 //org $9FAC000; incbin gfx_disclaimer_[c].bin
 //org $9FAFE00; incbin gfx_disclaimer_pal.bin
 //TEST INTRO SCREEN
-org $9FAC000; incbin test2.bin
-org $9FAFE00; incbin test.pal.bin
+org $9FAC000; incbin gfx_disclaimer_[c].bin
+org $9FAFE00; incbin gfx_disclaimer_pal.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1

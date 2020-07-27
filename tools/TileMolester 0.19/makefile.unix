@@ -1,0 +1,22 @@
+LALLEG = `allegro-config --libs`
+
+.PHONY: all
+.DEFAULT: all
+
+all: ted name chropt bmp2nes
+
+ted: ted.c
+	gcc -Wall -Os ted.c $(LALLEG) -o ted
+
+name: name.c
+	gcc -Wall -Os name.c $(LALLEG) -o name
+
+bmp2nes: bmp2nes.c
+	gcc -Wall -Os bmp2nes.c $(LALLEG) -o bmp2nes
+
+chropt: chropt.c
+	gcc -Wall -Os chropt.c -o chropt
+
+packbits: packbits.c
+	gcc -Wall -Os packbits.c -o packbits
+

@@ -1,0 +1,19 @@
+STATUS: Validatating gr.
+WARNING:   No explicit src path.
+STATUS: Validation succeeded.
+STATUS: Started run at: 2017-06-10, 22:14:19
+STATUS: Validatating gr.
+STATUS: Validation succeeded.
+STATUS: Preparing data.
+STATUS: Work-DIB creation.
+STATUS: Work-DIB creation complete: 256x192@8.
+STATUS: Tile preparation.
+STATUS: Tile preparation complete.
+STATUS: Graphics preparation.
+STATUS:   Bitpacking: 8 -> 4.
+STATUS: Graphics preparation complete.
+STATUS: Palette preparation.
+STATUS: Palette preparation complete.
+STATUS: Data preparation complete.
+STATUS: Export to binary files.
+STATUS: Run completed :).

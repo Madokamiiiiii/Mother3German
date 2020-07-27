@@ -39,7 +39,7 @@
 0012: Sticky Slug
 0012-E: Klebrige Schnecke
 0013: PORKY 02
-0013-E: POKEY 02
+0013-E: PORKY 02
 0014: King Statue
 0014-E: Königsstatue
 0015: Hippo Launcher
@@ -53,9 +53,9 @@
 0019: Tender Loving Tree
 0019-E: Liebevoller Baum
 001A: POKEY 03
-001A-E: POKEY 03
+001A-E: PORKY 03
 001B: POKEY 08
-001B-E: POKEY 08
+001B-E: PORKY 08
 001C: Miracle Fassad
 001C-E: Wunder-Fassad
 001D: Pigmask Major
@@ -65,7 +65,7 @@
 001F: Fenomeno
 001F-E: Fenomeno
 0020: Rhinocerocket Mark II
-0020-E: Rhinocerocket Mark II
+0020-E: Rhinozerakete Mark II
 0021: Angstbot
 0021-E: Angstbot
 0022: The Squeekz
@@ -93,7 +93,7 @@
 002D: Flying Mouse
 002D-E: Fliegende Maus
 002E: PORKY 01
-002E-E: POKEY 01
+002E-E: PORKY 01
 002F: Agitated Boar
 002F-E: Beunruhigtes Wildschwein
 0030: Mighty Bitey Snake
@@ -291,7 +291,7 @@
 0090: Fish Roe Man
 0090-E: Fischreh-Mann
 0091: PORKY 07
-0091-E: POKEY 07
+0091-E: PORKY 07
 0092: Return of Octobot
 0092-E: Rückkehr des Octobots
 0093: Carpet Monster
@@ -339,7 +339,7 @@
 00A8: Alkaline Man
 00A8-E: Laugenartiger Mann
 00A9: PORKY 06
-00A9-E: POKEY 07
+00A9-E: PORKY 07
 00AA: Pigmask Major
 00AA-E: Major Schweinemaske
 00AB: Pigmask Colonel
@@ -361,9 +361,9 @@
 00B3: Unwelcome Gust
 00B3-E: Unwilkommener Gast
 00B4: PORKY 09
-00B4-E: POKEY 09
+00B4-E: PORKY 09
 00B5: PORKY 10
-00B5-E: POKEY 10
+00B5-E: PORKY 10
 00B6: Titanian
 00B6-E: Titanian
 00B7: Upgraded Robot
@@ -375,9 +375,9 @@
 00BA: Tiny Forest
 00BA-E: Kleiner Wald
 00BB: PORKY 04
-00BB-E: POKEY 04
+00BB-E: PORKY 04
 00BC: PORKY 05
-00BC-E: POKEY 05
+00BC-E: PORKY 05
 00BD: Masked Man
 00BD-E: Maskierter Mann
 00BE: Masked Man
@@ -557,7 +557,7 @@
 0115: Frozen Drago
 0115-E: Eingefrorener Drago
 0116: Porky
-0116-E: Pokey
+0116-E: Porky
 0117: Thunder
 0117-E: Donner
 0118: Child Mouse
@@ -583,7 +583,7 @@
 0122: Water Column
 0122-E: Wassersäule
 0123: Distant Porkship
-0123-E: Fernes Schweinemakse
+0123-E: Fernes Schweineschiff
 0124: NO Rock Smoke
 0124-E: KEINE Steinwolke
 0125: Smoke

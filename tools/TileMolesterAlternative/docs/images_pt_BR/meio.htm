@@ -1,0 +1,1024 @@
+<html><title>Ajuda do Tile Molester</title>
+<body>
+<center>
+  <font size="2" face="Arial, Helvetica, sans-serif"><a name="install" id="install"></a></font>
+<table width="85%">
+    <tr> 
+      <td> <center>
+        </center>
+        <h2><font size="2" face="Arial, Helvetica, sans-serif"><font color="#9966FF" size="4">Notas 
+          de Instala&ccedil;&atilde;o</font></font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Este programa necessita 
+        do Java Runtime Environment (JRE) vers&atilde;o 1.4.0 ou mais recente 
+        (a vers&atilde;o usada durante o desenvolvimento foi a 1.4.2), o download 
+        do mesmo pode ser feito no site <a href="http://java.sun.com">java.sun.com</a>. 
+        <br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Copie o arquivo 
+          zipado do Tile Molester para um novo diret&oacute;tio. Extraia os arquivos 
+          (fa&ccedil;a de modo que preserve a estrutura de diret&oacute;rios). 
+          Agora voc&ecirc; pode rodar o Tile Molester com (por exemplo) um duplo 
+          clique no <b>tm.jar</b>. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Algumas pessoas 
+          tiveram problemas para rodar o Tile Molester porque os arquivos JAR 
+          n&atilde;o estavam associados ao Java Runtime Environment em sua m&aacute;quina 
+          vitual; ao ivnv&eacute;s disso, estava tipicamente associado a um programa 
+          de compress&atilde;o (parece que isso acontece principalmente no Windows 
+          (s&oacute;?), com usu&aacute;rios, por exemplo, do WinZip). Se voc&ecirc; 
+          n&atilde;o desejar mudar a configura&ccedil;&atilde;o de associa&ccedil;&atilde;o 
+          no programa, voc&ecirc; pode:<br>
+          1) rodar o Tile Molester por linha de comando, estando no diret&oacute;rio 
+          raiz do Tile Molester execute o comando <em><font color="#333333"><br>
+          <font color="#9966FF">java -jar tm.jar</font></font></em>, ou<br>
+          2) ponha esse <font face="Verdana, Arial, Helvetica, sans-serif">mesmo 
+          comando</font></font> <font size="2" face="Arial, Helvetica, sans-serif">num 
+          arquivo batch e salve no diret&oacute;rio raiz do Tile Molester. D&ecirc; 
+          um duplo clique nesse arquivo e ele far&aacute; o truque.</font></font> 
+        <p>&nbsp;</p>
+        <font face="Verdana, Arial, Helvetica, sans-serif"><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif"><a name="new"></a></font></font>
+<hr> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif">O 
+          que h&aacute; de novo</font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> v0.15a: <br>
+        </font></font> 
+        <p> 
+        <ul>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Esta vers&atilde;o 
+            doi lan&ccedil;ada principalmente para reparar dois bugs relacionados 
+            ao salvamento de paletas diretamente na ROM. N&atilde;o parece, isto 
+            &eacute; um avan&ccedil;o muito grande (e mesmo documentado muito 
+            raramente) saliento que de qualquer maneira eu n&atilde;o acredito 
+            que muitos de voc&ecirc;s tenham se deparado nisto.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Novo arquivo 
+            de especifica&ccedil;&atilde;o oficial incluido para adicionar suporte 
+            &agrave; extra&ccedil;&atilde;o de paleta de save states de Genecyst, 
+            Kega, Gens e FCEUltra, e a dicionado tamb&eacute;m formatos de paleta 
+            9bpp Genesis e 32bpp BMP.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Adicionado suporte 
+            para Tiles de 3bpp linear.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Tradu&ccedil;&atilde;o 
+            para o Espanhol agora inclu&iacute;da.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">E alguns outros 
+            consertos menores.</font></li>
+        </ul>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font size="4" face="Arial, Helvetica, sans-serif"><a name="intro"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font size="4" face="Arial, Helvetica, sans-serif"><font color="#9966FF">Introdu&ccedil;&atilde;o</font></font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Tile Molester, ou 
+        TM para encurtar, &eacute; um programa que facilita a visualiza&ccedil;&atilde;o 
+        e edi&ccedil;&atilde;o de dados de gr&aacute;ficos <i>raw</i>; isso &eacute;, 
+        gr&aacute;ficos presentes na maioria dos arquivos bin&aacute;rios, onde 
+        geralmente n&atilde;o se tem inicialmente conhecimento da localiz&atilde;o 
+        e/ou formato dos gr&aacute;ficos. A &aacute;rea principal de aplica&ccedil;&atilde;o 
+        do programa s&atilde;o os bin&aacute;rios de console de v&iacute;deo game. 
+        Na maioria dos casos, esses arquivos cont&eacute;m uma larga variedade 
+        de dados, n&atilde;o apenas gr&aacute;ficos, mas tamb&eacute;m od dados 
+        de som e o c&oacute;digo do jogo tamb&eacute;m est&atilde;o presentes. 
+        Podem ser entremeadas cole&ccedil;&otilde;es de dados em um mesmo arquivo, 
+        de qualquer tipo imagin&aacute;vel, isso depende das restri&ccedil;&otilde;es 
+        do hardware/software do ambiente de execu&ccedil;&atilde;o intencionado, 
+        assim como tamb&eacute;m as decis&otilde;es tomadas pelos produtores do 
+        bin&aacute;rio (os desenvolvedores). <br>
+        <font face="Arial, Helvetica, sans-serif"><font face="Courier New, Courier, mono"><font face="Georgia, Times New Roman, Times, serif"> 
+        <p> <font face="Arial, Helvetica, sans-serif">TM &eacute; um tipo de explorador 
+          visual de tais arquivos, ele permite interpretar o conte&uacute;do desses 
+          arquivos e mostr&aacute;-los em uma variedade de modos. Lendo o arquivo 
+          e adaptando a configura&ccedil;&atilde;o do interpretador, o dado bin&aacute;rio 
+          que corresponde aos gr&aacute;ficos podem ficar vis&iacute;veis da forma 
+          em que foram planejados, e edit&aacute;vel parra a satisfa&ccedil;&atilde;o 
+          do usu&aacute;rio. </font> 
+        <p>&nbsp; </font></font></font></font></font> 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"></font> <font face="Verdana, Arial, Helvetica, sans-serif"><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif"><a name="arc"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif">Arquitetura</font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Tile Molester foi 
+        projetado para ser t&atilde;o independente de formatos quanto poss&iacute;vel. 
+        Isso tem rela&ccedil;&atilde;o com os formatos de gr&aacute;fico, formatos 
+        de arquivos e formatos de paleta. A entidade b&aacute;sica e fundamental 
+        que abastace a funcionalidade do TM, &eacute; que</font><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+        os &quot;codecs gr&aacute;ficos&quot;</font></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+        foram misturados. Foi posto, simplesmente, um codec gr&aacute;fico no 
+        Tile Molester que &eacute; uma defini&ccedil;&atilde;o de uma grande variedade 
+        de dados (mais especificamente, uma matriz de bytes) que ser&atilde;o 
+        transformados (decodificados) em uma grade de pixels (ou tile), e de pixels 
+        de volta para dados (codificado). Em outras palavras, s&atilde;o especifica&ccedil;&otilde;es 
+        de formatos de gr&aacute;ficos, s&atilde;o precisamente as informa&ccedil;&otilde;es 
+        que o Tile Molester precisa ter em ordem para dar suporte a visualiza&ccedil;&atilde;o 
+        e edi&ccedil;&atilde;o de um formato em particular. N&atilde;o h&aacute; 
+        nenhum c&oacute;digo de formato dentro do Tile Molester; todos os formatos 
+        s&atilde;o definidos em um arquivo de c&oacute;digo externo que &eacute; 
+        lido durante o carregamento do programa. O arquivo de c&oacute;digo que 
+        vem com esta distribui&ccedil;&atilde;o do programa cont&eacute;m defini&ccedil;&otilde;es 
+        de v&aacute;rios formatos gr&aacute;ficos "padr&atilde;o" que s&atilde;o 
+        bem conhecidos e documentados. Por&eacute;m, o usu&aacute;rio tamb&eacute;m 
+        tem a possibilidade de editar o arquivo de c&oacute;digo e configurar/adicionar 
+        outros formatos.<br>
+        </font><font face="Georgia, Times New Roman, Times, serif"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Al&eacute;m de 
+          definir e descrever codecs gr&aacute;ficos, eles podem ser &quot;puxados&quot; 
+          pela extens&atilde;o do arquivo (filtro) usada no dialogo &quot;abrir 
+          arquivo&quot; no Tile Molester. </font><font size="2" face="Arial, Helvetica, sans-serif">Ao 
+          carregar um arquivo com uma determinada extens&atilde;o, o Tile Molester 
+          trocar&aacute; automaticamente para o modo gr&aacute;fico associado 
+          &agrave;quela extens&atilde;o.<br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Al&eacute;m disso, 
+          podem ser registrados os <em>"file listeners"</em> para restringir v&aacute;rios 
+          formatos de arquivo. Um <em>&quot;file listener&quot;</em> prov&ecirc; 
+          a detec&ccedil;&atilde;o de um formato de arquivo em particular, e &eacute; 
+          poss&iacute;vel o porcessamento de dados desse arquivo enquanto &eacute; 
+          carregado e/ou salvo pelo Tile Molester. Por exemplo, muitos formatos 
+          t&ecirc;m cabe&ccedil;alhos (headers) com campos que deveriam ser atualizados 
+          depois que os dados fossem modificados (como checksums). Outros formatos 
+          cont&eacute;m dados intercalados; o <em>file listener</em> &quot;desintercala&quot; 
+          os dados enquanto carrega, de forma que fiquem vis&iacute;veis, e &quot;reintercala&quot; 
+          quando o arquivo &eacute; salvo. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Os formatos das 
+          paleta e sua associa&ccedil;&atilde;o de extens&atilde;o de arquivo 
+          s&atilde;o controlados de forma muito similar a dos filtro de arquivos. 
+          Podem ser definidos o local, o tamanho e o formato de dados da paleta 
+          dentro de um arquivo de uma determinada extens&atilde;o, os dados s&atilde;o 
+          automaticamente processados e </font><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif">ent&atilde;o</font></font></font> 
+          <font size="2" face="Arial, Helvetica, sans-serif">a paleta &eacute; 
+          retirada desse arquivo pelo Tile Molester. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> A separa&ccedil;&atilde;o 
+          das defini&ccedil;&otilde;es de gr&aacute;ficos e de formato de arquivo 
+          do programa d&aacute; ao Tile Molester uma significativa flexibilidade 
+          para lidar com uma grande variedade de arquivos e formatos. Formatos 
+          gr&aacute;ficos, de arquivos, e de paletaa podem ser definidos, alterados, 
+          removidos e adicionados sem necessitar de mudan&ccedil;as na programa&ccedil;&atilde;o 
+          do Tile Molester. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> A figura 1 ilustra 
+          a id&eacute;ia geral por tr&aacute;s dos codecs gr&aacute;figos. <br>
+          </font></font></font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="fig1.png" width="486" height="485"></font> 
+          </center>
+          <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><i>Figura 1: </i>Rela&ccedil;&otilde;es 
+            entre formatos de gr&aacute;fico e codecs </font> 
+          </center>
+          <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font></font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Uma <em>fam&iacute;lia 
+          de formatos</em> &eacute; um grupo de formatos gr&aacute;ficos que t&ecirc;m 
+          uma cole&ccedil;&atilde;o de atributos em comum. Um <em>codec gen&eacute;rico</em> 
+          para tal fam&iacute;lia &eacute; um codificador/decodificador gr&aacute;fico 
+          que pode ser configurado para suportar qualquer membro da mesma. Um 
+          formato espec&iacute;fico &eacute; um membro da fam&iacute;lia. Podemos 
+          chegar a tal membro atribuindo uma cole&ccedil;&atilde;o de atributos 
+          com valores espec&iacute;fios. Finalmente, um <em>codec espec&iacute;fico</em> 
+          pode ser constru&iacute;do fundindo uma descri&ccedil;&atilde;o do formato 
+          espec&iacute;fico com o codec gen&eacute;rico. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Segue um exemplo 
+          na Figura 2. <br>
+          </font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="fig2.png" width="481" height="484"></font> 
+          </center>
+          <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><i>Figura 2: Como 
+            um codec de tiles pra Game Boy &eacute; constru&iacute;do.</i> </font> 
+          </center>
+          </font> 
+        <p>&nbsp; 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font size="4" face="Arial, Helvetica, sans-serif"><a name="how"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font size="4" face="Arial, Helvetica, sans-serif"><font color="#9966FF">Como 
+          utilizar </font></font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> O programa &eacute; 
+        propositalmente bem parecido com programas como Microsoft Paint e JASC 
+        Paintshop Pro em termos de administra&ccedil;&atilde;o geral de arquivo 
+        e edi&ccedil;&atilde;o de gr&aacute;fico. Vou supor que o usu&aacute;rio 
+        j&aacute; teve alguma experi&ecirc;ncia com estes ou programas similares, 
+        e por essa raz&atilde;o n&atilde;o incluirei instru&ccedil;&otilde;es 
+        de uso &quot;Para Leigos&quot;. (Se acontecer de algum leigo ler isso: 
+        Pode demorar um pouco at&eacute; que eu tenha a verba e os fundos necess&aacute;rios 
+        para publicar "Tile Molester Para Leigos" -- tenham paci&ecirc;ncia.) 
+        <br>
+        </font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Courier New, Courier, mono"><font face="Georgia, Times New Roman, Times, serif"> 
+        <p><font size="2"> <font face="Arial, Helvetica, sans-serif">Eu percebi 
+          que essa se&ccedil;&atilde;o &eacute; muito resumida, e ser&aacute; 
+          ampliada uma vez que eu receba avalia&ccedil;&atilde;o relativa &agrave; 
+          dificuldade em usar/acessar a funcionalidade do Tile Molester. O melhor 
+          modo para aprender agora mesmo sobre as caracter&iacute;sticas do programa 
+          &eacute; fazer bagun&ccedil;a e errar (ou fazer perguntas ao desenvolvedor). 
+          </font></font></font></font></font></font></font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Pesquisando o arquivo</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Use o <em>slider</em> 
+        (aquela seta que voc&ecirc; pode deslizar para cima ou para baixo) no 
+        lado esquerdo da janela de arquivo, voc&ecirc; poder&aacute; usar tamb&eacute;m 
+        os bot&otilde;es da barra de ferramentas ou o teclado. Como mencionado, 
+        a maioria dos bin&aacute;rios cont&eacute;m mais do que apenas dados gr&aacute;ficos, 
+        voc&ecirc; ter&aacute; que pesquisar em <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">grandes</font></font></font></font> 
+        por&ccedil;&otilde;es de arquivos antes de encontrar o ouro. Dados gr&aacute;ficos 
+        (n&atilde;o comprimidos) s&atilde;o geralmente muito f&aacute;ceis de 
+        encontrar. A estrat&eacute;gia que eu uso &eacute; ir rolando r&aacute;pidamente 
+        pelo arquivo usando o <em>slider</em>, tomar nota de <em>manchas interessantes</em>, 
+        e ent&atilde;o mudar para outros modos de exibi&ccedil;&atilde;o at&eacute; 
+        que (esperan&ccedil;osamente) algo legal se revele. <br>
+        </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Mudando o tamanho 
+          do quadro de tiles</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Muitas vezes &eacute; 
+        necess&aacute;rio mudar o n&uacute;mero de colunas e de linhas que s&atilde;o 
+        exibidas para que o gr&aacute;fico possa ser mostrado corretamente, por 
+        exemplo se um peda&ccedil;o do gr&aacute;fico tiver o comprimento de de 
+        oito tiles de largura, voc&ecirc; precisar&aacute; arrumar as dimens&otilde;es 
+        do quadro de tiles adequadamente (caso contr&aacute;rio os gr&aacute;ficos 
+        parecer&atilde;o adulterados). Isso pode ser feito na caixa de di&aacute;logo 
+        em <strong>Imagem &gt; Tamanho do quadro...</strong> ou aumentado atrav&eacute;s 
+        dos bot&otilde;es da barra de ferramentas. As teclas de atalho no Teclado 
+        para isso s&atilde;o Shift+ Cima|Baixo|Esquerda|Direita. <br>
+        </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Explica&ccedil;&atilde;o 
+          sobre os modos 1-D e 2-D</font></h3>
+        </font></font></font></font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">No 
+          menu <strong>Visualizar &gt; Modo,</strong> voc&ecirc; pode selecionar 
+          entre os modos 1 Dimens&atilde;o (1-D) ou 2 Dimens&otilde;es (2-D). 
+          Isso serve para facilitar a visualiza&ccedil;&atilde;o de respectivamentente 
+          os modos gr&aacute;ficos de tile individual e "bitmapped". No modo 1-D, 
+          os dados s&atilde;o interpretados como uma sucess&atilde;o de bitmaps 
+          individuais cada um com o tamanho de 8x8 pixels; um por um esses bitmaps 
+          (tiles) de 8x8 s&atilde;o armazenado na mem&oacute;ria. No modo 2-D, 
+          os dados s&atilde;o interpretadoa como <em>full bitmaps</em> onde depois 
+          cada scanline &eacute; armazenado um ap&oacute;s o outro na mem&oacute;ria.</font></font></font></font></font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Courier New, Courier, mono"><font face="Georgia, Times New Roman, Times, serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <font size="2"> <font face="Arial, Helvetica, sans-serif">O modo 1-D 
+          &eacute; mais comum em consoles com pouca mem&oacute;ria para gr&aacute;ficos, 
+          ou seja, os mais antigos. O modo 2-D &eacute; enontrado em consoles 
+          cuja a mem&oacute;ria para gr&aacute;ficos s&atilde;o grandes e possuem 
+          alta resolu&ccedil;&atilde;o, o que virou norma hoje em dia. Vers&otilde;es 
+          futuras do TM ser&atilde;o voltadas mais prov&aacute;velmente para estes 
+          sistemas; agora mesmo &eacute; um problema que esse tais modos s&oacute; 
+          possam ser vistos com uma resolu&ccedil;&atilde;o horizontal que &eacute; 
+          um m&uacute;ltiplo de oito. (Mas se eu removesse esta &quot;caracter&iacute;stica&quot;, 
+          o programa realmente n&atilde;o seria um Tile Molester, fala s&eacute;rio. 
+          : -]) </font><br>
+          </font></font></font></font></font></font> </font></font></font></font></p>
+        <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Dividindo o quadro 
+          de tiles em blocos</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">&Agrave;s vezes &eacute; 
+        muito &uacute;til poder dividir a grade de tiles em regi&otilde;es <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">menores</font></font></font></font> 
+        de tiles adjacentes, ou blocos. Estas &quot;sub-grades&quot; se tornam 
+        as unidades de exibi&ccedil;&atilde;o. Voc&ecirc; pode selecionar e modificar 
+        as dimens&otilde;es dos blocos na caixa de di&aacute;logo em <strong>Visualizar 
+        &gt; Tamanho dos blocos &gt; Definir...</strong>. Por exemplo, se voc&ecirc; 
+        determinou que o arquivo que voc&ecirc; est&aacute; editando cont&eacute;m 
+        umas s&eacute;ries de bitmaps cada um com <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">o 
+        tamanho de 4x4</font></font></font></font> tiles, voc&ecirc; poder&aacute; 
+        modificar esse tamanho, adequando o tamanho do bloco e pode &quot;juntar&quot; 
+        esses tiles numa quantidade desejada um ao lado do outro redimensionando 
+        o quadro de tiles. <br>
+        A Figura 3 ilustra a id&eacute;ia. (aqui as grades de blocos e tiles est&atilde;o 
+        habilidas para mostrar os limites entre eles.)<br>
+        </font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="../fig3.png"></font> 
+          </center>
+        <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          <i>Figura 3: </i></font><font size="2" face="Arial, Helvetica, sans-serif">Blocos 
+          com tamanho de 4x4 permitindo a exibi&ccedil;&atilde;o de multiplas 
+          imagens. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Quando voc&ecirc; 
+          modificar o tamanho do bloco este ficar&aacute; fixo quando voc&ecirc; 
+          redimensionar o quadro de tiles. Se voc&ecirc; desejar que o bloco seja 
+          do mesmo tamanho do quadro de tiles (i.e. trate o quadro inteiro como 
+          uma imagem que &eacute; a a&ccedil;&atilde;o padr&atilde;o), selecione 
+          a op&ccedil;&atilde;o <strong>Quadro inteiro</strong> no menu <strong>Visualizar 
+          &gt; Tamanho dos blocos</strong>. <br>
+          </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Blocos de ordem 
+          intercalada</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Pelo o que eu sei, 
+        isto s&oacute; &eacute; &uacute;til para trabalhar com certos formatos 
+        1-D, mas ainda assim &eacute; muito &uacute;til. Basicamente, os tiles 
+        s&atilde;o reordenados dentro de cada bloco como ilustrado nesta figura: 
+        <br>
+        </font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="fig4.png" width="303" height="91"></font> 
+          </center>
+        <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          <i>Figure 4: Um bloco de 4x2 n&atilde;o-intercalado (esquerda) versus 
+          intercalado (direita).</i></font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Portanto no modo 
+          intercalado, em vez dos tiles que serem exibibos simplesmente da esquerda 
+          para direita, eles ser&atilde;o exibidos em um tipo de padr&atilde;o 
+          de zig-zag, ou mais formalmente, um par de linhas sucessivas em um bloco, 
+          a primeira linha cont&eacute;m os tiles pares (0, 2, 4,...) enquanto 
+          a segunda linha cont&eacute;m os tiles &iacute;mpares (1, 3, 5,...). 
+          Isto realiza o efeito perfeito para exibir corretamente tiles com o 
+          tamanho de 8x16 pixels, que era um formato popular para sprites em alguns 
+          consoles (NES, Game Boy,...). Para acessar essa op&ccedil;&atilde;o 
+          voc&ecirc; deve habilitar <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Visualizar 
+          &gt; Blocos de ordem intercalada.<br>
+          </strong></font></font></font></font></font><font size="2" face="Arial, Helvetica, sans-serif">A 
+          figura 5 ilustra o impacto dram&aacute;tico que habilitar <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Blocos 
+          de ordem intercalada</strong></font></font></font></font></font></font></font></font> 
+          pode provocar nos gr&aacute;ficos que utilizam este formato.<br>
+          </font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="../fig5.png"></font> 
+          </center>
+          <font size="2" face="Arial, Helvetica, sans-serif"> </font> 
+        <p> 
+          <center>
+            <font size="2" face="Arial, Helvetica, sans-serif"><i>Figura 5: Sem 
+            usar o Intercalar linhas (cima) versus com Intercalar linhas (baixo).</i></font> 
+          </center>
+        <h3><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          Mudando o codec gr&aacute;fico</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Como foi mencionado, 
+        quando voc&ecirc; abre um arquivo para visualizar/editar, o Tile Molester 
+        tenta adivinhar o modo gr&aacute;fico correto baseado na extens&atilde;o 
+        do nome do arquivo. Por&eacute;m, pode acontecer de ser necess&aacute;rio 
+        mudar <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+        manualmente </font></font></font></font>o codec usado para exibir gr&aacute;ficos. 
+        Isto ou pode ser feito no menu <strong>Visualizar &gt;Modo</strong> ou 
+        apertando TAB ou Shift+TAB respectivamente para avan&ccedil;ar ou voltar, 
+        os codecs instalados. Em consoles mais antigos, havia geralmente um &uacute;nico 
+        formato gr&aacute;ficos por console, ent&atilde;o mudar o codec de tiles 
+        n&atilde;o era necess&aacute;rio uma vez que aquele formato foi estabelecido. 
+        Mas nos consoles mais novos, h&aacute; freq&uuml;entemente uma variedade 
+        de formatos usados; por exemplo, os gr&aacute;ficos no Nintendo 64 do 
+        jogo &quot;Zelda: Ocarina of Time&quot; variam de 4-bits &agrave; 32-bits. 
+        Assim embora o Tile Molester padronize a exibi&ccedil;&atilde;o de arquivos 
+        de N64, digamos, no modo 16-bit ARGB, n&atilde;o pense que que &eacute; 
+        o &uacute;nico modo gr&aacute;fico que voc&ecirc; achar&aacute; no N64.<br>
+        </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Marcadores</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Um marcador registra 
+        a maioria das informa&ccedil;&otilde;es do estado visual do momento em 
+        que foi criado, inclusive o <em>offset</em> do arquivo, modo gr&aacute;fico, 
+        configura&ccedil;&atilde;o de bloco e largura e altura do quadro. Voc&ecirc; 
+        pode restabelecer essas configura&ccedil;&otilde;es mais tarde simplesmente 
+        selecionando o marcador apropriado do menu <strong>Navegar</strong>. Os 
+        marcadores podem ser organizados hierarquicamente em diret&oacute;rios 
+        (pastas). <br>
+        </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Importando paletas 
+          internas</font></h3>
+        </font></font></font></font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Paletas 
+          podem ser referenciadas ou podem se extraidas diretamente do arquivo 
+          que voc&ecirc; est&aacute; editando pela caixa de di&aacute;logo <strong>Paleta 
+          &gt; Importar de... &gt; Deste arquivo</strong>. Sendo assim se voc&ecirc; 
+          souber o local, tamanho e formato de uma paleta dentro de um arquivo, 
+          voc&ecirc; poder&aacute; especificar isto aqui. (mostrar onde se encontram 
+          tais dados vai al&eacute;m da abrang&ecirc;ncia deste documento, e fora 
+          que pode variar muito de um tipo de arquivo para o outro). O checkbox 
+          &quot;Copiar&quot; na caixa de di&aacute;logo de importa&ccedil;&atilde;o, 
+          especif&iacute;ca se os dados devem ser copiados do arquivo ou se somente 
+          devem ser referenciados. Se forem referenciados, ent&atilde;o qualquer 
+          mudan&ccedil;a nos dados da paleta tamb&eacute;m afetar&atilde;o os 
+          dados no arquivo. </font></font></font></font></font></font></font></font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          </font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Courier New, Courier, mono"><font face="Georgia, Times New Roman, Times, serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <font size="2"> <font face="Arial, Helvetica, sans-serif">A administra&ccedil;&atilde;o 
+          de paleta &eacute;, de certo modo, semelhante a dos marcadores. Se voc&ecirc; 
+          criou ou importou uma paleta e quer manter suas informa&ccedil;&otilde;es/dados 
+          em uma base permanente, selecione <strong>Paleta &gt; Adicionar &agrave;s 
+          paletas</strong>.</font> </font></font></font></font></font></font> 
+          </font></font></font></font></p>
+        <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Arquivos de recurso</font></h3>
+        <font size="2" face="Arial, Helvetica, sans-serif">Para cada arquivo que 
+        voc&ecirc; abre, &eacute; criado um arquivo de recurso correspondente 
+        que cont&eacute;m os marcadores e paletas gravadas para esse arquivo. 
+        Estes arquivos de recuso, que est&atilde;o no formato XML, s&atilde;o 
+        amarzenados na pasta <strong>resources</strong>. Quando voc&ecirc; abre 
+        um arquivo, o Tile Molester automaticamente carrega o arquivo de recurso 
+        associado a ele.<br>
+        </font> 
+        <p> 
+        <h3><font size="2" face="Arial, Helvetica, sans-serif">Exportar e importar 
+          bitmaps</font></h3>
+        <p><font size="2" face="Arial, Helvetica, sans-serif">... pode ser feito 
+          do menu <strong>Editar:</strong> Exportar e Importar, respectivamente. 
+          Voc&ecirc; pode salvar e carregar bitmaps de uma variedade de formatos. 
+          Depois de exportar um grande peda&ccedil;o de gr&aacute;ficos em um 
+          bitmap, voc&ecirc; pode edit&aacute;-lo em um editor de gr&aacute;fico 
+          mais poderoso e pode import&aacute;-lo novamente para o Tile Molester 
+          quando estiver satisfeito. </font></p>
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif"><a name="conf"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif">Configurando 
+          o arquivo de especifica&ccedil;&otilde;es (Specs)</font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> A se&ccedil;&atilde;o 
+        abaixo &eacute; principalmente para usu&aacute;rios avan&ccedil;ados que 
+        desejam extender suporte de formatos no Tile Molester. <br>
+        </font><font face="Georgia, Times New Roman, Times, serif"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> As especifica&ccedil;&otilde;es 
+          do Tile Molester s&atilde;o armazenadas no arquivo tmspec.xml que est&aacute; 
+          no mesmo diret&oacute;rio do arquivo <strong>tm.jar</strong>. As especifica&ccedil;&otilde;es 
+          s&atilde;o escritas em XML <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif">(Extensible 
+          Markup Language)</font></font></font></font></font></font></font>. Com 
+          ela &eacute; poss&iacute;vel escrever <em>front-ends</em> dos quais 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif">seu 
+          conte&uacute;do </font></font></font></font></font></font></font>possa 
+          ser lido, modificado e gravado de um modo mais amig&aacute;vel ao usu&aacute;rio, 
+          apesar desta n&atilde;o ter sido uma prioridade durante o est&aacute;gio 
+          de desenvolvimento da aplica&ccedil;&atilde;o. Portando, voc&ecirc; 
+          precisar&aacute; estar familiarizado com XML para configurar os formatos 
+          de gr&aacute;ficos, extens&otilde;es de arquivo e tal. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> O esquema do arquivo 
+          de especifica&ccedil;&atilde;o &eacute; assim: <br>
+          </font></font></font> 
+        <p> <font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">-</font> 
+          <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">tmspec</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          &nbsp;&nbsp;<font color="#ff0000">+</font></font> <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">colorformats</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          &nbsp;&nbsp;<font color="#ff0000">+</font></font> <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">tileformats</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          &nbsp;&nbsp;<font color="#ff0000">+</font></font> <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">filefilters</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          &nbsp;&nbsp;<font color="#ff0000">+</font></font> <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">palettefilters</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          &nbsp;&nbsp;<font color="#ff0000">+</font></font> <font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&lt;</font><font color="#ff0000" size="2" face="Arial, Helvetica, sans-serif">filelisteners</font><font color="#0000ff" size="2" face="Arial, Helvetica, sans-serif">&gt;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> S&atilde;o explicados 
+          cada tag &quot;principal&quot; e subtags permitidas em detalhes a seguir.<br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#DIRECTCOLOR"></a> 
+        <b>directcolor</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define uma cor em termos dos componentes Vermelhos, Verdes, Azuis e 
+          Alfa.<br>
+          Os componentes s&atilde;o especificados como <em>bitmasks</em> (m&aacute;scara 
+          de bits = um bit usado para selecionar o bit desejado de uma palavra 
+          ou cadeia) em formato hexadecimal. Por exemplo, se o <em>bitmask</em> 
+          para Vermelho &eacute; FF0000, isto declara que o componente Vermelho 
+          fica situado nos bits 16-23 de uma palavra que ret&eacute;m um pixel 
+          (uma inst&acirc;ncia da cor). <br>
+          Cada m&aacute;scara tem que ter 1-bits consecutivo e o n&uacute;mero 
+          de 1-bits n&atilde;o devem exceder 8. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - Identifica&ccedil;&atilde;o. String de identifica&ccedil;&atilde;o 
+          &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          bpp - Bits per pixel. O n&uacute;mero de bits armazenado em um pixel 
+          que usa este formato de cor, por exemplo a soma do n&uacute;mero de 
+          bits nas bitmasks. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          rmask - Bitmask para o componente Vermelho. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          gmask - Bitmask para o componente Verde. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          bmask - Bitmask para o componente Azul. <i>[Requerido]</i><br>
+          amask - Bitmask para o componente <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          Alpha</font></font></font></font></font></font>. <i>[Opicional]</i> 
+          <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - Texto descrevendo o formato de cor. <i>[Requerido]</i> 
+          <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;directcolor id="CF00" bpp="15" rmask="001F" gmask="03E0" bmask="7C00"&gt;<br>
+          &nbsp;&nbsp;&lt;description&gt;15bpp BGR (555)&lt;/description&gt;<br>
+          &lt;directcolor&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#INDEXEDCOLOR"></a> 
+        <b>indexedcolor</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define um grupo de cores atrav&eacute;s de uma tabela predefinida de 
+          valores RGB (paleta). Quando uma cor neste formato precisar ser interpretada, 
+          pode ser observado na tabela para achar sua representa&ccedil;&atilde;o 
+          RGB correspondente. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Identifica&ccedil;&atilde;o. 
+          String de identifica&ccedil;&atilde;o &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          bpp - Bits per pixel. Este valor define o tamanho da tabela de consulta 
+          RGB; se 6 bits por pixel forem usados, a tabela tem que possuir 2^6=64 
+          entradas. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          format - Se refere ao atributo id de um formato <a href="#DIRECTCOLOR"> 
+          directcolor</a> definido. As entradas na tabela de consulta RGB s&atilde;o 
+          armazenadas neste formato.<br>
+          endianness - A ordem de bytes dos dados da tabela de consulta RGB (carregada 
+          para a mem&oacute;ria). Pode ser little ou big. <i>[Opcional]</i> <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          data - A tabela de consulta RGB, armazenadas como uma string de d&iacute;gitos 
+          hexadecimal. A string &eacute; interpretada como uma sucess&atilde;o 
+          de bytes armazenados no formato de <a href="#DIRECTCOLOR">directcolor</a> 
+          apropriado, usando a ordem de bytes especificada ordem. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o formato de cor. <i>[Requerido]</i> </font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;indexedcolor id="CF02" bpp="6" endianness="big"&gt;<br>
+          &nbsp;&nbsp;&lt;data&gt;757575271B8F <i><font color="#0000ff">(</font><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#6600FF" size="2" face="Arial, Helvetica, sans-serif"><i>e 
+          assim por diante</i></font></font></font></font></font></font></font></font><font color="#0000ff">...)</font></i> 
+          000000&lt;/data&gt;<br>
+          &nbsp;&nbsp;&lt;description&gt;Nintendo (NES)&lt;/description&gt;<br>
+          &lt;/indexedcolor&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#PLANARTILE"></a> 
+        <b>planartile</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Defini&ccedil;&atilde;o do formato de tile planar paletizado. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Identifica&ccedil;&atilde;o. 
+          String de identifica&ccedil;&atilde;o &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          bpp - Bits per pixel. Isto define tamb&eacute;m implicitamente quantos 
+          n&iacute;veis consiste o tile. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          planeorder - A ordem dos bytes que comp&otilde;em uma linha (oito pixels) 
+          do tile. Isto &eacute; uma lista de offsets relativos a zero separados 
+          por v&iacute;rgula. Os offsets maiores n&atilde;o devem exceder bpp-1. 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o formato de tile. <i>[Requerido]</i> </font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;planartile id="PL03" bpp="4" planeorder="0,1,2,3"&gt;<br>
+          &nbsp;&nbsp;&lt;description>4bpp planar&lt;/description&gt;<br>
+          &lt;/planartile&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#LINEARTILE"></a> 
+        <b>lineartile</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Defini&ccedil;&atilde;o de formato de tile linear paletizado. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Identifica&ccedil;&atilde;o. 
+          String de identifica&ccedil;&atilde;o &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          bpp - Bits per pixel. Deve ser um de 1, 2, 4 ou 8.<i> </i><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          ordering - A ordem dos dados de cada pixel dentro de um byte. Isso &eacute; 
+          parecido com endianness, mas num n&iacute;vel sub-byte. Pode ser usado 
+          como valores <strong>in</strong> e <strong>reverse</strong>; o primeiro 
+          &eacute; o padr&atilde;o. <i>[Opt]</i> <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o formato de tile. <i>[Requerido]</i> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;lineartile id="LN03" bpp="2" ordering="reverse"&gt;<br>
+          &nbsp;&nbsp;&lt;description&gt;2bpp linear, reverse-order&lt;/description&gt;<br>
+          &lt;/lineartile&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#DIRECTCOLORTILE"></a> 
+        <b>directcolortile</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define um formato de tile linear de direct-color. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Identifica&ccedil;&atilde;o. 
+          String de identifica&ccedil;&atilde;o &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          bpp - Bits per pixel. O n&uacute;mero de bits usados para armazenar 
+          um pixel que usa este formato de cor, por exemplo a soma do n&uacute;mero 
+          de bits nas bitmasks (m&aacute;scara de bits). <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          <br>
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">rmask 
+          - Bitmask para o componente Vermelho. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          gmask - Bitmask para o componente Verde. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font><br>
+          bmask - Bitmask para o componente Azul. <i>[Requerido]</i><br>
+          amask - Bitmask para o componente <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          Alpha</font></font></font></font></font></font>. <i>[Opicional]</i> 
+          </font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o formato de tile. <i>[Requerido]</i> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;directcolortile id="DC00" bpp="15" rmask="7C00" gmask="03E0" bmask="001F"&gt;<br>
+          &nbsp;&nbsp;&lt;description&gt;15bpp RGB (555)&lt;/description&gt;<br>
+          &lt;/directcolortile&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>compositetile</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define um formato de tile composto. Um tile composto &eacute; um tile 
+          formado por dois ou mais tiles separados onde cada tile &eacute; de 
+          um formato definido em outra parte. Cada tile pode por si mesmo estar 
+          composto, assim sendo um tipo de formato recursivo. Por exemplo, os 
+          tiles de <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Nintendo 
+          Entertainment System</font></font></font></font></font></font></font></font></font></font></font> 
+          (NES) s&atilde;o 2bpp planar, como os tiles de azulejos de <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          Game Boy</font></font></font></font></font></font></font></font></font></font></font>, 
+          mas o <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          diferente do tile Game Boy</font></font></font></font></font></font></font></font></font></font></font>, 
+          tiles de NES <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">s&atilde;o 
+          armazenados </font></font></font></font></font></font></font></font></font></font></font>como 
+          dois <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">tiles 
+          1bpp <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">(separados)</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          sucessivos . Esse modo n&atilde;o pode ser especificado por um formato 
+          de <a href="#PLANARTILE">planartile</a>; por&eacute;m, &eacute; facilmente 
+          definido como um formato de tile composto. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          id - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Identifica&ccedil;&atilde;o. 
+          String de identifica&ccedil;&atilde;o &uacute;nica. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          formats - Uma lista de string de identifica&ccedil;&atilde;o de formato 
+          de tile separados por v&iacute;gula; estes se referem aos formatos de 
+          tile outro lugar no documento de especifica&ccedil;&atilde;o. Esta lista 
+          define a ordem (come&ccedil;ando pelos bits menores) e o formato atual 
+          dos tiles individuais que comp&otilde;em o tile composto. &Eacute; adotado 
+          que os tiles ser&atilde;o armazenados consecutivamente na mem&oacute;ria. 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o formato de tile. <i>[Requerido]</i> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;compositetile id="CP01" formats="PL01,PL00"&gt;<br>
+          &nbsp;&nbsp;&lt;description&gt;3bpp planar, composite (2bpp+1bpp)&lt;/description&gt;<br>
+          &lt;/compositetile&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#FILEFILTER"></a> 
+        <b>filefilter</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define um filtro de arquivo. Um filtro de arquivo lhe permite associar 
+          arquivos de certas extens&otilde;es com um formato de gr&aacute;fico 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">e 
+          modo de exibi&ccedil;&atilde;o</font></font></font></font></font></font></font></font></font></font></font></font> 
+          padr&atilde;o. O filtro &eacute; usado pelo di&aacute;logo &quot;Abrir 
+          arquivo... &quot; no Tile Molester.<br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          extensions - Uma lista <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">de 
+          extens&otilde;es de arquivo (sem o <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">caracter</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          '.' ) </font></font></font></font></font></font></font></font></font></font></font></font><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">separada</font></font></font></font></font></font></font></font></font></font></font></font> 
+          por v&iacute;rgula a ser inclu&iacute;do no filtro de arquivo. O caracter 
+          coringa '?' &eacute; suportado para substituir qualquer caracter. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          <i>[Requerido]</i> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          tileformat - Refere a um formato de tile definido que dever&aacute; 
+          ser usado para exibir arquivos suportados por este filtro de arquivo. 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i> 
+          </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          mode - O modo padr&atilde;o para exibir gr&aacute;ficos de um arquivo 
+          quando suportado por este filtro. Pode ser 1D ou 2D. [Opcional].<br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Texto 
+          descrevendo o filtro de arquivo. <i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;filefilter extensions="n64,v64,z64" tileformat="DC06" mode="2D"&gt;<br>
+          &nbsp;&nbsp;&lt;description>Nintendo 64 (*.n64, *.v64, *.z64)&lt;/description&gt;<br>
+          &lt;/filefilter&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#PALETTEFILTER"></a> 
+        <b>palettefilter</b> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Define um filtro de paleta. Um filtro de paleta lhe permite associar 
+          arquivos de paleta (arquivos que cont&ecirc;m dados de paleta) de certas 
+          extens&otilde;es com informa&ccedil;&atilde;o de como ser os dados da 
+          paleta destes arquivos. O filtro &eacute; usado pelo di&aacute;logo 
+          &quot;Importar paleta externa&quot; no Tile Molester. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          extensions - Uma lista de extens&otilde;es de arquivo (sem o caracter 
+          '.') a serem incluidas no filtro de paletas. O caracter coringa '?' 
+          &eacute; suportado, serve para substituir qualquer caracter. <i>[Requerido]</i><br>
+          colorformat - String de identifica&ccedil;&atilde;o de um formato de 
+          cor definito que ser&aacute; usado para ler a paleta do arquivo. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          size - O tamanho da paleta (n&uacute;mero de entradas). <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          offset - O offset onde inicia os dados da paleta no arquivo.<font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i> 
+          [Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          endianness - Ordem de bytes dos dados da paleta. Pode ser little ou 
+          big; o primeiro &eacute; o padr&atilde;o. <i>[Opcional]</i> <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          description - Texto que descreve o filtro de paleta. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>[Requerido]</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;palettefilter extensions="zs?" colorformat="CF00" size="256" offset="52243" 
+          endianness="little"&gt;<br>
+          &nbsp;&nbsp;&lt;description>ZSNES Save States (*.zs?)&lt;/description&gt;<br>
+          &lt;/palettefilter&gt; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><a name="#FILELISTENER"></a> 
+        <b>filelistener</b><br>
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Descri&ccedil;&atilde;o</b>:<br>
+          Registra um <em>file listener</em>. Um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          recebe notifica&ccedil;&otilde;es quando um arquivo &eacute; carregado 
+          e no momento de ser salvo. Nestas ocasi&otilde;es podem ser executadas 
+          v&aacute;rias opera&ccedil;&otilde;es nos dados. Por exemplo, quando 
+          o arquivo &eacute; salvo, os checksums podem ser recalculados. O primeiro 
+          crit&eacute;rio para um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          receber notifica&ccedil;&otilde;es de leitura/grava&ccedil;&atilde;o 
+          de um arquivo, &eacute; a extens&atilde;o do tal arquivo salvo, estar 
+          entre as extens&otilde;es ligadas &agrave;quele <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font>. 
+          O segundo crit&eacute;rio &eacute; que o <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          tem que determinar qual os dados do arquivo realmente &eacute; do formato 
+          correto (e n&atilde;o, digamos, um arquivo de formato X salvo com a 
+          extens&atilde;o tipicamente relacionado ao formato Y). Isto &eacute; 
+          normalmente feito conferindo campos de cabe&ccedil;alho (ID strings 
+          e tal). O pr&oacute;prio <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          &eacute; implementado como uma classe de Java (mais sobre isto na pr&oacute;xima 
+          se&ccedil;&atilde;o). <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Atributos</b>:<br>
+          classname - O nome da classe (class) em Java onde est&aacute; implementada 
+          o file listener. <i>[Req]</i><br>
+          <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Subtags</b>:<br>
+          Nenhuma. <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Exemplo</b>:<br>
+          &lt;filelistener classname="NESFileListener"/&gt;<br>
+          </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><i>Observa&ccedil;&otilde;es</i>: 
+          <br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><i>A 
+          estrutura de especifica&ccedil;&atilde;o e tags n</i></font></font></font></font></font></font></font></font></font></font></font></font></font></font><i>&atilde;o 
+          est&atilde;o finalizadas e podem mudar em vers&otilde;es futuras. Sugest&otilde;es 
+          a esse respeito ser&atilde;o bem-vindas. </i> </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><i>N&atilde;o altere 
+          as especifica&ccedil;&otilde;es se voc&ecirc; n&atilde;o entendeu os 
+          pecs.</i></font> 
+        <p>&nbsp; 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif"><a name="write"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif">Escrevendo 
+          File Listeners</font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Escrever um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+        listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>, 
+        pode ser feito adicionando subclasses na classe abstrata TMFileListener 
+        que se encontra no diret&oacute;rio raiz da distribui&ccedil;&atilde;o 
+        de c&oacute;digo de fonte do programa. Os seguintes m&eacute;todos devem 
+        ser implementados:<br>
+        </font></font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif">public boolean 
+          doFormatDetect(final byte[] data, String extension):<br>
+          Peque uma matriz (array) de bytes que s&atilde;o o conte&uacute;do do 
+          arquivo, e extens&atilde;o de arquivo em letras min&uacute;sculas; retornando 
+          <em>true</em> (verdadeiro) se os dados e extens&atilde;o obedece o (s) 
+          formato(s) que o <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          suporta, e <em>false</em> (falso) caso contr&aacute;rio. (A pessoa pode 
+          escolher ignorar a extens&atilde;o se os pr&oacute;prios dados <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">sem 
+          d&uacute;vida</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          podem comprovar que os dados s&atilde;o do formato correto; por&eacute;m, 
+          isto geralmente n&atilde;o &eacute; recomendado).<br>
+          O c&oacute;digo parecer&aacute; com isso: </font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"> // <i>verificar 
+          extens&atilde;o</i><br>
+          if (!extension.equals("gba")) return false;<br>
+          // <i>verificar alguns campos do header</i><br>
+          // ...<br>
+          if (!header_valid) return false;<br>
+          // <i>formato verificado</i><br>
+          return true; </font> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif">public void fileLoaded(byte[] 
+          data, String extension):<br>
+          Invocado ap&oacute;s o arquivo ser carregado. Data (dados) s&atilde;o 
+          o conte&uacute;do do arquivo; <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">extension</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          &eacute; a extens&atilde;o em letras min&uacute;sculas do nome do arquivo. 
+          Este m&eacute;todo s&oacute; &eacute; invocado quando <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>doFormatDetect(data, 
+          extension)</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          retornar <em>true</em> (verdadeiro).<br>
+          </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif">public void fileSaving(byte[] 
+          data, String extension):<br>
+          Invocado antes do arquivo ser salvo. Os par&acirc;metros s&atilde;o 
+          iguais para <em>fileLoaded </em>(carregar arquivo). <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Uma vez que o <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          <em>file listener</em> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          foi compilado, deve ser posto no diret&oacute;rio raiz do Tile Molester 
+          e registrado na se&ccedil;&atilde;o &lt;filelisteners&gt; do arquivo 
+          de especifica&ccedil;&atilde;o (tmspec.xml). O <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          iniciar&aacute; eventos receptores da pr&oacute;xima vez que o Tile 
+          Molester for inciado. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> S&oacute; permitido 
+          um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+          <em>file listener</em> </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>processar 
+          um arquivo em particular. A ordem de <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">como 
+          o<em> file listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          est&aacute; definido no arquivo de especifica&ccedil;&atilde;o define 
+          a ordem em qual o Tile Molester procurar&aacute; um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          quando um arquivo for carregado. Assim que um <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          for encontrado, retornar&aacute; <em>true</em> (verdadeiro) em <em>doFormatDetect,</em> 
+          o <em>listener</em> receber&aacute; os eventos de <em>fileLoaded</em> 
+          e de <em>fileSaved </em>para o arquivo que possui os dados. <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Para exemplos reais 
+          de <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listener</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>, 
+          confira em um ou mais desses que est&atilde;o inclu&iacute;dos no c&oacute;digo 
+          fonte: Estes incluem GameBoyAdvanceFileListener e SegaGenesisFileListener. 
+          </font> 
+        <p>&nbsp; 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font size="4" face="Arial, Helvetica, sans-serif"><a name="lang"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font size="4" face="Arial, Helvetica, sans-serif"><font color="#9966FF">Suporte 
+          de Idiomas</font></font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> O Tile Molester pode 
+        ser traduzido facilmente para um idioma diferente. Dois passos s&atilde;o 
+        necess&aacute;rios: <br>
+        </font><font face="Georgia, Times New Roman, Times, serif"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> 1. Fa&ccedil;a 
+          uma c&oacute;pia do arquivo language_template (situado no subdiret&oacute;rio 
+          language) com o nome language_lc_CC.properties onde lc deve estar em 
+          letras min&uacute;sculas, c&oacute;digo de idioma de duas letras de 
+          acordo com as especifica&ccedil;&otilde;es ISO (veja um exemplo em <a href="http://www.ics.uci.edu/pub/ietf/http/related/iso639.txt" target="_blank">http://www.ics.uci.edu/pub/ietf/http/related/iso639.txt</a>) 
+          e CC deve estar em letras mai&uacute;sculas, c&oacute;digo de pa&iacute;s 
+          de duas letras em acordo com os padr&otilde;es ISO (veja um exemplo, 
+          <a href="http://www.chemie.fu-berlin.de/diverse/doc/ISO_3166.html" target="_blank">http://www.chemie.fu-berlin.de/diverse/doc/ISO_3166.html</a>).<br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> 2. Abra o novo 
+          arquivo novo em seu editor de texto preferido. As linhas que come&ccedil;am 
+          com # s&atilde;o coment&aacute;rios e n&atilde;o &eacute; necess&aacute;rio 
+          traduzir. As outras linhas s&atilde;o desta forma<br>
+          </font></font></font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><i>TranslationKey</i> 
+          = <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Onde TranslationKey 
+          &eacute; um nome descritivo de um peda&ccedil;o de texto e deve permanecer 
+          inalterado. &Agrave; direita do sinal de igualdade, o texto deve ser 
+          disposto no pr&oacute;prio idioma. Voc&ecirc; pode usar a tradu&ccedil;&atilde;o 
+          inglesa padr&atilde;o (language_en_US.properties) como um guia para 
+          fazer novas tradu&ccedil;&otilde;es.<br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> O arquivo de ajuda 
+          tamb&eacute;m pode ser traduzido. Fa&ccedil;a assim, fa&ccedil;a uma 
+          c&oacute;pia do arquivo de ajuda (help_en_US.htm) do diret&oacute;rio 
+          de docs com o nome help_lc_CC.htm (onde lc e CC s&atilde;o do padr&atilde;o 
+          acima) e traduza o texto para seu pr&oacute;prio idioma. </font> 
+        <p>&nbsp; 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font size="4" face="Arial, Helvetica, sans-serif"><a name="issues"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font size="4" face="Arial, Helvetica, sans-serif"><font color="#9966FF">Problemas 
+          conhecidos </font></font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Estes s&atilde;o alguns 
+        dos problemas e falhas <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+        atuais</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+        que ser&atilde;o (esperan&ccedil;osamente) consertados no futuro. De modo 
+        geral ser&atilde;o ignoradas reclama&ccedil;&otilde;es sobre estes assuntos 
+        (embora as pessoas que estar&atilde;o reclamando, <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">provavelmente 
+        </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>n&atilde;o 
+        tenham se dado ao trabalho de ler este documento...).<br>
+        </font></font> 
+        <p> 
+        <ul>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Erro de falta 
+            de mem&oacute;ria ao carregar arquivos realmente grandes. N&atilde;o 
+            h&aacute; muita coisa que eu possa fazer a respeito disso, isso &eacute; 
+            causado pela M&aacute;quina Virtua <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">Java</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>l 
+            (JVM). Mas isso pode ser pode ser retificado for&ccedil;ando o JVM 
+            a pegar mais mem&oacute;ria do sistema ao iniciar. Rode o Tile Molester 
+            por linha de comando com a op&ccedil;&atilde;o - mxXm onde X &eacute; 
+            o n&uacute;mero de megabytes que voc&ecirc; deseja; i.e. <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"> 
+            <em>java -mx500M -jar tm.jar</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+            para alocar 500MB.</font></li>
+          <li>Desfazer e refazer opera&ccedil;&otilde;es de Copiar/Colar n&atilde;o 
+            est&atilde;o perfeitos.</li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Editar cores 
+            no menu Paleta n&atilde;o faz nada. Julga-se que abrir&aacute; uma 
+            caixa de di&aacute;logo onde voc&ecirc; ver&aacute; todas as cores 
+            da paleta atual e ao clicar nelas possa edit&aacute;-las. At&eacute; 
+            o momento o &uacute;nico modo para editar cores &eacute; clicando 
+            duas vezes em uma cor <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">diretamente</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+            no painel de paleta.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">Problema estranho 
+            relacionado ao modo Tela cheia em alguns emuladores. Se voc&ecirc; 
+            estiver rodando o Tile Molester, ent&atilde;o vamos dizer que voc&ecirc; 
+            rode o FCEUltra em modo de Tela cheia, e depois volte para o TM, &agrave;s 
+            vezes a interface gr&aacute;fica aparece totalmente estranha. O jeito 
+            para arrumar isto &eacute; mudando o estado de janela principal, por 
+            exemplo minimizando e maximizando-a subseq&uuml;entemente. Isto acontece 
+            devido a um <em>BUG</em> na restaura&ccedil;&atilde;o de modo de tela 
+            do FCEUltra, ou um <em>BUG</em> no Java GUI <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif">runtimes</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>, 
+            ou ainda &agrave; ambos; n&atilde;o h&aacute; muito que eu possa fazer 
+            sobre isto.</font></li>
+          <li>O<font size="2" face="Arial, Helvetica, sans-serif"> bot&atilde;o 
+            Mover na caixa de di&aacute;logo Organizar Marcadores/Paletas n&atilde;o 
+            faz nada. &Eacute; suposto que mostrar&aacute; uma nova caixa de di&aacute;logo 
+            onde voc&ecirc; seleciona uma pasta para onde voc&ecirc; mover&aacute; 
+            o(s) item(s). Mas isso &eacute; de qualquer forma redundante, por 
+            que voc&ecirc; pode mover os &iacute;tens arrastando e soltando. F&aacute;cil 
+            implementar, mas &eacute; de baixa prioridade.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">A tradu&ccedil;&atilde;o 
+            n&atilde;o se aplica a 100% do programa.</font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif">A ferramenta 
+            de Mover (usado para &quot;arrastar&quot; o foco em uma tela com zoom) 
+            vai meio aos trancos.</font></li>
+          <li>Para mudar idiomas depois da primeira vez voc&ecirc; rodou o programa, 
+            voc&ecirc; dever&aacute; apagar o arquivo settings.xml e reiniciar 
+            o Tile Molester.</li>
+          <li>Muitas outras coisas min&uacute;sculas que servem para obscurecer 
+            o meu dia. Apostp que voc&ecirc; sabe o quais s&atilde;o elas. 
+        </ul>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font face="Verdana, Arial, Helvetica, sans-serif"><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif"><a name="feedback"></a></font></font> 
+        <hr>
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <p> <font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+        <h2><font color="#9966FF" size="4" face="Arial, Helvetica, sans-serif">Avalia&ccedil;&atilde;o 
+          e Contribui&ccedil;&otilde;es</font></h2>
+        <font size="2" face="Arial, Helvetica, sans-serif"> Achou bugs? <a href="mailto:kenth@stud.ntnu.no">Contate-me</a>. 
+        <br>
+        </font><font face="Georgia, Times New Roman, Times, serif"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Se voc&ecirc; fizer 
+          uma tradu&ccedil;&atilde;o completa para um idioma que n&atilde;o &eacute; 
+          suportado atualmente pelo Tile Molester, voc&ecirc; pode envi&aacute;-la 
+          pra mim, ser&aacute; postado no site e ser&aacute; inclu&iacute;da na 
+          pr&oacute;xima vers&atilde;o do programa.<br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> O mesmo vale se 
+          escrever novos <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listeners</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>, 
+          e novas defini&ccedil;&otilde;es de formatos gr&aacute;ficos, paleta 
+          e filtros. Eu estou particularmente interessado em <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif"><em>file 
+          listeners</em></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          para formatos de Nintendo 64 (n64, v64, z64), e defini&ccedil;&otilde;es 
+          dos formatos gr&aacute;ficos usados por v&aacute;rios consoles (Playstation, 
+          Dreamcast, Atari Lynx, Atari Jaguar, GamePark32, ColecoVision, NeoGeo, 
+          Intellivision, Sega Saturn...) <br>
+          </font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> Eu tamb&eacute;m 
+          estou interessado em cole&ccedil;&otilde;es de marcadores e paletas 
+          <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif">(resource 
+          files)</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          para bin&aacute;rios de console. A id&eacute;ia &eacute; construir um 
+          grande banco de dados de tais recursos, de forma que qualquer um que 
+          queira editar um arquivo em particular possa consultar o banco de dados 
+          primeiro para ver se <font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Georgia, Times New Roman, Times, serif"><font size="2" face="Arial, Helvetica, sans-serif">j&aacute; 
+          </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font> 
+          esxite informa&ccedil;&otilde;es documentadas sobre ele.<br>
+          </font></font></font> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"> D&ecirc; uma passada 
+          no <a href="http://www.stud.ntnu.no/~kenth/tm/">website do Tile Molester</a> 
+          para as mais recentes not&iacute;cias e desenvolvimentos.</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
+    </tr>
+  </table>
+<br>
+  <p> <i>&copy; Kent Hansen 2003</i> <br>
+    <em>Tradu&ccedil;&atilde;o <a href="http://www.madeinbrasil.org/portal"><font color="#000000">Central 
+    M.I.B. </font></a>&reg; 2005</em> 
+</center>
+</body>
+</html>

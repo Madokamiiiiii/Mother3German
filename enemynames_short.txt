@@ -14,23 +14,23 @@ Herr Genetor
 Maulwurfsgrille
 Gruseliger Schleim
 Heller Schleim
-Pokey
+Porky
 N.K. Cyborg
 Maskierter Mann
 Schweinesoldat
 Schweinesoldat
 Eifersüchtiger Bass
-Pokey
+Porky
 Klebrige Schnecke
-POKEY 02
+PORKY 02
 Königsstatue
 Nilpferdwerfer
 Neuer Fassad
 Gruseliger Schleim
 Lustlord
 Liebevoller Baum
-POKEY 03
-POKEY 08
+PORKY 03
+PORKY 08
 Wunder-Fassad
 Major Schweinemaske
 Großer Ameisenlöwe
@@ -49,7 +49,7 @@ Geizige Maus
 Feuerfliege
 Kartoffelmonster
 Fliegende Maus
-POKEY 01
+PORKY 01
 Beunru. Wildschwein
 Bissige Schlange
 Rußknödel
@@ -281,7 +281,7 @@ Lydia
 Mixolydia
 Hinawa
 Eingefrorener Drago
-Pokey
+Porky
 Donner
 Kindermaus
 Dr. Andonuts
