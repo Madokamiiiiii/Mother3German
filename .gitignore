@@ -77,3 +77,4 @@ shaders/xbr-lv2.shader/manifest.ini
 shaders/xbr-lv2.shader/xbr.vs
 shaders/xbr-lv3.shader/manifest.ini
 shaders/xbr-lv3.shader/xbr.vs
+tools/*
