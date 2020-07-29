@@ -116,7 +116,7 @@
 0038: Awesome Cloak
 0038-E: Fantastischer Mantel
 0039: Manly Bandana
-0039-E: Mänliches Bandana
+0039-E: Männliches Bandana
 003A: Chick Bandana
 003A-E: Schickes Bandana
 003B: Sparrow Bandana

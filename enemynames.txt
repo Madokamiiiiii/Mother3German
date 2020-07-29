@@ -35,7 +35,7 @@
 0010: Jealous Bass
 0010-E: Eifersüchtiger Bass
 0011: Porky
-0011-E: Pokey
+0011-E: Porky
 0012: Sticky Slug
 0012-E: Klebrige Schnecke
 0013: PORKY 02
@@ -555,7 +555,7 @@
 0114: Hinawa
 0114-E: Hinawa
 0115: Frozen Drago
-0115-E: Eingefrorener Drago
+0115-E: Gefrorener Drago
 0116: Porky
 0116-E: Porky
 0117: Thunder
@@ -641,7 +641,7 @@
 0140: Dragon Fireworks
 0140-E: Drachenfeuerwerk
 0141: Skyrocket
-0141-E: Himmelsrackete
+0141-E: Himmelsrakete
 0142: Police Car
 0142-E: Polizeiauto
 0143: Automobile

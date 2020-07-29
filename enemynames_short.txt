@@ -324,12 +324,12 @@ Game Balloon
 Baccios Drum
 Octopus Ink
 DrgnFirewrk
-Skyrocket
-Police Car
-Automobile
+Himmelsrakete
+Polizeiauto
+Auto
 AttcKotatsu
 WoodM3Title
 Overworld
 Underworld
-MenRoomDoor
+Badtür
 Aeolia&Sofa
