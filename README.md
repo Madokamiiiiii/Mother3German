@@ -5,3 +5,5 @@ Es werden aber gewiss einige Fehler vorhanden sein, da die Übersetzung noch nic
 
 ToDos sind Nebentexte (z.B. Gegnerbeschreibungen), ein paar Grafiken und ein paar wenige Zeilen im Skript.
 Hilfe ist wie immer sehr erwünscht.
+
+Zum Patchen wird eine originale Mother 3 Rom und ein BPS-Patcher (z. B. https://www.marcrobledo.com/RomPatcher.js/) benötigt.
