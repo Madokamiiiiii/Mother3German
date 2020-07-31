@@ -5,7 +5,7 @@
 1:No Favorites[END]
 1-E:Keine Favoriten[END]
 2:???[END]
-2-E: ???[END]
+2-E:???[END]
 3:Now saving...[END]
 3-E:Speichern...[END]
 4:Please do not turn off the power.[END]

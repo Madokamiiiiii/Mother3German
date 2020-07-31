@@ -129,11 +129,11 @@
 3F:Love
 3F-E:Liebe
 40:Home Run
-40-E:Home Run
+40-E:Sport
 41:Mach
 41-E:Zocken
 42:Top Spec
-42-E:Top Spec
+42-E:Bauen
 43:Mt. Fuji
 43-E:Wandern
 44:Camera

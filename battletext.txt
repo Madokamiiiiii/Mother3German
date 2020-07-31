@@ -372,7 +372,7 @@
 00B7: You encountered [00 EF][01 EF]![END]
 00B7-E: Du begegnest [00 EF][01 EF]![END]
 00B8: [00 EF][01 EF] suddenly attacked![END]
-00B8-E: [00 EF][01 EF] griff plötzlich an![END]
+00B8-E: [00 EF][01 EF] griff(en) plötzlich an![END]
 00B9: [00 EF][01 EF] blocked the way![END]
 00B9-E: [00 EF][01 EF] blockierte den Weg![END]
 00BA: [END]
