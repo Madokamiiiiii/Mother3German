@@ -184,33 +184,33 @@
 05B:Pigmask
 05B-E:Schweinemaske
 05C:Clayman
-05C-E:Clayman
+05C-E:Lehmmensch
 05D:Mr. Saturn
 05D-E:Mr. Saturn
 05E:Parrot
-05E-E:Parrot
+05E-E:Papagei
 05F:Skinhead
 05F-E:Glatzkopf
 060:Neckbeard
-060-E:Neckbeard
+060-E:Nackenbart
 061:Guy
 061-E:Kerl
 062:Dr. Andonuts
 062-E:Dr. Andonuts
 063:Attendant
-063-E:Attendant
+063-E:Teilnehmer
 064:(EMPTY)
 064-E:(EMPTY)
 065:Fish
-065-E:Fish
+065-E:Fisch
 066:Fish
-066-E:Fish
+066-E:Fisch
 067:Hermit Crab
-067-E:Hermit Crab
+067-E:Einsiedlerkrebs
 068:Lady
 068-E:Dame
 069:Hermit Crab
-069-E:Hermit Crab 
+069-E:Einsiedlerkrebs 
 06A:Sheep
 06A-E:Schaf
 06B:Cow
@@ -228,7 +228,7 @@
 071:Baccio
 071-E:Baccio
 072:Magic
-072-E:Magic
+072-E:Magie
 073:Drago Pup
 073-E:Drago Welpe
 074:Ionia
@@ -264,13 +264,13 @@
 083:Lumber
 083-E:Lumber
 084:Porky
-084-E:Pokey
+084-E:Porky
 085:Man
 085-E:Mann
 086:Frog
 086-E:Frosch
 087:Bonfire
-087-E:Bonfire
+087-E:Lagerfeuer
 088:Guy
 088-E:Kerl
 089:Boney
@@ -280,7 +280,7 @@
 08B:Cow
 08B-E:Kuh
 08C:Clayman
-08C-E:Clayman
+08C-E:Lehmmensch
 08D:Lucas
 08D-E:Lucas
 08E:Leo-Leo
@@ -304,7 +304,7 @@
 097:Arrow Lizard
 097-E:Pfeil Lizard
 098:O2 Machine
-098-E:O2 Maschine
+098-E:O2-Maschine
 099:Explorer
 099-E:Entdecker
 09A:Man
@@ -322,7 +322,7 @@
 0A0:Fuel
 0A0-E:Fuel
 0A1:Leder
-0A1-E:Leider
+0A1-E:Leder
 0A2:Mole Cricket
 0A2-E:Maulwurfsgrille
 0A3:Stray Dog
@@ -332,7 +332,7 @@
 0A5:Item Guy
 0A5-E:Verkäufer
 0A6:Shadow
-0A6-E:Shadow
+0A6-E:Schatten
 0A7:Sparrow
 0A7-E:Schwalbe
 0A8:Sat.Fisher
@@ -386,7 +386,7 @@
 0C0:Kumatora
 0C0-E:Kumatora
 0C1:Magic
-0C1-E:Magic
+0C1-E:Magie
 0C2:Pork Bomb
 0C2-E:Schweinebombe
 0C3:Person 195
@@ -394,9 +394,9 @@
 0C4:Hmm...
 0C4-E:Hmm...
 0C5:Paper Man
-0C5-E: Papiermann
+0C5-E:Papiermann
 0C6:Pork Saucer
-0C6-E:Untertasse
+0C6-E:Schweinetasse
 0C7:Old Guy
 0C7-E:Alter Kerl
 0C8:Interpreter
@@ -404,15 +404,15 @@
 0C9:Pig Book
 0C9-E:Schweinebuch
 0CA:Fixed Robot
-0CA-E:Roboter
+0CA-E:Stationärer Roboter
 0CB:Frog
 0CB-E:Frosch 
 0CC:Bonfire
-0CC-E:Bonfire
+0CC-E:Lagerfeuer
 0CD:Sea Slug
 0CD-E:Seeschnecke
 0CE:Bucket Bros
-0CE-E:Bucket Bros
+0CE-E:Eimer Bros.
 0CF:(EMPTY)
 0CF-E:(EMTPY)
 0D0:The Squeekz
@@ -420,9 +420,9 @@
 0D1:Pendant
 0D1-E:Anhänger
 0D2:Secrebot
-0D2-E:Secrebot
+0D2-E:Sekrebot
 0D3:Binoculars
-0D3-E:Binoculars
+0D3-E:Fernrohr
 0D4:Robot
 0D4-E:Roboter
 0D5:Pancho
@@ -430,7 +430,7 @@
 0D6:Pincho
 0D6-E:Pincho
 0D7:Tired Clayman
-0D7-E:Müder Clayman
+0D7-E:Müder Lehmmensch
 0D8:Frog
 0D8-E:Frosch
 0D9:Frog
@@ -456,7 +456,7 @@
 0E3:Person 227
 0E3-E:Person 227
 0E4:Pigskin Rug
-0E4-E:Schweinehaut Decke
+0E4-E:Schweinehautdecke
 0E5:Ocho
 0E5-E:Ocho
 0E6:Mole
@@ -520,7 +520,7 @@
 103:Item Guy
 103-E:Verkäufer
 104:Moved Rock
-104-E:Beweger Stein
+104-E:Bewegter Stein
 105:Blocking Rock
 105-E:Versperrender Stein
 106:Woman
@@ -546,7 +546,7 @@
 110:Frog
 110-E:Frosch
 111:O2 Machine
-111-E:O2 Maschine
+111-E:O2-Maschine
 112:Wan Sum Dung
 112-E:Wan Sum Dung
 113:Man
