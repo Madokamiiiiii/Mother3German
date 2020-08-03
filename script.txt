@@ -217,7 +217,7 @@
 0-93E:@Dein Team wurde vollständig geheilt.[END]
 // Repeats: 0-65, 0-93, 0-159, 0-160, 0-184, 0-185, 0-186
 0-94:@It looks like you could hook something to this[BREAK]  candlestick.[END]
-0-94E:@Es sieht so aus, als könntest du etwas auf[BREAK]  diesen Kerzenleuchter aufhängen.[END]
+0-94E:@Es sieht so aus, als könntest du etwas an[BREAK]  diesen Kerzenleuchter hängen.[END]
 0-95:@Muooon.[END]
 0-95E:@Myooon.[END]
 0-96:@Muooon?[END]
@@ -860,9 +860,9 @@
 4-3:@Bow-wow![WAIT]  (I'm so happy you take the time out to talk to[BREAK]  stray dogs.)[END]
 4-3E:@Bow-wow![WAIT]  (Ich bin so glücklich, dass du dir die Zeit[BREAK]  nimmst mit Streunern zu reden.)[END]
 4-4:@Bow-wow! Grrrr...[WAIT]  (My instincts scream, "Bark at him!"[WAIT]  Say, what do you do for a living? Don't tell me[BREAK]  you're actually a...)[END]
-4-4E:@Bow-wow! Grrrr...[WAIT]  (Mein Instinkt schreit, "Bell ihn an!"[WAIT]  Sag mir, wie lebst du? Sag mir nicht,[BREAK]  du bist eigentlich ein...)[END]
+4-4E:@Bow-wow! Grrrr...[WAIT]  (Mein Instinkt schreit, "Bell ihn an!"[WAIT]  Sag mir, was bist du? Sag mir nicht,[BREAK]  du bist eigentlich ein...)[END]
 4-5:@Bow-wow-wow![BREAK]  (You seem even more burglar-like now!)[END]
-4-5E:@Bow-wow-wow![BREAK]  (Jetzt scheinst noch mehr wie ein Verbrecher[BREAK]  zu sein!)[END]
+4-5E:@Bow-wow-wow![BREAK]  (Jetzt scheinst du noch mehr wie ein[BREAK]  Verbrecher zu sein!)[END]
 4-6:@Bow-wow![BREAK]  (You gotta be kidding me!)[END]
 4-6E:@Bow-wow![BREAK]  (Du machst wohl Witze!)[END]
 4-7:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, if it isn't [DUSTER 23 03 00].[WAIT]@I see you still enjoy your nighttime strolls.[WAIT]@Oh? You want to go to Osohe Castle?[WAIT]@In that case, I'll mark it on your map for you.[END]
@@ -872,7 +872,7 @@
 4-9:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@Just look for old man Nippolyte.[WAIT]@What do you mean, "Who is that?"[WAIT]@He's the old man who was at the cemetery[BREAK]  during [HINAWA 22 08 00]'s funeral.[END]
 4-9E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Such einfach nach den alten Mann Nipployte.[WAIT]@Was meinst du mit, "Wer ist das?"[WAIT]@Er ist der alte Mann, der bei der Beisetzung[BREAK]  von [HINAWA 22 08 00] dabei war.[END]
 4-10:@Oh, you're up rather early today,[BREAK]  [DUSTER 22 0F 00].[WAIT]@It isn't healthy to stay out of the sunlight, you[BREAK]  know.[END]
-4-10E:@Oh, du bist heute aber früh aufgestanden,[BREAK]  [DUSTER 22 0F 00].[WAIT]@Es ist nicht gesund, sich im Sonnenlicht[BREAK]  aufzuhalten, weißt du.[END]
+4-10E:@Oh, du bist heute aber früh wach,[BREAK]  [DUSTER 22 0F 00].[WAIT]@Es ist nicht gesund, sich im Sonnenlicht[BREAK]  aufzuhalten, weißt du.[END]
 4-11:@Oh, Wess! You're so silly![WAIT]@I'm not that pretty at all![END]
 4-11E:@Oh, Wess! Du bist soooo dumm![WAIT]@Ich bin doch gar nicht so schön![END]
 4-12:@Oh, hello.[WAIT]@Are you an acquaintance of Wess's?[END]
@@ -1409,13 +1409,13 @@
 11-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 11-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-11-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer, als die Tunnelpassage.[END]
+11-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 11-15:@Here, I'll give you the Drawbridge Key.[END]
 11-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
 // Repeats: 11-15, 212-15, 213-15
 11-16:@Nah, don't worry about giving it back. Just go[BREAK]  on and take it.[WAIT]@As long as I got this here underground[BREAK]  passage, that'll be enough for me.[END]
-11-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  es mir aus.[END]
+11-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  das mir aus.[END]
 // Repeats: 11-16, 212-16, 213-16
 11-17:@Received the Drawbridge Key![PAUSE 40 00][END]
 11-17E:@Den Zugbrückenschlüssel erhalten![PAUSE 40 00][END]
@@ -4214,7 +4214,7 @@
 47-28E:@Petition: Dabben für Deppen[END]
 // this is very very flexible to change, the original line doesn't make much sense. What I've done here is try to mimic the original text by listing two things and then one thing that doesn't match at all
 47-29:@Whew...[WAIT]@I can't stand doing work. I hate it.[WAIT]@I wish it'd be night already. Then I could go to[BREAK]  Titiboo.[WAIT]@...I guess you wouldn't understand, huh?[END]
-47-29E:@Phew...[WAIT]@Ich kann Arbeit nicht leiden. Ich hasse es.[WAIT]@Ich wünschte, es würde endlich Nacht werden.[BREAK]  Dann könnte ich nach Titiboo gehen.[WAIT]@...Du verstehst das nicht, oder?[END]
+47-29E:@Mann...[WAIT]@Ich kann die Arbeit nicht leiden. Ich hasse es.[WAIT]@Ich wünschte, es würde endlich Nacht werden.[BREAK]  Dann könnte ich nach Titiboo gehen.[WAIT]@...Du verstehst das nicht, oder?[END]
 47-30:@I- I'm not slacking off at all.[WAIT]@I'm sort of like, you know, keeping an eye out[BREAK]  for people who ARE slacking off.[PAUSE 20 00] Yeah.[WAIT]@What're you smirkin' about?![END]
 47-30E:@I-ich faulenze überhaupt nicht.[WAIT]@Ich mache irgendwie, weißt du, halte ein Auge[BREAK]  auf die Leute, DIE faulenzen.[PAUSE 20 00] Yeah.[WAIT]@Was gibt es da zu grinsen?![END]
 47-31:@[LUCAS 23 02 00]. Did you get paid yet?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -6111,7 +6111,7 @@
 103-2:@Oh, [DUSTER 23 03 00].[WAIT]@Won't some people think you're trying to steal[BREAK]  something if you go into their houses?[WAIT]@I don't think you are, though.[END]
 103-2E:@Oh, [DUSTER 23 03 00].[WAIT]@Werden ein paar Menschen sich nicht denken,[BREAK]  dass du versuchst zu stehlen, wenn du einfach[WAIT]  in ihre Häuser gehst?[WAIT]@Ich glaube aber nicht, dass du das tust.[END]
 103-3:@Oh, hi there, [DUSTER 23 03 00] and old man Wess.[WAIT]@Won't some people think you're trying to steal[BREAK]  something if you go into their houses?[WAIT]@I don't think you are, though.[END]
-103-3E:@Na ihr![WAIT]@Werden ein paar Menschen sich nicht denken,[BREAK]  dass ihr versucht zu stehlen, wenn ihr einfach[WAIT]  in ihre Häuser gehst?[WAIT]@Ich glaube aber nicht, dass ihr das tust.[END]
+103-3E:@Na ihr![WAIT]@Werden ein paar Menschen sich nicht denken,[BREAK]  dass ihr versucht zu stehlen, wenn ihr einfach[WAIT]  in ihre Häuser gehst?[WAIT]@Ich glaube aber nicht, dass ihr das tut.[END]
 103-4:@I really don't have anything interesting to say.[END]
 103-4E:@Ich habe nichts Interessantes zu erzählen.[END]
 103-5:@I have nothing to give you.[END]
@@ -6313,7 +6313,7 @@
 111-32:@Is this...?![END]
 111-32E:@Ist das...?![END]
 111-33:@This luster...[WAIT]@This texture...[WAIT]@This delicate, profound, and shiny...[PAUSE 20 00] quality![WAIT]@This is the legendary Noble Spittoon, passed[BREAK]  down from generation to generation in Osohe...[END]
-111-33E:@Dieser Glanz...[WAIT]@Diese Textur...[WAIT]@Diese zarte, fundierte, und glänzende...[PAUSE 20 00][BREAK]  Qualität![WAIT]@Das ist der legendäre Noble Spucknapf, das[BREAK]  über Generation über Generation[WAIT]  weitergegeben wurde...[END]
+111-33E:@Dieser Glanz...[WAIT]@Diese Textur...[WAIT]@Diese zarte, fundierte, und glänzende...[PAUSE 20 00][BREAK]  Qualität![WAIT]@Das ist der legendäre Noble Spucknapf, das[BREAK]  von Generation zu Generation[WAIT]  weitergegeben wurde...[END]
 111-34:@You found it![WAIT]@My judgment was correct after all![WAIT]@[DUSTER 23 03 00]![WAIT]@You're exceptionally...[EVENT][END]
 111-34E:@Du hast es gefunden![WAIT]@Meine Beurteilung war also korrekt![WAIT]@[DUSTER 23 03 00]![WAIT]@Du bist außergewöhnlich...[EVENT][END]
 111-35:@STUPIDER THAN I THOUGHT!!![EVENT][END]
@@ -7049,7 +7049,7 @@
 130-4:@Oh? I'm shocked to see you up at this hour.[WAIT]@To what do we owe this surprise?[END]
 130-4E:@Oh? Ich bin geschockt, Euch zu dieser Stunde[BREAK]  wach zu sehen.[WAIT]@Wegen was verdienen wir diese Überraschung?[END]
 130-5:@What can I do for you, Thief Family?[WAIT]@...Oh, yes, yes.[WAIT]  It's still some years off - I'm not sure how[BREAK]  many, exactly -[WAIT]  but there's talk about constructing something[BREAK]  called an "old folks' home".[WAIT]  I figure it'll be perfect for you, old man.[WAIT]@It'll be like a dream come true, so I hope you[BREAK]  look forward to it.[WAIT]@...Actually, an associate of sorts came to our[BREAK]  village this morning.[END]
-130-5E:@Was kann ich für Sie tun, Diebesfamilie?[WAIT]@...Oh, ja, ja.[WAIT]  Es sind noch ein paar Jahre - ich bin mir nicht[BREAK]  ganz sicher, wie viele genau -[WAIT]  aber es wird über den Bau über etwas namens[BREAK]  "altes Volkszuhause" gemunkelt.[WAIT]  Ich glaube, das ist perfekt für dich, alter Mann.[WAIT]@Es wird so sein, als würde ein Traum wahr[BREAK]  werden, also freuen Sie sich darauf.[WAIT]@...Ehrlich gesagt ist heute morgen irgendeine[BREAK]  Art Gesellschafter in unser Dorf gekommen.[END]
+130-5E:@Was kann ich für Euch tun, Diebesfamilie?[WAIT]@...Oh, ja, ja.[WAIT]  Es sind noch ein paar Jahre - ich bin mir nicht[BREAK]  ganz sicher, wie viele genau -[WAIT]  aber es wird über den Bau über etwas namens[BREAK]  "altes Volkszuhause" gemunkelt.[WAIT]  Ich glaube, das ist perfekt für Sie, alter Mann.[WAIT]@Es wird so sein, als würde ein Traum wahr[BREAK]  werden, also freuen Sie sich darauf.[WAIT]@...Tatsächlich ist heute morgen irgendein[BREAK]  Gesellschafter in unser Dorf gekommen.[END]
 130-6:@Oh, my! Welcome, little monkey![WAIT]@Shake![WAIT]@And welcome to you, too, Mr. Fassad.[END]
 130-6E:@Meine Güte! Willkommen, kleiner Affe![WAIT]@Gib Pfote![WAIT]@Und auch Ihnen, Herr Fassad.[END]
 130-7:@Oh, my![WAIT]@I do say! What a filthy monkey![WAIT]  Shoo! Shoo![WAIT]@Off with you![END]
@@ -7304,7 +7304,7 @@
 139-25E:@[DUSTER 23 03 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 139-25, 321-94
 139-26:[ALTERNATEFONT]@whew. saved.[END]
-139-26E:[ALTERNATEFONT]@phew, gerettet.[END]
+139-26E:[ALTERNATEFONT]@puh, gerettet.[END]
 139-27:@The Pigmasks were asking about the Needle's[BREAK]  location...[WAIT]  Do you really not know where it is?[END]
 139-27E:@Die Schweinemasken haben euch über die[BREAK]  Position der Nadel befragt...[WAIT]  Wisst ihr wirklich nicht, wo sie ist?[END]
 139-28:[ALTERNATEFONT]@do know.[END]
@@ -9558,15 +9558,15 @@
 211-18:@So much has happened...[WAIT]@Are you having trouble sleeping, too?[END]
 211-18E:@So viel ist passiert...[WAIT]@Hast du auch Probleme mit dem Schlafen?[END]
 211-19:@I take it that after all this time, you're finally[BREAK]  trying to fix your nocturnal lifestyle?[END]
-211-19E:@Ich verstehe das jetzt mal so: Du versuchst[BREAK]  endlich dein nächtlichen Lebensstil zu[WAIT]  reparieren?[END]
+211-19E:@Ich verstehe das jetzt mal so: Du versuchst[BREAK]  endlich deinen nächtlichen Lebensstil zu[WAIT]  reparieren?[END]
 211-20:@Everyone's been so pale since yesterday.[WAIT]@I baked some delicious [ITEM 5F 00]s to try to[BREAK]  cheer everyone up.[WAIT]@I made too many though, so you can have one.[END]
-211-20E:@Seit gestern sehen alle so blass aus.[WAIT]@Ich ein paar [ITEM 5F 00]e gebacken,[BREAK]  um alle aufzumuntern.[WAIT]@Ich habe aber zu viele gemacht, also darfst du[BREAK]  einen haben.[END]
+211-20E:@Seit gestern sehen alle so blass aus.[WAIT]@Ich habe ein paar [ITEM 5F 00]e gebacken,[BREAK]  um alle aufzumuntern.[WAIT]@Ich habe aber zu viele gemacht, also darfst du[BREAK]  einen haben.[END]
 211-21:@Say, I haven't seen [FLINT 22 01 00] today...[WAIT]@I'm a little worried.[END]
 211-21E:@Hmm. Ich habe [FLINT 22 01 00] heute nicht[BREAK]  gesehen...[WAIT]@Ich bin etwas besorgt.[END]
 211-22:@Oh, old man Wess.[WAIT]@You don't happen to know where little[BREAK]  [CLAUS 22 05 00] is, do you...?[PAUSE 10 00][WAIT]  No, I suppose not, huh?[WAIT]@I'm starting to get worried.[END]
 211-22E:@Oh, der alte Wess.[WAIT]@Du weißt nicht zufällig, wo der kleine[BREAK]  [CLAUS 22 05 00] ist, oder...?[PAUSE 10 00][WAIT]  Ich nehme mal ein Nein an?[WAIT]@Ich fange an, mir etwas Sorgen zu machen.[END]
 211-23:@Oh, my...[WAIT]@With all those items you already have, you[BREAK]  can't carry this [ITEM 5F 00].[WAIT]@I guess I'll just have to eat it myself.[BREAK]@Heehee.[END]
-211-23E:@Oh je...[WAIT]@Mit all diesen Gegenständen in deiner Tasche,[BREAK]  kannst du den [ITEM 5F 00] gar nicht tragen.[WAIT]@Dann muss ich ihn eben selbst essen.[BREAK]@Heehee.[END]
+211-23E:@Oh je...[WAIT]@Mit all diesen Gegenständen in deiner Tasche[BREAK]  kannst du den [ITEM 5F 00] gar nicht tragen.[WAIT]@Dann muss ich ihn eben selbst essen.[BREAK]@Heehee.[END]
 211-24:@There's a really creepy guy at the Yado Inn.[END]
 211-24E:@In der Yado Kneipe ist ein sehr gruseliger Kerl.[END]
 211-25:@I saw him hit his monkey.[WAIT]@...He just went, "Pow!"[END]
@@ -9754,13 +9754,13 @@
 212-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 212-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-212-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer, als die Tunnelpassage.[END]
+212-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 212-15:@Here, I'll give you the Drawbridge Key.[END]
 212-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
 // Repeats: 11-15, 212-15, 213-15
 212-16:@Nah, don't worry about giving it back. Just go[BREAK]  on and take it.[WAIT]@As long as I got this here underground[BREAK]  passage, that'll be enough for me.[END]
-212-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  es mir aus.[END]
+212-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  das mir aus.[END]
 // Repeats: 11-16, 212-16, 213-16
 212-17:@Received the Drawbridge Key![PAUSE 40 00][END]
 212-17E:@Den Zugbrückenschlüssel erhalten![PAUSE 40 00][END]
@@ -9850,13 +9850,13 @@
 213-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 213-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-213-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer, als die Tunnelpassage.[END]
+213-14E:@Oh, der Sohn vom alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 213-15:@Here, I'll give you the Drawbridge Key.[END]
 213-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
 // Repeats: 11-15, 212-15, 213-15
 213-16:@Nah, don't worry about giving it back. Just go[BREAK]  on and take it.[WAIT]@As long as I got this here underground[BREAK]  passage, that'll be enough for me.[END]
-213-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  es mir aus.[END]
+213-16E:@Nah, brauchst du nicht zurückzugeben. Geh[BREAK]  schon und nimm ihn.[WAIT]@Solang ich diese Tunnelpassage habe, reicht[BREAK]  das mir aus.[END]
 // Repeats: 11-16, 212-16, 213-16
 213-17:@Received the Drawbridge Key![PAUSE 40 00][END]
 213-17E:@Den Zugbrückenschlüssel erhalten![PAUSE 40 00][END]
@@ -12640,7 +12640,7 @@
 327-31:@Okay! Oxygen supply complete![WAIT]@Time to head for Tanetane Island![END]
 327-31E:@Okay! Sauerstoffversorgung abgeschlossen![WAIT]@Zeit zur Insel Tanetane zu gehen![END]
 327-32:@Whew...[WAIT]@I know they supply us with oxygen, but these[BREAK]  machines just aren't my thing...[WAIT]@They're really demoralizing.[END]
-327-32E:@Phew...[WAIT]@Ich weiß, sie geben uns Sauerstoff, aber diese[BREAK]  Maschinen sind einfach nicht so mein Ding...[WAIT]@Sie sind ziemlich demoralisierend.[END]
+327-32E:@Mann...[WAIT]@Ich weiß, sie geben uns Sauerstoff, aber diese[BREAK]  Maschinen sind einfach nicht so mein Ding...[WAIT]@Sie sind so demoralisierend.[END]
 327-33:@...Really?[WAIT]@I like 'em a lot.[END]
 327-33E:@...Wirklich?[WAIT]@Ich lieb' sie.[END]
 327-34:@Danger![WAIT]  Don't forget to supply yourself with oxygen[BREAK]  while underwater.[WAIT]@Use the oxygen supply machines efficiently and[BREAK]  effectively.[END]
@@ -15259,7 +15259,7 @@
 442-0:@Fassad and the others have the area below[BREAK]  cut off.[END]
 442-0E:@Fassad und die anderen haben den unteren Ort[BREAK]  abgeschnitten.[END]
 442-1:@...Whew.[WAIT]@That's better. Much easier to move around[BREAK]  now.[END]
-442-1E:@...Phew.[WAIT]@Das ist schon besser. Jetzt kann man sich[BREAK]  viel leichter bewegen.[END]
+442-1E:@...Puh.[WAIT]@Das ist schon besser. Jetzt kann ich mich[BREAK]  viel leichter bewegen.[END]
 442-2:@Oh, but it looked pretty good on you.[WAIT]@Ahahaha![END]
 442-2E:@Oh, aber es sah ziemlich gut an dir aus.[WAIT]@Ahahaha![END]
 442-3:[END]
@@ -17164,7 +17164,7 @@
 552-8:@Alright. Good work.[WAIT]@You can just leave it there. We'll handle it[BREAK]  from here.[WAIT]@Go and get the next one.[END]
 552-8E:@Alles klar. Gute Arbeit.[WAIT]@Du kannst ihn einfach hier stehen lassen.[BREAK]  Wir kümmern uns um den Rest.[WAIT]@Geh und hol den nächsten.[END]
 552-9:@Whew. Good work.[BREAK]@That's enough for today.[WAIT]@Don't forget to get your pay from Mr. Brown![BREAK]  He's the guy at the entrance.[END]
-552-9E:@Phew. Gute Arbeit.[BREAK]@Das reicht für heute.[WAIT]@Vergiss nicht deine Bezahlung von Herr Braun[BREAK]  abzuholen![WAIT]  Das ist der Typ beim Eingang.[END]
+552-9E:@Puh. Gute Arbeit.[BREAK]@Das reicht für heute.[WAIT]@Vergiss nicht deine Bezahlung von Herr Braun[BREAK]  abzuholen![WAIT]  Er ist der Typ beim Eingang.[END]
 552-10:@[NOTE] It's payday, yeah, it's time to play! [NOTE][WAIT]  [NOTE] Let's hit up Titiboo from the ropeway [NOTE][WAIT]  [NOTE] Violet really knows how to make me sway [NOTE][WAIT]  [NOTE] I hope she doesn't notice my toupee [NOTE][WAIT]@...I'm thinking of writing a song about Club[BREAK]  Titiboo.[END]
 552-10E:@[NOTE] Es ist Zahltag, yeah, Zeit zum Spielen! [NOTE][WAIT]  [NOTE] Auf nach Titiboo mit der Seilbahn [NOTE][WAIT]  [NOTE] Violet weiß, wie man mich kriegt [NOTE][WAIT]  [NOTE] Ich hoffe, sie bemerkt nicht mein Toupet [NOTE][WAIT]@...Ich denke darüber nach, ein Lied über Club[BREAK]  Titiboo zu schreiben.[END]
 552-11:@[NOTE] It's payday, yeah, it's time to play! [NOTE][WAIT]  [NOTE] Let's hit up Titiboo from the ropeway [NOTE][WAIT]  [NOTE] Kumatora really knows how to make me[BREAK]     sway [NOTE][WAIT]  [NOTE] I hope she doesn't notice my toupee [NOTE][WAIT]@...I'm thinking of writing a song about Club[BREAK]  Titiboo.[END]
@@ -17328,10 +17328,10 @@
 624-4E:@Nein, du bist nicht normal.[WAIT]@Du scheinst ein diebischer Mensch zu sein![END]
 // Repeats: 624-4, 633-4
 624-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-624-5E:@Genau![BREAK]  Du bist SO ein normaler Mensch![END]
+624-5E:@Genau![BREAK]  Du bist nämlich DIESE Art normaler Mensch![END]
 // Repeats: 624-5, 633-5
 624-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-624-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiiß.[END]
+624-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiß.[END]
 // Repeats: 624-6, 633-6
 624-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
 624-7E:@Wie ich sagte...![WAIT]@Wein...[PAUSE 5A 00][BREAK]  ist meine brennende Leidenschaft.[WAIT]@Versteh mich doch![END]
@@ -17349,16 +17349,16 @@
 624-11E:@Wir verschwenden kein Essen. Ehrlich.[END]
 // Repeats: 624-11, 633-11
 624-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-12E:@Willste och was zu ess'n?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+624-12E:@Möchteste auch was zu ess'n?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 624-13:@Here you go.[END]
-624-13E:@Bitt' schö.[END]
+624-13E:@Bidde sehr.[END]
 // Repeats: 624-13, 633-13
 624-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-624-14E:@[ITEM 67 00] hier im Schloss schmeckt[BREAK]  genauso wie Mama es immer gemacht hat.[WAIT]@Probier mal![END]
+624-14E:@Dieses [ITEM 67 00] hier im Schloss schmeckt[BREAK]  genauso wie Mama es immer gemacht hat.[WAIT]@Probier mal![END]
 // Repeats: 624-14, 633-14
 624-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-624-15E:@Willste mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+624-15E:@Möchteste noch mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 624-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
 624-16E:@Hat di dei' Mam nie beigebrach' och ma'[BREAK]  Nee zu sag'n?![END]
@@ -17382,7 +17382,7 @@
 624-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und mich einzubringen.[END]
 // Repeats: 624-22, 633-22
 624-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-624-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Es ist großartig![WAIT]  Es bewegt! Es ist herzzereißend![BREAK]  Es ist andeutend![END]
+624-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzereißend![BREAK]  Er ist andeutend![END]
 // Repeats: 624-23, 633-23
 624-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
 624-24E:@Vorher waren hier ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]
@@ -17403,14 +17403,14 @@
 624-29E:@Hey, Affe![BREAK]  Wir gehen jetzt in den Keller![WAIT]@Irgendwo im Schloss sollte es einen Eingang in[BREAK]  den Keller geben.[WAIT]@Finde ihn![END]
 // Repeats: 624-29, 633-29
 624-30:@Whew.[PAUSE 5A 00] Boy, it's stuffy in this thing...[END]
-624-30E:@Phew.[PAUSE 5A 00] Junge ist es stickig hier...[END]
+624-30E:@Puh.[PAUSE 5A 00] Junge, ist es stickig hier...[END]
 // Repeats: 624-30, 633-30
 // same guy shows up in the farm area saying similar stuff
 624-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
-624-31E:@Herr Fassad![WAIT]@Wir sind unsterblich![WAIT]@Wenn wir uns alle konzentrieren, könnten wir[BREAK]  sogar riesige Rüben aus den Boden ziehen![END]
+624-31E:@Herr Fassad![WAIT]@Wir sind unbezwingbar![WAIT]@Wenn wir uns ganz dolle anstrengen,[WAIT]  könnten wir sogar riesige Rüben aus der Erde[BREAK]  ziehen![END]
 // Repeats: 624-31, 633-31
 624-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-624-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobelten[BREAK]  Mitglied in unserer Gruppe.[END]
+624-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobeltes[BREAK]  Mitglied in unserer Gruppe.[END]
 // Repeats: 624-32, 633-32
 624-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
 624-33E:@Wir haben gefeiert und gefeiert und gefeiert,[BREAK]  aber irgendwann wurde es langeweilig.[WAIT]@Also haben mehr und mehr von uns das[BREAK]  Partyleben aufgegeben.[END]
@@ -17584,7 +17584,7 @@
 632-2:@All the fireplaces in this castle are connected[BREAK]  via a squeekret passageway.[WAIT]  Keep it a squeekret from the ghosts, though.[END]
 632-2E:@Alle Kamine in diesem Schloss sind über einen[BREAK]  Geheimgang miteinander verbunden.[WAIT]  Halte das aber vor den Geister geheim.[END]
 632-3:@This grandfather clock no longer works.[END]
-632-3E:@Die Standuhr funktioniert nicht mehr.[END]
+632-3E:@Die Standuhr funktioniert nicht.[END]
 // Repeats: 632-3, 642-17
 
 [Container 633]
@@ -17604,10 +17604,10 @@
 633-4E:@Nein, du bist nicht normal.[WAIT]@Du scheinst ein diebischer Mensch zu sein![END]
 // Repeats: 624-4, 633-4
 633-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-633-5E:@Genau![BREAK]  Du bist SO ein normaler Mensch![END]
+633-5E:@Genau![BREAK]  Du bist nämlich DIESE Art normaler Mensch![END]
 // Repeats: 624-5, 633-5
 633-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-633-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiiß.[END]
+633-6E:@Wein...[PAUSE 5A 00][BREAK]  ist das Wasser des Lebens.[WAIT]@In diesem Schloss bin ich derjenige, der am[BREAK]  meisten weiß.[END]
 // Repeats: 624-6, 633-6
 633-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
 633-7E:@Wie ich sagte...![WAIT]@Wein...[PAUSE 5A 00][BREAK]  ist meine brennende Leidenschaft.[WAIT]@Versteh mich doch![END]
@@ -17625,16 +17625,16 @@
 633-11E:@Wir verschwenden kein Essen. Ehrlich.[END]
 // Repeats: 624-11, 633-11
 633-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-12E:@Möchtest du auch etwas zu essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+633-12E:@Möchteste auch was zu ess'n?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 633-13:@Here you go.[END]
-633-13E:@Bitte sehr.[END]
+633-13E:@Bidde sehr.[END]
 // Repeats: 624-13, 633-13
 633-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-633-14E:@[ITEM 67 00] hier im Schloss schmeckt[BREAK]  genauso wie Mama es immer gemacht hat.[WAIT]@Probier mal![END]
+633-14E:@[ITEM 67 00] hier im Schloss schmeggt[BREAK]  genau wie bei Mama.[WAIT]@Probier's ma'![END]
 // Repeats: 624-14, 633-14
 633-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-633-15E:@Möchtest du noch mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+633-15E:@Möchteste noch mehr?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 633-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
 633-16E:@Hat di dei' Mam nie beigebrach' och ma'[BREAK]  Nee zu sag'n?![END]
@@ -17646,7 +17646,7 @@
 633-18E:@Whoa, du kann's nix mehr trag'n.[WAIT]@Wenn de's unbedingt wills', wirf' was wech.[END]
 // Repeats: 624-18, 633-18
 633-19:@Oh, you can't hold any more stuff.[WAIT]@Guess I'll eat it, then![END]
-633-19E:@Oh, kannst nix mehr trag'n.[WAIT]@Dann es ich's selbst![END]
+633-19E:@Oh, kannst nix mehr trag'n.[WAIT]@Dann ess ich's selbst![END]
 // Repeats: 624-19, 633-19
 633-20:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
 633-20E:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
@@ -17658,7 +17658,7 @@
 633-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und reinzupassen.[END]
 // Repeats: 624-22, 633-22
 633-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-633-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Es ist großartig![WAIT]  Es bewegt! Es ist herzzereißend![BREAK]  Es ist andeutend![END]
+633-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzereißend![BREAK]  Er ist andeutend![END]
 // Repeats: 624-23, 633-23
 633-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
 633-24E:@Vorher waren hier ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]
@@ -17679,13 +17679,13 @@
 633-29E:@Hey, Affe![BREAK]  Wir gehen jetzt in den Keller![WAIT]@Irgendwo im Schloss sollte es einen Eingang in[BREAK]  den Keller geben.[WAIT]@Finde ihn![END]
 // Repeats: 624-29, 633-29
 633-30:@Whew.[PAUSE 5A 00]  Boy, it's stuffy in this thing...[END]
-633-30E:@Phew.[PAUSE 5A 00] Junge ist es stickig hier...[END]
+633-30E:@Puh.[PAUSE 5A 00] Junge, ist es stickig hier...[END]
 // Repeats: 624-30, 633-30
 633-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
-633-31E:@Phew.[PAUSE 5A 00] Junge ist es stickig hier...[END]
+633-31E:@Herr Fassad![WAIT]@Wir sind unbezwingbar![WAIT]@Wenn wir uns ganz dolle anstrengen,[WAIT]  könnten wir sogar riesige Rüben aus der Erde[BREAK]  ziehen![END]
 // Repeats: 624-31, 633-31
 633-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-633-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobelten[BREAK]  Mitglied in unserer Gruppe.[END]
+633-32E:@Sir! Hier ist alles normal, Sir![WAIT]@Allerdings GIBT es da ein etwas ungehobeltes[BREAK]  Mitglied in unserer Gruppe.[END]
 // Repeats: 624-32, 633-32
 633-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
 633-33E:@Wir haben gefeiert und gefeiert und gefeiert,[BREAK]  aber irgendwann wurde es langeweilig.[WAIT]@Also haben mehr und mehr von uns das[BREAK]  Partyleben aufgegeben.[END]
@@ -17763,7 +17763,7 @@
 635-4E:@Bitter, mürrisch, sauer, widerlich...[WAIT]  Das sind die einzigen Gewürze hier.[END]
 // Repeats: 635-4, 664-4, 664-31
 635-5:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-635-5E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt.[WAIT]  Seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
+635-5E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt,[WAIT]  seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
 // Repeats: 635-5, 664-5, 664-32
 
 [Container 636]
@@ -17791,7 +17791,7 @@
 637-7:@Hook me right onto that candlestick.[WAIT]@Go ahead! Don't worry about me![END]
 637-7E:@Schleuder mich genau auf den Kerzenleuchter.[WAIT]@Mach schon! Mach dir keine Sorgen um mich![END]
 637-8:@I know you're rather strong.[WAIT]@But the suit of armor inside here is definitely[BREAK]  no pushover, either.[WAIT]@I'm talking INCREDIBLY strong, here.[WAIT]@If you think you're up to the challenge, I'll[BREAK]  move out of the way.[WAIT]@Regular ol' items, Mystical Thief Tools...[WAIT]  Use whatever you can to cling-clang[BREAK]  boom-bang that guy into submission![END]
-637-8E:@Ich weiß, dass ihr ziemlich stark seid.[WAIT]@Aber die Ritterrüstung hier drin ist definitiv[BREAK]  nicht einfach zur Show da.[WAIT]@Ich meinde damit, dass sie UNGLAUBLICH[BREAK]  stark ist.[WAIT]@Wenn ihr denkt, dass ihr der Herausforderung[BREAK]  gewachsen bist, gehe ich euch aus dem Weg.[WAIT]@Ganz normale Sachen, Diebeswerkzeuge...[WAIT]  Nutzt alles, was ihr habt Klink-Klank[BREAK]  Bumm-Bämm da drin umzuhauen![END]
+637-8E:@Ich weiß, dass ihr ziemlich stark seid.[WAIT]@Aber die Ritterrüstung hier drin ist definitiv[BREAK]  nicht einfach zur Show da.[WAIT]@Ich meinte damit, dass sie UNGLAUBLICH[BREAK]  stark ist.[WAIT]@Wenn ihr denkt, dass ihr der Herausforderung[BREAK]  gewachsen bist, gehe ich euch aus dem Weg.[WAIT]@Ganz normale Sachen, Diebeswerkzeuge...[WAIT]  Nutzt alles, was ihr habt, um den Kerl mit[BREAK]  einem Klink-Klank Bumm-Bämm umzuhauen![END]
 637-9:@To be honest, we all hated that Ghost Knight.[WAIT]@He was a real hard-headed jerk.[WAIT]@So much so that I'd like to thank you for[BREAK]  beating him.[WAIT]@Thanks![WAIT]@Let that word of appreciation express my[BREAK]  gratitude.[END]
 637-9E:@Um ehrlich zu sein, haben wir alle den[BREAK]  Geisterritter gehasst.[WAIT]@Er war ein echt dickköpfiger Knilch.[WAIT]@So sehr, dass ich euch für das Vermöbeln[BREAK]  danken möchte.[WAIT]@Danke![WAIT]@Lass dieses Wort der Zuneigung meine[BREAK]  Dankbarkeit ausdrücken.[END]
 637-10:@...You seem quite strong.[WAIT]@The suit of armor inside here is so stubborn,[BREAK]  arrogant, and impossible to get along with, [WAIT]  but if anyone can beat him, it's you![WAIT]@Please, defeat him! I know you can do it![WAIT]@It'll be the ultimate match of all time![WAIT]@My "onlooker spirit" is all fired up now![END]
@@ -17836,7 +17836,7 @@
 642-6:@Now I'm angry![BREAK]  Gwaaaaaarg![END]
 642-6E:@Jetzt bin ich sauer![BREAK]  Gwaaaaaarg![END]
 642-7:@Squeak.[WAIT]  (Whew! You're a life-saver! Thank you![WAIT]  By the way, you can rest on that sofa if you[BREAK]  want.)[END]
-642-7E:@Quietsch.[WAIT]  (Phew! Du bist mein Lebensretter! Danke![WAIT]  Übrigens kannst du dich auf dem Sofa[BREAK]  ausruhen, wenn du willst.)[END]
+642-7E:@Quietsch.[WAIT]  (Puh! Du bist mein Lebensretter! Danke![WAIT]  Übrigens, du kannst dich auf dem Sofa[BREAK]  ausruhen, wenn du willst.)[END]
 642-8:@You felt something warm inside your heart.[END]
 642-8E:@Du fühlst etwas Warmes in deinem Herz.[END]@Du fühlst etwas Warmes in deinem Herz.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
@@ -17858,7 +17858,7 @@
 642-16:@An old clock that runs too fast.[END]
 642-16E:@Eine alte Uhr, die vor geht.[END]
 642-17:@This grandfather clock no longer works.[END]
-642-17E:@Die Standuhr funktioniert nicht mehr.[END]
+642-17E:@Die Standuhr funktioniert nicht.[END]
 // Repeats: 632-3, 642-17
 
 [Container 643]
@@ -17869,7 +17869,7 @@
 643-1E:@Ein komischer Tanz ist auf der Wand[BREAK]  eingraviert.[END]
 // Repeats: 643-1, 660-1
 643-2:@There's a very delicately-crafted vase here.[END]
-643-2E:@Hier steht eine sehr sorgfältige[BREAK]  hergestellte Vase.[END]
+643-2E:@Hier steht eine sehr sorgfältig[BREAK]  hergestellte Vase.[END]
 // Repeats: 643-2, 660-2
 643-3:@Got the [ITEM DD 00]![END]
 643-3E:@[ITEM DD 00] erhalten![END]
@@ -18075,7 +18075,7 @@
 660-1E:@Ein komischer Tanz ist auf der Wand[BREAK]  eingraviert.[END]
 // Repeats: 643-1, 660-1
 660-2:@There's a very delicately-crafted vase here.[END]
-660-2E:@Hier steht eine sehr sorgfältige[BREAK]  hergestellte Vase.[END]
+660-2E:@Hier steht eine sehr sorgfältig[BREAK]  hergestellte Vase.[END]
 // Repeats: 643-2, 660-2
 660-3:@Got the [ITEM DD 00]![END]
 660-3E:@[ITEM DD 00] erhalten![END]
@@ -18201,7 +18201,7 @@
 664-4E:@Bitter, mürrisch, sauer, widerlich...[WAIT]  Das sind die einzigen Gewürze hier.[END]
 // Repeats: 635-4, 664-4, 664-31
 664-5:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-664-5E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt.[WAIT]  Seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
+664-5E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt,[WAIT]  seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
 // Repeats: 635-5, 664-5, 664-32
 664-6:@In life, I was a brilliant chef.[WAIT]@Honest.[WAIT]@In death, I don't lie.[END]
 664-6E:@Im Leben war ich ein brillanter Koch.[WAIT]@Ehrlich.[WAIT]@Im Tod lüge ich nicht.[END]
@@ -18222,7 +18222,7 @@
 664-13E:@Oh, mir hat so hungig![END]
 // purposely misspelled
 664-14:@Wow! Real-life live people![WAIT]@What do you do for a living?[END]
-664-14E:@Wow! Echte lebende Menschen![WAIT]@Was macht ihr so zum Leben?[END]
+664-14E:@Wow! Echte lebende Menschen![WAIT]@Was macht ihr so im Leben?[END]
 664-15:@What does "boo" mean?[END]
 664-15E:@Was bedeutet "Buh"?[END]
 664-16:@Hey, that's a [ITEM F0 FF] you got[BREAK]  there.[WAIT]@Please! Trade it to me for this[BREAK]  [ITEM F1 FF]![WAIT]@I can't wait long enough for it to rot.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -18260,7 +18260,7 @@
 664-31E:@Bitter, mürrisch, sauer, widerlich...[WAIT]  Das sind die einzigen Gewürze hier.[END]
 // Repeats: 635-4, 664-4, 664-31
 664-32:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-664-32E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt.[WAIT]  Seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
+664-32E:@Was auch immer hier so laut vor sich[BREAK]  hin köchelt,[WAIT]  seine Farbe und Geruch sollte man am besten[BREAK]  nicht beschreiben.[END]
 // Repeats: 635-5, 664-5, 664-32
 664-33:[END]
 664-33E:[END]

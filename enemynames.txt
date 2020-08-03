@@ -5,7 +5,7 @@
 0001: Reconstructed Caribou
 0001-E: Umgebautes Rentier
 0002: Mr. Passion
-0002-E: Herr Lust
+0002-E: Herr Passion
 0003: Oh-So-Snake
 0003-E: Oh-Ho-Schlange
 0004: Clayman

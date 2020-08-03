@@ -455,7 +455,7 @@
 00E2: A strange but nice guy[BREAK]with unexpected skills.[END]
 00E2-E: Ein komischer, aber netter[BREAK]Kerl mit sonderb. Können.[END]
 00E3: A strong, wise, and rather[BREAK]masculine girl.[END]
-00E3-E: Ein starkes, weises, und eher[END]muskulöses Mädchen.[END]
+00E3-E: Ein starkes, weises, und[BREAK]eher muskulöses Mädchen.[END]
 00E4: What's your favorite[BREAK]homemade food?[END]
 00E4-E: Was ist dein[BREAK]Lieblingsessen?[END]
 00E5: What's your favorite[BREAK]thing?[END]

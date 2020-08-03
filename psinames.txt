@@ -46,11 +46,11 @@
 16:Lifeup [ALPHA]
 16-E:Heilung [ALPHA]
 17:Lifeup [BETA]
-17-E:Heilung [ALPHA]
+17-E:Heilung [BETA]
 18:Lifeup [GAMMA]
-18-E:Heilung [ALPHA]
+18-E:Heilung [GAMMA]
 19:Lifeup [OMEGA]
-19-E:Heilung [ALPHA]
+19-E:Heilung [OMEGA]
 1A:Refresh
 1A-E:Erfrischung
 1B:Healing [ALPHA]

@@ -196,7 +196,7 @@
 0060: Freshly-squeezed milk.[BREAK]Restores 80 HP.[END]
 0060-E: Frisch gepresste Milch.[BREAK]Stellt 80 HP wieder her.[END]
 0061: Milk that's probably best to stay away from.[BREAK]Restores 10 HP.[END]
-0061-E: Milch, von der man am besten die Finger lässt.[BREAK]Stellt 10 HP wieder her.[END]
+0061-E: Milch, von der man lieber die Finger lässt.[BREAK]Stellt 10 HP wieder her.[END]
 0062: Yogurt that's easy on the stomach.[BREAK]Restores 80 HP.[END]
 0062-E: Yoghurt, der leicht durch den Magen geht.[BREAK]Stellt 80 HP wieder her.[END]
 0063: A mushroom that's delicious even raw.[BREAK]Restores 20 HP.[END]
