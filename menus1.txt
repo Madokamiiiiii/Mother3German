@@ -417,7 +417,7 @@
 00CF: This isn't the time to use that.[END]
 00CF-E: Jetzt ist nicht die Zeit das zu benutzen.[END]
 00D0: [A0 FF]'s hands are sticky now.[END]
-00D0-E: [A0 FF]'s Hände sind jetzt klebrig.[END]
+00D0-E: Die Hände von [A0 FF] sind jetzt klebrig.[END]
 00D1: Definitely way too small for a person to[BREAK]enter.[END]
 00D1-E: Ist definitiv viel zu klein um reinzupassen.[END]
 00D2: [END]

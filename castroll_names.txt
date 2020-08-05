@@ -48,11 +48,11 @@ Neckbeard
 Glatzkopf
 *20042C2
 Dr. Andonuts
-Hr. Pumpe
+Mr. Pumpe
 Dryguy
 Eimer Bros.
 Lehmmensch
-Ultimatives Chimera
+Ultimatives Chimära
 ~Mr. Saturn
 Leder
 Seilschlange
@@ -67,9 +67,9 @@ Speicherfrösche
 Fassad
 Schweinemasken
 Chauffeur
-Mini-Pokey
+Mini-Porky
 Sauerstoffküsser
-Pokey
+Porky
 Maskierter Mann
 *2038000
 *200432E

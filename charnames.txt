@@ -302,7 +302,7 @@
 096:Kumatora
 096-E:Kumatora
 097:Arrow Lizard
-097-E:Pfeil Lizard
+097-E:Pfeilechse
 098:O2 Machine
 098-E:O2-Maschine
 099:Explorer

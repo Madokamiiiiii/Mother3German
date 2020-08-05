@@ -250,7 +250,7 @@
 07A:Tazmily Village[END]
 07A-E:Dorf Tazmily[END]
 07B:Tazmily Village[BREAK]Yado Inn[END]
-07B-E:Dorf Tazmily[BREAK]Kneipe Yado[END]
+07B-E:Dorf Tazmily[BREAK]Gasthaus Yado[END]
 07C:Tazmily Village[END]
 07C-E:Dorf Tazmily[END]
 07D:Tazmily Village[END]

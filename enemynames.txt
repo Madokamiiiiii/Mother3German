@@ -179,7 +179,7 @@
 0058: Ghost Knight
 0058-E: Geisterritter
 0059: Osohe Cape
-0059-E: Osohe Umhang
+0059-E: Osohe Vorhang
 005A: Rockin' Ghost
 005A-E: Rockiger Geist
 005B: Pseudoor
