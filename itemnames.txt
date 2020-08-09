@@ -290,7 +290,7 @@
 008F: Paper Fan
 008F-E: Papierfächer
 0090: Recollection Bell
-0090-E: Rückbesinnungs-Glocke
+0090-E: Rückbesinnungsglocke
 0091: Eye Drops
 0091-E: Augentropfen
 0092: Flea Powder
