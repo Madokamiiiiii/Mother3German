@@ -198,7 +198,7 @@
 062:Dr. Andonuts
 062-E:Dr. Andonuts
 063:Attendant
-063-E:Teilnehmer
+063-E:Bediensteter
 064:(EMPTY)
 064-E:(EMPTY)
 065:Fish

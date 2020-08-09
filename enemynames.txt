@@ -233,7 +233,7 @@
 0073: Filthy Attack Roach
 0073-E: Dreckige Kakerlake
 0074: Muttshroom
-0074-E:Dusselpilz 
+0074-E: Dusselpilz 
 0075: Mecha-Turtle
 0075-E: Mecha-Schilkröte
 0076: Bro Team
@@ -331,7 +331,7 @@
 00A4: Battery Man
 00A4-E: Batteriemann
 00A5: Screwloose
-00A5-E: Screwloose
+00A5-E: Schraubenlos
 00A6: Cuddle Bomb
 00A6-E: Knuddelbombe
 00A7: K9000
@@ -359,7 +359,7 @@
 00B2: Security Robot
 00B2-E: Sicherheitsroboter
 00B3: Unwelcome Gust
-00B3-E: Unwilkommener Gast
+00B3-E: Unwillkommener Gast
 00B4: PORKY 09
 00B4-E: PORKY 09
 00B5: PORKY 10
@@ -397,7 +397,7 @@
 00C5: Shimmy Zmizz
 00C5-E: Shimmy Zmizz
 00C6: Magic
-00C6-E: Magic
+00C6-E: Magie
 00C7: Duster
 00C7-E: Duster
 00C8: Keyboard
@@ -411,9 +411,9 @@
 00CC: Tent Person
 00CC-E: Zeltende Person
 00CD: Snow Bunny
-00CD-E: Schneehaschen
+00CD-E: Schneehäschen
 00CE: Clayman
-00CE-E: Clayman
+00CE-E: Lehmmensch
 00CF: Vapor
 00CF-E: Dampf
 00D0: Rope Snake
