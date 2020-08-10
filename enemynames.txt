@@ -31,7 +31,7 @@
 000E: Fierce Pork Trooper
 000E-E: Wütender Schweinesoldat
 000F: Fierce Pork Trooper
-000F-E: Wütender Schweinesoldat
+000F-E: Wüten. Schweinesoldat
 0010: Jealous Bass
 0010-E: Eifersüchtiger Bass
 0011: Porky
