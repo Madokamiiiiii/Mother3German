@@ -4,7 +4,7 @@
 //   Pork Trooper
 //   Ms. Marshmallow
 (empty)
-Umgebau. Rentier
+Umgebautes Rentier
 Hr. Lust
 Oh-Ho-Schlange
 Lehmmensch
@@ -17,8 +17,8 @@ Heller Schleim
 Porky
 N.K. Cyborg
 Maskierter Mann
-Schweinesoldat
-Schweinesoldat
+Wütender Schweines.
+Wütender Schweines.
 Eifersüchtiger Bass
 Porky
 Klebrige Schnecke
@@ -35,7 +35,7 @@ Wunder-Fassad
 Major Schweinemaske
 Großer Ameisenlöwe
 Fenomeno
-Rhinocerocket Mk II
+Rhinocerakete Mk II
 Angstbot
 Die Squeekz
 Pyrofliege

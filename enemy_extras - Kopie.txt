@@ -9,7 +9,7 @@ Ein
 ein 
 Das 
 das 
-- 
+sein 
 // 0002-E: Herr Lust
 -
 -
@@ -21,25 +21,25 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 0004-E: Lehmmensch
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0005-E: Mecha-Drago
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0006-E: Schweinetank
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0007-E: Herr Genetor
 -
 -
@@ -51,19 +51,19 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 0009-E: Gruseliger Schleim
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 000A-E: Heller Schleim
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 000B-E: Pokey
 -
 -
@@ -75,31 +75,31 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 000D-E: Maskierter Mann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 000E-E: Wütender Schweinesoldat
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 000F-E: Wütender Schweinesoldat
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0010-E: Eifersüchtiger Bass
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0011-E: Porky
 -
 -
@@ -111,7 +111,7 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 0013-E: PORKY 02
 -
 -
@@ -123,13 +123,13 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 0015-E: Nilpferdwerfer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0016-E: Neuer Fassad
 -
 -
@@ -141,7 +141,7 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 0018-E: Lustlord
 -
 -
@@ -153,7 +153,7 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 001A-E: PORKY 03
 -
 -
@@ -177,31 +177,31 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 001E-E: Großer Ameisenlöwe
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 001F-E: Fenomeno
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0020-E: Rhinozerakete Mark II
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0021-E: Angstbot
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0022-E: Die Squeekz
 -
 -
@@ -213,37 +213,37 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 0024-E: Mecha-Löwe
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0025-E: Straßenabsperrung
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0026-E: Hüpfender Pilz
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0027-E: Kreischender Besen
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0028-E: Top Hundefisch
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0029-E: Herr Fledi
 -
 -
@@ -255,25 +255,25 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 002B-E: Feuerfliege
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 002C-E: Kartoffelmonster
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 002D-E: Fliegende Maus
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 002E-E: PORKY 01
 -
 -
@@ -285,133 +285,133 @@ Ein
 ein 
 Das 
 das 
-- 
+sein 
 // 0030-E: Äußerst Bissige Schlange
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0031-E: Rußknödel
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0032-E: Back-Kartoffelmonster
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0033-E: Laufender Busch
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0034-E: Sorglose Qualle
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0035-E: Mysteriöser Metallaffe
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0036-E: Felslizard
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0037-E: Kartoffelkäfer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0038-E: Zehn-Yeti
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0039-E: Frostige Hund
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 003A-E: Schleimige Schnecke
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 003B-E: Minerali
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 003C-E: Wanderpilz
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 003D-E: Maulwurfsgrille
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 003E-E: Boa-Transistor
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 003F-E: Boshafter Maulwurf
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0040-E: Mecha-Maulwurf!
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0041-E: Glatzadler
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0042-E: Baum
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0043-E: Titani
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0044-E: Gefrorenes Brötchen
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0045-E: Frau Lava
 -
 -
@@ -423,325 +423,325 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 0047-E: Zombie
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0048-E: Zombiehund
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0049-E: Verirrter Geist
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 004A-E: Mobiles Grab
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 004B-E: Abgetrennter Blutegel
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 004C-E: Rückgratlose Hummer
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 004D-E: RIESIGE Assel
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 004E-E: Munteres Skelett
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 004F-E: Großer Bruder
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0050-E: Fassmann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0051-E: Erdbeerschleim
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0052-E: Arachnid!
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0053-E: Brutale Kakerlake
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0054-E: Barriere Trio
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0055-E: Geisterrüstung
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0056-E: Geisterschwert
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0057-E: Geisterschild
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0058-E: Geisterritter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0059-E: Osohe Umhang
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 005A-E: Rockiger Geist
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 005B-E: Pseudo-Tür
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 005C-E: Gruseliger Schleim
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 005D-E: Mistkäfer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 005E-E: Großer Ameisenlöwe
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 005F-E: Sara-Sara-Sahara
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0060-E: Sandlizard
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0061-E: Kaktuswolf
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0062-E: Klebriger Klebstoff
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0063-E: Cleocatra
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0064-E: Kleiner Großer Bruder
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0065-E: Zombiepilz
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0066-E: Stinkender Geist
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0067-E: Künstlerischer Geist
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0068-E: Horsantula
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0069-E: Pigtunia
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 006A-E: Kreischender Stock
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 006B-E: Verdorbener Schimmelmann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 006C-E: Schlitterhenne
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 006D-E: Was auch immer
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 006E-E: Hundefisch
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 006F-E: Rindschlange
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0070-E: Einswine
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0071-E: Gottesanbeter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0072-E: Antike Libelle
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0073-E: Dreckige Kakerlake
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0074-E:Dusselpilz
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0075-E: Mecha-Schilkröte
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0076-E: Bro Team
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 0077-E: Batangutan
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0078-E: Straußfant
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0079-E: Himmelstitani
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 007A-E: Affenross
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 007B-E: Elterlicher Kangahai
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 007C-E: Kleine Frau Marshmallow
 -
 -
@@ -753,67 +753,67 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 007E-E: Rhinocerocket
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 007F-E: Verkehrsrowdy
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0080-E: Metall-Angriffskakerlake
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0081-E: Wirklich Fliegende Maus
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0082-E: Kurzschluss-Schlag!
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0083-E: Unwichtiger Roboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0084-E: Liebesläufer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0085-E: Gruseliger Schleim
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0086-E: Atomarer Powerroboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0087-E: Nuklearer Roboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0088-E: Negativer Mann
 -
 -
@@ -825,49 +825,49 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 008A-E: Posierer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 008B-E: Großer Kartoffelkäfer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 008C-E: Geraspeltes Yammonster
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 008D-E: Nilpferdwerfer
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 008E-E: Stahl-Mechorilla
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 008F-E: Zombidillo
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0090-E: Fischreh-Mann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0091-E: PORKY 07
 -
 -
@@ -885,91 +885,91 @@ Ein
 ein 
 Das 
 das 
-- 
+sein 
 // 0094-E: Ersatzmech
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0095-E: Schweinemaske
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0096-E: Zombiefrau
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0097-E: Frecher Pilz
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 0098-E: Ober-Fledi
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 0099-E: Arachnid!!!!
 Ein 
 ein 
 Das 
 das 
-- 
+sein 
 // 009A-E: Geizigere Maus
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 009B-E: Leicht Weinende Gitarre
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 009C-E: Durchgehaute Trommel
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 009D-E: Umgebauter Maulwurf
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 009E-E: Umgebauter Löwe
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 009F-E: Wackeliger Roboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00A0-E: Männerbad Schild
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 00A1-E: Geschrotteter Roboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00A2-E: Verzweifelter Schrott
 -
 -
@@ -981,37 +981,37 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 00A4-E: Batteriemann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00A5-E: Screwloose
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 00A6-E: Knuddelbombe
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 00A7-E: K9000
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00A8-E: Laugenartiger Mann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00A9-E: PORKY 07
 -
 -
@@ -1023,25 +1023,25 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 00AB-E: Oberst-Schweinemakse
 Eine 
 eine 
 Die 
 die 
-- 
+ihr 
 // 00AC-E: Kapitän Schweinemaske
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00AD-E: Navy SQUEAL
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00AE-E: Meister Eddy
 -
 -
@@ -1053,31 +1053,31 @@ Eine
 eine 
 Die 
 die 
-- 
+ihr 
 // 00B0-E: Ruuuunder Fisch
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B1-E: Blauer Glatzadler
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B2-E: Sicherheitsroboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B3-E: Unwilkommener Gast
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B4-E: PORKY 09
 -
 -
@@ -1095,31 +1095,31 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 00B7-E: Verbesserter Roboter
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B8-E: Bohnling
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00B9-E: Schwarzer Bohnling
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00BA-E: Kleiner Wald
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00BB-E: PORKY 04
 -
 -
@@ -1137,13 +1137,13 @@ Ein
 ein 
 Der 
 der 
-- 
+sein 
 // 00BE-E: Maskierter Mann
 Ein 
 ein 
 Der 
 der 
-- 
+sein 
 // 00BF-E: (EMPTY)
 -
 -

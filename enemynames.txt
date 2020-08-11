@@ -29,7 +29,7 @@
 000D: Masked Man
 000D-E: Maskierter Mann
 000E: Fierce Pork Trooper
-000E-E: Wütender Schweinesoldat
+000E-E: Wüten. Schweinesoldat
 000F: Fierce Pork Trooper
 000F-E: Wüten. Schweinesoldat
 0010: Jealous Bass
@@ -325,7 +325,7 @@
 00A1: Scrapped Robot
 00A1-E: Geschrotteter Roboter
 00A2: Forlorn Junk Heap
-00A2-E: Verzweifelter Schrott 
+00A2-E: Verzweifelter Schrott
 00A3: Surprise Box
 00A3-E: Überraschungsbox
 00A4: Battery Man
@@ -545,7 +545,7 @@
 010F: Lightning
 010F-E: Blitz
 0110: Mother Porkship
-0110-E: Mutter Schweineschiff
+0110-E: Mutter-Schweineschiff
 0111: (EMPTY)
 0111-E: (EMPTY)
 0112: Lydia
