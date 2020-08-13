@@ -1,12 +1,12 @@
 STATUS: Validatating gr.
 WARNING:   No explicit src path.
 STATUS: Validation succeeded.
-STATUS: Started run at: 2020-08-01, 11:21:24
+STATUS: Started run at: 2020-08-13, 23:16:07
 STATUS: Validatating gr.
 STATUS: Validation succeeded.
 STATUS: Preparing data.
 STATUS: Work-DIB creation.
-STATUS: Work-DIB creation complete: 240x136@8.
+STATUS: Work-DIB creation complete: 64x152@8.
 STATUS: Tile preparation.
 STATUS: Tile preparation complete.
 STATUS: Palette preparation.
