@@ -563,7 +563,7 @@
 0-248:@Some sort of incredible power seems to be[BREAK]  sleeping here.[END]
 0-248E:@Irgendwelche unglaublichen Kräfte scheinen[BREAK]  hier zu ruhen.[END]
 0-249:@I realize you haven't asked,[WAIT]  but my name is Dr. Andonuts.[WAIT]@I'm being forced to conduct various sorts of[BREAK]  research by a certain man.[WAIT]@Currently, though, I'm trying to conceal myself[BREAK]  for certain reasons.[END]
-0-249E:@Du hast zwar nicht gefragt,[WAIT]  aber ich heiße Dr. Andonuts.[WAIT]@Ich werde von einem gewissen Mann[BREAK]   gezwungen Forschung zu betreiben.[WAIT]@Zurzeit aber, versuche ich mich aus[BREAK]  bestimmten Gründen zu verstecken.[END]
+0-249E:@Du hast zwar nicht gefragt,[WAIT]  aber ich heiße Dr. Andonuts.[WAIT]@Ich werde von einem gewissen Mann[BREAK]   gezwungen Forschung zu betreiben.[WAIT]@Zurzeit aber versuche ich mich aus[BREAK]  bestimmten Gründen zu verstecken.[END]
 0-250:@I'm a bit occupied at the moment.[WAIT]@Could you come back at a better time?[END]
 0-250E:@Ich bin gerade etwas beschäftigt.[WAIT]@Könntest du ein ander mal zurückkommen?[END]
 0-251:@No problem here.[WAIT][PAUSE 30 00]@No problem here.[WAIT]@...Just leave it at that, would you?[END]
@@ -3048,7 +3048,7 @@
 33-12E:@Heul-heul. Heul-heul[WAIT]  (Ich bin ein verkohlter Hund, kein schwarzer[BREAK]  Hund.[WAIT]  Es gibt sogar ein paar Schafe, die wie ich[BREAK]  aussehen.)[END]
 // Repeats: 33-12, 219-12
 33-13:@Bow-wow bow-wow![WAIT]  (Now that the lightning has stopped, I feel[BREAK]  much tougher.)[END]
-33-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo das Gewitter aufgehört hat, fühle[BREAK]  ich mich viel besser.)[END]
+33-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo die Gewitter aufgehört haben, [BREAK]  fühle ich mich viel besser.)[END]
 // Repeats: 33-13, 219-13
 33-14:@Bow-wow-wow-wow.[WAIT]  (When you hang around sheep as a stray dog,[BREAK]  you start to feel more like a pet dog.)[END]
 33-14E:@Heul-heul-heul-heul.[WAIT]  (Wenn man als Streuner bei Schafen abhängt,[BREAK]  kommt man sich wie ein Schäferhund vor.)[END]
@@ -3069,7 +3069,7 @@
 33-19E:@Darf ich dir etwas völlig unnötiges erzählen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-19, 219-19
 33-20:@I picked up this doorknob the other day,[WAIT]  but I was irritated at the time, so I threw it to[BREAK]  the east as far as I could.[WAIT]@I wound up dislocating my shoulder as a result.[WAIT]@Actually, no, I was just fibbing about that last[BREAK]  part.[WAIT]@Hahaha.[END]
-33-20E:@Ich habe neulich diesen Türknauf aufgehoben,[WAIT]  aber das hat mich damals so was von irritiert,[WAIT]  dass ich ihn so weit ich konnte nach Osten[BREAK]  geworfen habe.[WAIT]@Infolgedessen habe ich mir die Schulter[BREAK]  ausgerenkt.[WAIT]@Na gut, der letzt Teil war geflunkert.[WAIT]@Hahaha.[END]
+33-20E:@Ich habe neulich diesen Türknauf aufgehoben,[WAIT]  aber das hat mich damals so was von irritiert,[WAIT]  dass ich ihn so weit ich konnte, nach Osten[BREAK]  geworfen hatte.[WAIT]@Infolgedessen habe ich mir die Schulter[BREAK]  ausgerenkt.[WAIT]@Na gut, der letzte Teil war geflunkert.[WAIT]@Hahaha.[END]
 // Repeats: 33-20, 219-20
 33-21:@Come on, lemme tell you.[WAIT]@Too bad, I'm gonna tell you anyways.[WAIT]@Yes, I am.[EVENT][END]
 33-21E:@Komm schon, lass es mir dir erzählen.[WAIT]@Pah, ich werd's dir trotzdem erzählen.[WAIT]@Oh ja, das tu ich.[EVENT][END]
@@ -3105,7 +3105,7 @@
 33-31E:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ohh, ich konnte den Knebel selbst lösen! [HEART][WAIT]@Ich habe meinen Mund wie so einfach hoch[PAUSE 20 00] und[BREAK]  runter[PAUSE 20 00] bewegt und es hat sich langsam gelöst![WAIT]@Ohh, ich bin so super! [HEART][WAIT][PAUSE 20 00]@Ich bin andern nur ungern eine Last, aber[BREAK]  könntest du mir bitte aufhelfen?[END]
 // Repeats: 33-31, 219-31
 33-32:@Thank you, darling! [HEART][WAIT]@I don't know what happened.[WAIT]  I was minding my own business, taking off my[BREAK]  makeup,[WAIT]  when suddenly I was physically assaulted![WAIT]@Oh, what an unfabulous time to be attacked![END]
-33-32E:@Danke, Liebling! [HEART][WAIT]@Ich weiß nicht, was passiert ist.[WAIT]  Ich hatte mich um meine Arbeit gekümmert[BREAK]  und während ich mein Make-Up runtergemacht[WAIT]  habe, wurde ich aus dem Nichts angegriffen![WAIT]@Oh, was für eine unrühmliche Zeit für ein[BREAK]  Angriff![END]
+33-32E:@Danke, Liebling! [HEART][WAIT]@Ich weiß nicht, was passiert ist.[WAIT]  Ich hatte mich um meine Arbeit gekümmert,[BREAK]  und während ich mein Make-Up runtergemacht[WAIT]  habe, wurde ich aus dem Nichts angegriffen![WAIT]@Oh, was für eine unrühmliche Zeit für einen[BREAK]  Angriff![END]
 // Repeats: 33-32, 219-32
 33-33:@Oh, my! [HEART][EVENT][END]
 33-33E:@Oh je! [HEART][EVENT][END]
@@ -3114,7 +3114,7 @@
 33-34E:@Du bist doch dieser Junge, den ich vor Kurzem[BREAK]  an der Heißen Quelle getroffen habe, oder?[WAIT]@Das Schicksal muss uns wieder[BREAK]  zusammengeführt haben. [HEART][WAIT]@Von dem Moment an, an dem ich erkannte,[BREAK]  dass du PSI benutzen kannst, wusste ich,[WAIT]  dass uns etwas verbindet.[END]
 // Repeats: 33-34, 219-34
 33-35:@You're undoubtedly the one we Magypsies[BREAK]  have been waiting for[WAIT]  for tens of thousands of years.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]right?[WAIT]@Can you sense it, too?[WAIT]@Can't you feel "the time" drawing near?[WAIT]@It's okay if you can't. I'm not entirely sure[BREAK]  about it, either. [HEART][END]
-33-35E:@Du bist ohne Zweifel derjenige, auf den wir[BREAK]  Magypsies viele jahrtausende Jahre lang[WAIT]  gewartet haben.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]richtig?[WAIT]@Spürst du das auch?[WAIT]@Fühlst du nicht das "die Zeit" langsam kommt?[WAIT]@Ist schon in Ordnung, wenn nicht. Ich bin mir[BREAK]  dabei auch nicht komplett sicher. [HEART][END]
+33-35E:@Du bist ohne Zweifel derjenige, auf den wir[BREAK]  Magypsies jahrtausende Jahre lang[WAIT]  gewartet haben.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]richtig?[WAIT]@Spürst du es auch?[WAIT]@Fühlst du nicht, dass "die Zeit" langsam kommt?[WAIT]@Ist schon in Ordnung, wenn nicht. Ich bin mir[BREAK]  dabei auch nicht völlig sicher. [HEART][END]
 // Repeats: 33-35, 219-35
 33-36:@Wait a second! If I was attacked...[WAIT]  Could it mean...[WAIT]@I hope Aeolia is all right![WAIT]@I wish I could fly there, but I can't without my[BREAK]  makeup on![WAIT]@All I can do is walk on land like a human.[BREAK]  How tragic.[WAIT]@Oh, well. I'll walk if I have to.[WAIT]@And you.[PAUSE 30 00] You're coming with me![WAIT]  Come on, let's go to Aeolia's house! [HEART][WAIT]@Okay? [HEART][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 33-36E:@Warte mal! Wenn ich angegriffen wurde...[WAIT]  Könnte das bedeuten...[WAIT]@Ich hoffe, Aeolia geht es gut![WAIT]@Ich wünschte, ich könnte fliegen, aber ich kann[BREAK]  das ohne Make-Up nicht![WAIT]@Jetzt kann ich nur laufen wie ein Mensch.[BREAK]  Wie tragisch.[WAIT]@Naja. Wenn ich laufen muss, dann mach ich's[BREAK]  eben.[WAIT]@Und du.[PAUSE 30 00] Du kommst mit mir![WAIT]  Los, lasst uns zu Aeolias Haus gehen! [HEART][WAIT]@Okay? [HEART][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -3138,7 +3138,7 @@
 33-42E:@Wartet.[END]
 // Repeats: 33-42, 219-42
 33-43:@I have noooo idea what you were talking about[BREAK]  just now,[WAIT]  but if it's up the river you need to go, then it's[BREAK]  our time to shine![WAIT]@C'mon! Follow us![END]
-33-43E:@Ich habe keeeeine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinauf müsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
+33-43E:@Ich habe keiiiiine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinaufmüsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
 // Repeats: 33-43, 219-43
 33-44:@We just got this! It's the greatest boat ever![WAIT]@You'll get on it, of course?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 33-44E:@Das haben wir gerade bekommen![BREAK]  Es ist das großartigste Boot, das es gibt![WAIT]@Ihr werdet es natürlich nutzen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -3883,7 +3883,7 @@
 38-117:@Commander![WAIT]@Wh-where are you?![PAUSE 10 00] Dakota?![WAIT]@No, no![PAUSE 10 00] I'm just spouting nonsense![WAIT]@Everyone is waiting at the Chimera Lab![WAIT]@I still haven't arrived yet, though![WAIT]@Th-th-the reason being that I forgot how to[BREAK]  get there![WAIT]@I mean, I understand the directions, but...[END]
 38-117E:@Kommandant![WAIT]@W-wo waren Sie?![PAUSE 10 00] Dakota?![WAIT]@Nein, nein![PAUSE 10 00] Ich rede Unsinn![WAIT]@Alle warten am Chimära Lab![WAIT]@Ich bin aber noch nicht dort![WAIT]@D-d-der Grund ist, dass ich vergessen habe[BREAK]  wie man dorthin kommt![WAIT]@Ich meine, ich kenne die Richtungen, aber...[END]
 38-118:@To get to the Chimera Lab, you take the Cross[BREAK]  Road train to the factory,[WAIT]  and then head west from the ropeway station![WAIT]@The problem is that I don't know where I am[BREAK]  right now![WAIT]@Hello? Are you all right, Commander?[WAIT]@I...[PAUSE 20 00][BREAK]  Oh! Oh! Oh![PAUSE 20 00] I see the Chimera Lab now![WAIT]@You were right![WAIT]@You take the Cross Road train to the factory,[BREAK]  and then head west from the ropeway station![WAIT]@*click* *beep*[END]
-38-118E:@Um zum Chimära Lab zu kommen, nimmt man[BREAK]  den Kreuzungsstraßenzug zur Fabrik,[WAIT]  und dann von der Seilbahnstation gen Westen![WAIT]@Das Problem ist, dass ich nicht weiß, wo ich[BREAK]  gerade bin![WAIT]@Hallo? Geht es Ihnen gut, Kommandeur?[WAIT]@Ich...[PAUSE 20 00][BREAK]  Oh! Oh! Oh![PAUSE 20 00] Ich sehe das Chimära Lab jetzt![WAIT]@Sie hatten recht![WAIT]@Man nimmt den Zug zur Fabrik,[BREAK]  und dann von der Seilbahnstation gen Westen![WAIT]@*klick* *piep*[END]
+38-118E:@Um zum Chimära Lab zu kommen, nimmt man[BREAK]  den Kreuzungsstraßenzug zur Fabrik,[WAIT]  und dann von der Seilbahnstation gen Westen![WAIT]@Das Problem ist, dass ich nicht weiß, wo ich[BREAK]  gerade bin![WAIT]@Hallo? Geht es Ihnen gut, Kommandant?[WAIT]@Ich...[PAUSE 20 00][BREAK]  Oh! Oh! Oh![PAUSE 20 00] Ich sehe das Chimära Lab jetzt![WAIT]@Sie hatten recht![WAIT]@Man nimmt den Zug zur Fabrik,[BREAK]  und dann von der Seilbahnstation gen Westen![WAIT]@*klick* *piep*[END]
 38-119:@I'm not sure what to do. It's a real dilemma...[WAIT]@Should we head into the big city,[PAUSE 20 00] or should we[BREAK]  stay behind and keep an eye on the village?[WAIT]@I just can't decide...[END]
 38-119E:@Ich weiß, was ich machen soll. Das ist ein[BREAK]  echtes Dilemma...[WAIT]@Sollen wir in die Großstadt ziehen,[PAUSE 20 00] oder sollen[BREAK]  wir hier bleiben und ein Auge auf das[WAIT]  Dorf werfen?[WAIT]@Ich kann mich nicht entscheiden...[END]
 38-120:@Don't worry, Dad![BREAK]  Whatever happens, happens![END]
@@ -4503,7 +4503,7 @@
 52-2:@Commander![WAIT]@Only authorized personnel are allowed inside![END]
 52-2E:@Kommandant![WAIT]@Nur authorisiertes Personal sind hier drinnen[BREAK]  erlaubt![END]
 52-3:@Oh, you're that part-timer from the other day![WAIT]@Perfect timing.[WAIT]@Keep watch for me, will ya?[WAIT]@I'm gonna go inside and help look for some[BREAK]  escaped monkeys.[END]
-52-3E:@Ach, du bist doch dieser Teilzeitarbeiter von[BREAK]  damals![WAIT]@Du kommst gerade richtig.[WAIT]@Halt mal für mich Stellung, okay?[WAIT]@Ich werde reingehen und helfen nach irgend-[BREAK]  welchen entflohenen Affen zu suchen.[END]
+52-3E:@Ach, du bist doch dieser Teilzeitarbeiter von[BREAK]  damals![WAIT]@Du kommst gerade richtig.[WAIT]@Halt mal für mich Stellung, okay?[WAIT]@Ich werde reingehen und helfen, nach irgend-[BREAK]  einem entflohenen Affen zu suchen.[END]
 52-4:@Oh, lad.[WAIT]@I thank you for earlier.[END]
 52-4E:@Oh, junger Mann.[WAIT]@Ich möchte mich für vorhin bedanken.[END]
 52-5:@...What's that?[WAIT]@You're looking for a way to transfer all of the[BREAK]  water from one pond to another?[END]
@@ -5621,7 +5621,7 @@
 88-12:@Huh?[WAIT]@Commander! Your voice sounds kind of cheery[BREAK]  today![WAIT]@Well, anyways...[EVENT][END]
 88-12E:@Wie?[WAIT]@Kommandant! Ihre Stimme hört sich heute so,[BREAK]  so fröhlich an![WAIT]@Ähhm, übrigens...[EVENT][END]
 88-13:@Please take the Cross Road train to the[BREAK]  factory,[WAIT]  and when you arrive, go west from the[BREAK]  ropeway station that's behind the factory.[WAIT]@Did you get all that?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-88-13E:@Bitte nehmen Sie den Zug von der[BREAK]  Kreuzungsstraße zur Fabrik.[WAIT]  Dort angekommen, gehen Sie von der Seilbahn-[BREAK]  station, die ist hinter der Fabrik, nach Westen.[WAIT]@Konnten Sie sich alles merken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+88-13E:@Bitte nehmen Sie den Zug von der[BREAK]  Kreuzungsstraße zur Fabrik.[WAIT]  Dort angekommen, gehen Sie von der Seilbahn-[BREAK]  station, die hinter der Fabrik ist, nach Westen.[WAIT]@Konnten Sie sich alles merken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 88-14:@My mom told me that if you say "no" three or[BREAK]  more times in one day,[WAIT]  bird poop will come falling from the sky and[BREAK]  cause all kinds of trouble for you![WAIT]@Even if that doesn't happen,[WAIT]  you supposedly feel all grossed out anyway, as[BREAK]  if bird poop really HAD fallen.[END]
 88-14E:@Meine Mutter hat mir mal gesagt, dass wenn[BREAK]  man an einem Tag mehr als zweimal "nein"[WAIT]  sagt,[WAIT]  Vogelmist vom Himmel fallen wird und einem[BREAK]  allerlei Menge Schwierigkeiten bereiten wird![WAIT]@Auch wenn das nicht passieren sollte,[WAIT]  so fühlt man sich trotzdem total angewidert,[BREAK]  als wäre tatsächlich Vogelscheiße gefallen.[END]
 88-15:@Actually, to be honest, I'm having a hard time[BREAK]  remembering it myself...[EVENT][END]
@@ -8943,9 +8943,9 @@
 195-4:@Look for [CLAUS 22 05 00],[BREAK]  visit [HINAWA 22 08 00]'s grave.[WAIT][PAUSE 1E 00]  Look for [CLAUS 22 05 00],[BREAK]  visit [HINAWA 22 08 00]'s grave.[WAIT]@That's all your old man does anymore.[END]
 195-4E:@[CLAUS 22 05 00] suchen,[BREAK]  [HINAWA 22 08 00] besuchen.[WAIT][PAUSE 1E 00]  [CLAUS 22 05 00] suchen,[BREAK]  [HINAWA 22 08 00] besuchen.[WAIT]@Mehr macht dein alter Mann nicht.[END]
 195-5:@His only salvation is you, [LUCAS 23 02 00].[WAIT]@You've grown so strong that [FLINT 23 01 00][BREAK]  doesn't need to worry anymore.[WAIT]@You've grown up to be a truly good lad.[END]
-195-5E:@Seine einzige Erlösung bist du, [LUCAS 23 02 00].[WAIT]@Du bist so stark geworden, dass sich[BREAK]  [FLINT 23 0 00] keine Sorgen mehr[WAIT]  machen muss.[WAIT]@Du bist warhlich zu einem guten jungen Mann[BREAK]  herangewachsen.[END]
+195-5E:@Seine einzige Erlösung bist du, [LUCAS 23 02 00].[WAIT]@Du bist so stark geworden, dass sich[BREAK]  [FLINT 23 01 00] keine Sorgen mehr[WAIT]  machen muss.[WAIT]@Du bist wahrlich zu einem guten jungen Mann[BREAK]  herangewachsen.[END]
 195-6:@Here.[WAIT]@[FLINT 23 01 00] gave me this.[WAIT]  He asked me to give it to you the next time[BREAK]  you came by.[WAIT]@Supposedly, it's a good luck charm your pop's[BREAK]  treasured since he was a boy himself.[END]
-195-6E:@Bitte schön.[WAIT]@[FLINT 23 01 00] hat es mir gegeben.[WAIT]  Er bat mich, es dir zu geben.[WAIT]@Anscheinend ist es ein Glücksbringer, den dein[BREAK]  Paps seit er selbst ein Junge war gehütet hat.[END]
+195-6E:@Bitte sehr.[WAIT]@[FLINT 23 01 00] hat es mir gegeben.[WAIT]  Er bat mich, es dir zu geben.[WAIT]@Anscheinend ist es ein Glücksbringer, den dein[BREAK]  Paps, seit er selbst ein Junge war, gehütet hat.[END]
 195-7:@[HINAWA 22 08 00] may be gone, but even now[BREAK]  she's watching over you and your family.[END]
 195-7E:@[HINAWA 22 08 00] ist vielleicht weg, aber auch[BREAK]  jetzt noch wacht sie über dich und deine Familie.[END]
 195-8:@Sunflowers... [HINAWA 22 08 00]'s favorite.[END]
@@ -8978,7 +8978,7 @@
 196-10:@Oh, [BONEY 23 05 00]![WAIT]@Oh, and you too, [LUCAS 23 02 00].[END]
 196-10E:@Oh, [BONEY 23 05 00]![WAIT]@Oh, und du auch, [LUCAS 23 02 00].[END]
 196-11:@Oh, are you all better now?[WAIT]@Try not to be so reckless anymore, okay?[END]
-196-11E:@Oh, geht es euch jetzt besser?[WAIT]@Sei etwas vorsichtiger, okay?[END]
+196-11E:@Oh, geht es euch jetzt besser?[WAIT]@Seid etwas vorsichtiger, okay?[END]
 196-12:@That old lady who lived here has already gone[BREAK]  to New Pork with her granddaughter.[END]
 196-12E:@Die alte Frau, die hier gewohnt hatte, ist mit[BREAK]  ihrer Enkelin bereits nach New Pork gezogen.[END]
 196-13:@This building keeps falling more and more[BREAK]  apart.[WAIT]  It's such a sad and lonely place now...[END]
@@ -9019,9 +9019,9 @@
 197-2:@Ribbit ribbit.[WAIT]@D-[PAUSE 20 00]don't you worry one bit.[WAIT]@I-[PAUSE 20 00] I may be old, but I'm shtill as good at shaving[BREAK]  as ever.[END]
 197-2E:@Quak quak.[WAIT]@M-[PAUSE 20 00]mach pir beine Schorgen.[WAIT]@I-[PAUSE 20 00]ich mag ald schein, aber ich pin imma noch[BREAK]  gud im Peichern.[END]
 197-3:@Say, was [DUSTER 23 03 00] with you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-197-3E:@Sag, war [DUSTER 23 03 00] bei dir![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+197-3E:@Sag, war [DUSTER 23 03 00] bei dir?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 197-4:@Ah. I thought so.[WAIT]@But...[PAUSE 1E 00] I doubt there's any need to worry.[WAIT]@I'll let Wess know.[END]
-197-4E:@Ah, das dachte ich mir schon.[WAIT]@Aber...[PAUSE 1E 00] ich bezweifle, das man sich Sorgen[BREAK]  machen braucht.[WAIT]@Ich werde es Wess wissen lassen.[END]
+197-4E:@Ah, das dachte ich mir schon.[WAIT]@Aber...[PAUSE 1E 00] ich bezweifle, dass man sich Sorgen[BREAK]  zu machen braucht.[WAIT]@Ich werde es Wess wissen lassen.[END]
 197-5:@[LUCAS 23 02 00]. It seems you've met one of[BREAK]  my Magypsy friends.[WAIT]@They might not look like it, but they're[BREAK]  trustworthy.[WAIT]@They may be able to help you out.[END]
 197-5E:@[LUCAS 23 02 00]. Du scheinst eine meiner[BREAK]  Magypsy Freunde getroffen zu haben.[WAIT]@Sie mögen vielleicht nicht so aussehen, aber[BREAK]  sie sind vertrauenswürdig.[WAIT]@Sie könnten dir vielleicht helfen.[END]
 197-6:@...[PAUSE 20 00]I'm sure[PAUSE 18 00] he's fine.[END]
@@ -9039,7 +9039,7 @@
 198-3:@It's strange.[WAIT]@[HINAWA 22 08 00] appeared in Alex's dream and[BREAK]  told him to pile hay at that one spot.[WAIT]@Then, in the real world, right out of the blue,[BREAK]  you two fall right into the pile...[WAIT]@It's as strange as strange can be.[END]
 198-3E:@Das ist merkwürdig.[WAIT]@[HINAWA 22 08 00] ist in Alex' Traum erschienen[BREAK]  und hat ihm gesagt,[WAIT]  er solle an diesem einem Ort einen[BREAK]  Heuhauen herrichten.[WAIT]@Dann, in der Realität, seid ihr zwei aus dem[BREAK]  Nichts heraus genau in den Haufen geflogen...[WAIT]@Merkwürdiger kann es gar nicht mehr werden.[END]
 198-4:@It's an absolute miracle that you didn't even[BREAK]  get a scratch.[END]
-198-4E:@Es ist ein absolutes Wunder, dass ihr nicht mal[BREAK]  einen Kratzer abbekommen habt.[END]
+198-4E:@Es ist ein richtiges Wunder, dass ihr nicht mal[BREAK]  einen Kratzer abbekommen habt.[END]
 198-5:@In a dream I had, [HINAWA 22 08 00] told me to pile[BREAK]  hay in that spot right away.[WAIT]@She saved your lives.[END]
 198-5E:@Im Traum sagte mir [HINAWA 22 08 00], ich solle[BREAK]  auf der Stelle dort einen Heuhaufen errichten.[WAIT]@Sie hat euer Leben gerettet.[END]
 198-6:@No matter where she goes, [HINAWA 22 08 00] is[BREAK]  always thinking about you.[END]
@@ -9987,7 +9987,7 @@
 219-12E:@Heul-heul. Heul-heul[WAIT]  (Ich bin ein verkohlter Hund, kein schwarzer[BREAK]  Hund.[WAIT]  Es gibt sogar ein paar Schafe, die wie ich[BREAK]  aussehen.)[END]
 // Repeats: 33-12, 219-12
 219-13:@Bow-wow bow-wow![WAIT]  (Now that the lightning has stopped, I feel[BREAK]  much tougher.)[END]
-219-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo das Gewitter aufgehört hat, fühle[BREAK]  ich mich viel besser.)[END]
+219-13E:@Heul-heul heul-heul![WAIT]  (Jetzt, wo die Gewitter aufgehört haben, [BREAK]  fühle ich mich viel besser.)[END]
 // Repeats: 33-13, 219-13
 219-14:@Bow-wow-wow-wow.[WAIT]  (When you hang around sheep as a stray dog,[BREAK]  you start to feel more like a pet dog.)[END]
 219-14E:@Heul-heul-heul-heul.[WAIT]  (Wenn man als Streuner bei Schafen abhängt,[BREAK]  kommt man sich wie ein Schäferhund vor.)[END]
@@ -10038,7 +10038,7 @@
 219-29E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Dieser alte Mann hat eindeutig Hobbies[BREAK]  und Interessen, die sich von normalen[WAIT]  Leuten unterscheiden...[END]
 // Repeats: 33-29, 219-29
 219-30:@Stroke![PAUSE 18 00] Stroke![PAUSE 18 00] Stroke![PAUSE 18 00][WAIT]@He smells like the forest.[WAIT]@I think he should go back there, where he[BREAK]  belongs.[END]
-219-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er riecht wie der Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
+219-30E:@Zack![PAUSE 18 00] Zack![PAUSE 18 00] Zack![PAUSE 18 00][WAIT]@Er riecht nach Wald.[WAIT]@Ich finde, er sollte dorthin zurückgehen, wo er[BREAK]  hingehört.[END]
 // Repeats: 33-30, 219-30
 219-31:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ooh, I undid the gag on my own! [HEART][WAIT]@I just moved my mouth up[PAUSE 20 00] and down[PAUSE 20 00] like so[BREAK]  and slowly slipped it off![WAIT]@Ooh, I'm wonderful! [HEART][WAIT][PAUSE 20 00]@I hate to be a bother, but could you stand me[BREAK]  up?[END]
 219-31E:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]Pwaa![WAIT]@Ohh, ich konnte den Knebel selbst lösen! [HEART][WAIT]@Ich habe meinen Mund wie so einfach hoch[PAUSE 20 00] und[BREAK]  runter[PAUSE 20 00] bewegt und es hat sich langsam gelöst![WAIT]@Ohh, ich bin so super! [HEART][WAIT][PAUSE 20 00]@Ich bin andern nur ungern eine Last, aber[BREAK]  könntest du mir bitte aufhelfen?[END]
@@ -10053,13 +10053,13 @@
 219-34E:@Du bist doch dieser Junge, den ich vor Kurzem[BREAK]  an der Heißen Quelle getroffen habe, oder?[WAIT]@Das Schicksal muss uns wieder[BREAK]  zusammengeführt haben. [HEART][WAIT]@Von dem Moment an, an dem ich erkannte,[BREAK]  dass du PSI benutzen kannst, wusste ich,[WAIT]  dass uns etwas verbindet.[END]
 // Repeats: 33-34, 219-34
 219-35:@You're undoubtedly the one we Magypsies[BREAK]  have been waiting for[WAIT]  for tens of thousands of years.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]right?[WAIT]@Can you sense it, too?[WAIT]@Can't you feel "the time" drawing near?[WAIT]@It's okay if you can't. I'm not entirely sure[BREAK]  about it, either. [HEART][END]
-219-35E:@Du bist ohne Zweifel derjenige, auf den wir[BREAK]  Magypsies viele jahrtausende Jahre lang[WAIT]  gewartet haben.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]richtig?[WAIT]@Spürst du das auch?[WAIT]@Fühlst du nicht das "die Zeit" langsam kommt?[WAIT]@Ist schon in Ordnung, wenn nicht. Ich bin mir[BREAK]  dabei auch nicht komplett sicher. [HEART][END]
+219-35E:@Du bist ohne Zweifel derjenige, auf den wir[BREAK]  Magypsies jahrtausende Jahre lang[WAIT]  gewartet haben.[PAUSE 08 00].[PAUSE 08 00]. [PAUSE 20 00]richtig?[WAIT]@Spürst du es auch?[WAIT]@Fühlst du nicht, dass "die Zeit" langsam kommt?[WAIT]@Ist schon in Ordnung, wenn nicht. Ich bin mir[BREAK]  dabei auch nicht völlig sicher. [HEART][END]
 // Repeats: 33-35, 219-35
 219-36:@Wait a second! If I was attacked...[WAIT]  Could it mean...[WAIT]@I hope Aeolia is all right![WAIT]@I wish I could fly there, but I can't without my[BREAK]  makeup on![WAIT]@All I can do is walk on land like a human.[BREAK]  How tragic.[WAIT]@Oh, well. I'll walk if I have to.[WAIT]@And you.[PAUSE 30 00] You're coming with me![WAIT]  Come on, let's go to Aeolia's house! [HEART][WAIT]@Okay? [HEART][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 219-36E:@Warte mal! Wenn ich angegriffen wurde...[WAIT]  Könnte das bedeuten...[WAIT]@Ich hoffe, Aeolia geht es gut![WAIT]@Ich wünschte, ich könnte fliegen, aber ich kann[BREAK]  das ohne Make-Up nicht![WAIT]@Jetzt kann ich nur laufen wie ein Mensch.[BREAK]  Wie tragisch.[WAIT]@Naja. Wenn ich laufen muss, dann mach ich's[BREAK]  eben.[WAIT]@Und du.[PAUSE 30 00] Du kommst mit mir![WAIT]  Los, lasst uns zu Aeolias Haus gehen! [HEART][WAIT]@Okay? [HEART][WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 33-36, 219-36
 219-37:@Marvelous! [HEART][WAIT]@Let's make some magic happen together! [HEART][WAIT]  ...I mean that in a nice way.[END]
-219-37E:@Fabelhaft! [HEART][WAIT]@Lasst uns ein Wunder bewirken! [HEART][WAIT]  ...Und das mein ich positiv.[END]
+219-37E:@Fabelhaft! [HEART][WAIT]@Lasst uns etwas Magie bewirken! [HEART][WAIT]  ...Ich meine das auf nette Art und Weise.[END]
 // Repeats: 33-37, 219-37
 219-38:@This isn't like packing for a trip or brushing[BREAK]  your teeth or any daily chores like that.[WAIT]@This is on a whole different level altogether.[WAIT]@We're going to Aeolia's house together, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 219-38E:@Das ist nicht sowas wie Sachen packen oder[BREAK]  Zähne putzen oder sonstige tägliche Arbeiten.[WAIT]@Das ist auf einem völlig anderem Level.[WAIT]@Wir gehen zusammen zu Aeolias Haus, okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -10077,7 +10077,7 @@
 219-42E:@Wartet.[END]
 // Repeats: 33-42, 219-42
 219-43:@I have noooo idea what you were talking about[BREAK]  just now,[WAIT]  but if it's up the river you need to go, then it's[BREAK]  our time to shine![WAIT]@C'mon! Follow us![END]
-219-43E:@Ich habe keeeeine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinaufmüsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
+219-43E:@Ich habe keiiiiine Ahnung über was ihr gerade[BREAK]  eben geredet habt,[WAIT]  aber wenn ihr den Fluss hinaufmüsst, dann ist[BREAK]  es unsere Zeit zu zeigen, was wir drauf haben![WAIT]@Kommt schon! Folgt uns![END]
 // Repeats: 33-43, 219-43
 219-44:@We just got this! It's the greatest boat ever![WAIT]@You'll get on it, of course?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 219-44E:@Das haben wir gerade bekommen![BREAK]  Es ist das großartigste Boot, das es gibt![WAIT]@Ihr werdet es natürlich nutzen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -10572,13 +10572,13 @@
 225-33E:@Jetzt ist nicht die Zeit dafür, Aeolia! [HEART][WAIT]@Ich wurde angegriffen.[WAIT]@Ich bin hierher gerannt um zu schauen, ob es[BREAK]  dir gut geht.[END]
 // Repeats: 225-33, 254-33
 225-34:@I'm just fine.[BREAK]@I'm as lovely as I always am. [HEART][WAIT]@But never mind me...[PAUSE 20 00] why don't you untie that[BREAK]  rope already?[END]
-225-34E:@Mir geht's gut.[BREAK]@Ich bin so lieblich wie immer. [HEART][WAIT]@Aber das ist egal...[PAUSE 20 00] warum öffnest du nicht[BREAK]  endlich das Seil?[END]
+225-34E:@Mir geht's gut.[BREAK]@Ich bin so reizend wie immer. [HEART][WAIT]@Aber das ist egal...[PAUSE 20 00] warum öffnest du nicht[BREAK]  endlich das Seil?[END]
 // Repeats: 225-34, 254-34
 225-35:@Oh?! I was in such a rush I never even noticed![WAIT]@What a shock![WAIT]@[LUCAS 23 02 00]. Could you untie me now?![WAIT]@Unbelievable! You have no sense of courtesy![END]
 225-35E:@Oh?! Ich war in so einer Eile, dass mir das gar[BREAK]  nicht aufgefallen ist![WAIT]@Was für ein Schock![WAIT]@[LUCAS 23 02 00]. Könntest du mich jetzt[BREAK]  befreien?![WAIT]@Unglaublich! Kein Sinn für Höflichkeit![END]
 // Repeats: 225-35, 254-35
 225-36:@Ah, who's that fine figure? [HEART][WAIT][PAUSE 1E 00]@Why, that's me without makeup![WAIT]@I'm sexy, even without makeup on. [HEART][END]
-225-36E:@Ah, wer ist denn diese feine Person? [HEART][WAIT][PAUSE 1E 00]@Was denn, das bin ich ohne Makeup![WAIT]@Ich bin sexy, auch ohne Makeup. [HEART][END]
+225-36E:@Ah, wer ist denn diese feine Person? [HEART][WAIT][PAUSE 1E 00]@Na das bin ja ich ohne Makeup![WAIT]@Ich bin sexy, auch ohne Makeup. [HEART][END]
 // Repeats: 225-36, 254-36
 225-37:@Pleasure to meet you. [HEART][WAIT]@I am Aeolia, one of the Magypsies.[WAIT]@Fate has brought you here...[PAUSE 40 00] Yes, I can feel it.[WAIT]@Oh, I'm so happy! [HEART][END]
 225-37E:@Erfreut, dich zu sehen. [HEART][WAIT]@Ich bin Aeolia, eine der Magypsies.[WAIT]@Das Schicksal muss uns zusammen gebracht[BREAK]  haben...[PAUSE 40 00] Ja, ich kann es fühlen.[WAIT]@Oh, ich bin so glücklich! [HEART][END]
@@ -10614,7 +10614,7 @@
 225-47E:@Du kannst durch diesen Untergrundpfad zum[BREAK]  Garten des Schlosses gelangen. [HEART][WAIT]@Wenn die Nadel wirklich gezogen wurde, werde[BREAK]  ich bald verschwinden...[WAIT]@Aber es ist gut zu wissen, wer sie gezogen[BREAK]  hat.[WAIT]  Jemand mit dunklem Herz, oder jemand mit[BREAK]  reinem Herz?[WAIT]@Die Antwort darauf ändert möglicherweise das[BREAK]  Schicksal der ganzen Welt.[END]
 // Repeats: 225-47, 254-47
 225-48:@Oooh. [HEART][PAUSE 20 00] So today is the day I disappear.[WAIT]@Ionia, What's-Your-Name, and Doggy...[WAIT]@Byebee! [HEART][END]
-225-48E:@Oooh, [HEART][PAUSE 20 00] Also ist heute der Tag, an dem ich[BREAK]  verschwinde.[WAIT]@Ionia, Wie-hießt-du-nochmal, Hundi...[WAIT]@Tschudeluuuu! [HEART][END]
+225-48E:@Oooh. [HEART][PAUSE 20 00] Also ist heute der Tag, an dem ich[BREAK]  verschwinde.[WAIT]@Ionia, Wie-hießt-du-nochmal, Hundi...[WAIT]@Tschudeluuuu! [HEART][END]
 // Repeats: 225-48, 254-48
 225-49:@Aeolia.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@You were an openhearted person.[WAIT]@That's why we got along so well. [HEART][END]
 225-49E:@Aeolia.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Du warst eine sehr offenherzige Person.[WAIT]@Deshalb kamen wir so gut aus. [HEART][END]
@@ -11375,13 +11375,13 @@
 254-33E:@Jetzt ist nicht die Zeit dafür, Aeolia! [HEART][WAIT]@Ich wurde angegriffen.[WAIT]@Ich bin hierher gerannt um zu schauen, ob es[BREAK]  dir gut geht.[END]
 // Repeats: 225-33, 254-33
 254-34:@I'm just fine.[BREAK]@I'm as lovely as I always am. [HEART][WAIT]@But never mind me...[PAUSE 20 00] why don't you untie that[BREAK]  rope already?[END]
-254-34E:@Mir geht's gut.[BREAK]@Ich bin so lieblich wie immer. [HEART][WAIT]@Aber das ist egal...[PAUSE 20 00] warum öffnest du nicht[BREAK]  endlich das Seil?[END]
+254-34E:@Mir geht's gut.[BREAK]@Ich bin so reizend wie immer. [HEART][WAIT]@Aber das ist egal...[PAUSE 20 00] warum öffnest du nicht[BREAK]  endlich das Seil?[END]
 // Repeats: 225-34, 254-34
 254-35:@Oh?! I was in such a rush I never even noticed![WAIT]@What a shock![WAIT]@[LUCAS 23 02 00]. Could you untie me now?![WAIT]@Unbelievable! You have no sense of courtesy![END]
 254-35E:@Oh?! Ich war in so einer Eile, dass mir das gar[BREAK]  nicht aufgefallen ist![WAIT]@Was für ein Schock![WAIT]@[LUCAS 23 02 00]. Könntest du mich jetzt[BREAK]  befreien?![WAIT]@Unglaublich! Kein Sinn für Höflichkeit![END]
 // Repeats: 225-35, 254-35
 254-36:@Ah, who's that fine figure? [HEART][WAIT][PAUSE 1E 00]@Why, that's me without makeup![WAIT]@I'm sexy, even without makeup on. [HEART][END]
-254-36E:@Ah, wer ist denn diese feine Person? [HEART][WAIT][PAUSE 1E 00]@Was denn, das bin ich ohne Makeup![WAIT]@Ich bin sexy, auch ohne Makeup. [HEART][END]
+254-36E:@Oh, wer ist denn diese feine Person? [HEART][WAIT][PAUSE 1E 00]@Ja das bin ja ich ohne Makeup![WAIT]@Ich bin sexy, auch ohne Makeup. [HEART][END]
 // Repeats: 225-36, 254-36
 254-37:@Pleasure to meet you. [HEART][WAIT]@I am Aeolia, one of the Magypsies.[WAIT]@Fate has brought you here...[PAUSE 40 00] Yes, I can feel it.[WAIT]@Oh, I'm so happy! [HEART][END]
 254-37E:@Erfreut, dich zu sehen. [HEART][WAIT]@Ich bin Aeolia, eine der Magypsies.[WAIT]@Das Schicksal muss uns zusammen gebracht[BREAK]  haben...[PAUSE 40 00] Ja, ich kann es fühlen.[WAIT]@Oh, ich bin so glücklich! [HEART][END]
@@ -11417,7 +11417,7 @@
 254-47E:@Du kannst durch diesen Untergrundpfad zum[BREAK]  Garten des Schlosses gelangen. [HEART][WAIT]@Wenn die Nadel wirklich gezogen wurde, werde[BREAK]  ich bald verschwinden...[WAIT]@Aber es ist gut zu wissen, wer sie gezogen[BREAK]  hat.[WAIT]  Jemand mit dunklem Herz, oder jemand mit[BREAK]  reinem Herz?[WAIT]@Die Antwort darauf ändert möglicherweise das[BREAK]  Schicksal der ganzen Welt.[END]
 // Repeats: 225-47, 254-47
 254-48:@Oooh. [HEART][PAUSE 20 00] So today is the day I disappear.[WAIT]@Ionia, What's-Your-Name, and Doggy...[WAIT]@Byebee! [HEART][END]
-254-48E:@Oooh, [HEART][PAUSE 20 00] Also ist heute der Tag, an dem ich[BREAK]  verschwinde.[WAIT]@Ionia, Wie-hießt-du-nochmal, Hundi...[WAIT]@Tschudeluuuu! [HEART][END]
+254-48E:@Oooh. [HEART][PAUSE 20 00] Also ist heute der Tag, an dem ich[BREAK]  verschwinde.[WAIT]@Ionia, Wie-hießt-du-nochmal, Hundi...[WAIT]@Tschudeluuuu! [HEART][END]
 // Repeats: 225-48, 254-48
 254-49:@Aeolia.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@You were an openhearted person.[WAIT]@That's why we got along so well. [HEART][END]
 254-49E:@Aeolia.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Du warst eine sehr offenherzige Person.[WAIT]@Deshalb kamen wir so gut aus. [HEART][END]
@@ -13327,19 +13327,19 @@
 344-8:@Thank you for coming![WAIT]@Please visit again sometime![BREAK]@*giggle*[END]
 344-8E:[END]
 344-9:@*click* *whir*[WAIT]@WELCOME.[WAIT]@THE CHIMERA THEATER IS CURRENTLY[BREAK]  CLOSED.[WAIT]@*whir* *click*[END]
-344-9E:@*knack* *surr*[WAIT]@WILLKOMMEN.[WAIT]@DAS CHIMÄRA-KINO IST MOMENTAN[BREAK]  GESCHLOSSEN.[WAIT]@*surr* *knack*[END]
+344-9E:@*knack* *surr*[WAIT]@WILLKOMMEN.[WAIT]@DAS CHIMÄRA-KINO HAT MOMENTAN[BREAK]  GESCHLOSSEN.[WAIT]@*surr* *knack*[END]
 344-10:@*click* *whir*[WAIT]@THANK YOU FOR COMING.[WAIT]@*whir* *click*[END]
-344-10E:@*knack* *surr*[WAIT]@DANKE FÜR DAS KOMMEN.[WAIT]@*surr* *knack*[END]
+344-10E:@*knack* *surr*[WAIT]@DANKE FÜR'S KOMMEN.[WAIT]@*surr* *knack*[END]
 344-11:@*click* *whir*[WAIT]@I AM BROKEN.[WAIT]  BROKEN.[WAIT]  BROKEN.[WAIT]  YOU DON'T MIND, DO YOU?[WAIT]@*whir* *click*[END]
 344-11E:@*knack* *surr*[WAIT]@ICH BIN KAPUTT.[WAIT]  KAPUTT.[WAIT]  KAPUTT.[WAIT]  DIR IST DAS EGAL, ODER?[WAIT]@*surr* *knack*[END]
 344-12:@This area is off-limits![WAIT]@And don't you dare try to find some other way[BREAK]  inside![END]
-344-12E:@Dieser Ort abgesperrt![WAIT]@Und wage es ja nicht, einen anderen Weg[BREAK]  hinein zu nehmen![END]
+344-12E:@Dieser Ort ist gesperrt![WAIT]@Und wage es ja nicht, einen anderen Weg[BREAK]  hinein zu nehmen![END]
 344-13:@Oh! You're...[WAIT]  ...the part-timers who start here today, right?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 344-13E:@Oh! Ihr seid...[WAIT]  ...die Teilzeitarbeiter, die ab heute hier[BREAK]  arbeiten, richtig?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 344-14:@Okay, cool.[WAIT]@You can get inside through the back of the[BREAK]  mini-theater.[WAIT]  The mini-theater's to the right of the[BREAK]  entrance, in case you didn't know.[WAIT]@Go in through there and change your clothes.[WAIT]@It's good to have you on board![END]
-344-14E:@Cool.[WAIT]@Ihr könnt hinten im Mini-Kino reinkommen.[WAIT]  Das Mini-Kino ist rechts von der Eingangshalle,[BREAK]  falls ihr es nicht wusstet.[WAIT]@Geht dort rein und zieht euch um.[WAIT]@Es ist schön, euch an Bord zu haben![END]
+344-14E:@Cool.[WAIT]@Ihr könnt hinten durch's Mini-Kino reinkommen.[WAIT]  Das Mini-Kino ist rechts von der Eingangshalle,[BREAK]  falls ihr es nicht wusstet.[WAIT]@Geht dort rein und zieht euch um.[WAIT]@Es ist schön, euch an Bord zu haben![END]
 344-15:@Oh.[WAIT]@Well, it's great that you're so interested in our[BREAK]  company's research,[WAIT]  especially at such a young age.[WAIT]@But please don't go behind the mini-theater's[BREAK]  speakers to get inside the lab.[WAIT]@When someone tells you not to do something,[BREAK]  you're not supposed to do it.[WAIT]@Understand?[END]
-344-15E:@Oh.[WAIT]@Nun, es ist schön, dass ihr so an der Wissen-[BREAK]  schaft interessiert seid,[WAIT]  besonders in solch einem Alter.[WAIT]@Aber bitte geht nicht hinten im Mini-Kino in das[BREAK]  Labor, das dürft ihr nicht.[WAIT]@Okay?[END]
+344-15E:@Oh.[WAIT]@Nun, es ist schön, dass ihr so an der Wissen-[BREAK]  schaft interessiert seid,[WAIT]  besonders in solch einem Alter.[WAIT]@Aber bitte geht nicht hinten durch's Mini-Kino in [BREAK]  das Labor, das dürft ihr nicht.[WAIT]@Okay?[END]
 344-16:@These shutters will close in the case of an[BREAK]  emergency.[END]
 344-16E:@Diese Rollläden schließen sich im Falle eines[BREAK]  Notfalls.[END]
 344-17:@Hey, you guys![WAIT]@Where do you think you're going?![BREAK]  You're on the job![END]
@@ -13413,7 +13413,7 @@
 349-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 349-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-349-4E:@Mal schauen...[WAIT]@Der ist Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
+349-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Operationen gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 349-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
 349-5E:@Auf seinem Rücken ist ein großer Knopf![WAIT]@Du musst ihn drücken![EVENT][END]

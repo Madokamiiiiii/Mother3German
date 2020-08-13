@@ -209,7 +209,7 @@
 0067: Artsy Ghost
 0067-E: Künstlerischer Geist
 0068: Horsantula
-0068-E: Horsantula
+0068-E: Pfertantula
 0069: Pigtunia
 0069-E: Pigtunia
 006A: Squawking Stick

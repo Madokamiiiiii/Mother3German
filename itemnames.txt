@@ -506,7 +506,7 @@
 00FB: Tower Sketch
 00FB-E: Skizze des Turms
 00FC: Chimera Lab Map
-00FC-E: Chimera Lab-Karte
+00FC-E: Chimära Lab-Karte
 00FD: Cricket Hole Map
 00FD-E: Grillenbau-Karte
 00FE: Highway Map
