@@ -926,7 +926,7 @@
 1CC:New Pork City[END]
 1CC-E:New Pork City[END]
 1CD:New Pork City[BREAK]Leder's House[END]
-1CD-E:New Pork City[BREAK]Leders Haus[END]
+1CD-E:New Pork City[BREAK]Leiders Haus[END]
 1CE:Murki Cave[END]
 1CE-E:Murki Höhle[END]
 1CF:Murki Cave[END]

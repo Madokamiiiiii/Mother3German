@@ -322,7 +322,7 @@
 0A0:Fuel
 0A0-E:Fuel
 0A1:Leder
-0A1-E:Leder
+0A1-E:Leider
 0A2:Mole Cricket
 0A2-E:Maulwurfsgrille
 0A3:Stray Dog

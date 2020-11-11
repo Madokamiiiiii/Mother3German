@@ -482,7 +482,7 @@
 00EF: Mixolydia's memento, a razor and lipstick.[END]
 00EF-E: Mixolydias Andenken, ein Rasierer und[BREAK]Lippenstift.[END]
 00F0: Aeolia's memento, a razor and lipstick.[END]
-00F0-E: Aeolias Andenken, ein Rasierer und Lippenstift.[END]
+00F0-E: Aeolias Andenken, ein Rasierer und[BREAK]Lippenstift.[END]
 00F1: A map of the Tazmily area.[END]
 00F1-E: Eine Karte der Gegend von Tazmily.[END]
 00F2: A sketched map of Osohe Castle.[END]

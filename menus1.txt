@@ -377,7 +377,7 @@
 00BB: [12 EF][A1 FF] can't be used here.[END]
 00BB-E: [A1 FF] kann hier nicht ausgerüstet[BREAK]werden.[END]
 00BC: Threw away [13 EF][A1 FF].[END]
-00BC-E: Warf [A1 FF] weg.[END]
+00BC-E: [A1 FF] weggeworfen.[END]
 00BD: You can't throw away [13 EF][A1 FF].[END]
 00BD-E: Du kannst [A1 FF] nicht wegwerfen.[END]
 00BE: [END]

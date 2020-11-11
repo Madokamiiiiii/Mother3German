@@ -2514,7 +2514,7 @@
 04E6: The Barrier Trio dropped their Barrier Pose![END]
 04E6-E: Das Barriere Trio verlore ihre Barriere Pose![END]
 04E7: The exhausted [11 FF] struck one final Barrier Pose![END]
-04E7-E: Die erschöpften [11 FF] bildeten eine finale Barriere Pose![END]
+04E7-E: Das erschöpfte [11 FF] bildeten eine finale Barriere Pose![END]
 04E8: It was spectacular.[34 FF][END]
 04E8-E: Es war spektakulär.[34 FF][END]
 04E9: [11 FF] tried PK Starstorm! [33 FF][WAIT]...But didn't have enough strength left for it.[END]

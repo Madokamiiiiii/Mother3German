@@ -343,7 +343,7 @@
 00AA: Pigmask Major
 00AA-E: Major Schweinemaske
 00AB: Pigmask Colonel
-00AB-E: Oberst-Schweinemakse
+00AB-E: Oberst-Schweinemaske
 00AC: Pigmask Captain
 00AC-E: Kapitän Schweinemaske
 00AD: Navy SQUEAL
