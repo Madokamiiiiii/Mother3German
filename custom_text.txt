@@ -23,10 +23,10 @@ dies
 diese 
 dieser 
 dieses 
-A 
-a 
-An 
-an 
+Eine 
+eine 
+Ein 
+ein 
 the 
 The 
  als Waffe.
@@ -34,3 +34,7 @@ The
  auf den Kopf.
 .
 dein 
+a 
+A 
+an 
+An 

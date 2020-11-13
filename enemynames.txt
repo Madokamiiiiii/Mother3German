@@ -339,7 +339,7 @@
 00A8: Alkaline Man
 00A8-E: Laugenartiger Mann
 00A9: PORKY 06
-00A9-E: PORKY 07
+00A9-E: PORKY 06
 00AA: Pigmask Major
 00AA-E: Major Schweinemaske
 00AB: Pigmask Colonel

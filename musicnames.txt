@@ -267,7 +267,7 @@
 083:Whew, Hauling is Hard Work[END]
 083-E:Whew, Heulen ist Harte Arbeit[END]
 084:Good Work[END]
-084-E:Gute Arbeit[END] 
+084-E:Gute Arbeit[END]
 085:Stringendo[END]
 085-E:Stringendo[END]
 086:Ride the Ropeway[END]
@@ -351,7 +351,7 @@
 0AD:Magypsy's Home, Sweetie-Pie[END]
 0AD-E:Magypys Zuhause, Schatz-Kuchen[END]
 0AE:Magypsy's Gone, Cutie-Pie[END]
-0AE-E:Magypsys Verschwunden, Süßer-Kuchen[END] 
+0AE-E:Magypsys Verschwunden, Süßer-Kuchen[END]
 0AF:Razor and Lipstick[END]
 0AF-E:Rasierer und Lippenstift[END]
 0B0:And Yet, El Mariachi[END]
@@ -365,154 +365,154 @@
 0B4:The Green Train's Fun, Too![END]
 0B4-E:Der Grüne Zug macht Auch Spaß![END]
 0B5:It's Chimera Research[END]
-0B5-E:
+0B5-E:Chimäraforschung[END]
 0B6:Pink Shell[END]
 0B6-E:Pinke Schale[END]
 0B7:Pulling of the Needles[END]
-0B7-E: 
+0B7-E:Ziehen der Nadeln[END]
 0B8:More Audacious March[END]
-0B8-E: 
+0B8-E:Noch tollkühnerer Marsch[END]
 0B9:Mole Cricket Elder[END]
-0B9-E: 
+0B9-E:Maulwurfsgrillenältester[END]
 0BA:Snowman[END]
-0BA-E: 
+0BA-E:Schneemann[END]
 0BB:His Highness' Theme[END]
-0BB-E: 
+0BB-E:Thema Seiner Hoheit[END]
 0BC:Smashing Song of Praise[END]
-0BC-E: 
+0BC-E:Lied des Lobes[END]
 0BD:A Flying Whatchamacallit[END]
-0BD-E: 
+0BD-E:Ein fliegend Wienenntmans[END]
 0BE:Mr. What's-His-Nose[END]
-0BE-E: 
+0BE-E:Mr. Was-ist-seine-Nase[END]
 0BF:Mr. Saturn Theme Z[END]
-0BF-E: 
+0BF-E:Mr. Saturn Thema Z[END]
 0C0:Tragic Security[END]
-0C0-E: 
+0C0-E:Tragische Sicherheit[END]
 0C1:Hustle for Pride[END]
-0C1-E: 
+0C1-E:Gedränge nach Stolz[END]
 0C2:War of the Words[END]
-0C2-E: 
+0C2-E:Krieg der Worte[END]
 0C3:we humming[END]
-0C3-E: 
+0C3-E:wir summen[END]
 0C4:Volcano! Inferno![END]
-0C4-E: 
+0C4-E:Vulkan! Inferno![END]
 0C5:Fassad and Interpreter[END]
-0C5-E: 
+0C5-E:Fassad und Interpreter[END]
 0C6:Coffee Break[END]
-0C6-E: 
+0C6-E:Kaffeepause[END]
 0C7:Got Somethin' Great![END]
-0C7-E: 
+0C7-E:Etwas Tolles bekommen![END]
 0C8:Beachcombing[END]
-0C8-E: 
+0C8-E:Beachcombing![END]
 0C9:O2 in Love[END]
-0C9-E: 
+0C9-E:O2 verliebt[END]
 0CA:Tanetane Island[END]
-0CA-E: 
+0CA-E:Insel Tanetane[END]
 0CB:Red-Green-Yellow-Yellow[NOTE][END]
-0CB-E: 
+0CB-E:Rot-Grün-Gelb-Gelb[NOTE][END]
 0CC:Is it Just Me Or Are You Gorgeous?[END]
-0CC-E: 
+0CC-E:Bin nur ich das oder bist du hübsch?[END]
 0CD:Strong One[END]
-0CD-E: 
+0CD-E:Ein Starker[END]
 0CE:And Then There Were None[END]
-0CE-E: 
+0CE-E:Und dann gab es niemanden mehr[END]
 0CF:Is Anyone There?[END]
-0CF-E: 
+0CF-E:Jemand da?[END]
 0D0:Like Looking for Dropped Pickles[END]
-0D0-E: 
+0D0-E:Auf der Suche nach Gewürzgurken[END]
 0D1:Chupichupyoi for World Heritage[END]
-0D1-E: 
+0D1-E:Chupichupyoi als Welterbe[END]
 0D2:Who?[END]
-0D2-E: 
+0D2-E:Wer?[END]
 0D3:Strong One (Masked Man)[END]
-0D3-E: 
+0D3-E:Ein Starker (Maskierter Mann)[END]
 0D4:True Welcome![END]
-0D4-E: 
+0D4-E:Wahres Willkommen![END]
 0D5:Life's an Inner Turn Radius[END]
-0D5-E: 
+0D5-E:Das Leben ist ein Wendekreis[END]
 0D6:NPC Loves You![END]
-0D6-E: 
+0D6-E:NPC liebt dich![END]
 0D7:Chapter 8[END]
-0D7-E: 
+0D7-E:Kapitel 8[END]
 0D8:Isn't This Such a Utopia?![END]
-0D8-E: 
+0D8-E:Ist das nicht eine Utopie?![END]
 0D9:Blip-Blip High Score[END]
-0D9-E: 
+0D9-E:Blip-Blip High Score[END]
 0DA:No Eating Crackers in the Cinema[END]
-0DA-E: 
+0DA-E:Kekse Essen im Kino verboten[END]
 0DB:Beauty and Tasty[END]
-0DB-E: 
+0DB-E:Schön und Lecker[END]
 0DC:New Pork Bossa[END]
-0DC-E: 
+0DC-E:New Pork Bossa[END]
 0DD:Absolutely Filthy Apartments[END]
-0DD-E: 
+0DD-E:Absolut dreckige Wohnungen[END]
 0DE:Leder's Gymnopedie[END]
-0DE-E: 
+0DE-E:Leiders Gymnopedie[END]
 0DF:Afro Bam-Babam[END]
-0DF-E: 
+0DF-E:Afro Bamm-Babamm[END]
 0E0:Hey, Brother! Gimme an A![END]
-0E0-E: 
+0E0-E:Hey, Bruder! Gib mir ein A![END]
 0E1:Theme of DCMC[END]
-0E1-E: 
+0E1-E:DCMC-Thema[END]
 0E2:Samba de Cambo[END]
-0E2-E: 
+0E2-E:Samba de Cambo[END]
 0E3:Hippos[END]
-0E3-E: 
+0E3-E:Nilpferde[END]
 0E4:Rain, Followed by a Harem[END]
-0E4-E: 
+0E4-E:Regen, gefolgt von Harem[END]
 0E5:Refreshing Toilets[END]
-0E5-E: 
+0E5-E:Erfrischende Toiletten[END]
 0E6:Under Construction...[END]
-0E6-E: 
+0E6-E:Im Bau...[END]
 0E7:Automated...[END]
-0E7-E: 
+0E7-E:Automatisiert...[END]
 0E8:Even More Intense Guys[END]
-0E8-E: 
+0E8-E:Noch stärkere Kerle[END]
 0E9:Mini-Porky's Entrance[END]
-0E9-E: 
+0E9-E:Mini-Porkys Eingang[END]
 0EA:Try Kind of Hard![END]
-0EA-E: 
+0EA-E:Versuch's ruhig![END]
 0EB:And... Stop![END]
-0EB-E: 
+0EB-E:Und... Stop![END]
 0EC:Natural Killer Cyborg[END]
-0EC-E: 
+0EC-E:Natürlicher Killer-Cyborg[END]
 0ED:Time Passage[END]
-0ED-E: 
+0ED-E:Zeitpassage[END]
 0EE:A Certain Someone's Memories[END]
-0EE-E: 
+0EE-E:Erinnerungen eines gewissen Jemands[END]
 0EF:I Am Porky[END]
-0EF-E: 
+0EF-E:Ich bin Porky[END]
 0F0:Porky's Porkies[END]
-0F0-E: 
+0F0-E:Porkys Schweine[END]
 0F1:Burst-In Rock 'n' Roll[END]
-0F1-E: 
+0F1-E:Burst-In Rock 'n' Roll[END]
 0F2:Master Porky's Theme[END]
-0F2-E: 
+0F2-E:Meister Porkys Thema[END]
 0F3:Absolutely Safe Capsule[END]
-0F3-E: 
+0F3-E:Absolut Sichere Kapsel[END]
 0F4:Battle Against the Masked Man[END]
-0F4-E: 
+0F4-E:Kampf gegen den Maskierten Mann[END]
 0F5:Memory of Mother[END]
-0F5-E: 
+0F5-E:Erinnerung an Mutter[END]
 0F6:It's Over[END]
-0F6-E: 
+0F6-E:Es ist vorbei[END]
 0F7:Phantasmagoric[END]
-0F7-E: 
+0F7-E:Phantasmorgisch[END]
 0F8:Curtain Call[END]
-0F8-E: 
+0F8-E:Fall des Vorhangs[END]
 0F9:16 Melodies (Beginning)[END]
-0F9-E: 
+0F9-E:Melodien (Anfang)[END]
 0FA:Memory of Life[END]
-0FA-E: 
+0FA-E:Erinnerung an das Leben[END]
 0FB:[END]
-0FB-E: 
+0FB-E:[END]
 0FC:[END]
-0FC-E: 
+0FC-E:[END]
 0FD:[END]
-0FD-E: 
+0FD-E:[END]
 0FE:[END]
-0FE-E: 
+0FE-E:[END]
 0FF:[END]
-0FF-E: 
+0FF-E:[END]
 100:[END]
-100-E: 
+100-E:[END]
