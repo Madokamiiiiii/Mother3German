@@ -1,7 +1,7 @@
 # Mother3German
-Die Übersetzung ist so gut wie vollständig. Das Spiel sollte von vorne bis hinten durchspielbar sein.
+Die Übersetzung ist so gut wie vollständig. Das Spiel ist von vorne bis hinte durchspielbar.
 
-Es werden aber gewiss einige Fehler vorhanden sein, da die Übersetzung noch nicht getestet wurde.
+Es werden aber gewiss einige Fehler vorhanden sein.
 
 ToDos sind Nebentexte (z.B. Gegnerbeschreibungen), ein paar Grafiken und ein paar wenige Zeilen im Skript.
 Hilfe ist wie immer sehr erwünscht.
