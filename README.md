@@ -1,5 +1,5 @@
 # Mother3German
-Die Übersetzung ist so gut wie vollständig. Das Spiel ist von vorne bis hinte durchspielbar.
+Die Übersetzung ist so gut wie vollständig. Das Spiel ist von vorne bis hintne durchspielbar.
 
 Es werden aber gewiss einige Fehler vorhanden sein.
 
