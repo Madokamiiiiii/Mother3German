@@ -1,6 +1,6 @@
 // Character names must be 19 letters or less, but the shorter the better
 000:(EMPTY)
-000-E: (EMPTY)
+000-E:(EMPTY)
 001:Flint
 001-E:Flint
 002:Flint
@@ -144,7 +144,7 @@
 047:Lucas
 047-E:Lucas
 048:Nippolyte
-048-E: Nippolyte
+048-E:Nippolyte
 049:Porky
 049-E:Pokey
 04A:Isaac
