@@ -10,3 +10,4 @@ Zum Patchen wird eine originale Mother 3 Rom und ein BPS-Patcher (z. B. https://
 
 ## Bekannte Bugs:
 - Der Sound Player funktioniert nicht.
+- Ein paar Charaktere haben keinen Namen.
