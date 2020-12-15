@@ -972,8 +972,7 @@ org $9B05580; incbin gfx_chapt5-8_arrangement.bin
 org $98AA8D0; incbin gfx_3yearslater.bin
 
 // Insert YOU WON! graphics to replace YOU WIN!
-//org $9C98A28; incbin gfx_youwon_trans.bin
-org $9C98A28; incbin gfx_youwon.bin
+org $9C98A28; incbin gfx_youwon_transfixed.bin
 
 // Insert text speed/window flavor graphics
 org $9BA141C; incbin gfx_flavours.bin
