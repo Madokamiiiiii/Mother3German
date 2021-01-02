@@ -1,13 +1,13 @@
 # Mother3German
-Die Übersetzung ist so gut wie vollständig. Das Spiel ist von vorne bis hintne durchspielbar.
+Die Übersetzung ist so gut wie vollständig. Das Spiel ist von vorne bis hinten durchspielbar.
 
 Es werden aber gewiss einige Fehler vorhanden sein.
 
-ToDos sind Nebentexte (z.B. Gegnerbeschreibungen), ein paar Grafiken und ein paar wenige Zeilen im Skript.
+ToDos sind Nebentexte (z.B. Battle Memory), ein paar Grafiken und ein paar wenige Zeilen im Skript.
 Hilfe ist wie immer sehr erwünscht.
 
 Zum Patchen wird eine originale Mother 3 Rom und ein BPS-Patcher (z. B. https://www.marcrobledo.com/RomPatcher.js/) benötigt.
 
 ## Bekannte Bugs:
-- Der Sound Player funktioniert nicht.
-- Ein paar Charaktere haben keinen Namen.
+- Namen mit ÄÖÜ nicht möglich
+- Bie Kämpfen mit mehreren Gegnern gleichzeitig ist teilweise der Text nicht angepasst (aufgrund Limitierungen wohl nicht änderbar)

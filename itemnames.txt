@@ -450,7 +450,7 @@
 00DF: Egg of Light
 00DF-E: Ei des Lichtes
 00E0: Scrap of Cloth
-00E0-E: Stoffetzen
+00E0-E: Stofffetzen
 00E1: Pig Mark Notebook
 00E1-E: Schweinenotizbuch
 00E2: Child's Shoe

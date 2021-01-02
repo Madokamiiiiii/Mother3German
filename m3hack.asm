@@ -1009,6 +1009,9 @@ org $8E2B95C; incbin gfx_check1_[c].bin
 org $8E2BB1C; incbin gfx_check2_[c].bin
 org $8DB555C; incbin gfx_debugroom_[c].bin
 
+org $8F15360; incbin gfx_amusement_[c].gba
+
+
 //TEST
 //org $9C5F340; dd $0F56CDA
 //org $9C5F340; incbin testg.bin

@@ -19,9 +19,9 @@ pork: e7cd3c; length: 0x3c0
 beauty1: e9cb2c; length: 0x3c4
 beauty2: e9cef0; length: 0x260
 beauty3: f15e9c; length: 0x360
-amusement: f15360; length: 0x418
+! amusement: f15360; length: 0x418
 theater: f17844; length: 0x370
-battlegraphics: 1C926C8 (Die Worte Hit und Miss sind auch dort enthalten. Jedoch ist der Platz absolut nicht ausreichend)
+battlegraphics: 1C926C8 (Die Worte Hit und Miss sind dort enthalten. Jedoch ist der Platz absolut nicht ausreichend)
 	totaldamage: 1C93EC8
 
 
