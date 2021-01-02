@@ -12,8 +12,8 @@ Heller Schleim
 Porky
 N.K. Cyborg
 Maskierter Mann
-Wütender Schweines.
-Wütender Schweines.
+Wütender Soldat
+Wütender Soldat
 Eifersüchtiger Bass
 Porky
 Klebrige Schnecke
@@ -45,10 +45,10 @@ Feuerfliege
 Kartoffelmonster
 Fliegende Maus
 PORKY 01
-Aufgew. Wildschwein
+Wildes Wildschwein
 Bissige Schlange
 Rußknödel
-Back-Kartoffelmons.
+Back-Kartoffelmon.
 Laufender Busch
 Sorglose Qualle
 Metallaffe
@@ -69,12 +69,12 @@ Titani
 Gefrorenes Brötchen
 Frau Lava
 Magmann
-Zombie
+Zombiemann
 Zombiehund
 Verirrter Geist
 Mobiles Grab
 Abgetrenn. Blutegel
-Rückgratlose Hummer
+Rückgratl. Hummer
 RIESIGE Assel
 Munteres Skelett
 Großer Bruder
@@ -92,7 +92,7 @@ Rockiger Geist
 Pseudo-Tür
 Gruseliger Schleim
 Mistkäfer
-Großer Ameisenlöwe
+Groß-Ameisenlöwe
 Sara-Sara-Sahara
 Sandlizard
 Kaktuswolf
@@ -107,7 +107,7 @@ Pigtunia
 Kreischender Stock
 Schimmelmann
 Schlitterhenne
-Whatever
+Was auch immer
 Hundefisch
 Rindschlange
 Einswine
@@ -123,7 +123,7 @@ Himmelstitani
 Affenross
 Elterl. Kangahai
 Fr. Marshmallow
-Beinahe Mecha-Löwe
+Fast Mecha-Löwe
 Rhinocerocket
 Verkehrsrowdy
 Metall-Kakerlake
@@ -154,8 +154,8 @@ Ober-Fledi
 Arachnid!!!!
 Geizigere Maus
 Weinende Gitarre
-Durchgehau. Trommel
-Umgebauter Maulwurf
+Durchgeh. Trommel
+Umgebauter Maulw.
 Umgebauter Löwe
 Wackeliger Roboter
 Männerbad Schild
@@ -163,13 +163,13 @@ Geschrotte. Roboter
 Verzweifel. Schrott
 Überraschungsbox
 Batteriemann
-Screwloose
+Schraubenlos
 Knuddelbombe
 K9000
 Laugenartiger Mann
 PORKY 06
-Major Schweinemaske
-Ober-Schweinemaske
+Major Schweinem.
+Oberst-Schweinem.
 Kapitän Schwein
 Navy SQUEAL
 Meister Eddy
@@ -177,11 +177,11 @@ Rock-Hummer
 Ruuuunder Fisch
 Blauer Glatzadler
 Sicherheitsroboter
-Unwillkommener Gast
+Unwillkomm. Gast
 PORKY 09
 PORKY 10
 Titanian
-Verbesser. Roboter
+Verbessert. Roboter
 Bohnling
 Schwarzer Bohnling
 Kleiner Wald

@@ -181,7 +181,7 @@ org $80C67CC; db $40
 // Re-center various main menu labels. Note that some rare labels may be missing still.
 org $8040456; db $BF         // Goods
 org $8040902; db $BF
-org $8040A82; db $C1         // Equip
+org $8040A82; db $B6        // Equip
 org $804121E; db $C1
 org $8043016; db $C1
 org $8040C26; db $C5         // PSI
@@ -1230,6 +1230,19 @@ org $8049298; bl extra_hacks.memo_iconfix; nop; nop
 
 // Fix the memo lookup table so it's not offset by -1
 org $80C7004; incbin data_memo_flags.bin
+
+
+
+//============================================================================================
+//                                    NEW FIXES
+//============================================================================================
+// makes it so names occupy less obj tiles
+org $8009070; bl outside_hacks.different_oam_size
+org $800912C; bl outside_hacks.different_tiles_storage; nop; nop; nop; nop; nop; nop; nop
+org $80091B8; bl outside_hacks.different_tiles_add
+org $80091C2; bl outside_hacks.different_tiles_print
+
+
 
 //============================================================================================
 //                                    NEW HACK CODE

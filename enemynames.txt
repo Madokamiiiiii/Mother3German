@@ -143,7 +143,7 @@
 0046: Magman
 0046-E: Magmann
 0047: Zombie Man
-0047-E: Zombie
+0047-E: Zombiemann
 0048: Zombie Dog
 0048-E: Zombiehund
 0049: Lingering Spirit
@@ -251,7 +251,7 @@
 007C: Li'l Miss Marshmallow
 007C-E: Kleine Frau Marshmallow
 007D: Almost Mecha-Lion
-007D-E: Beinahe Mecha-Löwe
+007D-E: Fast Mecha-Löwe
 007E: Rhinocerocket
 007E-E: Rhinocerocket
 007F: Wound-Up Road Hog

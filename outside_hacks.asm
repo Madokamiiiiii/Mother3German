@@ -187,3 +187,113 @@ add  r0,#1                    // add 1 because we used a partial tile in theory
 +
 mov  r7,r0                    // r7 now has the final result
 pop  {r1-r6,pc}
+
+
+
+//===========================================================================================
+// This hack is used in order to understand whether the game is printing 
+// with the 8x8 font or a 16x16 font
+//===========================================================================================
+
+.is_small_font:
+push {r1-r2}
+ldr  r0,=#0x2027CAC          //Load the font address
+ldr  r0,[r0,#0]
+mov  r2,#1
+ldr  r1,=#0x8D0B010          //Small font address
+cmp  r0,r1
+beq  +
+mov  r2,#0
++
+mov  r0,r2                   //Put the output in r2
+
+pop  {r1-r2}
+bx   lr
+
+//===========================================================================================
+// This hack is used in order to make obj memory occupation less in the overworld by making
+// oam size smaller for the 8x8 font
+//===========================================================================================
+
+.different_oam_size:
+push {r0,lr}
+mov  r3,#0x80                //Size 1 (With Square, it's 16x16)
+bl   .is_small_font
+cmp  r0,#0
+beq  +
+mov  r3,#0                   //Size 0 (With Square, it's 8x8)
++
+lsl  r3,r3,#7
+
+pop  {r0,pc}
+
+//===========================================================================================
+// This hack is used in order to make obj memory occupation less in the overworld by making
+// tiles assigned to oam closer for the 8x8 font
+//===========================================================================================
+
+.different_tiles_add:
+push {r1,lr}
+bl   .is_small_font
+mov  r1,r0
+ldr  r0,[sp,#0x24]
+add  r0,#1                   //If the font is 8x8, add only 1 to the tile counter
+cmp  r1,#1
+beq  +
+add  r0,#3                   //Otherwise, add 4 to the tile counter
++
+
+pop  {r1,pc}
+
+//===========================================================================================
+// This hack is used in order to make obj memory occupation less in the overworld by making
+// it so the tiles to which the game prints are closer for the 8x8 font
+//===========================================================================================
+
+.different_tiles_print:
+push {lr}
+bl   .is_small_font
+ldr  r3,[sp,#0x10]
+add  r3,#0x20                //If the font is 8x8, add only 0x20 to the VRAM counter
+cmp  r0,#1
+beq  +
+add  r3,#0x60                //Otherwise, add 0x80 to the VRAM counter
++
+
+pop  {pc}
+
+//===========================================================================================
+// This hack is used in order to make obj memory occupation less in the overworld by making
+// it so only the tiles that need to be printed are for the 8x8 font
+//===========================================================================================
+
+.different_tiles_storage:
+push {lr}
+bl   .is_small_font
+mov  r1,r0
+add  r0,r7,#4
+
+cmp  r1,#0
+beq  +
+mov  r1,#0x20                //Only prepare for the copy of the 8x8 tile
+bl   $8001ACC
+mov  r1,r7
+add  r1,#0x24
+ldr  r0,[sp,#0x10]
+add  r0,#0x20
+mov  r2,#0x18
+swi  #0xC
+
+b    .different_tiles_storage_end
++
+
+mov  r1,#0x40                //Default code for 16x16
+bl   $8001ACC
+mov  r0,r7
+add  r0,#0x44
+mov  r1,#0x40
+bl   $8001ACC
+
+.different_tiles_storage_end:
+
+pop  {pc}
