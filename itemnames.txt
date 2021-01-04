@@ -510,6 +510,6 @@
 00FD: Cricket Hole Map
 00FD-E: Grillenbau-Karte
 00FE: Highway Map
-00FE-E: Karte der Autobahn
+00FE-E: Karte der Fernstraﬂe
 00FF: Factory Sketch
 00FF-E: Skizze der Fabrik

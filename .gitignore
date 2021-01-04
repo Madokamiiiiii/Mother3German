@@ -56,3 +56,4 @@ README_DE.html
 *.fs
 shaders/*
 tools/*
+*.bak

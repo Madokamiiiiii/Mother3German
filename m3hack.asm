@@ -986,14 +986,21 @@ org $9C8F34A; db $E8
 org $9C8F350; db $E8
 org $9C8F356; db $E8
 org $9C8DEB4; incbin gfx_healthscreen_[c].bin
-org $9C8F154; incbin gfx_healthtext_[c].bin
+//org $9C8F154; incbin gfx_healthtext_[c].bin
+
+org $9C8F15C; dd $9F87A20-$9C8F154
+org $9F87A20; incbin gfx_healthtext_[c].bin
+
 
 // insert new "LAB" graphics to replace "LABO"
 org $8F0E670; incbin gfx_lab1_[c].bin
 org $8F0E9E0; incbin gfx_lab2_[c].bin
 
-// Change OFE/DFE to OFF/DEF in Goods > Give screen
-org $9B90140; incbin gfx_offdef_[c].bin
+// Translation for Goods > Give screen and save
+//org $9B90140; incbin gfx_offdef_[c].bin
+
+org $9FD44A0; incbin gfx_offdef_[c].bin
+org $9B8FFC4; dd $9FD44A0-$9B8FFC0
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256B20
@@ -1008,8 +1015,12 @@ org $9B9D808; incbin gfx_battle_[c].bin
 org $8E2B95C; incbin gfx_check1_[c].bin
 org $8E2BB1C; incbin gfx_check2_[c].bin
 org $8DB555C; incbin gfx_debugroom_[c].bin
+org $9C926C8; incbin gfx_hit.bin
+org $9B9D564; incbin gfx_up_down_[c].bin
 
-org $8F15360; incbin gfx_amusement_[c].gba
+org $9AF6480; incbin gfx_kp_pp.bin
+org $9C9B108; incbin gfx_battle_kp_pp.bin
+org $8F15360; incbin gfx_amusement_[c].bin
 
 
 //TEST
@@ -1241,6 +1252,14 @@ org $8009070; bl outside_hacks.different_oam_size
 org $800912C; bl outside_hacks.different_tiles_storage; nop; nop; nop; nop; nop; nop; nop
 org $80091B8; bl outside_hacks.different_tiles_add
 org $80091C2; bl outside_hacks.different_tiles_print
+
+// Custom sob block for generic battle sprites for hit and miss and total damage
+define sob_battle_sprites $9F8A5F8
+org {sob_battle_sprites}; incbin misc_battle_sob.bin
+org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
+
+// Realign HITS graphic
+org $8065658; db $40
 
 
 

@@ -21,14 +21,17 @@ beauty2: e9cef0; length: 0x260
 beauty3: f15e9c; length: 0x360
 ! amusement: f15360; length: 0x418
 theater: f17844; length: 0x370
-battlegraphics: 1C926C8 (Die Worte Hit und Miss sind dort enthalten. Jedoch ist der Platz absolut nicht ausreichend)
+! battlegraphics: 1C926C8
 	totaldamage: 1C93EC8
 
-guest/time: 1b90140
-up/down: 1b90140
+guest/time(battle text): 1b90140; length: 0x6e0 (time doesn't work)
+!up/down: 1b9d564
 mainmenu: 1c5f340
 credits: 1c858e4
 credist2: 1f86340
 
 
+!KP PP Graphics out of battle: 1AF6480; 1800
+!KP PP: 1C9B128
 
+Titiboo: D4FFC8; 0x3a8  	(vielleicht später in Titibuh umbenennen)

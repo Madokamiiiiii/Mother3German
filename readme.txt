@@ -24,3 +24,9 @@ Mit Originalhardware dürfte es übrigens auch funktionieren ;)
 Name: Mother 3 (Japan)
 Spiele-ID: AGB-A3UJ
 CRC32: 42ac9cb9
+
+
+-----Danksagungen-----
+- Das englische Mother 3 Übersetzungsteam (Tools, Dokumentation)
+- JumpmanFR (technische Fragen, Fixes)
+- Lorenzooone (Fixes)
