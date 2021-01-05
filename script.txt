@@ -341,7 +341,7 @@
 0-145:@[42 FF 03 00]'s level went up![EVENT][END]
 0-145E:@Das Level von [42 FF 03 00] stieg auf![EVENT][END]
 0-146:@HP went up by [80 FF F0 FF].[EVENT][END]
-0-146E:@HP erhöhte sich um [80 FF F0 FF].[EVENT][END]
+0-146E:@KP erhöhte sich um [80 FF F0 FF].[EVENT][END]
 0-147:@PP went up by [80 FF F1 FF].[EVENT][END]
 0-147E:@PP erhöhte sich um [80 FF F1 FF].[EVENT][END]
 0-148:@Offense went up by [80 FF F2 FF].[EVENT][END]
