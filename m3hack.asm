@@ -1048,6 +1048,17 @@ org $9CFEFA8; incbin gfx_sheriffoffice3_[c].bin
 org $8D3DDB0; dd $9F87D5C-$8D3B4E0
 org $9F87D5C; incbin gfx_welcome_[c].bin
 
+org $8E74370; incbin gfx_highwaycafe_[c].bin
+
+org $8DD2260; incbin gfx_thomasbasar1_[c].bin
+org $8DD1ECC; incbin gfx_thomasbasar2_[c].bin
+
+org $8D3CF4C; dd $9F87A5C-$8D3B4E0
+org $1F87A5C; incbin gfx_new_[c].bin
+
+org $8F17844; incbin gfx_theater_[c].bin
+
+org $8D5D0A8; incbin gfx_b1f_[c].bin
 
 //TEST
 //org $9C5F340; dd $0F56CDA
