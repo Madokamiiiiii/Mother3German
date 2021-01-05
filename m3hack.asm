@@ -977,19 +977,29 @@ org $9C98A28; incbin gfx_youwon_transfixed.bin
 // Insert text speed/window flavor graphics
 org $9BA141C; incbin gfx_flavours.bin
 
-// Insert new Health Screen graphics
-org $9C8F332; db $E8 // Move the flashy text up by 8 pixels
-org $9C8F338; db $E8
-org $9C8F33E; db $E8
-org $9C8F344; db $E8
-org $9C8F34A; db $E8
-org $9C8F350; db $E8
-org $9C8F356; db $E8
-org $9C8DEB4; incbin gfx_healthscreen_[c].bin
-//org $9C8F154; incbin gfx_healthtext_[c].bin
 
-org $9C8F15C; dd $9F87A20-$9C8F154
-org $9F87A20; incbin gfx_healthtext_[c].bin
+// LIMITATION: if using commands, the text is too long
+// For use with base rom.
+// Insert new Health Screen graphics
+//org $9C8F332; db $E8 // Move the flashy text up by 8 pixels
+//org $9C8F338; db $E8
+//org $9C8F33E; db $E8
+//org $9C8F344; db $E8
+//org $9C8F34A; db $E8
+//org $9C8F350; db $E8
+//org $9C8F356; db $E8
+//org $9C8DEB4; incbin gfx_healthscreen_[c].bin
+//org $9C8DEA8; dd $9F87A20-$9C8DE98
+//org $9F87A20; incbin gfx_healthtext_[c].bin
+
+// For use with premade rom
+org $9C8EEBE; db $E8 // Move the flashy text up by 8 pixels
+org $9C8EEC4; db $E8
+org $9C8EECA; db $E8
+org $9C8EED0; db $E8
+org $9C8EED6; db $E8
+org $9C8EEDC; db $E8
+
 
 
 // insert new "LAB" graphics to replace "LABO"
@@ -1021,6 +1031,22 @@ org $9B9D564; incbin gfx_up_down_[c].bin
 org $9AF6480; incbin gfx_kp_pp.bin
 org $9C9B108; incbin gfx_battle_kp_pp.bin
 org $8F15360; incbin gfx_amusement_[c].bin
+
+org $8E2539C; incbin gfx_charge1_[c].bin
+org $8D3CD4C; dd $9DD9F70-$8D3B4E0
+org $9DD9F70; incbin gfx_charge2_[c].bin
+org $8D3D928; dd $9DD9E54-$8D3B4E0
+org $9DD9E54; incbin gfx_charge3_[c].bin
+
+// Unused
+org $8E3E9F4; incbin gfx_sheriffoffice1_[c].bin
+
+org $8DD5D60; incbin gfx_sheriffoffice2_[c].bin
+org $8D3C134; dd $9CFEFA8-$8D3B4E0
+org $9CFEFA8; incbin gfx_sheriffoffice3_[c].bin
+
+org $8D3DDB0; dd $9F87D5C-$8D3B4E0
+org $9F87D5C; incbin gfx_welcome_[c].bin
 
 
 //TEST

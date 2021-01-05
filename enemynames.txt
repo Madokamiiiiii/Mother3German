@@ -215,7 +215,7 @@
 006A: Squawking Stick
 006A-E: Kreischender Stock
 006B: Putrid Moldyman
-006B-E: Verdorbener Schimmelmann
+006B-E: Fauliger Schimmelmann
 006C: Slitherhen
 006C-E: Schlitterhenne
 006D: Whatever
@@ -231,7 +231,7 @@
 0072: Ancient Dragonfly
 0072-E: Antike Libelle
 0073: Filthy Attack Roach
-0073-E: Dreckige Kakerlake
+0073-E: Schmutz-Aggrokakerlake
 0074: Muttshroom
 0074-E: Dusselpilz 
 0075: Mecha-Turtle
@@ -257,7 +257,7 @@
 007F: Wound-Up Road Hog
 007F-E: Verkehrsrowdy
 0080: Metal Attack Roach
-0080-E: Metall-Angriffskakerlake
+0080-E: Metall-Aggrokakerlake
 0081: Really Flying Mouse
 0081-E: Wirklich Fliegende Maus
 0082: Short Circuit Zap!
@@ -281,7 +281,7 @@
 008B: Big Spud Bug
 008B-E: Groﬂer Kartoffelk‰fer
 008C: Grated Yammonster
-008C-E: Geraspeltes Yammonster
+008C-E: Geriebenes Kart.monster
 008D: Hippo Launcher
 008D-E: Nilpferdwerfer
 008E: Steel Mechorilla
