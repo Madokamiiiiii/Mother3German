@@ -1007,8 +1007,6 @@ org $8F0E670; incbin gfx_lab1_[c].bin
 org $8F0E9E0; incbin gfx_lab2_[c].bin
 
 // Translation for Goods > Give screen and save
-//org $9B90140; incbin gfx_offdef_[c].bin
-
 org $9FD44A0; incbin gfx_offdef_[c].bin
 org $9B8FFC4; dd $9FD44A0-$9B8FFC0
 
@@ -1033,10 +1031,11 @@ org $9C9B108; incbin gfx_battle_kp_pp.bin
 org $8F15360; incbin gfx_amusement_[c].bin
 
 org $8E2539C; incbin gfx_charge1_[c].bin
-org $8D3CD4C; dd $9DD9F70-$8D3B4E0
-org $9DD9F70; incbin gfx_charge2_[c].bin
-org $8D3D928; dd $9DD9E54-$8D3B4E0
-org $9DD9E54; incbin gfx_charge3_[c].bin
+org $8D3CD4C; dd $9CFF3DC-$8D3B4E0
+org $9CFF3DC; incbin gfx_charge2_[c].bin
+org $8EEC604; incbin gfx_charge3_[c].bin
+org $8D3D928; dd $9F88410-$8D3B4E0
+org $9F88410; incbin gfx_charge3_[c].bin
 
 // Unused
 org $8E3E9F4; incbin gfx_sheriffoffice1_[c].bin
@@ -1054,15 +1053,28 @@ org $8DD2260; incbin gfx_thomasbasar1_[c].bin
 org $8DD1ECC; incbin gfx_thomasbasar2_[c].bin
 
 org $8D3CF4C; dd $9F87A5C-$8D3B4E0
-org $1F87A5C; incbin gfx_new_[c].bin
+org $9F87A5C; incbin gfx_new_[c].bin
 
 org $8F17844; incbin gfx_theater_[c].bin
 
 org $8D5D0A8; incbin gfx_b1f_[c].bin
+org $9B68584; incbin gfx_b1f_map.bin
 
-//TEST
-//org $9C5F340; dd $0F56CDA
-//org $9C5F340; incbin testg.bin
+org $9B73A88; incbin gfx_highway_jumbled.bin
+
+org $9B9C364; incbin gfx_variousmenuitems.bin
+
+org $9AF4EE0; incbin gfx_dp_menu.bin
+
+org $9CA6D68; incbin gfx_sound_player.bin
+
+org $8D3C5D4; dd $9FAA890-$8D3B4E0
+org $9FAA890; incbin gfx_ropeway1_[c].bin
+org $8D3BF2C; dd $8F0D480-$8D3B4E0
+org $8F0D480; incbin gfx_ropeway2_[c].bin
+
+
+
 //============================================================================================
 //                                    SOUND HACKS
 //============================================================================================
@@ -1199,6 +1211,8 @@ org $9FB0300; incbin text_sleep.bin
 //org $8138000; incbin alt_sound_table.bin
 //org $8086CF0; dd $8138000
 //org $8086D64; dd $8138000
+
+org $80D0D28; incbin data_enemy.bin
 
 
 //============================================================================================

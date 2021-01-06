@@ -500,7 +500,7 @@
 00F8: A map of the Sea Floor Dungeon.[END]
 00F8-E: Eine Karte vom Meeresboden-Dungeon.[END]
 00F9: A map of the Outland Dungeon.[END]
-00F9-E: Eine Karte vom Ausland-Dungeon.[END]
+00F9-E: Eine Karte des Weit-weg-Dungeons.[END]
 00FA: A map of New Pork City.[END]
 00FA-E: Eine Karte von New Pork City.[END]
 00FB: A sketched map of Thunder Tower.[END]

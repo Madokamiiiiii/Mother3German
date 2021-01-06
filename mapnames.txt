@@ -640,7 +640,7 @@
 13D:Club Titiboo[END]
 13D-E:Club Titiboo[END]
 13E:Club Titiboo[BREAK]Hot Spring[END]
-13E-E: Club Titiboo[BREAK]Heiﬂe Quelle[END]
+13E-E:Club Titiboo[BREAK]Heiﬂe Quelle[END]
 13F:[END]
 13F-E:[END]
 140:Club Titiboo[BREAK]Backstage[END]

@@ -15003,7 +15003,7 @@
 400-5:@The garbage dump is northeast of here.[WAIT]@Please hurry after it[WAIT]  and retrieve whatever embarrassing thing it[BREAK]  was that you accidentally threw away.[END]
 400-5E:@Die Mülldeponie liegt im Nordosten von hier.[WAIT]@Bitte beeilen Sie sich[WAIT]  und holen Sie sich dieses peinliche Ding zurück,[BREAK]  dass Sie versehentlich weggeworfen haben.[END]
 400-6:@Please be very careful not to slip and get in an[BREAK]  accident![END]
-400-6E:@Bitten seien Sie vorsichtig nicht auszurutschen[BREAK]  und in einen Unfall zu kommen![END]
+400-6E:@Bitten seien Sie vorsichtig nicht auszurutschen[BREAK]  und einen Unfall zu verursachen![END]
 400-7:@All right, then! Be careful![END]
 400-7E:@Dann ist ja alles klar! Passen Sie auf![END]
 // Repeats: 63-4, 400-7

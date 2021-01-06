@@ -1,9 +1,10 @@
 !SheriffOffice: 00E3E9F4
 !SheriffOffice2: dd5d60; 0x2f4
 !SheriffOffice3: dd6054; 0x300
-Thomasbasar: dd2260; 0x378
-Thomasbasar2: dd1ecc
-Seilbahn: e1444c
+!Thomasbasar: dd2260
+!Thomasbasar2: dd1ecc
+!Seilbahn: e1444c; 0x3c8
+!seilbahn2: DBA730; 0x3a8
 !Charge: e2539c; length: 0x3c8
 !Charge2: e748d0; length: 0x228
 !charge3: eec604; length: 0x374
@@ -20,7 +21,7 @@ beauty1: e9cb2c; length: 0x3c4
 beauty2: e9cef0; length: 0x260
 beauty3: f15e9c; length: 0x360
 ! amusement: f15360; length: 0x418
-theater: f17844; length: 0x370
+!theater: f17844; length: 0x370
 ! battlegraphics: 1C926C8
 	totaldamage: 1C93EC8
 
@@ -28,7 +29,7 @@ theater: f17844; length: 0x370
 !up/down: 1b9d564
 mainmenu: 1c5f340
 credits: 1c858e4
-credist2: 1f86340
+credits2: 1f86340
 
 
 !KP PP Graphics out of battle: 1AF6480; 1800
@@ -38,11 +39,15 @@ Titiboo: D4FFC8; 0x3a8  	(vielleicht später in Titibuh umbenennen)
 Titiboo2: DEE9F8; 0x3f8
 Titiboo3: E24C70; 0x3a0
 
-B1F: D5D0A8; 0x2e8
+!B1F: D5D0A8; 0x2e8
+!b1f Map: 1B68584
 DomeJungle: D8777C; 0x33c	(unused)
 Yado: DCB138; 0x28c		(vll. irgendwann umbenennen)
 yado2: DFA8F8; 0x384
 
-new: E8ECEC; 0x2f8
-shop: E8EFE4; 0x3dc
+!new: E8ECEC; 0x2f8
+!shop: E8EFE4; 0x3dc
 !welcome: F0D480; 0x440
+
+!highway: 1B73A88
+!variousmenuitems: 0x1B99564
