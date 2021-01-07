@@ -40,7 +40,7 @@
 013:Samba
 013-E:Samba
 014:Pusher
-014-E:Pusher
+014-E:Puscher
 015:Elmore
 015-E:Elmore
 016:Ollie
@@ -146,7 +146,7 @@
 048:Nippolyte
 048-E:Nippolyte
 049:Porky
-049-E:Pokey
+049-E:Porky
 04A:Isaac
 04A-E:Isaac
 04B:Isaac
@@ -190,9 +190,9 @@
 05E:Parrot
 05E-E:Papagei
 05F:Skinhead
-05F-E:Glatzkopf
+05F-E:Hautkopf
 060:Neckbeard
-060-E:Nackenbart
+060-E:Nackbart
 061:Guy
 061-E:Kerl
 062:Dr. Andonuts
@@ -294,9 +294,9 @@
 092:Drago Pup
 092-E:Drago Welpe
 093:Mole Cricket
-093-E:Maulwurfgrille
+093-E:Maulwurfsgrille
 094:Elder Cricket
-094-E:Ober-Maulwurfgrille
+094-E:Ober-Maulwurfsgrille
 095:Duster
 095-E:Duster
 096:Kumatora
@@ -378,7 +378,7 @@
 0BC:?????
 0BC-E:?????
 0BD:Nut
-0BD-E:Nut
+0BD-E:Nuss
 0BE:Snowman
 0BE-E:Schneemann
 0BF:Violet
@@ -466,7 +466,7 @@
 0E8:Person 232
 0E8-E:Person 232
 0E9:Sheep
-0E9-E:Schaaf
+0E9-E:Schaf
 0EA:CpnExchang
 0EA-E:CpnExchang
 0EB:Guy

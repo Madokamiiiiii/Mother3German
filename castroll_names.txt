@@ -22,7 +22,7 @@ Biff
 Butch
 Ed
 Nan
-Alle
+Eva
 Schuft
 Nippolyte
 Jonel
@@ -33,7 +33,7 @@ Reggie
 Isaac
 Bateau
 Nana
-Pusher
+Puscher
 Elmore
 Ollie
 Sebastian
@@ -44,8 +44,8 @@ Freundliche Geister
 *2038000
 Verkäufer
 DCMC
-Neckbeard
-Glatzkopf
+Nackbart
+Glatzenkopf
 *20042C2
 Dr. Andonuts
 Mr. Pumpe
