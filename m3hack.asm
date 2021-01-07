@@ -424,7 +424,7 @@ org $8059246; push {lr}; bl naming_screen_hacks.credits2
 org $80591EC; push {lr}; bl naming_screen_hacks.credits3
 
 // Insert new letter selection screen
-org $9BA2DBC; incbin gfx_namingscreen.bin
+org $9BA2DBC; incbin ./graphics/gfx_namingscreen.bin
 
 // Insert new coordinate tables
 org $9B8FF74; incbin data_namingscreen1.bin
@@ -506,12 +506,12 @@ org $804DCB2; db $10
 
 // Change the sanctuary screen arrangement to match the factory screen one
 org $804A0F8; db $48
-org $9BBB7BC; incbin gfx_factory_arrangement.bin
+org $9BBB7BC; incbin ./graphics/gfx_factory_arrangement.bin
 
 // Change the sanctuary graphics to include the custom window border tiles
-org $9BB69FC; incbin gfx_sanctuaryborders.bin
-org $9BB89FC; incbin gfx_sanctuaryborders.bin
-org $9BAD5BC; incbin gfx_namingscreen.bin
+org $9BB69FC; incbin ./graphics/gfx_sanctuaryborders.bin
+org $9BB89FC; incbin ./graphics/gfx_sanctuaryborders.bin
+org $9BAD5BC; incbin ./graphics/gfx_namingscreen.bin
 
 // Make the factory screen write its name to 2004F26
 org $8055BD8; dd $2004F26
@@ -953,29 +953,29 @@ org $8CE59F8; incbin font_castroll.bin
 org $8D0B010; incbin font_smallfont.bin
 
 // insert ATM graphics
-org $9AFD8D0; incbin gfx_frogatm.bin
+org $9AFD8D0; incbin ./graphics/gfx_frogatm.bin
 
 // insert pencil sprite graphics
-org $98BBCD0; incbin gfx_pencil_sprites.bin
+org $98BBCD0; incbin ./graphics/gfx_pencil_sprites.bin
 
 // insert nostalgia room statue graphics and new palette
-org $8F09C94; incbin gfx_statues_[c].bin
-org $8F7C4BC; incbin gfx_statues_pal.bin
+org $8F09C94; incbin ./graphics/gfx_statues_[c].bin
+org $8F7C4BC; incbin ./graphics/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin gfx_chaptertitles_trans[c].bin
-org $9B03580; incbin gfx_chapt1-4_arrangement.bin
-org $9B05580; incbin gfx_chapt5-8_arrangement.bin
+org $9F90000; incbin ./graphics/gfx_chaptertitles_trans[c].bin
+org $9B03580; incbin ./graphics/gfx_chapt1-4_arrangement.bin
+org $9B05580; incbin ./graphics/gfx_chapt5-8_arrangement.bin
 
 // Insert the special graphics for the start of Chapter 4
-org $98AA8D0; incbin gfx_3yearslater.bin
+org $98AA8D0; incbin ./graphics/gfx_3yearslater.bin
 
 // Insert YOU WON! graphics to replace YOU WIN!
-org $9C98A28; incbin gfx_youwon_transfixed.bin
+org $9C98A28; incbin ./graphics/gfx_youwon_transfixed.bin
 
 // Insert text speed/window flavor graphics
-org $9BA141C; incbin gfx_flavours.bin
+org $9BA141C; incbin ./graphics/gfx_flavours.bin
 
 
 // LIMITATION: if using commands, the text is too long
@@ -988,9 +988,9 @@ org $9BA141C; incbin gfx_flavours.bin
 //org $9C8F34A; db $E8
 //org $9C8F350; db $E8
 //org $9C8F356; db $E8
-//org $9C8DEB4; incbin gfx_healthscreen_[c].bin
+//org $9C8DEB4; incbin ./graphics/gfx_healthscreen_[c].bin
 //org $9C8DEA8; dd $9F87A20-$9C8DE98
-//org $9F87A20; incbin gfx_healthtext_[c].bin
+//org $9F87A20; incbin ./graphics/gfx_healthtext_[c].bin
 
 // For use with premade rom
 org $9C8EEBE; db $E8 // Move the flashy text up by 8 pixels
@@ -1003,75 +1003,75 @@ org $9C8EEDC; db $E8
 
 
 // insert new "LAB" graphics to replace "LABO"
-org $8F0E670; incbin gfx_lab1_[c].bin
-org $8F0E9E0; incbin gfx_lab2_[c].bin
+org $8F0E670; incbin ./graphics/gfx_lab1_[c].bin
+org $8F0E9E0; incbin ./graphics/gfx_lab2_[c].bin
 
 // Translation for Goods > Give screen and save
-org $9FD44A0; incbin gfx_offdef_[c].bin
+org $9FD44A0; incbin ./graphics/gfx_offdef_[c].bin
 org $9B8FFC4; dd $9FD44A0-$9B8FFC0
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256B20
-org $9F92000; incbin gfx_monotoli_[c].bin
+org $9F92000; incbin ./graphics/gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
-org $9F86120; incbin gfx_starsprite.bin
+org $9F86120; incbin ./graphics/gfx_starsprite.bin
 
 //Bonus-Grafik
-org $8D50A00; incbin gfx_trans_keep_out_[c].bin
-org $9B9D808; incbin gfx_battle_[c].bin
-org $8E2B95C; incbin gfx_check1_[c].bin
-org $8E2BB1C; incbin gfx_check2_[c].bin
-org $8DB555C; incbin gfx_debugroom_[c].bin
-org $9C926C8; incbin gfx_hit.bin
-org $9B9D564; incbin gfx_up_down_[c].bin
+org $8D50A00; incbin ./graphics/gfx_trans_keep_out_[c].bin
+org $9B9D808; incbin ./graphics/gfx_battle_[c].bin
+org $8E2B95C; incbin ./graphics/gfx_check1_[c].bin
+org $8E2BB1C; incbin ./graphics/gfx_check2_[c].bin
+org $8DB555C; incbin ./graphics/gfx_debugroom_[c].bin
+org $9C926C8; incbin ./graphics/gfx_hit.bin
+org $9B9D564; incbin ./graphics/gfx_up_down_[c].bin
 
-org $9AF6480; incbin gfx_kp_pp.bin
-org $9C9B108; incbin gfx_battle_kp_pp.bin
-org $8F15360; incbin gfx_amusement_[c].bin
+org $9AF6480; incbin ./graphics/gfx_kp_pp.bin
+org $9C9B108; incbin ./graphics/gfx_battle_kp_pp.bin
+org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
 
-org $8E2539C; incbin gfx_charge1_[c].bin
+org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
 org $8D3CD4C; dd $9CFF3DC-$8D3B4E0
-org $9CFF3DC; incbin gfx_charge2_[c].bin
-org $8EEC604; incbin gfx_charge3_[c].bin
+org $9CFF3DC; incbin ./graphics/gfx_charge2_[c].bin
+org $8EEC604; incbin ./graphics/gfx_charge3_[c].bin
 org $8D3D928; dd $9F88410-$8D3B4E0
-org $9F88410; incbin gfx_charge3_[c].bin
+org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
 
 // Unused
-org $8E3E9F4; incbin gfx_sheriffoffice1_[c].bin
+org $8E3E9F4; incbin ./graphics/gfx_sheriffoffice1_[c].bin
 
-org $8DD5D60; incbin gfx_sheriffoffice2_[c].bin
+org $8DD5D60; incbin ./graphics/gfx_sheriffoffice2_[c].bin
 org $8D3C134; dd $9CFEFA8-$8D3B4E0
-org $9CFEFA8; incbin gfx_sheriffoffice3_[c].bin
+org $9CFEFA8; incbin ./graphics/gfx_sheriffoffice3_[c].bin
 
 org $8D3DDB0; dd $9F87D5C-$8D3B4E0
-org $9F87D5C; incbin gfx_welcome_[c].bin
+org $9F87D5C; incbin ./graphics/gfx_welcome_[c].bin
 
-org $8E74370; incbin gfx_highwaycafe_[c].bin
+org $8E74370; incbin ./graphics/gfx_highwaycafe_[c].bin
 
-org $8DD2260; incbin gfx_thomasbasar1_[c].bin
-org $8DD1ECC; incbin gfx_thomasbasar2_[c].bin
+org $8DD2260; incbin ./graphics/gfx_thomasbasar1_[c].bin
+org $8DD1ECC; incbin ./graphics/gfx_thomasbasar2_[c].bin
 
 org $8D3CF4C; dd $9F87A5C-$8D3B4E0
-org $9F87A5C; incbin gfx_new_[c].bin
+org $9F87A5C; incbin ./graphics/gfx_new_[c].bin
 
-org $8F17844; incbin gfx_theater_[c].bin
+org $8F17844; incbin ./graphics/gfx_theater_[c].bin
 
-org $8D5D0A8; incbin gfx_b1f_[c].bin
-org $9B68584; incbin gfx_b1f_map.bin
+org $8D5D0A8; incbin ./graphics/gfx_b1f_[c].bin
+org $9B68584; incbin ./graphics/gfx_b1f_map.bin
 
-org $9B73A88; incbin gfx_highway_jumbled.bin
+org $9B73A88; incbin ./graphics/gfx_highway_jumbled.bin
 
-org $9B9C364; incbin gfx_variousmenuitems.bin
+org $9B9C364; incbin ./graphics/gfx_variousmenuitems.bin
 
-org $9AF4EE0; incbin gfx_dp_menu.bin
+org $9AF4EE0; incbin ./graphics/gfx_dp_menu.bin
 
-org $9CA6D68; incbin gfx_sound_player.bin
+org $9CA6D68; incbin ./graphics/gfx_sound_player.bin
 
 org $8D3C5D4; dd $9FAA890-$8D3B4E0
-org $9FAA890; incbin gfx_ropeway1_[c].bin
+org $9FAA890; incbin ./graphics/gfx_ropeway1_[c].bin
 org $8D3BF2C; dd $8F0D480-$8D3B4E0
-org $8F0D480; incbin gfx_ropeway2_[c].bin
+org $8F0D480; incbin ./graphics/gfx_ropeway2_[c].bin
 
 
 
@@ -1212,8 +1212,6 @@ org $9FB0300; incbin text_sleep.bin
 //org $8086CF0; dd $8138000
 //org $8086D64; dd $8138000
 
-org $80D0D28; incbin data_enemy.bin
-
 
 //============================================================================================
 //                                  NEW, EXTRA GOODIES
@@ -1225,16 +1223,16 @@ org $803E6FC; push {lr}; bl extra_hacks.allenemies
 // New icon for bell ringer item
 org $8036E90; push {r4,lr}; bl extra_hacks.bellringer; pop {r4,pc}
 //org $8036EAC; bl extra_hacks.bellringer
-org $993DE30; incbin gfx_bellicon.bin
-org $9FABFE0; incbin gfx_bellicon_pal.bin
+org $993DE30; incbin ./graphics/gfx_bellicon.bin
+org $9FABFE0; incbin ./graphics/gfx_bellicon_pal.bin
 
 // intro screen
 org $805AD14; bl introhackcode // bl extra_hacks.intro_screen // 
-//org $9FAC000; incbin gfx_disclaimer_[c].bin
-//org $9FAFE00; incbin gfx_disclaimer_pal.bin
+//org $9FAC000; incbin ./graphics/gfx_disclaimer_[c].bin
+//org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
 //TEST INTRO SCREEN
-org $9FAC000; incbin gfx_disclaimer_[c].bin
-org $9FAFE00; incbin gfx_disclaimer_pal.bin
+org $9FAC000; incbin ./graphics/gfx_disclaimer_[c].bin
+org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1
@@ -1311,6 +1309,9 @@ org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
 
 // Realign HITS graphic
 org $8065658; db $40
+
+// Fixes wrong enemy placement in battle memory. Only necessary if using ropesnake
+org $80D0D28; incbin data_enemy.bin
 
 
 

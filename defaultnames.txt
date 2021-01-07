@@ -3,7 +3,7 @@
 00:Claus
 00-E:Claus
 01:Claus
-01-E:Claus
+01-E:Mika
 02:Claus
 02-E:Claus
 03:Claus
@@ -45,9 +45,9 @@
 15:Hinawa
 15-E:Hinawa
 16:Hinawa
-16-E:Rebekka
+16-E:Heike
 17:Hinawa
-17-E:Margo
+17-E:Hinawa
 18:Hinawa
 18-E:Anne
 19:Hinawa
@@ -65,7 +65,7 @@
 1F:Boney
 1F-E:Diego
 20:Boney
-20-E:Boney
+20-E:Madokami
 21:Boney
 21-E:Boney
 22:Boney
