@@ -1228,11 +1228,11 @@ org $9FABFE0; incbin ./graphics/gfx_bellicon_pal.bin
 
 // intro screen
 org $805AD14; bl introhackcode // bl extra_hacks.intro_screen // 
-//org $9FAC000; incbin ./graphics/gfx_disclaimer_[c].bin
+//org $9FAC000; incbin gfx_disclaimer_[c].bin
 //org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
 //TEST INTRO SCREEN
-org $9FAC000; incbin ./graphics/gfx_disclaimer_[c].bin
-org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
+org $9FAC000; incbin gfx_disclaimer_[c].bin
+org $9FAFE00; incbin gfx_disclaimer_pal.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1
