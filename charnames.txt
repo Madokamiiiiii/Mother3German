@@ -330,7 +330,7 @@
 0A4:Stray Dog
 0A4-E:Streuner
 0A5:Item Guy
-0A5-E:Verkäufer
+0A5-E:Lagerkerl
 0A6:Shadow
 0A6-E:Schatten
 0A7:Sparrow
@@ -518,7 +518,7 @@
 102:Mixolydia
 102-E:Mixolydia
 103:Item Guy
-103-E:Verkäufer
+103-E:Lagerkerl
 104:Moved Rock
 104-E:Bewegter Stein
 105:Blocking Rock

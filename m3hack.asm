@@ -1073,6 +1073,11 @@ org $9FAA890; incbin ./graphics/gfx_ropeway1_[c].bin
 org $8D3BF2C; dd $8F0D480-$8D3B4E0
 org $8F0D480; incbin ./graphics/gfx_ropeway2_[c].bin
 
+org $8E3F6A0; incbin ./graphics/gfx_forest_[c].bin
+
+org $8E5D270; incbin ./graphics/gfx_end1_[c].bin
+org $8EEDE28; incbin ./graphics/gfx_end2_[c].bin
+org $8EEE358; incbin ./graphics/gfx_end3_[c].bin
 
 
 //============================================================================================
