@@ -296,7 +296,7 @@
 093:Mole Cricket
 093-E:Maulwurfsgrille
 094:Elder Cricket
-094-E:Ober-Maulwurfsgrille
+094-E:Älteste-M.grille
 095:Duster
 095-E:Duster
 096:Kumatora
@@ -546,7 +546,7 @@
 110:Frog
 110-E:Frosch
 111:O2 Machine
-111-E:O2-Maschine
+111-E:Sauerstoffküsser
 112:Wan Sum Dung
 112-E:Wan Sum Dung
 113:Man
