@@ -1254,7 +1254,7 @@
 10-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 10-20:@"A grave of grave consequences."[END]
-10-20E:@"A grave of grave consequences."[END]
+10-20E:@"F"[END]
 // Note that most of these graves are puns and such
 // Repeats: 10-20, 222-20, 506-20
 10-21:@"A good, quality grave."[END]
@@ -1264,7 +1264,7 @@
 10-22E:@"Den Rest überlass ich dir."[END]
 // Repeats: 10-22, 222-22, 506-22
 10-23:@"A great-grade gray grave."[END]
-10-23E:@"A great-grade gray grave."[END]
+10-23E:@"Hier liegt der FlashPlayer begraben."[END]
 // Repeats: 10-23, 222-23, 506-23
 10-24:@"Reserved."[END]
 10-24E:@"Reserviert."[END]
@@ -10171,7 +10171,7 @@
 222-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 222-20:@"A grave of grave consequences."[END]
-222-20E:@"A grave of grave consequences."[END]
+222-20E:@"F"[END]
 // Repeats: 10-20, 222-20, 506-20
 222-21:@"A good, quality grave."[END]
 222-21E:@"Ein Grab guter Qualität."[END]
@@ -10180,7 +10180,7 @@
 222-22E:@"Den Rest überlass ich dir."[END]
 // Repeats: 10-22, 222-22, 506-22
 222-23:@"A great-grade gray grave."[END]
-222-23E:@"A great-grade gray grave."[END]
+222-23E:@"Hier liegt der FlashPlayer begraben."[END]
 // Repeats: 10-23, 222-23, 506-23
 222-24:@"Reserved."[END]
 222-24E:@"Reserviert."[END]
@@ -16787,7 +16787,7 @@
 506-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 506-20:@"A grave of grave consequences."[END]
-506-20E:@"A grave of grave consequences."[END]
+506-20E:@"F"[END]
 // Repeats: 10-20, 222-20, 506-20
 506-21:@"A good, quality grave."[END]
 506-21E:@"Ein Grab guter Qualität."[END]
@@ -16796,7 +16796,7 @@
 506-22E:@"Den Rest überlass ich dir."[END]
 // Repeats: 10-22, 222-22, 506-22
 506-23:@"A great-grade gray grave."[END]
-506-23E:@"A great-grade gray grave."[END]
+506-23E:@"Hier liegt der FlashPlayer begraben."[END]
 // Repeats: 10-23, 222-23, 506-23
 506-24:@"Reserved."[END]
 506-24E:@"Reserviert."[END]

@@ -11,8 +11,11 @@ Vielen Dank.
 
 -----Wie patche ich das Spiel?-----
 Es wird eine saubere Mother 3 ROM benötigt (siehe Prüfsumme)
-Am besten mit der Website: https://www.romhacking.net/patch/
-Siehe Link im Ordner.
+Dann patchst du das Spiel mit einem BPS-Patcher.
+Am besten mit dieser Website: https://www.romhacking.net/patch/ (Dieser ist auch im Ordner)
+Im oberen Feld tust du die japanische Mother 3 Rom.
+In den unteren den Patch (.bps Datei)
+Dann auf "Patch" drücken und dann hast du deine neue ROM.
 
 
 -----Wie kann ich das Spielen?-----
@@ -29,4 +32,17 @@ CRC32: 42ac9cb9
 -----Danksagungen-----
 - Das englische Mother 3 Übersetzungsteam (Tools, Dokumentation)
 - JumpmanFR (technische Fragen, Fixes)
-- Lorenzooone (Fixes)
+- Lorenzooone (Menü Fixes)
+
+-----Verwendete Tools-----
+Mother 3 Translation Tools
+mGBA
+TileMolester
+Usenti
+Free Space Finder
+LZ77Reconstructor2
+Nintenlords Compressor
+unLZ-GBA
+NLZ-GBA Advance
+RopeSnake
+GIMP
