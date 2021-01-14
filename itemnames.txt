@@ -486,7 +486,7 @@
 00F1: Tazmily Map
 00F1-E: Karte von Tazmily
 00F2: Osohe Sketch
-00F2-E: Skizze von Ozohe
+00F2-E: Skizze von Osohe
 00F3: Underground Map
 00F3-E: Karte des Untergrunds
 00F4: Railway Map

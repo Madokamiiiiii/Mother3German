@@ -1478,3 +1478,181 @@ beq  +
 mov  r3,r0
 +
 pop  {r0,pc}
+
+
+//=============================================================================================
+// This set of hacks cleans the writing stack
+//=============================================================================================
+
+refreshes:
+.main:
+push {lr}
+ldr r1,=#0x2013040 //Address of the stack
+mov r0,#0
+str r0,[r1,#0x10] //Clean the words' lengths so it won't print
+str r0,[r1,#0x14]
+str r0,[r1,#0x18]
+str r0,[r1,#0x1C]
+pop {pc}
+
+.lr:
+push {lr}
+bl .main
+ldrh r1,[r5,#0xA] //Normal stuff the game expects from us
+ldr r2,=#0x4264
+pop {pc}
+
+.select:
+push {lr}
+bl .main
+mov r0,#0xD2 //Normal stuff the game expects from us
+bl $800399C
+pop {pc}
+
+.b:
+push {lr}
+bl .main
+mov r0,#0xD3 //Normal stuff the game expects from us
+bl $800399C
+pop {pc}
+
+.up_and_down:
+push {lr}
+bl .main
+bl $8046D90 //Normal stuff the game expects from us
+pop {pc}
+
+.status_a:
+push {lr}
+bl .main
+mov r0,r4 //Normal stuff the game expects from us
+bl  $804EDFC
+pop {pc}
+
+.inv_spec_a:
+push {lr}
+bl .main
+ldr r1,=#0x426A //Normal stuff the game expects from us
+add r0,r1,r7
+pop {pc}
+
+.inv_block_a:
+push {lr}
+ldr r0,=#0x2013040 //Have we finished printing?
+ldrh r0,[r0,#0]
+cmp r0,#0
+beq .inv_block_a_passed //Yes! Then let it do what it wants to do
+pop {r0}
+ldr r0,=#0x804CC35 //No! Prevent the game from opening stuff we don't want yet.
+bx r0
+
+.inv_block_a_passed:
+ldr r0,=#0x2DFA //Normal stuff the game expects from us
+add r1,r7,r0
+pop {pc}
+
+.inv_submenu_block_a:
+push {lr}
+ldr r0,=#0x2013040 //Have we finished printing?
+ldrh r0,[r0,#0]
+mov r1,#0
+cmp r0,#0
+bne +
+ldrh r1,[r4,#0]  //Normal input loading
++
+mov r0,#3
+pop {pc}
+
+
+.memo_a:
+push {lr}
+bl .main
+mov r0,r5 //Normal stuff the game expects from us
+bl $804EEE8
+pop {pc}
+
+.sell_a:
+push {r2,lr} //Let's save r2, since the game needs it
+bl .main
+pop {r2}
+mov r0,r2 //Normal stuff the game expects from us
+bl $804F0D4
+pop {pc}
+
+.equip_a:
+push {lr}
+bl .main
+mov r0,r4 //Normal stuff the game expects from us
+bl  $804EB68
+pop {pc}
+
+.inv_submenu_a:
+ldr r0,=#0x804E84F //We have to return here instead of where the call happened
+push {r0}
+bl .main
+bl $804FCB0 //Normal stuff the game expects from us
+pop {pc}
+
+.deposit_a:
+push {lr}
+bl .main
+mov r0,r4 //Normal stuff the game expects from us
+bl  $804F1D8
+pop {pc}
+
+.withdraw_a:
+push {lr}
+ldr r1,=#0x201A294 //Check if the inventory is full. If it is, then the game won't print again and we need to let it do its thing. We need to manually increment this, as the original devs forgot to do it.
+mov r0,r1
+ldrh r1,[r1,#0]
+cmp r1,#0x10
+bge +
+add r1,#1
+strh r1,[r0,#0]
+bl .main
++
+mov r0,r5 //Normal stuff the game expects from us
+bl $804F294
+pop {pc}
+
+.inner_memo_scroll:
+push {r1,lr} //Let's save r1, since the game needs it
+bl .main
+pop {r1}
+mov r0,r1 //Normal stuff the game expects from us
+bl $804EF38
+pop {pc}
+
+.inner_equip_a:
+push {lr}
+bl .main
+ldr r7,=#0x2016028 //Normal stuff the game expects from us
+ldr r0,=#0x41C6
+pop {pc}
+
+.inner_equip_scroll:
+push {lr}
+bl .main
+bl $8046D90 //Normal stuff the game expects from us
+pop {pc}
+
+.buy_lr:
+push {lr}
+bl .main
+ldrh r0,[r6,#4] //Normal stuff the game expects from us
+bl $8053E98
+pop {pc}
+
+.switch_lr:
+push {lr}
+bl .main
+ldrh r0,[r4,#4] //Normal stuff the game expects from us
+bl $8053E98
+pop {pc}
+
+.status_lr:
+push {lr}
+bl .main
+ldrh r1,[r4,#0xA] //Normal stuff the game expects from us
+ldr r2,=#0x4264
+pop {pc}

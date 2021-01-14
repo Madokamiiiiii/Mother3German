@@ -1319,6 +1319,88 @@ org $8065658; db $40
 org $80D0D28; incbin data_enemy.bin
 
 
+//============================================================================================
+//                                   BUFFER HACKS
+//============================================================================================
+
+//These hacks fix the "scrolling menus" bug
+
+//804CA9C tells each menu where to go
+//804E374 if it's a submenu
+//804CA6C for "specific submenus"
+//804E104 for "specific submenus" submenus. B is not an option anymore.
+
+//Inventory
+//org $804CAE0; bl refreshes.inv_spec_a
+org $804CB52; bl refreshes.lr
+org $804CC24; bl refreshes.up_and_down
+
+//Inventory submenu
+//org $804E81C; bl refreshes.inv_submenu_a
+
+//Block A press if too soon
+org $804CAD4; bl refreshes.inv_block_a
+org $803E064; bl refreshes.inv_submenu_block_a
+
+//Equip
+org $804CC64; bl refreshes.equip_a; nop
+org $804CCAA; bl refreshes.lr
+
+//Inner Equip / "specific submenus"
+org $804E092; bl refreshes.b; nop //"specific submenus" wide
+org $804E14A; bl refreshes.inner_equip_scroll
+org $804F704; bl refreshes.inner_equip_a
+
+//Memoes
+org $804D1CC; bl refreshes.b; nop
+org $804D306; bl refreshes.up_and_down
+
+//PSI
+org $804CD5E; bl refreshes.select; nop
+org $804CDB0; bl refreshes.lr
+org $804CE3C; bl refreshes.up_and_down
+
+//Status
+org $804CE78; bl refreshes.status_a;nop
+org $804CEBE; bl refreshes.status_lr
+
+//Skills
+org $804CF4C; bl refreshes.b; nop
+org $804CFA0; bl refreshes.lr
+org $804D050; bl refreshes.up_and_down
+
+//Memo
+org $804D096; bl refreshes.memo_a; nop
+org $804D0F6; bl refreshes.up_and_down
+
+//Inner Memoes
+org $804D138; bl refreshes.inner_memo_scroll; nop
+org $804D150; bl refreshes.b; nop
+
+//Buy
+org $804D4C6; bl refreshes.buy_lr; nop
+org $804D516; bl refreshes.b; nop
+org $804D562; bl refreshes.up_and_down
+org $804D5B2; bl refreshes.buy_lr; nop
+
+//Sell
+org $804D602; bl refreshes.sell_a; nop
+org $804D61C; bl refreshes.b; nop
+org $804D66C; bl refreshes.up_and_down
+org $804D6BE; bl refreshes.switch_lr; nop
+
+//Deposit
+org $804D800; bl refreshes.deposit_a; nop
+org $804D818; bl refreshes.b; nop
+org $804D86E; bl refreshes.up_and_down
+org $804D8A6; bl refreshes.switch_lr; nop
+
+//Withdraw
+org $804D8F8; bl refreshes.withdraw_a; nop
+org $804D910; bl refreshes.b; nop
+org $804D994; bl refreshes.up_and_down
+org $804D9CA; bl refreshes.switch_lr; nop
+
 
 //============================================================================================
 //                                    NEW HACK CODE
