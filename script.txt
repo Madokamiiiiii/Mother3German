@@ -1271,7 +1271,7 @@
 // As in someone already made reservations for it
 // Repeats: 10-24, 222-24, 506-24
 10-25:@"A grand ol' grave."[END]
-10-25E:@"A grand ol' grave."[END]
+10-25E:@"Ein gutes altes Grab."[END]
 // Repeats: 10-25, 222-25, 506-25
 10-26:@This gravestone is unusually wobbly.[END]
 10-26E:@Dieser Grabstein ist unnatürlich wackelig.[END]
@@ -6772,7 +6772,7 @@
 123-27:@Why not ask her real quick, then?[END]
 123-27E:@Warum fragst du sie dann nicht einfach[BREAK]  schnell?[END]
 123-28:@Oh, it's Mr. Wess.[WAIT]@"Wess" up?[END]
-123-28E:@Oh, es ist Wess.[WAIT]@"Wess" up?[END]
+123-28E:@Oh, es ist Wess.[WAIT]@"Wess" ab?[END]
 123-29:@Oh, a monkey.[WAIT]@Eek![PAUSE 18 00] Ack![PAUSE 18 00][WAIT]@Stay back![WAIT]@Stay away from me![END]
 123-29E:@Oh, ein Affe.[WAIT]@Iiiih![PAUSE 18 00] Iiiiiiiiiih![PAUSE 18 00][WAIT]@Bleib weg![WAIT]@Geh weg von mir![END]
 123-30:@Our boss acts like everything'll be fine, but I[BREAK]  think it's gonna be pretty tough.[WAIT]@After all, there are four of us, and only one[BREAK]  bed...[END]
@@ -6782,7 +6782,7 @@
 123-32:@See? It's especially scary when he changes[BREAK]  direction like that.[END]
 123-32E:@Siehst du? Es ist besonders gruselig, wenn er[BREAK]  einfach so die Richtung ändert.[END]
 123-33:@Oh, hello there.[PAUSE 08 00][WAIT]  ...Wait a minute.[WAIT]@Why, if it isn't Mr. Wess![WAIT]@"Wess" up?![END]
-123-33E:@Oh, hallöle.[PAUSE 08 00][WAIT]  ...Eine Minute bitte.[WAIT]@Na, wenn das mal nicht Herr Wess ist![WAIT]@"Wess" up?![END]
+123-33E:@Oh, hallöle.[PAUSE 08 00][WAIT]  ...Eine Minute bitte.[WAIT]@Na, wenn das mal nicht Herr Wess ist![WAIT]@"Wess" ab?![END]
 123-34:@Oh, what a cute little monkey you are.[WAIT]@Could you be a good boy and leave the room?[WAIT]@It's really crowded in here.[END]
 123-34E:@Oh, was für ein süßer kleiner Affe du bist.[WAIT]@Könntest du bitte ein guter Junge sein und[BREAK]  diesen Raum verlassen?[WAIT]@Es ist wirklich voll hier drin.[END]
 123-35:@Oh, what a cute little monkey you are.[WAIT]@Could you be a good boy and leave the room?[WAIT]@It's really crowded in here.[WAIT]@Wahh! I see your owner is with you.[WAIT]@I didn't notice him there.[WAIT]@My apologies.[END]
@@ -7029,7 +7029,7 @@
 129-27:@I'm studying my mom's cooking.[WAIT]@Right now, I'm learning about how to make[BREAK]  [FAVFOOD]-flavored cookies.[WAIT]@I'm gonna let [HINAWA 22 08 00] try some when[BREAK]  they're done baking.[WAIT]@I hope she comes back soon...[END]
 129-27E:@Ich studiere gerade Kochen von meiner Mutter.[WAIT]@Gerade lerne ich, wie man [FAVFOOD]-[BREAK]  Kekse machen kann.[WAIT]@Ich werde [HINAWA 22 08 00] ein paar[BREAK]  probieren lassen, wenn sie fertig sind.[WAIT]@Ich hoffe, dass sie bald zurück kommt...[END]
 129-28:@Mr. Wess![WAIT]@"Wess" up?![END]
-129-28E:@Herr Wess![WAIT]@"Wess" up?![END]
+129-28E:@Herr Wess![WAIT]@"Wess" ab?![END]
 129-29:@...Monkey.[END]
 129-29E:@...Affe.[END]
 129-30:@Well-made Nut Bread and Fresh Egg models.[END]
@@ -7448,7 +7448,7 @@
 143-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 143-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-143-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
+143-5E:@Wess provoziert ständig Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 143-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
 143-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
@@ -7527,7 +7527,7 @@
 149-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 149-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-149-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
+149-5E:@Wess provoziert ständig Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 149-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
 149-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
@@ -7778,7 +7778,7 @@
 161-4E:@Das ist ein friedliches Dorf.[WAIT]@Hier wird es nie zu Unruhen kommen.[WAIT]@Aber auch wenn zufällig so etwas[BREAK]  unruheartiges passieren würde...[WAIT]  ...wäre es nicht meine Schuld.[WAIT]@Verstanden, [LUCAS 23 02 00]?![PAUSE 30 00][BREAK]  Tust du es wirklich?[END]
 // Repeats: 143-4, 149-4, 161-4
 161-5:@It's always Wess who's causing a scene.[WAIT]@I wish they would lock that old geezer up[BREAK]  somewhere and just be done with it.[END]
-161-5E:@Wess provoziert immer Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
+161-5E:@Wess provoziert ständig Aufstände.[WAIT]@Ich wünschte, man würde diesen alten Knacker[BREAK]  endlich irgendwo einkerkern, damit es endlich[WAIT]  wieder Ruhe gäbe.[END]
 // Repeats: 143-5, 149-5, 161-5
 161-6:@You're back, are you?[WAIT]@Do you need my help for something?[WAIT]@That's too bad, because I have no intention[BREAK]  of helping you one bit.[WAIT]@Why?[WAIT]@Because I think you're a...[WAIT]  No, no. I'd best not say it.[WAIT]  Bye-bye![END]
 161-6E:@Du bist wieder zurück?[WAIT]@Brauchst du etwa meine Hilfe?[WAIT]@Wie schade, weil ich nämlich nicht vorhabe dir[BREAK]  bei irgendwas zu helfen.[WAIT]@Warum?[WAIT]@Weil ich glaube, dass du ein...[WAIT]  Nein, nein. Das sage ich besser nicht.[WAIT]  Tschüssi![END]
@@ -10186,7 +10186,7 @@
 222-24E:@"Reserviert."[END]
 // Repeats: 10-24, 222-24, 506-24
 222-25:@"A grand ol' grave."[END]
-222-25E:@"A grand ol' grave."[END]
+222-25E:@"Ein gutes altes Grab."[END]
 // Repeats: 10-25, 222-25, 506-25
 222-26:@This gravestone is unusually wobbly.[END]
 222-26E:@Dieser Grabstein ist unnatürlich wackelig.[END]
@@ -16802,7 +16802,7 @@
 506-24E:@"Reserviert."[END]
 // Repeats: 10-24, 222-24, 506-24
 506-25:@"A grand ol' grave."[END]
-506-25E:@"A grand ol' grave."[END]
+506-25E:@"Ein gutes altes Grab."[END]
 // Repeats: 10-25, 222-25, 506-25
 506-26:@This gravestone is unusually wobbly.[END]
 506-26E:@Dieser Grabstein ist unnatürlich wackelig.[END]
