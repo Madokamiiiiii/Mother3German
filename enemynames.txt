@@ -97,7 +97,7 @@
 002F: Agitated Boar
 002F-E: Aufgew. Wildschwein
 0030: Mighty Bitey Snake
-0030-E: Äußerst Bissige Schlange
+0030-E: Bissige Beißerschlange
 0031: Soot Dumpling
 0031-E: Rußknödel
 0032: Baked Yammonster
@@ -227,7 +227,7 @@
 0070: Einswine
 0070-E: Einswine
 0071: Praying Mantis
-0071-E: Gottesanbeter
+0071-E: Gottesanbeterin
 0072: Ancient Dragonfly
 0072-E: Antike Libelle
 0073: Filthy Attack Roach

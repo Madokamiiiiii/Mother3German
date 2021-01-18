@@ -78,7 +78,7 @@
 24:Duster: Thief
 24-E: Duster: Thief
 25:Wall Staple
-25-E:Wandtakker
+25-E:Wandtacker
 26:Siren Beetle
 26-E:Sirenenkäfer
 27:Hypno-Pendulum
