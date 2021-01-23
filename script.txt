@@ -1230,7 +1230,7 @@
 10-11E:@Wann kommt er zurück?[WAIT]@Morgen?[END]
 // Repeats: 10-11, 222-11, 506-11
 10-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-10-12E:@Obwohl er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
+10-12E:@Wobei, er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
 // Repeats: 10-12, 222-12, 506-12
 10-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
 10-13E:@*schluchz*[WAIT]@*schnief*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
@@ -1251,7 +1251,7 @@
 10-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 10-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-10-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+10-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 10-20:@"A grave of grave consequences."[END]
 10-20E:@"F"[END]
@@ -1283,7 +1283,7 @@
 10-28E:@Grab.[END]
 // Repeats: 10-28, 222-28, 506-28
 10-29:@"A grave grave."[END]
-10-29E:@"A grave grave."[END]
+10-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 10-30:@"Life is too short to act gravely."[END]
 10-30E:@"Life is too short to act gravely."[END]
@@ -4519,7 +4519,7 @@
 52-10:@Ah. [PAUSE 3C 00]That one, huh...[PAUSE 3A 00][WAIT]@That's a rather ho-hum Chimera known as a[BREAK]  Pump Chimera.[WAIT]@It's an extraordinarily ordinary creature that's[BREAK]  really only useful[WAIT]  when you need to transfer something from[BREAK]  one place to another, such as pond water.[END]
 52-10E:@Ah. [PAUSE 3C 00]Dieser hier, also...[PAUSE 3A 00][WAIT]@Dieser eher langweilige Chimära ist auch als[BREAK]  Pumpen-Chimära bekannt.[WAIT]@Es ist eine gigantische Kreatur, die nur dann[BREAK]  nützlich ist,[WAIT]  wenn du Wasser von einem Ort zum anderen[BREAK]  transportieren musst.[END]
 52-11:@That's a Dryguy.[WAIT]@It's the latest model Dryer Chimera, and it[BREAK]  utilizes an air intake system and a jet engine![WAIT]@It can dry anything in mere moments, even[BREAK]  long hair, afros, panties, and Asian beauties![END]
-52-11E:@Das ist ein Dryguy.[WAIT]@Das neueste Modell der "Trockenere Chimära",[BREAK]  es beinhaltet einen Lufteinlass-System und[WAIT]  einen Jet-Motor![WAIT]@Es kann alles Mögliche blitzschnell trocknen,[BREAK]  sogar langes Haar, Afros, Hosen und[WAIT]  asiatische Schönheiten![END]
+52-11E:@Das ist ein Dryguy.[WAIT]@Das neueste Modell der "Trockenere Chimära",[BREAK]  es beinhaltet einen Lufteinlass-System und[WAIT]  einen Jet-Motor![WAIT]@Es kann alles Mögliche blitzschnell trocknen,[BREAK]  sogar langes Haar, Afros, Höschen und[WAIT]  asiatische Schönheiten![END]
 52-12:@Those are the Bucket Brothers.[WAIT]@They're the result of combining cutting-edge[BREAK]  dough technology with Clayman technology![WAIT]@These fellows are exceptionally hard workers![END]
 52-12E:@Das sind die Eimer Brüder.[WAIT]@Sie sind das Ergebnis der Kombinierung einer[BREAK]  rasierklingen-scharfen Teig-Technologie mit[WAIT]  der Lehmmensch-Technologie![WAIT]@Diese Gefährten sind außerordentliche fleißige[BREAK]  Arbeiter![END]
 52-13:@Are you certain this is what you want?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -10147,7 +10147,7 @@
 222-11E:@Wann kommt er zurück?[WAIT]@Morgen?[END]
 // Repeats: 10-11, 222-11, 506-11
 222-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-222-12E:@Obwohl er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
+222-12E:@Wobei, er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
 // Repeats: 10-12, 222-12, 506-12
 222-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
 222-13E:@*schluchz*[WAIT]@*schnief*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
@@ -10168,7 +10168,7 @@
 222-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 222-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-222-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+222-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 222-20:@"A grave of grave consequences."[END]
 222-20E:@"F"[END]
@@ -10198,7 +10198,7 @@
 222-28E:@Grab.[END]
 // Repeats: 10-28, 222-28, 506-28
 222-29:@"A grave grave."[END]
-222-29E:@"A grave grave."[END]
+222-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 222-30:@"Life is too short to act gravely."[END]
 222-30E:@"Life is too short to act gravely."[END]
@@ -16763,7 +16763,7 @@
 506-11E:@Wann kommt er zurück?[WAIT]@Morgen?[END]
 // Repeats: 10-11, 222-11, 506-11
 506-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-506-12E:@Obwohl er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
+506-12E:@Wobei, er sagte, dass wir uns eine Weile[BREAK]  nicht sehen würden...[WAIT]@Wie lang ist "eine Weile"?[WAIT]@Morgen?[END]
 // Repeats: 10-12, 222-12, 506-12
 506-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
 506-13E:@*schluchz*[WAIT]@*schnief*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
@@ -16784,7 +16784,7 @@
 506-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 506-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-506-19E:@[CLAUS 22 05 00] scheint der erste am Grab von[BREAK]  [HINAWA 22 08 00] heute Morgen gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+506-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 506-20:@"A grave of grave consequences."[END]
 506-20E:@"F"[END]
@@ -16814,7 +16814,7 @@
 506-28E:@Grab.[END]
 // Repeats: 10-28, 222-28, 506-28
 506-29:@"A grave grave."[END]
-506-29E:@"A grave grave."[END]
+506-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 506-30:@"Life is too short to act gravely."[END]
 506-30E:@"Life is too short to act gravely."[END]
