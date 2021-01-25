@@ -432,7 +432,7 @@
 00D6: Stick these in a wall for a quick ladder.[BREAK]Use in battle to briefly pin an enemy down.[END]
 00D6-E: In der Wand ist sie eine einfache Leiter.[BREAK]Im Kampf ein Tacker.[END]
 00D7: A beetle that makes a shrill noise.[BREAK]Causes an enemy to stop and cover its ears.[END]
-00D7-E: Ein Käfer, der schrille Geräusche macht und[BREAK]einen Gegner zum Ohren zuhalten bringt.[END]
+00D7-E: Ein Käfer, der schrille Geräusche macht, bei[BREAK]der ein Gegner sich die Ohren zuhalten möchte.[END]
 00D8: Explodes into an acrid smoke, bringing an[BREAK]enemy to tears.[END]
 00D8-E: Explodiert in einem ätzenden Rauch und[BREAK]bringt Gegner zum Weinen.[END]
 00D9: Sway it in front of an enemy to lull it into a[BREAK]deep sleep.[END]
