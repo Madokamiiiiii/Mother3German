@@ -21,7 +21,7 @@
 0009: Eerie Smile
 0009-E: Gruseliger Schleim
 000A: Bright Smile
-000A-E: Heller Schleim
+000A-E: Glänzender Schleim
 000B: Porky
 000B-E: Pokey
 000C: N.K. Cyborg

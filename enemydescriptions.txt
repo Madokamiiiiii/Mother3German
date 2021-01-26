@@ -13,10 +13,10 @@
 03-E:Der Geist eines Musikers,[BREAK]der vor Beendigung seiner[BREAK]Symphonie starb. Hüte[BREAK]dich vor seinen[BREAK]fesselnden Melodien.[END]
 
 04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
-04-E:Eine riesige Schlange, die im[BREAK]Keller von Osohe herrscht.[BREAK]Unterbrich ihren Schlaf und[BREAK]sie wird dich mit einer[BREAK]Flutwelle verabschieden.[END]
+04-E:Riesige Schlange, die im[BREAK]Keller von Osohe herrscht.[BREAK]Unterbrich ihren Schlaf und[BREAK]sie wird dich mit einer[BREAK]Flutwelle verabschieden.[END]
 
 05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
-05-E:[BREAK]Ein Klumpen Lehm, der zum[BREAK]Leben erwacht ist. Er ar-[BREAK]beitet so hart wie er[BREAK]traurig ist.[END]
+05-E:[BREAK]Ein Klumpen Lehm, der zum[BREAK]Leben erwacht ist. Er[BREAK]arbeitet so hart wie er[BREAK]traurig ist.[END]
 
 06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
 06-E:[BREAK]Diese bösartige, mechani-[BREAK]sierte Monströsität war[BREAK]einmal ein freundliches Tier[BREAK]bekannt als Drago.[END]
@@ -25,7 +25,7 @@
 07-E:[BREAK]Diese Waffe macht ohren-[BREAK]betäubenden Lärm und[BREAK]stößt erbarmungslos[BREAK]schwarze Abgase aus.[END]
 
 08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
-08-E:[BREAK]Der Generatorroboter des[BREAK]Gewitterturms. Er benutzt[BREAK]paralysierende Hiebe, als[BREAK]würde er sagen: <Nimm das!>[END]
+08-E:[BREAK]Der Generatorroboter. Er[BREAK]benutzt paralysierende[BREAK]Hiebe, als würde er sagen[BREAK]wollen: <Nimm das!>[END]
 
 09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
 09-E:[BREAK]Freund oder Feind? Sogar[BREAK]getreten und ohne Geld,[BREAK]bleibt dieser Möchtegern-[BREAK]käfer optimistisch.[END]
@@ -34,10 +34,10 @@
 0A-E:[END]
 
 0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
-0B-E:[BREAK]Nein, das ist kein Zahnpasta-[BREAK]Maskottchen. Dieser Kerl weiß[BREAK] wahrscheinlich noch[BREAK] nicht einmal selbst, was es ist.[END]
+0B-E:Nein, das ist kein Zahn-[BREAK]pasta-Maskottchen. Dieser[BREAK]Kerl weiß wahrscheinlich[BREAK]nicht einmal selbst,[BREAK]was es ist.[END]
 
 0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
-0C-E:[BREAK]Glaub es oder nicht, das ist[BREAK]Porky in Fleisch und Blut. Er[BREAK]ist zugleich ein alter Mann[BREAK]und ein junger Junge.[END]
+0C-E:[BREAK]Glaub es oder nicht, das ist[BREAK]Porky in Fleisch und Blut.[BREAK]Er ist zugleich ein alter[BREAK]Mann und ein junger Junge.[END]
 
 0D:[BREAK][BREAK]Based on a dream Porky[BREAK]once had. N.K. stands for[BREAK]<Natural Killer>.[END]
 0D-E:[BREAK]Basiert auf einem Traum,[BREAK]den Porky einmal hatte.[BREAK]N.K. steht für[BREAK]<Natürlicher Killer>.[END]
@@ -49,13 +49,13 @@
 0F-E:So wild aussehend, dass[BREAK]er Angst vor sich[BREAK]selbst hat. Passt gut[BREAK]auf seine Männer auf und[BREAK]ist ein riesiger DCMC-Fan.[END]
 
 10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
-10-E:[BREAK]Nach seiner Niederlage, hat[BREAK]sich dieser Soldat extremen[BREAK]Training unterzogen um[BREAK]sich stärker zu machen.[END]
+10-E:[BREAK]Nach seiner Niederlage, hat[BREAK]sich dieser Soldat krassem[BREAK]Training unterzogen um[BREAK]sich stärker zu machen.[END]
 
 11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
 11-E:Ein hölzerner Bass, dessen[BREAK]Zeit im Rampenlicht vorbei[BREAK]ist. Hält Neid gegenüber[BREAK]dem neuen Bass[BREAK]an seinem Platz.[END]
 
 12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
-12-E:[BREAK]Porky war sauer und brachte[BREAK]Dr. Andonuts und die Mr.[BREAK]Saturn dazu eine Absolut[BREAK]Sichere Kapsel zu bauen.[END]
+12-E:[BREAK]Porky war sauer und brach-[BREAK]te Dr. Andonuts und die Mr.[BREAK]Saturn dazu eine Absolut[BREAK]Sichere Kapsel zu bauen.[END]
 
 13:[BREAK]These guys swarm down[BREAK]from the ceiling when they[BREAK]sense a person's body[BREAK]heat.[END]
 13-E:[BREAK]Diese Kerle kommen in[BREAK]Schwärmen von der Decke,[BREAK]wenn sie die Körperwärme[BREAK]einer Person spüren.[END]
@@ -64,19 +64,19 @@
 14-E:[END]
 
 15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
-15-E:[BREAK]Eine Statue zu Ehren Pokeys[BREAK]Großartigkeit. In seiner rechten Hand ist eine Steinschleuder und in seiner linken ist ein Comic.[END]
+15-E:[BREAK]Eine Statue zu Ehren[BREAK]Porkys. In seiner rechten[BREAK]Hand ist eine Schleuder und[BREAK]in seiner linken ein Comic.[END]
 
 16:[END]
 16-E:[END]
 
 17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
-17-E:Pass auf! Falle nicht auf[BREAK]die neue Fassade des[BREAK]Neuen Fassads herein! Er ist[BREAK]größer und böser als[BREAK]jemals zuvor![END]
+17-E:Pass auf! Falle nicht auf[BREAK]die neue Fassade des[BREAK]Neuen Fassads herein! Er[BREAK]ist größer und böser als[BREAK]jemals zuvor![END]
 
 18:[END]
 18-E:[END]
 
 19:[BREAK]This spirited musician[BREAK]can't control his tempo. In[BREAK]fact, his passion is just[BREAK]hitting a crescendo.[END]
-19-E:Dieser geisterartige Musiker[BREAK]kann sein Tempo nicht kon-[BREAK]trollieren. Tatsächlich[BREAK]trifft seine Leidenschaft[BREAK]gerade ein Crescendo.[END]
+19-E:Dieser geistriger Musiker[BREAK]kann sein Tempo nicht kon-[BREAK]trollieren. Seine[BREAK]Leidenschaft trifft gerade[BREAK]auf Crescendo.[END]
 
 1A:[BREAK]Takes good care of Blue[BREAK]Balding Eagle chicks and[BREAK]burns with maternal wrath[BREAK]at anyone who approaches.[END]
 1A-E:[BREAK]Passt gut auf die Blauen[BREAK]kahl-werdenden Adlerküken[BREAK]auf und greift jeden mit[BREAK]mütterlicher Wut an.[END]
@@ -100,7 +100,7 @@
 20-E:[BREAK]Eine mysteriöse Energie-[BREAK]form, die stark mit den[BREAK]Schwingungen der letzten[BREAK]Nadel in Einklang ist.[END]
 
 21:[BREAK]This creature was[BREAK]combined with a leftover[BREAK]rocket from a failed space[BREAK]program.[END]
-21-E:[BREAK]Diese Kreatur wurde mit[BREAK]der verbliebenden Rakete[BREAK]eines missglückten Weltraum-[BREAK]programmes kombiniert.[END]
+21-E:[BREAK]Diese Kreatur wurde mit[BREAK]der verbliebenden Rakete[BREAK]eines missglückten Welt-[BREAK]raumprojektes kombiniert.[END]
 
 22:[BREAK]A robot programmed to[BREAK]terrorize Mr. Saturns with[BREAK]frightening words. Humans[BREAK]aren't scared, though.[END]
 22-E:Ein Roboter, der darauf[BREAK]programmiert wurde, die[BREAK]Mr. Saturn mit Worten zu[BREAK]terrorisieren. Bei Menschen[BREAK]hat das aber keinen Effekt.[END]
@@ -121,10 +121,10 @@
 27-E:[BREAK]Ein eiliger, ungestümer,[BREAK]rastloser Pilz, der zudem[BREAK]voreilig, ungeduldig und[BREAK]völlig wild ist.[END]
 
 28:[BREAK]A strange sparrow-stick[BREAK]combination that also[BREAK]seems to have a bomb[BREAK]planted inside it.[END]
-28-E:[BREAK]Eine eigenartige Spatzstock-[BREAK]Kombination, die auch[BREAK]noch eine Bombe[BREAK]beinhaltet.[END]
+28-E:[BREAK]Eine eigenartige[BREAK]Spatzstock-Kombination,[BREAK]die auch noch eine Bombe[BREAK]beinhaltet.[END]
 
 29:[BREAK]This unbalanced Chimera is[BREAK]half legendary giant fish,[BREAK]the <Master of the Sea>,[BREAK]and half plain ol' dog.[END]
-29-E:Dieses unausgeglichene Chi-[BREAK]mära ist zur Hälfte ein[BREAK]legendärer Riesenfisch <Meister[BREAK]des Meeres>, und zur Hälfte[BREAK]ein gewöhnlicher Hund.[END]
+29-E:Dieses unausgeglichene Chi-[BREAK]mära ist zur Hälfte der[BREAK]legendäre <Meister des[BREAK]Meeres>, und zur Hälfte[BREAK]ein gewöhnlicher Hund.[END]
 
 2A:[BREAK]A bat native to the[BREAK]Sunshine Forest. It loves[BREAK]ambiguity and tends to be[BREAK]wishy-washy.[END]
 2A-E:Eine Fledermaus, die im[BREAK]Sonnenscheinwald haust.[BREAK]Es liebt Zweideutigkeiten[BREAK]und tendiert dazu, labberig[BREAK]zu sein.[END]
@@ -142,25 +142,25 @@
 2E-E:Die surrenden Flügel auf[BREAK]seinem Rücken wurden[BREAK]wahrscheinlich von einem[BREAK]gigantischen Insekt[BREAK]transplantiert.[END]
 
 2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
-2F-E:Roboter, die auf Porky ba-[BREAK]siert sind, als er ein Kind[BREAK]war. In einem Set von 11[BREAK]erschaffen, um ein Football-[BREAK]-Team bilden zu können.[END]
+2F-E:Roboter, die auf Porky ba-[BREAK]siert sind, als er ein Kind[BREAK]war. In einem Set von 11[BREAK]vorhanden, um ein Football-[BREAK]-Team bilden zu können.[END]
 
 30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
-30-E:Sein Gesichtsausdruck[BREAK]knurrt: <Zahme Wildschwei[BREAK]ne verdienen es nicht[BREAK]Wildschwein genannt zu[BREAK]werden!>[END]
+30-E:Sein Gesichtsausdruck[BREAK]knurrt: <Zahme Wild-[BREAK]schweine verdienen[BREAK]es nicht Wildschwein[BREAK]genannt zu werden!>[END]
 
 31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
 31-E:Verglichen mit Schlangen,[BREAK]die ständig beißen, beißt es[BREAK]nicht oft. Aber es kann[BREAK]schon beißen, also sei[BREAK]trotzdem vorsichtig.[END]
 
 32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
-32-E:Dieser kleine Kerl will ein[BREAK]süßer Knödel sein, aber[BREAK]stattdessen ist er aus Ruß[BREAK]gemacht. Er würde einen[BREAK]schrecklichen Snack machen.[END]
+32-E:Dieser kleine Kerl will ein[BREAK]süßer Knödel sein, aber[BREAK]stattdessen ist er aus Ruß[BREAK]gemacht. Er wäre kein[BREAK]guter Snack.[END]
 
 33:Sweet, piping-hot, and[BREAK]yummier than a roasted[BREAK]chestnut, but still a[BREAK]monster. Would probably[BREAK]go well with butter.[END]
-33-E:Süß, kochend-heiß und[BREAK]leckerer als eine geröstete[BREAK]Kastanie, aber dennoch ein[BREAK]Monster. Etwas Butter würde[BREAK]vielleicht zu ihm passen.[END]
+33-E:Süß, kochend-heiß und[BREAK]leckerer als eine geröstete[BREAK]Kastanie, aber dennoch ein[BREAK]Monster. Etwas Butter[BREAK]würde zu ihm passen.[END]
 
 34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
 34-E:Heilt netterweise Leute,[BREAK]die verletzt sind, ob sie es[BREAK]wollen oder nicht. Aber[BREAK]sein Name ist etwas[BREAK]fraglich.[END]
 
 35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
-35-E:[BREAK]Ostwärts hier und west-[BREAK]wärts als Nächstes, es folgt[BREAK]den Flutwellen wie eine[BREAK]Plastiktasche im Wind.[END]
+35-E:[BREAK]Ostwärts hier und west-[BREAK]wärts als Nächstes, es[BREAK]folgt den Flutwellen wie eine[BREAK]Plastiktüte im Wind.[END]
 
 36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
 36-E:[BREAK]Diesen Metallaffen zu be-[BREAK]kämpfen, wird einem ganz[BREAK]viele Erfahrungen geben.[BREAK]Denke daran.[END]
@@ -199,13 +199,13 @@
 41-E:Gräbt sich mit seinem[BREAK]Bohrer auf seiner Nase in[BREAK]den Boden. Hat aus uner-[BREAK]klärlichen Gründen ein rotes[BREAK]Licht auf seinen Kopf.[END]
 
 42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
-42-E:Zieht es vor, Fleisch roh zu[BREAK]essen. Es scheint aber auch[BREAK]gefallen an getrockneten[BREAK]Fleisch gefunden zu haben.[BREAK]Er liebt auch Gemüse.[END]
+42-E:Zieht es vor, Fleisch roh zu[BREAK]essen. Aber auch Gefallen[BREAK]an getrockneten Fleisch[BREAK]hat er gefunden.[BREAK]Er liebt auch Gemüse.[END]
 
 43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
 43-E:Er hatte das Leben als[BREAK]Pflanze satt, also versuch-[BREAK]te er es mit Laufen. Es[BREAK]gibt jetzt keinen Weg[BREAK]zurück mehr![END]
 
 44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
-44-E:[BREAK][BREAK]Ein sehr orthodoxer Titani,[BREAK]berühmt wegen seiner[BREAK]Personalität, aber nicht[BREAK]für seine Stimme.[END]
+44-E:[BREAK]Ein sehr orthodoxer Titani,[BREAK]berühmt wegen seiner[BREAK]Personalität, aber nicht[BREAK]für seine Stimme.[END]
 
 45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
 45-E:Dieser Schneekronenberg-[BREAK]Konfekt ist tatsächlich ein[BREAK]Monster. Tendiert dazu in[BREAK]hitzigen Kämpfen zu[BREAK]schmelzen.[END]
@@ -217,7 +217,7 @@
 47-E:Seine überwältigende auf-[BREAK]gestaute Wut explodiert[BREAK]mit einem BUMM. Pyro-[BREAK]fliegen hausen in dem[BREAK]Schädelkrater.[END]
 
 48:Not even death can stop[BREAK]him from wandering the[BREAK]graveyard. He attacks[BREAK]people as he seeks new[BREAK]life.[END]
-48-E:Nicht einmal der Tod kann[BREAK]ihn vom Umherwandern im[BREAK]Friedhof stoppen. Er greift[BREAK]Menschen an, während er[BREAK]sich nach neuem Leben sehnt.[END]
+48-E:Nicht einmal der Tod kann[BREAK]ihn vom Umherwandern[BREAK]stoppen. Er greift Menschen[BREAK]an, während er sich[BREAK]nach neuem Leben sehnt.[END]
 
 49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
 49-E:Er kaut auf seinen eigenen[BREAK]Knochen statt auf einen[BREAK]Snack. Sein charmantester[BREAK]Punkt ist sein herab-[BREAK]hängender Augapfel.[END]
@@ -235,10 +235,10 @@
 4D-E:Eine übergroße Krabbe.[BREAK]Diese großen Klauen sind[BREAK]so geschickt, dass man[BREAK]damit ein Schaf scheren[BREAK]könnte.[END]
 
 4E:[BREAK]So big, it needs capital[BREAK]letters. When it rolls into a[BREAK]ball, its shape just begs[BREAK]for it to be dribbled.[END]
-4E-E:So groß, dass es Groß-[BREAK]buchstaben braucht. Wenn[BREAK]sich in einen Ball rollt,[BREAK]ruft seine Form förmlich[BREAK]danach gedribbelt zu werden.[END]
+4E-E:So groß, dass es Groß-[BREAK]buchstaben braucht. Wenn[BREAK]sie sich in einen Ball rollt,[BREAK]ruft ihre Form förmlich[BREAK]danach geworfen zu werden.[END]
 
 4F:Gets cranky once it's[BREAK]grown tired of acting[BREAK]upbeat, even cursing at[BREAK]the rattling of its own dry[BREAK]bones.[END]
-4F-E:Wird stinkig, sobald er keine[BREAK]Lust mehr auf Fröhlich-[BREAK]sein hat und verflucht dann[BREAK]sogar das Klappern seiner[BREAK]eigenen trockenen Knochen.[END]
+4F-E:Wird stinkig, wenn er keine[BREAK]Lust mehr auf Fröhlich-[BREAK]sein hat und verflucht dann[BREAK]sogar das Klappern seiner[BREAK]eigenen Knochen.[END]
 
 50:[BREAK]He and Li'l Big Bro can't[BREAK]decide on their names. If[BREAK]it's any help, this little guy[BREAK]is the older bro.[END]
 50-E:Er und Kleiner Großer Bru-[BREAK]der können sich nicht auf[BREAK]ihre Namen festsetzen.[BREAK]Falls es hilft: der kleine[BREAK]Kerl ist der ältere.[END]
@@ -253,7 +253,7 @@
 53-E:[BREAK]An dieser Spinne ist über-[BREAK]haupt nichts Besonders.[BREAK]Sie ist nicht giftig und hat[BREAK]auch keine andere Vorzüge.[END]
 
 54:[BREAK]If butterflies had no wings,[BREAK]they'd be butterwalkers.[BREAK]Without handsome horns,[BREAK]this guy is a... thing.[END]
-54-E:Wenn Schmetterlinge keine[BREAK]Flügel hätten, wären sie[BREAK]Schmetterläufer. Ohne schöne[BREAK]Hörner ist dieser Kerl[BREAK]ein... Ding.[END]
+54-E:Wenn Schmetterlinge keine[BREAK]Flügel hätten, wären sie[BREAK]Schmetterläufer. Ohne[BREAK]schöne Hörner ist dieser[BREAK]Kerl ein... Ding.[END]
 
 55:[BREAK]One of the Magypsies[BREAK]crafted these monsters to[BREAK]protect something very[BREAK]important.[END]
 55-E:[BREAK]Eine der Magypsies erschuf[BREAK]diese Monster um etwas[BREAK]sehr wichtiges zu[BREAK]beschützen.[END]
@@ -262,10 +262,10 @@
 56-E:[BREAK]Beschützt sein Fleisch und[BREAK]Blut mit einer Stahlrüstung.[BREAK]Obwohl... der hat gar kein[BREAK]Fleisch und Blut.[END]
 
 57:[BREAK]Appears to have a history[BREAK]of killing. Too heavy to be[BREAK]handled by a normal[BREAK]person.[END]
-57-E:Scheint eine Killer-[BREAK]Geschichte zu haben. Zu[BREAK]schwer um von einer normalen[BREAK]Person fertig gemacht zu[BREAK]werden.[END]
+57-E:Scheint schon öfter[BREAK]getötet zu haben. Zu[BREAK]schwer um von einer[BREAK]normalen Person fertig[BREAK]gehalten zu werden.[END]
 
 58:[BREAK]Appears to be covered in[BREAK]scars of glory. Too heavy[BREAK]to be lifted by a normal[BREAK]person.[END]
-58-E:[BREAK]Scheint mit Narben seines[BREAK]Ruhmes umhüllt zu sein. Zu[BREAK]schwer um von einer normalen[BREAK]Person gehoben zu werden.[END]
+58-E:Scheint mit Narben seines[BREAK]Ruhmes umhüllt zu sein. Zu[BREAK]schwer um von einer[BREAK]normlaen Person gehoben[BREAK]zu werden.[END]
 
 59:[BREAK]Once the empty-handed[BREAK]armor gets a hold of its[BREAK]sword and shield... terrible[BREAK]things will happen.[END]
 59-E:[BREAK]Sobald die Rüstung sein[BREAK]Schwert und Schild erlangt,[BREAK]werden... schreckliche[BREAK]Dinge passieren.[END]
@@ -280,7 +280,7 @@
 5C-E:Egal wie lange es dauert,[BREAK]diese Tür wartet geduldig[BREAK]auf jemanden, der sie öff-[BREAK]net. Sie wartet jetzt schon[BREAK]eine halbe Ewigkeit darauf.[END]
 
 5D:[BREAK][BREAK]What you see isn't always[BREAK]what you get. This eerie[BREAK]grin doesn't actually exist.[END]
-5D-E:Was du siehst, ist nicht[BREAK]immer das, was du[BREAK]bekommst. Dieses unheimliche[BREAK]Grinsen existiert[BREAK]eigentlich nicht.[END]
+5D-E:Was du siehst, ist nicht[BREAK]immer das, was du[BREAK]bekommst. Dieses[BREAK]unheimliche Grinsen[BREAK]existiert eigentlich nicht.[END]
 
 5E:[BREAK]Its favorite dung is that of[BREAK]the Cactus Wolf, but[BREAK]usually it just makes do[BREAK]with Sand Lizard dung.[END]
 5E-E:Sein Lieblings-Mist ist der[BREAK]vom Kaktuswolf, aber[BREAK]normalerweise nimmt es[BREAK]einfach den von der[BREAK]Zauneidechse.[END]
@@ -289,10 +289,10 @@
 5F-E:[BREAK]Gräbt ein Loch und wartet[BREAK]darauf, dass Ameisen[BREAK]hereinfallen. Menschen sind[BREAK]ihm aber auch recht.[END]
 
 60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
-60-E:[BREAK][BREAK]Fliegt kinnklappernd in der[BREAK]Wüste herum. Lässt seine[BREAK]Gegner albern fühlen.[END]
+60-E:[BREAK][BREAK]Fliegt kinnklappernd in der[BREAK]Wüste herum. Lässt seine[BREAK]Gegner sich albern fühlen.[END]
 
 61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
-61-E:Mistkäfer räumen ihr[BREAK]Durcheinander auf. Im[BREAK]Gegenzug essen sie die Mist-[BREAK]käfer. Nicht das, was man[BREAK]unter Fair Trade versteht.[END]
+61-E:Mistkäfer räumen seinen[BREAK]Müll auf. Im Gegenzug[BREAK]isst er die Mistkäfer.[BREAK]Nicht das, was man unter[BREAK]Fair Trade versteht.[END]
 
 62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
 62-E:Der Kaktuswolf hat auf[BREAK]seinen Vorderkopf einen[BREAK]Wolfkaktus. Die zwei[BREAK]kommen ziemlich gut[BREAK]miteinander aus.[END]
@@ -331,7 +331,7 @@
 6D-E:Diese Kreatur steht vor[BREAK]einem großen Problem,[BREAK]wenn er ein Ei sieht. Soll er[BREAK]es wärmen oder[BREAK]runterschlucken?[END]
 
 6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
-6E-E:Ein Chimära, das aus allem[BREAK]Möglichen zusammenge-[BREAK]worfen worden ist. Ein paar[BREAK]sagen, dass etwas Gutes[BREAK]rausgekommen ist.[END]
+6E-E:Ein Chimära, das aus allem[BREAK]Möglichen zusammenge-[BREAK]worfen worden ist. Manche[BREAK]sagen, dass etwas Gutes[BREAK]rausgekommen ist.[END]
 
 6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
 6F-E:Überrascht, wenn es plötz-[BREAK]lich aus dem See springt.[BREAK]Seine Talente beinhalten[BREAK]Unterwassersitzen und[BREAK]Unterwasserschütteln.[END]
@@ -367,7 +367,7 @@
 79-E:[BREAK]Ist der lange Teil sein Rüs-[BREAK]sel oder sein Hals? Wie[BREAK]wäscht es sich? Eine[BREAK]ganz mysteriöse Chimära.[END]
 
 7A:[BREAK]The sillhouette of this[BREAK]Titany's stretched wings[BREAK]against the starry night[BREAK]sky is a sight to behold.[END]
-7A-E:[BREAK]Die Silhouette der ausge-[BREAK]streckten Flügel des Tita-[BREAK]nis gegenüber dem Sternen-[BREAK]himmel ist eine Augenweide.[END]
+7A-E:Die Silhouette der ausge-[BREAK]streckten Flügel des Tita-[BREAK]nis gegenüber dem[BREAK]Sternenhimmel ist eine[BREAK]Augenweide.[END]
 
 7B:Lets out a sad howl when[BREAK]it meets the Batangutan[BREAK]with its head on it.[BREAK]Occasionally picks fights,[BREAK]too.[END]
 7B-E:Stößt ein trauriges Heulen[BREAK]aus, wenn es einen Batan-[BREAK]gutan mit seinem Kopf[BREAK]darauf trifft. Fängt[BREAK]gelegentlich Streite an.[END]
@@ -397,7 +397,7 @@
 83-E:Fließt mit viel Energie aus[BREAK]Stromleitungen und...[BREAK]Hektisch! Energetisch![BREAK]Elektrisch![BREAK]Das ist sein Motto.[END]
 
 84:[BREAK]It's minor because, first of[BREAK]all, it's terrible at math,[BREAK]and second, it needs 64 C[BREAK]batteries.[END]
-84-E:[BREAK]Es ist schlecht, weil,[BREAK]erstens ist es schlecht in[BREAK]Mathe, und zweitens braucht[BREAK]es 64 C-Batterien.[END]
+84-E:[BREAK]Es ist schlecht, weil,[BREAK]erstens ist es schlecht in[BREAK]Mathe, und zweitens[BREAK]braucht es 64 C-Batterien.[END]
 
 85:[BREAK]Its engine runs on a deep,[BREAK]passionate yearning to[BREAK]meet people and find out[BREAK]about them.[END]
 85-E:[BREAK]Sein Antrieb ist die Sehn-[BREAK]sucht, Leute kennen zu[BREAK]lernen und mehr über sie[BREAK]zu erfahren.[END]
@@ -418,10 +418,10 @@
 8A-E:[BREAK]Sein Kopf ist voller[BREAK]Wissen, wie z. B. Insekten-[BREAK]und Blumennamen und wie[BREAK]viel gewisse Dinge kosten.[END]
 
 8B:[BREAK]What might its ultimate[BREAK]pose be? It's making an[BREAK]effort to master posing[BREAK]techniques in battle.[END]
-8B-E:Was wohl seine ultimative[BREAK]Pose ist? Es braucht[BREAK]größte Konzentration um[BREAK]Posentechnicken für den Kampf[BREAK]zu meistern.[END]
+8B-E:Was wohl seine ultimative[BREAK]Pose ist? Es braucht[BREAK]größte Konzentration um[BREAK]Posentechnicken für den[BREAK]Kampf zu meistern.[END]
 
 8C:Three years later, the[BREAK]Spud Bug is now a[BREAK]respectable adult. But[BREAK]what does that even mean[BREAK]for a bug?[END]
-8C-E:Drei Jahre später ist[BREAK]der Kartoffelkäfer nun ein[BREAK]anständiger Erwachsener. Aber[BREAK]was hat das für einen Käfer[BREAK]eine Bedeutung?[END]
+8C-E:Drei Jahre später ist der[BREAK]Kartoffelkäfer nun ein[BREAK]anständiger Erwachsener.[BREAK]Aber was hat das für einen[BREAK]Käfer eine Bedeutung?[END]
 
 8D:[BREAK]A rustic combination of a[BREAK]baked yam and a toy[BREAK]helicopter. It grates its[BREAK]body and sends gunk flying.[END]
 8D-E:Eine rostige Kombination[BREAK]aus gekochter Kartoffel[BREAK]und Spielzeughelikopter. Es[BREAK]raspelt seinen Körper und[BREAK]lässt seine Reste fliegen.[END]
@@ -433,7 +433,7 @@
 8F-E:[BREAK]Ein Chimära, welches das[BREAK]alte Labor abreißen[BREAK]soll, um Platz für ein neues[BREAK]Gebäude zu schaffen.[END]
 
 90:[BREAK]This is getting out of hand.[BREAK]What's next, an anteater[BREAK]zombie? A platypus[BREAK]zombie?[END]
-90-E:Das läuft jetzt aber aus[BREAK]dem Ruder. Was kommt als[BREAK]nächstes? Ein Ameisenbärzombie?[BREAK]Ein Schnabeltierzombie?[END]
+90-E:Das läuft jetzt aber aus[BREAK]dem Ruder. Was kommt als[BREAK]nächstes? Ein[BREAK]Ameisenbärzombie?[BREAK]Ein Schnabeltierzombie?[END]
 
 91:[BREAK]The eggs of a walleye[BREAK]pollock, salted and[BREAK]prepared to perfection in a[BREAK]seasoned broth. As a man.[END]
 91-E:[BREAK]Die Eier eines Alaska-[BREAK]Seelachses, gesalzen und[BREAK]mit gewürzter Brühe[BREAK]perfektioniert. Als Person.[END]
@@ -481,7 +481,7 @@
 9F-E:[BREAK]Bei einem Löwe kennt man[BREAK]Bisse und Gebrülle. Die[BREAK]Schlingenbildung und Feuer-[BREAK]atemzeugs eher weniger.[END]
 
 A0:[BREAK]This was thrown together[BREAK]for no real reason. There's[BREAK]no use for it, so it was set[BREAK]free on the highway.[END]
-A0-E:Das hier wurde einfach wahllos[BREAK]zusammengeworfen. Es gibt keinen[BREAK]Nutzen für ihn, also wurde[BREAK]er auf der Schnellstraße freigelassen.[END]
+A0-E:Der hier wurde wahllos[BREAK]zusammengeworfen. Es[BREAK]gibt keinen Nutzen für ihn,[BREAK]also wurde er auf der[BREAK]Schnellstraße freigelassen.[END]
 
 A1:It boasts an instantly[BREAK]understandable design. If[BREAK]only it would wait to[BREAK]attack until AFTER people[BREAK]do their business...[END]
 A1-E:Er hat ein intuitiv verständ-[BREAK]liches Design. Wenn es[BREAK]denn nur mit dem Angriff[BREAK]warten würde, NACHDEM[BREAK]man fertig ist...[END]
@@ -538,7 +538,7 @@ B2:Sometimes it accidentally[BREAK]swallows the food that it[BREAK]went through 
 B2-E:[BREAK]Manchmal verschluckt er[BREAK]versehenlich das Essen,[BREAK]das er extra für seine Baby-[BREAK]Glatzies gesammelt hat.[END]
 
 B3:[BREAK]Takes care of suspicious[BREAK]intruders, smoke in the[BREAK]kitchen, and reheating the[BREAK]bathtub.[END]
-B3-E:[BREAK]Kümmert sich um Eindringlinge,[BREAK]Rauch in der Küche, und[BREAK]das Vorheizen der Badewanne.[END]
+B3-E:[BREAK]Kümmert sich um[BREAK]Eindringlinge, Rauch in der[BREAK]Küche, und das Vorheizen[BREAK]der Badewanne.[END]
 
 B4:This bad breeze causes[BREAK]trouble when it flips up[BREAK]skirts and blows off[BREAK]toupees. Unwelcome,[BREAK]indeed.[END]
 B4-E:Diese böse Briese macht[BREAK]Ärger, indem es Röcke[BREAK]hochfliegen lässt und[BREAK]Toupets wegbläst.[BREAK]Ziemlich unschön.[END]
@@ -556,10 +556,10 @@ B8:This improved Wobbly[BREAK]Robot no longer wobbles.[BREAK]Why wasn't it made 
 B8-E:Dieser verbesserte Wacke-[BREAK]lige Roboter wackelt nicht[BREAK]mehr. Warum es nicht[BREAK]gleich so gemacht wurde?[BREAK]Das weiß keiner.[END]
 
 B9:The Beanling is a very[BREAK]mysterious creature. It's[BREAK]also quick to run away. If[BREAK]you can catch one, it'll be[BREAK]a great day.[END]
-B9-E:Der Bohnling ist eine[BREAK]sehr mysteriöse Kreatur. Es[BREAK]flieht schnell. Wenn du einen[BREAK]fangen konntest, wirst du[BREAK]einen guten Tag haben.[END]
+B9-E:Der Bohnling ist eine sehr[BREAK]mysteriöse Kreatur. Er[BREAK]flieht schnell. Wenn du ihn[BREAK]fangen konntest, wirst du[BREAK]einen superben Tag haben.[END]
 
 BA:[BREAK]A Beanling coated in[BREAK]sparkling syrup. You'll only[BREAK]come across this monster[BREAK]if you've got good luck.[END]
-BA-E:[BREAK]Ein Bohnling, das mit[BREAK]glänzenden Syrup überzogen wurde.[BREAK]Nur mit Glück triffst du[BREAK]auf dieses Monster.[END]
+BA-E:Ein Bohnling, das mit[BREAK]glänzenden Syrup[BREAK]überzogen wurde.[BREAK]Nur mit Glück triffst du[BREAK]auf dieses Monster.[END]
 
 BB:A tiny, tiny forest that[BREAK]grows in the mole cricket[BREAK]hole. It's really more of a[BREAK]bush than a forest, but[BREAK]whatever.[END]
 BB-E:Ein winziger, winziger Wald,[BREAK]das im Maulwurfgrillenloch[BREAK]wächst. Eigentlich ist er[BREAK]eher ein Busch als ein[BREAK]Wald, aber was soll's.[END]

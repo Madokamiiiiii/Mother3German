@@ -182,8 +182,8 @@ org $80C67CC; db $40
 org $8040456; db $BF         // Goods
 org $8040902; db $BF
 org $8040A82; db $B6        // Equip
-org $804121E; db $C1
-org $8043016; db $C1
+org $804121E; db $B6
+org $8043016; db $B6
 org $8040C26; db $C5         // PSI
 org $80410AE; db $BE         // Status
 org $804167E; db $A0         // Battle Memory
@@ -1315,8 +1315,10 @@ org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
 // Realign HITS graphic
 org $8065658; db $40
 
-// Fixes wrong enemy placement in battle memory. Only necessary if using ropesnake
-org $80D0D28; incbin data_enemy.bin
+// Fixes wrong enemy placement in battle memory. Only necessary when using ropesnake
+//org $80D0D28; incbin data_enemy.bin
+// This fixes wrong enemy placement in battles. Only necessary when using ropesnake
+//org $80C6D62; incbin data_enemy_memo_placement.bin
 
 
 //============================================================================================

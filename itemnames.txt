@@ -488,15 +488,15 @@
 00F2: Osohe Sketch
 00F2-E: Skizze von Osohe
 00F3: Underground Map
-00F3-E: Karte des Untergrunds
+00F3-E: Untergrundkarte
 00F4: Railway Map
-00F4-E: Karte der Eisenbahn
+00F4-E: Karte der Schienen
 00F5: Area Map
 00F5-E: Karte der Gegend
 00F6: Attic Guide
 00F6-E: Karte des Dachbodens
 00F7: Saturn Valley Map
-00F7-E: Karte des Saturn-Tals
+00F7-E: Saturn-Tal Karte
 00F8: Sea Floor Map
 00F8-E: Meeresbodenkarte
 00F9: Cave Map

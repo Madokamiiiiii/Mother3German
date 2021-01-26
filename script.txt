@@ -2678,7 +2678,7 @@
 28-17:@Frogs in a desert?[WAIT]@It's actually not as crazy as you might think.[WAIT]@Some species of frogs, such as "sand frogs",[BREAK]  do exist in arid, desert regions like Africa.[WAIT]@During seasons with little to no precipitation,[WAIT]  these frogs burrow into the ground to protect[BREAK]  themselves from the harsh, dry climate.[END]
 28-17E:@Frösche in einer Wüste?[WAIT]@Es ist tatsächlich gar nicht mal so verrückt,[BREAK]  wie du vielleicht denken möchtest.[WAIT]@Einige Froschspezies, wie "Sandfrösche", gibt[BREAK]  es in ariden Wüstenregionen von Afrika.[WAIT]@In der Zeit, wo es so gut wie gar nicht regnet,[WAIT]  buddeln sich diese Frösche in den Boden ein,[BREAK]  um sich vor dem harten, trockenen Klima zu[WAIT]  schützen.[END]
 28-18:@All that spinning and dizziness actually started[BREAK]  to feel kind of nice after a while...[END]
-28-18E:@Dieses ganze Drehen hat angefangen,[BREAK]  sich gut anzufühlen...[END]
+28-18E:@Dieses ganze Drehen hat angefangen,[BREAK]  mir Spaß zu machen...[END]
 28-19:@Thanks for saving me when I needed help.[WAIT]@Anyways, while we're at it...[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 28-19E:@Danke fürs Retten.[WAIT]@Wie auch immer, wenn wir schon dabei sind...[WAIT]@*hüpf*[BREAK]  Willst du dein Spiel speichern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 28-20:@So dizzyyyy![WAIT]@Help me, ribbiiit![END]
