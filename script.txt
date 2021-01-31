@@ -1239,19 +1239,19 @@
 10-14E:@[FLINT 23 01 00]...[WAIT]  Du und [HINAWA 22 08 00]...[WAIT]  Ihr habt euch so sehr geliebt, dass sogar die[BREAK]  kleinen Vögel im Wald eifersüchtig waren.[WAIT]@Und das wird sich niemals ändern, auch nach[BREAK]  diesem Vorfall nicht.[END]
 // Repeats: 10-14, 222-14, 506-14
 10-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-10-15E:@*hic*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
+10-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 10-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-10-16E:@Sorry für die Betrunkenheit meines Mannes,[BREAK]  [FLINT 23 01 00].[END]
+10-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 10-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 10-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 10-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-10-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+10-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 10-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-10-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+10-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 10-20:@"A grave of grave consequences."[END]
 10-20E:@"F"[END]
@@ -1286,7 +1286,7 @@
 10-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 10-30:@"Life is too short to act gravely."[END]
-10-30E:@"Life is too short to act gravely."[END]
+10-30E:@"https://youtu.be/dQw4w9WgXcQ"[END]
 // Repeats: 10-30, 222-30, 506-30
 10-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
 10-31E:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
@@ -1327,31 +1327,31 @@
 10-42E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Oh, du bist ein Affe, aber du hast eine Karte.[WAIT]@Aus irgendeinem Grund bin ich richtig scharf[BREAK]  drauf etwas zu markieren.[WAIT]@Gib mal 'ne Sekunde her.[END]
 // Repeats: 10-42, 222-42, 506-42
 10-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-43E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
+10-43E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-43, 222-43, 506-43
 10-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-10-44E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-44E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-44, 222-44, 506-44
 10-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-10-45E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-45E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-45, 222-45, 506-45
 10-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-10-46E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-46E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-46, 222-46, 506-46
 10-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-10-47E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-47E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-47, 222-47, 506-47
 10-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-48E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-48E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-48, 222-48, 506-48
 10-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-49E:@Ich habe gerade ohne echten Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+10-49E:@Ich habe gerade ohne richtigen Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-49, 222-49, 506-49
 10-50:@Your map's been marked![END]
 10-50E:@Auf deiner Karte wurde etwas markiert![END]
 // Repeats: 3-10, 10-50, 32-50, 222-50, 506-50
 10-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-10-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glücklichkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
+10-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glückseligkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
 // Repeats: 10-51, 222-51, 506-51
 10-52:@The tombstone doesn't budge.[END]
 10-52E:@Der Grabstein lässt sich nicht bewegen.[END]
@@ -2887,7 +2887,7 @@
 32-10:@Oh, hello there, [LUCAS 23 02 00].[WAIT]@You look a bit down in the dumps.[WAIT]@A Happy Box could really change your life, you[BREAK]  know.[END]
 32-10E:@Oh, hallöchen, [LUCAS 23 02 00].[WAIT]@Du siehst etwas down aus.[WAIT]@Eine Glückseligkeitsbox könnte echt dein[BREAK]  Leben ändern, weißt du.[END]
 32-11:@It's nice to think of others and all,[WAIT]  but it's more important to think about your[BREAK]  own happiness.[END]
-32-11E:@Es ist schön und gut an andere zu denken,[WAIT]  aber was noch wichtiger ist, ist, dass man[BREAK]  auch an seine eigene Glücklichkeit denkt.[END]
+32-11E:@Es ist schön und gut an andere zu denken,[WAIT]  aber noch wichtiger ist es, dass man[BREAK]  auch an sein eigenes Glück denkt.[END]
 32-12:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@I hear your dad's STILL hiking up in the[BREAK]  mountains, looking for [CLAUS 22 05 00].[WAIT]@You should really tell him yourself that it's[BREAK]  about time he give up already.[END]
 32-12E:@Oh, tagchen, [LUCAS 23 02 00].[WAIT]@Ich habe erfahren, dass dein Vater BIS HEUTE[BREAK]  in den Bergen nach [CLAUS 22 05 00] sucht.[WAIT]@Du solltest ihm wirklich erzählen, dass es Zeit[BREAK]  ist aufzugeben.[END]
 32-13:@Whenever I listen to Mr. Fassad talk, I[BREAK]  suddenly want everything.[WAIT]@It's almost like he's a magician.[WAIT]@*giggle*[END]
@@ -7083,7 +7083,7 @@
 131-5E:@Das Haus ist komplett eingestürzt.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 131-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
-131-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glücklichkeit leben...[END]
+131-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glückseligkeit leben...[END]
 // Repeats: 131-6, 171-6
 131-7:@Oh, [FLINT 23 01 00]. Good to see you here.[WAIT]@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
 131-7E:@Oh, [FLINT 23 01 00]. Schön, dich hier zu sehen.[WAIT]@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
@@ -7991,7 +7991,7 @@
 171-5E:@Das Haus ist komplett eingestürzt.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 171-6:@May the forest and the people and the animals[BREAK]  and I all have happiness...[END]
-171-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glücklichkeit leben...[END]
+171-6E:@Mögen der Wald und die Menschen und die[BREAK]  Tiere und ich, alle in Glückseligkeit leben...[END]
 // Repeats: 131-6, 171-6
 171-7:@Oh, [FLINT 23 01 00]. Good to see you here.[WAIT]@I think it's only proper to offer a prayer here[BREAK]  before going into the forest.[END]
 171-7E:@Oh, [FLINT 23 01 00]. Schön, dich hier zu sehen.[WAIT]@Ich finde, es ist nur richtig ein Gebet[BREAK]  darzubieten, bevor man in den Wald geht.[END]
@@ -10156,19 +10156,19 @@
 222-14E:@[FLINT 23 01 00]...[WAIT]  Du und [HINAWA 22 08 00]...[WAIT]  Ihr habt euch so sehr geliebt, dass sogar die[BREAK]  kleinen Vögel im Wald eifersüchtig waren.[WAIT]@Und das wird sich niemals ändern, auch nach[BREAK]  diesem Vorfall nicht.[END]
 // Repeats: 10-14, 222-14, 506-14
 222-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-222-15E:@*hic*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
+222-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 222-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-222-16E:@Sorry für die Betrunkenheit meines Mannes,[BREAK]  [FLINT 23 01 00].[END]
+222-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 222-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 222-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 222-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-222-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+222-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 222-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-222-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+222-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 222-20:@"A grave of grave consequences."[END]
 222-20E:@"F"[END]
@@ -10201,7 +10201,7 @@
 222-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 222-30:@"Life is too short to act gravely."[END]
-222-30E:@"Life is too short to act gravely."[END]
+222-30E:@"https://youtu.be/dQw4w9WgXcQ"[END]
 // Repeats: 10-30, 222-30, 506-30
 222-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
 222-31E:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
@@ -10240,31 +10240,31 @@
 222-42E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Oh, du bist ein Affe, aber du hast eine Karte.[WAIT]@Aus irgendeinem Grund bin ich richtig scharf[BREAK]  drauf etwas zu markieren.[WAIT]@Gib mal 'ne Sekunde her.[END]
 // Repeats: 10-42, 222-42, 506-42
 222-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-43E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
+222-43E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-43, 222-43, 506-43
 222-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-222-44E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-44E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-44, 222-44, 506-44
 222-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-222-45E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-45E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-45, 222-45, 506-45
 222-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-222-46E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-46E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-46, 222-46, 506-46
 222-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-222-47E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-47E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-47, 222-47, 506-47
 222-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-48E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-48E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-48, 222-48, 506-48
 222-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-49E:@Ich habe gerade ohne echten Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+222-49E:@Ich habe gerade ohne richtigen Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-49, 222-49, 506-49
 222-50:@Your map's been marked![END]
 222-50E:@Auf deiner Karte wurde etwas markiert![END]
 // Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
 222-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-222-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glücklichkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
+222-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glückseligkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
 // Repeats: 10-51, 222-51, 506-51
 222-52:@The tombstone doesn't budge.[END]
 222-52E:@Der Grabstein lässt sich nicht bewegen.[END]
@@ -15017,7 +15017,7 @@
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
 404-0E:@Quietsch, quietsch-quietsch-quieeeetsch.[WAIT]  (Oh je, oh je.[WAIT]  Meine Kinder sind zum Spielen weggegangen,[BREAK]  aber sie sind noch nicht zurück.[WAIT]@Wenn du sie zufällig siehst, sag ihnen bitte,[BREAK]  dass ihre Mutter will, dass sie heimkommen.[WAIT]  Bitte.[WAIT]  Bitte.[WAIT]  Übrigens, ich habe insgesamt sieben Kinder.)[END]
 404-1:@Squeak squeeeeak.[WAIT]  (Oh, you're that kind person from before.[WAIT]  Parenting is indeed difficult.[WAIT]  Mice grow exponentially in number, after all.[WAIT]  But,[PAUSE 2E 00] but![WAIT]  Having children makes our happiness grow[BREAK]  exponentially, too!)[END]
-404-1E:@Quietsch quieeeeeetsch.[WAIT]  (Oh, du bist diese nette Person von vorher.[WAIT]  Erziehung ist wirklich anstrengend.[WAIT]  Mäuse vermehren sich schließlich exponentiell.[WAIT]  Aber,[PAUSE 2E 00] aber![WAIT]  Kinder zu haben, lässt auch unsere[BREAK]  Glücklichkeit exponentiell wachsen!)[END]
+404-1E:@Quietsch quieeeeeetsch.[WAIT]  (Oh, du bist diese nette Person von vorher.[WAIT]  Erziehung ist wirklich anstrengend.[WAIT]  Mäuse vermehren sich schließlich exponentiell.[WAIT]  Aber,[PAUSE 2E 00] aber![WAIT]  Kinder zu haben, lässt auch unsere[BREAK]  Glückseligkeit exponentiell wachsen!)[END]
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
 404-2E:@Quietsch-quietsch.[WAIT]  (Danke für deine Hilfe, meine Kinder[BREAK]  kommen langsam zurück.[WAIT]  Danke. Vielen Dank!)[END]
 404-3:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
@@ -16772,19 +16772,19 @@
 506-14E:@[FLINT 23 01 00]...[WAIT]  Du und [HINAWA 22 08 00]...[WAIT]  Ihr habt euch so sehr geliebt, dass sogar die[BREAK]  kleinen Vögel im Wald eifersüchtig waren.[WAIT]@Und das wird sich niemals ändern, auch nach[BREAK]  diesem Vorfall nicht.[END]
 // Repeats: 10-14, 222-14, 506-14
 506-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-506-15E:@*hic*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
+506-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Findest du nicht?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 506-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-506-16E:@Sorry für die Betrunkenheit meines Mannes,[BREAK]  [FLINT 23 01 00].[END]
+506-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 506-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 506-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 506-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-506-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+506-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 506-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-506-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und rannte dann plötzlich davon.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
+506-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 506-20:@"A grave of grave consequences."[END]
 506-20E:@"F"[END]
@@ -16817,7 +16817,7 @@
 506-29E:@"Hier liegt jemand, der sich Touhou auf[BREAK]  Lunatic angetan hat."[END]
 // Repeats: 10-29, 222-29, 506-29
 506-30:@"Life is too short to act gravely."[END]
-506-30E:@"Life is too short to act gravely."[END]
+506-30E:@"https://youtu.be/dQw4w9WgXcQ"[END]
 // Repeats: 10-30, 222-30, 506-30
 506-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
 506-31E:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
@@ -16856,31 +16856,31 @@
 506-42E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Oh, du bist ein Affe, aber du hast eine Karte.[WAIT]@Aus irgendeinem Grund bin ich richtig scharf[BREAK]  drauf etwas zu markieren.[WAIT]@Gib mal 'ne Sekunde her.[END]
 // Repeats: 10-42, 222-42, 506-42
 506-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-43E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
+506-43E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots, Biffs und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-43, 222-43, 506-43
 506-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-506-44E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-44E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Biffs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-44, 222-44, 506-44
 506-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-506-45E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-45E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-45, 222-45, 506-45
 506-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-506-46E:@Ich habe gerade ohne echten Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-46E:@Ich habe gerade ohne richtigen Grund[BREAK]  Abbots Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-46, 222-46, 506-46
 506-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-506-47E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-47E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs  und Isaacs Häuser markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-47, 222-47, 506-47
 506-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-48E:@Ich habe gerade ohne echten Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-48E:@Ich habe gerade ohne richtigen Grund[BREAK]  Biffs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-48, 222-48, 506-48
 506-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-49E:@Ich habe gerade ohne echten Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich viel besser an![END]
+506-49E:@Ich habe gerade ohne richtigen Grund[BREAK]  Isaacs Haus markiert.[WAIT]@Ahh, das fühlt sich so gut an![END]
 // Repeats: 10-49, 222-49, 506-49
 506-50:@Your map's been marked![END]
 506-50E:@Auf deiner Karte wurde etwas markiert![END]
 // Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
 506-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-506-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glücklichkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
+506-51E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Du lieferst zwar Glückseligkeit aus, aber du[BREAK]  scheinst der unglücklichste von allen zu sein.[END]
 // Repeats: 10-51, 222-51, 506-51
 506-52:@The tombstone doesn't budge.[END]
 506-52E:@Der Grabstein lässt sich nicht bewegen.[END]
