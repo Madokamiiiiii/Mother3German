@@ -13,7 +13,7 @@
 0005: Mecha-Drago
 0005-E: Mecha-Drago
 0006: Pork Tank
-0006-E: Schweinetank
+0006-E: Schweinepanzer
 0007: Mr. Genetor
 0007-E: Herr Genetor
 0008: Mole Cricket
@@ -233,7 +233,7 @@
 0073: Filthy Attack Roach
 0073-E: Schmutz-Aggrokakerlake
 0074: Muttshroom
-0074-E: Dusselpilz 
+0074-E: Köterpilz
 0075: Mecha-Turtle
 0075-E: Mecha-Schilkröte
 0076: Bro Team
@@ -251,7 +251,7 @@
 007C: Li'l Miss Marshmallow
 007C-E: Kleine Frau Marshmallow
 007D: Almost Mecha-Lion
-007D-E: Fast Mecha-Löwe
+007D-E: Beinahe Mecha-Löwe
 007E: Rhinocerocket
 007E-E: Rhinocerocket
 007F: Wound-Up Road Hog

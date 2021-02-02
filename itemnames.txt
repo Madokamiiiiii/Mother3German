@@ -356,7 +356,7 @@
 00B0: Dung
 00B0-E: Mist
 00B1: Dolphin Ossicle
-00B1-E: Delfinsgehörknochen
+00B1-E: Delfingehörknochen
 00B2: Spiky Weapon
 00B2-E: Stachelige Waffe
 00B3: Knit Sweater

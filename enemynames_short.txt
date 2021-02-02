@@ -4,7 +4,7 @@ Hr. Passion
 Oh-Ho-Schlange
 Lehmmensch
 Mecha-Drago
-Schweinetank
+Schweinepanzer
 Herr Genetor
 Maulwurfsgrille
 Gruseliger Schleim
@@ -114,7 +114,7 @@ Einswine
 Gottesanbeterin
 Antike Libelle
 Schmutz-Kakerlake
-Dusselpilz
+Köterpilz
 Mecha-Schildkröte
 Bro Team
 Batangutan
