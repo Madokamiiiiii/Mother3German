@@ -1031,9 +1031,9 @@ org $9C9B108; incbin ./graphics/gfx_battle_kp_pp.bin
 org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
 
 org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
-org $8D3CD4C; dd $9CFF3DC-$8D3B4E0
-org $9CFF3DC; incbin ./graphics/gfx_charge2_[c].bin
-org $8EEC604; incbin ./graphics/gfx_charge3_[c].bin
+org $8D3CD4C; dd $9DD9F70-$8D3B4E0
+org $9DD9F70; incbin ./graphics/gfx_charge2_[c].bin
+//org $8EEC604; incbin ./graphics/gfx_charge3_[c].bin
 org $8D3D928; dd $9F88410-$8D3B4E0
 org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
 

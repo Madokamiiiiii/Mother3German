@@ -33,6 +33,7 @@ CRC32: 42ac9cb9
 - Das englische Mother 3 Übersetzungsteam (Tools, Dokumentation)
 - JumpmanFR (technische Fragen, Fixes)
 - Lorenzooone (Menü Fixes)
+- BluesBro und Chat (Beta-Test)
 
 -----Verwendete Tools-----
 Mother 3 Translation Tools

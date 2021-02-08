@@ -190,9 +190,9 @@
 05E:Parrot
 05E-E:Papagei
 05F:Skinhead
-05F-E:Hautkopf
+05F-E:Glatzkopf
 060:Neckbeard
-060-E:Nackbart
+060-E:Nackenbart
 061:Guy
 061-E:Kerl
 062:Dr. Andonuts
@@ -228,7 +228,7 @@
 071:Baccio
 071-E:Baccio
 072:Magic
-072-E:Magie
+072-E:Magic
 073:Drago Pup
 073-E:Drago Welpe
 074:Ionia
@@ -304,7 +304,7 @@
 097:Arrow Lizard
 097-E:Pfeilechse
 098:O2 Machine
-098-E:O2-Maschine
+098-E:Sauerstoffküsser
 099:Explorer
 099-E:Entdecker
 09A:Man
@@ -386,7 +386,7 @@
 0C0:Kumatora
 0C0-E:Kumatora
 0C1:Magic
-0C1-E:Magie
+0C1-E:Magic
 0C2:Pork Bomb
 0C2-E:Schweinebombe
 0C3:Person 195

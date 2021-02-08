@@ -315,7 +315,7 @@
 09B:Resolve (Gum Guy's Recommend.)[END]
 09B-E:Lösen (Kaugummi-Kerls Empfehlung)[END]
 09C:Blessing (Skinhead's Recommend.)[END]
-09C-E:Segnend (Skinheads Empfehlung)[END]
+09C-E:Segnend (Glatzkopfs Empfehlung)[END]
 09D:Adolescence (Toilet Cow's Rec.)[END]
 09D-E:Jugend (Empfehlung der Toilettenkuh)[END]
 09E:Wasteful Anthem[END]

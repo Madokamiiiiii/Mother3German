@@ -49,7 +49,7 @@
 0017: Eerie Smile
 0017-E: Gruseliger Schleim
 0018: Lord Passion
-0018-E: Lustlord
+0018-E: Graf Passion
 0019: Tender Loving Tree
 0019-E: Liebevoller Baum
 001A: POKEY 03
@@ -211,7 +211,7 @@
 0068: Horsantula
 0068-E: Pfertantula
 0069: Pigtunia
-0069-E: Pigtunia
+0069-E: Schweitunie
 006A: Squawking Stick
 006A-E: Kreischender Stock
 006B: Putrid Moldyman
@@ -235,11 +235,11 @@
 0074: Muttshroom
 0074-E: Köterpilz
 0075: Mecha-Turtle
-0075-E: Mecha-Schilkröte
+0075-E: Mecha-Schildkröte
 0076: Bro Team
 0076-E: Bro Team
 0077: Batangutan
-0077-E: Batangutan
+0077-E: Fledergutan
 0078: Ostrelephant
 0078-E: Straußfant
 0079: Sky Titany
@@ -247,13 +247,13 @@
 007A: Monkalrus
 007A-E: Affenross
 007B: Parental Kangashark
-007B-E: Elterlicher Kangahai
+007B-E: Elterlicher Kängahai
 007C: Li'l Miss Marshmallow
 007C-E: Kleine Frau Marshmallow
 007D: Almost Mecha-Lion
 007D-E: Beinahe Mecha-Löwe
 007E: Rhinocerocket
-007E-E: Rhinocerocket
+007E-E: Rhinozerkete
 007F: Wound-Up Road Hog
 007F-E: Verkehrsrowdy
 0080: Metal Attack Roach
@@ -269,7 +269,7 @@
 0085: Eerie Smile
 0085-E: Gruseliger Schleim
 0086: Atomic Power Robot
-0086-E: Atomarer Powerroboter
+0086-E: Atomarer Roboter
 0087: Nuclear Reactor Robot
 0087-E: Nuklearer Roboter
 0088: Negative Man

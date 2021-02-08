@@ -182,7 +182,7 @@
 0059: Sagittarius Bracelet
 0059-E: Schütze-Armreif
 005A: DCMC Ring
-005A-E: DCMC-Ring
+005A-E: DCMC Ring
 005B: Awesome Ring
 005B-E: Fantastischer Ring
 005C: Favorite Food
