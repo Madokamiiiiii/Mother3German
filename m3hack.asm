@@ -1038,7 +1038,7 @@ org $8D3D928; dd $9F88410-$8D3B4E0
 org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
 
 // Unused
-org $8E3E9F4; incbin ./graphics/gfx_sheriffoffice1_[c].bin
+//org $8E3E9F4; incbin ./graphics/gfx_sheriffoffice1_[c].bin
 
 org $8DD5D60; incbin ./graphics/gfx_sheriffoffice2_[c].bin
 org $8D3C134; dd $9CFEFA8-$8D3B4E0

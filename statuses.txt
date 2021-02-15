@@ -11,7 +11,7 @@
 03:Sleep
 03-E:Schlaf
 04:Strange
-04-E:Seltsam
+04-E:Unwohl
 05:Crying
 05-E:Weinen
 06:Forgetful

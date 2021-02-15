@@ -249,7 +249,7 @@
 007B: Parental Kangashark
 007B-E: Elterlicher Kängahai
 007C: Li'l Miss Marshmallow
-007C-E: Kleine Frau Marshmallow
+007C-E: Fräulein Marshmallow
 007D: Almost Mecha-Lion
 007D-E: Beinahe Mecha-Löwe
 007E: Rhinocerocket
