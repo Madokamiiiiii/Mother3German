@@ -563,7 +563,7 @@
 0-248:@Some sort of incredible power seems to be[BREAK]  sleeping here.[END]
 0-248E:@Irgendwelche unglaublichen Kräfte scheinen[BREAK]  hier zu ruhen.[END]
 0-249:@I realize you haven't asked,[WAIT]  but my name is Dr. Andonuts.[WAIT]@I'm being forced to conduct various sorts of[BREAK]  research by a certain man.[WAIT]@Currently, though, I'm trying to conceal myself[BREAK]  for certain reasons.[END]
-0-249E:@Du hast zwar nicht gefragt,[WAIT]  aber ich heiße Dr. Andonuts.[WAIT]@Ich werde von einem gewissen Mann[BREAK]   gezwungen Forschung zu betreiben.[WAIT]@Zurzeit aber versuche ich mich aus[BREAK]  gewissen Gründen zu verstecken.[END]
+0-249E:@Du hast zwar nicht gefragt,[WAIT]  aber ich heiße Dr. Andonuts.[WAIT]@Ich werde von einem gewissen Mann[BREAK]  gezwungen Forschung zu betreiben.[WAIT]@Zurzeit aber versuche ich mich aus[BREAK]  gewissen Gründen zu verstecken.[END]
 0-250:@I'm a bit occupied at the moment.[WAIT]@Could you come back at a better time?[END]
 0-250E:@Ich bin gerade etwas beschäftigt.[WAIT]@Könntest du ein ander mal wiederkommen?[END]
 0-251:@No problem here.[WAIT][PAUSE 30 00]@No problem here.[WAIT]@...Just leave it at that, would you?[END]
@@ -1054,7 +1054,7 @@
 8-0:[ALTERNATEFONT]@this hole.[WAIT]  to cliff,[BREAK]  and fire mountain.[END]
 8-0E:[ALTERNATEFONT]@dieses loch.[WAIT]  zur klippe,[BREAK]  und feuerberg.[END]
 8-1:@This is Saturn Valley.[WAIT]@Don't make me explain any more than that.[WAIT]@I'm not even really sure what the deal with[BREAK]  this place is.[END]
-8-1E:@Dies ist das Mr. Saturn Tal.[WAIT]@Mehr will ich nicht erzählen.[WAIT]@Ich bin mir noch nicht mal sicher,[BREAK]  was es mit diesem Platz auf sich hat.[END]
+8-1E:@Dies ist das Mr. Saturn-Tal.[WAIT]@Mehr will ich nicht erzählen.[WAIT]@Ich bin mir noch nicht mal sicher,[BREAK]  was es mit diesem Ort auf sich hat.[END]
 8-2:@We've taken control of this nonsensical village.[WAIT]@The place is still nonsensical, but that doesn't[BREAK]  change the fact that we're great and almighty.[WAIT]@Boing![WAIT][PAUSE 1E 00]@Oops, I think this village has started to get to[BREAK]  me...[END]
 8-2E:@Wir haben die Kontrolle über dieses unsinnige[BREAK]  Dorf übernommen.[WAIT]@Der Ort ist immer noch unsinnig, aber das[BREAK]  ändert nicht die Tatsache, dass wir großartig[WAIT]  und allmächtig sind.[WAIT]@Boing![WAIT][PAUSE 1E 00]@Ups, ich glaube das Dorf steckt mich an...[END]
 8-3:@Whoa, whoa, whoa![WAIT]@Get outta here! Get![WAIT]@Get lost, kid![WAIT]@Scram![END]
@@ -1357,7 +1357,7 @@
 10-52E:@Der Grabstein lässt sich nicht bewegen.[END]
 // Repeats: 10-52, 222-52, 506-52
 10-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-10-53E:@Nur wahre Kenner wissen, dass das dies[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
+10-53E:@Nur wahre Kenner wissen, dass dies eine[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
 // Repeats: 10-53, 222-53, 506-53
 10-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
 10-54E:@Ein Bollerwagen.[WAIT]  Auch bekannt als Schubkarren.[END]
@@ -1391,7 +1391,7 @@
 11-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, ist es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 11-8:@This wall doesn't seem scalable...[END]
-11-8E:@Diese Wand scheint kletterbar zu sein...[END]
+11-8E:@Diese Wand scheint nicht bekletterbar zu[BREAK]  sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 11-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 11-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -3340,7 +3340,7 @@
 36-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 36-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-36-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+36-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 36-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 36-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -4060,7 +4060,7 @@
 42-39E:@[PAUSE 5A 00]...Warte.[WAIT]@Bleib noch kurz.[END]
 // Repeats: 42-39, 203-39, 263-39
 42-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-42-40E:@Etwas in [LUCAS 23 02 00] ist erwacht![EVENT][END]
+42-40E:@Etwas erwachte in [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 42-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
 42-41E:@[LUCAS 23 02 00] erlernt [25 FF F0 FF]![EVENT][END]
@@ -4094,19 +4094,19 @@
 43-0:@A boulder is blocking the way.[END]
 43-0E:@Ein Felsbrocken versperrt den Weg.[END]
 43-1:@[LUCAS 23 02 00] spoke the [ITEM B6 00][BREAK]  to the boulder![END]
-43-1E:@[LUCAS 23 02 00] spoke the [ITEM B6 00][BREAK]  to the boulder![END]
+43-1E:@[LUCAS 23 02 00] sprach dem Brocken[BREAK] die Ermutigenden Worte zu![END]
 43-2:@The boulder appears to feel better.[END]
 43-2E:@Der Felsbrocken scheint sich besser zu fühlen.[END]
 43-3:@A Vertiboulder.[END]
 43-3E:@Ein Vertibrocken.[END]
 43-4:@A Horizontiboulder.[END]
-43-4E:@Ein Horibrocken.[END]
+43-4E:@Ein Horizontibrocken.[END]
 43-5:@The boulder moved out of the way.[END]
 43-5E:@Der Felsbrocken ging aus dem Weg.[END]
 43-6:@The boulder won't budge at all.[END]
 43-6E:@Der Felsbrocken rührt sich kein bisschen.[END]
 43-7:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-43-7E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+43-7E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 43-8:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 43-8E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -4511,7 +4511,7 @@
 52-6:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@Those eyes of yours, lad...[WAIT]@They're the eyes of someone who's taken on[BREAK]  some sort of mission.[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 40 00]Very well.[PAUSE 20 00][WAIT]@I'll lend you a helping hand.[WAIT]@Achoo![END]
 52-6E:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@Deine Augen...[WAIT]@Das sind die Augen, von einem, der auf einer[BREAK]  Mission ist.[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 40 00]Na schön.[PAUSE 20 00][WAIT]@Ich werde dir zur Hand gehen.[WAIT]@Hatschi![END]
 52-7:@Behold![END]
-52-7E:@Siehe![END]
+52-7E:@So siehe da![END]
 52-8:@I've brought several of the Chimeras I've been[BREAK]  developing in secret.[WAIT]@Take whichever one you think will be the most[BREAK]  useful to you.[END]
 52-8E:@Ich habe einige meiner Chimära mitgebracht,[BREAK]  die ich im Geheimen entwickelt habe.[WAIT]@Nimm denjenigen, von dem du denkst, dass er[BREAK]  dir am meisen hilft.[END]
 52-9:@Take any Chimera you want.[END]
@@ -4523,7 +4523,7 @@
 52-12:@Those are the Bucket Brothers.[WAIT]@They're the result of combining cutting-edge[BREAK]  dough technology with Clayman technology![WAIT]@These fellows are exceptionally hard workers![END]
 52-12E:@Das sind die Eimer Brüder.[WAIT]@Sie sind das Ergebnis der Kombinierung einer[BREAK]  rasierklingen-scharfen Teig-Technologie mit[WAIT]  der Lehmmensch-Technologie![WAIT]@Diese Gefährten sind außerordentliche fleißige[BREAK]  Arbeiter![END]
 52-13:@Are you certain this is what you want?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-52-13E:@Bist du sicher, dass du das haben willst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+52-13E:@Bist du sicher, dass du den haben willst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 52-14:@You're certain you want something as[BREAK]  uninteresting as this?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 52-14E:@Bist du sicher, dass du so etwas[BREAK]  uninteressantes wie das hier haben willst?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 52-15:@Young lad.[WAIT]@I'm reminded of my son's friend when I look at[BREAK]  you.[WAIT]@I'm not sure if we'll ever meet again, but I'll[BREAK]  always be rooting for you folks.[END]
@@ -4533,7 +4533,7 @@
 52-17:@This fence has been torn apart, almost like[BREAK]  scrap paper![END]
 52-17E:@Dieser Zaun ist auseinandergerissen worden,[BREAK]  fast wie Altpapier![END]
 52-18:@Oh-ho![WAIT]@You again?![WAIT]@I'll keep on makin' ya hurt, as often as it[BREAK]  takes!![END]
-52-18E:@Oh-ho![WAIT]@Du schon wieder?![WAIT]@I'll keep on makin' ya hurt, as often as it[BREAK]  takes!![END]
+52-18E:@Oh-ho![WAIT]@Du schon wieder?![WAIT]@Ich tue dir so lange weh, bis du genug hast![END]
 52-19:@Squeeak![WAIT]@I- I- I'm sorry![WAIT]@I- I- I'll give you a hint, just please don't hurt[BREAK]  me![END]
 52-19E:@Quiiiiietsch![WAIT]@E- E- Es tut mir leid![WAIT]@I- I- Ich werde dir einen Hinweis geben, aber[BREAK]  bitte tu mir nicht weh![END]
 52-20:@The Chimera Laboratory?[WAIT]@Squeak![WAIT]@That's this building right here.[WAIT]@It's probably a good idea to go there and ask[BREAK]  around.[WAIT]@Yes.[WAIT]@I hear they're doing all sorts of bad[BREAK]  experiments inside.[END]
@@ -4556,7 +4556,7 @@
 53-2E:@Kommandant![WAIT]@Die Nadel scheint sich hinter einer eigenartigen[BREAK]  Tür im Murasaki Wald zu sein![WAIT]@Einer der Affen im Chimära Labor ist der[BREAK]  Schlüssel für sie...[WAIT]  ...aber er ist aus seinem Käfig ausgebrochen[BREAK]  und rennt jetzt wie von der Tarantel[WAIT]  gestochen im Gebäude rum![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Entschuldigen Sie. Es ist kalt draußen.[WAIT]@Egal, bitte senden Sie Verstärkung...[WAIT]@Ahh!! Hey, du da![WAIT]@Das ist der Schlüssel um--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *klick* *piep-piep-piep*[END]
 // Repeats: 53-2, 54-2
 53-3:@Squeak SQUEAK![WAIT]  (Whoa, whoa, whoa! Hold it right there![WAIT]  Just where do you think YOU'RE goin'?!)[END]
-53-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
+53-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn, wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 53-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
 53-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als[BREAK]  hippster Kater bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
@@ -4588,7 +4588,7 @@
 54-2E:@Kommandant![WAIT]@Die Nadel scheint sich hinter einer eigenartigen[BREAK]  Tür im Murasaki Wald zu sein![WAIT]@Einer der Affen im Chimära Labor ist der[BREAK]  Schlüssel für sie...[WAIT]  ...aber er ist aus seinem Käfig ausgebrochen[BREAK]  und rennt jetzt wie von der Tarantel[WAIT]  gestochen im Gebäude rum![WAIT]@Ukkii![WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Entschuldigen Sie. Es ist kalt draußen.[WAIT]@Egal, bitte senden Sie Verstärkung...[WAIT]@Ahh!! Hey, du da![WAIT]@Das ist der Schlüssel um--![WAIT]@*krssssssshhhh*[PAUSE 20 00] *boop*[PAUSE 10 00] *boop*[PAUSE 10 00] *boop*[PAUSE 20 00][BREAK]  *klick* *piep-piep-piep*[END]
 // Repeats: 53-2, 54-2
 54-3:@Squeak SQUEAK![WAIT]  (Whoa, whoa, whoa! Hold it right there![WAIT]  Just where the hell do you think YOU'RE[BREAK]  goin'?!)[END]
-54-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn wo DU hingehst?!)[END]
+54-3E:@Quietsch QUIETSCH![WAIT]  (Langsam! Bleib sofort stehen![WAIT]  Was denkst du denn, wo DU hingehst?!)[END]
 // Repeats: 53-3, 54-3
 54-4:@Squeak squeak squeak squeak.[WAIT]  (I humbly apologize for my rude, egotistical[BREAK]  attitude, despite being so weak.[WAIT]  Back on the highway, I was known as the[BREAK]  hippest cat around,[WAIT]  but now I'm just a pathetic excuse of a[BREAK]  mouse.[WAIT]  All the girls dug me, but I'm definitely no[BREAK]  fighter.[WAIT]  But you helped me remember who I really am.[WAIT]  I wonder if my wife and seven kids I left on[BREAK]  the highway are doing okay.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Whoa, I'm suddenly feelin' homesick now![WAIT]  I'm goin' back.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Yeah, I'm goin' back.[WAIT][PAUSE 20 00]  Anyway, dude! I'm headin' back home now,[WAIT]  but watch out for them mole crickets if you[BREAK]  keep goin' east.[WAIT]  Again, so sorry!)[END]
 54-4E:@Quietsch quietsch quietsch quietsch.[WAIT]  (Ich möchte mich aufrichtig für meine gemeine,[BREAK]  egoistische Haltung entschuldigen.[WAIT]  Damals auf der Fernstraße war ich als[BREAK]  hippster Kater bekannt,[WAIT]  aber jetzt bin ich einfach nur noch erbärmlich.[WAIT]  Alle Mädchen fahren auf mich ab, aber ich bin[BREAK]  definitiv kein Kämpfer.[WAIT]  Aber du hast mir geholfen mich daran zu[BREAK]  erinnern, wer ich wirklich bin.[WAIT]  Ich frage mich, ob es meiner Frau und meinen[BREAK]  sieben Kindern auf der Fernstraße gut geht.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT][PAUSE 30 00]  Ich habe auf einmal Heimweh bekommen![WAIT]  Ich werde zurückgehen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00] Jo, ich werde[BREAK]  zurückgehen.[WAIT][PAUSE 20 00]  Also, Bub! Ich gehe dann mal nach Hause.[WAIT]  Oh, und pass auf die Maulwurfsgrillen auf,[BREAK]  wenn du weiter nach Osten gehst.[WAIT]  Entschuldigung, nochmal!)[END]
@@ -5144,7 +5144,7 @@
 79-0:@Ionia told me you would come here. [HEART][END]
 79-0E:@Ionia hat mir erzählt, dass du hierher[BREAK]  kommst. [HEART][END]
 79-1:@The Needle I'm guarding is at the bottom of[BREAK]  this pond. [HEART][WAIT]@My Needle is much more of a pain to pull out.[WAIT]  *giggle*[END]
-79-1E:@Die Nadel, die ich bewache, ist am Grund[BREAK]  dieses Teichs. [HEART][WAIT]@Meine Nadel benötigt einiges an Arbeit, bevor[BREAK]  man ihn herausziehen kann.[WAIT]  *kicher*[END]
+79-1E:@Die Nadel, die ich bewache, ist am Grund[BREAK]  dieses Teichs. [HEART][WAIT]@Meine Nadel benötigt einiges an Arbeit, bevor[BREAK]  man sie herausziehen kann.[WAIT]  *kicher*[END]
 79-2:@It's hard to believe you really have the power[BREAK]  to pull the Needles.[WAIT]@But before you can even try,[WAIT]  we need to move the water from this pond[BREAK]  into that empty hole first.[END]
 79-2E:@Schwer zu glauben, dass du wirklich die Kraft[BREAK]  hast, die Nadeln zu ziehen.[WAIT]@Aber bevor du das überhaupt ausprobieren[BREAK]  kannst,[WAIT]  müssen wir das Wasser von dem Teich in das[BREAK]  andere, leere Loch bringen.[END]
 79-3:@You know that Chimera Laboratory to the[BREAK]  west of here?[WAIT]@There might be some junk there that could[BREAK]  help us move the pond water.[WAIT]@Why not look for something there? [HEART][END]
@@ -5164,7 +5164,7 @@
 79-10:@Very little was accomplished![END]
 79-10E:@Das war nicht wirklich von Erfolg geprägt...[END]
 79-11:@You sent your choice back.[END]
-79-11E:@Du hast deine Auswahl zurückgesendet.[END]
+79-11E:@Du hast deine Auswahl zurückgeschickt.[END]
 79-12:@Today must not be your lucky day.[WAIT]@That's too bad...[END]
 79-12E:@Heute ist wohl nicht dein Glückstag.[END]
 79-13:@Ooh! Look! [HEART][WAIT]@They're trying so hard! [HEART][END]
@@ -5275,13 +5275,13 @@
 80-35:@You must be cold.[WAIT]@Come inside and warm up. [HEART][END]
 80-35E:@Dir muss kalt sein.[WAIT]@Komm rein und wärm dich auf. [HEART][END]
 80-36:@That masked man...[WAIT]  Could he be the one pulling the Needles?![END]
-80-36E:@Dieser maskierte Mann...[WAIT]  Könnte er derjenige sein, der die Nadeln zieht?![END]
+80-36E:@Dieser Maskierte Mann...[WAIT]  Könnte er derjenige sein, der die Nadeln zieht?![END]
 80-37:@Is Lydia alright...?[END]
-80-37E:@Geht's Lydia gut...?[END]
+80-37E:@Ob's Lydia gut geht...?[END]
 80-38:@Woof![BREAK]  ([LUCAS 23 02 00].[WAIT]  Do you think Lydia's all right?)[END]
 80-38E:@Wuff![BREAK]  ([LUCAS 23 02 00].[WAIT]  Glaubst du, Lydia geht es gut?)[END]
 80-39:@[LUCAS 23 02 00].[WAIT]@Someone other than you has pulled the Needle.[WAIT]@Whatever is inside that person's heart has[BREAK]  been passed on to the Dark Dragon...[WAIT]@You MUST pull the rest of the remaining[BREAK]  Needles from here on out...[END]
-80-39E:@[LUCAS 23 02 00].[WAIT]@Jemand anderes hat die Nadel gezogen.[WAIT]@Was auch immer im Herz derjenigen Person[BREAK]  ist, ist auf den Schwarzen Drachen[WAIT]  übertragen worden...[WAIT]@Du MUSST auf jeden Preis die übrigen Nadeln[BREAK]  ziehen...[END]
+80-39E:@[LUCAS 23 02 00].[WAIT]@Jemand anderes hat die Nadel gezogen.[WAIT]@Was auch immer im Herz derjenigen Person[BREAK]  ist, ist auf den Schwarzen Drachen[WAIT]  übertragen worden...[WAIT]@Du MUSST um jeden Preis die übrigen Nadeln[BREAK]  ziehen...[END]
 80-40:@Before I disappear, take this memento of me.[WAIT]@Take good care of it. [HEART][END]
 80-40E:@Bevor ich verschwinde, nimm bitte dieses[BREAK]  Memento von mir.[WAIT]@Pass gut darauf auf. [HEART][END]
 80-41:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
@@ -5299,7 +5299,7 @@
 80-46:@[LUCAS 23 02 00].[EVENT][END]
 80-46E:@[LUCAS 23 02 00].[EVENT][END]
 80-47:@This is it. "The time" has come.[WAIT]@Believe in that, and keep pushing forward.[WAIT]@This is where I say farewell.[END]
-80-47E:@Es ist soweit. "Die Zeit" ist gekommen.[WAIT]@Glaube daran, und schreite voran.[WAIT]@Es ist Zeit für mich, Abschied zu nehmen.[END]
+80-47E:@Es ist soweit. "Die Zeit" ist gekommen.[WAIT]@Glaube, und schreite voran.[WAIT]@Es ist Zeit für mich, Abschied zu nehmen.[END]
 80-48:@Byebee! [HEART][WAIT]@Send hugs and kisses to the next Magypsy for[BREAK]  meeee! [HEART][END]
 80-48E:@Tschüssssi! [HEART][WAIT]@Grüße den nächsten Magypsy mit[BREAK]  Umarmungen und Küssen von mir! [HEART][END]
 80-49:@Where are you going? Don't ditch Lydia![END]
@@ -5787,7 +5787,7 @@
 93-2:@Hey, you hear about Mr. Fassad?[WAIT]@Apparently, he's undergone a HUGE makeover[BREAK]  to change his image.[END]
 93-2E:@Hey, hast du von Hr. Fassad gehört?[WAIT]@Anscheinend hat er sich einer RIESIGEN[BREAK]  Veränderung unterzogen, um sein Image[WAIT]  zu ändern.[END]
 93-3:@Yeah, I heard about that![WAIT]@Apparently, he's made some pretty hardcore[BREAK]  changes to himself sound-wise.[WAIT][PAUSE 10 00]@Sounds like we better find that Needle fast[WAIT]  before he starts yelling at us even louder than[BREAK]  before.[WAIT]@And this time[PAUSE 20 00], he's got horns, no less.[END]
-93-3E:@Yeah, Ich habe darüber gehört![WAIT]@Anscheinend hat er sich ein paar ziemlich[BREAK]  extremen Änderungen unterzogen.[WAIT][PAUSE 10 00]@Wir sollten besser schnell diese Nadel finden,[WAIT]  bevor er anfängt uns noch lauter anzuschreien[BREAK]  als zuvor.[WAIT]@Und dieses Mal[PAUSE 20 00] hat er Hörner.[END]
+93-3E:@Stimmt, ich habe davon gehört![WAIT]@Anscheinend hat er sich ein paar ziemlich[BREAK]  extremen Änderungen unterzogen.[WAIT][PAUSE 10 00]@Wir sollten besser schnell diese Nadel finden,[WAIT]  bevor er anfängt uns noch lauter anzuschreien[BREAK]  als zuvor.[WAIT]@Und dieses Mal[PAUSE 20 00] hat er Hörner.[END]
 93-4:@Horns?[PAUSE 30 00] You gotta be kidding me![END]
 93-4E:@Hörner?[PAUSE 30 00] Du willst mich wohl auf den Arm[BREAK]  nehmen![END]
 93-5:[END]
@@ -5925,7 +5925,7 @@
 96-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 96-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-96-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+96-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 96-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 96-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -7135,7 +7135,7 @@
 136-3:@Whoa! Awesome![WAIT]@You guys really did show up![END]
 136-3E:@Whoa! Hammergeil![WAIT]@Ihr seid ja wirklich gekommen![END]
 136-4:@Oh! You're here too, [SALSA 23 06 00]?![WAIT]@It's great to see you again![WAIT]@I didn't know you were alive![END]
-136-4E:@Oh! Du bist auch da, [SALSA 23 06 00]?![WAIT]@Schön dich wieder zu sehen![WAIT]@Ich dacht', du wärst tot![END]
+136-4E:@Oh! Du bist auch da, [SALSA 23 06 00]?![WAIT]@Schön dich wieder zu seh'n![WAIT]@Ich dacht', du wärst tot![END]
 136-5:@Oh![WAIT]@And how've you been, Love Monkey?[END]
 136-5E:@Oh![WAIT]@Und wie geht's dir, Liebesaffe?[END]
 136-6:@Hello![END]
@@ -7182,7 +7182,7 @@
 137-7:@And then there's him.[WAIT]  He still hasn't regained his strength yet...[END]
 137-7E:@Und dann gibt es noch ihn.[WAIT]  Er hat noch immer keine Kraft...[END]
 137-8:@I hope everything works out for the best when[BREAK]  "the time" comes.[WAIT]@We aren't permitted to interfere, and it's[BREAK]  wrong of me to worry so much about it.[WAIT][PAUSE 1E 00]@I'm a mess, a horrible Magypsy. I never[BREAK]  believed "the time" would come! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Pull the Needle.[WAIT]@Because it's time. [HEART][END]
-137-8E:@Ich hoffe, dass alles bestens verläuft, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Uns ist es nicht erlaubt einzugreifen, und es[BREAK]  ist falsch, dass ich mir so viele Sorgen mache.[WAIT][PAUSE 1E 00]@Ich bin eine Sauerei für eine Magypsy.[WAIT]  Ich habe nie geglaubt, dass die "die Zeit"[BREAK]  jemals kommen würde! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Zieh die Nadel.[WAIT]@Denn es ist Zeit. [HEART][END]
+137-8E:@Ich hoffe, dass alles bestens verläuft, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Uns ist es nicht erlaubt einzugreifen, und es[BREAK]  ist falsch, dass ich mir so viele Sorgen mache.[WAIT][PAUSE 1E 00]@Ich bin eine Sauerei für eine Magypsy.[WAIT]  Ich habe nie geglaubt, dass "die Zeit"[BREAK]  jemals kommen würde! [HEART][WAIT][PAUSE 0F 00]@[LUCAS 23 02 00]. Zieh die Nadel.[WAIT]@Denn es ist Zeit. [HEART][END]
 137-9:@Now, then. Have faith that "the time" has[BREAK]  come, and go pull the Needle.[WAIT]@I've unlocked the door for you. [HEART][END]
 137-9E:@Also dann. Hab Mut und zieh die Nadel.[WAIT]@Ich habe die Tür für dich geöffnet. [HEART][END]
 137-10:@O.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]oink.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@*mumble* *mutter*... *snore*[END]
@@ -7224,9 +7224,9 @@
 138-3:[ALTERNATEFONT]@give thanks at you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 138-3E:[ALTERNATEFONT]@geben danke dir?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 138-4:[ALTERNATEFONT]@give this at you.[BREAK]  bow tie.[END]
-138-4E:@[ALTERNATEFONT]@geben das dir.[BREAK]  fliege. 138-4[END]
+138-4E:[ALTERNATEFONT]@geben das dir.[BREAK]  fliege.[END]
 138-5:@You received a [ITEM A9 00], not a bow tie![END]
-138-5E:@Du hast ein [ITEM A9 00] erhalten,[BREAK]  keine Fliege![END]
+138-5E:@Du hast eine [ITEM A9 00] erhalten,[BREAK]  keine Fliege![END]
 138-6:@You received a [ITEM A8 00], not a raw egg![END]
 138-6E:@Du hast ein [ITEM A8 00] erhalten,[BREAK]  kein rohes Ei![END]
 138-7:[ALTERNATEFONT]@say no to me,[BREAK]  give raw egg at you.[END]
@@ -7253,7 +7253,7 @@
 139-0:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-0E:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-1:@It's making horrible chalkboard-scratching[BREAK]  sounds while trying to tell scary stories.[END]
-139-1E:@Es macht schreckliche kreideknirschenden[BREAK]  Geräusche, während es versucht, gruselige[WAIT]  Geschichte zu erzählen.[END]
+139-1E:@Es macht schreckliche tafelkratzende[BREAK]  Geräusche, während es versucht, gruselige[WAIT]  Geschichten zu erzählen.[END]
 139-2:@Where is the Needle?![BREAK]  Where in Saturn Valley is it?![END]
 139-2E:@Wo ist die Nadel?![BREAK]  Wo im Saturntal ist es?![END]
 139-3:[ALTERNATEFONT]@do not know.[END]
@@ -7283,7 +7283,7 @@
 139-15:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Thank goodness you're all right![END]
 139-15E:@[LUCAS 26 04 00 03 00]!![WAIT]@[KUMATORA 26 0C 00 03 00]!![WAIT]@[BONEY 26 09 00 03 00]!![WAIT]@Gott sei Dank, geht es euch gut![END]
 139-16:@The kind people of this valley rescued me,[WAIT]  but those other guys captured us all.[WAIT]@But don't worry. The Egg of Light is safe.[END]
-139-16E:@Die netten Leute dieses Dorfs haben mich[BREAK]  gerettet,[WAIT]  aber diese anderen Kerle haben uns alle[BREAK]  gefangen genommen.[WAIT]@Aber keine Sorge. Das Kolibri-Ei ist sicher.[END]
+139-16E:@Die netten Leute dieses Dorfs haben mich[BREAK]  gerettet,[WAIT]  aber diese anderen Kerle haben uns alle[BREAK]  gefangen genommen.[WAIT]@Doch keine Sorge. Das Kolibri-Ei ist sicher.[END]
 139-17:@Geez...[BREAK]  Is this lucky or unlucky? I can't tell.[END]
 139-17E:@Mann...[BREAK]  Ist das Glück oder Unglück? Ich weiß nicht.[END]
 139-18:@You're all lucky.[WAIT]@That's the only way I can see it...[END]
@@ -7322,7 +7322,7 @@
 139-34:[ALTERNATEFONT]@boing.[WAIT]  can go.[END]
 139-34E:[ALTERNATEFONT]@boing.[WAIT]  kœnnen gehen.[END]
 139-35:@"That way" means that way.[WAIT]@I can tell by their eyes.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]North![WAIT]@They're saying to go toward the volcano to[BREAK]  the north.[END]
-139-35E:@"Diesen Weg" bedeutet dieser Weg.[WAIT]@Ich weiß das durch ihre Augen.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Norden![WAIT]@Sie sagen zum Vulkan im Norden zu gehen.[END]
+139-35E:@"Diesen Weg" bedeutet dortlang.[WAIT]@Das weiß ich durch ihre Augen.[WAIT]@[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00]Norden![WAIT]@Sie sagen, zum Vulkan im Norden zu gehen.[END]
 139-36:[ALTERNATEFONT]@have map.[BREAK]  give at you.[END]
 139-36E:[ALTERNATEFONT]@haben karte.[BREAK]  geben dir.[END]
 139-37:[ALTERNATEFONT]@we are fulgrate.[END]
@@ -8079,9 +8079,9 @@
 175-0:@Ooh, just look at him swagger away so[BREAK]  confidently! [HEART][WAIT]@He leaves the stage with such a calm air[BREAK]  about him![WAIT]@A natural if I ever saw one![BREAK]  What a casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Mr. Pump! [HEART][END]
 175-0E:@Ooh, sieh nur wie er voller Zuversicht prahlt! [HEART][WAIT]@Er verlässt die Bühne mit so einem chilligen[BREAK]  Gesichtsausdruck![WAIT]@Ein Naturtalent wie er im Buche steht![BREAK]  Was für ein Casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Herr Pumpe! [HEART][END]
 175-1:@There it is! [HEART][WAIT]@That's the Needle! [HEART][WAIT]@One of the seven Needles sealing the Dragon[BREAK]  away![END]
-175-1E:@Da ist es! [HEART][WAIT]@Da ist die Nadel! [HEART][WAIT]@Eine der sieben Nadeln, die den Drachen[BREAK]  versiegeln![END]
+175-1E:@Da ist sie! [HEART][WAIT]@Da ist die Nadel! [HEART][WAIT]@Eine der sieben Nadeln, die den Drachen[BREAK]  versiegeln![END]
 175-2:@What's gonna happen when you pull it?[WAIT]@I dunno yet, either.[END]
-175-2E:@Was wohl passieren wird, wenn du ihn[BREAK]  rausziehst?[WAIT]@Ich weiß es auch noch nicht.[END]
+175-2E:@Was wohl passieren wird, wenn du sie[BREAK]  rausziehst?[WAIT]@Ich weiß es auch noch nicht.[END]
 175-3:@What's...[END]
 175-3E:@Was wird...[END]
 175-4:@What's gonna happen to us?[END]
@@ -8091,16 +8091,16 @@
 175-6:@Can you really pull this Needle, like Ionia said...?[WAIT]@I'm not sure if I should be afraid or happy...[WAIT]  A rush of emotions is overcoming me! I can't[BREAK]  believe I'm here, witnessing this moment![WAIT]@*thump*[PAUSE 1E 00] *thump*[PAUSE 1E 00][BREAK]  And another *thump*. [HEART][PAUSE 1E 00][END]
 175-6E:@Kannst du wirklich die Nadel ziehen, wie Ionia[BREAK]  sagte...?[WAIT]@Ich bin mir nicht sicher, ob ich Angst haben[BREAK]  oder froh sein sollte...[WAIT]  Ein Emotionsrausch überkommt mich! Ich kann[BREAK]  nicht glauben, dass ich hier bin, und Zeuge[WAIT]  dieses Moments sein kann![WAIT]@*klopf*[PAUSE 1E 00] *klopf*[PAUSE 1E 00][BREAK]  Und noch einmal *klopf*. [HEART][PAUSE 1E 00][END]
 175-7:@Okay! Now pull it! [HEART][WAIT]@With all your might! [HEART][WAIT]@Right before my very eyes! [HEART][END]
-175-7E:@Okay! Jetzt zieh es raus! [HEART][WAIT]@Mit all deiner Kraft! [HEART][WAIT]@Vor meinen Augen! [HEART][END]
+175-7E:@Okay! Jetzt zieh sie raus! [HEART][WAIT]@Mit all deiner Kraft! [HEART][WAIT]@Vor meinen Augen! [HEART][END]
 175-8:@If this Needle gets pulled, will you disappear[BREAK]  like Aeolia did?[END]
 175-8E:@Wenn diese Nadel gezogen wird, wirste dann[BREAK]  wie Aeolia verschwinden?[END]
 175-9:@Yes, that's right. [HEART][WAIT]@Because the Needle won't need my protection[BREAK]  anymore...[WAIT]@The Needle can only be pulled when "the time"[BREAK]  comes.[WAIT]@So when the Needle finally IS pulled, "the time"[BREAK]  has come.[WAIT]@We Magypsies have lived our lives so that we[BREAK]  can happily accept that fate when it comes.[WAIT]@So don't worry. I'm not going to die. [HEART][WAIT]@I'm simply going to follow fate and disappear.[WAIT]@So it will be a happy thing.[PAUSE 1E 00][WAIT]@I do have many fond memories, though,[PAUSE 1E 00] so it[BREAK]  will be a little sad, too. *giggle*[END]
-175-9E:@Ja, richtig. [HEART][WAIT]@Weil die Nadel meinen Schutz nicht mehr[BREAK]  braucht...[WAIT]@Die Nadel kann nur gezogen werden, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Also wenn die Nadel endlich gezogen IST, ist[BREAK]  "die Zeit" gekommen.[WAIT]@Wir Magypsies haben unsere Leben so gelebt,[BREAK]  dass wir freien Mutes dieses Schicksal[BREAK]  akzeptieren können, wenn es kommt.[WAIT]@Also keine Sorge. Ich werde nicht sterben. [HEART][WAIT]@Ich werde einfach meinem Schicksal folgen[BREAK]  und verschwinden.[WAIT]@Also ist dies eine glückliche Sache.[PAUSE 1E 00][WAIT]@Ich habe viele liebgewonnene Erinnerungen,[BREAK]  [PAUSE 1E 00]also ist es auch etwas traurig. *kicher*[END]
+175-9E:@Ja, richtig. [HEART][WAIT]@Weil die Nadel meinen Schutz nicht mehr[BREAK]  braucht...[WAIT]@Die Nadel kann nur gezogen werden, wenn[BREAK]  "die Zeit" kommt.[WAIT]@Also wenn die Nadel endlich gezogen IST, ist[BREAK]  "die Zeit" gekommen.[WAIT]@Wir Magypsies haben unsere Leben so gelebt,[WAIT]  dass wir freien Mutes dieses Schicksal[BREAK]  akzeptieren können, wenn es kommt.[WAIT]@Also keine Sorge. Ich werde nicht sterben. [HEART][WAIT]@Ich werde einfach meinem Schicksal folgen[BREAK]  und verschwinden.[WAIT]@Also ist dies eine glückliche Sache.[PAUSE 1E 00][WAIT]@Ich habe viele liebgewonnene Erinnerungen,[BREAK]  [PAUSE 1E 00]also ist es auch etwas traurig. *kicher*[END]
 175-10:@Pull the Needle?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 175-10E:@Die Nadel herausziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 100-10, 175-10, 186-14
 175-11:@Now pull it! [HEART][WAIT]@Pull it right out! [HEART][WAIT]@Come on, now! [HEART][WAIT]@Do it!! [HEART][END]
-175-11E:@Zieh! [HEART][WAIT]@Zieh es raus! [HEART][WAIT]@Jetzt komm schon! [HEART][WAIT]@Mach es!! [HEART][END]
+175-11E:@Zieh! [HEART][WAIT]@Zieh sie raus! [HEART][WAIT]@Jetzt komm schon! [HEART][WAIT]@Mach es!! [HEART][END]
 175-12:@This really is...[PAUSE 20 00] the beginning of the end.[WAIT]@"The time" has finally come...[PAUSE 18 00] Eeee! [HEART][END]
 175-12E:@Dies ist wirklich...[PAUSE 20 00] der Anfang vom Ende.[WAIT]@"Die Zeit" ist endlich gekommen...[PAUSE 18 00] Eeee! [HEART][END]
 175-13:@I never once imagined someone would show up[BREAK]  at this tender girl's home to pull the Needle. [HEART][END]
@@ -8120,7 +8120,7 @@
 175-19E:@Oh, warte. Ich hätte fast etwas sehr[BREAK]  Wichtiges vergessen.[WAIT]@Könntest du das hier Ionia geben? [HEART][END]
 // Repeats: 98-9, 175-19
 175-20:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-175-20E:@Übergib es, und Ionia wird wissen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
+175-20E:@Übergib das hier, und Ionia wird wissen, dass[BREAK]  bisher fünf der Nadeln gezogen wurden. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 175-21:@I leave the rest in your hands now. [HEART][END]
 175-21E:@Den Rest überlasse ich jetzt dir. [HEART][END]
@@ -8138,13 +8138,13 @@
 175-27E:@[KUMATORA 23 04 00] trat deinem Team bei![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 175-28:@[SALSA 23 06 00].[BREAK]@We just met again after all this time,[WAIT]  but it looks like this is goodbye again.[END]
-175-28E:@[SALSA 23 06 00].[BREAK]@Wir hab'n uns nach so einer langen Zeit erst[BREAK]  wieder getroffen, aber es ist wohl schon[WAIT]  wieder Zeit Abschied zu nehm'n.[END]
+175-28E:@[SALSA 23 06 00].[WAIT]@Wir hab'n uns nach so einer langen Zeit erst[BREAK]  wieder getroffen, aber es ist wohl schon[WAIT]  wieder Zeit Abschied zu nehm'n.[END]
 175-29:@You and Love Monkey take care, now.[END]
 175-29E:@Du und Liebesaffe. Passt auf euch auf.[END]
 175-30:@What's with that look?[WAIT]@You're such a sentimental monkey...[END]
-175-30E:@Was schauste denn so?[WAIT]@Du bist solch 'n sentimentaler Affe...[END]
+175-30E:@Was schauste denn so?[WAIT]@Was für 'n sentimentaler Affe...[END]
 175-31:@Let's go![WAIT]@Let's get to that next Needle![END]
-175-31E:@Los geht's![WAIT]@Auf zur nächsten Nadel![END]
+175-31E:@Auf geht's![WAIT]@Auf zur nächsten Nadel![END]
 175-32:@Huh?[WAIT]@What is it?[PAUSE 40 00][EVENT][END]
 175-32E:@Häh?[WAIT]@Was ist das?[PAUSE 40 00][EVENT][END]
 175-33:@A [ITEM 5D 00].[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 50 00][BREAK]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]For me?[END]
@@ -8168,7 +8168,7 @@
 
 [Container 177]
 177-0:@Ooooh![BREAK]@Look! Look![WAIT]@Just look at him go![WAIT]@It's enough to give me chills![END]
-177-0E:@Ooooh![BREAK]@Schau! Schau![WAIT]@Schau, wie's läuft![WAIT]@Da läuft es mir kalt den Rücken runter![END]
+177-0E:@Ooooh![BREAK]@Schau! Schau![WAIT]@Schau, wie es läuft![WAIT]@Da läuft es mir kalt den Rücken runter![END]
 177-1:[END]
 177-1E:[END]
 
@@ -8258,7 +8258,7 @@
 180-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 180-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+180-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 180-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 180-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -8273,10 +8273,10 @@
 180-32E:@Da sind viele Postkarten drin.[WAIT]@Sie lesen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 180-32, 878-28
 180-33:@The boy named [LUCAS 23 02 00] is crying at a[BREAK]  grave.[WAIT]@The boy named [LUCAS 23 02 00] and his dog are[BREAK]  loitering in the forest.[WAIT]@The boy named [LUCAS 23 02 00] is getting into[BREAK]  trouble in the mountains.[WAIT]@The boy named [LUCAS 23 02 00] stole [ITEM 5D 00]s[BREAK]  from our garden.[WAIT]@The boy named [LUCAS 23 02 00] is bullying[BREAK]  animals.[WAIT]@The boy named [LUCAS 23 02 00] learned some[BREAK]  bad magic.[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] ......[WAIT]@The boy named [LUCAS 23 02 00] .........[PAUSE 20 00][WAIT]@The mailbox let out a tremendous scream.[END]
-180-33E:@Der Junge namens [LUCAS 23 02 00] weint an[BREAK]  einem Grab.[WAIT]@Der Junge namens [LUCAS 23 02 00] und sein[BREAK]  Hund lungern im Wald herum.[WAIT]@Der Junge namens [LUCAS 23 02 00] stößt in den[BREAK]  Bergen auf Ärger.[WAIT]@Der Junge namens [LUCAS 23 02 00] stahl Nüsse[BREAK]  aus unserem Garten.[WAIT]@Der Junge namens [LUCAS 23 02 00] mobbt Tiere.[WAIT]@Der Junge namens [LUCAS 23 02 00] lernte[BREAK]  schwarze Magie.[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] .........[PAUSE 20 00][WAIT]@Der Briefkasten macht einen fürchterlichen[BREAK]  Schrei.[END]
+180-33E:@Der Junge namens [LUCAS 23 02 00] weint an[BREAK]  einem Grab.[WAIT]@Der Junge namens [LUCAS 23 02 00] und sein[BREAK]  Hund lungern im Wald herum.[WAIT]@Der Junge namens [LUCAS 23 02 00] stößt in den[BREAK]  Bergen auf Ärger.[WAIT]@Der Junge namens [LUCAS 23 02 00] stahl Nüsse[BREAK]  aus unserem Garten.[WAIT]@Der Junge namens [LUCAS 23 02 00] mobbt Tiere.[WAIT]@Der Junge namens [LUCAS 23 02 00] lernte[BREAK]  schwarze Magie.[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] ......[WAIT]@Der Junge namens [LUCAS 23 02 00] .........[PAUSE 20 00][WAIT]@Der Briefkasten schrie fürchterlich auf.[END]
 // item = Nut
 180-34:@Someone looked back at you from inside the[BREAK]  mailbox![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Or so it seemed, but it must've been your[BREAK]  imagination.[END]
-180-34E:@Jemand sah dich aus dem Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber es muss[BREAK]  eine Einbildung gewesen sein.[END]
+180-34E:@Jemand schaute dich vom Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber das musst[BREAK]  du dir eingebildet haben.[END]
 180-35:@Inside the mailbox were countless screams.[END]
 180-35E:@Im Briefkasten waren zahllose Schreie.[END]
 180-36:@Stuffed inside the mailbox was sheer,[BREAK]  never-ending darkness.[END]
@@ -8284,15 +8284,15 @@
 180-37:@Inside the mailbox was the sound of yourself[BREAK]  crying.[END]
 180-37E:@Im Briefkasten war das Geräusch deines[BREAK]  eigenen Weinens.[END]
 180-38:@Inside the mailbox was absolutely nothing.[WAIT]@Nothing after nothing came bursting out.[END]
-180-38E:@Im Briefkasten war absolut nichts.[WAIT]@Nichts und Nichts kam herausgebrochen.[END]
+180-38E:@Im Briefkasten war absolut nichts.[WAIT]@Nichts und Nichts kam herausgekrochen.[END]
 180-39:@Inside the mailbox were lots of pretty[BREAK]  butterflies.[END]
 180-39E:@Im Briefkasten waren eine Menge schöne[BREAK]  Schmetterlinge.[END]
 180-40:@Someone looked back at you from inside the[BREAK]  mailbox![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Or so it seemed, but you were the one[BREAK]  looking from the other side, too.[END]
-180-40E:@Jemand sah dich aus dem Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber du warst derjenige,[BREAK]  der auch von der anderen Seite geschaut hat.[END]
+180-40E:@Jemand schaute dich vom Inneren des[BREAK]  Briefkastens an![WAIT]  .[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Oder so schien es, aber du warst derjenige,[BREAK]  der von der anderen Seite geschaut hat.[END]
 180-41:@![PAUSE 40 00][BREAK]@There was nothing inside.[END]
-180-41E:@![PAUSE 40 00][BREAK]@Da war nichts drin.[END]
+180-41E:@![PAUSE 40 00][BREAK]@Es war nichts drin.[END]
 180-42:@Inside the mailbox was a pile of rotten, putrid[BREAK]  [FAVFOOD].[END]
-180-42E:@Im Briefkasten war ein Haufen verrotteter,[BREAK]  schimmliger [FAVFOOD].[END]
+180-42E:@Im Briefkasten war ein Haufen [FAVFOOD],[BREAK]  ganz verrottetet und schimmlig.[END]
 180-43:@[DUSTER 23 03 00]...[WAIT]@It was my fault you lost full use of your left[BREAK]  leg.[WAIT]@I'm sorry...[WAIT]@Don't leave me again.[WAIT]@Come with me. Let's leave this place together.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-43E:@[DUSTER 23 03 00]...[WAIT]@Es war alles meine Schuld, dass du dein linkes[BREAK]  Bein nicht mehr voll nutzen kannst.[WAIT]@Es tut mir leid...[WAIT]@Verlass mich nicht nochmal.[WAIT]@Komm mit mir. Gehen wir zusammen von hier[BREAK]  fort.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-44:@Oh, wonderful![WAIT]@In that case, I'll take you with me.[WAIT][PAUSE 50 00][BREAK]@To a dark, far-away place![END]
@@ -8300,7 +8300,7 @@
 180-45:@Oh, wonderful![WAIT]@Oh, I know![WAIT]@Let's take Princess [KUMATORA 23 04 00] with us,[BREAK]  too![WAIT][PAUSE 50 00]@To a dark, far-away place![END]
 180-45E:@Oh, wundervoll![WAIT]@Genau, ich weiß![WAIT]@Nehmen wir Prinzessin [KUMATORA 23 04 00] auch[BREAK]  mit![WAIT]@Zu einem dunklen, weit entfernten Ort![END]
 180-46:@You ungrateful child.[BREAK]  You would make anyone cry.[END]
-180-46E:@Du undankbares Kind,[WAIT]  Du bringst andere zum Weinen.[END]
+180-46E:@Du undankbares Kind.[WAIT]  Du bringst andere zum Weinen.[END]
 180-47:@[LUCAS 23 02 00].[WAIT]@Where is [HINAWA 22 08 00]?[WAIT]@Have you seen [HINAWA 22 08 00] anywhere?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-47E:@[LUCAS 23 02 00].[WAIT]@Wo ist [HINAWA 22 08 00]?[WAIT]@Hast du [HINAWA 22 08 00] irgendwo gesehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-48:@Oh. Then bring her here right away.[END]
@@ -8308,7 +8308,7 @@
 180-49:@I know you've seen her![END]
 180-49E:@Ich weiß, dass du sie gesehen hast.[END]
 180-50:@Say, [LUCAS 23 02 00]. Whatcha up to?[WAIT]@It looks so fun! Let me join you![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-180-50E:@Sag, [LUCAS 23 02 00]. Was hast du vor?[WAIT]@Das sieht lustig aus! Lass mich mitgehen![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+180-50E:@Sag, [LUCAS 23 02 00]. Was hast du vor?[WAIT]@Das sieht spaßig aus! Lass mich mitgehen![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 180-51:@Yes![WAIT]@Okay, then I'll be at the very end![BREAK]@Thanks![END]
 180-51E:@Ja![WAIT]@Okay, ich werde am Ende auf dich warten![BREAK]@Danke![END]
 180-52:@[LUCAS 23 02 00].[WAIT]  [LUCAS 23 02 00].[WAIT]@I'm [CLAUS 22 05 00].[WAIT]  [CLAUS 22 05 00].[WAIT]@I'm the [CLAUS 22 05 00] you can't see,[BREAK]  [LUCAS 23 02 00].[END]
@@ -8324,7 +8324,7 @@
 180-57:@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[WAIT]@You haven't eaten?[END]
 180-57E:@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[WAIT]@Du hast noch nicht gegessen?[END]
 180-58:@Is Is Is Is Is there there there there there[BREAK] something something something something[WAIT]  on on on on on on on my my my my face face[BREAK]  face face face face face face ? ? ? ? ? ? ? ?[WAIT]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00].[PAUSE 18 00].[PAUSE 20 00].[PAUSE 40 00][WAIT]@You're scary.[WAIT]  You're you're you're you're you're TOO TOO[BREAK]  TOO TOO TOO ssss ssss sssscary scary.[END]
-180-58E:@Ist Ist Ist Ist da da da da da da da etwas etwas etwas etwas auf auf auf auf auf auf auf auf[WAIT]  meinem meinem meinem meinem Gesicht Gesicht Gesicht Gesicht Gesicht Gesicht ? ? ? ? ? ? ?[WAIT]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00].[PAUSE 18 00].[PAUSE 20 00].[PAUSE 40 00][WAIT]@Du bist gruselig.[WAIT]  Du bist du bist du bist du bist du bist ZU ZU ZU[BREAK]  ZU ZU ZU gggg gggg ggggruselig gruselig.[END]
+180-58E:@Ist Ist Ist Ist da da da da da da da da da da[BREAK]  etwas etwas etwas etwas auf auf auf auf auf[WAIT]  meinem meinem meinem Gesicht Gesicht[BREAK]  Gesicht Gesicht Gesicht Gesicht ? ? ? ? ? ? ?[WAIT]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00].[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00].[PAUSE 18 00].[PAUSE 20 00].[PAUSE 40 00][WAIT]@Du bist gruselig.[WAIT]  Du bist du bist du bist du bist du bist ZU ZU ZU[BREAK]  ZU ZU ZU gggg gggg ggggruselig gruselig.[END]
 180-59:@Your mommy's waiting for you.[WAIT]@She's waiting for you with fresh-made[BREAK]  [FAVFOOD].[WAIT]  She's waiting.[PAUSE 1E 00][WAIT]@SHE'S WAITING FOR YOU![END]
 180-59E:@Deine Mama wartet auf dich.[WAIT]@Sie wartet mit frischen [FAVFOOD] auf[BREAK]  dich.[WAIT]  Sie wartet.[PAUSE 1E 00][WAIT]@SIE WARTET AUF DICH![END]
 180-60:@Have you seen me anywhere?[BREAK]  Where could I have gone?[WAIT]@You[PAUSE 20 00] hid me, didn't you?[END]
@@ -8332,9 +8332,9 @@
 180-61:@Yes![WAIT]@Fi na l ly, I canh ave ame al af ter al lth ist ime![END]
 180-61E:@Ja![WAIT]@En dl ich, k an nich ei ni chna ch all derz ei tha[BREAK]  ben![END]
 180-62:@Everyone's waiting for you.[WAIT]@Everyone's waiting to throw rocks at you, spit[BREAK]  on you, and make your life hell.[PAUSE 1E 00][WAIT]@Who's "everyone"...?[PAUSE 38 00][BREAK]  Everyone you love.[END]
-180-62E:@Alle warten auf dich.[WAIT]@Alle warten darauf Steine auf dich zu werfen, dich anzuspucken, und dein Leben zur Hölle zu machen.[PAUSE 1E 00][WAIT]@Wer ist "alle"...?[PAUSE 38 00][BREAK]  Alle, die du liebst.[END]
+180-62E:@Alle warten auf dich.[WAIT]@Alle warten darauf, dich mit Steinen zu[BREAK]  bewerfen, dich anzuspucken, und dein Leben[WAIT]  zur Hölle zu machen.[PAUSE 1E 00][WAIT]@Wer"alle" ist...?[PAUSE 38 00][BREAK]  Alle, die du liebst.[END]
 180-63:@Let's switch places.[WAIT]@Let's switch places.[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Let's switch places.[WAIT]@You're more...[PAUSE 1E 00][BREAK]  You're more...[END]
-180-63E:@Tauschen wir Plätze.[WAIT]@Tauschen wir Plätze.,[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Tauschen wir Plätze.[WAIT]@Du bist mehr...[PAUSE 1E 00][BREAK]  Du bist mehr...[END]
+180-63E:@Tauschen wir Plätze.[WAIT]@Tauschen wir Plätze.[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Tauschen wir Plätze.[WAIT]@Du bist mehr...[PAUSE 1E 00][BREAK]  Du bist mehr...[END]
 
 [Container 181]
 181-0:[HOTSPRING 00 00][END]
@@ -8422,7 +8422,7 @@
 181-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 181-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-181-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+181-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 181-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 181-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -8431,7 +8431,7 @@
 181-30E:@Wenn du eine meiner Kollegen triffst,[BREAK]  grüße sie von mir.[WAIT][PAUSE 0F 00]@*funkel*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 181-31:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-181-31E:@Du hast ein paar Pilze gefunden, aber sie[BREAK]  sehen ziemlich verrückt aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+181-31E:@Du hast ein paar Pilze gefunden, aber sie[BREAK]  sehen ziemlich abgefahren aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-31, 192-45
 181-32:@[LUCAS 23 02 00] and company felt just dandy![END]
 181-32E:@[LUCAS 23 02 00] und Begleitung fühlten sich[BREAK]  einfach prima![END]
@@ -8540,7 +8540,7 @@
 182-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 182-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-182-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+182-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 182-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 182-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -8608,11 +8608,11 @@
 186-5:@"Blunder?"[EVENT][END]
 186-5E:@"Domer?"[EVENT][END]
 186-6:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Threw me off Blunder[PAUSE 18 00] Tower?"[WAIT][PAUSE 40 00]@I'm sorry, I don't understand... [PAUSE 30 00]Ah.[WAIT]  "...off Donnerturm."[EVENT][END]
-186-6E:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Vom Domer Turm[PAUSE 18 00] geworfen?"[WAIT][PAUSE 40 00]@Entschuldigen Sie, ich verstehe nicht... [PAUSE 30 00]Ah.[WAIT]  "...vom Donnerturm."[EVENT][END]
+186-6E:  ".[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Vom Domerturm[PAUSE 18 00] geworfen?"[WAIT][PAUSE 40 00]@Entschuldigen Sie, ich verstehe nicht... [PAUSE 30 00]Ah.[WAIT]  "...vom Donnerturm."[EVENT][END]
 186-7:@"You threw me off Donnerturm..."[WAIT]@He goes on to say, "The resulting shame, pain,[BREAK]  and woe[PAUSE 30 00] are humiliating. VERY humiliating.[WAIT]  Therefore, I would very much like to return[BREAK]  the favor in full."[END]
-186-7E:@"Du hast mich vom Donnerturm geworfen..."[WAIT]@Weiterhin sagt er: "Der damit entstandene[BREAK]  Scham, Schmerz und Leid[PAUSE 30 00] sind erniedrigend,[WAIT]  SEHR erniedrigend.[WAIT]  Deshalb möchte ich euch liebend gerne das hier[BREAK]  in voller Gänze zurückgeben."[END]
+186-7E:@"Du hast mich vom Donnerturm geworfen..."[WAIT]@Weiterhin sagt er: "Der damit entstandene[BREAK]  Scham, Schmerz und Leid[PAUSE 30 00] sind erniedrigend,[WAIT]  SEHR erniedrigend.[WAIT]  Deshalb möchte ich euch liebend gerne euer[BREAK]  Gefallen in voller Gänze zurückgeben."[END]
 186-8:@"Today will be the day I make you cry.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  I will make you cry uncle."[WAIT]@"I do not believe I will ever[PAUSE 20 00] lose to the likes of[BREAK]  you[PAUSE 20 00] again...[PAUSE 18 00] Nwehehehehe!"[PAUSE 20 00][WAIT]  is what Fassad says.[END]
-186-8E:@"An diesem Tag werde ich dich zum Weinen[BREAK]  bringen.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  Bis du dich für besiegt erklärt hast."[WAIT]@"Ich glaube nicht,[PAUSE 20 00] dass ich jemals wegen euch[BREAK]  nochmal[PAUSE 20 00] verlieren werde...[WAIT]  [PAUSE 18 00] Nwehehehehe!"[PAUSE 20 00][WAIT]  ist, was Fassad sagt. 186-8[END]
+186-8E:@"An diesem Tag werde ich dich zum Weinen[BREAK]  bringen.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][WAIT]  Bis deine Augen ganz wund sind."[WAIT]@"Ich glaube nicht,[PAUSE 20 00] dass ich jemals wegen euch[BREAK]  nochmal[PAUSE 20 00] verlieren werde...[WAIT]  [PAUSE 18 00]Nwehehehehe!"[PAUSE 20 00][WAIT]  ist, was Fassad sagt.[END]
 //Wortspiel
 186-9:@"Now let us begin, kind sirs.[WAIT][PAUSE 0C 00]  I will show a mature, grownup terribleness.[WAIT]  And that terribleness[PAUSE 10 00] is a very[PAUSE 10 00] mature and[BREAK]  grownup terribleness."[PAUSE 18 00][WAIT]  is what Fassad says.[WAIT]@He also adds,[PAUSE 18 00] "Nwehehehehehe!"[END]
 186-9E:@"Also, fangen wir an, meine Herren.[WAIT][PAUSE 0C 00]  Ich werde euch eine reife, ausgewachsene[BREAK]  Schrecklichkeit zeigen.[WAIT]  Und diese Schrecklichkeit[PAUSE 10 00] ist eine sehr[PAUSE 10 00] reife[BREAK]  und ausgewachsene Schrecklichkeit."[PAUSE 18 00][WAIT]  ist, was Fassad sagt.[WAIT]@Außerdem ein:[PAUSE 18 00] "Nwehehehehehe!"[END]
@@ -8628,11 +8628,11 @@
 186-14E:@Die Nadel herausziehen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 100-10, 175-10, 186-14
 186-15:@*gasp* *pant*[PAUSE 20 00] I thought it would get pulled[BREAK]  while I was asleep,[PAUSE 18 00] but I saw it.[WAIT]  I saw the Needle get pulled. [HEART][END]
-186-15E:@*keuch* *schnauf*[PAUSE 20 00] Ich dachte, er würde gezogen werden, während ich schlafe, [PAUSE 15 00]aber ich habe es gesehen.[WAIT]  Gesehen, wie die Nadel gezogen wurde. [HEART][END]
+186-15E:@*keuch* *schnauf*[PAUSE 20 00] Ich dachte, er würde[BREAK]  gezogen werden, während ich schlafe,[WAIT]  [PAUSE 15 00]aber ich habe es gesehen.[WAIT]  Gesehen, wie die Nadel gezogen wurde. [HEART][END]
 186-16:@That leaves [80 FF F0 FF] more left.[WAIT]@Unlike the other Magypsies, I'm very[BREAK]  detail-oriented. [HEART][WAIT]@I'll tell you about the Needles and then[BREAK]  disappear. [HEART][END]
 186-16E:@Damit sind noch [80 FF F0 FF] übrig.[WAIT]@Im Gegensatz zu den anderen Magypsies bin[BREAK]  ich sehr detailorientiert. [HEART][WAIT]@Ich werde dir über die Nadeln erzählen und[BREAK]  dann verschwinde ich. [HEART][END]
 186-17:@One Needle is far east of Tazmily.[WAIT]@At the bottom of a pond.[WAIT]  I believe Doria is protecting it.[END]
-186-17E:@Eine Nadel ist weit östlich von Tazmily.[WAIT]@Am Grunde eines Teiches.[WAIT]  ich glaube, Donia beschützt es.[END]
+186-17E:@Eine Nadel ist weit östlich von Tazmily.[WAIT]@Am Grunde eines Teiches.[WAIT]  Ich glaube, Doria beschützt es.[END]
 186-18:@One Needle is on Schneekronenberg, on the[BREAK]  northeastern edge of this island.[WAIT]  I believe Lydia is protecting it.[END]
 186-18E:@Eine Nadel ist auf dem Schneekronenberg, am[BREAK]  nordöstlichen Rand der Insel.[WAIT]  Ich glaube, Lydia beschützt es.[END]
 186-19:@One Needle is on Tanetane Island, south of[BREAK]  Tazmily.[WAIT]  I believe Mixolydia is protecting it.[END]
@@ -8652,19 +8652,19 @@
 186-26:@And then there's one in Chupichupyoi Temple,[BREAK]  deep in the Oriander Mountains.[WAIT]  I believe Ionia is protecting it.[END]
 186-26E:@Und dann gibt es noch eine im Tempel[BREAK]  Chupichupyoi, tief im Berg Oriander.[WAIT]  Ich glaube, Ionia beschützt es.[END]
 186-27:@And one other one...[WAIT]@The Needle said to be sticking out of the Dark[BREAK]  Dragon's head...[WAIT][PAUSE 5A 00]  I can't seem to locate it at all.[WAIT]@Nor Locria, who's supposed to protect that[BREAK]  particular Needle...[WAIT]@I'm so picky about details, yet I have no idea[BREAK]  where they are...[WAIT]@Having to disappear without finding out...[BREAK][PAUSE 0F 00]  It's a little bit sad.[END]
-186-27E:@Und noch eine andere...[WAIT]@Die Nadel soll auf dem Kopf des schwarzen[BREAK]  Drachens stecken...[WAIT][PAUSE 5A 00] Ich kann sie überhaupt nicht orten.[WAIT]@Und auch nicht Locria, die diese gewisse Nadel[BREAK]  beschützen sollte...[WAIT]@Ich bin so pingelig bei Details, doch ich habe[BREAK]  keine Ahnung, wo sie sind...[WAIT]@Verschwinden zu müssen, ohne es[BREAK]  herauszufinden...[BREAK][PAUSE 0F 00]  Das ist ein bisschen traurig.[END]
+186-27E:@Und noch eine andere...[WAIT]@Die Nadel soll auf dem Kopf des Schwarzen[BREAK]  Drachens stecken...[WAIT][PAUSE 5A 00]  Ich kann sie überhaupt nicht orten.[WAIT]@Und auch nicht Locria, die diese Nadel[BREAK]  beschützen sollte...[WAIT]@Ich bin so pingelig bei Details, doch ich habe[BREAK]  keine Ahnung, wo sie ist...[WAIT]@Verschwinden zu müssen, ohne das[BREAK]  zu wissen...[WAIT][PAUSE 0F 00]  Das ist irgendwie ein bisschen traurig.[END]
 186-28:@I wrote down everything I just told you in this[BREAK]  secret notebook.[WAIT]@Take it with you. [HEART][END]
 186-28E:@Ich habe alles, was ich grad gesagt habe in[BREAK]  diesen geheimen Notizblock geschrieben.[WAIT]@Nimm ihn mit. [HEART][END]
 186-29:@Please... don't forget me.[WAIT]@Here, this is a memento of me. [HEART][WAIT]@A razor and lipstick...[PAUSE 20 00][BREAK]  Please take good care of them, okay? [HEART][END]
 186-29E:@Bitte... vergiss mich nicht.[WAIT]@Hier, das ist ein Memento an mich. [HEART][WAIT]@Ein Rasierer und Lippenstift...[PAUSE 20 00][BREAK]  Bitte pass gut auf sie auf, okay? [HEART][END]
 186-30:@I think you already know this, of course,[WAIT]  but it's said that the heart of whoever pulls[BREAK]  the Needles is passed on to the Dark Dragon...[WAIT]@Instill the power of power,[WAIT]  the darkness of darkness,[WAIT]  and the light of light[WAIT]  into your spirit.[WAIT][PAUSE 5A 00]@Let me peer into your eyes.[WAIT][PAUSE 5A 00]@Thank you.[BREAK][PAUSE 1E 00]  Thank you... [LUCAS 23 02 00]. [HEART][END]
-186-30E:@Ich denke, dass du das bereits weißt, natürlich,[BREAK]  aber es heißt, dass das Herz von demjenigen,[WAIT]  der die Nadeln zieht, auf den schwarzen[BREAK]  Drachen übertragen wird...[WAIT]@Instilliere die Macht von Macht,[WAIT]  die Dunkelheit von Dunkelheit,[WAIT]  und das Licht von Licht[WAIT]  in deinen Geist.[WAIT][PAUSE 5A 00]@Lass mich in deine Augen blicken.[WAIT][PAUSE 5A 00]@Danke.[BREAK][PAUSE 1E 00]  Danke... [LUCAS 23 02 00]. [HEART][END]
+186-30E:@Ich denke, dass du das bereits weißt,[BREAK]  aber es heißt, dass das Herz von demjenigen,[WAIT]  der die Nadeln zieht, auf den schwarzen[BREAK]  Drachen übertragen wird...[WAIT]@Flöße die Macht von Macht,[WAIT]  die Dunkelheit von Dunkelheit,[WAIT]  und das Licht von Licht[WAIT]  in deinen Geist ein.[WAIT][PAUSE 5A 00]@Lass mich in deine Augen blicken.[WAIT][PAUSE 5A 00]@Danke.[BREAK][PAUSE 1E 00]  Danke... [LUCAS 23 02 00]. [HEART][END]
 186-31:@Received [ITEM ED 00]![PAUSE 40 00][END]
 186-31E:@[ITEM ED 00] erhalten![PAUSE 40 00][END]
 186-32:@Oh, how rude![WAIT]@You're holding all that useless junk![WAIT]@You big dummy![WAIT]@Here, I'll toss it onto my bed for now.[WAIT]  ...You're just too adorable, after all. [HEART][END]
-186-32E:@Oh, wie gemein![WAIT]@Du trägst all diesen nutzlosen Müll![WAIT]@Du großes Dummerchen![WAIT]@Hier, ich werde es auf mein Bett.[WAIT]  ...Du bist ja letzten Endes so süß. [HEART][END]
+186-32E:@Oh, wie gemein![WAIT]@Du trägst all diesen nutzlosen Müll![WAIT]@Du großes Dummerchen![WAIT]@Na gut, dann werfe ich es auf mein Bett.[WAIT]  ...Du bist ja so süß. [HEART][END]
 186-33:@I have one last favor to ask you.[WAIT]@Could you give this to Ionia for me? [HEART][END]
-186-33E:@Ich möchte dich um einen letzten Gefallen bitten.[WAIT]@Könntest du das hier Ionia geben? [HEART][END]
+186-33E:@Ich möchte dich um einen letzten Gefallen[BREAK]  bitten.[WAIT]@Könntest du das hier Ionia geben? [HEART][END]
 186-34:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][WAIT]@I've now told you everything...[END]
 186-34E:@Übergib es, und Ionia sollte erkennen, dass[BREAK]  fünf der Nadeln gezogen worden sind. [HEART][WAIT]@Ich habe dir jetzt alles gesagt...[END]
 186-35:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
@@ -8685,7 +8685,7 @@
 
 [Container 189]
 189-0:@Hello! Welcome to Schneekronenberg![WAIT]@I'm a snowman that Lydia made![END]
-189-0E:@Hallo! Willkommen auf dem Schneekronenberg![WAIT]@Ich bin ein Schneemann, den Lydia gemacht hat![END]
+189-0E:@Hallo! Willkommen auf dem Schneekronenberg![WAIT]@Ich bin ein Schneemann, den Lydia gebaut hat![END]
 189-1:[END]
 189-1E:[END]
 
@@ -8781,7 +8781,7 @@
 192-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 192-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+192-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 192-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 192-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -8800,35 +8800,35 @@
 192-34:@I'm the frog that was inside the snake.[WAIT]@The snake and I talked things over, and I[BREAK]  decided to go back outside.[WAIT]@So now we're both back in our natural states.[WAIT]@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-34E:@Ich bin der Frosch, der in der Schlange war.[WAIT]@Die Schlange und ich haben verhandelt, und ich[BREAK]  bin dadurch rausgekommen.[WAIT]@So sind wir jetzt beide wieder in unserem[BREAK]  natürlichen Zustand.[WAIT]@*hüpf*[BREAK]  Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-35:@Where are we...? Tanetane Island?[END]
-192-35E:@Wo sind wir...? Auf Tanetane Eiland?[END]
+192-35E:@Wo sind wir...? Auf der Insel Tanetane?[END]
 192-36:@Woof?[BREAK]  (Tanetane Island?)[END]
-192-36E:@Wuff?[BREAK]  (Tanetane Eiland?)[END]
+192-36E:@Wuff?[BREAK]  (Insel Tanetane?)[END]
 192-37:@Damn...[WAIT]@All our items got washed away, and we have[BREAK]  no energy left...[END]
 192-37E:@Verdammt...[WAIT]@All unsere Items wurden weggespült, und wir[BREAK]  haben kaum noch Energie...[END]
 192-38:@Let's try to find something to eat.[END]
-192-38E:@Suchen wir etwas zu Essen.[END]
+192-38E:@Suchen wir uns etwas zu Essen.[END]
 // Repeats: 192-38, 192-40
 192-39:@Crap...[WAIT]@All our items got washed away, and we have[BREAK]  no energy left...[END]
-192-39E:@Kacke...[WAIT]@All unsere Items wurden weggespült, und wir[BREAK]  haben kaum noch Energie...[END]
+192-39E:@Kacke...[WAIT]@All unsere Items wurden weggespült, und wir[BREAK]  hab'n kaum noch Energie...[END]
 192-40:@Let's try to find something to eat.[END]
-192-40E:@Suchen wir etwas zum Essen.[END]
+192-40E:@Suchen wir uns etwas zu Essen.[END]
 // Repeats: 192-38, 192-40
 192-41:@Woof![WAIT]  (All our items are gone!)[END]
 192-41E:@Wuff![WAIT]  (Alle Items sind weg!)[END]
 192-42:@Woo-woof![WAIT]  (We need to find some food! It doesn't matter[BREAK]  what it is!)[END]
 192-42E:@Wau-wauu![WAIT]  (Wir brauchen etwas zu essen![BREAK]  Egal, was es ist!)[END]
 192-43:@H-heeeeey! Hey, there![WAIT]@This is an emergency frog message![WAIT]@Can you hear me?!?![BREAK]  This is an emergency message!!![WAIT]@Your guys' energy is at its very lowest!![WAIT]@It's fallen as low as it can get![END]
-192-43E:@H-heeeey! Hey, ihr da![WAIT]@Dies ist eine Notfallfrosch-Nachricht![WAIT]@Könnt ihr mich hören?!?![BREAK]  Dies ist eine Notfallnachricht[WAIT]@Eure Energie ist an ihrem niedrigsten Punkt!![WAIT]@Es kann nicht noch tiefer fallen![END]
+192-43E:@H-heeeey! Hey, ihr da![WAIT]@Dies ist eine Notfall-Froschnachricht![WAIT]@Könnt ihr mich hören?!?![BREAK]  Dies ist eine Notfallnachricht!!![WAIT]@Eure Energie ist an ihrem niedrigsten Punkt!![WAIT]@Es kann nicht noch tiefer fallen![END]
 192-44:@Energizing mushrooms![WAIT]@Don't eat too many.[END]
 192-44E:@Energisierende Pilze![WAIT]@Iss nicht zu viele.[END]
 192-45:@You found some mushrooms, but they're[BREAK]  pretty funky-looking.[WAIT]@Eat them anyway?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-192-45E:@Du hast ein paar Pilze gefunden, aber sie[BREAK]  sehen ziemlich verrückt aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+192-45E:@Du hast ein paar Pilze gefunden, aber sie[BREAK]  sehen ziemlich abgefahren aus.[WAIT]@Trotzdem essen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 181-31, 192-45
 192-46:@These mushrooms...[BREAK]  They have a funky-looking color,[WAIT]  but they're okay to eat, right?[END]
-192-46E:@Diese Pilze...[BREAK]  Sie haben 'ne verrückte Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
+192-46E:@Diese Pilze...[BREAK]  Sie haben 'ne abgefahrene Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
 // Repeats: 192-46, 192-47
 192-47:@These mushrooms...[BREAK]  They have a funky-looking color,[WAIT]  but they're okay to eat, right?[END]
-192-47E:@Diese Pilze...[BREAK]  Sie haben eine verrückte Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
+192-47E:@Diese Pilze...[BREAK]  Sie haben eine abgefahrene Farbe,[WAIT]  aber man kann sie essen, richtig?[END]
 // Repeats: 192-46, 192-47
 192-48:@*whimper*...[WAIT]  (I really want to eat them, but they don't[BREAK]  seem very safe...)[END]
 192-48E:@*wimmer*...[WAIT]  (Ich will sie essen, aber sie sehen nicht sehr[BREAK]  sicher aus...)[END]
@@ -8839,7 +8839,7 @@
 192-51:@.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]Or not![WAIT]@You're overcome by an indescribably odd[BREAK]  sensation.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]![PAUSE 20 00][END]
 192-51E:@.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]Oder auch nicht!![WAIT]@Dich überkommt ein unbeschreiblich[BREAK]  merkwürdiges Gefühl.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]![PAUSE 20 00][END]
 192-52:@But there doesn't seem to be anything else[BREAK]  that's edible.[END]
-192-52E:@Aber es scheint nichts anderes Essbare[BREAK]  zu geben.[END]
+192-52E:@Aber es scheint nichts anderes Essbares[BREAK]  zu geben.[END]
 192-53:@Mixolydia instructed me to take you back to[BREAK]  Tazmily.[WAIT]@I know I'm an octopus, but please get on.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-53E:@Mixolydia hat mir aufgetragen, euch zurück[BREAK]  nach Tazmily zu bringen.[WAIT]@Ich weiß, ich bin ein Oktopus,[BREAK]  aber bitte steigt auf.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 192-54:@Is it because[PAUSE 20 00] I'm an octopus?[END]
@@ -8966,7 +8966,7 @@
 196-4:@I love to play games with my granddaughter.[WAIT]  Especially "Pin the Tail on the Leak", "Hide 'n[BREAK]  Go Sweep", and "The Hokey Porky".[END]
 196-4E:@Ich liebe es, mit meiner Enkelin Spiele[BREAK]  zu spielen.[WAIT]  Besonders "Schnapp den Schweineschwanz",[BREAK]  "Lotti Schweinotti" und "Schweinehockey".[END]
 196-5:@I'm here visiting my grandma.[WAIT]@We play games like "Pin the Tail on the Leak",[BREAK]  "Hide 'n Go Sweep", and "The Hokey Porky".[END] [END]
-196-5E:@Ich besuche meine Oma.[WAIT]@Wir spielen Spiele wie "Pin the Tail on the Leak",[BREAK]  "Hide 'n Go Sweep", und "The Hokey Porky".[END]
+196-5E:@Ich besuche meine Oma.[WAIT]@Wir spielen Spiele wie "Schnapp den[BREAK]  Schweineschwanz", "Lotti Schweinotti"[WAIT]  und "Schweinehockey".[END]
 196-6:@Someone who looks just like [DUSTER 23 03 00]?[WAIT]@I'm not really sure about the details, but Jackie[BREAK]  did mention something like that.[END]
 196-6E:@Jemand, der wie [DUSTER 23 03 00] aussieht?[WAIT]@Ich kann mich nicht Einzelheiten erinnern, aber[BREAK]  Jackie hat irgendwas in der Richtung erwähnt.[END]
 196-7:@I hear the guy who looks just like[BREAK]  [DUSTER 23 03 00] is at a place called Club Titiboo.[END]
@@ -9251,7 +9251,7 @@
 203-39E:@[PAUSE 5A 00]...Warte.[WAIT]@Bleib noch kurz.[END]
 // Repeats: 42-39, 203-39, 263-39
 203-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-203-40E:@Etwas in [LUCAS 23 02 00] ist erwacht![EVENT][END]
+203-40E:@Etwas erwachte in [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 203-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
 203-41E:@[LUCAS 23 02 00] erlernt [25 FF F0 FF]![EVENT][END]
@@ -9433,11 +9433,11 @@
 207-34:[ALTERNATEFONT]@go up.[END]
 207-34E:[ALTERNATEFONT]@gehen hoch.[END]
 207-35:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Just a few more.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][END]
-207-35E:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Nur noc hein paar.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][END]
+207-35E:@Hmmm.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Nur noch ein bisschen.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][END]
 207-36:[ALTERNATEFONT]@more will make us[BREAK]  fall.[END]
 207-36E:[ALTERNATEFONT]@mehr werden uns[BREAK]  fallen lassen.[END]
 207-37:[ALTERNATEFONT]@sneeze comes out[BREAK]  when nose grabbed.[END]
-207-37E:[ALTERNATEFONT]@niessen kommen aus[BREAK]  wenn nase berührt.[END]
+207-37E:[ALTERNATEFONT]@niessen kommen aus[BREAK]  wenn nase berøhrt.[END]
 207-38:[ALTERNATEFONT]@shoe prints in face.[WAIT]@boing.[END]
 207-38E:[ALTERNATEFONT]@schuhabdrøcke in[BREAK]  gesicht.[WAIT]@boing.[END]
 207-39:[ALTERNATEFONT]@sweating mr. saturn.[WAIT]@slippy.[END]
@@ -9736,7 +9736,7 @@
 212-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, ist es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 212-8:@This wall doesn't seem scalable...[END]
-212-8E:@Diese Wand scheint kletterbar zu sein...[END]
+212-8E:@Diese Wand scheint nicht bekletterbar zu[BREAK]  sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 212-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 212-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -9832,7 +9832,7 @@
 213-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, ist es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 213-8:@This wall doesn't seem scalable...[END]
-213-8E:@Diese Wand scheint kletterbar zu sein...[END]
+213-8E:@Diese Wand scheint nicht bekletterbar zu[BREAK]  sein...[END]
 // Repeats: 11-8, 212-8, 213-8
 213-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 213-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -10270,7 +10270,7 @@
 222-52E:@Der Grabstein lässt sich nicht bewegen.[END]
 // Repeats: 10-52, 222-52, 506-52
 222-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-222-53E:@Nur wahre Kenner wissen, dass das dies[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
+222-53E:@Nur wahre Kenner wissen, dass dies eine[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
 // Repeats: 10-53, 222-53, 506-53
 222-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
 222-54E:@Ein Bollerwagen.[WAIT]  Auch bekannt als Schubkarren.[END]
@@ -10440,7 +10440,7 @@
 223-19E:@Es ist eine Skizze dieses Areals.[END]
 // Repeats: 11-0, 212-0, 212-31, 213-0, 213-30, 223-19
 223-20:@Potatoto.[END]
-223-20E:@Kartofelolo.[END]
+223-20E:@Kartoffelolo.[END]
 223-21:@My humble little [FAVFOOD] patch.[END]
 223-21E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
@@ -11445,7 +11445,7 @@
 255-4:@Oh, [LUCAS 23 02 00].[WAIT]@Did you follow me here for some of my slightly[BREAK]  unclean and not very tasty cookies?[WAIT]@Because I don't make those anymore.[PAUSE 1E 00][WAIT]@Have you forgotten?[END]
 255-4E:@Oh, [LUCAS 23 02 00].[WAIT]@Bist du mir wegen der etwas dreckigen und[BREAK]  nicht sehr leckeren Keksen gefolgt?[WAIT]@Ich mache sie nämlich nicht mehr.[PAUSE 1E 00][WAIT]@Hast du das vergessen?[END]
 255-5:@Boys who hang out in places like this are all so [BREAK]  stupid.[END]
-255-5E:@Jungs, die an solchen Orten abhängen, sind alle[BREAK]  so dumm.[END]
+255-5E:@Jungen, die an Orten wie diesen abhängen, sind[BREAK]  alle extrem dumm.[END]
 255-6:@What? What?[END]
 255-6E:@Was? Was?[END]
 255-7:@Left. Right.[END]
@@ -11460,7 +11460,7 @@
 255-11E:@Wëllkomm in New Pork City![END]
 // original is a mixture of japanese and english "welcome", here is welcome + bienvenidos, which also has the added nuance of "comido"
 255-12:@Arcade "1-Up"[BREAK]  (Please, by all means, hang out inside.)[END]
-255-12E:@Arcade "1-Up"[BREAK]  (Bitte halte dich IMMER innen auf.)[END]
+255-12E:@Arcade "1-Up"[BREAK]  (Bitte halte dich im Innenbereich auf.)[END]
 255-13:[END]
 255-13E:[END]
 
@@ -11844,7 +11844,7 @@
 263-39E:@[PAUSE 5A 00]...Warte.[WAIT]@Bleib noch kurz.[END]
 // Repeats: 42-39, 203-39, 263-39
 263-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-263-40E:@Etwas in [LUCAS 23 02 00] ist erwacht![EVENT][END]
+263-40E:@Etwas erwachte in [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 263-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
 263-41E:@[LUCAS 23 02 00] erlernt [25 FF F0 FF]![EVENT][END]
@@ -12629,7 +12629,7 @@
 327-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 327-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-327-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+327-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 327-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 327-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -12738,7 +12738,7 @@
 328-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 328-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-328-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+328-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 328-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 328-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -12845,7 +12845,7 @@
 329-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 329-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-329-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+329-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 329-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 329-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -12946,7 +12946,7 @@
 330-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 330-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-330-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+330-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 330-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 330-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -13059,7 +13059,7 @@
 331-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 331-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-331-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+331-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 331-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 331-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -13156,7 +13156,7 @@
 332-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 332-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-332-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+332-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 332-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 332-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -13410,7 +13410,7 @@
 349-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 349-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-349-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
+349-3E:@Auu...[WAIT]@Dieser Rote taucht direkt vor diesem Zimmer[BREAK]  auf, wenn du Panik schiebst...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 349-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
 349-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Eingriffe gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
@@ -13431,7 +13431,7 @@
 349-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 349-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-349-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
+349-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebenden[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 349-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
 349-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
@@ -13453,11 +13453,11 @@
 350-0:@A Memo About the Kind of Chimeras I Want[WAIT]  - Ones that don't eat much![WAIT]  - Ones as nice and loving as they are cool![WAIT]  - Ones with a decent flavor and scent![WAIT]  - Ones that won't cry at night![WAIT]  - Ones that make a good bodyguard![WAIT]  - Ones with a great coat of fur![WAIT]  - Ones that don't chew with their mouth open![WAIT]  - Ones with poop that doesn't stink much![WAIT]  - Ones that are warmhearted![WAIT]  - Ones that aren't oversensitive![END]
 350-0E:@Eine Notiz über Arten von Chimära, die ich[BREAK]  haben will:[WAIT]  -Welche, die nicht viel fressen![WAIT]  -Welche, die genauso nett und goldig wie cool[BREAK]    sind![WAIT]  -Welche mit einem angenehmen Geschmack[BREAK]    und Duft![WAIT]  -Welche, die in der Nacht nicht weinen![WAIT]  -Welche, die gute Bodyguards machen![WAIT]  -Welche mit fetten Fell![WAIT]  -Welche, die nicht bei offenem Maul kauen![WAIT]  -Welche mit Kacke, die nicht so sehr stinken![WAIT]  -Welche, die warmherzig sind![WAIT]  -Welche, die nicht überempfindlich sind![END]
 350-1:@[ENEMYNAME 7B 00][WAIT]@10,000,000 DP[END]
-350-1E:@[ENEMYNAME 7B 00][WAIT]@10,000,000 DK[END]
+350-1E:@[ENEMYNAME 7B 00][WAIT]@10.000.000 DK[END]
 350-2:@[ENEMYNAME 78 00][WAIT]@8,000,000 DP[END]
-350-2E:@[ENEMYNAME 78 00][WAIT]@8,000,000 DK[END]
+350-2E:@[ENEMYNAME 78 00][WAIT]@8.000.000 DK[END]
 350-3:@[ENEMYNAME 70 00][WAIT]@12,500,000 DP[END]
-350-3E:@[ENEMYNAME 70 00][WAIT]@12,500,000 DK[END]
+350-3E:@[ENEMYNAME 70 00][WAIT]@12.500.000 DK[END]
 350-4:@[ENEMYNAME 1B 00][WAIT]@SOLD OUT[END]
 350-4E:@[ENEMYNAME 1B 00][WAIT]@AUSVERKAUFT[END]
 350-5:@I just remembered this Chimera's weakness,[BREAK]  so I mustered up the courage to come here.[END]
@@ -13560,7 +13560,7 @@
 354-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 354-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-354-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
+354-3E:@Auu...[WAIT]@Dieser Rote taucht direkt vor diesem Zimmer[BREAK]  auf, wenn du Panik schiebst...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 354-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
 354-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Eingriffe gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
@@ -13581,7 +13581,7 @@
 354-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 354-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-354-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
+354-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebenden[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 354-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
 354-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
@@ -13670,7 +13670,7 @@
 357-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 357-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-357-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
+357-3E:@Auu...[WAIT]@Dieser Rote taucht direkt vor diesem Zimmer[BREAK]  auf, wenn du Panik schiebst...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 357-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
 357-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Eingriffe gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
@@ -13691,7 +13691,7 @@
 357-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 357-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-357-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
+357-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebenden[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 357-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
 357-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
@@ -13766,7 +13766,7 @@
 360-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 360-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-360-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
+360-3E:@Auu...[WAIT]@Dieser Rote taucht direkt vor diesem Zimmer[BREAK]  auf, wenn du Panik schiebst...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 360-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
 360-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Eingriffe gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
@@ -13787,7 +13787,7 @@
 360-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 360-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-360-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
+360-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebenden[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 360-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
 360-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
@@ -13907,7 +13907,7 @@
 365-16:@Just the one now.[END]
 365-16E:@Nur noch der eine.[END]
 365-17:@"The" one...?[WAIT]@You mean the red one with the huge mouth...?[END]
-365-17E:@"Der" eine...?[WAIT]@Meinst du etwa den roten mit den riesigen[BREAK]  Maul...?[END]
+365-17E:@"Der" eine...?[WAIT]@Meinst du etwa den roten mit dem riesigen[BREAK]  Maul...?[END]
 365-18:@...Yeah.[END]
 365-18E:@...Ja.[END]
 365-19:@That thing means serious trouble.[END]
@@ -13970,7 +13970,7 @@
 369-2E:@Ein Aufzug.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Nicht benutzen[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 369-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-369-3E:@Auu...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
+369-3E:@Auu...[WAIT]@Dieser Rote taucht direkt vor diesem Zimmer[BREAK]  auf, wenn du Panik schiebst...[WAIT]@Aber ich bin mir sicher, dass man ihn in eine[BREAK]  Falle locken könnte, wenn man das richtig[WAIT]  ausnutzt.[WAIT]@Ich bin so ein Genie![WAIT]@Ich kann nicht glauben, wie schlau ich bin![WAIT]@Auu.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 369-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
 369-4E:@Mal schauen...[WAIT]@Der Ausgang ist im Süden... glaube ich?[WAIT]@Und in diesem Raum ist ein Aufzug...[WAIT]@Und im Westen ist das... Optionszimmer...?[BREAK]  Opermentzimmer...?[WAIT]  Operabilitätszimmer...?[PAUSE 2E 00][BREAK]  ...der Raum, wo Eingriffe gemacht werden.[WAIT]@Jetzt wo's mir grad einfällt, diese Affen sind[BREAK]  vorhin den Keller geflohen...[WAIT]  Du weißt HOFFENTLICH, wo der Keller ist?[END]
@@ -13991,7 +13991,7 @@
 369-9E:@Danke, junger Mann.[BREAK]  Und Affe.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 369-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-369-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebende[BREAK]  Wesen glücklich zu machen.[END]
+369-10E:@Ich glaube, ich werde die Chance nutzen um[BREAK]  das Militär zu verlassen[WAIT]  und mein Leben damit verbringen, alle lebenden[BREAK]  Wesen glücklich zu machen.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 369-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
 369-11E:@Oh...[WAIT]@Du magst meine Idee?[WAIT]@Danke, Hund![END]
@@ -14145,7 +14145,7 @@
 373-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 373-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-373-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+373-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 373-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 373-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14242,7 +14242,7 @@
 374-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 374-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-374-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+374-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 374-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 374-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14339,7 +14339,7 @@
 375-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 375-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-375-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+375-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 375-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 375-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14436,7 +14436,7 @@
 376-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 376-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-376-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+376-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 376-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 376-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14533,7 +14533,7 @@
 377-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 377-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-377-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+377-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 377-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 377-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14630,7 +14630,7 @@
 378-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 378-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-378-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+378-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 378-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 378-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14731,7 +14731,7 @@
 379-27E:@Die Tür ist fest verschlossen.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 379-28:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-379-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und um ehrlich zu sein, fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, angelegt[WAIT]  haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+379-28E:@Wir mögen winzig sein, aber wir sind dennoch[BREAK]  Lebewesen.[WAIT]  Wir bahnen uns unseren Weg als Maulwurfs-[BREAK]  grillen.[WAIT]@Und deshalb  fangen wir sogar an in[BREAK]  die Business-Welt einzusteigen.[WAIT]@Mit den ganzen neuen Franchises sind wir jetzt[BREAK]  an erster Stelle in der Businessrevolution.[WAIT]@Wir haben verschiedenste wundervolle Items,[BREAK]  dir wir auf den Boden gef... [PAUSE 0F 00]Ich meine, uns[WAIT]  angelegt haben.[WAIT]@Ich könnte dir etwas geben, wenn du willst.[WAIT]@Also? Willst du mal einen Blick reinwerfen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
 379-29:@Oh, I see.[WAIT]@Well, I'm sure we'll have a mutually-profitable[BREAK]  encounter someday![END]
 379-29E:@Oh, ich verstehe.[WAIT]@Ich bin mir sicher, dass wir eines Tages ein[BREAK]  geschäftliches Treffen haben werden![END]
@@ -14822,7 +14822,7 @@
 388-2:@Oh, glad to see you didn't wimp out on me.[WAIT]@This here is our elder.[WAIT]@I've asked him to be the judge for our match[BREAK]  today.[WAIT]@If you try to run away or do anything cheap,[BREAK]  neither of us'll sit by quietly...[WAIT]  Just so you know.[WAIT][PAUSE 1E 00]@Anyways, I've got special rules for our match.[WAIT]@If, by some chance, an outcome isn't reached[BREAK]  after 10 minutes have passed,[WAIT]  we'll go to overtime, which'll last five more[BREAK]  minutes.[WAIT]@And if a conclusion still isn't reached after[BREAK]  that, our elder'll decide who the winner is.[WAIT][PAUSE 1E 00]@Elder. Is there anything you'd like to add?[END]
 388-2E:@Oh, wie schön, dass du nicht vor mir kneifst.[WAIT]@Das ist unser Ältester.[WAIT]@Ich habe ihn gebeten, unser Richter für das[BREAK]  heutigen Match zu sein.[WAIT]@Wenn du versuchst wegzurennen oder[BREAK]  irgendwas Unfaires zu machen,[WAIT]  wird keiner von uns nur tatenlos zusehen...[WAIT]  Nur damit du's weißt.[WAIT][PAUSE 1E 00]@Wie auch immer, ich habe mir besondere[BREAK]  Regeln für unser Match ausgedacht.[WAIT]@Wenn, aus welchem Grund auch immer, nach[BREAK]  zehn Minuten kein Ergebnis feststeht,[WAIT]  gehen wir in die Verlängerung und schauen,[BREAK]  wer noch fünf weitere Minuten durchhält.[WAIT]@Und wenn dann immer noch kein Sieger fest-[BREAK]  steht, wird unser Ältester entscheiden,[WAIT]  wer der Gewinner ist.[WAIT][PAUSE 1E 00]@Ältester, möchtest du noch irgendwas[BREAK]  hinzufügen?[END]
 388-3:@Wait.[PAUSE 30 00] You folks are truly, seriously going to[BREAK]  fight him?[WAIT]@Take my advice.[WAIT]@Sometimes, the bravest thing to do is to run[BREAK]  away.[WAIT][PAUSE 3C 00]@...But you insist on it?[WAIT]@In that case, I won't stop you.[END]
-388-3E:@Warte.[PAUSE 30 00] Ihr Leute wollt absolut, wirklich gegen[BREAK]  ihn kämpfen?[WAIT]@Ich habe einen Tipp.[WAIT]@Manchmal ist fliehen die beste Wahl.[WAIT][PAUSE 3C 00]@...Aber, ihr besteht darauf?[WAIT]@Wenn das so ist, werde ich euch nicht länger[BREAK]  aufhalten.[END]
+388-3E:@Warte.[PAUSE 30 00] Ihr Leute wollt absolut, wirklich gegen[BREAK]  ihn kämpfen?[WAIT]@Ich habe einen Tipp.[WAIT]@Manchmal ist Fliehen die beste Wahl.[WAIT][PAUSE 3C 00]@...Aber, ihr besteht darauf?[WAIT]@Wenn das so ist, werde ich euch nicht länger[BREAK]  aufhalten.[END]
 388-4:@Now do you realize the strength of the mole[BREAK]  cricket?![WAIT]@Huh?[WAIT]@Wait a minute! Don't tell me you got wiped out[BREAK]  on purpose?![WAIT]@Fight me seriously! C'mon, gimme your best[BREAK]  shot![WAIT]@Are you ready?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 388-4E:@Siehst du jetzt die wahre Stärke der[BREAK]  Maulwurfsgrille?![WAIT]@Was?[WAIT]@Warte mal! Sag mir nicht, dass du dich[BREAK]  absichtlich besiegt hast lassen?![WAIT]@Kämpfe ernsthaft! Komm schon, zeig' was du[BREAK]  drauf hast![WAIT]@Bist du bereit?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 388-5:@You ready to do this thing?![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -14834,15 +14834,15 @@
 388-8:@That's enough! That's enough! We give up![WAIT]@To think that such a mighty mole cricket[BREAK]  warrior could be so easily defeated...[WAIT]@Perhaps mole crickets aren't so powerful[BREAK]  after all...[WAIT]@I'll meditate on what else this means at a later[BREAK]  time.[WAIT]@But, for now, the match is over.[PAUSE 20 00][WAIT]@I suppose the traditional thing to do now is be[BREAK]  on good terms with you.[WAIT]@So let's be friends.[WAIT]@Is there anything you need?[END]
 388-8E:@Das reicht! Das reicht! Wir geben auf![WAIT]@Dass so ein starker Maulwurfsgrillen-Krieger[BREAK]  so leicht besiegt werden würde...[WAIT]@Vielleicht sind Maulwurfsgrillen doch nicht so[BREAK]  stark...[WAIT]@Ich werde mir später Gedanken machen, was[BREAK]  das sonst noch bedeutet.[WAIT]@Aber das Match ist hiermit vorbei.[PAUSE 20 00][WAIT]@Ich glaube, wir sollten uns nicht mit euch[BREAK]  anlegen.[WAIT]@Also, lasst uns Freunde sein.[WAIT]@Gibt es etwas, das du brauchst?[END]
 388-9:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-9E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir suchen nach ihnen.[END]
+388-9E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir such'n nach ihnen.[END]
 388-10:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-10E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir suchen nach ihnen.[END]
+388-10E:@Da gibt's tatsächlich was.[WAIT]@Weißt du, wo die Nadeln sind, die den Drachen[BREAK]  versiegeln?[WAIT]@Wir such'n nach ihnen.[END]
 388-11:@...Come again?[WAIT]@You're searching for Needles said to be sealing[BREAK]  away the Dark Dragon?[END]
 388-11E:@...Wie bitte?[WAIT]@Du suchst nach Nadeln, die den Schwarzen[BREAK]  Drachen versiegeln sollen?[END]
 388-12:@We mole crickets aren't very knowledgeable[BREAK]  creatures.[WAIT]@But, call it a hunch, I think there could be a[BREAK]  clue to these mysterious objects[WAIT]  on the mountain on the far end of this mole[BREAK]  cricket hole.[WAIT]@I figure that's what the elder wants to say,[BREAK]  too.[WAIT]@He's hard to read sometimes, though.[END]
-388-12E:@Wir Maulwurfsgrillen sind keine sehr schlauen[BREAK]  Wesen.[WAIT]@Aber, es ist nur so ein Gefühl, ich glaube, dass[BREAK]  diese mysteriösen Objekte auf dem Berg[WAIT]  ganz am Ende des Maulwurfsgrillenlochs[BREAK]  etwas damit zu tun haben könnten.[WAIT]@Ich glaube, das ist, was der Älteste sagen[BREAK]  möchte.[WAIT]@Es ist manchmal ziemlich schwer ihn zu[BREAK]  verstehen.[END]
+388-12E:@Wir Maulwurfsgrillen sind keine sehr schlauen[BREAK]  Wesen.[WAIT]@Aber, es ist nur so ein Gefühl, ich glaube, dass[BREAK]  diese mysteriösen Objekte auf dem Berg[WAIT]  ganz am Ende des Maulwurfsgrillenhöhle[BREAK]  etwas damit zu tun haben könnten.[WAIT]@Ich glaube, das ist, was der Älteste sagen[BREAK]  möchte.[WAIT]@Es ist manchmal ziemlich schwer ihn zu[BREAK]  verstehen.[END]
 388-13:@Yes. I agree.[WAIT]@The mountain![WAIT]@Go through this mole cricket hole and head up[BREAK]  the mountain![WAIT]@I'm certain that's what you must do![END]
-388-13E:@Ja, ich stimme zu.[WAIT]@Der Berg![WAIT]@Geh durch das Maulwurfsgrillenloch und geh[BREAK]  den Berg rauf![WAIT]@Ich bin mir sicher, dass du das machen musst![END]
+388-13E:@Ja, ich stimme zu.[WAIT]@Der Berg![WAIT]@Geh durch das Maulwurfsgrillenhöhle und geh[BREAK]  den Berg rauf![WAIT]@Ich bin mir sicher, dass du das machen musst![END]
 388-14:@The mountain, huh...[WAIT]@We don't have any other leads to follow up on,[BREAK]  so let's check it out.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
 388-14E:@Der Berg, wie...[WAIT]@Wir haben keine ander'n Hinweise, denen wir[BREAK]  folg'n können, also schau'n wir's uns an.[WAIT]@Oh, hey.[WAIT]@Ihr Kerle wisst aber nix über den Schwarzen[BREAK]  Drachen selbst, oder?[END]
 388-15:@The mountain, huh...[WAIT]@Let's check it out, then.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
@@ -14856,13 +14856,13 @@
 388-19:@Thanks.[WAIT]@We'll try not to be too much of a bother,[WAIT][PAUSE 20 00]  so please raise us to be great.[END]
 388-19E:@Danke.[WAIT]@Wir werden versuchen, dich nicht allzu sehr zu[BREAK]  stören,[WAIT][PAUSE 20 00]  also mach uns bitte zu etwas Großartigem.[END]
 388-20:@I see. I figured you might say that.[WAIT]@I guess we'll try to learn about all sorts of[BREAK]  things as we study you from afar, then.[WAIT]  I hope that's all right.[END]
-388-20E:@Ich verstehe. Das dachte ich mir schon.[WAIT]@Ich glaube, wir werden auch viele Dinge erfah-[BREAK] ren, wenn wir dich vom Weitem beobachten.[WAIT]  Ich hoffe, das ist in Ordnung.[END]
+388-20E:@Ich verstehe. Das dachte ich mir schon.[WAIT]@Ich glaube, wir werden auch viele Dinge erfah-[BREAK]  ren, wenn wir dich vom Weitem beobachten.[WAIT]  Ich hoffe, das ist in Ordnung.[END]
 388-21:@To start off, I'm thinking of starting a business[BREAK]  in our own unique, mole cricket way.[WAIT]@Please stop by if you ever happen to see us![END]
 388-21E:@Zum Start denke ich an die Gründung eines[BREAK]  Unternehmens ganz nach unserer eigenen,[WAIT]  einzigartigen Maulwurfsgrillen-Art.[WAIT]@Bitte schau vorbei, wenn du uns siehst![END]
 388-22:@Oh, yeah.[EVENT][END]
 388-22E:@Auf geht's.[EVENT][END]
 388-23:@If you're gonna go through this mole cricket[BREAK]  hole, you should take my little bro with you.[WAIT]@He's little, but he's a tough one.[WAIT]@You can treat him just like any other item.[WAIT][PAUSE 0F 00]@Hey! Little bro! C'mere![END]
-388-23E:@Wenn du durch dieses Maulwurfsgrillenloch[BREAK]  gehst,[WAIT]  sollteste meinen kleinen Bruder mitnehm'n.[WAIT]@Er is' zwar klein, aber 'n ganz krasser Junge.[WAIT]@Du kannst ihn wie jedes and're Item behand'ln.[WAIT][PAUSE 0F 00]@Hey! Kleiner! Hierher![END]
+388-23E:@Wenn du durch diese Maulwurfsgrillenhöhle[BREAK]  gehst,[WAIT]  sollteste meinen kleinen Bruder mitnehm'n.[WAIT]@Er is' zwar klein, aber 'n ganz krasser Junge.[WAIT]@Du kannst ihn wie jedes and're Item behand'ln.[WAIT][PAUSE 0F 00]@Hey! Kleiner! Hierher![END]
 388-24:@Received the [ITEM B8 00]![PAUSE 40 00][END]
 388-24E:@[ITEM B8 00] erhalten![PAUSE 40 00][END]
 388-25:@If you get lost in this mole cricket hole,[WAIT]  just ask my little bro for help and he'll bring[BREAK]  you straight back here.[WAIT][PAUSE 0F 00]@Right, little bro?[WAIT]@...C'mon, bro! Get your act together![WAIT]@The bad news is he's kinda lame and hates the[BREAK]  sunlight more than anything else in the world.[WAIT]@So be careful. You can't take him with you[BREAK]  outside the mole cricket hole.[WAIT][PAUSE 1E 00]@...Right, little bro?![END]
@@ -14884,7 +14884,7 @@
 388-33:@Lotus root-things are yum.[WAIT]@Even their holes are yum.[END]
 388-33E:@Lotuswurzel-Dingsens sind lecker.[WAIT]@Sogar ihre Löcher sind lecker.[END]
 388-34:@This mole cricket hole is reallllly big, you know.[WAIT]@You're gonna get bored fast if you don't do[BREAK]  pointless chit-chat with us.[END]
-388-34E:@Diese Maulwurfsgrillenhöhle ist seeeeehr groß,[BREAK]  weißt du.[WAIT]@Dir wird schnell langweilig werden, wenn du[BREAK]  keinen sinnlosen Small-Talk mit uns führst.[END]
+388-34E:@Diese Maulwurfsgrillenhöhle ist seeeeehr groß,[BREAK]  weißt du.[WAIT]@Dir wird schnell langweilig werden, wenn du[BREAK]  keinen sinnlosen Smalltalk mit uns führst.[END]
 388-35:@Whenever there's a turn, turn.[WAIT]@Always turn.[WAIT]@Absolutely turn.[WAIT]@That's the trick to getting through this mole[BREAK]  cricket hole.[END]
 388-35E:@Immer wenn es eine Wegbiegung gibt, bieg ab.[WAIT]@Bieg immer ab.[WAIT]@Absolut immer abbiegen.[WAIT]@Das ist der ganze Trick, um durch diese Höhle[BREAK]  zu kommen.[END]
 388-36:@Here, I'll give you this unbelievably accurate[BREAK]  yet unhelpful map.[END]
@@ -15033,7 +15033,7 @@
 404-8:@Got a Shield Snatcher![END]
 404-8E:@Einen Schildschnapper erhalten![END]
 404-9:@Squeak![WAIT]  (Hey! Dude![WAIT]  It's me, The Squeekz! That hip chick magnet[BREAK]  you met by the pond earlier.[WAIT]  But now I'm a stay-at-home daddy-o.)[END]
-404-9E:@Quietsch![WAIT]  (Hey! Mann![WAIT]  Ich bin's, der Squeekz![WAIT]  Dieser coole Frau'nmagnet, den de mal beim[BREAK]  Teich getroff'n hast.[WAIT]  Doch jetzt bin ich erstma' brav zu Haus'.)[END]
+404-9E:@Quietsch![WAIT]  (Hey! Mann![WAIT]  Ich bin's, Der Squeekz![WAIT]  Dieser coole Frau'nmagnet, den de mal beim[BREAK]  Teich getroff'n hast.[WAIT]  Doch jetzt bin ich erstma' brav zu Haus'.)[END]
 404-10:@Squeak.[WAIT]  (I'm not really sure what happened, but my[BREAK]  hubby finally came back home.[WAIT][PAUSE 1E 00]  But just between you and me, I think his old[BREAK]  self might've had more charm...[WAIT]  Ohohohoho!)[END]
 404-10E:@Quietsch.[WAIT]  (Ich bin mir nicht ganz sicher, was passiert ist,[BREAK]  aber mein Ehemann ist endlich zurück.[WAIT][PAUSE 1E 00]  Aber nur so zwischen du und mir, ich finde[BREAK]  sein altes Selbst hatte mehr Charme...[WAIT]  Ohohohohoho!)[END]
 404-11:@Try not to speed too much![BREAK]  "Dept. of Highway Management"[END]
@@ -15091,7 +15091,7 @@
 
 [Container 421]
 421-0:@Some strange stuff you've never seen before[BREAK]  is lying here.[END]
-421-0E:@Irgendwelches komisches Zeug, dass du noch[BREAK]  nie zuvor gesehen hast, liegt hier.[END]
+421-0E:@Irgendwelches komisches Zeug, das du noch[BREAK]  nie zuvor gesehen hast, liegt hier.[END]
 421-1:@Got an [ITEM 63 00]![END]
 421-1E:@[ITEM 63 00] erhalten![END]
 
@@ -15397,7 +15397,7 @@
 444-2:@H-hey, [LUCAS 22 03 00]! Are you alright?![END]
 444-2E:@H-hey, [LUCAS 22 03 00]! Geht's dir gut?![END]
 444-3:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-444-3E:@Etwas in [LUCAS 23 02 00] ist erwacht![EVENT][END]
+444-3E:@Etwas erwachte in [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 444-4:@[LUCAS 22 03 00] learned PK Flash![PAUSE 80 00][END]
 444-4E:@[LUCAS 22 03 00] hat PK Blitz erlernt![PAUSE 80 00][END]
@@ -16886,7 +16886,7 @@
 506-52E:@Der Grabstein lässt sich nicht bewegen.[END]
 // Repeats: 10-52, 222-52, 506-52
 506-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-506-53E:@Nur wahre Kenner wissen, dass das dies[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
+506-53E:@Nur wahre Kenner wissen, dass dies eine[BREAK]  ultimative Schaufel höchster Qualität ist.[END]
 // Repeats: 10-53, 222-53, 506-53
 506-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
 506-54E:@Ein Bollerwagen.[WAIT]  Auch bekannt als Schubkarren.[END]
@@ -18531,7 +18531,7 @@
 709-0E:@Dicke, verzweigte Lianen blockieren den Weg.[END]
 // Repeats: 25-1, 709-1
 709-1:@[42 FF F0 FF]'s Franklin Badge reflected the[BREAK]  masked man's lightning back at him![END]
-709-1E:@Die Franklin-Stecknadel von [42 FF F0 FF] reflektierte[BREAK]  den Blitz des maskierten Manns zurück![END]
+709-1E:@Die Franklin-Stecknadel von [42 FF F0 FF] reflektierte[BREAK]  den Blitz des Maskierten Manns zurück![END]
 // Repeats: 25-1, 709-1
 709-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 709-2E:@Diese Lianen sind in der Zeit steckengeblieben.[WAIT]@[ITEM CA 00] über ihnen sprenkeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -18698,7 +18698,7 @@
 803-27E:@*hüpf*[BREAK]  Brauchst du etwas?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 0-167, 803-27
 803-28:@I am the final frog in the game.[WAIT]@It's been such a short time, though it seems[BREAK]  long, too.[WAIT]@In any case, thank you for your continued[BREAK]  patronage throughout it all.[WAIT]@For me, and all the other frogs, I thank you.[WAIT]@*hop*[BREAK]  *teardrop*[END]
-803-28E:@Ich bin der allerletzte Frosch im Spiel.[WAIT]@Alles ging so langsam, und doch so schnell.[WAIT]@In jedem Falle möchte ich mich für deine[BREAK]  fortwährende Unterstützung bedanken.[WAIT]@Von mir, und all den anderen Fröschen,[BREAK]  danke ich dir.[WAIT]@*hüpf*[BREAK]  *Träne runterfall*[WAIT]----------------------------------------------------[BREAK][COLOR 01 00]@Hallo! Hier ist der Übersetzer.[WAIT]  Auch ich möchte mich herzlich bedanken, dass[BREAK]  du dieses Spiel mit dieser[WAIT]  Übersetzung gespielt hast.[WAIT]@Das Projekt hat für mich persönlich einen[BREAK]  besonderen Stellenwert; so hat es mir in einer[WAIT]  sehr schweren Phase meines Lebens[BREAK]  Beschäftigung gegeben, und mir ein Stück weit[WAIT]  geholfen, die Phase zu überstehen.[WAIT]@Ich möchte mich auch bei ein paar Leuten[BREAK]  bedanken:[WAIT]@Zum einen beim "Smexy" (einem weiteren[BREAK]  Mother 3-Übersetzer), ohne dessen Zusage[WAIT]  ich wahrscheinlich das Projekt in den Boden[BREAK]  gestampft hätte.[WAIT]@Dann möchte ich mich noch beim englischen[BREAK]  Übersetzer-Team bedanken, die die nötigen[WAIT]  Tools bereitgestellt haben. Zudem JumpmanFR,[BREAK]  der bei technischen Fragen zur Seite stand.[WAIT]  Außerdem bei Lorenzooone, der diverse Patches[BREAK]  bereitgestellt hat.[WAIT]@Und natürlich auch bei allen anderen, die hier[BREAK]  in irgendeiner Weise mitgewirkt haben.[HEART][WAIT]@Und schließlich dich, als Spieler meines Werkes.[WAIT]@Eine letzte Sache noch:[BREAK]  Wem das Kampfsystem von Mother gefällt, des[WAIT]  Englischen mächtig ist und was mit dem Touhou[BREAK]  Project anfangen kann, lege ich das Fangame[WAIT]  Touhoumother ans Herz.[WAIT]@Sorry für den langen Text...[WAIT]@Ich wünsche noch viel Spaß beim Finale.[BREAK]~Youmu[COLOR 00 00][END]
+803-28E:[FILE="803-28LastFrog.txt"][END]
 803-29:[END]
 803-29E:[END]
 
@@ -18805,7 +18805,7 @@
 
 [Container 811]
 811-0:@That... that masked man...[PAUSE 20 00][BREAK]  He's [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... He's your brother...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@I don't know why he's obeying this Porky guy,[WAIT]  but as a father, I've finally found the son I[BREAK]  lost.[WAIT]@[LUCAS 23 02 00]. Be happy.[WAIT]  I've finally,[PAUSE 30 00] finally found your brother.[END]
-811-0E:@Dieser... dieser maskierte Mann...[PAUSE 20 00][BREAK]  Er ist [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... Er ist dein Bruder...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@Ich weiß nicht, wieso er diesem Porky folgt,[WAIT]  aber als Vater habe ich endlich meinen Sohn[BREAK]  wiedergefunden, den ich verloren hatte.[WAIT]@[LUCAS 23 02 00]. Sei glücklich.[WAIT]  Ich habe endlich,[PAUSE 30 00] endlich deinen Bruder[BREAK]  gefunden.[END]
+811-0E:@Dieser... dieser Maskierte Mann...[PAUSE 20 00][BREAK]  Er ist [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... Er ist dein Bruder...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@Ich weiß nicht, wieso er diesem Porky folgt,[WAIT]  aber als Vater habe ich endlich meinen Sohn[BREAK]  wiedergefunden, den ich verloren hatte.[WAIT]@[LUCAS 23 02 00]. Sei glücklich.[WAIT]  Ich habe endlich,[PAUSE 30 00] endlich deinen Bruder[BREAK]  gefunden.[END]
 811-1:@The final Needle[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Make sure YOU pull it.[WAIT]@I'll catch up with you in a bit...[WAIT]@Don't worry about me. Just hurry to the[BREAK]  Needle![END]
 811-1E:@Die letzte Nadel[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@DU musst sie ziehen.[WAIT]@Ich komme gleich nach...[WAIT]@Mach dir um mich keine Sorgen.[BREAK]  Geh einfach zur Nadel![END]
 811-2:@I'm fine. I'm not hurt too bad.[WAIT]  [PAUSE 30 00]No, [CLAUS 22 05 00] didn't do this to me.[WAIT]@I tried to fight the "Porky" that's inside him.[END]

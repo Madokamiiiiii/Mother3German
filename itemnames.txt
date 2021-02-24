@@ -38,7 +38,7 @@
 0011: Magic Gloves
 0011-E: Magische Handschuhe
 0012: Sevolg
-0012-E: Sevolg
+0012-E: Ehuschdnah
 0013: Expensive Gloves
 0013-E: Teure Handschuhe
 0014: Angel Gloves

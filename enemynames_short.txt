@@ -32,7 +32,7 @@ Großer Ameisenlöwe
 Fenomeno
 Rhinocerakete Mk II
 Angstbot
-Die Squeekz
+Der Squeekz
 Pyrofliege
 Mecha-Löwe
 Straßenabsperrung
@@ -54,8 +54,8 @@ Sorglose Qualle
 Metallaffe
 Felslizard
 Kartoffelkäfer
-Zehn-Yeti
-Frostige Hund
+Ten-Yeti
+Frostiger Hund
 Schleimige Schnecke
 Minerali
 Wanderpilz
@@ -170,7 +170,7 @@ Laugenartiger Mann
 PORKY 06
 Major Schweinem.
 Oberst-Schweinem.
-Kapitän Schwein
+Kapitän Schweinem.
 Navy SQUEAL
 Meister Eddy
 Rock-Hummer

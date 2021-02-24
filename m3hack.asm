@@ -1021,7 +1021,9 @@ org $9F86120; incbin ./graphics/gfx_starsprite.bin
 org $8D50A00; incbin ./graphics/gfx_trans_keep_out_[c].bin
 org $9B9D808; incbin ./graphics/gfx_battle_[c].bin
 org $8E2B95C; incbin ./graphics/gfx_check1_[c].bin
-org $8E2BB1C; incbin ./graphics/gfx_check2_[c].bin
+
+org $87F2B13; dd $9F888D4-$8D3B4E0
+org $9F888D4; incbin ./graphics/gfx_check2_[c].bin
 org $8DB555C; incbin ./graphics/gfx_debugroom_[c].bin
 org $9C926C8; incbin ./graphics/gfx_hit.bin
 org $9B9D564; incbin ./graphics/gfx_up_down_[c].bin
@@ -1033,7 +1035,6 @@ org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
 org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
 org $8D3CD4C; dd $9DD9F70-$8D3B4E0
 org $9DD9F70; incbin ./graphics/gfx_charge2_[c].bin
-//org $8EEC604; incbin ./graphics/gfx_charge3_[c].bin
 org $8D3D928; dd $9F88410-$8D3B4E0
 org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
 
@@ -1115,9 +1116,9 @@ org $9CFFDA0; incbin text_enemynames.bin
 org $8D23494; incbin text_enemynames_short.bin
 
 // insert music titles
-org $8086CF4; dd $08CFB3F8
-org $9C8F38C; dd $08CFB3F8
-org $8CFB3F8; incbin text_musicnames.bin
+org $8086CF4; dd $09FC5528
+org $9C8F38C; dd $09FC5528
+org $9FC5528; incbin text_musicnames.bin
 
 // inserts misc. sound player menu text
 org $9C926A0; dd $FF06D298
@@ -1233,9 +1234,6 @@ org $9FABFE0; incbin ./graphics/gfx_bellicon_pal.bin
 
 // intro screen
 org $805AD14; bl introhackcode // bl extra_hacks.intro_screen // 
-//org $9FAC000; incbin gfx_disclaimer_[c].bin
-//org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
-//TEST INTRO SCREEN
 org $9FAC000; incbin gfx_disclaimer_[c].bin
 org $9FAFE00; incbin gfx_disclaimer_pal.bin
 

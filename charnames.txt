@@ -416,7 +416,7 @@
 0CF:(EMPTY)
 0CF-E:(EMTPY)
 0D0:The Squeekz
-0D0-E:Die Squeekz
+0D0-E:Der Squeekz
 0D1:Pendant
 0D1-E:Anhänger
 0D2:Secrebot

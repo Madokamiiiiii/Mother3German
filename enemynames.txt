@@ -69,7 +69,7 @@
 0021: Angstbot
 0021-E: Angstbot
 0022: The Squeekz
-0022-E: Die Squeekz
+0022-E: Der Squeekz
 0023: Pyrefly
 0023-E: Pyrofliege
 0024: Mecha-Lion
@@ -113,9 +113,9 @@
 0037: Spud Bug
 0037-E: Kartoffelkäfer
 0038: Ten-Yeti
-0038-E: Zehn-Yeti
+0038-E: Ten-Yeti
 0039: Chilly Dog
-0039-E: Frostige Hund
+0039-E: Frostiger Hund
 003A: Slimy Slug
 003A-E: Schleimige Schnecke
 003B: Minerali
@@ -345,7 +345,7 @@
 00AB: Pigmask Colonel
 00AB-E: Oberst-Schweinemaske
 00AC: Pigmask Captain
-00AC-E: Kapitän Schweinemaske
+00AC-E: Kapitän Schweinem.
 00AD: Navy SQUEAL
 00AD-E: Navy SQUEAL
 00AE: Master Eddy
