@@ -53,6 +53,10 @@ portable.ini
 qt.ini
 README.html
 README_DE.html
+text_*
+!text_mainscript.bin
+sound_*
+!sound_relocate_dump.bin
 *.fs
 shaders/*
 tools/*
