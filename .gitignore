@@ -65,3 +65,5 @@ test-0.png
 test-1.png
 publish/Mother3Ger_Youmu_v1.0.bps
 publish/Mother3Ger_Youmu_v1.0.zip
+*.bps
+*.zip

@@ -7,27 +7,29 @@
 // 0001-E: Umgebautes Rentier
 Ein 
 ein 
-Das 
-das 
-- 
+-
+-
+-
 // 0002-E: Herr Lust
 -
 -
 -
 -
 -
+seine 
 // 0003-E: Oh-Ho-Schlange
 Eine 
 eine 
 Die 
 die 
-- 
+der 
 // 0004-E: Lehmmensch
 Ein 
 ein 
 Der 
 der 
-- 
+des 
+ens 
 // 0005-E: Mecha-Drago
 Ein 
 ein 
