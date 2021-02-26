@@ -1167,7 +1167,7 @@ org $8D0829C; incbin text_custom_text.bin
 org $8D08A6C; incbin data_enemy_extras.bin
 
 // insert a custom item data table, used by our custom control codes
-org $8D090D9; incbin data_item_extras.bin
+org $9F89000; incbin data_item_extras.bin
 
 // insert menu text
 org $9B90124; dd $FF175818

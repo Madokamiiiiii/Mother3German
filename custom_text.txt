@@ -17,27 +17,24 @@ seine
 ihr 
 sein 
 ihre 
-ist 
-sind 
-dies 
-diese 
-dieser 
-dieses 
-Eine 
-eine 
-Ein 
-ein 
-the 
-The 
  als Waffe.
  auf den Körper.
  auf den Kopf.
 .
+ist 
+sind 
+Ein paar 
+diese 
+dieser 
+dieses 
+ein paar 
+den 
+Ein 
+ein 
+des 
+Einen 
+einen 
 dein 
-a 
-A 
-an 
-An 
 Etwas 
 etwas 
 es 
@@ -45,5 +42,7 @@ s
 ' 
 ens 
 e 
-Ein Paar 
 ein Paar 
+Ein Paar 
+Einer 
+einer 

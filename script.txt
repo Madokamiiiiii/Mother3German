@@ -95,20 +95,20 @@
 0-43:@TBA[END]
 0-43E:@TBA[END]
 0-44:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-0-44E:@[42 FF F1 FF] hob [ITEM F0 FF] auf![PAUSE 40 00][END]
+0-44E:@[42 FF F1 FF] hob [EF 91][ITEM F0 FF] auf![PAUSE 40 00][END]
 0-45:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-0-45E:@[ITEM F0 FF] gefunden![PAUSE 40 00][END]
+0-45E:@[EF 90][ITEM F0 FF] gefunden![PAUSE 40 00][END]
 // Used with key items, plays the "found something good" music
 // Repeats: 0-45, 836-4, 839-5
 0-46:@Got [EF 91][ITEM F0 FF]...[PAUSE 40 00][END]
-0-46E:@[ITEM F0 FF] gefunden...[PAUSE 40 00][END]
+0-46E:@[EF 90][ITEM F0 FF] gefunden...[PAUSE 40 00][END]
 // used with hinawa's cloth, plays sad "joined" tune
 0-47:@Received [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-0-47E:@[ITEM F0 FF] erhalten![PAUSE 40 00][END]
+0-47E:@[EF 90][ITEM F0 FF] erhalten![PAUSE 40 00][END]
 // used with the magypsy mementos, plays weird music
 // Repeats: 0-47, 0-163
 0-48:@[42 FF F0 FF] got [EF 11][81 FF]![END]
-0-48E:@[42 FF F0 FF] hob [81 FF] auf![END]
+0-48E:@[42 FF F0 FF] erhielt [EF 11][81 FF]![END]
 0-49:@[42 FF F0 FF] got [83 FF] [81 FF]s![END]
 0-49E:@[42 FF F0 FF] got [83 FF] [81 FF]s![END]
 // dunno where this is used, but hopefully "1" isn't in one of the numbers
@@ -126,7 +126,7 @@
 0-54E:@Es ist leer...[END]
 // Repeats: 0-54, 0-62, 0-246
 0-55:@Got [EF 11][81 FF]![END]
-0-55E:@[81 FF] erhalten![END]
+0-55E:@[EF 10][81 FF] erhalten![END]
 0-56:@Got [83 FF] [81 FF]s![END]
 0-56E:@Got [83 FF] [81 FF]s![END]
 // again, hopefully "1" isn't a possibility
@@ -135,7 +135,7 @@
 0-58:@Got [80 FF F0 FF] DP![END]
 0-58E:@[80 FF F0 FF] DK erhalten![END]
 0-59:@Got [EF 11][81 FF]![END]
-0-59E:@[81 FF] erhalten![END]
+0-59E:@[EF 10][81 FF] erhalten![END]
 0-60:@Your map's been marked![END]
 0-60E:@Auf deiner Karte wurde etwas markiert![END]
 // Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
@@ -187,9 +187,9 @@
 0-80:@You can't carry any more stuff.[END]
 0-80E:@Du kannst keine Sachen mehr tragen.[END]
 0-81:@Inside the present, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
-0-81E:@Im Geschenk war[BREAK]  [81 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
+0-81E:@Im Geschenk war[BREAK]  [EF 11][81 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
 0-82:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
-0-82E:@Im Geschenk war[BREAK]  [ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
+0-82E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
 // Repeats: 0-82, 836-5, 839-6
 0-83:@There's a vending machine here.[WAIT]@Would you like to use it? [WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 0-83E:@Hier steht ein Automat.[WAIT]@Möchtest du ihn benutzen? [WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
@@ -310,12 +310,12 @@
 0-130:@Pulled the Needle![PAUSE A0 00][END]
 0-130E:@Die Nadel gezogen![PAUSE A0 00][END]
 0-131:@Got [EF 11][ITEM 6F 00]![END]
-0-131E:@[EF 11][ITEM 6F 00] erhalten![END]
+0-131E:@[EF 10][ITEM 6F 00] erhalten![END]
 // Repeats: 0-131, 894-11
 0-132:@Got [EF 11][ITEM 70 00]![END]
-0-132E:@[EF 11][ITEM 70 00] erhalten![END]
+0-132E:@[EF 10][ITEM 70 00] erhalten![END]
 0-133:@Got [EF 11][ITEM 71 00]![END]
-0-133E:@[EF 11][ITEM 71 00] erhalten![END]
+0-133E:@[EF 10][ITEM 71 00] erhalten![END]
 0-134:@The Happy Box is giving off light of some sort.[END]
 0-134E:@Die Glückseligkeitsbox sendet irgendeine Art[BREAK]  Licht aus.[END]
 0-135:@The Happy Box is giving off a wobbling sort of[BREAK]  sound.[END]
@@ -378,7 +378,7 @@
 0-162:@Your map's been marked![PAUSE 40 00][END]
 0-162E:@Auf deiner Karte wurde was markiert![PAUSE 40 00][END]
 0-163:@Received [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
-0-163E:@[EF 11][ITEM F0 FF] erhalten![PAUSE 40 00][END]
+0-163E:@[EF 10][ITEM F0 FF] erhalten![PAUSE 40 00][END]
 // Repeats: 0-47, 0-163
 0-164:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 0-164E:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
@@ -16695,10 +16695,10 @@
 478-0:@[42 FF 00 00] opened the garbage can.[EVENT][END]
 478-0E:@[42 FF 00 00] öffnete die Mülltonne.[EVENT][END]
 478-1:@Got [EF 11][ITEM F0 FF]![END]
-478-1E:@[ITEM F0 FF] erhalten![END]
+478-1E:@[EF 10][ITEM F0 FF] erhalten![END]
 // Repeats: 39-2, 478-1, 509-2
 478-2:@There was [EF 11][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
-478-2E:@Dort waren ganze [EF 11] von [ITEM F0 FF] drin.[WAIT]@Aber du kannst nichts mehr tragen.[END]
+478-2E:@Dort war [EF 11][ITEM F0 FF] drin.[WAIT]@Aber du kannst nichts mehr tragen.[END]
 478-3:[END]
 478-3E:[END]
 
@@ -17027,7 +17027,7 @@
 509-1E:@Aber es war leer.[END]
 // Repeats: 39-1, 509-1
 509-2:@Got [EF 11][ITEM F0 FF]![END]
-509-2E:@[ITEM F0 FF] erhalten![END]
+509-2E:@[EF 10][ITEM F0 FF] erhalten![END]
 // Repeats: 39-2, 478-1, 509-2
 509-3:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
 509-3E:@Eine dämmerige Passage kann hinter dem[BREAK]  kettengelenkigen Rollladen gesehen werden.[WAIT]@Wohin es führt, weiß keiner.[END]
@@ -19178,7 +19178,7 @@
 836-3E:@[42 FF F1 FF] öffnet das Geschenk.[EVENT][END]
 // Repeats: 836-3, 839-4
 836-4:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
-836-4E:@[EF 91][ITEM F0 FF] gefunden![PAUSE 40 00][END]
+836-4E:@[EF 10][ITEM F0 FF] gefunden![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
 836-5:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 836-5E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
@@ -19223,7 +19223,7 @@
 839-4E:@[42 FF F1 FF] öffnet das Geschenk.[EVENT][END]
 // Repeats: 836-3, 839-4
 839-5:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
-839-5E:@[EF 91][ITEM F0 FF] gefunden![PAUSE 40 00][END]
+839-5E:@[EF 10][ITEM F0 FF] gefunden![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
 839-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 839-6E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
@@ -20530,7 +20530,7 @@
 894-10:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-10E:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-11:@Got [EF 11][ITEM 6F 00]![END]
-894-11E:@[EF 11][ITEM 6F 00] erhalten![END]
+894-11E:@[EF 10][ITEM 6F 00] erhalten![END]
 894-12:@SAVE?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 894-12E:@SAVE?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 894-13:@OK[END]

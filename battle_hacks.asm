@@ -321,7 +321,7 @@ ldr  r0,=#0x2014324          // this is where the current item # will be saved b
 ldrh r0,[r0,#0]              // load the current item #
 mov  r1,#8
 mul  r0,r1                   // offset = item ID * 6 bytes
-ldr  r1,=#0x8D090D9          // this is the base address of our extra item data table in ROM
+ldr  r1,=#0x9F89000          // this is the base address of our extra item data table in ROM
 add  r0,r0,r1                // r0 now has the proper address of the current item's data slot
 ldrb r0,[r0,r2]              // load the proper line # to use from custom_text.bin
 mov  r1,#40
@@ -1303,7 +1303,7 @@ ldr  r0,=#0x2014324          // this is where the current item # will be saved b
 ldrh r0,[r0,#0]              // load the current item #
 mov  r1,#8
 mul  r0,r1                   // offset = item ID * 6 bytes
-ldr  r1,=#0x8D090D9          // this is the base address of our extra item data table in ROM
+ldr  r1,=#0x9F89000          // this is the base address of our extra item data table in ROM
 add  r0,r0,r1                // r0 now has the proper address of the current item's data slot
 ldrb r0,[r0,r2]              // load the proper line # to use from custom_text.bin
 mov  r1,#40

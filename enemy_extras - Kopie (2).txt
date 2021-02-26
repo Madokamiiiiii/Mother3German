@@ -16,6 +16,7 @@ ein
 -
 -
 -
+seine 
 // 0003-E: Oh-Ho-Schlange
 Eine 
 eine 
@@ -27,7 +28,8 @@ Ein
 ein 
 Der 
 der 
--
+des 
+ens 
 // 0005-E: Mecha-Drago
 Ein 
 ein 
@@ -47,8 +49,8 @@ der
 -
 -
 // 0008-E: Maulwurfsgrille
-Ein 
-ein 
+Eine 
+eine 
 Die 
 die 
 - 

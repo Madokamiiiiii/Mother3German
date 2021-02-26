@@ -1,7 +1,7 @@
-Großer indirekter Artikel
-Kleiner indirekter Artikel
+Großer indirekter Artikel		(ITEM FOUND)
+Kleiner indirekter Artikel		(ITEM FOUND)
 Großer direkter Artikel
-kleiner direkter Artikel
+kleiner direkter Artikel		(Battle GET ITEM)
 Genitiv
 Genitiv-Suffix
 dieser/dieses/diese

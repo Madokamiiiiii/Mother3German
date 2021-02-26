@@ -68,7 +68,7 @@
 0020: Canine Weapon
 0020-E: Hunde-Waffe
 0021: DCMC Pamphlet
-0021-E: DCMC Broschüre
+0021-E: DCMC-Broschüre
 0022: Fake Bat
 0022-E: Künstlicher Schläger
 0023: Fake Frying Pan
@@ -94,7 +94,7 @@
 002D: Thud Charm
 002D-E: Dumpfes Amulett
 002E: White Collar
-002E-E: Weisses Halsband
+002E-E: Weißes Halsband
 002F: Brown Collar
 002F-E: Braunes Halsband
 0030: Black Collar
@@ -104,7 +104,7 @@
 0032: Red Collar
 0032-E: Rotes Halsband
 0033: DCMC Shirt
-0033-E: DCMC Fanshirt
+0033-E: DCMC-Shirt
 0034: Rubber Cape
 0034-E: Gummi-Mantel
 0035: Aloha Coat
@@ -128,7 +128,7 @@
 003E: Crow Bandana
 003E-E: Krähen-Bandana
 003F: Kite Bandana
-003F-E: Kite-Bandana
+003F-E: Drachen-Bandana
 0040: Horus Bandana
 0040-E: Horus-Bandana
 0041: Ordinary Hat
@@ -154,7 +154,7 @@
 004B: Goddess Ribbon
 004B-E: Göttinnenschleife
 004C: DCMC Hat
-004C-E: DCMC Hut
+004C-E: DCMC-Hut
 004D: Awesome Crown
 004D-E: Fantastische Krone
 004E: Aries Bracelet
@@ -182,7 +182,7 @@
 0059: Sagittarius Bracelet
 0059-E: Schütze-Armreif
 005A: DCMC Ring
-005A-E: DCMC Ring
+005A-E: DCMC-Ring
 005B: Awesome Ring
 005B-E: Fantastischer Ring
 005C: Favorite Food
@@ -234,7 +234,7 @@
 0073: Doggy Jerky
 0073-E: Hunde-Dörrfleisch
 0074: White Croissant
-0074-E: Weißer Croissant
+0074-E: Weißes Croissant
 0075: Cup of Pork Noodles
 0075-E: Dose Schweine-Nudeln
 0076: Pork Stew
@@ -254,7 +254,7 @@
 007D: Double Jerky
 007D-E: Doppel-Dörrfleisch
 007E: Grilled Chicken
-007E-E: Gegrilltes Hühnchen
+007E-E: Gegrilltes Huhn
 007F: Grilled Fish
 007F-E: Gegrillter Fisch
 0080: Pasta with a Past
@@ -266,9 +266,9 @@
 0083: Beefsteak
 0083-E: Rindersteak
 0084: Rich Kid Stew
-0084-E: Schwere Kinder-Suppe
+0084-E: Reiche Kinder-Suppe
 0085: Rich Parfait
-0085-E: Schweres Parfait
+0085-E: Köstliches Parfait
 0086: Hot Dog Sushi
 0086-E: Hot-Dog Sushi
 0087: Magic Gelatin
@@ -348,11 +348,11 @@
 00AC: Pickled Veggie Plate
 00AC-E: Vegetarische Platte
 00AD: Meteotite
-00AD-E: Meteorit
+00AD-E: Meteoritensplitter
 00AE: Friend's Yo-Yo
 00AE-E: Freundes Jo-Jo
 00AF: Drago Fang
-00AF-E: Drago-Zahn
+00AF-E: Drago-Reißzahn
 00B0: Dung
 00B0-E: Mist
 00B1: Dolphin Ossicle
@@ -362,7 +362,7 @@
 00B3: Knit Sweater
 00B3-E: Strickpulli
 00B4: DCMC Boxers
-00B4-E: DCMC Shorts
+00B4-E: DCMC-Shorts
 00B5: Magic Pendant
 00B5-E: Magischer Anhänger
 00B6: Encouraging Words
@@ -506,7 +506,7 @@
 00FB: Tower Sketch
 00FB-E: Skizze des Turms
 00FC: Chimera Lab Map
-00FC-E: Chimära Laborkarte
+00FC-E: Chimära-Laborkarte
 00FD: Cricket Hole Map
 00FD-E: Grillenbau-Karte
 00FE: Highway Map
