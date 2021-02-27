@@ -370,7 +370,7 @@
 00B6: [00 EF][01 EF] trapped you![END]
 00B6-E: [00 EF][01 EF] treibt dich in die Enge![END]
 00B7: You encountered [00 EF][01 EF]![END]
-00B7-E: Du begegnest [00 EF][01 EF]![END]
+00B7-E: Du begegnest [03 EF][00 EF][01 EF]![END]
 00B8: [00 EF][01 EF] suddenly attacked![END]
 00B8-E: [00 EF][01 EF] greift plötzlich an![END]
 00B9: [00 EF][01 EF] blocked the way![END]
