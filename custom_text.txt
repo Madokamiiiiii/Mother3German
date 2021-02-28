@@ -1,6 +1,8 @@
 Kollege
 Kollegen
  und 
+en 
+t 
 Ein 
 ein 
 Eine 
@@ -11,8 +13,6 @@ Das
 das 
 der 
 Der 
-Einige 
-einige 
 seine 
 ihr 
 sein 
@@ -24,9 +24,6 @@ ihre
 ist 
 sind 
 Ein paar 
-diese 
-dieser 
-dieses 
 ein paar 
 den 
 Ein 
@@ -40,9 +37,12 @@ etwas
 es 
 s 
 ' 
-ens 
-e 
+en 
 ein Paar 
 Ein Paar 
 Einer 
 einer 
+ens 
+e 
+einem 
+seinen 
