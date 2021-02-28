@@ -1,5 +1,5 @@
 // Item names must be 21 letters or less
-// Diese Zeile lässt die Dateien richtig kompilieren
+// Diese Zeile lässt die Datei richtig kompilieren
 
 0000: EMPTY
 0000-E: EMPTY

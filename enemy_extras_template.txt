@@ -2,8 +2,9 @@ NUR BEI GEGNERN OHNE ADJEKTIV
 
 Großer direkter Artikel
 kleiner direkter Artikel
-Großer indirekter Artikel
-kleiner indirekter Artikel
+Großer indirekter Artikel	(DATIV	ENEMY ENCOUNTER)
+kleiner indirekter Artikel	(DATIV	ENEMY ENCOUNTER)
 Genetivartikel
 Genetiv-Suffix
 Kollegen Zugehörigkeit
+

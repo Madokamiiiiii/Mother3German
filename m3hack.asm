@@ -453,7 +453,7 @@ org $804F56C; db $32,$F6
 //org $8053D8C; db $09
 
 // Disable L and R alphabet switching
- org $803E79F; db $E0
+org $803E79F; db $E0
 
 // Enable L and R alphabet switching on the factory screen
 //org $804DD16; db $0E // L

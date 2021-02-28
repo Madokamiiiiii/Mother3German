@@ -190,31 +190,31 @@ cmp  r0,#0x01                // check for 0xEF01, which will print the cohorts s
 beq  .cc_cohorts
 
 cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
-b    .main_loop_next
+b  .cc_en_articles
 
 cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
-b    .main_loop_next
+b  .cc_en_articles
 
 cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
-b    .main_loop_next
+b  .cc_en_articles
 
 cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
-b    .main_loop_next
+b  .cc_en_articles
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
-beq  .cc_en_articles
+b  .cc_en_articles
 
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
-beq  .cc_it_articles
+b  .cc_it_articles
 
 cmp  r0,#0x11                // check for 0xEF11, which will print an initial lowercase article for items
-beq  .cc_it_articles
+b  .cc_it_articles
 
 cmp  r0,#0x12                // check for 0xEF12, which will print an uppercase article for items
-beq  .cc_it_articles
+b  .cc_it_articles
 
 cmp  r0,#0x13                // check for 0xEF13, which will print a lowercase article for items
-beq  .cc_it_articles
+b  .cc_it_articles
 
 mov  r0,#0                   // if this executes, it's an unknown control code, so treat it normally
 b    .main_loop_next         // jump back to the part of the main loop that increments and such
@@ -1158,32 +1158,32 @@ beq  .ecc_enemy_name
 cmp  r0,#0x01                // check for 0xEF01, which will print "and cohort/and cohorts" if need be
 beq  .ecc_cohorts
 
-//cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
-//beq  .ecc_en_articles
+cmp  r0,#0x02                // check for 0xEF02, which will print an initial uppercase article if need be
+b  .ecc_en_articles
 
-//cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
-//beq  .ecc_en_articles
+cmp  r0,#0x03                // check for 0xEF03, which will print an initial lowercase article if need be
+b  .ecc_en_articles
 
-//cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
-//beq  .ecc_en_articles
+cmp  r0,#0x04                // check for 0xEF04, which will print an uppercase article if need be
+b  .ecc_en_articles
 
-//cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
-//beq  .ecc_en_articles
+cmp  r0,#0x05                // check for 0xEF05, which will print a lowercase article if need be
+b  .ecc_en_articles
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
-beq  .ecc_en_articles
+b  .ecc_en_articles
 
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
-beq  .ecc_it_articles
+b  .ecc_it_articles
 
 cmp  r0,#0x11                // check for 0xEF11, which will print an initial lowercase article for items
-beq  .ecc_it_articles
+b  .ecc_it_articles
 
 cmp  r0,#0x12                // check for 0xEF12, which will print an uppercase article for items
-beq  .ecc_it_articles
+b  .ecc_it_articles
 
 cmp  r0,#0x13                // check for 0xEF13, which will print a lowercase article for items
-beq  .ecc_it_articles
+b  .ecc_it_articles
 
 b    .ecc_inc                // treat this code normally if it's not a valid custom control code
 

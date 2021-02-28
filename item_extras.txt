@@ -285,7 +285,7 @@ ein
 -
 -
 -
--
+ist 
 //C-ine Weapon
 Eine 
 eine 
@@ -402,7 +402,7 @@ ein
 -
 -
 -
--
+ist 
 //Thud Charm
 Ein 
 ein 
@@ -867,7 +867,7 @@ Etwas
 etwas 
 Die 
 die 
-der 
+-
 -
 diese 
 ist 
@@ -1232,22 +1232,22 @@ die
 diese 
 ist 
 //Magic Pudding
-Ein 
-ein 
-Der 
-den 
+-
+-
+-
+-
 -
 -
 -
 ist 
 //Magic Cake
-Eine 
-eine 
-Die 
-die 
 -
 -
-diese 
+-
+-
+-
+-
+- 
 ist 
 //-tidote
 Ein 
@@ -1277,8 +1277,8 @@ der
 diese 
 ist 
 //Fresh Mint
-Eine 
-eine 
+Etwas 
+etwas 
 Die 
 die 
 -
