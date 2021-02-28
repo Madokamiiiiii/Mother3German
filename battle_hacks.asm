@@ -1526,7 +1526,6 @@ add  r0,r0,r2                // r0 now has the address to the appropriate posses
 bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
-
 b    .ecc_cohorts_second_part
 
 .ecc_cohorts_plural:
