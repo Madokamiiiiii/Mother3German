@@ -1597,7 +1597,7 @@ ein
 Der 
 den 
 des 
-ens 
+-
 -
 ist 
 //Spiky Weapon
@@ -2020,7 +2020,7 @@ ein
 Das 
 das 
 des 
-ens 
+es 
 -
 ist 
 //Pig Mark Notebook

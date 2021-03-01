@@ -10,7 +10,7 @@
 // 0001-E: Umgebautes Rentier
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -26,40 +26,40 @@ seine
 -
 seinen 
 // 0003-E: Oh-Ho-Schlange
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0004-E: Lehmmensch
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0005-E: Mecha-Drago
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0006-E: Schweinetank
--
--
--
--
+// 0006-E: Schweinepanzer
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0007-E: Herr Genetor
 -
@@ -71,18 +71,18 @@ seine
 -
 seinen 
 // 0008-E: Maulwurfsgrille
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0009-E: Gruseliger Schleim
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -91,7 +91,7 @@ seinen
 // 000A-E: Heller Schleim
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -107,37 +107,37 @@ seine
 -
 seinen 
 // 000C-E: N.K. Cyborg
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 000D-E: Maskierter Mann
--
--
--
--
+Der 
+der 
+Der 
+der 
 sein 
 seine 
 -
 seinen 
-// 000E-E: Wüten-Schweinesoldat
--
--
--
--
+// 000E-E: Wütender-Schweinesoldat
+Der 
+der 
+Der 
+der 
 sein 
 seine 
 -
 seinen 
-// 000F-E: Wüten-Schweinesoldat
--
--
--
--
+// 000F-E: Wütender-Schweinesoldat
+Der 
+der 
+Der 
+der 
 sein 
 seine 
 -
@@ -145,7 +145,7 @@ seinen
 // 0010-E: Eifersüchtiger Bass
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -161,14 +161,14 @@ seine
 -
 seinen 
 // 0012-E: Klebrige Schnecke
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
 -
--
--
--
-sein 
-seine 
--
-seinen 
+ihren 
 // 0013-E: PORKY 02
 -
 -
@@ -179,22 +179,22 @@ seine
 -
 seinen 
 // 0014-E: Königsstatue
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Die 
+die 
+ihr 
+ihre 
+die 
+ihren 
 // 0015-E: Nilpferdwerfer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0016-E: Neuer Fassad
 -
@@ -208,13 +208,13 @@ seinen
 // 0017-E: Gruseliger Schleim
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
-// 0018-E: Lustlord
+// 0018-E: Lord Passion
 -
 -
 -
@@ -226,8 +226,8 @@ seinen
 // 0019-E: Liebevoller Baum
 -
 -
--
--
+Ein 
+einen 
 sein 
 seine 
 -
@@ -260,18 +260,18 @@ seine
 -
 seinen 
 // 001D-E: Major Schweinemaske
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
 -
--
--
--
-sein 
-seine 
--
-seinen 
+ihren 
 // 001E-E: Großer Ameisenlöwe
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -281,30 +281,30 @@ seinen
 Das 
 das 
 Ein 
-ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0020-E: Rhinozerakete Mark II
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0021-E: Angstbot
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0022-E: -Squeekz
+// 0022-E: Der Squeekz
 -
 -
 -
@@ -314,58 +314,58 @@ seine
 -
 seinen 
 // 0023-E: Pyrofliege
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0024-E: Mecha-Löwe
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0025-E: Straßenabsperrung
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
+// 0026-E: Hüpfender-Pilz
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
-// 0026-E: Hüpfen-Pilz
+// 0027-E: Kreischender Besen
 -
 -
--
--
-sein 
-seine 
--
-seinen 
-// 0027-E: Kreischen-Besen
--
--
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0028-E: Top Hundefisch
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0029-E: Herr Fledi
 -
@@ -377,41 +377,41 @@ seine
 -
 seinen 
 // 002A-E: Geizige Maus
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 002B-E: Feuerfliege
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 002C-E: Kartoffelmonster
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+den 
 seinen 
 // 002D-E: Fliegende Maus
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 002E-E: PORKY 01
 -
 -
@@ -424,197 +424,197 @@ seinen
 // 002F-E: Beunruhigtes Wildschwein
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
 seinen 
 // 0030-E: Äußerst Bissige Schlange
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0031-E: Rußknödel
--
--
--
--
+Das 
+das 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0032-E: Back-Kartoffelmonster
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+den 
 seinen 
-// 0033-E: Laufen-Busch
+// 0033-E: Laufender-Busch
 -
 -
--
--
+Ein 
+einen 
 sein 
 seine 
 -
 seinen 
 // 0034-E: Sorglose Qualle
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0035-E: Mysteriöser Metallaffe
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0036-E: Felslizard
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0037-E: Kartoffelkäfer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0038-E: Zehn-Yeti
--
--
--
--
+// 0038-E: Ten-Yeti
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0039-E: Frostige Hund
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 003A-E: Schleimige Schnecke
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 003B-E: Minerali
--
--
--
--
+Das 
+das 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 003C-E: Wanderpilz
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 003D-E: Maulwurfsgrille
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 003E-E: Boa-Transistor
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 003F-E: Boshafter Maulwurf
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0040-E: Mecha-Maulwurf!
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0041-E: Glatzadler
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0042-E: Baum
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0043-E: Titani
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0044-E: Gefrorenes Brötchen
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
@@ -638,27 +638,27 @@ seine
 -
 seinen 
 // 0047-E: Zombie
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0048-E: Zombiehund
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0049-E: Verirrter Geist
+// 0049-E: Lungender Geist
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -667,8 +667,8 @@ seinen
 // 004A-E: Mobiles Grab
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
@@ -676,35 +676,35 @@ seinen
 // 004B-E: Abgetrennter Blutegel
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 004C-E: Rückgratlose Hummer
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 004D-E: RIESIGE Assel
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 004E-E: Munteres Skelett
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
@@ -712,214 +712,214 @@ seinen
 // 004F-E: Großer Bruder
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0050-E: Fassmann
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0051-E: Erdbeerschleim
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0052-E: Arachnid!
--
--
--
--
-sein 
-seine 
--
-seinen 
+// 0052-E: Spinne!
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0053-E: Brutale Kakerlake
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0054-E: Barriere Trio
--
--
--
--
+Das 
+das 
+Das 
+das 
 sein 
 seine 
--
+das 
 seinen 
 // 0055-E: Geisterrüstung
--
--
--
--
+Die 
+die 
+Etwas 
+etwas 
 sein 
 seine 
--
+die 
 seinen 
 // 0056-E: Geisterschwert
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 0057-E: Geisterschild
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 0058-E: Geisterritter
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0059-E: Osohe Umhang
--
--
--
--
+// 0059-E: Osohe Vorhang
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 005A-E: Rockiger Geist
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 005B-E: Pseudo-Tür
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 005C-E: Gruseliger Schleim
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 005D-E: Mistkäfer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 005E-E: Großer Ameisenlöwe
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 005F-E: Sara-Sara-Sahara
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0060-E: Sandlizard
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0061-E: Kaktuswolf
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0062-E: Klebriger Klebstoff
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0063-E: Cleocatra
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0064-E: Kleiner Großer Bruder
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0065-E: Zombiepilz
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
-// 0066-E: Stinken-Geist
+// 0066-E: Stinkender Geist
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -928,34 +928,34 @@ seinen
 // 0067-E: Künstlerischer Geist
 -
 -
--
--
-sein 
-seine 
--
-seinen 
-// 0068-E: Horsantula
--
--
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
-// 0069-E: Pigtunia
+// 0068-E: Pfertantula
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
+// 0069-E: Schweitunie
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
+// 006A-E: Kreischender Stock
 -
 -
--
--
-sein 
-seine 
--
-seinen 
-// 006A-E: Kreischen-Stock
--
--
--
+Ein 
 -
 sein 
 seine 
@@ -964,151 +964,151 @@ seinen
 // 006B-E: Verdorbener Schimmelmann
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 006C-E: Schlitterhenne
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 006D-E: Was auch immer
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 006E-E: Hundefisch
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 006F-E: Rindschlange
--
--
--
--
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
+// 0070-E: Einschwein
+Das 
+das 
+Ein 
+einen 
 sein 
 seine 
--
+das 
 seinen 
-// 0070-E: Einswine
--
--
--
--
-sein 
-seine 
--
-seinen 
-// 0071-E: Gottesanbeter
--
--
--
--
-sein 
-seine 
--
-seinen 
+// 0071-E: Gottesanbeterin
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0072-E: Antike Libelle
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0073-E: Dreckige Kakerlake
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0074-E:Dusselpilz
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0075-E: Mecha-Schildkröte
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0076-E: Bro Team
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 0077-E: Batangutan
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0078-E: Straußfant
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0079-E: Himmelstitani
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+den 
 seinen 
 // 007A-E: Affenross
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 007B-E: Elterlicher Kangahai
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1119,86 +1119,86 @@ seinen
 -
 -
 -
-sein 
-seine 
+ihr 
+ihre 
 -
-seinen 
+ihren 
 // 007D-E: Beinahe Mecha-Löwe
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 007E-E: Rhinocerocket
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 007F-E: Verkehrsrowdy
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0080-E: Metall-Angriffskakerlake
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0081-E: Wirklich Fliegende Maus
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0082-E: Kurzschluss-Schlag!
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0083-E: Unwichtiger Roboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0084-E: Liebesläufer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0085-E: Gruseliger Schleim
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1207,7 +1207,7 @@ seinen
 // 0086-E: Atomarer Powerroboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1216,7 +1216,7 @@ seinen
 // 0087-E: Nuklearer Roboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1225,34 +1225,34 @@ seinen
 // 0088-E: Negativer Mann
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0089-E: Dickkopf
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 008A-E: Posierer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 008B-E: Großer Kartoffelkäfer
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1261,47 +1261,47 @@ seinen
 // 008C-E: Geraspeltes Yammonster
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
 seinen 
 // 008D-E: Nilpferdwerfer
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 008E-E: Stahl-Mechorilla
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 008F-E: Zombidillo
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0090-E: Fischreh-Mann
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0091-E: PORKY 07
 -
@@ -1313,108 +1313,108 @@ seine
 -
 seinen 
 // 0092-E: Rückkehr des Octobots
+Die 
+die 
 -
 -
--
--
-sein 
-seine 
--
-seinen 
+ihr 
+ihre 
+die 
+ihren 
 // 0093-E: Teppichmonster
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 0094-E: Ersatzmech
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 0095-E: Schweinemaske
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0096-E: Zombiefrau
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0097-E: Frecher Pilz
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 0098-E: Ober-Fledi
+Die 
+die 
+Eine 
+einen 
+ihr 
+ihre 
 -
--
--
--
-sein 
-seine 
--
-seinen 
-// 0099-E: Arachnid!!!!
--
--
--
--
-sein 
-seine 
--
-seinen 
+ihren 
+// 0099-E: Spinne!!!!
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 009A-E: Geizigere Maus
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 009B-E: Leicht Weinende Gitarre
+Die 
+die 
+Eine 
 -
--
--
--
-sein 
-seine 
--
-seinen 
+ihr 
+ihre 
+die 
+ihren 
 // 009C-E: Durchgehaute Trommel
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 009D-E: Umgebauter Maulwurf
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1423,7 +1423,7 @@ seinen
 // 009E-E: Umgebauter Löwe
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1432,25 +1432,25 @@ seinen
 // 009F-E: Wackeliger Roboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 00A0-E: Männerbad Schild
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
--
+das 
 seinen 
 // 00A1-E: Geschrotteter Roboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1459,53 +1459,53 @@ seinen
 // 00A2-E: Verzweifelter Schrott
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 00A3-E: Überraschungsbox
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 00A4-E: Batteriemann
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 00A5-E: Screwloose
 -
 -
--
--
+Ein 
+ein 
 sein 
 seine 
 -
 seinen 
 // 00A6-E: Knuddelbombe
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 00A7-E: K9000
 -
 -
--
--
+Ein 
+einen 
 sein 
 seine 
 -
@@ -1513,7 +1513,7 @@ seinen
 // 00A8-E: Laugenartiger Mann
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1529,23 +1529,23 @@ seine
 -
 seinen 
 // 00AA-E: Major Schweinemaske
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 00AB-E: Oberst-Schweinemakse
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 00AC-E: Kapitän Schweinemaske
 -
 -
@@ -1556,14 +1556,14 @@ seine
 -
 seinen 
 // 00AD-E: Navy SQUEAL
--
--
--
--
-sein 
-seine 
--
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 00AE-E: Meister Eddy
 -
 -
@@ -1574,18 +1574,18 @@ seine
 -
 seinen 
 // 00AF-E: Stein-Hummer
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
+// 00B0-E: Ruuuunder Fisch
 -
 -
--
--
-sein 
-seine 
--
-seinen 
-// 00B0-E: Ruuuun-Fisch
--
--
--
+Ein 
 -
 sein 
 seine 
@@ -1594,25 +1594,25 @@ seinen
 // 00B1-E: Blauer Glatzadler
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 00B2-E: Sicherheitsroboter
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 00B3-E: Unwilkommener Gast
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1637,36 +1637,36 @@ seine
 -
 seinen 
 // 00B6-E: Titanian
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 00B7-E: Verbesserter Roboter
 -
 -
--
+Ein 
 -
 sein 
 seine 
 -
 seinen 
 // 00B8-E: Bohnling
--
--
--
--
+Das 
+das 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 00B9-E: Schwarzer Bohnling
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1675,7 +1675,7 @@ seinen
 // 00BA-E: Kleiner Wald
 -
 -
--
+Ein 
 -
 sein 
 seine 
@@ -1699,20 +1699,20 @@ sein
 seine 
 -
 seinen 
-// 00BD-E: Maskierter Mann
--
--
--
--
+// 00BD-E: Maskierte Mann
+Der 
+der 
+Der 
+der 
 sein 
 seine 
 -
 seinen 
 // 00BE-E: Maskierter Mann
--
--
--
--
+Der 
+der 
+Der 
+der 
 sein 
 seine 
 -
@@ -1722,19 +1722,19 @@ seinen
 -
 -
 -
-sein 
-seine 
 -
-seinen 
+-
+-
+-
 // 00C0-E: Hacke
 -
 -
 -
 -
-sein 
-seine 
 -
-seinen 
+-
+-
+-
 // 00C1-E: Ameisenlöwe
 -
 -

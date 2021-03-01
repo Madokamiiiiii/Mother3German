@@ -218,6 +218,11 @@ bne +
 b  .cc_en_articles
 +
 
+cmp  r0,#0x08                // check for 0xEF08, which will print an uppercase dative article
+bne +
+b  .cc_en_articles
++
+
 cmp  r0,#0x40                // check for 0xEF40, which will print the correct verb suffix
 bne +
 b  .cc_plural_verb
@@ -1346,6 +1351,11 @@ b  .ecc_en_articles
 +
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
+bne +
+b  .ecc_en_articles
++
+
+cmp  r0,#0x08                // check for 0xEF08, which will print an uppercase dative article
 bne +
 b  .ecc_en_articles
 +

@@ -1,12 +1,14 @@
 NUR BEI GEGNERN OHNE ADJEKTIV
 
-Großer direkter Artikel
-Großer indirekter Artikel	(GROßES NOMINATIV ENEMY ENCOUNTER)
-kleiner indirekter Artikel	(DATIV	ENEMY ENCOUNTER)
-kleiner indirekter Artikel	(AKKUSATIV	ENEMY ENCOUNTER)
-Possesivpronomen		(Cohorts)
-kleiner direkter Artikel
-Genetivartikel
-Genetiv-Suffix
+02   Großer direkter Artikel			
+03   kleiner direkter Artikel	
+04   Großer indirekter Artikel	(GROßES NOMINATIV ENEMY ENCOUNTER)
+05   kleiner indirekter Artikel	(AKKUSATIV	ENEMY ENCOUNTER)
+06   Possesivpronomen		(Cohorts)
+07   Possesivpronomen		(Cohorts PLURAL)
+08   Akkusativ DIREKT
+09   Possesivpronomen		(Cohorts	AKKUSATIV)
 
+// Genetivartikel
+// Genetiv-Suffix
 
