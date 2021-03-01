@@ -245,7 +245,7 @@
 0079: Buy[END]
 0079-E: Kaufen[END]
 007A: Sell[END]
-007A-E: Verkaufen[END]
+007A-E: Verkaufe[END]
 007B: End[END]
 007B-E: Ende[END]
 007C: Buy [11 EF][END]

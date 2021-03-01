@@ -116,10 +116,10 @@ seine
 den 
 seinen 
 // 000D-E: Maskierter Mann
-Der 
-der 
-Der 
-der 
+-
+-
+-
+-
 sein 
 seine 
 -
@@ -1609,15 +1609,15 @@ sein
 seine 
 den 
 seinen 
-// 00B3-E: Unwilkommener Gast
+// 00B3-E: Unwilkommene Brise
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
 -
--
-Ein 
--
-sein 
-seine 
--
-seinen 
+ihren 
 // 00B4-E: PORKY 09
 -
 -
@@ -1700,19 +1700,19 @@ seine
 -
 seinen 
 // 00BD-E: Maskierte Mann
-Der 
-der 
-Der 
-der 
+-
+-
+-
+-
 sein 
 seine 
 -
 seinen 
 // 00BE-E: Maskierter Mann
-Der 
-der 
-Der 
-der 
+-
+-
+-
+-
 sein 
 seine 
 -

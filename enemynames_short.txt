@@ -138,11 +138,11 @@ Negativer Mann
 Dickkopf
 Posierer
 Groß-Kartoffelkäfer
-Gerasp. Yammonster
+Raspel-Kart.monster
 Nilpferdwerfer
 Stahl-Mechorilla
 Zombidillo
-Fischreh-Mann
+Fischfilet-Mann
 PORKY 07
 Rückk. des Octobots
 Teppichmonster
@@ -177,7 +177,7 @@ Rock-Hummer
 Ruuuunder Fisch
 Blauer Glatzadler
 Sicherheitsroboter
-Unwillkomm. Gast
+Unwillkomm. Brise
 PORKY 09
 PORKY 10
 Titanian
@@ -187,8 +187,8 @@ Schwarzer Bohnling
 Kleiner Wald
 PORKY 04
 PORKY 05
-Maskierte Mann
-Maskierte Mann
+Maskierter Mann
+Maskierter Mann
 (empty)
 Hacke
 Ameisenlöwe

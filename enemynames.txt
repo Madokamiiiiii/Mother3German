@@ -281,7 +281,7 @@
 008B: Big Spud Bug
 008B-E: Groﬂer Kartoffelk‰fer
 008C: Grated Yammonster
-008C-E: Geriebenes Kart.monster
+008C-E: Raspel-Kart.monster
 008D: Hippo Launcher
 008D-E: Nilpferdwerfer
 008E: Steel Mechorilla
@@ -289,7 +289,7 @@
 008F: Zombidillo
 008F-E: Zombidillo
 0090: Fish Roe Man
-0090-E: Fischreh-Mann
+0090-E: Fischfilet-Mann
 0091: PORKY 07
 0091-E: PORKY 07
 0092: Return of Octobot
@@ -351,7 +351,7 @@
 00AE: Master Eddy
 00AE-E: Meister Eddy
 00AF: Rock Lobster
-00AF-E: Stein-Hummer
+00AF-E: Rock-Hummer
 00B0: Rooound Fish
 00B0-E: Ruuuunder Fisch
 00B1: Blue Balding Eagle
@@ -359,7 +359,7 @@
 00B2: Security Robot
 00B2-E: Sicherheitsroboter
 00B3: Unwelcome Gust
-00B3-E: Unwillkommener Gast
+00B3-E: Unwillkommene Brise
 00B4: PORKY 09
 00B4-E: PORKY 09
 00B5: PORKY 10
@@ -379,9 +379,9 @@
 00BC: PORKY 05
 00BC-E: PORKY 05
 00BD: Masked Man
-00BD-E: Maskierte Mann
+00BD-E: Maskierter Mann
 00BE: Masked Man
-00BE-E: Maskierte Mann
+00BE-E: Maskierter Mann
 00BF: (EMPTY)
 00BF-E: (EMPTY)
 00C0: Pick

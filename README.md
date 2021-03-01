@@ -8,4 +8,3 @@ Getestet wurde der Patch auf dem mGBA Emulator.
 
 ## Bekannte Bugs:
 - Namen mit ÄÖÜ nicht möglich
-- Bie Kämpfen mit mehreren Gegnern gleichzeitig ist teilweise der Text nicht angepasst (aufgrund Limitierungen wohl nicht änderbar)

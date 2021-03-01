@@ -412,7 +412,7 @@
 88-E:[BREAK]Stellt noch mehr Energie[BREAK]als der Atomare Power-[BREAK]roboter her. Seine[BREAK]Explosion ist auch stärker.[END]
 
 89:[BREAK]Feels negatively about[BREAK]anything and everything.[BREAK]Only feels positively about[BREAK]feeling negatively.[END]
-89-E:[BREAK]Fühlt sich negativ gegen-[BREAK]über alles und jedem.[BREAK]Fühlt sich nur positiv,[BREAK]wenn er sich negativ fühlt.[END]
+89-E:[BREAK]Fühlt sich negativ gegen-[BREAK]über alles und jedem.[BREAK]Kann nur positiv über[BREAK]negative Sachen denken.[END]
 
 8A:[BREAK]Its head is crammed with[BREAK]knowledge, such as insect[BREAK]and flower names and how[BREAK]much certain things cost.[END]
 8A-E:[BREAK]Sein Kopf ist voller[BREAK]Wissen, wie z. B. Insekten-[BREAK]und Blumennamen und wie[BREAK]viel gewisse Dinge kosten.[END]
