@@ -147,7 +147,7 @@
 0048: Zombie Dog
 0048-E: Zombiehund
 0049: Lingering Spirit
-0049-E: Verirrter Geist
+0049-E: Lungender Geist
 004A: Mobile Grave
 004A-E: Mobiles Grab
 004B: Detached Leech
@@ -165,7 +165,7 @@
 0051: Strawberry Slime
 0051-E: Erdbeerschleim
 0052: Arachnid!
-0052-E: Arachnid!
+0052-E: Spinne!
 0053: Violent Roach
 0053-E: Brutale Kakerlake
 0054: Barrier Trio
@@ -225,7 +225,7 @@
 006F: Cattlesnake
 006F-E: Rindschlange
 0070: Einswine
-0070-E: Einswine
+0070-E: Einschwein
 0071: Praying Mantis
 0071-E: Gottesanbeterin
 0072: Ancient Dragonfly
@@ -307,7 +307,7 @@
 0098: Elder Batty
 0098-E: Ober-Fledi
 0099: Arachnid!!!!
-0099-E: Arachnid!!!!
+0099-E: Spinne!!!!
 009A: Greedier Mouse
 009A-E: Geizigere Maus
 009B: Gently Weeping Guitar
@@ -379,9 +379,9 @@
 00BC: PORKY 05
 00BC-E: PORKY 05
 00BD: Masked Man
-00BD-E: Maskierter Mann
+00BD-E: Maskierte Mann
 00BE: Masked Man
-00BE-E: Maskierter Mann
+00BE-E: Maskierte Mann
 00BF: (EMPTY)
 00BF-E: (EMPTY)
 00C0: Pick

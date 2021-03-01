@@ -1,0 +1,1976 @@
+// 0000-E: (EMPTY)
+-
+-
+-
+-
+-
+// 0001-E: Umgebautes Rentier
+Ein 
+ein 
+-
+-
+-
+// 0002-E: Herr Lust
+-
+-
+-
+-
+-
+seine 
+// 0003-E: Oh-Ho-Schlange
+Eine 
+eine 
+Die 
+die 
+der 
+// 0004-E: Lehmmensch
+Ein 
+ein 
+Der 
+der 
+des 
+ens 
+// 0005-E: Mecha-Drago
+Ein 
+ein 
+Der 
+der 
+- 
+// 0006-E: Schweinetank
+Ein 
+ein 
+Der 
+der 
+- 
+// 0007-E: Herr Genetor
+-
+-
+-
+-
+-
+// 0008-E: Maulwurfsgrille
+Eine 
+eine 
+Die 
+die 
+- 
+// 0009-E: Gruseliger Schleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 000A-E: Heller Schleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 000B-E: Pokey
+-
+-
+-
+-
+-
+// 000C-E: N.K. Cyborg
+Ein 
+ein 
+Der 
+der 
+- 
+// 000D-E: Maskierter Mann
+Ein 
+ein 
+Der 
+der 
+- 
+// 000E-E: Wütender Schweinesoldat
+Ein 
+ein 
+Der 
+der 
+- 
+// 000F-E: Wütender Schweinesoldat
+Ein 
+ein 
+Der 
+der 
+- 
+// 0010-E: Eifersüchtiger Bass
+Ein 
+ein 
+Der 
+der 
+- 
+// 0011-E: Porky
+-
+-
+-
+-
+-
+// 0012-E: Klebrige Schnecke
+Eine 
+eine 
+Die 
+die 
+- 
+// 0013-E: PORKY 02
+-
+-
+-
+-
+-
+// 0014-E: Königsstatue
+Eine 
+eine 
+Die 
+die 
+- 
+// 0015-E: Nilpferdwerfer
+Ein 
+ein 
+Der 
+der 
+- 
+// 0016-E: Neuer Fassad
+-
+-
+-
+-
+-
+// 0017-E: Gruseliger Schleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 0018-E: Lustlord
+-
+-
+-
+-
+-
+// 0019-E: Liebevoller Baum
+Ein 
+ein 
+Der 
+der 
+- 
+// 001A-E: PORKY 03
+-
+-
+-
+-
+-
+// 001B-E: PORKY 08
+-
+-
+-
+-
+-
+// 001C-E: Wunder-Fassad
+-
+-
+-
+-
+-
+// 001D-E: Major Schweinemaske
+Ein 
+ein 
+Der 
+der 
+- 
+// 001E-E: Großer Ameisenlöwe
+Ein 
+ein 
+Der 
+der 
+- 
+// 001F-E: Fenomeno
+Ein 
+ein 
+Das 
+das 
+- 
+// 0020-E: Rhinozerakete Mark II
+Eine 
+eine 
+Die 
+die 
+- 
+// 0021-E: Angstbot
+Ein 
+ein 
+Der 
+der 
+- 
+// 0022-E: Die Squeekz
+-
+-
+-
+-
+-
+// 0023-E: Pyrofliege
+Eine 
+eine 
+Die 
+die 
+- 
+// 0024-E: Mecha-Löwe
+Ein 
+ein 
+Der 
+der 
+- 
+// 0025-E: Straßenabsperrung
+Eine 
+eine 
+Die 
+die 
+- 
+// 0026-E: Hüpfender Pilz
+Ein 
+ein 
+Der 
+der 
+- 
+// 0027-E: Kreischender Besen
+Ein 
+ein 
+Der 
+der 
+- 
+// 0028-E: Top Hundefisch
+Ein 
+ein 
+Der 
+der 
+- 
+// 0029-E: Herr Fledi
+-
+-
+-
+-
+-
+// 002A-E: Geizige Maus
+Eine 
+eine 
+Die 
+die 
+- 
+// 002B-E: Feuerfliege
+Eine 
+eine 
+Die 
+die 
+- 
+// 002C-E: Kartoffelmonster
+Ein 
+ein 
+Das 
+das 
+- 
+// 002D-E: Fliegende Maus
+Eine 
+eine 
+Die 
+die 
+- 
+// 002E-E: PORKY 01
+-
+-
+-
+-
+-
+// 002F-E: Beunruhigtes Wildschwein
+Ein 
+ein 
+Das 
+das 
+- 
+// 0030-E: Äußerst Bissige Schlange
+Eine 
+eine 
+Die 
+die 
+- 
+// 0031-E: Rußknödel
+Ein 
+ein 
+Der 
+der 
+- 
+// 0032-E: Back-Kartoffelmonster
+Eine 
+eine 
+Die 
+die 
+- 
+// 0033-E: Laufender Busch
+Ein 
+ein 
+Der 
+der 
+- 
+// 0034-E: Sorglose Qualle
+Eine 
+eine 
+Die 
+die 
+- 
+// 0035-E: Mysteriöser Metallaffe
+Ein 
+ein 
+Der 
+der 
+- 
+// 0036-E: Felslizard
+Ein 
+ein 
+Der 
+der 
+- 
+// 0037-E: Kartoffelkäfer
+Ein 
+ein 
+Der 
+der 
+- 
+// 0038-E: Zehn-Yeti
+Ein 
+ein 
+Der 
+der 
+- 
+// 0039-E: Frostige Hund
+Ein 
+ein 
+Der 
+der 
+- 
+// 003A-E: Schleimige Schnecke
+Eine 
+eine 
+Die 
+die 
+- 
+// 003B-E: Minerali
+Ein 
+ein 
+Das 
+das 
+- 
+// 003C-E: Wanderpilz
+Ein 
+ein 
+Der 
+der 
+- 
+// 003D-E: Maulwurfsgrille
+Eine 
+eine 
+Die 
+die 
+- 
+// 003E-E: Boa-Transistor
+Ein 
+ein 
+Der 
+der 
+- 
+// 003F-E: Boshafter Maulwurf
+Ein 
+ein 
+Der 
+der 
+- 
+// 0040-E: Mecha-Maulwurf!
+Ein 
+ein 
+Der 
+der 
+- 
+// 0041-E: Glatzadler
+Ein 
+ein 
+Der 
+der 
+- 
+// 0042-E: Baum
+Ein 
+ein 
+Der 
+der 
+- 
+// 0043-E: Titani
+Ein 
+ein 
+Das 
+das 
+- 
+// 0044-E: Gefrorenes Brötchen
+Ein 
+ein 
+Das 
+das 
+- 
+// 0045-E: Frau Lava
+-
+-
+-
+-
+-
+// 0046-E: Magmann
+Ein 
+ein 
+Der 
+der 
+- 
+// 0047-E: Zombie
+Ein 
+ein 
+Der 
+der 
+- 
+// 0048-E: Zombiehund
+Ein 
+ein 
+Der 
+der 
+- 
+// 0049-E: Verirrter Geist
+Ein 
+ein 
+Der 
+der 
+- 
+// 004A-E: Mobiles Grab
+Ein 
+ein 
+Das 
+das 
+- 
+// 004B-E: Abgetrennter Blutegel
+Ein 
+ein 
+Der 
+der 
+- 
+// 004C-E: Rückgratlose Hummer
+Eine 
+eine 
+Die 
+die 
+- 
+// 004D-E: RIESIGE Assel
+Eine 
+eine 
+Die 
+die 
+- 
+// 004E-E: Munteres Skelett
+Ein 
+ein 
+Das 
+das 
+- 
+// 004F-E: Großer Bruder
+Ein 
+ein 
+Der 
+der 
+- 
+// 0050-E: Fassmann
+Ein 
+ein 
+Der 
+der 
+- 
+// 0051-E: Erdbeerschleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 0052-E: Arachnid!
+Ein 
+ein 
+Das 
+das 
+- 
+// 0053-E: Brutale Kakerlake
+Eine 
+eine 
+Die 
+die 
+- 
+// 0054-E: Barriere Trio
+Ein 
+ein 
+Das 
+das 
+- 
+// 0055-E: Geisterrüstung
+Eine 
+eine 
+Die 
+die 
+- 
+// 0056-E: Geisterschwert
+Ein 
+ein 
+Das 
+das 
+- 
+// 0057-E: Geisterschild
+Ein 
+ein 
+Der 
+der 
+- 
+// 0058-E: Geisterritter
+Ein 
+ein 
+Der 
+der 
+- 
+// 0059-E: Osohe Umhang
+Ein 
+ein 
+Der 
+der 
+- 
+// 005A-E: Rockiger Geist
+Ein 
+ein 
+Der 
+der 
+- 
+// 005B-E: Pseudo-Tür
+Eine 
+eine 
+Die 
+die 
+- 
+// 005C-E: Gruseliger Schleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 005D-E: Mistkäfer
+Ein 
+ein 
+Der 
+der 
+- 
+// 005E-E: Großer Ameisenlöwe
+Ein 
+ein 
+Der 
+der 
+- 
+// 005F-E: Sara-Sara-Sahara
+Eine 
+eine 
+Die 
+die 
+- 
+// 0060-E: Sandlizard
+Ein 
+ein 
+Der 
+der 
+- 
+// 0061-E: Kaktuswolf
+Ein 
+ein 
+Der 
+der 
+- 
+// 0062-E: Klebriger Klebstoff
+Ein 
+ein 
+Der 
+der 
+- 
+// 0063-E: Cleocatra
+Eine 
+eine 
+Die 
+die 
+- 
+// 0064-E: Kleiner Großer Bruder
+Ein 
+ein 
+Der 
+der 
+- 
+// 0065-E: Zombiepilz
+Ein 
+ein 
+Der 
+der 
+- 
+// 0066-E: Stinkender Geist
+Ein 
+ein 
+Der 
+der 
+- 
+// 0067-E: Künstlerischer Geist
+Ein 
+ein 
+Der 
+der 
+- 
+// 0068-E: Horsantula
+Eine 
+eine 
+Die 
+die 
+- 
+// 0069-E: Pigtunia
+Ein 
+ein 
+Das 
+das 
+- 
+// 006A-E: Kreischender Stock
+Ein 
+ein 
+Der 
+der 
+- 
+// 006B-E: Verdorbener Schimmelmann
+Ein 
+ein 
+Der 
+der 
+- 
+// 006C-E: Schlitterhenne
+Eine 
+eine 
+Die 
+die 
+- 
+// 006D-E: Was auch immer
+Ein 
+ein 
+Das 
+das 
+- 
+// 006E-E: Hundefisch
+Ein 
+ein 
+Der 
+der 
+- 
+// 006F-E: Rindschlange
+Eine 
+eine 
+Die 
+die 
+- 
+// 0070-E: Einswine
+Ein 
+ein 
+Das 
+das 
+- 
+// 0071-E: Gottesanbeter
+Ein 
+ein 
+Der 
+der 
+- 
+// 0072-E: Antike Libelle
+Eine 
+eine 
+Die 
+die 
+- 
+// 0073-E: Dreckige Kakerlake
+Ein 
+ein 
+Der 
+der 
+- 
+// 0074-E:Dusselpilz
+Ein 
+ein 
+Der 
+der 
+- 
+// 0075-E: Mecha-Schildkröte
+Eine 
+eine 
+Die 
+die 
+- 
+// 0076-E: Bro Team
+Ein 
+ein 
+Das 
+das 
+- 
+// 0077-E: Batangutan
+Ein 
+ein 
+Der 
+der 
+- 
+// 0078-E: Straußfant
+Ein 
+ein 
+Der 
+der 
+- 
+// 0079-E: Himmelstitani
+Ein 
+ein 
+Der 
+der 
+- 
+// 007A-E: Affenross
+Ein 
+ein 
+Das 
+das 
+- 
+// 007B-E: Elterlicher Kangahai
+Ein 
+ein 
+Der 
+der 
+- 
+// 007C-E: Kleine Frau Marshmallow
+-
+-
+-
+-
+-
+// 007D-E: Beinahe Mecha-Löwe
+Ein 
+ein 
+Der 
+der 
+- 
+// 007E-E: Rhinocerocket
+Eine 
+eine 
+Die 
+die 
+- 
+// 007F-E: Verkehrsrowdy
+Ein 
+ein 
+Der 
+der 
+- 
+// 0080-E: Metall-Angriffskakerlake
+Eine 
+eine 
+Die 
+die 
+- 
+// 0081-E: Wirklich Fliegende Maus
+Eine 
+eine 
+Die 
+die 
+- 
+// 0082-E: Kurzschluss-Schlag!
+Ein 
+ein 
+Der 
+der 
+- 
+// 0083-E: Unwichtiger Roboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 0084-E: Liebesläufer
+Ein 
+ein 
+Der 
+der 
+- 
+// 0085-E: Gruseliger Schleim
+Ein 
+ein 
+Der 
+der 
+- 
+// 0086-E: Atomarer Powerroboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 0087-E: Nuklearer Roboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 0088-E: Negativer Mann
+-
+-
+-
+-
+-
+// 0089-E: Dickkopf
+Ein 
+ein 
+Der 
+der 
+- 
+// 008A-E: Posierer
+Ein 
+ein 
+Der 
+der 
+- 
+// 008B-E: Großer Kartoffelkäfer
+Ein 
+ein 
+Der 
+der 
+- 
+// 008C-E: Geraspeltes Yammonster
+Ein 
+ein 
+Das 
+das 
+- 
+// 008D-E: Nilpferdwerfer
+Ein 
+ein 
+Der 
+der 
+- 
+// 008E-E: Stahl-Mechorilla
+Ein 
+ein 
+Der 
+der 
+- 
+// 008F-E: Zombidillo
+Ein 
+ein 
+Der 
+der 
+- 
+// 0090-E: Fischreh-Mann
+Ein 
+ein 
+Der 
+der 
+- 
+// 0091-E: PORKY 07
+-
+-
+-
+-
+-
+// 0092-E: Rückkehr des Octobots
+-
+-
+-
+-
+-
+// 0093-E: Teppichmonster
+Ein 
+ein 
+Das 
+das 
+- 
+// 0094-E: Ersatzmech
+Ein 
+ein 
+Der 
+der 
+- 
+// 0095-E: Schweinemaske
+Eine 
+eine 
+Die 
+die 
+- 
+// 0096-E: Zombiefrau
+Eine 
+eine 
+Die 
+die 
+- 
+// 0097-E: Frecher Pilz
+Ein 
+ein 
+Der 
+der 
+- 
+// 0098-E: Ober-Fledi
+Eine 
+eine 
+Die 
+die 
+- 
+// 0099-E: Arachnid!!!!
+Ein 
+ein 
+Das 
+das 
+- 
+// 009A-E: Geizigere Maus
+Eine 
+eine 
+Die 
+die 
+- 
+// 009B-E: Leicht Weinende Gitarre
+Eine 
+eine 
+Die 
+die 
+- 
+// 009C-E: Durchgehaute Trommel
+Eine 
+eine 
+Die 
+die 
+- 
+// 009D-E: Umgebauter Maulwurf
+Ein 
+ein 
+Der 
+der 
+- 
+// 009E-E: Umgebauter Löwe
+Ein 
+ein 
+Der 
+der 
+- 
+// 009F-E: Wackeliger Roboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 00A0-E: Männerbad Schild
+Eine 
+eine 
+Die 
+die 
+- 
+// 00A1-E: Geschrotteter Roboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 00A2-E: Verzweifelter Schrott
+-
+-
+-
+-
+-
+// 00A3-E: Überraschungsbox
+Eine 
+eine 
+Die 
+die 
+- 
+// 00A4-E: Batteriemann
+Ein 
+ein 
+Der 
+der 
+- 
+// 00A5-E: Screwloose
+Eine 
+eine 
+Die 
+die 
+- 
+// 00A6-E: Knuddelbombe
+Eine 
+eine 
+Die 
+die 
+- 
+// 00A7-E: K9000
+Ein 
+ein 
+Der 
+der 
+- 
+// 00A8-E: Laugenartiger Mann
+Ein 
+ein 
+Der 
+der 
+- 
+// 00A9-E: PORKY 07
+-
+-
+-
+-
+-
+// 00AA-E: Major Schweinemaske
+Ein 
+ein 
+Der 
+der 
+- 
+// 00AB-E: Oberst-Schweinemakse
+Eine 
+eine 
+Die 
+die 
+- 
+// 00AC-E: Kapitän Schweinemaske
+Ein 
+ein 
+Der 
+der 
+- 
+// 00AD-E: Navy SQUEAL
+Ein 
+ein 
+Der 
+der 
+- 
+// 00AE-E: Meister Eddy
+-
+-
+-
+-
+-
+// 00AF-E: Stein-Hummer
+Eine 
+eine 
+Die 
+die 
+- 
+// 00B0-E: Ruuuunder Fisch
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B1-E: Blauer Glatzadler
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B2-E: Sicherheitsroboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B3-E: Unwilkommener Gast
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B4-E: PORKY 09
+-
+-
+-
+-
+-
+// 00B5-E: PORKY 10
+-
+-
+-
+-
+-
+// 00B6-E: Titanian
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B7-E: Verbesserter Roboter
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B8-E: Bohnling
+Ein 
+ein 
+Der 
+der 
+- 
+// 00B9-E: Schwarzer Bohnling
+Ein 
+ein 
+Der 
+der 
+- 
+// 00BA-E: Kleiner Wald
+Ein 
+ein 
+Der 
+der 
+- 
+// 00BB-E: PORKY 04
+-
+-
+-
+-
+-
+// 00BC-E: PORKY 05
+-
+-
+-
+-
+-
+// 00BD-E: Maskierter Mann
+Ein 
+ein 
+Der 
+der 
+- 
+// 00BE-E: Maskierter Mann
+Ein 
+ein 
+Der 
+der 
+- 
+// 00BF-E: (EMPTY)
+-
+-
+-
+-
+-
+// 00C0-E: Hacke
+-
+-
+-
+-
+-
+// 00C1-E: Ameisenlöwe
+-
+-
+-
+-
+-
+// 00C2-E: Wütender Schweinsoldat
+-
+-
+-
+-
+-
+// 00C3-E: Krabbe
+-
+-
+-
+-
+-
+// 00C4-E: Elektrischer Katzenfisch
+-
+-
+-
+-
+-
+// 00C5-E: Shimmy Zmizz
+-
+-
+-
+-
+-
+// 00C6-E: Magic
+-
+-
+-
+-
+-
+// 00C7-E: Duster
+-
+-
+-
+-
+-
+// 00C8-E: Keyboard
+-
+-
+-
+-
+-
+// 00C9-E: OJ
+-
+-
+-
+-
+-
+// 00CA-E: Roboter
+-
+-
+-
+-
+-
+// 00CB-E: Mistkäfer
+-
+-
+-
+-
+-
+// 00CC-E: Zeltende Person
+-
+-
+-
+-
+-
+// 00CD-E: Schneehaschen
+-
+-
+-
+-
+-
+// 00CE-E: Clayman
+-
+-
+-
+-
+-
+// 00CF-E: Dampf
+-
+-
+-
+-
+-
+// 00D0-E: Seilschlange
+-
+-
+-
+-
+-
+// 00D1-E: Seilschlange
+-
+-
+-
+-
+-
+// 00D2-E: Aeolias Tisch
+-
+-
+-
+-
+-
+// 00D3-E: Stroh
+-
+-
+-
+-
+-
+// 00D4-E: Dampf 2
+-
+-
+-
+-
+-
+// 00D5-E: Mini-Aufzug
+-
+-
+-
+-
+-
+// 00D6-E: Drago
+-
+-
+-
+-
+-
+// 00D7-E: Wütender Schweinsoldat
+-
+-
+-
+-
+-
+// 00D8-E: Grüner Zug
+-
+-
+-
+-
+-
+// 00D9-E: Pumpen-Drago
+-
+-
+-
+-
+-
+// 00DA-E: Drei Amigos
+-
+-
+-
+-
+-
+// 00DB-E: Blume
+-
+-
+-
+-
+-
+// 00DC-E: Seilleiter
+-
+-
+-
+-
+-
+// 00DD-E: Flamme 3
+-
+-
+-
+-
+-
+// 00DE-E: Flagge
+-
+-
+-
+-
+-
+// 00DF-E: Seilbahn
+-
+-
+-
+-
+-
+// 00E0-E: (EMPTY)
+-
+-
+-
+-
+-
+// 00E1-E: Stück
+-
+-
+-
+-
+-
+// 00E2-E: Flamme 1
+-
+-
+-
+-
+-
+// 00E3-E: Lotuswurzel
+-
+-
+-
+-
+-
+// 00E4-E: Unbearbeiteter Lehm
+-
+-
+-
+-
+-
+// 00E5-E: Explosion
+-
+-
+-
+-
+-
+// 00E6-E: Rauch
+-
+-
+-
+-
+-
+// 00E7-E: Statuenkopf
+-
+-
+-
+-
+-
+// 00E8-E: Karusell
+-
+-
+-
+-
+-
+// 00E9-E: Nippos Komode
+-
+-
+-
+-
+-
+// 00EA-E: Feuerfliegen-Schwarm
+-
+-
+-
+-
+-
+// 00EB-E: Hinawas Kleidung
+-
+-
+-
+-
+-
+// 00EC-E: Elektrischer Katzenfisch
+-
+-
+-
+-
+-
+// 00ED-E: Besen
+-
+-
+-
+-
+-
+// 00EE-E: Fisch
+-
+-
+-
+-
+-
+// 00EF-E: Seeigel
+-
+-
+-
+-
+-
+// 00F0-E: Zug
+-
+-
+-
+-
+-
+// 00F1-E: Schild
+-
+-
+-
+-
+-
+// 00F2-E: Schild
+-
+-
+-
+-
+-
+// 00F3-E: (EMPTY)
+-
+-
+-
+-
+-
+// 00F4-E: Portrait
+-
+-
+-
+-
+-
+// 00F5-E: Freundlicher Geist
+-
+-
+-
+-
+-
+// 00F6-E: Abfalleimer
+-
+-
+-
+-
+-
+// 00F7-E: Stahlball
+-
+-
+-
+-
+-
+// 00F8-E: Ei des Lichtes
+-
+-
+-
+-
+-
+// 00F9-E: Kastanie
+-
+-
+-
+-
+-
+// 00FA-E: Rockiger Geist
+-
+-
+-
+-
+-
+// 00FB-E: Kerze
+-
+-
+-
+-
+-
+// 00FC-E: Maus
+-
+-
+-
+-
+-
+// 00FD-E: Energiemaschine
+-
+-
+-
+-
+-
+// 00FE-E: Lichtklinge
+-
+-
+-
+-
+-
+// 00FF-E: Weinglas
+-
+-
+-
+-
+-
+// 0100-E: Seilschlange
+-
+-
+-
+-
+-
+// 0101-E: Stinkwanze
+-
+-
+-
+-
+-
+// 0102-E: Müllabfuhr
+-
+-
+-
+-
+-
+// 0103-E: Rauch
+-
+-
+-
+-
+-
+// 0104-E: Aeolia
+-
+-
+-
+-
+-
+// 0105-E: Doria
+-
+-
+-
+-
+-
+// 0106-E: Lupe
+-
+-
+-
+-
+-
+// 0107-E: Textballon
+-
+-
+-
+-
+-
+// 0108-E: Schild
+-
+-
+-
+-
+-
+// 0109-E: KEIN Stein
+-
+-
+-
+-
+-
+// 010A-E: Kumatora
+-
+-
+-
+-
+-
+// 010B-E: Steinsplitter
+-
+-
+-
+-
+-
+// 010C-E: Dieses Auto
+-
+-
+-
+-
+-
+// 010D-E: Schwarzer Drago
+-
+-
+-
+-
+-
+// 010E-E: Maulwurfsgrille
+-
+-
+-
+-
+-
+// 010F-E: Blitz
+-
+-
+-
+-
+-
+// 0110-E: Mutter Schweineschiff
+-
+-
+-
+-
+-
+// 0111-E: (EMPTY)
+-
+-
+-
+-
+-
+// 0112-E: Lydia
+-
+-
+-
+-
+-
+// 0113-E: Mixolydia
+-
+-
+-
+-
+-
+// 0114-E: Hinawa
+-
+-
+-
+-
+-
+// 0115-E: Eingefrorener Drago
+-
+-
+-
+-
+-
+// 0116-E: Porky
+-
+-
+-
+-
+-
+// 0117-E: Donner
+-
+-
+-
+-
+-
+// 0118-E: Kindermaus
+-
+-
+-
+-
+-
+// 0119-E: Dr. Andonuts
+-
+-
+-
+-
+-
+// 011A-E: Schloss Osohe
+-
+-
+-
+-
+-
+// 011B-E: Mutter Schweineschiff
+-
+-
+-
+-
+-
+// 011C-E: Vulkan
+-
+-
+-
+-
+-
+// 011D-E: Explosion FX
+-
+-
+-
+-
+-
+// 011E-E: Überschrift
+-
+-
+-
+-
+-
+// 011F-E: Fernes Schweineschiff
+-
+-
+-
+-
+-
+// 0120-E: Kachel
+-
+-
+-
+-
+-
+// 0121-E: (EMPTY)
+-
+-
+-
+-
+-
+// 0122-E: Wassersäule
+-
+-
+-
+-
+-
+// 0123-E: Fernes Schweineschiff
+-
+-
+-
+-
+-
+// 0124-E: KEINE Steinwolke
+-
+-
+-
+-
+-
+// 0125-E: Rauch
+-
+-
+-
+-
+-
+// 0126-E: Setzling
+-
+-
+-
+-
+-
+// 0127-E: (EMPTY)
+-
+-
+-
+-
+-
+// 0128-E: (EMPTY)
+-
+-
+-
+-
+-
+// 0129-E: (EMPTY)
+-
+-
+-
+-
+-
+// 012A-E: (EMPTY)
+-
+-
+-
+-
+-
+// 012B-E: (EMPTY)
+-
+-
+-
+-
+-
+// 012C-E: Grab
+-
+-
+-
+-
+-
+// 012D-E: Phrygia
+-
+-
+-
+-
+-
+// 012E-E: Würfel
+-
+-
+-
+-
+-
+// 012F-E: Eisenstift
+-
+-
+-
+-
+-
+// 0130-E: Caribou
+-
+-
+-
+-
+-
+// 0131-E: Ionia
+-
+-
+-
+-
+-
+// 0132-E: Trockener Drago Wind
+-
+-
+-
+-
+-
+// 0133-E: Pilz
+-
+-
+-
+-
+-
+// 0134-E: Brücke
+-
+-
+-
+-
+-
+// 0135-E: Halluz. blaues Zelt
+-
+-
+-
+-
+-
+// 0136-E: Holzpferd 1
+-
+-
+-
+-
+-
+// 0137-E: Holzpferd 2
+-
+-
+-
+-
+-
+// 0138-E: Holzpferd 3
+-
+-
+-
+-
+-
+// 0139-E: Boat on Mind's 100F
+-
+-
+-
+-
+-
+// 013A-E: Winziger Pokey-Bot
+-
+-
+-
+-
+-
+// 013B-E: Schild
+-
+-
+-
+-
+-
+// 013C-E: Bollerwagen
+-
+-
+-
+-
+-
+// 013D-E: Game Ballon
+-
+-
+-
+-
+-
+// 013F-E: Oktopustinte
+-
+-
+-
+-
+-
+// 0140-E: Drachenfeuerwerk
+-
+-
+-
+-
+-
+// 0141-E: Himmelsrackete
+-
+-
+-
+-
+-
+// 0142-E: Polizeiauto
+-
+-
+-
+-
+-
+// 0143-E: Auto
+-
+-
+-
+-
+-
+// 0144-E: Titiboo Attic Kotatsu
+-
+-
+-
+-
+-
+// 0145-E: Hölzerner MOTHER 3 Titel
+-
+-
+-
+-
+-
+// 0146-E: Overworld
+-
+-
+-
+-
+-
+// 0147-E: Underworld
+-
+-
+-
+-
+-
+// 0148-E: Männerbad Tür
+-
+-
+-
+-
+-
+// 0149-E: Aeolia & Sofa
+-
+-
+-
+-
+-

@@ -71,7 +71,7 @@ Frau Lava
 Magmann
 Zombiemann
 Zombiehund
-Verirrter Geist
+Lungender Geist
 Mobiles Grab
 Abgetrenn. Blutegel
 Rückgratl. Hummer
@@ -80,7 +80,7 @@ Munteres Skelett
 Großer Bruder
 Fassmann
 Erdbeerschleim
-Arachnid!
+Spinne!
 Brutale Kakerlake
 Barriere Trio
 Geisterrüstung
@@ -110,7 +110,7 @@ Schlitterhenne
 Was auch immer
 Hundefisch
 Rindschlange
-Einswine
+Einschwein
 Gottesanbeterin
 Antike Libelle
 Schmutz-Kakerlake
@@ -151,7 +151,7 @@ Schweinemaske
 Zombiefrau
 Frecher Pilz
 Ober-Fledi
-Arachnid!!!!
+Spinne!!!!
 Geizigere Maus
 Weinende Gitarre
 Durchgeh. Trommel
@@ -187,8 +187,8 @@ Schwarzer Bohnling
 Kleiner Wald
 PORKY 04
 PORKY 05
-Maskierter Mann
-Maskierter Mann
+Maskierte Mann
+Maskierte Mann
 (empty)
 Hacke
 Ameisenlöwe
