@@ -278,10 +278,10 @@ seine
 -
 seinen 
 // 001F-E: Fenomeno
--
--
--
--
+Das 
+das 
+Ein 
+ein 
 sein 
 seine 
 -

@@ -218,16 +218,15 @@ bne +
 b  .cc_en_articles
 +
 
-cmp  r0,#0x08                // check for 0xEF08, which will print the correct verb suffix
+cmp  r0,#0x40                // check for 0xEF40, which will print the correct verb suffix
 bne +
 b  .cc_plural_verb
 +
 
-cmp  r0,#0x09                // check for 0xEF09, which will print the cohorts string
+cmp  r0,#0x41                // check for 0xEF41, which will print the cohorts string in accusative
 bne +
 b  .cc_cohorts_akk
 +
-
 
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne +
@@ -277,10 +276,10 @@ mov  r3,#0                   // r3 will be our total # of bytes changed
 ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1
-beq  .cc_cohorts_end         // don't print anything if there's only one enemy
+beq  .cc_cohorts_akk_end         // don't print anything if there's only one enemy
 sub  r0,#1
 cmp  r0,#1
-bne  .cc_cohorts_plural
+bne  .cc_cohorts_akk_plural
 
 ldr  r0,=#0x8D08314          // copy "and "
 bl   custom_strlen           // count the length of our special string, store its length in r2
@@ -288,7 +287,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -300,16 +299,16 @@ ldr  r2,=#0x8D0829C
 add  r0,r0,r2                // r0 now has the address to the appropriate possessive pronoun string
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0
-b    .cc_cohorts_second_part
+b    .cc_cohorts_akk_second_part
 
-.cc_cohorts_plural:
+.cc_cohorts_akk_plural:
 ldr  r0,=#0x8D08314          // copy "and "
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -322,7 +321,7 @@ add  r0,r0,r2                // r0 now has the address to the appropriate posses
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0
 
-.cc_cohorts_second_part:
+.cc_cohorts_akk_second_part:
 ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 sub  r0,#1                   // subtract one for ease of use
@@ -330,14 +329,13 @@ sub  r0,#1                   // subtract one for ease of use
 push {r1}
 
 ldr  r1,=#0x8D0829C          // load r1 with the base address of our custom text array in ROM
-mov  r2,#40
-mul  r0,r2
-add  r0,r0,r1                // r0 now has the address of the proper cohorts string
+mov  r2,#80
+add  r0,r1,r2
 pop  {r1}                    // restore r1 with the target address
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0                // update special string length
 
-.cc_cohorts_end:
+.cc_cohorts_akk_end:
 mov  r0,r3                   // r0 now has the total # of bytes we added
 
 pop  {r1-r3}
@@ -363,7 +361,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -384,7 +382,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -434,7 +432,7 @@ mov  r2,#0xC8				 // Offset "t "
 add  r0,r0,r2
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0
-b .cc_plural_verb_end
+b    .cc_plural_verb_end
 
 .cc_plural_verb_plural:
 ldr  r0,=#0x8D0829C			 // Base adress of custom_text
@@ -462,7 +460,7 @@ sub  r2,r0,#2                // r2 will be an offset into the extra enemy data s
 ldr  r0,=#0x2014320          // this is where current_enemy_save saves the current enemy's ID #
 ldrh r0,[r0,#0]              // load the current #
 mov  r1,#8
-mul  r0,r1                   // offset = enemy ID * 5 bytes
+mul  r0,r1                   // offset = enemy ID * 8 bytes
 ldr  r1,=#0x8D08A6C          // this is the base address of our extra enemy data table in ROM
 add  r0,r0,r1                // r0 now has address of this enemy's extra data entry
 ldrb r0,[r0,r2]              // r0 now has the proper line # to use from custom_text.bin
@@ -1352,12 +1350,12 @@ bne +
 b  .ecc_en_articles
 +
 
-cmp  r0,#0x08                // check for 0xEF08, which the correct verb suffix
+cmp  r0,#0x40                // check for 0xEF40, which the correct verb suffix
 bne +
 b  .ecc_plural_verb
 +
 
-cmp  r0,#0x09                // check for 0xEF09, which will print "and cohort/and cohorts" if need be
+cmp  r0,#0x41                // check for 0xEF40, which will print "and cohort/and cohorts" if need be
 bne +
 b  .ecc_cohorts_akk
 +
@@ -1424,7 +1422,7 @@ cmp  r0,#1
 beq  +                       // don't print anything if there's only one enemy
 sub  r0,#1
 cmp  r0,#1
-bne  .ecc_cohorts_plural
+bne  .ecc_cohorts_akk_plural
 
 ldr  r0,=#0x8D08314          // copy "and "
 bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
@@ -1433,7 +1431,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -1447,9 +1445,9 @@ bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
 
-b    .ecc_cohorts_second_part
+b    .ecc_cohorts_akk_second_part
 
-.ecc_cohorts_plural:
+.ecc_cohorts_akk_plural:
 ldr  r0,=#0x8D08314          // copy "and "
 bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
@@ -1457,7 +1455,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -1471,17 +1469,16 @@ bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
 
-.ecc_cohorts_second_part: 
+.ecc_cohorts_akk_second_part: 
 ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
-//sub  r0,#1                   // subtract one for ease of use
+sub  r0,#1                   // subtract one for ease of use
 
 push {r1}                    // now we're going to print "cohort/cohorts" stuff
 
 ldr  r1,=#0x8D0829C          // load r1 with the base address of our custom text array in ROM
-mov  r2,#40
-mul  r0,r2
-add  r0,r0,r1                // r0 now has the address of the proper cohorts string
+mov  r2,#80					 // This refers to "Cohorts"
+add  r0,r2,r1                // r0 now has the address of the proper cohorts string
 pop  {r1}                    // restore r1 with the target address
 bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
 add  r3,r3,r0                // we just copied the possessive pronoun now
@@ -1513,7 +1510,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
@@ -1536,7 +1533,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320          // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#0x8D08A6C
 add  r0,r0,r2
