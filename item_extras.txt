@@ -26,7 +26,7 @@ etwas
 -
 ist 
 //Stick
-Einen 
+Ein 
 einen 
 Der 
 den 
@@ -98,7 +98,7 @@ ist
 -
 ist 
 //Master Stick
-Einen 
+Ein 
 einen 
 Der 
 den 
@@ -413,8 +413,8 @@ ein
 -
 ist 
 //White Collar
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -422,8 +422,8 @@ ein
 -
 ist 
 //Brown Collar
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -431,8 +431,8 @@ ein
 -
 ist 
 //Black Collar
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -440,8 +440,8 @@ ein
 -
 ist 
 //Striped Collar
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -449,8 +449,8 @@ ein
 -
 ist 
 //Red Collar
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -467,8 +467,8 @@ s
 -
 ist 
 //Rubber Cape
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -476,8 +476,8 @@ s
 -
 ist 
 //Aloh-Coat
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -494,8 +494,8 @@ ist
 -
 ist 
 //Goddess Bustier
-Ein 
-ein 
+Eine 
+einen 
 Der 
 den 
 des 
@@ -701,8 +701,8 @@ die
 -
 ist 
 //Aries Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -710,8 +710,8 @@ es
 -
 ist 
 //Aquarius Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -719,8 +719,8 @@ es
 -
 ist 
 //Pisces Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -728,8 +728,8 @@ es
 -
 ist 
 //Capricorn Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -737,8 +737,8 @@ es
 -
 ist 
 //Taurus Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -746,8 +746,8 @@ es
 -
 ist 
 //Gemini Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -755,8 +755,8 @@ es
 -
 ist 
 //Cancer Bracelet
-Ein 
-ein 
+Einen 
+einen 
 Der 
 den 
 des 
@@ -765,7 +765,7 @@ es
 ist 
 //Leo Bracelet
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -774,7 +774,7 @@ es
 ist 
 //Virgo Bracelet
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -783,7 +783,7 @@ es
 ist 
 //Libra-Bracelet
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -792,7 +792,7 @@ es
 ist 
 //Scorpio Bracelet
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -801,7 +801,7 @@ es
 ist 
 //Sagittarius Bracelet
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -810,7 +810,7 @@ es
 ist 
 //DCMC Ring
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -818,8 +818,8 @@ s
 -
 ist 
 //Awesome Ring
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -855,7 +855,7 @@ es
 ist 
 //Nut Cookie
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -890,8 +890,8 @@ s
 -
 ist 
 //Edible Mushroom
-Ein 
-ein 
+-
+-
 -
 -
 -
@@ -918,7 +918,7 @@ es
 ist 
 //Fresh Egg
 Ein 
-ein 
+-
 -
 -
 -
@@ -944,7 +944,7 @@ die
 -
 ist 
 //Peculiar Cheese
--
+Ein 
 -
 -
 -
@@ -972,7 +972,7 @@ die
 ist 
 //Bread Roll
 Ein 
-ein 
+-
 Das 
 das 
 des 
@@ -1008,7 +1008,7 @@ die
 ist 
 //Big City Burger
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1035,7 +1035,7 @@ s
 ist 
 //Doggy Jerky
 Ein 
-ein 
+einen 
 Das 
 das 
 des 
@@ -1044,7 +1044,7 @@ s
 ist 
 //White Croiss-t
 Ein 
-ein 
+-
 -
 -
 -
@@ -1170,7 +1170,7 @@ der
 ist 
 //King Burger
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1179,7 +1179,7 @@ s
 ist 
 //Beefsteak
 Ein 
-ein 
+einen 
 Das 
 das 
 des 
@@ -1232,7 +1232,7 @@ die
 -
 ist 
 //Magic Pudding
--
+Ein 
 -
 -
 -
@@ -1241,7 +1241,7 @@ ist
 -
 ist 
 //Magic Cake
--
+Ein 
 -
 -
 -
@@ -1323,7 +1323,7 @@ s
 ist 
 //Secret Herb
 Ein 
-ein 
+-
 -
 -
 -
@@ -1431,7 +1431,7 @@ die
 ist 
 //Doorknob
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1476,7 +1476,7 @@ s
 ist 
 //Enemy Bufferizer
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1485,7 +1485,7 @@ s
 ist 
 //Enemy Wimperizer
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1557,7 +1557,7 @@ die
 ist 
 //Meteotite
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1611,7 +1611,7 @@ die
 ist 
 //Knit Sweater
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1628,7 +1628,7 @@ der
 -
 ist 
 //Magic Pend-t
--
+Ein 
 -
 -
 -
@@ -1683,7 +1683,7 @@ ist
 ist 
 //Flame Pend-t
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1692,7 +1692,7 @@ s
 ist 
 //Ice Pend-t
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1701,7 +1701,7 @@ s
 ist 
 //Thunder Pend-t
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1710,7 +1710,7 @@ s
 ist 
 //Courage Badge
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1728,7 +1728,7 @@ s
 ist 
 //Pencil Eraser
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1800,7 +1800,7 @@ die
 ist 
 //Bird
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -1844,7 +1844,7 @@ ist
 -
 ist 
 //Shield Snatcher
-Einen 
+Ein 
 einen 
 Der 
 den 

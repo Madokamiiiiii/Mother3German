@@ -29,9 +29,9 @@
 000D: Masked Man
 000D-E: Maskierter Mann
 000E: Fierce Pork Trooper
-000E-E: Wüten. Schweinesoldat
+000E-E: Wüt. Schweinesoldat
 000F: Fierce Pork Trooper
-000F-E: Wüten. Schweinesoldat
+000F-E: Wüt. Schweinesoldat
 0010: Jealous Bass
 0010-E: Eifersüchtiger Bass
 0011: Porky
@@ -321,7 +321,7 @@
 009F: Wobbly Robot
 009F-E: Wackeliger Roboter
 00A0: Men's Room Sign
-00A0-E: Männerbad Schild
+00A0-E: Männerbad-Schild
 00A1: Scrapped Robot
 00A1-E: Geschrotteter Roboter
 00A2: Forlorn Junk Heap
@@ -655,6 +655,6 @@
 0147: Underworld
 0147-E: Underworld
 0148: Men's Room Door
-0148-E: Männerbad Tür
+0148-E: Männerbad-Tür
 0149: Aeolia & Sofa
 0149-E: Aeolia & Sofa

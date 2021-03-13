@@ -260,8 +260,8 @@ seine
 -
 seinen 
 // 001D-E: Major Schweinemaske
-Die 
-die 
+-
+-
 Eine 
 eine 
 ihr 
@@ -1367,8 +1367,8 @@ seine
 -
 seinen 
 // 0098-E: Ober-Fledi
-Die 
-die 
+-
+-
 Eine 
 einen 
 ihr 
@@ -1529,8 +1529,8 @@ seine
 -
 seinen 
 // 00AA-E: Major Schweinemaske
-Die 
-die 
+-
+-
 Eine 
 eine 
 ihr 

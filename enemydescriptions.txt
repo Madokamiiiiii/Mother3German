@@ -178,7 +178,7 @@
 3A-E:[BREAK]Ein kaltblütiges Säugetier,[BREAK]das stolz darauf, dass sein[BREAK]festgefrorener Schwanz[BREAK]Nägel einhämmern kann.[END]
 
 3B:[BREAK]Has a viscous personality.[BREAK]It uses hypnosis, but it's[BREAK]much like a normal slug in[BREAK]that it hates saltwater.[END]
-3B-E:Hat eine zähe Personalität.[BREAK]Es benutzt Hypnose, aber[BREAK]ansonsten ist es wie eine[BREAK]normale Nacktschnecke,[BREAK]das Salzwasser hasst.[END]
+3B-E:Hat eine zähe Persönlickeit.[BREAK]Es benutzt Hypnose, aber[BREAK]ansonsten ist es wie eine[BREAK]normale Nacktschnecke,[BREAK]das Salzwasser hasst.[END]
 
 3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
 3C-E:[BREAK]Mach doch irgendwas und[BREAK]frag dich nicht, warum ein[BREAK]Stein dich angreifen würde.[BREAK]Das wäre gefährlich.[END]
@@ -205,7 +205,7 @@
 43-E:Er hatte das Leben als[BREAK]Pflanze satt, also versuch-[BREAK]te er es mit Laufen. Es[BREAK]gibt jetzt keinen Weg[BREAK]zurück mehr![END]
 
 44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
-44-E:[BREAK]Ein sehr orthodoxer Titani,[BREAK]berühmt wegen seiner[BREAK]Personalität, aber nicht[BREAK]für seine Stimme.[END]
+44-E:[BREAK]Ein sehr orthodoxer Titani,[BREAK]berühmt wegen seiner[BREAK]Persönlickeit, aber nicht[BREAK]für seine Stimme.[END]
 
 45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
 45-E:Dieser Schneekronenberg-[BREAK]Konfekt ist tatsächlich ein[BREAK]Monster. Tendiert dazu in[BREAK]hitzigen Kämpfen zu[BREAK]schmelzen.[END]

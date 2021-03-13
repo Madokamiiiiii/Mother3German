@@ -12,8 +12,8 @@ Glänzender Schleim
 Porky
 N.K. Cyborg
 Maskierter Mann
-Wütender Soldat
-Wütender Soldat
+Wüt. Schweinesoldat
+Wüt. Schweinesoldat
 Eifersüchtiger Bass
 Porky
 Klebrige Schnecke
@@ -158,7 +158,7 @@ Durchgeh. Trommel
 Umgebauter Maulw.
 Umgebauter Löwe
 Wackeliger Roboter
-Männerbad Schild
+Männerbad-Schild
 Geschrotte. Roboter
 Verzweifel. Schrott
 Überraschungsbox
