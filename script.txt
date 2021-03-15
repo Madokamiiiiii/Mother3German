@@ -45,7 +45,7 @@
 0-20:[BREAK][BREAK][BREAK][CENTER]I'm sure they'll argue a lot, too.[END]
 0-20E:[BREAK][BREAK][CENTER]Ich bin mir auch sicher,[BREAK][CENTER]dass sie oft streiten werden.[END]
 0-21:[BREAK][BREAK][CENTER]And I can see them helping each[BREAK][CENTER]other out when they need it.[END]
-0-21E:[BREAK][CENTER]Und ich sehe, dass sich oft[BREAK][CENTER]gegenseitig helfen werden,[BREAK][CENTER]wenn sie einander brauchen.[END]
+0-21E:[BREAK][CENTER]Und sie werden sich oft[BREAK][CENTER]gegenseitig helfen, wenn[BREAK][CENTER]sie einander brauchen.[END]
 0-22:[BREAK][BREAK][BREAK][CENTER][CLAUS 22 05 00]...[END]
 0-22E:[BREAK][BREAK][BREAK][CENTER][CLAUS 22 05 00]...[END]
 // Repeats: 0-22, 0-25
@@ -414,7 +414,7 @@
 0-178:@Please be careful now.[END]
 0-178E:@Bitte sei vorsichtig.[END]
 0-179:@I am a lizard.[WAIT]@I will show you which direction[PAUSE 20 00] you need to go.[WAIT]@'Round and 'round we go![WAIT]  Where I stop...[PAUSE 20 00] soon you will know![END]
-0-179E:@Ich bin eine Echse.[WAIT]@Ich werde dir zeigen, in welche Richtung,[PAUSE 20 00][BREAK]  du gehen musst.[WAIT]@Immer im Kreise wir uns drehen![WAIT]  Wo ich stoppe...[PAUSE 20 00] bald wirst du's wissen![END]
+0-179E:@Ich bin eine Echse.[WAIT]@Ich werde dir zeigen, in welche Richtung,[PAUSE 20 00][BREAK]  du gehen musst.[WAIT]@Immer im Kreise wir uns drehen![WAIT]  Wo ich stoppe...[PAUSE 20 00] bald wirst du's sehen![END]
 0-180:@I'm a self-doubting lizard.[WAIT]@Showing which direction you need to go in[PAUSE 20 00][BREAK]  is actually quite hard.[WAIT]@Well, 'round and 'round we go.[WAIT]  Where I stop...[PAUSE 20 00] hopefully won't be too far off[BREAK]  the right path.[END]
 0-180E:@Ich bin eine an mir selbst-zweifelnder Echse.[WAIT]@Den richtigen Weg zu zeigen, ist tatsächlich[PAUSE 20 00][BREAK]   ziemlich schwer.[WAIT]@Also, immer im Kreise wir uns drehen![WAIT]  Wo ich stoppe...[PAUSE 20 00] wird hoffentlich nicht zu[BREAK]  weit weg vom richtigen Weg liegen.[END]
 0-181:@This is the knit cap man's car.[END]
@@ -635,7 +635,7 @@
 2-3E:@Ahh![WAIT]@Der Türknauf...[END]
 // Repeats: 2-3, 12-3
 2-4:@Why'd you hafta come off at a time like this?![END]
-2-4E:@Warum muss das Teil ausgerechnet jetzt[BREAK]  nachlassen?![END]
+2-4E:@Warum muss das Teil ausgerechnet jetzt[BREAK]  abfallen?![END]
 // Repeats: 2-4, 12-4
 2-5:@Aahh, Doorknob![PAUSE 30 00][BREAK]  I mean, [FLINT 23 01 00]![WAIT]  This is no time to be dozing off![WAIT]@There's a huge fire in the Sunshine Forest![END]
 2-5E:@Aahh, Türknauf![PAUSE 30 00][BREAK]  Ich meine, [FLINT 23 01 00]![WAIT]  Jetzt ist keine Zeit für Nickerchen![WAIT]@Im Sonnenscheinwald ist ein riesiges Feuer![END]
@@ -754,7 +754,7 @@
 3-5:@They're saying the Sunshine Forest is on fire...[WAIT]@If that's true, we better get our butts out of[BREAK]  here before the fire engulfs our village, too![END]
 3-5E:@Die sagen, dass der Sonnenscheinwald[BREAK]  brennt...[WAIT]@Wenn das wahr ist, sollten wir unsere Ärsche[BREAK]  besser hier wegbewegen, bevor das Feuer[WAIT]  auch noch unser Dorf verschlingt![END]
 3-6:@Mr. [FLINT 23 01 00].[WAIT]@You should probably take whatever Thomas[BREAK]  says with a grain of salt.[WAIT]  That's just the kind of person he is.[END]
-3-6E:@Herr [FLINT 23 01 00].[WAIT]@Sie sollten vielleicht alles, was Thomas sagt,[BREAK]  mit Vorsicht aufnehmen.[WAIT]  So ist er nunmal.[END]
+3-6E:@Herr [FLINT 23 01 00].[WAIT]@Man sollte nicht alles so ernst nehmen, was[BREAK]  Thomas von sich gibt.[WAIT]  So ist er nunmal.[END]
 3-7:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  Please, feel free to take one with you.[END]
 3-7E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]  Bitte zögere nicht und nimm einfach eine mit.[END]
 3-8:@You're worried about Lighter's shack deep[BREAK]  inside the Sunshine Forest, yes?[WAIT]@I've marked that area on the map for you.[PAUSE 1E 00][END]
@@ -834,7 +834,7 @@
 3-42:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Hmm? That's not what you need?[WAIT]@Oh, [CLAUS 22 05 00] and [LUCAS 22 03 00]?[WAIT]@I believe they're at the Sunset Cemetery,[BREAK]  north of the village.[END]
 3-42E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Hmm? Deswegen bist du nicht hier?[WAIT]@Oh, [CLAUS 22 05 00] und [LUCAS 22 03 00]?[WAIT]@Ich glaube, sie sind im Abendlicht-Friedhof.[END]
 3-43:@Oh, h-hello, [FLINT 23 01 00]...[BREAK]  Are you already out and about again?[WAIT]@H-have you eaten?[END]
-3-43E:@Oh, h-hallo, [FLINT 23 01 00]...[BREAK]  Du bist bereits außer Haus?[WAIT]@H-hast du schon gegessen?[END]
+3-43E:@Oh, h-hallo, [FLINT 23 01 00]...[BREAK]  Du bist bereits wieder draußen?[WAIT]@H-hast du schon gegessen?[END]
 3-44:@Mister [FLINT 23 01 00]![WAIT]@What's wrong? Why the long face?[WAIT]@Come stop by our place![WAIT]  We're baking Nut Bread![END]
 3-44E:@Herr [FLINT 23 01 00]![WAIT]@Stimmt was nicht? Warum das lange Gesicht?[WAIT]@Schau mal bei uns vorbei![WAIT]  Wir backen Nussbrot![END]
 3-45:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Alex's house?[BREAK]@Here, I'll mark it on your map for you.[END]
@@ -898,7 +898,7 @@
 5-1:@Moo.[WAIT]  (We drool a lot, we do.)[END]
 5-1E:@Moo.[WAIT]  (Wir sabbern eine Menge.)[END]
 5-2:@Moo.[WAIT]  (*hop*[BREAK]  Save your game?[PAUSE 5A 00][WAIT]  ...is what frogs say, right?)[END]
-5-2E:@Moo.[WAIT]  (*hüpf*[BREAK]  Willst du dein Spiel speichern?[PAUSE 5A 00][WAIT]  ...ist das, was Frösche sagen, richtig?)[END]
+5-2E:@Moo.[WAIT]  (*hüpf*[BREAK]  Willst du dein Spiel speichern?[PAUSE 5A 00][WAIT]  ...sagen die Frösche, richtig?)[END]
 5-3:@Moo.[WAIT]  (To drool or not to drool, that is the question.)[END]
 5-3E:@Moo.[WAIT]  (Sabbern oder nicht sabbern, das ist hier[BREAK]  die Frage.)[END]
 // This is a math pun in the original
@@ -988,7 +988,7 @@
 6-2:@What happened to [HINAWA 22 08 00] was a[BREAK]  terrible tragedy...[WAIT]@I can't say I know how you're feeling.[END]
 6-2E:@Was mit [HINAWA 22 08 00] passiert ist,[BREAK]  ist eine schreckliche Tragödie...[WAIT]@Ich will gar nicht wissen, wie du dich fühlen[BREAK]  musst.[END]
 6-3:@[HINAWA 22 08 00]'s burial ended without incident.[WAIT]@[LUCAS 22 03 00] has been crying at her grave[BREAK]  ever since.[WAIT]@His poor little heart seems like it's about to[BREAK]  break in two...[END]
-6-3E:@Die Beerdigung endete ohne Zwischenfall.[WAIT]@[LUCAS 22 03 00] weint seitdem die ganze[BREAK]  Zeit an ihrem Grab.[WAIT]@Sein armes kleines Herz, es scheint kurz vor[BREAK]  dem Zerbrechen zu sein...[END]
+6-3E:@Die Beerdigung verlief ohne Zwischenfall.[WAIT]@[LUCAS 22 03 00] weint seitdem die ganze[BREAK]  Zeit an ihrem Grab.[WAIT]@Sein armes kleines Herz, es scheint kurz vor[BREAK]  dem Zerbrechen zu sein...[END]
 // This is an important line emotionally
 6-4:@If there's anything else I can do for you,[BREAK]  just let me know anytime.[END]
 6-4E:@Wenn es irgendwas gibt, was ich für dich[BREAK]  tun kann, lass es mich wissen.[END]
@@ -1155,10 +1155,10 @@
 9-6E:@Der Eingang ist versiegelt.[END]
 // Repeats: 9-6, 37-6
 9-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-9-7E:@[FLINT 23 01 00].[WAIT]  Du bist bei deinem Wutausbruch wirklich[BREAK]  von der Bahn geraten.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
+9-7E:@[FLINT 23 01 00].[WAIT]  Du bist bei deinem Wutausbruch wirklich[BREAK]  von der Bahn geraten.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auslassen.[END]
 // Repeats: 9-7, 37-7
 9-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
-9-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Abendlichtfriedhof.[WAIT]@Absolut jeder hat [HINAWA 22 08 00] geliebt...[END]
+9-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Abendlichtfriedhof.[WAIT]@Ausnahmslos jeder hat [HINAWA 22 08 00] geliebt...[END]
 // Repeats: 9-8, 37-8
 9-9:@We can forget happy things.[WAIT]@We can probably forget sad things, too.[WAIT]@People have the power to forget.[END]
 9-9E:@Wir können fröhliche Dinge vergessen.[WAIT]@Wir können auch traurige Dinge vergessen.[WAIT]@Menschen haben die Kraft zum Vergessen.[END]
@@ -1185,7 +1185,7 @@
 9-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen,[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann die [COLOR 03 00]A[COLOR 00 00]-Taste drückst, wählst[BREAK]  du die Menüoption aus.[WAIT]  Du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und die[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Taste drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00] und[BREAK]  die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Tasten![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 9-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
-9-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Eine Schwalbe, der flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie eine Schwalbe[BREAK]  zu beenden...[EVENT][END]
+9-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Eine Schwalbe, die flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie eine Schwalbe[BREAK]  zu beenden...[EVENT][END]
 // Repeats: 9-17, 37-17
 9-18:[SOUND 03 00]  ...chirp chirp chirp chirp!)[END]
 9-18E:[SOUND 03 00]  ...zwitscher zwitscher zwitscher zwitscher!)[END]
@@ -1459,7 +1459,7 @@
 12-3E:@Ahh![WAIT]@Der Türknauf...[END]
 // Repeats: 2-3, 12-3
 12-4:@Why'd you hafta come off at a time like this?![END]
-12-4E:@Warum muss das Teil ausgerechnet jetzt[BREAK]  nachlassen?![END]
+12-4E:@Warum muss das Teil ausgerechnet jetzt[BREAK]  abfallen?![END]
 // Repeats: 2-4, 12-4
 12-5:@Aahh, Doorknob![PAUSE 30 00][BREAK]  I mean, [FLINT 23 01 00]![WAIT]  This is no time to be dozing off![WAIT]@There's a huge fire in the Sunshine Forest![END]
 12-5E:@Aahh, Türknauf![PAUSE 30 00][BREAK]  Ich meine, [FLINT 23 01 00]![WAIT]  Jetzt ist keine Zeit für Nickerchen![WAIT]@Im Sonnenscheinwald ist ein riesiges Feuer![END]
@@ -1579,7 +1579,7 @@
 12-47E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 // Repeats: 12-47, 14-28
 12-48:@[FLINT 23 01 00]![BREAK]  Thank heavens you're here![WAIT]@I think Lighter and Fuel are still stuck inside the[BREAK]  forest![WAIT]@Don't worry, I'll hold back these[BREAK]  rubberneckers![WAIT]@You just hurry and find them![END]
-12-48E:@[FLINT 23 01 00]![BREAK]  Dem Himmel sei Dank bist du da![WAIT]@Ich glaube Lighter und Fuel stecken immer noch[BREAK]  im Wald fest![WAIT]@Nur die Ruhe, ich werde diese Schaulustige[BREAK]  zurückhalten![WAIT]@Geh einfach los und such sie![END]
+12-48E:@[FLINT 23 01 00]![BREAK]  Dem Himmel sei Dank bist du da![WAIT]@Ich glaube Lighter und Fuel stecken immer noch[BREAK]  im Wald fest![WAIT]@Nur die Ruhe, ich werde diese Schaulustigen[BREAK]  zurückhalten![WAIT]@Geh einfach los und such sie![END]
 12-49:@Where's the fire?! Is it on fire?![WAIT]@Ooh! I bet it's a big, giant, foresty fire![END]
 12-49E:@Wo ist das Feuer?! Brennt es?![WAIT]@Ooh! Ich wette es ist ein riesiges, gigantisches,[BREAK]  waldiges Feuer![END]
 12-50:@This is a big emergency, so I came to help out![WAIT]  But Ed won't let me through![WAIT]@I can be useful too, you know! I'm not just[BREAK]  some annoying onlooker![END]
@@ -1641,7 +1641,7 @@
 12-77:@Oh, here you are, [FLINT 23 01 00].[BREAK]@Good thing I waited.[END]
 12-77E:@Oh, hier bist du, [FLINT 23 01 00].[BREAK]@Gut, dass ich gewartet habe.[END]
 12-78:@[FLINT 22 01 00]. Just take this and go.[WAIT]@It's "the" Drago fang.[WAIT]@I made it into a weapon.[WAIT]@The only thing that can pierce the tough hide[BREAK]  of a Drago is a Drago's fang.[WAIT]@There's no other weapon that can beat a[BREAK]  Drago.[END]
-12-78E:@[FLINT 22 01 00]. Nimm das und geh.[WAIT]@Das ist "der" Drago-Zahn.[WAIT]@Ich habe es in eine Waffe umfungiert.[WAIT]@Das Einzige, das die harte Haut eines Dragos[BREAK]  durchdringen kann, ist ein Drago-Zahn.[WAIT]@Es gibt keine andere Waffe, die einem Drago[BREAK]  etwas anhaben kann.[END]
+12-78E:@[FLINT 22 01 00]. Nimm ihn und geh.[WAIT]@Das ist "der" Drago-Zahn.[WAIT]@Ich habe ihn in eine Waffe umfungiert.[WAIT]@Das Einzige, das die harte Haut eines Dragos[BREAK]  durchdringen kann, ist ein Drago-Zahn.[WAIT]@Es gibt keine andere Waffe, die einem Drago[BREAK]  etwas anhaben kann.[END]
 // Repeats: 12-78, 116-1
 12-79:@I realize this might be tough for you to accept,[BREAK]  but you should take it.[END]
 12-79E:@Ich weiß, dass es schwer ist sowas anzuneh-[BREAK]  men, aber bitte, du solltest es mitnehmen.[END]
@@ -1733,7 +1733,7 @@
 13-24E:@Unwahrscheinlicherweise war in der Box eine[BREAK]  heiße Quelle![END]
 // Repeats: 13-24, 14-24, 17-24, 36-24, 42-24, 55-24, 72-24, 77-24, 80-24, 96-24, 180-24, 181-24, 182-24, 192-24, 203-24, 207-24, 249-24, 250-24, 251-24, 252-24, 263-24, 327-24, 328-24, 329-24, 330-24, 331-24, 332-24, 373-24, 374-24, 375-24, 376-24, 377-24, 378-24, 379-24, 443-24, 467-24, 468-24, 469-24, 471-24, 472-24, 477-24, 803-24, 877-24, 878-24, 880-24, 882-24, 892-24, 900-24
 13-25:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Some people always try to avoid fighting when[BREAK]  there are enemies around.[WAIT]  You know the type, right?[WAIT]  They use the dash ability to zoom right by.[WAIT]  I guess you could say they're followers of[BREAK]  "peace at any price".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] No, no, no.[PAUSE 08 00][BREAK]  I'm not saying that's how you are or anything.[WAIT]  I just think that if you keep running away from[BREAK]  everything now,[WAIT]  later on when you HAVE to fight, you'll have a[BREAK]  really rough time because you lack experience.[WAIT]     "Always running off[PAUSE 18 00][BREAK]    will only lead to regret[PAUSE 18 00][BREAK]      my young disciple."[WAIT]  Please keep this in mind.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit, um ihnen[BREAK]  zu entkommen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Frieden um jeden Preis" bezeichnen.[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein nein nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn[BREAK]  du jetzt immer wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann ein ganz schönes Problem haben wirst,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
+13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit, um ihnen[BREAK]  zu entkommen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Friedens um jeden Preis" bezeichnen.[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein nein nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn[BREAK]  du jetzt immer wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann ein ganz schönes Problem haben wirst,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
 // Repeats: 13-25, 14-25, 17-25, 36-25, 42-25, 55-25, 72-25, 77-25, 80-25, 96-25, 180-25, 181-25, 182-25, 192-25, 203-25, 207-25, 249-25, 250-25, 251-25, 252-25, 263-25, 327-25, 328-25, 329-25, 330-25, 331-25, 332-25, 373-25, 374-25, 375-25, 376-25, 377-25, 378-25, 379-25, 443-25, 467-25, 468-25, 469-25, 471-25, 472-25, 477-25, 803-25, 877-25, 878-25, 880-25, 882-25, 892-25, 900-25
 13-26:[SOUND 03 00]  chirp-chirp chirp-chirp!)[END]
 13-26E:[SOUND 03 00]  zwitscher-zwitscher zwitscher-zwitscher!)[END]
@@ -1757,9 +1757,9 @@
 13-32E:@Das Haus ist komplett eingestürzt.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 13-33:@*cough* *cough*[WAIT]@Oh, it's you, [FLINT 23 01 00].[WAIT]@I THOUGHT I saw someone as manly as me[BREAK]  walking this way.[WAIT]@This smoke is terrible, and with my sensitive[BREAK]  throat, I can't continue any further.[WAIT]@So you can have this cookie instead.[WAIT]  Let this [PAUSE 1E 00]slightly unclean[PAUSE 1E 00] and not very tasty[BREAK]  cookie be of use.[WAIT]@......[WAIT]  Please, [PAUSE 0F 00]let it be of use.[END]
-13-33E:@*keuch* *keuch*[WAIT]@Oh, du bist's, [FLINT 23 01 00].[WAIT]@Ich DACHTE, ich sah jemanden so männlichen[BREAK]  wie mich hier lang laufen.[WAIT]@Dieser Rauch ist schrecklich, und mit meiner[BREAK]  sensiblen Lunge, kann ich nicht weiter gehen.[WAIT]@Also nimm stattdessen diesen Keks.[WAIT]  Lass diesen [PAUSE 1E 00]etwas dreckigen[PAUSE 1E 00] und nicht sehr[BREAK]  leckeren Keks von Nutzen sein.[WAIT]@......[WAIT]  Bitte [PAUSE 0F 00]lass es von Nutzen sein.[END]
+13-33E:@*keuch* *keuch*[WAIT]@Oh, du bist's, [FLINT 23 01 00].[WAIT]@Ich DACHTE, ich sah jemanden so männlichen[BREAK]  wie mich hier lang laufen.[WAIT]@Dieser Rauch ist schrecklich, und mit meiner[BREAK]  sensiblen Lunge, kann ich nicht weiter gehen.[WAIT]@Also nimm stattdessen diesen Keks.[WAIT]  Lass diesen [PAUSE 1E 00]etwas dreckigen[PAUSE 1E 00] und nicht sehr[BREAK]  leckeren Keks von Nutzen sein.[WAIT]@......[WAIT]  Bitte [PAUSE 0F 00]nutz ihn.[END]
 13-34:@*cough* [PAUSE 0C 00]*cough*[PAUSE 0C 00] *cough*[PAUSE 0C 00][BREAK]@Alright, alright.[WAIT]@I'll give you one more of my slightly unclean[BREAK]  and not very tasty cookies.[WAIT]@Let it be of use.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Please, [PAUSE 10 00]let it be of use.[END]
-13-34E:@*keuch* [PAUSE 0C 00]*keuch*[PAUSE 0C 00] *keuch*[PAUSE 0C 00][BREAK]@Schon gut, schon gut.[WAIT]@Ich werde dir noch einen von meinen etwas[BREAK] dreckigen und nicht sehr leckeren Keksen[WAIT]  geben.[WAIT]@Lass es dir von Nutzen sein.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Bitte [PAUSE 10 00]lass es dir von Nutzen sein.[END]
+13-34E:@*keuch* [PAUSE 0C 00]*keuch*[PAUSE 0C 00] *keuch*[PAUSE 0C 00][BREAK]@Schon gut, schon gut.[WAIT]@Ich werde dir noch einen von meinen etwas[BREAK] dreckigen und nicht sehr leckeren Keksen[WAIT]  geben.[WAIT]@Lass es dir von Nutzen sein.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Bitte [PAUSE 10 00]nutz ihn.[END]
 13-35:@Hey. [PAUSE 10 00]You can't hold any more stuff.[END]
 13-35E:@Hey. [PAUSE 10 00]Du kannst kein weiteres Zeugs tragen.[END]
 13-36:@I-[PAUSE 0F 00] I know you want more, but...[END]
@@ -1879,7 +1879,7 @@
 14-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 14-27:[SOUND 03 00]@Chirp chirp.[WAIT]  (The Magypsies are having their monthly tea[BREAK]  party today.[WAIT]  Can't you hear those indescribably deep yet[BREAK]  shrill voices coming from Aeolia's house?[EVENT][END]
-14-27E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Die Magypsies halten heute ihre monatliche[BREAK]  Teeparty.[WAIT]  Kannst du nicht diese unbeschreiblich schrillen[BREAK]  Schreie von Aeolias Haus hören?[EVENT][END]
+14-27E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Die Magypsies halten heute ihre monatliche[BREAK]  Teeparty.[WAIT]  Hörst du nicht diese unbeschreiblich tiefen,[BREAK]  zugleich schrillen Schreie aus Aeolias Haus?[EVENT][END]
 14-28:[SOUND 03 00]  chirp chirp!)[END]
 14-28E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 // Repeats: 12-47, 14-28
@@ -1936,7 +1936,7 @@
 15-13:@This Drago is friendlier than it appears.[END]
 15-13E:@Dieser Drago ist freundlicher als er aussieht.[END]
 15-14:@This Drago has gentle eyes.[END]
-15-14E:@Dieser Drago hat schöne Augen.[END]
+15-14E:@Dieser Drago hat sanfte Augen.[END]
 15-15:@This Drago baby was born just recently.[END]
 15-15E:@Dieses Dragobaby kam erst vor kurzem[BREAK]  auf die Welt.[END]
 15-16:@Wait, where are you going?[WAIT]@We're having so much fun here...[END]
@@ -2061,7 +2061,7 @@
 18-4:@Actually, [HINAWA 22 08 00] and the kids might[BREAK]  still be stuck out there,[WAIT]  because of all these knocked-down trees[BREAK]  blocking the way.[END]
 18-4E:@[HINAWA 22 08 00] und die Kinder könnten[BREAK]  feststecken,[WAIT]  weil die ganzen umgefallenen Bäume die Wege[BREAK]  versperren.[END]
 18-5:@Even if it's not the most direct path, we[BREAK]  should look for another way around...[END]
-18-5E:@Auch wenn es nicht der schnellste Weg ist,[BREAK]  sollten wir nach einer anderen Ausschau[WAIT]  halten...[END]
+18-5E:@Auch wenn es nicht der schnellste Weg ist,[BREAK]  sollten wir nach einem anderen Ausschau[WAIT]  halten...[END]
 18-6:@It's probably best if we split up into a few[BREAK]  groups.[END]
 18-6E:@Es ist wahrscheinlich besser, wenn wir uns in[BREAK]  Gruppen aufteilen.[END]
 18-7:@Hey!!![END]
@@ -2141,9 +2141,9 @@
 18-42:@[BONEY 23 05 00].[WAIT]@Bring my son back here.[WAIT]@My son's name is...[END]
 18-42E:@[BONEY 23 05 00].[WAIT]@Bring meinen Sohn hierher.[WAIT]@Mein Sohn heißt...[END]
 18-43:@His name is [DUSTER 23 03 00].[WAIT]@Got that?[WAIT]@Here, have a sniff of this sock...[PAUSE 20 00][BREAK]  Gaahh[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00] That's ripe.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00][WAIT]  D-[PAUSE 18 00]don't forget this smell, now.[END]
-18-43E:@Sein Name ist [DUSTER 23 03 00].[WAIT]@Verstanden?[WAIT]@Hier, schnüffel an dieser Socke...[PAUSE 20 00][BREAK]  Gaahh[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00] Das müffelt.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00][WAIT]  V-[PAUSE 18 00]vergiss diesen Geruch ja nicht.[END]
+18-43E:@Sein Name ist [DUSTER 23 03 00].[WAIT]@Verstanden?[WAIT]@Hier, schnüffel an dieser Socke...[PAUSE 20 00][BREAK]  Gaahh[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00] Die müffelt.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00][WAIT]  V-[PAUSE 18 00]vergiss diesen Geruch ja nicht.[END]
 18-44:[SOUND 03 00]@*whimper*[BREAK]  (Gahh.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00] That's ripe, all right.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00])[END]
-18-44E:[SOUND 03 00]@*wimmer*[BREAK]  (Gahh.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00] Das müffelt enorm.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00])[END]
+18-44E:[SOUND 03 00]@*wimmer*[BREAK]  (Gahh.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00] Die müffelt extrem.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 10 00])[END]
 18-45:@I've tied a yellow ribbon to your collar.[WAIT]@Show him the ribbon, and he'll know exactly[BREAK]  what's going on![END]
 18-45E:@Ich habe eine gelbe Schleife an deinen Halsband[BREAK]  gebunden.[WAIT]@Zeig ihm diese Schleife, und er wird genau[BREAK]  wissen, was los ist![END]
 18-46:@Now fetch![END]
@@ -2176,7 +2176,7 @@
 19-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 19-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
-19-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm. Es wird dich aufwärmen.[END]
+19-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm. Er wird dich aufwärmen.[END]
 // Repeats: 19-5, 21-5
 19-6:@Here, everyone else should take a break and[BREAK]  get warm, too.[END]
 19-6E:@Ihr anderen solltet auch eine Pause machen[BREAK]  und euch wärmen.[END]
@@ -2200,7 +2200,7 @@
 19-12E:@Gott sei Dank, geht es ihnen gut...[BREAK]  Was für eine Erleichterung.[END]
 // Repeats: 19-12, 21-12
 19-13:@It's good to worry your parents a little when[BREAK]  you're a kid.[WAIT]@That's how WE grew to be adults, after all.[WAIT]  Gahahaha![END]
-19-13E:@Es ist gut, sich ein bisschen um seine Eltern[BREAK]  zu sorgen, während man ein Kind bist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
+19-13E:@Es ist gut, den Eltern ein paar Sorgen zu[BREAK]  bereiten, während man noch ein Kind ist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
 // Repeats: 19-13, 21-13
 19-14:@Ain't nothin' to worry about.[WAIT]@I'm sure everyone's alright.[WAIT]@Tomorrow's gonna come, and everything'll be[BREAK]  the same as it always is.[END]
 19-14E:@Es gibt keinen Grund zur Sorge.[WAIT]@Allen geht's bestimmt gut.[WAIT]@Morgen wird kommen, und alles wird wie[BREAK]  immer sein.[END]
@@ -2230,7 +2230,7 @@
 19-22E:@Warum ist Bronson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 19-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-19-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
+19-23E:@Was geht hier vor sich?[WAIT]@Weshalb ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![END]
 // Repeats: 19-24, 21-24
 19-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
 19-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
@@ -2260,10 +2260,10 @@
 19-32E:@......[WAIT][PAUSE 1E 00]@Und jetzt zu der schlechten Nachricht...[EVENT][END]
 // Repeats: 19-32, 21-32
 19-33:@......[BREAK][PAUSE 1E 00]  The bad news is...[BREAK]  ............[WAIT]@...It's where I found the Drago Fang.[WAIT]@It was......[BREAK]  in your...[END]
-19-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Es war......[BREAK]  in deiner...[END]
+19-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Er war......[BREAK]  in deiner...[END]
 // Repeats: 19-33, 21-33
 19-34:@It was pierced through your wife's heart...[END]
-19-34E:@Es hat das Herz deiner Frau durchbohrt...[END]
+19-34E:@Er hat das Herz deiner Frau durchbohrt...[END]
 // Repeats: 19-34, 21-34
 19-35:@[FLINT 23 01 00]...[WAIT]@Just try to stay calm...[END]
 19-35E:@[FLINT 23 01 00]...[WAIT]@Versuch ruhig zu bleiben...[END]
@@ -2297,7 +2297,7 @@
 20-0:@The cliff here has crumbled.[WAIT]@It doesn't look like there's any way to get[BREAK]  across.[END]
 20-0E:@Der Felsvorsprung hier ist zerbröckelt.[WAIT]@Es sieht nicht danach aus, als gäbe es einen[BREAK]  anderen Weg drum herum.[END]
 20-1:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to explain "Skills" to you.[WAIT]  Oh, sorry for being so sudden.[WAIT]  Anyway, you and all your party members have[BREAK]  special skills you can use during battle.[WAIT]  These skills might be centered around items,[BREAK]  physical actions, or whatever else.[WAIT]  Basically, it's different for each person.[WAIT]  For details, press [COLOR 03 00]Start[COLOR 00 00] to bring up the menu,[WAIT]  and from there, you can check everyone's[BREAK]  skills from the "Status" screen.[WAIT]  It'd be a real waste to neglect your special[BREAK]  skills, so give it a try.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-20-1E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Erlaube mir, dir "Fähigkeiten" zu erklären.[WAIT]  Oh, sorry, dass es so plötzlich ist.[WAIT]  Jedenfalls, du und deine Teammitglieder haben[BREAK]  besondere Fähigkeiten,[WAIT]  die man im Kampf einsetzen kann.[WAIT]  Diese Fähigkeiten sind entweder Items,[BREAK]  physische Aktionen oder anderes.[WAIT]  Grundsätzlich hat jeder andere.[WAIT]  Für Näheres drücke [COLOR 03 00]Start[COLOR 00 00],[WAIT]  und von dort aus kannst du Fähigkeiten von[BREAK]  jeden im "Status"-Menü sehen.[WAIT]  Es wäre eine Verschwendung deine Fähigkeiten[BREAK]  zu vernachlässigen, also probiere sie mal aus.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
+20-1E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Erlaube mir, dir "Fähigkeiten" zu erklären.[WAIT]  Oh, sorry, dass es so plötzlich ist.[WAIT]  Jedenfalls, du und deine Teammitglieder haben[BREAK]  besondere Fähigkeiten,[WAIT]  die man im Kampf einsetzen kann.[WAIT]  Diese Fähigkeiten sind entweder Items,[BREAK]  physische Aktionen oder anderes.[WAIT]  Grundsätzlich hat jeder andere.[WAIT]  Für Näheres drücke [COLOR 03 00]Start[COLOR 00 00],[WAIT]  und von dort aus kannst du Fähigkeiten von[BREAK]  jeden im "Status"-Menü sehen.[WAIT]  Es wäre nicht gut deine Fähigkeiten außer[BREAK]  Acht zu lassen, also probiere sie mal aus.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
 20-2:[SOUND 03 00]  chirp!)[END]
 20-2E:[SOUND 03 00]  zwitscher!)[END]
 20-3:[END]
@@ -2320,7 +2320,7 @@
 21-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 21-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
-21-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm. Es wird dich aufwärmen.[END]
+21-5E:@Ich habe etwas [ITEM 64 00] gemacht,[BREAK]  [FLINT 23 01 00].[WAIT]@Hier nimm. Er wird dich aufwärmen.[END]
 // Repeats: 19-5, 21-5
 21-6:@Here, everyone else should take a break and[BREAK]  get warm, too.[END]
 21-6E:@Ihr anderen solltet auch eine Pause machen[BREAK]  und euch wärmen.[END]
@@ -2344,7 +2344,7 @@
 21-12E:@Gott sei Dank, geht es ihnen gut...[BREAK]  Was für eine Erleichterung.[END]
 // Repeats: 19-12, 21-12
 21-13:@It's good to worry your parents a little when[BREAK]  you're a kid.[WAIT]@That's how WE grew to be adults, after all.[WAIT]  Gahahaha![END]
-21-13E:@Es ist gut, sich ein bisschen um seine Eltern[BREAK]  zu sorgen, während man ein Kind bist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
+21-13E:@Es ist gut, den Eltern ein paar Sorgen zu[BREAK]  bereiten, während man noch ein Kind ist.[WAIT]@So sind WIR schließlich Erwachsene geworden.[WAIT]  Gahahaha![END]
 // Repeats: 19-13, 21-13
 21-14:@Ain't nothin' to worry about.[WAIT]@I'm sure everyone's alright.[WAIT]@Tomorrow's gonna come, and everything'll be[BREAK]  the same as it always is.[END]
 21-14E:@Es gibt keinen Grund zur Sorge.[WAIT]@Allen geht's bestimmt gut.[WAIT]@Morgen wird kommen, und alles wird wie[BREAK]  immer sein.[END]
@@ -2374,7 +2374,7 @@
 21-22E:@Warum ist Bonson auf einmal so blass...?[END]
 // Repeats: 19-22, 21-22
 21-23:@What's going on?[WAIT]@What is Bronson so worked up about?[WAIT]@![WAIT]@Do you think maybe they finally found[BREAK]  [HINAWA 22 08 00]?![END]
-21-23E:@Was geht hier vor sich?[WAIT]@Worüber ist Bonson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![BREAK][END]
+21-23E:@Was geht hier vor sich?[WAIT]@Weshalb ist Bronson so aufgeregt?[WAIT]@![WAIT]@Glaubst du, sie haben vielleicht endlich[BREAK]  [HINAWA 22 08 00] gefunden?![END]
 // Repeats: 19-23, 21-23
 21-24:@It'd be funny if [HINAWA 22 08 00] just showed up[BREAK]  out of nowhere while we're all worried sick.[END]
 21-24E:@Es wäre lustig, wenn [HINAWA 22 08 00] einfach[BREAK]  so aus dem Nirgendwo aufkreuzen würde,[WAIT]  während wir alle krank vor Sorge sind.[END]
@@ -2404,10 +2404,10 @@
 21-32E:@......[WAIT][PAUSE 1E 00]@Und jetzt zu der schlechten Nachricht...[EVENT][END]
 // Repeats: 19-32, 21-32
 21-33:@......[BREAK][PAUSE 1E 00]  The bad news is...[BREAK]  ............[WAIT]@...It's where I found the Drago Fang.[WAIT]@It was......[BREAK]  in your...[END]
-21-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Es war......[BREAK]  in deiner...[END]
+21-33E:@......[BREAK][PAUSE 1E 00]  Die schlechte Nachricht ist...[BREAK]  ............[WAIT]@...Dort, wo ich den Reißzahn gefunden habe.[WAIT]@Er war......[BREAK]  in deiner...[END]
 // Repeats: 19-33, 21-33
 21-34:@It was pierced through your wife's heart...[END]
-21-34E:@Es hat das Herz deiner Frau durchbohrt...[END]
+21-34E:@Er hat das Herz deiner Frau durchbohrt...[END]
 // Repeats: 19-34, 21-34
 21-35:@[FLINT 23 01 00]...[WAIT]@Just try to stay calm...[END]
 21-35E:@[FLINT 23 01 00]...[WAIT]@Versuch ruhig zu bleiben...[END]
@@ -2455,7 +2455,7 @@
 
 [Container 22]
 22-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-22-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
+22-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht. Ich werde euch vermissen.[END]
 // Repeats: 22-0, 23-0
 22-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
 22-1E:@Gacker gacker?[BREAK]  (Du bist wach, gacker?)[END]
@@ -2523,7 +2523,7 @@
 
 [Container 23]
 23-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-23-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht, ich werde euch vermissen.[END]
+23-0E:@Oh, du bist wach, du Schlafmütze.[WAIT]@Hach, heute ist der Tag, an dem ihr nach[BREAK]  Hause geht. Ich werde euch vermissen.[END]
 // Repeats: 22-0, 23-0
 23-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
 23-1E:@Gacker gacker?[BREAK]  (Du bist wach, gacker?)[END]
@@ -3545,10 +3545,10 @@
 37-6E:@Der Eingang ist versiegelt.[END]
 // Repeats: 9-6, 37-6
 37-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-37-7E:@[FLINT 23 01 00].[WAIT]  Du bist bei deinem Wutausbruch wirklich[BREAK]  von der Bahn geraten.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auszulassen.[END]
+37-7E:@[FLINT 23 01 00].[WAIT]  Du bist bei deinem Wutausbruch wirklich[BREAK]  von der Bahn geraten.[WAIT]@Ich weiß, du hattest deine Gründe, aber du[BREAK]  darfst deine Aggressionen nicht einfach an[WAIT]  anderen auslassen.[END]
 // Repeats: 9-7, 37-7
 37-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
-37-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Abendlichtfriedhof.[WAIT]@Absolut jeder hat [HINAWA 22 08 00] geliebt...[END]
+37-8E:@Wenn du nach den Einwohnern suchst, fast[BREAK]  jeder ist im Abendlichtfriedhof.[WAIT]@Ausnahmslos jeder hat [HINAWA 22 08 00] geliebt...[END]
 // Repeats: 9-8, 37-8
 37-9:@We can forget happy things.[WAIT]@We can probably forget sad things, too.[WAIT]@People have the power to forget.[END]
 37-9E:@Wir können fröhliche Dinge vergessen.[WAIT]@Wir können auch traurige Dinge vergessen.[WAIT]@Menschen haben die Kraft zum Vergessen.[END]
@@ -3575,7 +3575,7 @@
 37-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen,[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann die [COLOR 03 00]A[COLOR 00 00]-Taste drückst, wählst[BREAK]  du die Menüoption aus.[WAIT]  Du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und die[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Taste drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00] und[BREAK]  die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Tasten![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 37-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
-37-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Eine Schwalbe, der flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie eine Schwalbe[BREAK]  zu beenden...[EVENT][END]
+37-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Eine Schwalbe, die flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie eine Schwalbe[BREAK]  zu beenden...[EVENT][END]
 // Repeats: 9-17, 37-17
 37-18:[SOUND 03 00]  ...chirp chirp chirp chirp!)[END]
 37-18E:[SOUND 03 00]  ...zwitscher zwitscher zwitscher zwitscher!)[END]
@@ -5583,9 +5583,9 @@
 87-0:@The forest still smells burnt.[WAIT]  Well, I guess it WAS a pretty big fire and all.[END]
 87-0E:@Der Wald riecht noch immer verbrannt.[WAIT]  Naja, es WAR ja auch ein ziemlich großes[BREAK]  Feuer und so.[END]
 87-1:@Let's hurry and find [HINAWA 22 08 00] so she can[BREAK]  make us some of her special [FAVFOOD].[END]
-87-1E:@Beeilen wir uns und finden [HINAWA 22 08 00],[BREAK]  damit sie uns lecker [FAVFOOD] machen[WAIT]  kann.[END]
+87-1E:@Suchen wir schnell [HINAWA 22 08 00], damit[BREAK]  sie uns lecker [FAVFOOD] machen kann.[END]
 87-2:@We've been calling their names for a while,[BREAK]  but there's been no response at all.[WAIT]@...Do you think maybe they're not in this area?[END]
-87-2E:@Wir haben jetzt schon eine Weile nach ihren[BREAK]  Namen gerufen, aber ohne Erfolg.[WAIT]@...Denkst du, dass sie vielleicht gar nicht hier[BREAK]  in diesem Wald sind?[END]
+87-2E:@Wir haben jetzt schon eine ganze Weile nach[BREAK]  ihnen gerufen, aber ohne Erfolg.[WAIT]@...Denkst du, dass sie vielleicht gar nicht[BREAK]  in diesem Gebiet hier sind?[END]
 87-3:@I'm sure [CLAUS 22 05 00] and [LUCAS 23 02 00][BREAK]  will come racing here before long[WAIT]  to have some of those slightly unclean and not[BREAK]  very tasty cookies of mine...[END]
 87-3E:@Ich bin mir sicher, dass [CLAUS 22 05 00] und[BREAK]  [LUCAS 23 02 00] hier bald angerannt kommen,[WAIT]  um ein paar meiner etwas dreckigen und nicht[BREAK]  sehr leckeren Kekse zu essen.[END]
 87-4:@[CLAUS 22 05 00] is a troublemaker,[WAIT]  so I bet he's hiding around here somewhere,[BREAK]  watching us worry our heads off.[WAIT]@But [LUCAS 23 02 00] is a crybaby, so I bet he's[BREAK]  probably in tears by now...[END]
@@ -6123,11 +6123,11 @@
 104-1:@Are you planning to play in your pajamas?[WAIT]@Scoot upstairs and change your clothes.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 104-1E:@Du willst doch nicht etwa in Pyjamas raus[BREAK]  gehen?[WAIT]@Ab nach oben und zieh dich an.[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 104-2:@Then you can stay inside, in your pajamas, for[BREAK]  the rest of your life.[END]
-104-2E:@Dann musst du eben drinbleiben, in deinen[BREAK]  Pyjamas, für den Rest deines Lebens.[END]
+104-2E:@Dann musst du halt drin bleiben. In deinen[BREAK]  Pyjamas. Für den Rest deines Lebens.[END]
 104-3:@You're much manlier now.[WAIT]@Go have fun![END]
 104-3E:@Jetzt siehst du schon viel besser aus.[WAIT]@Los, hab Spaß![END]
 104-4:@Oww![BREAK]@I surrender! I surrender![END]
-104-4E:@Autsch![BREAK]@Ich kapituliere! Ich kapituliere![END]
+104-4E:@Autsch![BREAK]@Ich geb auf! Ich geb auf![END]
 104-5:@Got some [ITEM 5E 00]![END]
 104-5E:@Du hast ein paar [ITEM 5E 00]e erhalten![END]
 // Repeats: 104-5, 309-4
@@ -6236,7 +6236,7 @@
 110-13:@[FLINT 23 01 00] got the Hand File![END]
 110-13E:@[FLINT 23 01 00] hat eine Flachfeile erhalten![END]
 110-14:@This appears to have been unused for a long[BREAK]  time.[END]
-110-14E:@Das scheint seit einer langen Zeit nicht mehr[BREAK]  benutzt worden zu sein.[END]
+110-14E:@Der scheint seit einer langen Zeit nicht mehr[BREAK]  benutzt worden zu sein.[END]
 // Repeats: 110-14, 336-4
 110-15:@Use the Hand File to break the lock?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 110-15E:@Flachfeile benutzen, um Schloss zu brechen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
@@ -6247,13 +6247,13 @@
 
 [Container 111]
 111-0:@Oh, [FLINT 23 01 00]...[WAIT]@It's truly hard to bear when younger ones pass[BREAK]  away first.[END]
-111-0E:@Oh, [FLINT 23 01 00]...[WAIT]@Es ist wirklich hart, wenn[BREAK]  jüngere zuerst dahingehen.[END]
+111-0E:@Oh, [FLINT 23 01 00]...[WAIT]@Es ist wirklich hart, wenn[BREAK]  jüngere zuerst versterben.[END]
 111-1:@Oh, yes. [FLINT 23 01 00].[WAIT]@This is a useful item used in the Thief Arts.[WAIT]@Take it with you.[END]
-111-1E:@Oh, genau. [FLINT 23 01 00].[WAIT]@Das ist ein nützliches Item, das für die Diebes-[BREAK]  künste verwendet wird.[WAIT]@Nimm es mit.[END]
+111-1E:@Oh, genau. [FLINT 23 01 00].[WAIT]@Das ist ein nützliches Item, das für die[BREAK]  Diebeskünste verwendet wird.[WAIT]@Nimm es mit.[END]
 111-2:@Received a [ITEM 96 00]![END]
 111-2E:@Eine [ITEM 96 00] erhalten![END]
 111-3:@I won't stop you.[WAIT]@I have an inkling of where you're off to.[WAIT]@But your life's not the only one at risk here.[WAIT]@Old Nippolyte is getting up there in years.[BREAK]  Don't make him dig another grave.[END]
-111-3E:@Ich werde dich nicht aufhalten.[WAIT]@Ich habe schon eine Ahnung, wo du hinwillst.[WAIT]@Aber dein Leben ist nicht das einzige bedrohte[BREAK]  hier.[WAIT]@Lass den alten Nippolyte nicht noch ein Grab[BREAK]  graben.[END]
+111-3E:@Ich werde dich nicht aufhalten.[WAIT]@Ich habe schon eine Ahnung, wo du hinwillst.[WAIT]@Aber dein Leben ist nicht das einzige bedrohte[BREAK]  hier.[WAIT]@Lass den alten Nippolyte nicht noch ein Grab[BREAK]  schaufeln.[END]
 111-4:@Always remember this.[WAIT]@Your life isn't yours alone.[END]
 111-4E:@Denke immer daran.[WAIT]@Dein Leben ist nicht deins alleine.[END]
 111-5:@Huh? You can't hold any more stuff.[END]
@@ -6414,7 +6414,7 @@
 
 [Container 116]
 116-0:@That was a very nice grave old Nippolyte[BREAK]  made.[WAIT]@But...[WAIT]@But I had to come back home.[WAIT]@Seeing [LUCAS 22 03 00]'s sobbing face was just[BREAK]  too much for me to handle...[END]
-116-0E:@Der Nippolyte hat ein sehr schönes Grab[BREAK]  gemacht.[WAIT]@Aber...[WAIT]@Aber ich musste zurück nach Hause.[WAIT]@Das schluchzende Gesicht von [LUCAS 22 03 00][BREAK]  war einfach zu viel für mich...[END]
+116-0E:@Der Nippolyte hat ein sehr schönes Grab[BREAK]  gemacht.[WAIT]@Aber...[WAIT]@Aber ich musste zurück nach Hause.[WAIT]@Das tränenübergossene Gesicht von[BREAK]   [LUCAS 22 03 00] war einfach zu viel für mich...[END]
 116-1:@[FLINT 22 01 00]. Just take this and go.[WAIT]@It's "the" Drago fang.[WAIT]@I made it into a weapon.[WAIT]@The only thing that can pierce the tough hide[BREAK]  of a Drago is a Drago's fang.[WAIT]@There's no other weapon that can beat a[BREAK]  Drago.[END]
 116-1E:@[FLINT 22 01 00]. Nimm das und geh.[WAIT]@Das ist "der" Drago-Zahn.[WAIT]@Ich habe es in eine Waffe umfungiert.[WAIT]@Das Einzige, das die harte Haut eines Dragos[BREAK]  durchdringen kann, ist ein Drago-Zahn.[WAIT]@Es gibt keine andere Waffe, die einem Drago[BREAK]  etwas anhaben kann.[END]
 // Repeats: 12-78, 116-1
@@ -6438,7 +6438,7 @@
 
 [Container 117]
 117-0:@[FLINT 22 01 00]...[WAIT]@I'm sorry I was so useless...[WAIT]@Anyways, this is the village bazaar.[WAIT]@If you need anything, just go ahead and take it.[END]
-117-0E:@[FLINT 22 01 00]...[WAIT]@Tut mir leid, dass ich so nutzlos war...[WAIT]@Wie auch immer, dies ist der Dorfbazar.[WAIT]@Wenn du etwas brauchst, komm einfach[BREAK]  vorbei und nimm es mit.[END]
+117-0E:@[FLINT 22 01 00]...[WAIT]@Tut mir leid, dass ich so nutzlos war...[WAIT]@Wie auch immer, dies ist der Dorfbasar.[WAIT]@Wenn du etwas brauchst, komm einfach[BREAK]  vorbei und nimm es mit.[END]
 117-1:@Oh, hi there, [42 FF 00 00].[WAIT]@See anything you want?[END]
 117-1E:@Oh, hallo [42 FF 00 00].[WAIT]@Siehst du etwas, was du brauchst?[END]
 // Repeats: 117-1, 117-26
@@ -6868,7 +6868,7 @@
 
 [Container 126]
 126-0:@I'm Scamp.[WAIT]@Something not right's happening to this village.[BREAK]  I can feel it.[WAIT]@...But that's just me talking to myself.[WAIT]@Oh, [FLINT 23 01 00]! Good of you to come![WAIT]@You weren't the one who taught my cute little[BREAK]  Myrna all those unsavory words, were you?[END]
-126-0E:@Ich bin Schuft.[WAIT]@Irgendwas Ungutes passiert dem Dorf,[BREAK]  ich kann es fühlen.[WAIT]@...Aber das muss meine Vorstellung sein.[WAIT]@Oh, [FLINT 23 01 00]! Schön, dass du[BREAK]  gekommen bist![WAIT]@Du warst nicht derjenige, der meiner kleinen[BREAK]  süßen Myrna all diese widerwärtigen Wörter[WAIT]  beigebracht hat, oder?[END]
+126-0E:@Ich bin Schuft.[WAIT]@Irgendwas Ungutes passiert dem Dorf,[BREAK]  ich kann es fühlen.[WAIT]@...Aber das muss ich mir wohl einbilden.[WAIT]@Oh, [FLINT 23 01 00]! Schön, dass du[BREAK]  gekommen bist![WAIT]@Du warst nicht derjenige, der meiner kleinen[BREAK]  süßen Myrna all diese widerwärtigen Wörter[WAIT]  beigebracht hat, oder?[END]
 126-1:@I- I'm Scamp...[WAIT]@Something not right's happening to this village.[BREAK]  I can feel it.[WAIT][PAUSE 5A 00]@Actually, something bad could even happen to[BREAK]  me, too...[END]
 126-1E:@I-ich bin Schuft...[WAIT]@Irgendwas Ungutes passiert dem Dorf,[BREAK]  ich kann es fühlen.[WAIT][PAUSE 5A 00]@Und mit mir vielleicht auch...[END]
 126-2:@I- I'm Scamp...[WAIT]@I had a feeling that something was going to[BREAK]  happen...[WAIT]  Do you suppose it might've been meeting you?[WAIT]@I can't shake the feeling that something nice[BREAK]  is going to happen to this village now.[WAIT]@It could happen to me, even... [PAUSE 30 00]Maybe?[END]
@@ -6882,7 +6882,7 @@
 126-6:@Hello, there.[WAIT]@I certainly have been meeting a lot of new[BREAK]  people lately...[END]
 126-6E:@Hallo.[WAIT]@In letzter Zeit bekomm ich ständig neue[BREAK]  Gesichter zu sehen...[END]
 126-7:@You're troubled, aren't you?[WAIT]@You may find yourself in painful situations...[WAIT]@But I'm a bit pained myself.[WAIT]@...*mutter* *mumble*[END]
-126-7E:@Du steckst in Schwierigkeiten, oder?[WAIT]@Du findest dich vielleicht selbst in[BREAK]  schmerzlichen Situationen...[WAIT]@Aber mir schmerzt es auch ein bisschen.[WAIT]@...*murmel* *nuschel*[END]
+126-7E:@Du steckst in Schwierigkeiten, oder?[WAIT]@Du findest dich vielleicht selbst in[BREAK]  schmerzhaften Situationen...[WAIT]@Aber mir schmerzt es auch ein bisschen.[WAIT]@...*murmel* *nuschel*[END]
 126-8:@......[WAIT]@I'm sorry, but I don't understand monkey[BREAK]  language.[END]
 126-8E:@......[WAIT]@Tut mir leid, aber ich verstehe Affensprache[BREAK]  nicht.[END]
 126-9:@Hello, Mr. Monkey.[END]
@@ -6913,7 +6913,7 @@
 
 [Container 128]
 128-0:@[FLINT 23 01 00]...[WAIT]@Umm...[WAIT]@Please just forget that you hit me.[WAIT]@I'm going to forget about it.[WAIT]@Compared to your pain, this is nothing at all.[END]
-128-0E:@[FLINT 23 01 00]...[WAIT]@Ähmm...[WAIT]@Bitte vergiss einfach, dass du mich[BREAK]  geschlagen hast.[WAIT]@Ich werde es vergessen.[WAIT]@Verglichen mit deinem Schmerz, ist das hier[BREAK]  gar nichts.[END]
+128-0E:@[FLINT 23 01 00]...[WAIT]@Ähmm...[WAIT]@Bitte vergiss einfach, dass du mich[BREAK]  geschlagen hast.[WAIT]@Ich werde es dir nicht übel nehmen.[WAIT]@Verglichen mit deinem Schmerz, ist das hier[BREAK]  gar nichts.[END]
 // Repeats: 128-0, 194-27
 128-1:@[FLINT 23 01 00].[WAIT]@Umm...[WAIT]@Abbot and Ollie don't hold anything against you.[WAIT]@So please don't be worried.[END]
 128-1E:@[FLINT 23 01 00].[WAIT]@Ähmm...[WAIT]@Abbot und Ollie haben gar nichts gegen dich.[WAIT]@Also sei bitte unbesorgt.[END]
@@ -7419,7 +7419,7 @@
 
 [Container 142]
 142-0:@[LUCAS 26 03 00 03 00]!![BREAK]  How long're you gonna sleep?![WAIT]  Get up so we can play![WAIT]@Get up, already![WAIT]@The Dragos brought their babies over![WAIT]@They're really cute!![WAIT]@Hurry up![END]
-142-0E:@[LUCAS 26 03 00 03 00]!![BREAK]  Wie lang willst du denn noch schlafen?![WAIT]  Steh endlich auf, damit wir spielen können![WAIT]@Jetzt steh schon auf![WAIT]@Die Dragos haben ihre Babys mitgebracht![WAIT]@Die sind verdammt süß!![WAIT]@Beeil dich![END]
+142-0E:@[LUCAS 26 03 00 03 00]!![BREAK]  Wie lang willst du denn noch schlafen?![WAIT]  Steh endlich auf, damit wir spielen können![WAIT]@Jetzt steh schon auf![WAIT]@Die Dragos haben ihre Babys mitgebracht![WAIT]@Die sind voll süß!![WAIT]@Beeil dich![END]
 142-1:@[HINAWA 22 08 00]'s bed.[END]
 142-1E:@Das Bett von [HINAWA 22 08 00].[END]
 142-2:@The bed that [HINAWA 22 08 00] used.[END]
@@ -8898,7 +8898,7 @@
 194-20:@N-[PAUSE 10 00]n-[PAUSE 10 00]n-[PAUSE 10 00]no![WAIT]@He didn't take Dad's homemade knife and go[BREAK]  into the mountains to kill the Drago![PAUSE 20 00][WAIT]@[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00]Aah![END]
 194-20E:@N-[PAUSE 10 00]n-[PAUSE 10 00]n-[PAUSE 10 00]nein![WAIT]@Er hat Papas selbstgemachtes Messer nicht[BREAK]  mitgenommen und ist dann in die Berge[WAIT]  gegangen, um den Drago zu töten![PAUSE 20 00][WAIT]@[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00]Aah![END]
 194-21:@It's a good thing you raised him to be honest,[BREAK]  [FLINT 23 01 00]!![WAIT]@Does [CLAUS 22 05 00] honestly think a[BREAK]  homemade knife can kill a Drago?![WAIT]@[LUCAS 23 02 00]! Why didn't you stop him?![END]
-194-21E:@Es ist gut, dass du ihn zu Ehrlichkeit[BREAK]  aufgezogen hast, [FLINT 23 01 00]!![WAIT]@Glaubt [CLAUS 22 05 00] ernsthaft, dass ein selbst-[BREAK]  gemachtes Messer ein Drago töten kann?![WAIT]@[LUCAS 23 02 00]! Warum hast du ihn nicht[BREAK]  aufgehalten?![END]
+194-21E:@Es ist gut, dass du ihn zu Ehrlichkeit[BREAK]  erzogen hast, [FLINT 23 01 00]!![WAIT]@Glaubt [CLAUS 22 05 00] ernsthaft, dass ein selbst-[BREAK]  gemachtes Messer ein Drago töten kann?![WAIT]@[LUCAS 23 02 00]! Warum hast du ihn nicht[BREAK]  aufgehalten?![END]
 194-22:@Well...[WAIT]@I said I wanted to go too, but he said no[BREAK]  because he was going alone...[END]
 194-22E:@Nun...[WAIT]@Ich wollte auch mitgehen, aber er hat Nein[BREAK]  gesagt, weil er allein sein wollte...[END]
 194-23:@So you just let him go?![PAUSE 20 00][WAIT]@You fool!![END]
@@ -10485,7 +10485,7 @@
 225-4E:@Aber aber, wer sind denn die zwei?[WAIT]@Sei nicht unhöflich! Ionia, stell uns vor. [HEART][END]
 // Repeats: 225-4, 254-4
 225-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alex.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alexy-poo? [HEART][END]
-225-5E:@Aber natürlich. Wo sind meine Manieren? [HEART][WAIT]@Dies ist ein guter Freund, Alex.[WAIT]@Und wer begleitet dich da?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], sagst du? Nun, schön[BREAK]  dich kennenzulernen.[WAIT]@Dann stell ich dir mal uns Magypsies vor.[WAIT]@Du hast Glück, wir halten heute eine Party.[BREAK]  Fast alle von uns sind da.[WAIT]@Zuerst haben wir da Aeolia.[WAIT]  dann ist dort Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  und die da drüben ist Mixolydia.[WAIT]@Die einzige, die nicht da ist, ist Locria.[WAIT]@Mich kannst du Ionia nennen. [HEART][WAIT]@...Hmm?[PAUSE 20 00] Du kannst dir das alles nicht merken?[WAIT]  Natürlich nicht. Deshalb habe ich dich gerade[BREAK]  vorgestellt, Liebling.[WAIT]@So funktioniert das doch?[WAIT]@Nicht wahr, Alexiechen? [HEART][END]
+225-5E:@Aber natürlich. Wo sind meine Manieren? [HEART][WAIT]@Dies ist ein guter Freund, Alex.[WAIT]@Und wer begleitet dich da?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], sagst du? Nun, schön[BREAK]  dich kennenzulernen.[WAIT]@Dann stell ich dir mal uns Magypsies vor.[WAIT]@Du hast Glück, wir halten heute eine Party.[BREAK]  Fast alle von uns sind da.[WAIT]@Zuerst haben wir da Aeolia.[WAIT]  dann ist dort Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  und die da drüben ist Mixolydia.[WAIT]@Die einzige, die nicht da ist, ist Locria.[WAIT]@Mich kannst du Ionia nennen. [HEART][WAIT]@...Hmm?[PAUSE 20 00] Du kannst dir das alles nicht merken?[WAIT]  Natürlich nicht. Deshalb habe ich dich gerade[BREAK]  vorgestellt, Liebling.[WAIT]@So funktioniert das doch?[WAIT]@Nicht wahr, Alexi-puh? [HEART][END]
 // Repeats: 225-5, 254-5
 225-6:@It's been a while! I'm glad to see you're well.[WAIT]@I hear you helped my grandson [CLAUS 22 05 00].[WAIT]  Do you know where he might've went?[END]
 225-6E:@Es ist 'ne ganze Weile her! Ich bin froh, dass es[BREAK]  dir gut geht.[WAIT]@Ich habe gehört, dass du meinem Enkel[BREAK]  [CLAUS 22 05 00] geholfen hast.[WAIT]  Weißt du, wo er hingegangen ist?[END]
@@ -10521,7 +10521,7 @@
 225-16E:@Ihr armen Dinger lebt gerade mal hundert[BREAK]  Jahre, wenn überhaupt![WAIT]@Das ist für uns Magypsies ein Augenblick.[WAIT]@Warum sollte sich jemand die Mühe machen,[BREAK]  sich um Wesen mit solch kurzen Leben[WAIT]  Gedanken zu machen?[END]
 // Repeats: 225-16, 254-16
 225-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alexy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
-225-17E:@Aber aber! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Menschen sorgen sich um solch kurze Leben.[WAIT]@Ist das nicht so, Alexiechen? [HEART][WAIT]@Ich verstehe, wie du dich fühlst, wirklich.[END]
+225-17E:@Aber aber! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Menschen machen sich Sorgen um kurze[BREAK]  Leben.[WAIT]@Ist das nicht so, Alexi-puh? [HEART][WAIT]@Ich verstehe, wie du dich fühlst, wirklich.[END]
 // Repeats: 225-17, 254-17
 225-18:@I don't care if you understand or not![WAIT]@Just tell us where [CLAUS 22 05 00] went![END]
 225-18E:@Mir ist es egal, ob du es verstehst oder nicht![WAIT]@Sag uns einfach, wo [CLAUS 22 05 00][BREAK]  hingegangen ist![END]
@@ -11288,7 +11288,7 @@
 254-4E:@Aber aber, wer sind denn die zwei?[WAIT]@Sei nicht unhöflich! Ionia, stell uns vor. [HEART][END]
 // Repeats: 225-4, 254-4
 254-5:@Of course. Where are my manners? [HEART][WAIT]@This is my good friend, Alex.[WAIT]@And who's this with you?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], you say? Well, it's very nice to[BREAK]  meet you.[WAIT]@Now, let's get you all properly introduced to[BREAK]  us, the Magypsies.[WAIT]@You're in luck, we're having a party today.[BREAK]  Nearly all of us are here.[WAIT]@First we have Aeolia,[WAIT]  then there's Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  and that one over there is Mixolydia.[WAIT]@The only one not here is Locria.[WAIT]@You can call me Ionia. [HEART][WAIT]@...Hmm?[PAUSE 20 00] You can't remember all that?[WAIT]  Of course not. That's why I just introduced[BREAK]  you, darling.[WAIT]@Isn't that how it works?[WAIT]@Right, Alexy-poo? [HEART][END]
-254-5E:@Aber natürlich. Wo sind meine Manieren? [HEART][WAIT]@Dies ist ein guter Freund, Alex.[WAIT]@Und wer begleitet dich da?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], sagst du? Nun, schön[BREAK]  dich kennenzulernen.[WAIT]@Dann stell ich dir mal uns Magypsies vor.[WAIT]@Du hast Glück, wir halten heute eine Party.[BREAK]  Fast alle von uns sind da.[WAIT]@Zuerst haben wir da Aeolia.[WAIT]  dann ist dort Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  und die da drüben ist Mixolydia.[WAIT]@Die einzige, die nicht da ist, ist Locria.[WAIT]@Mich kannst du Ionia nennen. [HEART][WAIT]@...Hmm?[PAUSE 20 00] Du kannst dir das alles nicht merken?[WAIT]  Natürlich nicht. Deshalb habe ich dich gerade[BREAK]  vorgestellt, Liebling.[WAIT]@So funktioniert das doch?[WAIT]@Nicht wahr, Alexiechen? [HEART][END]
+254-5E:@Aber natürlich. Wo sind meine Manieren? [HEART][WAIT]@Dies ist ein guter Freund, Alex.[WAIT]@Und wer begleitet dich da?[PAUSE 3C 00][WAIT]@[FLINT 23 01 00], sagst du? Nun, schön[BREAK]  dich kennenzulernen.[WAIT]@Dann stell ich dir mal uns Magypsies vor.[WAIT]@Du hast Glück, wir halten heute eine Party.[BREAK]  Fast alle von uns sind da.[WAIT]@Zuerst haben wir da Aeolia.[WAIT]  dann ist dort Doria,[WAIT]  Phrygia,[WAIT]  Lydia,[WAIT]  und die da drüben ist Mixolydia.[WAIT]@Die einzige, die nicht da ist, ist Locria.[WAIT]@Mich kannst du Ionia nennen. [HEART][WAIT]@...Hmm?[PAUSE 20 00] Du kannst dir das alles nicht merken?[WAIT]  Natürlich nicht. Deshalb habe ich dich gerade[BREAK]  vorgestellt, Liebling.[WAIT]@So funktioniert das doch?[WAIT]@Nicht wahr, Alexi-puh? [HEART][END]
 // Repeats: 225-5, 254-5
 254-6:@It's been a while! I'm glad to see you're well.[WAIT]@I hear you helped my grandson [CLAUS 22 05 00].[WAIT]  Do you know where he might've went?[END]
 254-6E:@Es ist 'ne ganze Weile her! Ich bin froh, dass es[BREAK]  dir gut geht.[WAIT]@Ich habe gehört, dass du meinem Enkel[BREAK]  [CLAUS 22 05 00] geholfen hast.[WAIT]  Weißt du, wo er hingegangen ist?[END]
@@ -11324,7 +11324,7 @@
 254-16E:@Ihr armen Dinger lebt gerade mal hundert[BREAK]  Jahre, wenn überhaupt![WAIT]@Das ist für uns Magypsies ein Augenblick.[WAIT]@Warum sollte sich jemand die Mühe machen,[BREAK]  sich um Wesen mit solch kurzen Leben[WAIT]  Gedanken zu machen?[END]
 // Repeats: 225-16, 254-16
 254-17:@Now, now! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Humans worry about such short lives.[WAIT]@Isn't that right, Alexy-poo? [HEART][WAIT]@I understand how you feel. I really do.[END]
-254-17E:@Aber aber! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Menschen machen sich Sorgen um kurze[BREAK]  Leben.[WAIT]@Ist das nicht so, Alexiechen? [HEART][WAIT]@Ich verstehe, wie du dich fühlst, wirklich.[END]
+254-17E:@Aber aber! [HEART][WAIT]@Mixolydia! Phrygia...![WAIT]@Menschen machen sich Sorgen um kurze[BREAK]  Leben.[WAIT]@Ist das nicht so, Alexi-puh? [HEART][WAIT]@Ich verstehe, wie du dich fühlst, wirklich.[END]
 // Repeats: 225-17, 254-17
 254-18:@I don't care if you understand or not![WAIT]@Just tell us where [CLAUS 22 05 00] went![END]
 254-18E:@Mir ist es egal, ob du es verstehst oder nicht![WAIT]@Sag uns einfach, wo [CLAUS 22 05 00][BREAK]  hingegangen ist![END]
@@ -13199,7 +13199,7 @@
 336-3:@There are lots of boxes here. There's stuff[BREAK]  inside, but who knows what it is...[END]
 336-3E:@Hier sind eine Menge Boxen. Das sind Sachen[BREAK]  drin, aber wer weiß, was das ist...[END]
 336-4:@This appears to have been unused for a long[BREAK]  time.[END]
-336-4E:@Das scheint seit einer langen Zeit nicht mehr[BREAK]  benutzt worden zu sein.[END]
+336-4E:@Der scheint seit einer langen Zeit nicht mehr[BREAK]  benutzt worden zu sein.[END]
 // Repeats: 110-14, 336-4
 336-5:@It's kind of filthy, and not something you'd[BREAK]  really want to touch.[END]
 336-5E:@Es ist dreckig, und nicht etwas, was du[BREAK]  unbedingt anfassen willst.[END]
@@ -15796,16 +15796,16 @@
 
 [Container 464]
 464-0:@[FLINT 23 01 00]y-pie. [HEART][END]
-464-0E:@[FLINT 23 01 00]ichen. [HEART][END]
+464-0E:@[FLINT 23 01 00]i-puh. [HEART][END]
 // i know this won't work so great with certain names, but I'd rather risk that than change this a lot
 464-1:@...Don't be so embarrassed.[BREAK]  Heheheh.[END]
 464-1E:@...Sei nicht so verlegen.[BREAK]  Hehehehe.[END]
 464-2:@North here. Head north.[END]
 464-2E:@Nach Norden. Geh nach Norden.[END]
 464-3:@We're as good as there, now that we've made[BREAK]  it this far.[WAIT]@Now we just need to head upward and climb[BREAK]  up some vines.[WAIT]@Da vines go up because they're[PAUSE 40 00] divine.[WAIT]@Oh, c'mon, it's just a pun.[END]
-464-3E:@Wir sind so gut wie da.[WAIT]@Jetzt müssen wir nur noch nach oben und ein[BREAK]  paar Lianen hochklettern.[END]
+464-3E:@Wir sind so gut wie da.[WAIT]@Jetzt müssen wir nur noch nach oben und ein[BREAK]  paar Ranken hochklettern.[END]
 464-4:@What's going on? You wanna turn back?[WAIT]@If you're going back out, go down the vine.[END]
-464-4E:@Was ist los? Willst du zurück?[WAIT]@Wenn du raus willst, geh die Liane nach unten.[END]
+464-4E:@Was ist los? Willst du zurück?[WAIT]@Wenn du raus willst, geh die Ranke nach unten.[END]
 464-5:@At the bottom of this vine, head east and then[BREAK]  turn toush at the end.[PAUSE 5A 00][WAIT]@I mean south, not toush![END]
 464-5E:@Unten gehst du nach Osten und dann Düsten.[PAUSE 5A 00][WAIT]@Ich meine Süden, nicht Düsten![END]
 464-6:@Go west here.[END]
@@ -15857,7 +15857,7 @@
 465-0:@[FLINT 23 01 00].[WAIT]@Follow the southeast passage.[END]
 465-0E:@[FLINT 23 01 00].[WAIT]@Folge den südöstlichen Weg.[END]
 465-1:@Ooh, [FLINT 23 01 00]y-poo! [HEART][PAUSE 3C 00][WAIT]@That was my Magypsy impression.[PAUSE 30 00][BREAK]  Did you like it?[WAIT]@Relax, relax.[END]
-465-1E:@Ooh, [FLINT 23 01 00]y-puh! [HEART][PAUSE 3C 00][WAIT]@Das war meine Magypsy Imitation.[PAUSE 30 00][BREAK]  Hat's dir gefallen?[WAIT]@Entspann dich, entspann dich.[END]
+465-1E:@Ooh, [FLINT 23 01 00]i-puh! [HEART][PAUSE 3C 00][WAIT]@Das war meine Magypsy Imitation.[PAUSE 30 00][BREAK]  Hat's dir gefallen?[WAIT]@Entspann dich, entspann dich.[END]
 465-2:@I'll tell you this one early in advance.[WAIT]  Head south at the next fork in the path.[END]
 465-2E:@Das erzähl ich dir jetzt schon im Voraus.[WAIT]  Geh an der nächsten Weggabelung nach Süden.[END]
 465-3:@Head south at this forky fork.[END]
@@ -15867,7 +15867,7 @@
 465-5:@Head west from here![END]
 465-5E:@Gehe hier nach Westen![END]
 465-6:@I've been so forgetful lately.[WAIT]  Which way was it again.[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 30 00][WAIT]@Was it north?[WAIT]@I'm pretty sure there's a vine to the north.[WAIT]@We need to "vined" it and climb up it.[END]
-465-6E:@In letzter Zeit bin ich so vergesslich.[WAIT]  In welche Richtung ging es hier nochmal.[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 30 00][WAIT]@War es Norden?[WAIT]@Ich bin mir ziemlich sicher, dass im Norden[BREAK]  eine Liane war.[WAIT]@Wir müssen sie "ranken" und raufklettern.[END]
+465-6E:@In letzter Zeit bin ich so vergesslich.[WAIT]  In welche Richtung ging es hier nochmal.[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 30 00][WAIT]@War es Norden?[WAIT]@Ich bin mir ziemlich sicher, dass im Norden[BREAK]  eine Ranke war.[WAIT]@Wir müssen sie "ranken" und raufklettern.[END]
 465-7:@[FLINT 23 01 00].[WAIT]@You're allowed to laugh at that pun just now.[WAIT]@...Did you not notice it?[BREAK]  I said we have to "vined the vine".[WAIT]  You know, instead of "find"?[WAIT]@Was that not funny?[END]
 465-7E:@[FLINT 23 01 00].[WAIT]@Du darfst jetzt wegen des Wortspiels lachen.[WAIT]@...Hast du es nicht bemerkt?[BREAK]  Ich hab gesagt "die Ranke zu ranken".[WAIT]  Du weißt schon, anstatt "finden"?[WAIT]@War das etwa lustig?[END]
 465-8:@A dead-end...[WAIT]@Sorry, [FLINT 23 01 00].[WAIT]@Looks like we should've gone west at that last[BREAK]  fork in the path.[END]
@@ -18389,7 +18389,7 @@
 701-2:@First, allow me to explain the wonderful rules.[EVENT][END]
 701-2E:@Erlaube mir, Ihnen zuerst die wundervollen[BREAK]  Regeln zu erklären.[EVENT][END]
 701-3:@Whoever hits the most moles with their mental[BREAK]  "[COLOR 03 00]A[COLOR 00 00] Button" hammers will win the game.[PAUSE 3C 00][WAIT]@Master Porky absolutely adores that word:[BREAK]  "win".[WAIT]@If the words "indulge" and "humor" mean[BREAK]  anything to you...[PAUSE 30 00] you'll know what to do.[WAIT]@But,[PAUSE 0F 00] if you try to throw the match, Master[BREAK]  Porky will be very displeased indeed.[PAUSE 1E 00][WAIT]@Okay. Do you understand the rules now?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-701-3E:@Wer mit seiner mentalen "[COLOR 03 00]A[COLOR 00 00]-Taste"-Hammer[BREAK]  die meisten Maulwürfe trifft, gewinnt.[PAUSE 3C 00][WAIT]@Meister Porky liebt das Wort "Gewinnen".[WAIT]@Wenn Ihnen die Worte "Nachsicht" und "Humor"[BREAK]  irgendwas sagen...[PAUSE 30 00] wissen Sie, was zu tun ist.[WAIT]@Aber,[PAUSE 0F 00] wenn Sie meinen, sich jetzt einfach[BREAK]  kampflos geschlagen zu geben,[WAIT]  wird Meister Porky sehr unzufrieden sein.[PAUSE 1E 00][WAIT]@Okay. Verstehen Sie die Regeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+701-3E:@Wer mit seinem mentalen "[COLOR 03 00]A[COLOR 00 00]-Taste"-Hammer[BREAK]  die meisten Maulwürfe trifft, gewinnt.[PAUSE 3C 00][WAIT]@Meister Porky liebt das Wort "Gewinnen".[WAIT]@Wenn Ihnen die Worte "Nachsicht" und "Humor"[BREAK]  irgendwas sagen...[PAUSE 30 00] wissen Sie, was zu tun ist.[WAIT]@Aber,[PAUSE 0F 00] wenn Sie meinen, sich jetzt einfach[BREAK]  kampflos geschlagen zu geben,[WAIT]  wird Meister Porky sehr unzufrieden sein.[PAUSE 1E 00][WAIT]@Okay. Verstehen Sie die Regeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 701-4:@Hit the old guy in the helmet and you'll be[BREAK]  zapped.[WAIT]@Do try to be careful.[END]
 701-4E:@Schlagen Sie den alten Mann mit dem Helm und[BREAK]  Sie werden einen Stromschlag bekommen.[WAIT]@Seien Sie also vorsichtig.[END]
 701-5:@Now then![WAIT]  Let's bring out Master [LUCAS 23 02 00]'s[BREAK]  competitor...[WAIT]  ...Master Mini-Porky![END]
@@ -18438,7 +18438,7 @@
 702-3:@This is written on the cue card:[WAIT]  "Lose by only one step or so!"[END]
 702-3E:@Das steht auf der Hinweiskarte:[WAIT]  "Verliere um einen Schritt oder so!"[END]
 702-4:@Next is...[PAUSE 18 00][WAIT]  ...the Purple Bridge Race Game![EVENT][END]
-702-4E:@Als nächstes kommt...[PAUSE 18 00][WAIT]  ...das Lila Brückenrennspiel![EVENT][END]
+702-4E:@Als nächstes kommt...[PAUSE 18 00][WAIT]  ...das "Lila Brückenrennspiel"![EVENT][END]
 702-5:@You'll both start from a Purple Bridge at the[BREAK]  same time,[WAIT]  and the first to reach the other side wins.[WAIT]@You understand the rules, yes?[WAIT]@Also, if you have the two words "indulge" and[BREAK]  "divulge"...[WAIT]  Perhaps the former would be the one to focus[BREAK]  on, if you catch my drift...[WAIT]@Do you understand?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 702-5E:@Ihr fangt beide zur gleichen Zeit an der lila[BREAK]  Brücke an,[WAIT]  und der erste, der die andere Seite erreicht,[BREAK]  gewinnt.[WAIT]@Sie haben die Regeln verstanden, ja?[WAIT]@Also, wenn Sie die zwei Wörter "nachgeben"[BREAK]  und "preisgeben"...[WAIT]  Vielleicht sollten Sie sich auf ersteres konzen-[BREAK]  trieren, wenn Sie verstehen, was ich meine...[WAIT]@Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 702-6:@Okay![WAIT]  When you're ready, go to your starting[BREAK]  position![END]
@@ -18531,7 +18531,7 @@
 709-0E:@Dicke, verzweigte Lianen blockieren den Weg.[END]
 // Repeats: 25-1, 709-1
 709-1:@[42 FF F0 FF]'s Franklin Badge reflected the[BREAK]  masked man's lightning back at him![END]
-709-1E:@Die Franklin-Stecknadel von [42 FF F0 FF] reflektierte[BREAK]  den Blitz des Maskierten Manns zurück![END]
+709-1E:@Die Franklin-Stecknadel von [42 FF F0 FF] reflektierte[BREAK]  den Blitz des Maskierten Mannes zurück![END]
 // Repeats: 25-1, 709-1
 709-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 709-2E:@Diese Lianen sind in der Zeit steckengeblieben.[WAIT]@[ITEM CA 00] über ihnen sprenkeln?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -18735,7 +18735,7 @@
 805-11:@Well, no matter.[WAIT]  The curtain is about to fall on this pathetic[BREAK]  little play of yours.[WAIT]@Because, soon, the power of power will be[BREAK]  mine.[WAIT]@The world and everything in it has been my[BREAK]  oyster so far,[WAIT]  and now I'll end it all by acquiring the ultimate[BREAK]  power.[WAIT]@Heheheh heheh.[WAIT]@Aha ahahaha ahahahahahaha.[WAIT]@*cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 2E 00][BREAK]  *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[WAIT]@Whew...[WAIT]@Though everything so far has been fun and[BREAK]  games, I've given you many a concession.[WAIT]@I was bored out of my mind and wanted to play[BREAK]  something more thrilling, you see.[WAIT]@But, now that we're face-to-face like this,[BREAK]  I won't hold anything back.[WAIT]@My slave...[PAUSE 30 00] My lifeless son will pull the final[BREAK]  Needle for me.[WAIT]@And, the moment he does, the Dragon should[BREAK]  awaken and do as I want.[WAIT]@At which time, I assume you fools will turn[BREAK]  into garbage or dust or something[WAIT]  and finally disappear for good.[WAIT]@Ahahaha.[WAIT]  I'll admit, that is kind of sad.[WAIT]@But I would be crushed under the weight of[BREAK]  boredom if it were any other way.[END]
 805-11E:@Naja, egal.[WAIT]  Der Vorhang eures kleinen lächerlichen[BREAK]  Schauspiels fällt.[WAIT]@Denn bald wird die Kraft der Kräfte mir sein.[WAIT]@Die Welt und alles in ihr ist bis jetzt meine[BREAK]  Auster gewesen,[WAIT]  und jetzt werde ich alles enden,[BREAK]  indem ich die ultimative Kraft erlange.[WAIT]@Heheheh heheh.[WAIT]@Aha ahahaha ahahahahahaha.[WAIT]@*hust*[PAUSE 10 00] *hust*[PAUSE 10 00] *hust*[PAUSE 10 00] *hust*[PAUSE 2E 00][BREAK]  *röchel*[PAUSE 10 00] *röchel*[PAUSE 10 00] *röchel*[PAUSE 10 00] *röchel*[WAIT]@Puh...[WAIT]@Es war bisher so spaßig, dass ich euch[BREAK]  Häuflein ein Geständnis schulde.[WAIT]@Mir war todlangweilig und ich wollte etwas[BREAK]  Spannendes spielen.[WAIT]@Aber jetzt, wo wir Angesicht zu Angesicht[BREAK]  gegenüber stehen,[WAIT]  werde ich mich nicht zurückhalten.[WAIT]@Mein Sklave...[PAUSE 30 00] Mein lebloser Sohn wird die[BREAK]  letzte Nadel für mich ziehen.[WAIT]@Und in dem Moment wo er das macht, sollte[BREAK]  der Drache erwachen und tun, was ich will.[WAIT]@Ihr Dummköpfe werdet zu diesem Zeitpunkt[BREAK]  zu Müll oder Staub oder sonstwas[WAIT]  und endlich endgültig verschwinden.[WAIT]@Ahahaha.[WAIT]  Ich geb zu, es ist irgendwie traurig.[WAIT]@Aber ich würde vor Langeweile sterben,[BREAK]  wenn es anders wär.[END]
 805-12:@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 20 00] *wheeze*[WAIT]  *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]@Do you understand now?[WAIT]  Do you understand the sadness Master Porky[BREAK]  bears, now that he's god-like?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 25 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[END]
-805-12E:@*keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[WAIT]  *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[WAIT]@Versteht ihr jetzt?[WAIT]  Versteht ihr die Traurigkeit, die Meister[BREAK]  Porky trägt, jetzt wo er einem Gott gleich ist?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*hust*[PAUSE 20 00] *hust*[PAUSE 25 00] *hust*[PAUSE 20 00] *hust*[PAUSE 20 00] *hust*[END]
+805-12E:@*keuch*[PAUSE 20 00] *keuch*[PAUSE 20 00] *keuch*[WAIT]  *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[PAUSE 20 00] *röchel*[WAIT]@Versteht ihr jetzt?[WAIT]  Versteht ihr die Trauer, die Meister Porky[BREAK]  trägt, jetzt wo er einem Gott gleich ist?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*hust*[PAUSE 20 00] *hust*[PAUSE 25 00] *hust*[PAUSE 20 00] *hust*[PAUSE 20 00] *hust*[END]
 805-13:@Oh![WAIT]@You love your little dramatic plays, so this[BREAK]  couldn't have come at a better time for you![WAIT]@It seems the seventh and final Needle has just[BREAK]  been located deep underground, below here.[END]
 805-13E:@Oh![WAIT]@Ihr liebt euer kleines dramatisches Schauspiel,[BREAK]  also hätte es gar nicht besser für euch[WAIT]  kommen können![WAIT]@Die siebte und letzte Nadel wurde gerade tief[BREAK]  im Untergrund lokalisiert, direkt hierunter.[END]
 805-14:@I refuse to help you anymore![END]
@@ -18792,7 +18792,7 @@
 810-2:@Just say "yes" and don't ask why. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 810-2E:@Sag einfach "Ja" und frag nicht warum. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 810-3:@Thanks. Don't ask why.[WAIT]@But if it seems like I've been gone a long time,[BREAK]  then go ahead and keep going.[END]
-810-3E:@Danke. Frag einfach nicht, warum.[WAIT]@Falls ich nach längerer Zeit nicht zurück-[BREAK]  kommen sollte, dann geh einfach weiter.[END]
+810-3E:@Danke. Frag nicht, warum.[WAIT]@Falls ich nach einer Weile nicht zurückkommen[BREAK]  sollte, dann geh weiter.[END]
 810-4:@You gonna go?[PAUSE 80 00][EVENT][END]
 810-4E:@Du willst gehen?[PAUSE 80 00][EVENT][END]
 810-5:[0C FF 80 00][END]
@@ -18825,15 +18825,15 @@
 811-9:@As evil as old Porky here is, I feel bad for him[BREAK]  now.[END]
 811-9E:@So böse wie der alte Porky hier ist, habe ich[BREAK]  ja fast schon Mitleid.[END]
 811-10:@It's true that the "Absolutely Safe Capsule"[BREAK]  that the Mr. Saturns and I developed together[WAIT]  can protect one from every manner of danger.[WAIT]@It IS an absolutely[PAUSE 20 00] safe[PAUSE 20 00] capsule,[WAIT]  but once you enter it, you can never exit it[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
-811-10E:@Es stimmt, dass die "absolut sichere Kapsel",[BREAK]  die die Mr. Saturn und ich gebaut haben,[WAIT]  einem vor jeglicher Gefahr schützt.[WAIT]@Es ist nun mal eine absolut[PAUSE 20 00] SICHERE[PAUSE 20 00] Kapsel.[WAIT]  Aber sobald man einmal drin ist, kommt man[BREAK]  nie mehr raus[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
+811-10E:@Es stimmt, dass die "Absolut Sichere Kapsel",[BREAK]  die die Mr. Saturn und ich gebaut haben,[WAIT]  einem vor jeglicher Gefahr schützt.[WAIT]@Es ist nun mal eine Absolut[PAUSE 20 00] SICHERE[PAUSE 20 00] Kapsel.[WAIT]  Aber sobald man einmal drin ist, kommt man[BREAK]  nie mehr raus[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
 811-11:@Even what's outside of the Absolutely Safe[BREAK]  Capsule[PAUSE 20 00] is absolutely safe.[WAIT]@I did tell Porky in a hushed voice that he[BREAK]  shouldn't use it yet[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@But all he can do now is live for eternity inside[BREAK]  the capsule, in absolute safety.[WAIT]@Who knows, in a way,[PAUSE 20 00] he may've gotten[BREAK]  exactly what he wanted.[WAIT]@What do you think?[WAIT]  Is it wrong of me to think this way?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-811-11E:@Auch das Äußere der absolut sicheren Kapsel[BREAK]  ist absolut sicher.[WAIT]@Ich habe Porky mit gedämpfter Stimme[BREAK]  gesagt, dass er sie noch nicht nutzen soll[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Nun kann er nur noch bis in alle Ewigkeit[BREAK]  in dieser Kapsel leben, in absoluter Sicherheit.[WAIT]@Wer weiß, vielleicht hat er in gewisser Weise[PAUSE 20 00][BREAK]  genau das bekommen, was er wollte.[WAIT]@Was denkst du?[WAIT]  Ist es falsch, so zu denken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+811-11E:@Auch das Äußere der Absolut Sicheren Kapsel[BREAK]  ist absolut sicher.[WAIT]@Ich habe Porky in Flüsterstimme gesagt,[BREAK]  dass er sie noch nicht nutzen soll[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Nun kann er nur noch bis in alle Ewigkeit[BREAK]  in dieser Kapsel leben, in absoluter Sicherheit.[WAIT]@Wer weiß, vielleicht hat er in gewisser Weise[PAUSE 20 00][BREAK]  genau das bekommen, was er wollte.[WAIT]@Was denkst du?[WAIT]  Ist es falsch, so zu denken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 811-12:@It's NOT wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  I wonder.[WAIT]  I somehow get the feeling it is.[END]
 811-12E:@Es ist NICHT falsch,[PAUSE 20 00] sagst du?[PAUSE 20 00][WAIT]  Hmm.[WAIT]  Ich habe irgendwie das Gefühl, dass es das ist.[END]
 811-13:@It IS wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  Be that as it may, it's a little too late to do[BREAK]  anything now...[END]
 811-13E:@Es IST falsch,[PAUSE 20 00] sagst du?[PAUSE 20 00][WAIT]  Es ist, wie es ist. Jetzt ist es zu spät[BREAK]  irgendwas zu tun...[END]
 811-14:@Want to roll him around a bit?[WAIT]  No, no, it's okay. It IS absolutely safe, after all.[END]
-811-14E:@Möchtest du ihn etwas herumrollen?[WAIT]  Nein nein, ist schon okay.[BREAK]  Es ist immerhin absolut SICHER.[END]
+811-14E:@Möchtest du ihn etwas herumrollen?[WAIT]  Nein nein, kannst du ruhig machen.[BREAK]  Es ist immerhin absolut SICHER.[END]
 811-15:@Rolly, rolly...[END]
 811-15E:@Rollen, rollen...[END]
 811-16:@Whee! Rolly rolly![END]

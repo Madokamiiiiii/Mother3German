@@ -484,15 +484,15 @@ sein
 seine 
 -
 seinen 
-// 0036-E: Felslizard
-Der 
-der 
-Ein 
-einen 
-sein 
-seine 
-den 
-seinen 
+// 0036-E: Felsechse
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0037-E: Kartoffelkäfer
 Der 
 der 
@@ -863,14 +863,14 @@ ihre
 die 
 ihren 
 // 0060-E: Sandlizard
-Der 
-der 
-Ein 
-einen 
-sein 
-seine 
-den 
-seinen 
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0061-E: Kaktuswolf
 Der 
 der 

@@ -74,7 +74,7 @@
 0023: Fake Frying Pan
 0023-E: Künstliche Bratpfanne
 0024: Real Bat
-0024-E: Echter Schläger
+0024-E: Wahrer Schläger
 0025: Mini-Mini Charm
 0025-E: Mini-Mini Amulett
 0026: Flea Charm
@@ -154,7 +154,7 @@
 004B: Goddess Ribbon
 004B-E: Göttinnenschleife
 004C: DCMC Hat
-004C-E: DCMC-Hut
+004C-E: DCMC-Kappe
 004D: Awesome Crown
 004D-E: Fantastische Krone
 004E: Aries Bracelet

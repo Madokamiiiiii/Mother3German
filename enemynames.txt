@@ -23,7 +23,7 @@
 000A: Bright Smile
 000A-E: Glänzender Schleim
 000B: Porky
-000B-E: Pokey
+000B-E: Porky
 000C: N.K. Cyborg
 000C-E: N.K. Cyborg
 000D: Masked Man
@@ -109,7 +109,7 @@
 0035: Mystery Metal Monkey
 0035-E: Mysteriöser Metallaffe
 0036: Crag Lizard
-0036-E: Felslizard
+0036-E: Felsechse
 0037: Spud Bug
 0037-E: Kartoffelkäfer
 0038: Ten-Yeti
@@ -193,7 +193,7 @@
 005F: Sara-Sara-Sahara
 005F-E: Sara-Sara-Sahara
 0060: Sand Lizard
-0060-E: Sandlizard
+0060-E: Sandechse
 0061: Cactus Wolf
 0061-E: Kaktuswolf
 0062: Gooey Goo
@@ -629,7 +629,7 @@
 0139: Boat on Mind's 100F
 0139-E: Boat on Mind's 100F
 013A: Mini Porky-Bot
-013A-E: Winziger Pokey-Bot
+013A-E: Winziger Porky-Bot
 013B: Sign
 013B-E: Schild
 013C: Handcart

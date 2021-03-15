@@ -52,7 +52,7 @@ Back-Kartoffelmon.
 Laufender Busch
 Sorglose Qualle
 Metallaffe
-Felslizard
+Felsechse
 Kartoffelkäfer
 Ten-Yeti
 Frostiger Hund
@@ -94,7 +94,7 @@ Gruseliger Schleim
 Mistkäfer
 Groß-Ameisenlöwe
 Sara-Sara-Sahara
-Sandlizard
+Sandechse
 Kaktuswolf
 Klebriger Klebstoff
 Cleocatra
