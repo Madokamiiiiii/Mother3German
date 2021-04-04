@@ -183,7 +183,7 @@
 005A: Rockin' Ghost
 005A-E: Rockiger Geist
 005B: Pseudoor
-005B-E: Pseudo-Tür
+005B-E: Pseutür
 005C: Eerie Smile
 005C-E: Gruseliger Schleim
 005D: Dung Beetle

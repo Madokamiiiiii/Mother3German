@@ -148,7 +148,7 @@
 30-E:Sein Gesichtsausdruck[BREAK]knurrt: <Zahme Wild-[BREAK]schweine verdienen[BREAK]es nicht Wildschwein[BREAK]genannt zu werden!>[END]
 
 31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
-31-E:Verglichen mit Schlangen,[BREAK]die ständig beißen, beißt es[BREAK]nicht oft. Aber es kann[BREAK]schon beißen, also sei[BREAK]trotzdem vorsichtig.[END]
+31-E:Verglichen mit Schlangen,[BREAK]die ständig beißen, beißt[BREAK]sie nicht oft. Aber sie kann[BREAK]schon beißen, also sei[BREAK]trotzdem vorsichtig.[END]
 
 32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
 32-E:Dieser kleine Kerl will ein[BREAK]süßer Knödel sein, aber[BREAK]stattdessen ist er aus Ruß[BREAK]gemacht. Er wäre kein[BREAK]guter Snack.[END]
@@ -166,7 +166,7 @@
 36-E:[BREAK]Diesen Metallaffen zu be-[BREAK]kämpfen, wird einem ganz[BREAK]viele Erfahrungen geben.[BREAK]Denke daran.[END]
 
 37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
-37-E:Wenn er sich nicht bewegt,[BREAK]sieht er wie ein Stein[BREAK]aus. Wenn es sich bewegt,[BREAK]sieht es immernoch wie ein[BREAK]Stein aus.[END]
+37-E:Wenn sie sich nicht bewegt,[BREAK]sieht sie wie ein Stein[BREAK]aus. Wenn sie sich bewegt,[BREAK]sieht sie immernoch wie ein[BREAK]Stein aus.[END]
 
 38:These gather in groups to[BREAK]protect themselves from[BREAK]enemies. They'll proudly[BREAK]attack anything that[BREAK]appears to be weaker.[END]
 38-E:Sie sammeln sich zu Grup-[BREAK]pen um sich vor Feinden zu[BREAK]schützen. Sie greifen stolz[BREAK]alles an, was schwächer[BREAK]erscheint.[END]
@@ -343,7 +343,7 @@
 71-E:[BREAK]Eine schweinische Kreatur[BREAK]mit einem Primatenhirn. Es[BREAK]nutzt PSI, also sei[BREAK]vorsichtig.[END]
 
 72:[BREAK]Its aggressive pose is so[BREAK]intimidating, it makes you[BREAK]grateful that it isn't[BREAK]enormous in size.[END]
-72-E:[BREAK]Seine aggressive Pose ist[BREAK]so einschüchternd, dass[BREAK]du dankbar bist, dass[BREAK]er nicht gerade groß ist.[END]
+72-E:[BREAK]Ihre aggressive Pose ist[BREAK]so einschüchternd, dass[BREAK]du dankbar bist, dass[BREAK]sie nicht gerade groß ist.[END]
 
 73:Its dragon-like appearance[BREAK]protects it from enemies.[BREAK]Also somewhat like a[BREAK]dragon in that it breathes[BREAK]fire.[END]
 73-E:Sein drachenähnliches Aus-[BREAK]sehen schützt ihn vor[BREAK]Feinden. Zudem spuckt es,[BREAK]wie es einem Drachen[BREAK]gehört, Feuer.[END]

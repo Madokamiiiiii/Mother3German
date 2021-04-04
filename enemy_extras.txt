@@ -817,7 +817,7 @@ sein
 seine 
 -
 seinen 
-// 005B-E: Pseudo-Tür
+// 005B-E: Pseutür
 Die 
 die 
 Eine 
