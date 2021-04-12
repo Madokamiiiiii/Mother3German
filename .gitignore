@@ -22,7 +22,6 @@ testg.bin
 test.sav
 *.sav
 *.sav
-*.psd
 *.xml
 *.db
 ._sync_d8b906d13577.db
@@ -68,3 +67,4 @@ publish/Mother3Ger_Youmu_v1.0.zip
 *.bps
 *.zip
 *.7z
+Download

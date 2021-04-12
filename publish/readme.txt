@@ -41,6 +41,7 @@ CRC32: 42ac9cb9
 - Lorenzooone (technische Fragen, Fixes)
 - BluesBro und Chat (Testing)
 - Clainekun (Testing)
+- BlueShell und NeoRame (Logo + Disclaimer)
 
 -----Verwendete Tools-----
 Mother 3 Translation Tools
