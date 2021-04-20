@@ -164,7 +164,7 @@
 0-70:@For some reason, [42 FF F0 FF] started to[BREAK]  feel feverish.[END]
 0-70E:@Aus irgendeinem Grund begann [42 FF F0 FF] sich[BREAK]  fiebrig zu fühlen.[END]
 0-71:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@It appears that one of your friends is not[BREAK]  feeling very well.[WAIT]@They aren't poisoned, nor are they sleepy, yet[BREAK]  they just can't shake that ill feeling.[WAIT]@They lack the energy to run, and using items[BREAK]  or hot springs doesn't appear to help, either.[WAIT]@It would seem this is because something is[BREAK]  beginning to awaken inside them.[WAIT]@But I'm sure they'll get over it before long, so[BREAK]  don't be too worried.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whoosh*[END]
-0-71E:@*wusch* *wusch*[WAIT]  Grüße![WAIT]@'Tschuldige, dass ich hier jetzt so plötzlich[BREAK]  hereinstürme, aber hast du schon mal vom[WAIT]  Sprichwort "Der Wind flüstert's..." gehört?[WAIT]@Genau, ich bin der Wind, durch den diese[BREAK]  Gerüchte entstehen.[WAIT]@Es scheint, dass sich einer deiner Freunde sich[BREAK]  nicht sehr gut fühlt.[WAIT]@Weder vergiftet noch müde, doch kann man[BREAK]  dieses Gefühl nicht abschütteln.[WAIT]@Es fehlt die Energie zu rennen; und Items oder[BREAK]  heiße Quellen scheinen auch nicht zu helfen.[WAIT]@Es scheint daher zu kommen, dass etwas[BREAK]  anfängt zu erwachen.[WAIT]@Aber ich bin mir sicher, man wird irgendwann[BREAK]  darüber hinwegkommen, also mach dir da[BREAK]  mal keine Sorgen.[WAIT]@Nun, das war's mit dem Geflüster.[WAIT]@Ich sollte nun gehen. Ciao![WAIT]@*wusch*[END]
+0-71E:@*wusch* *wusch*[WAIT]  Grüße![WAIT]@'Tschuldige, dass ich hier jetzt so plötzlich[BREAK]  hereinstürme, aber hast du schon mal vom[WAIT]  Sprichwort "Der Wind flüstert's..." gehört?[WAIT]@Genau, ich bin der Wind, durch den diese[BREAK]  Gerüchte entstehen.[WAIT]@Es scheint, dass sich einer deiner Freunde sich[BREAK]  nicht sehr wohl fühlt.[WAIT]@Weder vergiftet noch müde, doch kann man[BREAK]  dieses Gefühl nicht abschütteln.[WAIT]@Es fehlt die Energie zu rennen; und Items oder[BREAK]  heiße Quellen scheinen auch nicht zu helfen.[WAIT]@Es scheint daher zu kommen, dass etwas[BREAK]  anfängt zu erwachen.[WAIT]@Aber ich bin mir sicher, man wird irgendwann[BREAK]  darüber hinwegkommen, also mach dir da[BREAK]  mal keine Sorgen.[WAIT]@Nun, das war's mit dem Geflüster.[WAIT]@Ich sollte nun gehen. Ciao![WAIT]@*wusch*[END]
 // if you kill Kumatora off in Chapter 2, this text can appear in Chapter 4. Lucas isn't a "she", so this needs to use the vague "them" and "they"
 0-72:@Now isn't the time for that.[END]
 0-72E:@Jetzt ist nicht die Zeit dafür.[END]
@@ -884,7 +884,7 @@
 4-15:@Hold on, Alle.[WAIT]@I think that's a "miss", not a "mister".[END]
 4-15E:@Warte mal, Eva.[WAIT]@Ich glaube das ist eine "Dame",[BREAK]  und kein "Herr".[END]
 4-16:@Huh?[WAIT]@You're a girl?[WAIT]@Yeah, come to think of it, you ARE really[BREAK]  pretty.[END]
-4-16E:@Was?[WAIT]@Sie sind ein Mädchen?[WAIT]@Hmm, wenn ich es mir genau überlege,[BREAK]  dann sind Sie ECHT hübsch.[END]
+4-16E:@Häh?[WAIT]@Sind Sie ein Mädchen?[WAIT]@Hmm, wenn ich Sie mir genau anschaue,[BREAK]  dann sind Sie ECHT hübsch.[END]
 4-17:@Keep up the good work, Mr. Monkey.[END]
 4-17E:@Mach weiter so, Herr Affe.[END]
 4-18:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  During battle, it's not uncommon to forget[BREAK]  what exactly each item does, right?[WAIT]  Has this ever happened to you?[WAIT]  When it does, just choose the item you want[BREAK]  to know about and press [COLOR 03 00]Select[COLOR 00 00].[WAIT]  A simple description will pop up, which is quite[BREAK]  handy, indeed.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
@@ -1409,7 +1409,7 @@
 11-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 11-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-11-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
+11-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du weg willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 11-15:@Here, I'll give you the Drawbridge Key.[END]
 11-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
@@ -2131,7 +2131,7 @@
 18-37:@What is it?[WAIT]@Is there something on top of this cliff?[END]
 18-37E:@Was ist?[WAIT]@Ist jemand auf der Klippe?[END]
 18-38:@Old man Wess! What are you doing here?[WAIT]@Sorry to say, but there's nothing a rickety old[BREAK]  man can do to help us out.[END]
-18-38E:@Der alte Wess! Was machst du denn hier?[WAIT]@Sorry, das zu sagen, aber ein alter, klappriger[BREAK]  Mann wird uns nicht helfen können.[END]
+18-38E:@Alter Mann, Wess! Was machst du denn hier?[WAIT]@Sorry, das zu sagen, aber ein alter, klappriger[BREAK]  Mann wird uns nicht helfen können.[END]
 18-39:@Oh... [FLINT 23 01 00].[WAIT]@Don't tell me you intend to climb this cliff?[END]
 18-39E:@Oh... [FLINT 23 01 00].[WAIT]@Sag mir nicht, du willst auf die Klippe klettern?[END]
 18-40:@I know how you feel, but scaling this cliff face[BREAK]  is just too dangerous.[WAIT]@But, you know, maybe my son could be of use.[WAIT]@I don't know if it will help any, but let's get him[BREAK]  here so he can try.[END]
@@ -2700,11 +2700,11 @@
 29-3:@(I'm a pile of real cow bones.[WAIT]  Real cow bones don't talk without good[BREAK]  reason.)[END]
 29-3E:@(Ich bin ein Haufen echter Kuhknochen.[WAIT]  Echte Kuhknochen reden nicht ohne guten[BREAK]  Grund.)[END]
 29-4:@Got a [ITEM 6B 00]![END]
-29-4E:@[ITEM 6B 00] erhalten![END]
+29-4E:@Eine [ITEM 6B 00] erhalten![END]
 29-5:@Inside the present, there was[BREAK]  a [ITEM 6B 00].[WAIT]@But you can't hold any more stuff.[END]
-29-5E:@Im Geschenk war ein[BREAK]  [ITEM 6B 00].[WAIT]@Aber du kannst nichts mehr tragen.[END]
+29-5E:@Im Geschenk war eine[BREAK]  [ITEM 6B 00].[WAIT]@Aber du kannst nichts mehr tragen.[END]
 29-6:@You gave up the [ITEM 6B 00].[END]
-29-6E:@Du hast [ITEM 6B 00] verloren.[END]
+29-6E:@Du hast die [ITEM 6B 00] aufgegeben.[END]
 29-7:@Oh! That's a [ITEM 6B 00]![WAIT]@Hey, you! Stupid monkey![EVENT][END]
 29-7E:@Oh! Das ist eine [ITEM 6B 00]![WAIT]@Hey, du! Dummer Affe![EVENT][END]
 29-8:@If you think you've earned that [ITEM 6B 00],[BREAK]  then you better think again![WAIT]@Gimme that![END]
@@ -9610,7 +9610,7 @@
 211-44:@[DUSTER 23 03 00], you moron...[WAIT]@You better come back soon...[END]
 211-44E:@[DUSTER 23 03 00], du Hohlkopf...[WAIT]@Du kommst besser bald zurück...[END]
 211-45:@Why, hello there.[WAIT]@What do you think of the wonderful bag I gave[BREAK]  you?[WAIT]@Is it to your liking?[END]
-211-45E:@Na, hallöchen.[WAIT]@Wie findest du den wundervollen Beutel,[BREAK]  die ich dir gegeben habe?[WAIT]@Gefällt sie dir?[END]
+211-45E:@Na, hallöchen.[WAIT]@Wie findest du den wundervollen Beutel,[BREAK]  den ich dir gegeben habe?[WAIT]@Gefällt sie dir?[END]
 211-46:@Oh, it's you, Mr. Fassad.[WAIT]@Don't scare me like that...[END]
 211-46E:@Ach, Sie sind es, Herr Fassad.[WAIT]@Erschrecken Sie mich doch nicht so...[END]
 211-47:@Actually, I was just counting to see how much[BREAK]  is in here.[END]
@@ -9754,7 +9754,7 @@
 212-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 212-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-212-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
+212-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du weg willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 212-15:@Here, I'll give you the Drawbridge Key.[END]
 212-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
@@ -9850,7 +9850,7 @@
 213-13E:@Mein bescheidenes, kleines [FAVFOOD]-[BREAK]  Beet.[END]
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
 213-14:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@If you're headed out, crossing the drawbridge[BREAK]  would be faster and safer[WAIT]  than taking this underground passage.[END]
-213-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du gehen willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
+213-14E:@Oh, der Sohn des alten Wess,[BREAK]  Wie-hieß-er-nochmal.[WAIT]@Wenn du weg willst, wäre die Zugbrücke[BREAK]  schneller und sicherer als die Tunnelpassage.[END]
 // Repeats: 11-14, 212-14, 213-14
 213-15:@Here, I'll give you the Drawbridge Key.[END]
 213-15E:@Bitte schön, das ist der Schlüssel für die[BREAK]  Zugbrücke.[END]
@@ -9886,7 +9886,7 @@
 213-25E:[SOUND 03 00]  ...zwitscher zwitscher zwitscher!)[END]
 // Repeats: 11-25, 212-25, 213-25
 213-26:@Ow ow oww...[WAIT]@I sure wound up in a bit o' trouble, I did.[WAIT]@Some pig-looking guys just bust right into[BREAK]  the castle.[WAIT]@If you're going inside, *huff*[PAUSE 20 00] do be careful.[END]
-213-26E:@Au au auuu...[WAIT]@Ich bin auf ein ganz schönes Stück Ärger[BREAK]  getroffen.[WAIT]@Ein paar schweineartige Kerle sind ins Schloss[BREAK]  eingebrochen.[WAIT]@Wenn du rein gehst, *schnaub*[PAUSE 20 00] sei vorsichtig.[END]
+213-26E:@Au au auuu...[WAIT]@Ich habe mir ganz schön Ärger eingefädelt.[WAIT]@Ein paar schweineartige Kerle sind in das[BREAK]  Schloss eingebrochen.[WAIT]@Wenn du rein gehst, *schnaub*[PAUSE 20 00] sei vorsichtig.[END]
 213-27:@A strange vehicle is sitting here.[END]
 213-27E:@Ein komisches Fahrzeug steht hier.[END]
 213-28:@Potatoto.[END]
@@ -10327,7 +10327,7 @@
 222-71E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 222-72:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
-222-72E:@Bitte keine Sprintbomben in geschlossen[BREAK]  Räumen werfen.[WAIT]  Sonst ist alles voller Rauch.[END]
+222-72E:@Bitte keine Rennbomben in geschlossenen[BREAK]  Räumen benutzen.[WAIT]  Sonst ist alles voller Rauch.[END]
 // Repeats: 222-72, 506-72, 507-0
 222-73:@There's a button here.[WAIT]@Press it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 222-73E:@Da ist ein Knopf.[WAIT]@Drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -16943,7 +16943,7 @@
 506-71E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 506-72:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
-506-72E:@Bitte keine Sprintbomben in geschlossen[BREAK]  Räumen werfen.[WAIT]  Sonst ist alles voller Rauch.[END]
+506-72E:@Bitte keine Rennbomben in geschlossenen[BREAK]  Räumen werfen.[WAIT]  Sonst ist alles voller Rauch.[END]
 // Repeats: 222-72, 506-72, 507-0
 506-73:@There's a button here.[WAIT]@Press it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 506-73E:@Da ist ein Knopf.[WAIT]@Drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -17002,7 +17002,7 @@
 
 [Container 507]
 507-0:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
-507-0E:@Bitte keine Sprintbomben in geschlossen[BREAK]  Räumen werfen.[WAIT]  Sonst ist alles voller Rauch.[END]
+507-0E:@Bitte keine Rennbomben in geschlossenen[BREAK]  Räumen werfen.[WAIT]  Sonst ist alles voller Rauch.[END]
 // Repeats: 222-72, 506-72, 507-0
 507-1:@There's a button here.[WAIT]@Press it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 507-1E:@Da ist ein Knopf.[WAIT]@Drücken?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -17884,7 +17884,7 @@
 643-6E:@...[DUSTER 23 03 00].[WAIT]@Das ist peinlich. Dreh dich um.[END]
 // Repeats: 643-6, 660-6
 643-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-643-7E:@Schau jetzt nicht her![WAIT]@Es nicht so als würde ich meinen Hintern oder[BREAK]  sowas herausstrecken.[END]
+643-7E:@Schau jetzt nicht her![WAIT]@Es ist nicht so als würde ich meinen Hintern[BREAK]  oder sowas herausstrecken.[END]
 // Repeats: 643-7, 660-7
 643-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
 643-8E:@Ich glaube, ich habe dir diesen Tanz[BREAK]  beigebracht, als du noch sehr jung warst.[END]
@@ -18090,7 +18090,7 @@
 660-6E:@...[DUSTER 23 03 00].[WAIT]@Das ist peinlich. Dreh dich um.[END]
 // Repeats: 643-6, 660-6
 660-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-660-7E:@Schau jetzt nicht her![WAIT]@Es nicht so als würde ich meinen Hintern oder[BREAK]  sowas herausstrecken.[END]
+660-7E:@Schau jetzt nicht her![WAIT]@Es ist nicht so als würde ich meinen Hintern[BREAK]  oder sowas herausstrecken.[END]
 // Repeats: 643-7, 660-7
 660-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
 660-8E:@Ich glaube, ich habe dir diesen Tanz[BREAK]  beigebracht, als du noch sehr jung warst.[END]

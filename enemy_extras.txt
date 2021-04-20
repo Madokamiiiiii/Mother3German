@@ -25,7 +25,7 @@ sein
 seine 
 -
 seinen 
-// 0003-E: Oh-Ho-Schlange
+// 0003-E: Oh-So-Schlange
 Die 
 die 
 Eine 
@@ -880,7 +880,7 @@ sein
 seine 
 den 
 seinen 
-// 0062-E: Klebriger Klebstoff
+// 0062-E: Schleimiger Schleim
 -
 -
 Ein 
@@ -1330,15 +1330,15 @@ sein
 seine 
 das 
 seinen 
-// 0094-E: Ersatzmech
-Der 
-der 
-Ein 
-einen 
-sein 
-seine 
-den 
-seinen 
+// 0094-E: Aufklärungsdrohne
+Die 
+die 
+Eine 
+eine 
+ihr 
+ihre 
+die 
+ihren 
 // 0095-E: Schweinemaske
 Die 
 die 

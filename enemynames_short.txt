@@ -1,7 +1,7 @@
 (empty)
 Umgebautes Rentier
 Hr. Passion
-Oh-Ho-Schlange
+Oh-So-Schlange
 Lehmmensch
 Mecha-Drago
 Schweinepanzer
@@ -87,7 +87,7 @@ Geisterrüstung
 Geisterschwert
 Geisterschild
 Geisterritter
-Osohe Vorhang
+Osohe Umhang
 Rockiger Geist
 Pseutür
 Gruseliger Schleim
@@ -96,7 +96,7 @@ Groß-Ameisenlöwe
 Sara-Sara-Sahara
 Sandechse
 Kaktuswolf
-Klebriger Klebstoff
+Schleimiger Schleim
 Cleocatra
 Klein-groß-Bruder
 Zombiepilz
@@ -146,7 +146,7 @@ Fischfilet-Mann
 PORKY 07
 Rückk. des Octobots
 Teppichmonster
-Ersatzmech
+Aufklärungsdrohne
 Schweinemaske
 Zombiefrau
 Frecher Pilz

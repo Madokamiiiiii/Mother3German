@@ -7,7 +7,7 @@
 0002: Mr. Passion
 0002-E: Herr Passion
 0003: Oh-So-Snake
-0003-E: Oh-Ho-Schlange
+0003-E: Oh-So-Schlange
 0004: Clayman
 0004-E: Lehmmensch
 0005: Mecha-Drago
@@ -179,7 +179,7 @@
 0058: Ghost Knight
 0058-E: Geisterritter
 0059: Osohe Cape
-0059-E: Osohe Vorhang
+0059-E: Osohe Umhang
 005A: Rockin' Ghost
 005A-E: Rockiger Geist
 005B: Pseudoor
@@ -197,7 +197,7 @@
 0061: Cactus Wolf
 0061-E: Kaktuswolf
 0062: Gooey Goo
-0062-E: Klebriger Klebstoff
+0062-E: Schleimiger Schleim
 0063: Cleocatra
 0063-E: Cleocatra
 0064: Li'l Big Bro
@@ -297,7 +297,7 @@
 0093: Carpet Monster
 0093-E: Teppichmonster
 0094: Recon Mech
-0094-E: Ersatzmech
+0094-E: Aufklärungsdrohne
 0095: Pigmask
 0095-E: Schweinemaske
 0096: Zombie Lady
