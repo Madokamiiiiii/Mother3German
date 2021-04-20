@@ -2947,9 +2947,128 @@ seinen
 -
 -
 -
+-
+-
+-
 // 0149-E: Aeolia & Sofa
 -
 -
 -
 -
 -
+-
+-
+-
+// EMPTY (Character)
+-
+-
+-
+-
+-
+-
+-
+-
+// Flint
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Lucas
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Duster
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Kumatora
+-
+-
+-
+ihr 
+ihre 
+-
+ihren 
+// Boney
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Salsa
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Wess
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Thomas
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Ionia
+-
+-
+-
+ihr 
+ihre 
+-
+ihren 
+// Fuel
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Alec
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Fassad
+-
+-
+-
+sein 
+seine 
+-
+seinen 
+// Claus
+-
+-
+-
+sein 
+seine 
+-
+seinen 

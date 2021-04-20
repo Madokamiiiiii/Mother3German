@@ -621,7 +621,7 @@ org $804C77E; bl naming_screen_hacks.reprint_invalid_duplicated
 org $804E560; bl naming_screen_hacks.reprint_after_invalid_duplicated
 
 // If you use OAM for "Is this okay? Yes No", uncomment the line below
-//org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
+org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
 
 // Disable L and R alphabet switching
 org $803E79F; db $E0
@@ -681,8 +681,8 @@ org $804DCB2; db $10
 // Change the sanctuary screen arrangement to match the factory screen one
 org $804A0F8; db $48
 org $9BBB7BC; incbin ./graphics/gfx_factory_arrangement.bin
-org $9BBEFBC; incbin ./graphics/gfx_summary_arrangement.bin
-org $9BBFFBC; incbin ./graphics/gfx_flavours_arrangement.bin
+//org $9BBEFBC; incbin ./graphics/gfx_summary_arrangement.bin
+//org $9BBFFBC; incbin ./graphics/gfx_flavours_arrangement.bin
 
 // Change the sanctuary graphics to include the custom window border tiles
 org $9BB69FC; incbin ./graphics/gfx_sanctuaryborders.bin
@@ -1295,8 +1295,10 @@ org $8D530BC; incbin ./graphics/gfx_thunder_elevator_intern_[c].bin
 
 // - Club Titiboo
 org $8D50A00; incbin ./graphics/gfx_club_keepout_[c].bin
-org $8DBA730; incbin ./graphics/gfx_ropeway_bottom_[c].bin
-org $8E1444C; incbin ./graphics/gfx_ropeway_top_[c].bin
+org $8D3C5D4; dd $9CE0598-$8D3B4E0
+org $9CE0598; incbin ./graphics/gfx_ropeway_bottom_[c].bin
+org $8D3BF2C; dd $9CE0D00-$8D3B4E0
+org $9CE0D00; incbin ./graphics/gfx_ropeway_top_[c].bin
 org $8D5A2A8; incbin ./graphics/gfx_titiboo_oil_[c].bin
 
 // - Debug Room
@@ -1307,7 +1309,8 @@ org $8DD2260; incbin ./graphics/gfx_bazar1_[c].bin
 org $8DD1ECC; incbin ./graphics/gfx_bazar2_[c].bin
 org $9C68724; incbin ./graphics/gfx_bazar_credits.bin
 // SheriffOffice is unused
-org $8DD6054; incbin ./graphics/gfx_sheriffoffice3_[c].bin
+org $8D3C134; dd $9CFEFA8-$8D3B4E0
+org $9CFEFA8; incbin ./graphics/gfx_sheriffoffice3_[c].bin
 org $8DD5D60; incbin ./graphics/gfx_sheriffoffice2_[c].bin
 // org $9640AD0; incbin ./graphics/gfx_knock.bin		Currently HARDCODED
 org $9692350; incbin ./graphics/gfx_ice.bin
@@ -1336,7 +1339,9 @@ org $8E9CB2C; incbin ./graphics/gfx_beauty_intern1_[c].bin
 org $8E9CEF0; incbin ./graphics/gfx_beauty_intern2_[c].bin
 org $8F15E9C; incbin ./graphics/gfx_beauty_extern_[c].bin
 org $8F0A464; incbin ./graphics/gfx_heli_[c].bin
-org $8F0D480; incbin ./graphics/gfx_welcome_[c].bin
+//org $8F0D480; incbin ./graphics/gfx_welcome_[c].bin
+org $8D3DDB0; dd $9F87D5C-$8D3B4E0
+org $9F87D5C; incbin ./graphics/gfx_welcome_[c].bin
 org $8F1E0BC; incbin ./graphics/gfx_vikings_[c].bin
 // org $8F1EA7C; incbin ./graphics/gfx_park_[c].bin
 org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
@@ -1345,15 +1350,18 @@ org $98EDAD0; incbin ./graphics/gfx_police.bin
 org $8F217FC; incbin ./graphics/gfx_porky_empire_[c].bin
 
 // - Highway
-org $8E748D0; incbin ./graphics/gfx_charge1_[c].bin
-org $8E2539C; incbin ./graphics/gfx_charge2_[c].bin
-org $8EEC604; incbin ./graphics/gfx_charge3_[c].bin
+org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
+org $8D3CD4C; dd $9CE0994-$8D3B4E0
+org $9CE0994; incbin ./graphics/gfx_charge2_[c].bin
+org $8D3D928; dd $9F88410-$8D3B4E0
+org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
 org $8E74370; incbin ./graphics/gfx_highwaycafe_[c].bin
 //org $8ED4C38; incbin ./graphics/gfx_cafe_top_[c].bin
 //org $8ED4930; incbin ./graphics/gfx_cafe_bottom_[c].bin
 
 // - Other Graphics
 org $8E2B95C; incbin ./graphics/gfx_check1_[c].bin
+org $87F2B13; dd $9F888D4-$8D3B4E0
 org $9F888D4; incbin ./graphics/gfx_check2_[c].bin
 org $8D3CF4C; dd $9F87A5C-$8D3B4E0
 org $9F87A5C; incbin ./graphics/gfx_new_[c].bin
@@ -1516,8 +1524,8 @@ org $9FABFE0; incbin ./graphics/gfx_bellicon_pal.bin
 
 // intro screen
 org $805AD14; bl introhackcode // bl extra_hacks.intro_screen // 
-org $9FAC000; incbin ./graphics/gfx_disclaimer_[c].bin
-org $9FAFE00; incbin ./graphics/gfx_disclaimer_pal.bin
+org $9FAC000; incbin gfx_disclaimer_[c].bin
+org $9FAFE00; incbin gfx_disclaimer_pal.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1
@@ -1976,16 +1984,16 @@ org $803E6F0; bl naming_screen_hacks.impede_refresh_oam
 //the NAMING SCREEN HACKS section (the one for 8042EFC)
 
 //Remove the OAM entry for Favorite Food. Use graphics
-org $8042DDC; mov r1,#1; neg r1,r1; mov r9,r1; add r2,#0x14; b $8042DFF
+//org $8042DDC; mov r1,#1; neg r1,r1; mov r9,r1; add r2,#0x14; b $8042DFF
 
 //Remove the OAM entry for Favorite Thing. Use graphics
-org $8042E2E; add r2,#0x14; b $8042E4B
+//org $8042E2E; add r2,#0x14; b $8042E4B
 
 //Remove the OAM entry for Text Speed. Use graphics
-org $8042E76; b $8042E93
+//org $8042E76; b $8042E93
 
 //Improve performances: use graphics for "Is This Okay? Yes No"
-org $8042EEC; bl naming_screen_hacks.change_is_this_okay; b $8042F17
+//org $8042EEC; bl naming_screen_hacks.change_is_this_okay; b $8042F17
 
 //============================================================================================
 //                                   8 LETTERS FAKE NAMES

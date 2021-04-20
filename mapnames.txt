@@ -182,7 +182,7 @@
 058:Sunshine Forest[END]
 058-E:Sonnenscheinwald[END]
 059:Sunshine Forest[END]
-059-E:Sonnenscheinwald[END]
+059-E:Sonnenscheinwald[BREAK]Lighters Haus[END]
 05A:Mt. Oriander[BREAK]Great Cliff[END]
 05A-E:Berg Oriander[BREAK]Groﬂe Klippe[END]
 05B:[END]

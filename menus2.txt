@@ -1,3 +1,6 @@
+// This is all the secret Memo Menu text.
+// On a given screen (between WAITs), there can be a maximum of 304 characters.
+
 0000: [END]
 0000-E: [END]
 0001: Dash[END]

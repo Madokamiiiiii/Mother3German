@@ -1,3 +1,4 @@
+// Short enemy names must be 19 letters or less
 (empty)
 Umgebautes Rentier
 Hr. Passion

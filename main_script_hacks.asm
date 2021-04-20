@@ -524,8 +524,7 @@ mov  r0,r1
 sub  r2,r2,#2
 ldrh r0,[r0,#0]
 mov  r1,r0
-lsl  r0,r0,#2
-add  r0,r0,r1                     // offset = enemy ID * 5 bytes
+lsl  r0,r0,#3                     // offset = enemy ID * 5 bytes
 ldr  r1,=#{enemy_extras_address}  // this is the base address of our extra enemy data table in ROM
 b    .chap_end_custom_cc_end
 

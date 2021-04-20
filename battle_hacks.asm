@@ -656,7 +656,7 @@ b    .cc_en_articles
 
 cmp  r0,#0x08                // check for 0xEF08, which will print an uppercase dative article
 bne +
-b  .cc_en_articles
+b   .cc_en_articles
 +
 
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
@@ -686,17 +686,17 @@ b    .cc_it_articles
 
 cmp  r0,#0x17                // check for 0xEF17, which will print a lowercase past-tense verb for items
 bne  +
-b    .cc_it_articles
+b    .cc_plural_verb
 +
 
 cmp  r0,#0x40                // check for 0xEF40, which will print the correct verb suffix
 bne +
-b  .cc_plural_verb
+b   .cc_plural_verb
 +
 
 cmp  r0,#0x41                // check for 0xEF41, which will print the cohorts string in accusative
 bne +
-b  .cc_cohorts_akk
+b   .cc_cohorts_akk
 +
 
 mov  r0,#0                   // if this executes, it's an unknown control code, so treat it normally
@@ -859,11 +859,11 @@ mov  r3,#0                       // r3 will be our total # of bytes changed
 ldr  r0,=#0x2014322              // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1
-beq  .cc_cohorts_end             // don't print anything if there's only one enemy
+beq  .cc_cohorts_akk_end             // don't print anything if there's only one enemy
 
 sub  r0,#1
 cmp  r0,#1
-bne  .cc_cohorts_plural
+bne  .cc_cohorts_akk_plural
 
 mov  r0,#3
 mov  r2,#40
@@ -886,9 +886,9 @@ ldr  r2,=#{custom_text_address}
 add  r0,r0,r2                    // r0 now has the address to the appropriate possessive pronoun string
 bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0
-b    .cc_cohorts_second_part
+b    .cc_cohorts_akk_second_part
 
-.cc_cohorts_plural:
+.cc_cohorts_akk_plural:
 mov  r0,#3
 mov  r2,#40
 mul  r0,r2
@@ -912,7 +912,7 @@ add  r0,r0,r2                // r0 now has the address to the appropriate posses
 bl   custom_strlen           // count the length of our special string, store its length in r2
 add  r3,r3,r0
 
-.cc_cohorts_second_part:
+.cc_cohorts_akk_second_part:
 ldr  r0,=#0x2014322              // load the # of enemies
 ldrb r0,[r0,#0]
 sub  r0,#1                       // subtract one for ease of use
@@ -927,7 +927,7 @@ pop  {r1}                        // restore r1 with the target address
 bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0                    // update special string length
 
-.cc_cohorts_end:
+.cc_cohorts_akk_end:
 mov  r0,r3                       // r0 now has the total # of bytes we added
 
 pop  {r1-r3}
@@ -937,32 +937,48 @@ b    .main_loop_next             // now jump back to the part of the main loop t
 
 .cc_plural_verb:
 push {r1-r3}
-mov  r3,#0                   	 // r3 will be our total # of bytes changed
+mov  r3,#0                   // r3 will be our total # of bytes changed
  
-ldr  r0,=#0x2014322          	 // load the # of enemies
+ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1
+
 bne  .cc_plural_verb_plural  
 
-ldr  r0,=#{custom_text_address}	 // Base adress of custom_text
-mov  r2,#0xC8					 // Offset "t "
-add  r0,r0,r2
-bl   custom_strlen           	 // count the length of our special string, store its length in r2
+mov  r0,#9
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2                    // r0 now has " and "
+bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0
+
+//ldr  r0,=#0x8D0829C			 // Base adress of custom_text
+//mov  r2,#0x168				 // Offset "t "
+//add  r0,r0,r2
+//bl   custom_strlen           // count the length of our special string, store its length in r2
+//add  r3,r3,r0
 b    .cc_plural_verb_end
 
 .cc_plural_verb_plural:
-ldr  r0,=#{custom_text_address}	 // Base adress of custom_text
-mov  r2,#0xA0				 	 // Offset "en "
-add  r0,r0,r2
-bl   custom_strlen           	 // count the length of our special string, store its length in r2
+mov  r0,#8
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2                    // r0 now has " and "
+bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0
+// ldr  r0,=#0x8D0829C			 // Base adress of custom_text
+// mov  r2,#0x190				 // Offset "en "
+// add  r0,r0,r2
+// bl   custom_strlen           // count the length of our special string, store its length in r2
+// add  r3,r3,r0
  
 .cc_plural_verb_end:
-mov  r0,r3                  	 // r0 now has the total # of bytes we added
+mov  r0,r3                   // r0 now has the total # of bytes we added
  
 pop  {r1-r3}
-b    .main_loop_next         	 // now jump back to the part of the main loop that increments and such
+b    .main_loop_next         // now jump back to the part of the main loop that increments and such
 
 //--------------------------------------------------------------------------------------------
 
@@ -1897,7 +1913,7 @@ b    .ecc_it_articles
 
 cmp  r0,#0x17                // check for 0xEF17, which will print a lowercase past-tense verb for items
 bne  +
-b    .ecc_it_articles
+b    .ecc_plural_verb
 +
 
 cmp  r0,#0x40                // check for 0xEF40, which the correct verb suffix
@@ -2015,7 +2031,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320              // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
@@ -2041,7 +2057,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320              // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
@@ -2101,7 +2117,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320              // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
@@ -2127,7 +2143,7 @@ add  r3,r3,r0
 
 ldr  r0,=#0x2014320              // load our current enemy #
 ldrb r0,[r0,#0]
-mov  r2,#5
+mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
@@ -2208,21 +2224,41 @@ ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1				     // singular verb
 bne  .ecc_plural_verb_plural   
-ldr  r0,=#{custom_text_address}		 // Base adress for custom_text
-mov  r2,#0xC8				 // Offset for "t "                  
-add  r0,r0,r2
-bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+
+mov  r0,#9
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2                    // r0 now has the address of " and "
+bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
+
+//ldr  r0,=#0x8D0829C			 // Base adress for custom_text
+//mov  r2,#0x168				 // Offset for "t "                  
+//add  r0,r0,r2
+//bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+//add  r1,r1,r0
+//add  r3,r3,r0
 b +
 
 .ecc_plural_verb_plural:
-ldr  r0,=#{custom_text_address}		 // Base adress for custom_text
-mov  r2,#0xA0				 // Offset for "en "                  
-add  r0,r0,r2
-bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+
+mov  r0,#8
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2                    // r0 now has the address of " and "
+bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
+
+//ldr  r0,=#0x8D0829C			 // Base adress for custom_text
+//mov  r2,#0x190				 // Offset for "en "                  
+//add  r0,r0,r2
+//bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+//add  r1,r1,r0
+//add  r3,r3,r0
  
 +
 mov  r0,r3                   // r0 now has the total # of bytes we added
