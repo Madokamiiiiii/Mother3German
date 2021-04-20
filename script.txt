@@ -15,26 +15,35 @@
 0-6E:[BREAK][CENTER]Alex' Haus,[BREAK][CENTER]Vater von [HINAWA 22 08 00][END]
 0-7:[BREAK]Dear [FLINT 23 01 00],[BREAK]Just like you said they would, the children[BREAK]have been running around the mountains and[BREAK]fields tirelessly since the moment we arrived.[BREAK][BREAK][CLAUS 22 05 00] is as daring and full of energy[BREAK]as ever, while [LUCAS 23 02 00] is still a bit[BREAK]coddled. But neither one seems tired of[BREAK]playing at all.[BREAK][BREAK]My father seems sad to say goodbye to his[BREAK]grandchildren after seeing them for the first[BREAK]time in so long, but we should be home by[BREAK]this evening.[BREAK][BREAK]I had forgotten how nice and refreshing the[BREAK]mountain air is. You're always covered in the[BREAK]smell of sheep back in Tazmily Village, so I[BREAK]really wish you could have been here to take[BREAK]in this air.[BREAK][BREAK]The next time we visit, let's ask one of our[BREAK]neighbors to tend to the sheep so we can all[BREAK]come up here as a family.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], and I were[BREAK]always thinking about you. When we get[BREAK]home this evening, I'll start cooking some[BREAK]of your favorite [FAVFOOD] right away.[BREAK][BREAK]With love, your dearest [HINAWA 22 08 00][BREAK][BREAK][END]
 0-7E:[BREAK]Lieber [FLINT 23 01 00],[BREAK]genau wie du sagtest, spielen die Kinder,[BREAK]seit wir angekommen sind unermüdlich durch[BREAK]die Berge und Felder.[BREAK][BREAK][CLAUS 22 05 00] ist so reizend und voller[BREAK]Energie wie immer, während [LUCAS 23 02 00] [BREAK]immer noch ein bisschen verhätschelt ist.[BREAK]Aber keiner von beiden scheint müde von[BREAK]dem ganzen Spielen zu sein.[BREAK][BREAK]Mein Vater scheint traurig darüber zu sein[BREAK]von seinen Enkelkindern Abschied zu nehmen,[BREAK]nachdem er sie zum ersten Mal nach einer[BREAK]langen Zeit gesehen hatte, aber wir sollten[BREAK]diesen Abend zu Hause ankommen.[BREAK][BREAK]Ich hatte vergessen wie schön und[BREAK]erfrischend die Bergluft ist. Du bist immer[BREAK]von dem Gestank der Schafe von Tazmily[BREAK]umgeben, deshalb wünsche ich mir sehr, du[BREAK]hättest mitkommen können, um mit uns[BREAK]diese frische Luft einzuatmen.[BREAK][BREAK]Wenn wir dich das nächste Mal besuchen,[BREAK]fragen wir einen von deinen Nachbarn, sich[BREAK]um die Schafe zu kümmern, sodass wir alle[BREAK]als Familie hierherkommen können.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], und ich haben[BREAK]stets an dich gedacht. Sobald wir heute Abend[BREAK]nach Hause kommen, fang ich sofort an deine[BREAK]Lieblingsspeise [FAVFOOD] zu kochen.[BREAK][BREAK]In Liebe,[BREAK]     deine teuerste [HINAWA 22 08 00][BREAK][BREAK][END]
+// 50 characters max per line
 0-8:[FILE=".\0-8.txt"][END]
 0-8E:[FILE=".\0-8trans.txt"][END]
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-9:The mysterious group that has been tinkering[BREAK]with the forest creatures in an almost[BREAK]toy-like fashion has finally commenced its[BREAK]plan to alter the town, the lives, and even[BREAK]the hearts of the people.[BREAK][BREAK]It seems as if a grand scheme of some sort[BREAK]is hidden behind the actions of the suspicious[BREAK]peddler who has recently arrived.[BREAK][BREAK]However, not everyone is content to sit[BREAK]quietly by as the enemy continues its odious[BREAK]attacks from every angle.[BREAK][BREAK][FLINT 23 01 00], whose family bonds were[BREAK]torn to shreds...[BREAK][BREAK]Wess and his son [DUSTER 23 03 00], the[BREAK]Thieves of Justice...[BREAK][BREAK]Princess [KUMATORA 23 04 00], the mysterious girl[BREAK]who suddenly appeared...[BREAK][BREAK]Destiny is bringing together those who[BREAK]would use their power for good.[BREAK][BREAK][BREAK]And what has become of [LUCAS 23 02 00],[BREAK]the crybaby...?[END]
 0-9E:Die mysteriöse Gruppe, die fast spielzeugartig[BREAK]an den Waldkreaturen herumbastelte, begann[BREAK]mit ihrem Plan, die Stadt, das Leben, und sogar[BREAK]die Herzen der Leute zu verändern.[BREAK][BREAK]Es scheint, als ob ein gewaltiger Plan irgend-[BREAK]einer Art hinter all den Tätigkeiten des[BREAK]verdächtigen Krämers steckt, der unlängst[BREAK]erschienen ist.[BREAK][BREAK]Jedoch gibt sich nicht jeder damit zufrieden[BREAK]ruhig sitzen zu bleiben, während der Feind[BREAK]seine abscheulichen Angriffe von jedem[BREAK]Winkel aus fortführt.[BREAK][BREAK][FLINT 23 01 00], dessen Familie in Stücke[BREAK]zerrissen wurde...[BREAK][BREAK]Wess und sein Sohn [DUSTER 23 03 00], die[BREAK]Diebe der Gerechtigkeit...[BREAK][BREAK]Prinzessin [KUMATORA 23 04 00], das mysteriöse[BREAK]Mädchen, welches plötzlich auftauchte...[BREAK][BREAK]Das Schicksal führt die zusammen, die[BREAK]ihre Kräfte für Gutes einsetzen.[BREAK][BREAK][BREAK]Und was ist mit [LUCAS 23 02 00],[BREAK]der kleinen Heulsuse...?[END]
+// 50 characters max per line
 0-10:[BREAK]Tazmily Village is now transforming exactly[BREAK]how the newly-come peddler had planned.[BREAK][BREAK]Only a handful of villagers realize that[BREAK]things that were good and right are being[BREAK]tossed away one after the other.[BREAK][BREAK]Although prosperity is increasing, an eerie[BREAK]darkness seems to be growing heavier over[BREAK]the village at the same time.[BREAK][BREAK][BREAK]However, within that darkness, a frail,[BREAK]young boy grows ever stronger.[BREAK][BREAK]Soon, [LUCAS 23 02 00] will repaint this tale of[BREAK]sadness with a bright, new color.[BREAK][BREAK]The deeper the darkness, the brighter the[BREAK]sunrise at dawn.[BREAK][BREAK]The once-coddled [LUCAS 23 02 00] is now on[BREAK]his way to becoming a brilliant, young sun.[BREAK][BREAK][END]
 0-10E:[BREAK]Das Dorf Tazmily verändert sich genau wie[BREAK]der neugekommene Krämer es geplant hatte.[BREAK][BREAK]Nur eine Hand voll Dorfbewohner merkten,[BREAK]dass Dinge, die gut und richtig waren, eines[BREAK]nach dem anderen verworfen werden.[BREAK][BREAK]Obwohl der Wohlstand steigt, scheint zur[BREAK]selben Zeit auch eine unheimliche Dunkelheit[BREAK]über dem Dorf zu wachsen.[BREAK][BREAK][BREAK]Jedoch wird in dieser Dunkelheit auch ein[BREAK]gebrechlicher, schwacher Junge immer stärker.[BREAK][BREAK]Bald wird [LUCAS 23 02 00] die Geschichte[BREAK]der Trauer mit einer hellen, neuen Farbe[BREAK]übermalen.[BREAK][BREAK]Je dunkler die Nacht, desto heller[BREAK]der Sonnenaufgang am Morgen.[BREAK][BREAK]Der einst verhätschelte [LUCAS 23 02 00][BREAK]ist auf dem Weg zu einer brillanten[BREAK]jungen Sonne heranzuwachsen.[BREAK][BREAK][END]
+// 50 characters max per line
 0-11:[BREAK]After showering, the three conversed at[BREAK]great length, almost as if filling in the[BREAK]three-year gap that had separated them.[BREAK][BREAK]They discussed the rescued monkey...[BREAK][BREAK]They discussed the Hummingbird Egg from[BREAK]Osohe Castle, and how it went missing...[BREAK][BREAK]They discussed the fact that one of the[BREAK]DCMC band members appears to be an[BREAK]amnesic [DUSTER 23 03 00]...[BREAK][BREAK]And they discussed the mysterious army[BREAK]that had radically transformed Tazmily[BREAK]Village...[BREAK][BREAK]As if assembling the jumbled pieces of a[BREAK]jigsaw puzzle, they told each other what[BREAK]they knew to put their thoughts together.[BREAK][BREAK]The coming battle will not be easy...[BREAK][BREAK]This, more than anything, they knew all[BREAK]too well.[BREAK][BREAK][BREAK]"I want to be stronger..."[BREAK][BREAK]It was at around this time that [LUCAS 23 02 00][BREAK]truly began to have such feelings...[BREAK][BREAK][BREAK][BREAK][END]
 0-11E:[BREAK]Nach dem Duschen, unterhielten sich die drei[BREAK]eine sehr lange Zeit, fast als ob sie ihre[BREAK]drei Jahre nachholen wollten, in der sie[BREAK]getrennt waren.[BREAK][BREAK]Sie redeten über den geretteten Affen...[BREAK][BREAK]Sie redeten über das Kolibri Ei vom Schloss[BREAK]Osohe, und wie es verschwunden ist...[BREAK][BREAK]Sie redeten über die Tatsache, dass einer[BREAK]der DCMC Bandmitglieder anscheinend der[BREAK]amnesische [DUSTER 23 03 00] ist...[BREAK][BREAK]Und sie redeten über die mysteriöse Armee,[BREAK]die Tazmily radikal umgeformt hatten...[BREAK][BREAK]So als würden sie durcheinandergeworfene[BREAK]Stücke eines Puzzles wieder zusammen-[BREAK]stecken, erzählten sie einander, was sie[BREAK]wussten und vereinten ihr Wissen.[BREAK][BREAK]Der kommende Kampf wird nicht einfach[BREAK]werden...[BREAK][BREAK]Das wussten sie besser als alles andere.[BREAK][BREAK][BREAK]"Ich will stärker werden..."[BREAK][BREAK]Ungefähr zu dieser Zeit begann [LUCAS 23 02 00][BREAK]wahrlich, solche Gefühle zu empfinden...[BREAK][BREAK][BREAK][BREAK][END]
+// 50 characters max per line
 0-12:Bon voyage, amigo[BREAK][BREAK]Oh, guy in the sky, please grant a gift to our[BREAK]friend who's about to set out...[BREAK][BREAK]How much time we wasted laughing[BREAK]together...[BREAK][BREAK]But, guy in the sky, oh, how we loved that[BREAK]wasted time and those helpless smiles...[BREAK][BREAK]Bon voyage[BREAK][BREAK]Bon voyage, amigo[END]
 0-12E:Bon voyage, amigo[BREAK][BREAK]Oh, du Kerl im Himmel, bitte gib unserem Freund,[BREAK]der bald aufbricht, ein Geschenk...[BREAK][BREAK]Oh, wie viel Zeit wir mit Lachen[BREAK]verbracht haben...[BREAK][BREAK]Aber, Kerl im Himmel, oh, wie wir die[BREAK]verschwendete Zeit und dieses ratlose[BREAK]Lächeln geliebt haben...[BREAK][BREAK]Bon voyage[BREAK][BREAK]Bon voyage, amigo[END]
+// 50 characters max per line
 0-13:[BREAK]Moving puppets, made from clumps of earth.[BREAK]A tower that can fire thunderbolts on demand.[BREAK]An extensive highway system.[BREAK]Ships that fly through the sky.[BREAK][BREAK]The enemy that [LUCAS 23 02 00] and his[BREAK]companions must stand up against has[BREAK]grown to such an enormous scale.[BREAK][BREAK]Do they even stand a chance against this[BREAK]vile and powerful nemesis?[BREAK][BREAK]No, common sense must be ignored in a[BREAK]situation like this.[BREAK][BREAK]Even if there is only a one-in-a-billion chance[BREAK]of victory, that means there is also a[BREAK]one-in-a-billion opportunity of turning the[BREAK]tables completely.[BREAK][BREAK]Will [LUCAS 23 02 00], [KUMATORA 23 04 00], and[BREAK][DUSTER 23 03 00] be separated once again?[BREAK][BREAK]Or will they work together again to overcome[BREAK]the obstacles that stand in their way?[BREAK][BREAK]From the flying ship, a masked man looks[BREAK]down upon [LUCAS 23 02 00] and friends, his[BREAK]profile still very youthful...[BREAK][BREAK][BREAK]The tale now moves to its next chapter,[BREAK]with an almost certain promise of battles[BREAK]far more intense than ever before...[BREAK][END]
 0-13E:[BREAK]Bewegliche Puppen, gemacht aus Erdklumpen.[BREAK]Ein Turm, das Blitze auf Befehl abfeuern kann.[BREAK]Ein umfangreiches Straßensystem.[BREAK]Schiffe, die durch den Himmel fliegen.[BREAK][BREAK]Der Gegner, gegen den [LUCAS 23 02 00] und seine[BREAK]Begleitung sich erheben müssen, wuchs zu[BREAK]ungeheuerlicher Größe heran.[BREAK][BREAK]Haben sie überhaupt eine Chance gegen diese[BREAK]abscheulichen und starken Widersacher?[BREAK][BREAK]Nein, die Vernunft muss in einer solchen[BREAK]Situation ignoriert werden.[BREAK][BREAK]Auch wenn man nur eine Billionstel Chance auf[BREAK]den Sieg hat, so bedeutet das, dass es auch[BREAK]eine Billionstel Wahrscheinlichkeit gibt, den Spieß[BREAK]komplett umzudrehen.[BREAK][BREAK]Werden [LUCAS 23 02 00], [KUMATORA 23 04 00], und[BREAK][DUSTER 23 03 00] wieder einmal getrennt werden?[BREAK][BREAK]Oder werden sie weiter zusammenarbeiten,[BREAK]um mit den Hindernissen auf ihren Weg[BREAK]fertig zu werden?[BREAK][BREAK]Vom fliegenden Schiff aus schaut der Maskierte[BREAK]Mann auf [LUCAS 23 02 00] und seine Freunde[BREAK]herab, sein Profil immer noch sehr jugendlich...[BREAK][BREAK][BREAK]Die Geschichte bewegt sich jetzt auf sein[BREAK]nächstes Kapitel zu, mit einem fast sicheren[BREAK]Versprechen, dass die kommenden Kämpfe[BREAK]noch weit intensiver werden als jemals zuvor...[BREAK][END]
+// 50 characters max per line
 0-14: [END]
 0-14E: [END]
 0-15:[FILE=".\0-15.txt"][END]
 0-15E:[FILE=".\0-15trans.txt"][END]
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-16:[FILE=".\0-16.txt"][END]
 0-16E:[FILE=".\0-16trans.txt"][END]
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-17:[BREAK][BREAK][BREAK][CENTER][LUCAS 23 02 00].[END]
 0-17E:[BREAK][BREAK][BREAK][CENTER][LUCAS 23 02 00].[END]
@@ -86,11 +95,17 @@
 0-39E:@Du hebst [ITEM E1 00] auf[BREAK]  und liest es.[WAIT]  Es ist in schlechter Handschrift geschrieben.[END]
 0-40:All the creatures around here suck.[BREAK]We need to make 'em cooler.[BREAK][BREAK][WAIT]So the theme will be:[BREAK]    @Tougher![BREAK]    @Rougher![BREAK]    @Badder![BREAK][WAIT]We'll mix and match this and that[BREAK]to create whole new things no one's[BREAK]ever seen before![BREAK][WAIT]I dub it the "Fascinating Chimera[BREAK]Project". Let's reconstruct and[BREAK]modify stuff slowly and steadily.[END]
 0-40E:Alle Kreaturen hier sind scheiße.[BREAK]Wir müssen sie cooler machen.[BREAK][BREAK][WAIT]Also wird das Thema sein:[BREAK]    @Stärker![BREAK]    @Widerstandsfähiger![BREAK]    @Bösartiger![BREAK][WAIT]Wir werden dies und jenes zusammenwerfen,[BREAK]um komplett neue Sachen zu erschaffen,[BREAK]die noch nie jemand zuvor gesehen hat![BREAK][WAIT]Ich nenne es das "Faszinierende Chimära[BREAK]Projekt". Lasst uns langsam und konstant[BREAK]daran arbeiten.[END]
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
 0-41:[FILE=".\0-41.txt"][END]
 0-41E:[FILE=".\0-41trans.txt"][END]
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
 // this text is so long that it needed to be written in an external file
 0-42:[FILE=".\0-42.txt"][END]
 0-42E:[FILE=".\0-42trans.txt"][END]
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
 // Translate this text last! Trust me! This is the Stinkbug Memory text. The number of letters per line and the number of lines per page is very strange. Also, much of this text is repeated from standard text later on during Leider's actual speech. So translate this last!
 0-43:@TBA[END]
 0-43E:@TBA[END]
@@ -186,9 +201,9 @@
 // Item B1 = Dolphin Ossicle
 0-80:@You can't carry any more stuff.[END]
 0-80E:@Du kannst keine Sachen mehr tragen.[END]
-0-81:@Inside the present, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-81:@Inside the present, there [EF 17][BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-81E:@Im Geschenk war[BREAK]  [EF 11][81 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
-0-82:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-82:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-82E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
 // Repeats: 0-82, 836-5, 839-6
 0-83:@There's a vending machine here.[WAIT]@Would you like to use it? [WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -204,7 +219,7 @@
 0-87E:@Der magische Schmetterling ließ jeden im[BREAK]  Team von [42 FF 00 00] entspannen.[END]
 0-88:@There's an oxygen supply machine here.[WAIT]  Ask it for some oxygen?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 0-88E:@Hier ist eine Sauerstoffliefermaschine.[WAIT]  Willst du sie nach Sauerstoff fragen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[BREAK][ENDCHOICES][END]
-0-89:@Inside the trash can, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-89:@Inside the trash can, there [EF 17][BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-89E:@Im Mülleimer war[BREAK]  [EF 11][81 FF].[WAIT]@Aber dein Inventar ist voll.[END]
 0-90:@You felt something warm inside your heart.[END]
 0-90E:@Du fühlst etwas Warmes in deinem Herz.[END]
@@ -377,7 +392,7 @@
 // context???
 0-162:@Your map's been marked![PAUSE 40 00][END]
 0-162E:@Auf deiner Karte wurde was markiert![PAUSE 40 00][END]
-0-163:@Received [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+0-163:@Received [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 0-163E:@[EF 10][ITEM F0 FF] erhalten![PAUSE 40 00][END]
 // Repeats: 0-47, 0-163
 0-164:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
@@ -551,9 +566,9 @@
 0-242E:@Also, ich glaube, hier werden sich unsere[BREAK]  Wege trennen.[WAIT]@Ich habe zwar keinen Namen, aber behalte[BREAK]  mich als ziemlich coolen Typen in deiner[BREAK]  Erinnerung, okay?[END]
 0-243:@TAAAAAH-DAAAAAH![WAIT]@Inside the trash can, there was[BREAK]  [EF 11][ITEM F0 FF]![END]
 0-243E:@TAAAAAH-DAAAAAH![WAIT]@Im Mülleimer war[BREAK]  [EF 11][ITEM F0 FF]![END]
-0-244:@[42 FF F1 FF] got [EF 13][ITEM F0 FF]![END]
+0-244:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![END]
 0-244E:@[42 FF F1 FF] hat [EF 13][ITEM F0 FF] bekommen![END]
-0-245:@[42 FF F1 FF] got [EF 13][ITEM F0 FF]![WAIT]@Maybe.[END]
+0-245:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![WAIT]@Maybe.[END]
 0-245E:@[42 FF F1 FF] hat [EF 13][ITEM F0 FF] bekommen![WAIT]@Vielleicht.[END]
 0-246:@It's empty...[END]
 0-246E:@Es ist leer...[END]
@@ -2844,8 +2859,8 @@
 31-37E:@Ich mag diesen maskierten Kerl.[BREAK]  Er weiß über alles Bescheid.[WAIT]@Er trägt auch eine schöne Maske.[END]
 31-38:@Looks like we're going to need to build a new[BREAK]  sheep pen...[END]
 31-38E:@Wir müssen wohl einen neuen Schafstall[BREAK]  bauen...[END]
-31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]   You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
-31-39E:@Willst du irgendwo hin?[WAIT]@...Oh, ich verstehe.[WAIT]   Du gehst zur Fabrik um nach[BREAK]  [DUSTER 23 03 00] zu suchen.[END]
+31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]  You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
+31-39E:@Willst du irgendwo hin?[WAIT]@...Oh, ich verstehe.[WAIT]  Du gehst zur Fabrik um nach[BREAK]  [DUSTER 23 03 00] zu suchen.[END]
 31-40:@Take this with you.[END]
 31-40E:@Nimm das hier mit dir.[END]
 31-41:@Your mom will keep watch over you.[WAIT]@Good luck, now.[END]
@@ -3909,8 +3924,8 @@
 39-1:@But it was empty.[END]
 39-1E:@Aber es war leer.[END]
 // Repeats: 39-1, 509-1
-39-2:@Got [EF 11][ITEM F0 FF]![END]
-39-2E:@[ITEM F0 FF] erhalten![END]
+39-2:@Got [EF 91][ITEM F0 FF]![END]
+39-2E:@[EF 10]ITEM F0 FF] erhalten![END]
 // Repeats: 39-2, 478-1, 509-2
 39-3:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
 39-3E:@Eine dämmerige Passage kann hinter dem[BREAK]  kettengelenkigen Rollladen gesehen werden.[WAIT]@Wohin es führt, weiß keiner.[END]
@@ -3921,7 +3936,7 @@
 39-5:@It doesn't look like you can get through this[BREAK]  chain-link shutter.[END]
 39-5E:@Es sieht nicht so aus, als könntest du diesen[BREAK]  kettengelenkigen Rollladen durchqueren.[END]
 // Repeats: 39-5, 509-5
-39-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
+39-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
 39-6E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber [81 FF] kann keine Sachen mehr tragen.[END]
 // Repeats: 39-6, 509-6
 39-7:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
@@ -4812,8 +4827,9 @@
 61-15E:@.[PAUSE 60 00].[PAUSE 60 00].[PAUSE 60 00]Buh huh huh.[WAIT]  (Ähhm, DU hast das Gespräch gestartet, also[BREAK]  musst du auch mit einem Thema aufkommen.)[END]
 61-16:@Bow.[WAIT]  (I'm not very talkative either, actually.)[END]
 61-16E:@Buh.[WAIT]  (Ich bin ehrlich gesagt auch nicht sehr[BREAK]  gesprächig.)[END]
-61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of a[BREAK]  [ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-61-17E:@*schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00][WAIT]  (Dieser Duft...[PAUSE 10 00] ist der Geruch eines[BREAK]  [ITEM F0 FF]![WAIT]  Und, wie du sehen kannst, bin ich ein Streuner![WAIT]  Folglich gibt es nur eine logische Folgerung.[WAIT]  Bitte gib mir das [ITEM F0 FF].)[WAIT][END]
+61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of[BREAK]  [EF 91][ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+61-17E:@*schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00] *schnüffel*[PAUSE 10 00][WAIT]  (Dieser Duft...[PAUSE 10 00] ist der Geruch eines[BREAK]  [ITEM F0 FF]s![WAIT]  Und, wie du sehen kannst, bin ich ein Streuner![WAIT]  Folglich gibt es nur eine logische Folgerung.[WAIT]  Bitte gib mir das [ITEM F0 FF].)[WAIT][END]
+// doggy biscuit or doggy jerky
 61-18:@Bow wow![WAIT]  (I'm exceptionally happy![WAIT]  I want to thank you guys somehow![WAIT]  ...Oh, I know! You can have this!)[END]
 61-18E:@Buh huh![WAIT]  (Ich bin sooooo glücklich![WAIT]  Ich möchte mich irgendwie bei euch bedanken![WAIT]  ...Oh, genau! Das hier könnt ihr haben!)[END]
 61-19:@Bow wow![WAIT]  (Take good care of my thank-you gift!)[END]
@@ -4822,7 +4838,7 @@
 61-20E:@*schnüffel*...[BREAK]  (Ich kann nicht aufhören zu sabbern...)[END]
 61-21:@[42 FF F0 FF] and company got a [ITEM F1 FF]![END]
 61-21E:@[42 FF F0 FF] und Begleitung haben eine[BREAK]  [ITEM F1 FF] erhalten![END]
-// pencil rocket for sure, maybe other items too?
+// pencil rocket or bomb?
 61-22:@Preserve our beautiful scenery![BREAK]  Please refrain from posting signs.[END]
 61-22E:@Schützt unsere wunderschöne Landschaft![BREAK]  Bitte unterlasst das Schreiben von Schildern.[END]
 61-23:@Pork Bean Recharge Station[END]
@@ -4900,7 +4916,7 @@
 67-13E:@Bei näherer Betrachtung scheint dies ein[BREAK]  abgenutzter Lehmmensch zu sein.[END]
 67-14:@A quite old Clayman.[END]
 67-14E:@Ein ziemlich alter Lehmmensch.[END]
-67-15:@Squeak squeak squeak![WAIT]  Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
+67-15:@Squeak squeak squeak![WAIT]  (Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
 67-15E:[END]
 // Much of this comes from an EarthBound quote, this line isn't used in the game though
 67-16:@This is a garbage dump.[WAIT]@So let's throw our busted dreams out with the[BREAK]  rest of our trash![END]
@@ -5684,8 +5700,8 @@
 89-16E:@Blödes Kind![0C FF 40 00][END]
 89-17:@OH[PAUSE 10 00] MY[PAUSE 10 00] PORK!![PAUSE 10 00][WAIT]@What is a baby Drago doing here?![WAIT]@You! Baby Drago! Get outta here![END]
 89-17E:@OH[PAUSE 10 00] MEIN[PAUSE 10 00] SCHWEIN!![PAUSE 10 00][WAIT]@Was macht denn ein Baby Drago hier?![WAIT]@Du! Baby Drago! Verschwinde von hier![END]
-89-18:[END]
-89-18E:[END]
+89-18:@[42 FF F1 FF] got [91 EF][ITEM F0 FF]![END]
+89-18E:@[42 FF F1 FF] erhielt [11 EF][ITEM F0 FF]![END]
 89-19:@Hey![WAIT]@Get back here, you![END]
 89-19E:@Hey![WAIT]@Kommt zurück![END]
 89-20:@No...[PAUSE 1E 00]  Stop...[PAUSE 1E 00][WAIT]  Stop! Don't! Please![END]
@@ -10825,7 +10841,7 @@
 233-51E:@Danke[PAUSE 28 00].[PAUSE 28 00].[PAUSE 28 00].[PAUSE A0 00][END]
 233-52:@*hop*.[WAIT]  Now that my saving job is over, I think I'll[BREAK]  settle down and take care of the tadpoles.[WAIT]@Thank you for everything.[BREAK]  [PAUSE 3C 00]No, wait, it's the other way around.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  I've just been possessed by the spirit of the[BREAK]  translation developers...![WAIT]@Heya! Here's something you might not have[BREAK]  known![WAIT]@Press and hold the L and R Buttons when[BREAK]  entering the Status menu.[WAIT]@Something will happen when you do this.[BREAK]  But it's a secret, so don't tell anyone![WAIT]@Okay, time to go back to being a regular frog![WAIT]@...[WAIT]@...[WAIT]@Thank you for everything.[END]
 233-52E:@*hüpf*[WAIT]  Jetzt, wo mein Speicherjob vorbei ist, denke[BREAK]  ich darüber nach, mich niederzulassen und[WAIT]  auf meine Kaulquappen aufzupassen.[WAIT]@Danke für alles.[BREAK]  [PAUSE 3C 00]Nein, warte, es sollte andersherum sein.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  Ich wurde gerade vom Geist der englischen[BREAK]  Übersetzer besetzt...![WAIT][COLOR 01 00]@Heya! Hier ist etwas, was du wahrscheinlich[BREAK]  nicht weißt.[WAIT]@Drücke und halte die L- und R-Knöpfe, wenn[BREAK]  du das Statusmenü betrittst.[WAIT]@Dann passiert etwas. Aber das ist ein[BREAK]  Geheimnis, sag es niemanden weiter![WAIT]@Okay, Zeit wieder ein normaler Frosch zu sein![WAIT][COLOR 00 00]@...[WAIT]@...[WAIT]@Danke für alles.[END]
-// this replaces the frog's text if you have the silver star at the end
+// this replaces the frog's text if you have either the bronze or the silver star at the end
 233-53:@*hop*.[WAIT]  Now that my saving job is over, I think I'll[BREAK]  settle down and take care of the tadpoles.[WAIT]@Thank you for everything.[BREAK]  [PAUSE 3C 00]No, wait, it's the other way around.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  I've just been possessed by the spirit of the[BREAK]  translation developers...![WAIT]@Wow! You must be a real hardcore fan of this[BREAK]  game to completely fill up your Battle Memory![WAIT]@You're amazing![WAIT]@So amazing that you deserve an extra bonus![BREAK]  So listen close![WAIT]@Name yourself "HARD MODE" in Chapter 1! It'll[BREAK]  make things a bit more challenging! Good luck![WAIT]@But this is a secret just between you and me,[BREAK]  so don't tell aaaaanyone![WAIT]@Okay, time to go back to being a regular frog![WAIT]@...[WAIT]@...[WAIT]@Thank you for everything.[END]
 233-53E:@*hüpf*[WAIT]  Jetzt, wo mein Speicherjob vorbei ist, denke[BREAK]  ich darüber nach, mich niederzulassen und[WAIT]  auf meine Kaulquappen aufzupassen.[WAIT]@Danke für alles.[BREAK]  [PAUSE 3C 00]Nein, warte, es sollte andersherum sein.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  Ich wurde gerade vom Geist der englischen[BREAK]  Übersetzer besetzt...![WAIT][COLOR 01 00]@Wow! Du musst ein richtiger Hardcore-Fan[BREAK]  dieses Spieles sein, da du die Kampferinnerung[WAIT]  vervollständigt hast![WAIT]@Du bist unglaublich![WAIT]@So unglaublich, dass du dir einen Bonus[BREAK]  verdient hast! Also hör gut zu![WAIT]@Nenn dich selbst "HARD MODE" in Kapitel 1![BREAK]  Das wird das Spiel etwas herausfordernder[WAIT]  machen! Viel Glück![WAIT]@Aber das ist ein Geheimnis nur zwischen du[BREAK]  und mir, also sag es nieeemanden![WAIT]@Okay, Zeit wieder ein normaler Frosch zu sein![WAIT][COLOR 00 00]@...[WAIT]@...[WAIT]@Danke für alles.[END]
 // this replaces the frog's text if you have the gold + silver star at the end
@@ -12001,7 +12017,7 @@
 301-7E:[END]
 
 [Container 302]
-302-0:@Heya! How's it goin'?![WAIT]@I got some homemade DCMC merchandise for[BREAK]   ya right here![WAIT]@If it breaks or rips, I'll stay up all night to fix it![WAIT]@Nah! Just kiddin'![WAIT]@I kid a lot![WAIT]@But never mind that, buy some o' these here[BREAK]  DCMC goods![END]
+302-0:@Heya! How's it goin'?![WAIT]@I got some homemade DCMC merchandise for[BREAK]  ya right here![WAIT]@If it breaks or rips, I'll stay up all night to fix it![WAIT]@Nah! Just kiddin'![WAIT]@I kid a lot![WAIT]@But never mind that, buy some o' these here[BREAK]  DCMC goods![END]
 302-0E:@Heya! Wie geht's, wie steht's?![WAIT]@Ich hab'n paar handgemachte DCMC[BREAK]  Merchandise für dich![WAIT]@Wenn's kaputt geht oder reißt, werd' ich 'ne[BREAK]  Nacht aufbleib'n, um's wieder zu fix'n.[WAIT]@Nah! Kleiner Schwerz am Rande![WAIT]@Ich mach oft Scherze![WAIT]@Aber egal, kauf dir 'n DCMC Merchandise![END]
 302-1:@All the waitresses here giggle at the end of[BREAK]  everything they say.[WAIT]@I really wish they'd get rid of that rule, though.[BREAK]  It's so stupid.[WAIT]@*giggle*[END]
 302-1E:@Alle Kellnerinnen hier kichern immer am Ende[BREAK]  ihrer Rede.[WAIT]@Ich wünschte, man würde diese Regel endlich[BREAK]  abschaffen.[WAIT]  Das ist so dumm.[WAIT]@*kicher*[END]
@@ -15003,7 +15019,7 @@
 400-5:@The garbage dump is northeast of here.[WAIT]@Please hurry after it[WAIT]  and retrieve whatever embarrassing thing it[BREAK]  was that you accidentally threw away.[END]
 400-5E:@Die Mülldeponie liegt im Nordosten von hier.[WAIT]@Bitte beeilen Sie sich[WAIT]  und holen Sie sich dieses peinliche Ding zurück,[BREAK]  dass Sie versehentlich weggeworfen haben.[END]
 400-6:@Please be very careful not to slip and get in an[BREAK]  accident![END]
-400-6E:@Bitten seien Sie vorsichtig nicht auszurutschen[BREAK]  und einen Unfall zu verursachen![END]
+400-6E:@Bitten achten Sie darauf, nicht auszurutschen[BREAK]  und einen Unfall zu verursachen![END]
 400-7:@All right, then! Be careful![END]
 400-7E:@Dann ist ja alles klar! Passen Sie auf![END]
 // Repeats: 63-4, 400-7
@@ -15020,8 +15036,8 @@
 404-1E:@Quietsch quieeeeeetsch.[WAIT]  (Oh, du bist diese nette Person von vorher.[WAIT]  Erziehung ist wirklich anstrengend.[WAIT]  Mäuse vermehren sich schließlich exponentiell.[WAIT]  Aber,[PAUSE 2E 00] aber![WAIT]  Kinder zu haben, lässt auch unsere[BREAK]  Glückseligkeit exponentiell wachsen!)[END]
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
 404-2E:@Quietsch-quietsch.[WAIT]  (Danke für deine Hilfe, meine Kinder[BREAK]  kommen langsam zurück.[WAIT]  Danke. Vielen Dank!)[END]
-404-3:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-3E:@Quietsch-quieeeetsch.[WAIT]  (Trotzdem fehlen noch [80 FF F0 FF].[WAIT]  Wenn du sie zufällig siehst, sag ihnen, dass sie[BREAK]  sofort zu ihrer Mutter gehen sollen.[WAIT]  Bitte,[PAUSE 1E 00] sag es ihnen.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
+404-3:[END]
+404-3E:[END]
 404-4:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
 404-4E:@Quietsch-quieeeetsch.[WAIT]  (Es fehlt immer noch einer.[WAIT]  Wenn du ihn zufällig siehst, sag ihm, dass er[BREAK]  sofort zu seiner Mutter gehen soll.[WAIT]  Bitte,[PAUSE 1E 00] sag es ihm.[WAIT]  Bitte.[PAUSE 1E 00] Bitte!)[END]
 404-5:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
@@ -16491,8 +16507,8 @@
 474-49E:@50 DK erhalten.[END]
 474-50:@Received 100 DP.[END]
 474-50E:@100 DK erhalten.[END]
-474-51:[END]
-474-51E:[END]
+474-51:@[42 FF F1 FF] got [EF 91][ITEM F0 FF][END]
+474-51E:@[42 FF F1 FF] erhielt [EF 11][ITEM F0 FF][END]
 
 [Container 475]
 475-0:@Please don't come back here.[WAIT]@You'll kick up the mold spores.[END]
@@ -16694,11 +16710,11 @@
 [Container 478]
 478-0:@[42 FF 00 00] opened the garbage can.[EVENT][END]
 478-0E:@[42 FF 00 00] öffnete die Mülltonne.[EVENT][END]
-478-1:@Got [EF 11][ITEM F0 FF]![END]
+478-1:@Got [EF 91][ITEM F0 FF]![END]
 478-1E:@[EF 10][ITEM F0 FF] erhalten![END]
 // Repeats: 39-2, 478-1, 509-2
-478-2:@There was [EF 11][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
-478-2E:@Dort war [EF 11][ITEM F0 FF] drin.[WAIT]@Aber du kannst nichts mehr tragen.[END]
+478-2:@There was [EF 91][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
+478-2E:@[EF 10][ITEM F0 FF] war drin.[WAIT]@Aber du kannst nichts mehr tragen.[END]
 478-3:[END]
 478-3E:[END]
 
@@ -17039,7 +17055,7 @@
 509-5E:@Es sieht nicht so aus, als könntest du diesen[BREAK]  kettengelenkigen Rollladen durchqueren.[END]
 // Repeats: 39-5, 509-5
 509-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
-509-6E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber [81 FF] kann keine Sachen mehr tragen.[END]
+509-6E:@[EF 10][ITEM F0 FF] war[BREAK]  im Geschenk.[WAIT]@Aber [81 FF] kann keine Sachen mehr tragen.[END]
 // Repeats: 39-6, 509-6
 509-7:[END]
 509-7E:[END]
@@ -17454,7 +17470,7 @@
 624-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
 624-46E:@Aus irgendeinem Grund sind nur die Tasten[BREAK]  dieses Pianos hell und glänzend.[END]
 // Repeats: 624-46, 633-46
-624-47:@Moldy, putrid apples.[WAIT]   "Putrapples" for short.[END]
+624-47:@Moldy, putrid apples.[WAIT]  "Putrapples" for short.[END]
 624-47E:@Schimmlige, faulige Äpfel.[WAIT]  Kurz: "Schauläpfel"[END]
 // Repeats: 624-47, 633-47
 624-48:@Open the castle gate?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -19177,10 +19193,10 @@
 836-3:@[42 FF F1 FF] opened the present.[EVENT][END]
 836-3E:@[42 FF F1 FF] öffnet das Geschenk.[EVENT][END]
 // Repeats: 836-3, 839-4
-836-4:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+836-4:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 836-4E:@[EF 10][ITEM F0 FF] gefunden![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
-836-5:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+836-5:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 836-5E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
 // Repeats: 0-82, 836-5, 839-6
 
@@ -19222,10 +19238,10 @@
 839-4:@[42 FF F1 FF] opened the present.[EVENT][END]
 839-4E:@[42 FF F1 FF] öffnet das Geschenk.[EVENT][END]
 // Repeats: 836-3, 839-4
-839-5:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+839-5:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 839-5E:@[EF 10][ITEM F0 FF] gefunden![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
-839-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+839-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 839-6E:@Im Geschenk war[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@Aber du kannst keine Sachen mehr tragen.[END]
 // Repeats: 0-82, 836-5, 839-6
 839-7:[END]
@@ -20505,9 +20521,10 @@
 892-27E:[END]
 
 [Container 894]
-894-0:@NO OPERATION[END]
-894-0E:@NO OPERATION[END]
-// Repeats: 894-0, 894-9
+894-0:@What do you want to do?[BREAK][MENU 07 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Change table[RIGHT][BREAK] [LEFT]Attract mode[RIGHT][BREAK] [LEFT]Warp to the Debug Magypsies[RIGHT][BREAK] [LEFT]Unlock PSI[RIGHT][BREAK] [LEFT]Heal party[RIGHT][BREAK] [LEFT]Game Over[RIGHT][BREAK][ENDCHOICES][END]
+894-0E:@What do you want to do?[BREAK][MENU 07 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Change table[RIGHT][BREAK] [LEFT]Attract mode[RIGHT][BREAK] [LEFT]Warp to the Debug Magypsies[RIGHT][BREAK] [LEFT]Unlock PSI[RIGHT][BREAK] [LEFT]Heal party[RIGHT][BREAK] [LEFT]Game Over[RIGHT][BREAK][ENDCHOICES][END]
+// This line goes unused, so we reuse it for our purposes
+// It said:@NO OPERATION[END]
 894-1:@CHAPTER 1    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-1E:@CHAPTER 1    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-2:@CHAPTER 2    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
@@ -20524,9 +20541,10 @@
 894-7E:@CHAPTER 7    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-8:@CHAPTER 8    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-8E:@CHAPTER 8    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-9:@NO OPERATION[END]
-894-9E:@NO OPERATION[END]
-// Repeats: 894-0, 894-9
+894-9:@Which table?[BREAK][MENU 06 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Table 1[RIGHT][BREAK] [LEFT]Table 2[RIGHT][BREAK] [LEFT]Table 3[RIGHT][BREAK] [LEFT]Table 4[RIGHT][BREAK] [LEFT]Table 5[RIGHT][BREAK][ENDCHOICES][END]
+894-9E:@Which table?[BREAK][MENU 06 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Table 1[RIGHT][BREAK] [LEFT]Table 2[RIGHT][BREAK] [LEFT]Table 3[RIGHT][BREAK] [LEFT]Table 4[RIGHT][BREAK] [LEFT]Table 5[RIGHT][BREAK][ENDCHOICES][END]
+// There is an entry associated with this, however it goes unused (And it did nothing), so we reuse the line for our purposes
+// It said:@NO OPERATION[END]
 894-10:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-10E:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-11:@Got [EF 11][ITEM 6F 00]![END]
@@ -20537,8 +20555,7 @@
 894-13E:@OK[END]
 894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
 894-14E:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
-// it's important to note that these menu options can only be so long - any longer and the game will crash
-894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
+// It's important to note that the game loads these options one by one. So making them too long means the user has to wait before being able to scroll left894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-15E:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-16:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
 894-16E:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
@@ -20560,8 +20577,10 @@
 894-24E:@Chapter 8: Event Selection[BREAK][MENU 0D 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Inside Limo[RIGHT][BREAK]  [LEFT]NPC Arrival[RIGHT][BREAK]  [LEFT]Arcade[RIGHT][BREAK]  [LEFT]Sewers[RIGHT][BREAK]  [LEFT]24 F Reunion[RIGHT][BREAK]  [LEFT]To 100 F[RIGHT][BREAK]  [LEFT]Game 1[RIGHT][BREAK]  [LEFT]Game 2[RIGHT][BREAK]  [LEFT]Game 3[RIGHT][BREAK]  [LEFT]NK Cyborg[RIGHT][BREAK]  [LEFT]Mecha-Porkies[RIGHT][BREAK]  [LEFT]Final Needle[RIGHT][BREAK][ENDCHOICES][END]
 894-25:@Select Lucas and Kumatora's ages:[BREAK][MENU 02 00][MENUSPACEYES]Kids[MENUSPACENO]Adolescents[ENDCHOICES][END]
 894-25E:@Select Lucas and Kumatora's ages:[BREAK][MENU 02 00][MENUSPACEYES]Kids[MENUSPACENO]Adolescents[ENDCHOICES][END]
-894-26:@Turned off 50 flags.[END]
-894-26E:@Turned off 50 flags.[END]
+894-26:@Which attract mode?[BREAK][MENU 03 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Family[RIGHT][BREAK] [LEFT]Others[RIGHT][BREAK][ENDCHOICES][END]
+894-26E:@Which attract mode?[BREAK][MENU 03 00] [LEFT]END SELECTION[RIGHT][BREAK] [LEFT]Family[RIGHT][BREAK] [LEFT]Others[RIGHT][BREAK][ENDCHOICES][END]
+// This line goes unused, so we reuse it for our purposes
+// It said:@Turned off 50 flags.[END]
 894-27:@Turn on all memo flags and obtain all maps.[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-27E:@Turn on all memo flags and obtain all maps.[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-28:@Play the ending?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]

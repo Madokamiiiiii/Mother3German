@@ -192,9 +192,9 @@ org $80C67CC; db $40
 // Re-center various main menu labels. Note that some rare labels may be missing still.
 org $8040456; db $BF         // Goods
 org $8040902; db $BF
-org $8040A82; db $C1         // Equip
-org $804121E; db $C1
-org $8043016; db $C1
+org $8040A82; db $B6         // Equip
+org $804121E; db $B6
+org $8043016; db $B6
 org $8040C26; db $C5         // PSI
 org $80410AE; db $BE         // Status
 org $804167E; db $A0         // Battle Memory
