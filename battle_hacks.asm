@@ -2158,7 +2158,7 @@ ldr  r0,=#0x2014322              // load the # of enemies
 ldrb r0,[r0,#0]
 sub  r0,#1                       // subtract one for ease of use
 
-push {r1}                        // now we're going to print "cohort/cohorts" stuff
+push {r1}                        // now we're going to print "cohorts" stuff
 
 mov  r0,#2
 mov  r2,#40

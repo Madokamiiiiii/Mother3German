@@ -29,7 +29,7 @@ def read_txt_file(txt_file):
     if txt_file is None:
         return None
     try:
-        with codecs.open(txt_file, 'r', encoding='utf-8',
+        with codecs.open(txt_file, 'r', encoding='cp1252',
                          errors='ignore') as f:
             return remove_comments(f)
     except FileNotFoundError as error:
@@ -43,7 +43,7 @@ def write_txt_file(txt_file, valid_strings):
     if txt_file is None:
         return None
     try:
-        with codecs.open(txt_file, 'w', encoding='utf-8',
+        with codecs.open(txt_file, 'w', encoding='cp1252',
                          errors='ignore') as f:
             f.write(valid_strings)
     except FileNotFoundError as error:

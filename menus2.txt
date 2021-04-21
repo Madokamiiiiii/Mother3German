@@ -88,7 +88,7 @@
 002A: Instant Rev. Devices[END]
 002A-E: Sofort-Rev.gerät[END]
 002B: Happy Boxes[END]
-002B-E: Glückseligkeitsboxen[END]
+002B-E: Glücksboxen[END]
 002C: Vending Machines[END]
 002C-E: Verkaufsautomat[END]
 002D: Money[END]
