@@ -694,7 +694,7 @@ bne +
 b   .cc_plural_verb
 +
 
-cmp  r0,#0x41                // check for 0xEF41, which will print the cohorts string in accusative
+cmp  r0,#0x18                // check for 0xEF41, which will print the cohorts string in accusative
 bne +
 b   .cc_cohorts_akk
 +
@@ -919,9 +919,10 @@ sub  r0,#1                       // subtract one for ease of use
 
 push {r1}
 
-ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
+mov  r0,#2
 mov  r2,#40
 mul  r0,r2
+ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
 add  r0,r0,r1                    // r0 now has the address of the proper cohorts string
 pop  {r1}                        // restore r1 with the target address
 bl   custom_strlen               // count the length of our special string, store its length in r2
@@ -952,12 +953,6 @@ ldr  r2,=#{custom_text_address}
 add  r0,r0,r2                    // r0 now has " and "
 bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0
-
-//ldr  r0,=#0x8D0829C			 // Base adress of custom_text
-//mov  r2,#0x168				 // Offset "t "
-//add  r0,r0,r2
-//bl   custom_strlen           // count the length of our special string, store its length in r2
-//add  r3,r3,r0
 b    .cc_plural_verb_end
 
 .cc_plural_verb_plural:
@@ -968,11 +963,6 @@ ldr  r2,=#{custom_text_address}
 add  r0,r0,r2                    // r0 now has " and "
 bl   custom_strlen               // count the length of our special string, store its length in r2
 add  r3,r3,r0
-// ldr  r0,=#0x8D0829C			 // Base adress of custom_text
-// mov  r2,#0x190				 // Offset "en "
-// add  r0,r0,r2
-// bl   custom_strlen           // count the length of our special string, store its length in r2
-// add  r3,r3,r0
  
 .cc_plural_verb_end:
 mov  r0,r3                   // r0 now has the total # of bytes we added
@@ -1886,6 +1876,11 @@ bne  +
 b    .ecc_en_articles
 +
 
+cmp  r0,#0x08                // check for 0xEF08, which will print a lowercase possessive if need be
+bne  +
+b    .ecc_en_articles
++
+
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .ecc_it_articles
@@ -1921,7 +1916,7 @@ bne +
 b  .ecc_plural_verb
 +
 
-cmp  r0,#0x41                // check for 0xEF40, which will print "and cohort/and cohorts" if need be
+cmp  r0,#0x18                // check for 0xEF40, which will print "and cohort/and cohorts" if need be
 bne +
 b  .ecc_cohorts_akk
 +
@@ -2121,6 +2116,7 @@ mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
+
 ldrb r0,[r0,#0x7]                // load the line # for this enemy's possessive pronoun
 mov  r2,#40
 mul  r0,r2
@@ -2147,6 +2143,7 @@ mov  r2,#8
 mul  r0,r2
 ldr  r2,=#{enemy_extras_address}
 add  r0,r0,r2
+
 ldrb r0,[r0,#0x5]                // load the line # for this enemy's possessive pronoun
 mov  r2,#40
 mul  r0,r2
@@ -2163,9 +2160,10 @@ sub  r0,#1                       // subtract one for ease of use
 
 push {r1}                        // now we're going to print "cohort/cohorts" stuff
 
-ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
+mov  r0,#2
 mov  r2,#40
 mul  r0,r2
+ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
 add  r0,r0,r1                    // r0 now has the address of the proper cohorts string
 pop  {r1}                        // restore r1 with the target address
 bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
@@ -2234,12 +2232,6 @@ bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
 add  r1,r1,r0
 add  r3,r3,r0
 
-//ldr  r0,=#0x8D0829C			 // Base adress for custom_text
-//mov  r2,#0x168				 // Offset for "t "                  
-//add  r0,r0,r2
-//bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
-//add  r1,r1,r0
-//add  r3,r3,r0
 b +
 
 .ecc_plural_verb_plural:

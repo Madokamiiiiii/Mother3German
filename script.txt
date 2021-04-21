@@ -197,7 +197,7 @@
 0-78:@You can't carry any more Dung.[END]
 0-78E:@Du kannst nicht noch mehr Mist mittragen.[END]
 0-79:@Got a [ITEM B1 00]![END]
-0-79E:@Eine [ITEM B1 00] erhalten![END]
+0-79E:@Ein [ITEM B1 00] erhalten![END]
 // Item B1 = Dolphin Ossicle
 0-80:@You can't carry any more stuff.[END]
 0-80E:@Du kannst keine Sachen mehr tragen.[END]
@@ -1133,7 +1133,7 @@
 8-32:@There's just no getting through to you, huh?[WAIT]@I'm no longer the snake I was up until[BREAK]  yesterday.[WAIT]@If I had to compare myself to something,[PAUSE 18 00] I'd[BREAK]  say I'm like a cornered lion.[WAIT]@I'm a snake, but also a lion![BREAK]  A snakelion![WAIT]@No, I'm more like a roulette wheel! Make a bet![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 8-32E:@Man kann dich wohl nicht so leicht[BREAK]  umstimmen, wie?[WAIT]@Ich bin nicht mehr die Schlange von gestern.[WAIT]@Wenn ich mich mit etwas vergleichen würde,[PAUSE 18 00][BREAK]  wäre ich so etwas wie ein eingeengter Löwe.[WAIT]@Ich bin eine Schlange, aber auch ein Löwe![BREAK]  Ein Schlangenlöwe![WAIT]@Nein, ich bin ein Roulettekessel! Los, wette![WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 8-33:@...[PAUSE 0F 00]I guess that roulette wheel comparison[BREAK]  wasn't so hot.[WAIT]@But, if anything, I'm a pair of dice![WAIT]@Roll me with all your might, using the power[BREAK]  of your souls![WAIT]@My jaw's the bomb![WAIT]@Come on! I'm being serious here![WAIT][PAUSE 40 00]@I...[WAIT]  I don't wanna wind up being a big, fat worm[BREAK]  instead of a snake.[WAIT]@C'mon, you gotta understand how I feel![WAIT]@Let me be all the snake I can be.[WAIT]  Please! I'm begging you![WAIT]  See? I even have my hands clasped together![WAIT][MENU 02 00][MENUSPACEYES]Okay[MENUSPACENO]I'm so moved[ENDCHOICES][END]
-8-33E:@...[PAUSE 0F 00]Ich glaube dieser Roulettekesselvergleich[BREAK]  ist nicht so gut rübergekommen.[WAIT]@Aber, wenn überhaupt, bin ich ein Würfelpaar![WAIT]@Würfel mich mit all deiner Kraft, mit der Kraft[BREAK]  deiner Seele![WAIT]@Mein Gebiss ist die Bombe![WAIT]@Komm schon! Ich meine das ernst![WAIT][PAUSE 40 00]@Ich...[WAIT]  Ich will nicht als großer, fetter Wurm enden.[WAIT]@Du musst verstehen, wie ich mich fühle![WAIT]@Lass mich eine Schlange sein.[WAIT]  Bitte! Ich flehe dich an![WAIT]  Ich habe sogar meine Hände verschränkt![WAIT][MENU 02 00][MENUSPACEYES]Okay[MENUSPACENO]Ich bin so bewegt[ENDCHOICES][END]
+8-33E:@...[PAUSE 0F 00]Ich glaube dieser Roulettekesselvergleich[BREAK]  ist nicht so gut rübergekommen.[WAIT]@Aber, wenn überhaupt, bin ich ein Würfelpaar![WAIT]@Würfel mich mit all deiner Kraft, mit der Kraft[BREAK]  deiner Seele![WAIT]@Mein Gebiss ist die Bombe![WAIT]@Komm schon! Ich meine das ernst![WAIT][PAUSE 40 00]@Ich...[WAIT]  Ich will nicht als großer, fetter Wurm enden.[WAIT]@Du musst verstehen, wie ich mich fühle![WAIT]@Lass mich eine Schlange sein.[WAIT]  Bitte! Ich flehe dich an![WAIT]  Ich verschränke sogar meine Hände![WAIT][MENU 02 00][MENUSPACEYES]Okay[MENUSPACENO]Ich bin so bewegt[ENDCHOICES][END]
 8-34:[ALTERNATEFONT]@here goes[BREAK]  no something.[END]
 8-34E:[ALTERNATEFONT]@hier læuft[BREAK]  nichts.[END]
 8-35:[ALTERNATEFONT]@flying birdiecage[BREAK]  done.[END]
@@ -3925,7 +3925,7 @@
 39-1E:@Aber es war leer.[END]
 // Repeats: 39-1, 509-1
 39-2:@Got [EF 91][ITEM F0 FF]![END]
-39-2E:@[EF 10]ITEM F0 FF] erhalten![END]
+39-2E:@[EF 10][ITEM F0 FF] erhalten![END]
 // Repeats: 39-2, 478-1, 509-2
 39-3:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
 39-3E:@Eine dämmerige Passage kann hinter dem[BREAK]  kettengelenkigen Rollladen gesehen werden.[WAIT]@Wohin es führt, weiß keiner.[END]
@@ -10476,8 +10476,8 @@
 224-5E:@Hallo nochmal, [LUCAS 23 02 00]. [HEART][WAIT]@Ionia hat mir erzählt, dass du kommen wirst.[WAIT]@Die Nadel, den du ziehen sollst, liegt in einem[BREAK]  Lavasee weiter hinten.[WAIT]@Mir ist es egal, ob du ihn ziehst, während ich[BREAK]  schlafe...[WAIT][PAUSE 0F 00]  Es bedeutet, dass "die Zeit" gekommen ist,[PAUSE 1E 00][BREAK]  und ich werde im Schlaf verschwinden. [HEART][END]
 224-6:@There is a boulder blocking the path to the[BREAK]  volcano.[WAIT]  You should give it some [ITEM B6 00].[WAIT]@Well, good luck. [HEART][BREAK]@Smoochie smoochie. [HEART][END]
 224-6E:@Ein Steinbrocken blockiert den Weg[BREAK]  zum Vulkan.[WAIT]  Du solltest ihn ein paar[BREAK]  [ITEM B6 00] geben.[WAIT]@Also. Viel Glück. [HEART][BREAK]@Schmatzer, schmatzer. [HEART][END]
-224-7:@The Needle in the Dragon's right foot is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
-224-7E:@Die Nadel im rechten Fuß des Drachens ist[BREAK]  im Vulkankrater.[WAIT]@Also. Viel Glück. [HEART][BREAK]@Schmatzer, schmatzer. [HEART][END]
+224-7:@The Needle in the Dragon's right hand is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
+224-7E:@Die Nadel in der rechten Hand des Drachens ist[BREAK]  im Vulkankrater.[WAIT]@Also, dann. Viel Glück. [HEART][BREAK]@Schmatzer, schmatzer. [HEART][END]
 224-8:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
 224-8E:@Du kannst mich von nun an öfters in deinen[BREAK]  Träumen erwarten. [HEART][WAIT]@*kicher* Wiedersehen! [HEART][END]
 // Repeats: 186-35, 224-8
@@ -20555,7 +20555,8 @@
 894-13E:@OK[END]
 894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
 894-14E:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alex On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
-// It's important to note that the game loads these options one by one. So making them too long means the user has to wait before being able to scroll left894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
+// It's important to note that the game loads these options one by one. So making them too long means the user has to wait before being able to scroll left
+894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-15E:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-16:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
 894-16E:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]

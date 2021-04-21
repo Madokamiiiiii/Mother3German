@@ -463,7 +463,7 @@
 00E5: What's your favorite[BREAK]thing?[END]
 00E5-E: Was ist deine[BREAK]Lieblingssache?[END]
 00E6:    Is this okay?[BREAK]      Yes        No[END]
-00E6-E: Passt das so?[BREAK]      Na klar   Nï¿½[END]
+00E6-E:   Passt das so?[BREAK]      Na klar   Nö[END]
 00E7: Favorite Food:[END]
 00E7-E: Lieblingsessen:[END]
 00E8: Favorite Thing:[END]

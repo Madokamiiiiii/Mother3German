@@ -2,7 +2,13 @@
 // Codes that end in FF] are real control codes. Custom control codes end in EF].
 // Custom control codes are complicated, eerie, and need extra explaining.
 // Until you have a handle on custom control codes, you should leave them out.
-
+//
+// Certain lines have comments under them that show which enemies and/or actions MAY call them.
+// This was done automatically and should only be used as a helping hand of sorts.
+// It DOESN'T mean certain lines will be called by a certain enemy and certain others won't.
+// ASM functions can call whichever line they want and change an enemy's behaviour as they see fit,
+// meaning the standard enemy behaviour (the one the comments refer to) may even go unused.
+// Please keep it in mind when looking for which enemies use which lines.
 0000: Debug Text[END]
 0000-E: Debug Text[END]
 0001: BATTLE DEBUGGER[END]
@@ -277,9 +283,9 @@
 0087-E: Das war eine gute Erfahrung![END]
 0088: The enemy left a present![END]
 0088-E: Der Gegner hat ein Geschenk hinterlassen![END]
-0089: Inside the present, there was [11 EF][10 FF]![END]
+0089: Inside the present, there [17 EF][11 EF][10 FF]![END]
 0089-E: Im Geschenk war [11 EF][10 FF]![END]
-008A: Inside the present, there was [11 EF][10 FF]![34 FF] Maybe.[END]
+008A: Inside the present, there [17 EF][11 EF][10 FF]![34 FF] Maybe.[END]
 008A-E: Im Geschenk war [11 EF][10 FF]![34 FF] Vielleicht.[END]
 008B: [10 FF] took [13 EF][11 FF]![END]
 008B-E: [10 FF] nahm [13 EF][11 FF] mit![END]
@@ -293,7 +299,7 @@
 008F-E: Dann,[32 FF][30 FF] [10 FF] aufgeben?[BREAK]                   [37 FF]Ja             [37 FF]Nein[END]
 0090: Then,[32 FF][30 FF] throw something away?[BREAK]                   [37 FF]Yes             [37 FF]No[END]
 0090-E: Dann,[13 EF][32 FF][30 FF] etwas wegwerfen?[BREAK]                   [37 FF]Ja             [37 FF]Nein[END]
-0091: [10 FF] threw away [13 EF][11 FF][WAIT]and took [13 EF][12 FF]![END]
+0091: [10 FF] threw away [33 EF][11 FF][WAIT]and took [13 EF][12 FF]![END]
 0091-E: [10 FF] warf [13 EF][11 FF] weg[WAIT]und nahm [13 EF][12 FF] mit![END]
 0092: It's not a good idea to throw out [13 EF][10 FF].[END]
 0092-E: Es ist keine gute Idee [13 EF][10 FF] wegzuwerfen.[END]
@@ -363,17 +369,17 @@
 00B2-E: [END]
 00B3: [END]
 00B3-E: [END]
-00B4: You snuck up on [00 EF][01 EF] from behind![END]
-00B4-E: Du hast dich von hinten an [05 EF][00 EF][41 EF] angeschlichen![END]
-00B5: [00 EF][01 EF] snuck up from behind![END]
-00B5-E: [04 EF][00 EF] hat sich von hinten angeschlichen![END]
-00B6: [00 EF][01 EF] trapped you![END]
-00B6-E: [00 EF][01 EF] treib[17 EF]dich in die Enge![END]
-00B7: You encountered [00 EF][01 EF]![END]
-00B7-E: Du triffst auf [05 EF][00 EF][41 EF]![END]
-00B8: [00 EF][01 EF] suddenly attacked![END]
+00B4: You snuck up on [03 EF][00 EF][01 EF] from behind![END]
+00B4-E: Du hast dich von hinten an [05 EF][00 EF][18 EF] angeschlichen![END]
+00B5: [02 EF][00 EF][01 EF] snuck up from behind![END]
+00B5-E: [04 EF][00 EF][01 EF] schleich[17 EF]sich von hinten an![END]
+00B6: [02 EF][00 EF][01 EF] trapped you![END]
+00B6-E: [04 EF][00 EF][01 EF] treib[17 EF]dich in die Enge![END]
+00B7: You encountered [03 EF][00 EF][01 EF]![END]
+00B7-E: Du triffst auf [05 EF][00 EF][18 EF]![END]
+00B8: [02 EF][00 EF][01 EF] suddenly attacked![END]
 00B8-E: [04 EF][00 EF][01 EF] greif[17 EF]plötzlich an![END]
-00B9: [00 EF][01 EF] blocked the way![END]
+00B9: [02 EF][00 EF][01 EF] blocked the way![END]
 00B9-E: [04 EF][00 EF][01 EF] blockier[17 EF]den Weg![END]
 00BA: [END]
 00BA-E: [END]
@@ -416,7 +422,7 @@
 00CD: [10 FF] was taught a lesson![END]
 00CD-E: [10 FF] wurde eine Lektion erteilt![END]
 00CE: [10 FF] returned to its senses![END]
-00CE-E: [02 EF][10 FF] kam zu Sinnen![END]
+00CE-E: [02 EF][10 FF] kam wieder zu Sinnen![END]
 00CF: [10 FF] returned to the forest![END]
 00CF-E: [02 EF][10 FF] kehrte zum Wald zurück![END]
 00D0: [10 FF] is deeply sorry now![END]
@@ -457,14 +463,15 @@
 00E1-E: SHARED MESSAGES[END]
 00E2: [END]
 00E2-E: [END]
-00E3: It didn't work on [12 FF]![END]
+00E3: It didn't work on [25 EF][12 FF]![END]
 00E3-E: Es hatte auf [12 FF] keine Wirkung![END]
+//Used if a status move is used on a resistant entity or if said entity is already afflicted by said status (even used after 3 buffs/debuffs are applied)																																					 
 00E4: [END]
 00E4-E: [END]
 00E5: [END]
 00E5-E: [END]
 00E6: [12 FF]'s equipment blocked it![END]
-00E6-E: Die Ausrüstung von [12 FF] wehrte es ab![END]
+00E6-E: Die Ausrüstung von [12 FF] wehrte den Angriff ab![END]
 00E7: But it didn't work.[END]
 00E7-E: Aber es klappte nicht.[END]
 00E8: [END]
@@ -474,7 +481,7 @@
 00EA: [12 FF] dodged quickly![END]
 00EA-E: [12 FF] wich schnell aus![END]
 00EB: It had no visible effect on [12 FF]![END]
-00EB-E: Es hatte keinen sichtbaren Effekt auf [08 EF][12 FF]![END]
+00EB-E: Es hatte keinen sichtbaren Effekt auf [12 FF]![END]
 00EC: It had no visible effect on [12 FF]![END]
 00EC-E: Es hatte keinen sichtbaren Effekt auf [08 EF][12 FF]![END]
 00ED: Es hatte keinen sichtbaren Effekt auf [12 FF]![END]
@@ -638,7 +645,7 @@
 013C: Sucked away [12 FF]'s PP![END]
 013C-E: Saugte PP von [12 FF] ab![END]
 013D: [12 FF] didn't have any PP![END]
-013D-E: [02 EF][12 FF] hat gar keine PP![END]
+013D-E: [02 EF][12 FF] hat keine PP![END]
 013E: The powerful light caused [12 FF] to faint![END]
 013E-E: Das starke Licht lies [08 EF][12 FF] zusammenbrechen![END]
 013F: GOODS MESSAGES[END]
@@ -658,11 +665,11 @@
 0146: [11 FF] ate [13 EF][10 FF]![END]
 0146-E: [11 FF] aß [13 EF][10 FF]![END]
 0147: [11 FF] took out [13 EF][10 FF],[WAIT]and [12 FF] ate it![END]
-0147-E: [11 FF] nahm [13 EF][10 FF] raus,[WAIT]und [12 FF] aß![END]
+0147-E: [11 FF] nahm [13 EF][10 FF] raus,[WAIT]und [12 FF] aß es![END]
 0148: [11 FF] drank [13 EF][10 FF]![END]
 0148-E: [11 FF] drank [13 EF][10 FF]![END]
 0149: [11 FF] took out [13 EF][10 FF],[WAIT]and [12 FF] drank it![END]
-0149-E: [11 FF] nahm [13 EF][10 FF] raus,[WAIT]und [12 FF] trank![END]
+0149-E: [11 FF] nahm [13 EF][10 FF] raus,[WAIT]und [12 FF] trank es![END]
 014A: [END]
 014A-E: [END]
 014B: [END]
@@ -736,7 +743,7 @@
 016D: [END]
 016D-E: [END]
 016E: [11 FF] used [13 EF][10 FF]![WAIT]The sight of the baby chick warmed [10 FF]'s heart.[END]
-016E-E: [11 FF] benutzte [13 EF][10 FF]![WAIT]Der Anblick vom Baby-Huhn wärmte das Herz von [10 FF].[END]
+016E-E: [11 FF] benutzte [13 EF][10 FF]![WAIT]Der Anblick des Baby-Huhns wärmte das Herz von [10 FF].[END]
 016F: [END]
 016F-E: [END]
 0170: [11 FF] used [13 EF][10 FF]![WAIT]The chicken dashed off at breakneck speed![END]
@@ -957,8 +964,10 @@
 01DB-E: [END]
 01DC: [11 FF] put all of his strength behind his attack![END]
 01DC-E: [11 FF] steckte all seine Kraft in diese Attacke![END]
+// Used by the character skill: 33		  
 01DD: [11 FF] swung his weapon wildly![END]
 01DD-E: [11 FF] schwang seine Waffe wild herum![END]
+// Used by the character skill: 32								  
 01DE: [END]
 01DE-E: [END]
 01DF: [END]
@@ -971,14 +980,17 @@
 01E2-E: [END]
 01E3: [11 FF] gathered his strength![END]
 01E3-E: [11 FF] sammelte seine Stärke![END]
+// Used by the character skill: 34								  
 01E4: [11 FF] stiffened his body![END]
 01E4-E: [11 FF] stählte seinen Körper![END]
+// Used by the character skill: 35								  
 01E5: BONEY MESSAGES[END]
 01E5-E: BONEY MESSAGES[END]
 01E6: [END]
 01E6-E: [END]
 01E7: [11 FF] sniffed [12 FF]![END]
 01E7-E: [11 FF] schnüffelte an [12 FF]![END]
+// Used by the character skill: 44								  
 01E8: But the putrid stench was too much for [11 FF] to handle.[END]
 01E8-E: Aber der faulige Gestank war zu viel für [11 FF].[END]
 01E9: But he didn't smell anything.[END]
@@ -1274,7 +1286,7 @@
 027A: [11 FF] and company ran away![END]
 027A-E: [11 FF] und Begleitung versuchten, wegzurennen![END]
 027B: [11 FF] greift an![END]
-027B-E: [11 FF] attackiert![END]
+027B-E: [11 FF] greift an![END]
 027C: [10 FF] received an electric shock![END]
 027C-E: [10 FF] bekam einen elektrischen Schlag![END]
 027D: But [11 FF] deftly flipped behind the enemy![31 FF][END]
@@ -1344,7 +1356,7 @@
 029D: Fuel is hiding behind [12 FF]![END]
 029D-E: Fuel versteckt sich hinter [12 FF]![END]
 029E: Fuel cheered [12 FF] on and lent his support![END]
-029E-E: Fuel jubelte [12 FF] zu und gab ihm seine Unterstützung![END]
+029E-E: Fuel jubelte [12 FF] zu und unterstützte ihn![END]
 029F: [END]
 029F-E: [END]
 02A0: [END]
@@ -1422,7 +1434,7 @@
 02C4: Fassad yelled at [12 FF]![END]
 02C4-E: Fassad brüllte [12 FF] an![END]
 02C5: Fassad placed his finger on the Punishizer's button![END]
-02C5-E: Fassad legt seinen Finger auf den Knopf des Punishizer![END]
+02C5-E: Fassad legt seinen Finger auf den Knopf des Bestrafers![END]
 02C6: Fassad is peeling a banana![END]
 02C6-E: Fassad schält eine Banane![END]
 02C7: Fassad slipped and fell on a banana peel![END]
@@ -1452,7 +1464,7 @@
 02D3: Ionia let out a tiny little scream![END]
 02D3-E: Ionia lässt einen kleinen Schrei raus![END]
 02D4: Ionia is batting her false eyelashes![END]
-02D4-E: Ionia schlägt ihre falsche Wimpern![END]
+02D4-E: Ionia schlägt mit ihren falschen Wimpern![END]
 02D5: [END]
 02D5-E: [END]
 02D6: [END]
@@ -1475,50 +1487,92 @@
 02DE-E: MONSTER MESSAGES[END]
 02DF: [END]
 02DF-E: [END]
+// Used by the enemies:  Soot Dumpling,  Return of Octobot,  Greedier Mouse
+// Used by the actions: 0, 62, 148, 241, 280, 342, 410, 437, 567, 635, 636, 637, 640																	   																					
 02E0: [11 FF] greift an![END]
 02E0-E: [02 EF][11 FF] greift an![END]
+// Used by the enemies:  Bright Smile,  Jealous Bass,  Sticky Slug,  Tender Loving Tree,  Road Block,  Mr. Batty,  Yammonster,  Soot Dumpling,  Baked Yammonster,  Mystery Metal Monkey,  Spud Bug,  Slimy Slug,  Ramblin' Mushroom,  Tree,  Mrs. Lava,  Magman,  Lingering Spirit,  HUGE Pillbug,  Barrel Man,  Strawberry Slime,  Violent Roach,  Osohe Cape,  Pseudoor,  Dung Beetle,  Sara-Sara-Sahara,  Sand Lizard,  Gooey Goo,  Cleocatra,  Stinky Ghost,  Artsy Ghost,  Pigtunia,  Putrid Moldyman,  Whatever,  Einswine,  Ancient Dragonfly,  Filthy Attack Roach,  Batangutan,  Sky Titany,  Negative Man,  Big Spud Bug,  Grated Yammonster,  Naughty Mushroom,  Elder Batty,  Gently Weeping Guitar,  Wobbly Robot,  Men's Room Sign,  Surprise Box,  Screwloose,  Cuddle Bomb,  Master Eddy,  Rooound Fish,  Unwelcome Gust,  Beanling,  Black Beanling,  Tiny Forest,  Masked Man,  Masked Man,  Masked Man,  Masked Man
+// Used by the actions: 2, 104, 113, 275, 279, 331, 334, 347, 394, 438, 439, 440, 531, 580, 581, 582, 583, 630, 631, 638, 639, 641																															  
 02E1: [11 FF] did a combo attack![END]
 02E1-E: [02 EF][11 FF] machte eine Kombo-Attacke![END]
+// Used by the enemies:  Scamperin' Mushroom,  Flying Mouse,  Ghost Sword,  Metal Attack Roach
+// Used by the actions: 3, 354	  
 02E2: [11 FF] used a biting attack![END]
 02E2-E: [02 EF][11 FF] setzte eine Bissattacke ein![END]
+// Used by the enemies:  Oh-So-Snake,  Mecha-Drago,  Mole Cricket,  The Squeekz,  Mecha-Lion,  Top Dogfish,  Greedy Mouse,  Flying Mouse,  Mighty Bitey Snake,  Mystery Metal Monkey,  Crag Lizard,  Chilly Dog,  Mole Cricket,  Boa Transistor,  Zombie Man,  Zombie Dog,  Detached Leech,  Arachnid!,  Cactus Wolf,  Dogfish,  Muttshroom,  Parental Kangashark,  Almost Mecha-Lion,  Really Flying Mouse,  Carpet Monster,  Zombie Lady,  Arachnid!!!!,  Greedier Mouse,  Reconstructed Lion
+// Used by the actions: 4, 103, 270, 304, 320, 380, 465, 546, 586													 
 02E3: [11 FF] used a drill attack![END]
 02E3-E: [02 EF][11 FF] setzte eine Bohrattacke ein![END]
+// Used by the enemies:  Mecha-Mole!,  Li'l Miss Marshmallow,  Reconstructed Mole
+// Used by the actions: 5, 365					  
 02E4: [11 FF] used a propeller attack![END]
-02E4-E: [02 EF][11 FF] setzte eine Propellerattacke ein![END]
+02E4-E: [02 EF][11 FF] griff mit seinem Propeller an![END]
+// Used by the enemy:  Really Flying Mouse
+// Used by the action: 6
 02E5: [11 FF] bore down and attacked![END]
 02E5-E: [02 EF][11 FF] näherte sich schnell und griff an![END]
+// Used by the enemies:  N.K. Cyborg,  Crag Lizard,  Mecha-Turtle
+// Used by the actions: 7, 416		  
 02E6: [11 FF] stabbed with a horn![END]
 02E6-E: [02 EF][11 FF] stach mit einem Horn![END]
+// Used by the enemies:  Reconstructed Caribou,  Rhinocerocket Mark II,  Cattlesnake,  Rhinocerocket
+// Used by the actions: 8, 114, 300	   
 02E7: [11 FF] pecked with its beak![END]
 02E7-E: [02 EF][11 FF] pickte mit seinem Schnabel![END]
+// Used by the enemies:  Balding Eagle,  Squawking Stick,  Slitherhen,  Blue Balding Eagle
+// Used by the action: 9
 02E8: [11 FF] stabbed with a spear![END]
 02E8-E: [02 EF][11 FF] stach mit einem Speer![END]
+// Used by the enemy:  Rockin' Ghost
+// Used by the action: 10	 
 02E9: [11 FF] stabbed with a sword![END]
 02E9-E: [02 EF][11 FF] stach mit einem Schwert![END]
+// Used by the enemies:  Ghost Sword,  Ghost Knight
+// Used by the action: 11
 02EA: [11 FF] brandished a pincer![END]
-02EA-E: [02 EF][11 FF] schwang seine Schere herum![END]
+02EA-E: [02 EF][11 FF] schwang eine Schere herum![END]
+// Used by the enemies:  Titany,  Spineless Lobster,  Li'l Miss Marshmallow,  Rock Lobster,  Titanian
+// Used by the actions: 12, 364		   
 02EB: [11 FF] swung a sword![END]
 02EB-E: [02 EF][11 FF] schwang sein Schwert herum![END]
+// Used by the enemies:  Masked Man,  Ghost Knight
+// Used by the actions: 13, 402	   
 02EC: [11 FF] brandished a scythe![END]
-02EC-E: [02 EF][11 FF] schwang seine Sense herum![END]
+02EC-E: [02 EF][11 FF] schwang ihre Sense herum![END]
+// Used by the enemy:  Praying Mantis
+// Used by the action: 14		 
 02ED: [11 FF] swung a steel ball![END]
 02ED-E: [02 EF][11 FF] schwang seinen Stahlball herum![END]
+// Used by the enemy:  Steel Mechorilla
+// Used by the actions: 15, 489			   												 	 
 02EE: [11 FF] scratched with its claws![END]
 02EE-E: [02 EF][11 FF] kratzte mit seinen Klauen![END]
+// Used by the enemy:  Mischievous Mole
+// Used by the action: 16
 02EF: [11 FF] scratched with its sharp claws![END]
 02EF-E: [02 EF][11 FF] kratzte mit seinen scharfen Klauen![END]
+// Used by the enemies:  Balding Eagle,  Almost Mecha-Lion,  Blue Balding Eagle
+// Used by the actions: 17, 382					   
 02F0: [11 FF] swung its tail violently![END]
-02F0-E: [02 EF][11 FF] schwang heftig seinen Schwanz![END]
+02F0-E: [02 EF][11 FF] schwang heftig ihren Schwanz![END]
+// Used by the enemy:  Cattlesnake
+// Used by the action: 18
 02F1: [11 FF] threw a rock![END]
 02F1-E: [02 EF][11 FF] warf einen Stein![END]
+// Used by the enemy:  Mischievous Mole
+// Used by the action: 19
 02F2: [11 FF] threw a bone![END]
 02F2-E: [02 EF][11 FF] warf einen Knochen![END]
+// Used by the enemy:  Cheery Skeleton
+// Used by the action: 20 
 02F3: [11 FF] threw some sunflower seeds![END]
 02F3-E: [02 EF][11 FF] warf ein paar Sonnenblumensamen![END]
 02F4: [11 FF] came out swinging![END]
 02F4-E: [02 EF][11 FF] wirbelt herum![END]
 02F5: [11 FF] threw a punch![END]
 02F5-E: [02 EF][11 FF] schlug zu![END]
+// Used by the enemies:  Clayman,  Ghost Armor,  Li'l Big Bro,  Minor Robot,  Fish Roe Man
+// Used by the actions: 23, 115, 325		
 02F6: [11 FF] attacked with a kick![END]
 02F6-E: [02 EF][11 FF] attackierte mit einem Kick![END]
 02F7: [11 FF] threw a powerful punch![END]
@@ -1527,14 +1581,24 @@
 02F8-E: [02 EF][11 FF] machte einen heftigen Kick![END]
 02F9: [11 FF] stomped with a giant foot![END]
 02F9-E: [02 EF][11 FF] stampfte mit seinem riesigen Fuß![END]
+// Used by the enemy:  Mecha-Drago
+// Used by the actions: 27, 305
 02FA: [11 FF] did a cactus-headbutt![END]
-02FA-E: [02 EF][11 FF] setzte einen Kaktus-Kopfstoß ein![END]
+02FA-E: [02 EF][11 FF] machte einen Kaktus-Kopfstoß ein![END]
+// Used by the enemy:  Cactus Wolf
+// Used by the action: 28
 02FB: [11 FF] charged![END]
 02FB-E: [02 EF][11 FF] rammte dich an![END]
+// Used by the enemies:  Pork Tank,  Hippo Launcher,  New Fassad,  Top Dogfish,  Agitated Boar,  Baked Yammonster,  Ten-Yeti,  Ghost Shield,  Rockin' Ghost,  Horsantula,  Ostrelephant,  Sky Titany,  Really Flying Mouse,  Hippo Launcher,  K9000
+// Used by the actions: 29, 338, 493			
 02FC: [11 FF] did a bum-rush![END]
 02FC-E: [02 EF][11 FF] stürmte dich an![END]
+// Used by the enemies:  Clayman,  Fierce Pork Trooper,  Fierce Pork Trooper,  Pigmask Major,  Ghost Armor,  Li'l Big Bro,  Bro Team,  Monkalrus,  Wobbly Robot,  Pigmask Major,  Pigmask Colonel,  Upgraded Robot
+// Used by the actions: 30, 260, 326, 476, 484
 02FD: [11 FF] fired a beam![END]
 02FD-E: [02 EF][11 FF] feuerte einen Beam ab![END]
+// Used by the enemies:  Masked Man,  Pigmask Major,  Mecha-Mole!,  Atomic Power Robot,  Nuclear Reactor Robot,  Return of Octobot,  Recon Mech,  Pigmask,  Pigmask Major,  Pigmask Captain,  Navy SQUEAL,  Security Robot
+// Used by the actions: 31, 35, 76, 109, 255, 352, 403
 02FE: [11 FF] fired a high-powered beam![END]
 02FE-E: [02 EF][11 FF] feuerte einen Hochleistungsbeam ab![END]
 02FF: [11 FF] fired missiles![END]
@@ -1543,24 +1607,38 @@
 0300-E: [02 EF][11 FF] schwang wütend seinen Taktstock![END]
 0301: [11 FF] fired its cannon![END]
 0301-E: [02 EF][11 FF] feuerte mit seiner Kanone![END]
+// Used by the enemy:  Pork Tank
+// Used by the actions: 339, 612							
 0302: [11 FF] bit with its venomous fangs![END]
-0302-E: [02 EF][11 FF] biss mit seinen giftigen Zähnen![END]
+0302-E: [02 EF][11 FF] biss mit giftigen Zähnen![END]
+// Used by the enemies:  Mighty Bitey Snake,  Dogfish,  Arachnid!!!!
+// Used by the action: 36 
 0303: [11 FF] stabbed with its venomous stinger![END]
-0303-E: [02 EF][11 FF] stach mit seinen giftigen Stacheln![END]
+0303-E: [02 EF][11 FF] stach mit ihren giftigen Stacheln![END]
+// Used by the enemy:  Horsantula
+// Used by the action: 37
 0304: [11 FF] sprayed a poisonous gas![END]
 0304-E: [02 EF][11 FF] versprühte giftiges Gas![END]
 0305: [11 FF] emitted an electromagnetic pulse![END]
 0305-E: [02 EF][11 FF] stieß einen elektromagnetischen Puls aus![END]
+// Used by the enemies:  Return of Octobot,  Wobbly Robot
+// Used by the action: 39											   
 0306: [11 FF] tried to strike [12 FF]'s joints![END]
 0306-E: [02 EF][11 FF] versuchte die Gelenke von [12 FF] zu treffen![END]
+// Used by the enemies:  Pigmask Major,  Pigmask Major
+// Used by the action: 40							
 0307: [11 FF] planted an unwanted kiss![END]
 0307-E: [02 EF][11 FF] küsste unerwünscht![END]
+// Used by the enemies:  Mrs. Lava,  Love Walker
+// Used by the action: 41						   
 0308: [11 FF] tried Paralysis [ALPHA]![END]
 0308-E: [02 EF][11 FF] benutzte Paralyse [ALPHA]![END]
 0309: [11 FF] tried Paralysis [OMEGA]![END]
 0309-E: [02 EF][11 FF] benutzte Paralyse [OMEGA]![END]
 030A: [11 FF] fired its DRoW-Z Beam![END]
 030A-E: [02 EF][11 FF] feuerte seinen DRoW-Z Beam ab![END]
+// Used by the enemies:  Minor Robot,  Security Robot
+// Used by the actions: 44, 277								
 030B: [11 FF] clung to [12 FF]![END]
 030B-E: [02 EF][11 FF] umklammerte [12 FF]![END]
 030C: [11 FF] let out a sweet fragrance![END]
@@ -1571,6 +1649,8 @@
 030E-E: [02 EF][11 FF] benutzte Hypnose [OMEGA]![END]
 030F: [11 FF] scattered its spores![END]
 030F-E: [02 EF][11 FF] verteilte seine Sporen![END]
+// Used by the enemies:  Scamperin' Mushroom,  Ramblin' Mushroom,  Muttshroom,  Muttshroom,  Naughty Mushroom
+// Used by the actions: 49, 51, 267, 522								  
 0310: [11 FF] fired a Dum-E Beam![END]
 0310-E: [02 EF][11 FF] feuerte einen Dum-E Beam ab![END]
 0311: [11 FF] did an alluring dance![END]
@@ -1588,21 +1668,27 @@
 0317: [11 FF] emitted a dazzling light![END]
 0317-E: [02 EF][11 FF] strahlte blendendes Licht aus![END]
 0318: [11 FF] emitted a Forgetfulness Flash![END]
-0318-E: [02 EF][11 FF] strahlte ein Vergesslichkeitsblitz aus![END]
+0318-E: [02 EF][11 FF] strahlte einen Vergesslichkeitsblitz aus![END]
 0319: [11 FF] greeted everyone politely and left.[END]
 0319-E: [02 EF][11 FF] grüßte jeden höflich und ging![END]
 031A: [11 FF] used a Counter-PSI Unit![END]
 031A-E: [02 EF][11 FF] benutzte eine Konter-PSI Einheit![END]
 031B: [11 FF] expounded on its past sorrows in life![END]
 031B-E: [02 EF][11 FF] erzählte seine früheren Sorgen im Leben![END]
+// Used by the enemy:  Lingering Spirit
+// Used by the action: 61
 031C: [END]
 031C-E: [END]
 031D: [11 FF] coughed up a terrible odor![END]
 031D-E: [02 EF][11 FF] hustete einen schrecklichen Geruch![END]
+// Used by the enemies:  Stinky Ghost,  Putrid Moldyman,  Zombidillo
+// Used by the actions: 63, 548												
 031E: [11 FF] coughed up an unbelievably offensive smell![END]
 031E-E: [02 EF][11 FF] hustete eien unglaublich aggressiven Gestank![END]
 031F: [11 FF] sent its fleas flying![END]
 031F-E: [02 EF][11 FF] sendete seine Flöhe aus![END]
+// Used by the enemies:  Ten-Yeti,  Batangutan,  Monkalrus
+// Used by the actions: 65, 66						 
 0320: [11 FF] fell on top of [12 FF]![END]
 0320-E: [02 EF][11 FF] fiel auf [12 FF]![END]
 0321: [11 FF] fired a whole bunch of missiles![END]
@@ -1644,7 +1730,7 @@
 0333: [11 FF] generated a waterspout![END]
 0333-E: [02 EF][11 FF] erschuf eine Wasserhose![END]
 0334: [11 FF] breathed fire![END]
-0334-E: [02 EF][11 FF] spuckte Feuer![END]
+0334-E: [02 EF][11 FF] speite Feuer![END]
 0335: [11 FF] shot flames out![END]
 0335-E: [02 EF][11 FF] schoss mit Flammen![END]
 0336: [11 FF] benutzte PK Fire [ALPHA]![END]
@@ -1694,7 +1780,9 @@
 034C: [11 FF] stomped its feet![END]
 034C-E: [02 EF][11 FF] stampfte![END]
 034D: [11 FF] slammed its head into the ground![WAIT][12 FF] and company were hit by a shock wave![END]
-034D-E: [02 EF][11 FF] schlug mit seinen Kopf in den Boden![WAIT][12 FF] und Begleitung wurde von einer Schockwelle getroffen![END]
+034D-E: [02 EF][11 FF] schlug mit seinem Kopf in den Boden![WAIT][12 FF] und Begleitung wurden von einer Schockwelle getroffen![END]
+// Used by the enemy:  Heftyhead
+// Used by the action: 111									 
 034E: [11 FF] is rattling and shaking![END]
 034E-E: [02 EF][11 FF] knattert und zittert![END]
 034F: [11 FF] apologized profusely![END]
@@ -1728,9 +1816,13 @@
 035D: [11 FF] became friendly and affectionate![END]
 035D-E: [02 EF][11 FF] wurde freundlich und liebevoll![END]
 035E: [11 FF] spread its wings and charged![END]
-035E-E: [02 EF][11 FF] breitete seine Flügel aus und stieß nach vorne![END]
+035E-E: [02 EF][11 FF] breitete ihre Flügel aus und stieß nach vorne![END]
+// Used by the enemies:  Violent Roach,  Filthy Attack Roach,  Metal Attack Roach
+// Used by the actions: 112, 128							  
 035F: [11 FF] shot webbing from its rear![END]
-035F-E: [02 EF][11 FF] schoss Fäden aus seinem Hintern![END]
+035F-E: [02 EF][11 FF] schoss Fäden aus ihren Hintern![END]
+// Used by the enemies:  Arachnid!,  Arachnid!!!!
+// Used by the action: 129							 
 0360: [11 FF] coughed up phlegm![END]
 0360-E: [02 EF][11 FF] hustete Schleim![END]
 0361: [11 FF] used the Slime Generator![END]
@@ -1752,7 +1844,7 @@
 0369: [11 FF] tried Defense Down [OMEGA]![END]
 0369-E: [02 EF][11 FF] benutzte Defense - [OMEGA]![END]
 036A: [11 FF] used a vacuum attack![END]
-036A-E: [02 EF][11 FF] benutzte eine Vakuum Attacke![END]
+036A-E: [02 EF][11 FF] benutzte eine Saug-Attacke![END]
 036B: [11 FF] bellowed a war cry![END]
 036B-E: [02 EF][11 FF] brüllte einen Kriegsschrei![END]
 036C: [11 FF] shouted loudly![END]
@@ -1760,13 +1852,13 @@
 036D: [11 FF] made a heartbreaking comment![END]
 036D-E: [02 EF][11 FF] machte einen herzzerbrechenden Kommentar![END]
 036E: [11 FF] used the Shield Killer![END]
-036E-E: [02 EF][11 FF] benutzte den Schild Killer![END]
+036E-E: [02 EF][11 FF] benutzte den Schildkiller![END]
 036F: [11 FF] used a combination attack![END]
-036F-E: [02 EF][11 FF] benutzte eine Kombo-Attacke![END]
+036F-E: [02 EF][11 FF] machte eine Kombo-Attacke![END]
 0370: [11 FF] emitted a pale green light![END]
-0370-E: [02 EF][11 FF] machte ein schwaches grünes Licht![END]
+0370-E: [02 EF][11 FF] stieß ein schwaches grünes Licht aus![END]
 0371: [11 FF] used the Neutralizer![END]
-0371-E: [02 EF][11 FF] benutzte den Neutralizer![END]
+0371-E: [02 EF][11 FF] benutzte den Neutralisierer![END]
 0372: In the confusion, [11 FF] [END]
 0372-E: Im Durcheinander stahl [03 EF][11 FF] [END]
 0373: stole [11 EF][END]
@@ -1783,14 +1875,18 @@
 0378-E: Der junge Kängahai jubelte seine Mutter an![END]
 0379: [11 FF] settled on a tree and rested its wings![END]
 0379-E: [02 EF][11 FF] setzte sich auf einen Baum und ruhte seine Flügel aus![END]
+// Used by the enemies:  Balding Eagle,  Blue Balding Eagle
+// Used by the actions: 153, 268									
 037A: [11 FF] picked up some parts and attached them to itself![END]
 037A-E: [02 EF][11 FF] hob ein paar Teile auf und fügte sie zusammen![END]
 037B: [11 FF] did a drop-kick![END]
 037B-E: [02 EF][11 FF] machte einen Sprungkick![END]
 037C: [11 FF] repaired the [12 FF]![END]
-037C-E: [02 EF][11 FF] reparierte [12 FF]![END]
+037C-E: [02 EF][11 FF] reparierte [08 EF][12 FF]![END]
 037D: [11 FF] replenished energy![END]
 037D-E: [02 EF][11 FF] füllte seine Energie auf![END]
+// Used by the enemies:  Atomic Power Robot,  Nuclear Reactor Robot
+// Used by the actions: 157, 413										
 037E: [11 FF] supplied electricity![END]
 037E-E: [02 EF][11 FF] lieferte Elektrizität![END]
 037F: [11 FF] benutzte Lifeup [ALPHA]![END]
@@ -1894,7 +1990,7 @@
 03B0: [11 FF] fell over![END]
 03B0-E: [02 EF][11 FF] fiel um![END]
 03B1: [11 FF] is trembling with fear![END]
-03B1-E: [02 EF][11 FF] bebt vor Angst![END]
+03B1-E: [02 EF][11 FF] zittert vor Angst![END]
 03B2: [11 FF] is acting nervous![END]
 03B2-E: [02 EF][11 FF] ist nervös![END]
 03B3: [11 FF] is having trouble balancing![END]
@@ -1906,7 +2002,7 @@
 03B6: [11 FF] felt homesick![END]
 03B6-E: [02 EF][11 FF] hat Heimweh![END]
 03B7: [11 FF] is beckoning![END]
-03B7-E: [02 EF][11 FF] winkt![END]
+03B7-E: [02 EF][11 FF] winzelt![END]
 03B8: [11 FF] looked the other way![END]
 03B8-E: [02 EF][11 FF] sah weg![END]
 03B9: [11 FF] tried to look cool![END]
@@ -1923,14 +2019,22 @@
 03BE-E: [02 EF][11 FF] starrt fixiert auf den Mistkäfer![END]
 03BF: [11 FF] knitted its brow![END]
 03BF-E: [02 EF][11 FF] glättete seine Fühler![END]
+// Used by the enemies:  Violent Roach,  Filthy Attack Roach
+// Used by the action: 217			 
 03C0: [11 FF] is acting threatening![END]
 03C0-E: [02 EF][11 FF] macht auf bedrohlich![END]
 03C1: [11 FF] is poofing out its hair to look threatening![END]
-03C1-E: [02 EF][11 FF] richtet seine Haare an um bedrohlich auszusehen![END]
+03C1-E: [02 EF][11 FF] richtet ihre Haare, um bedrohlich auszusehen![END]
+// Used by the enemy:  Flying Mouse
+// Used by the action: 219									 
 03C2: [11 FF] is holding up its pincers to look threatening![END]
-03C2-E: [02 EF][11 FF] hält seine Scheren hoch um bedrohlich auszusehen![END]
+03C2-E: [02 EF][11 FF] hält die Scheren hoch, um bedrohlich auszusehen![END]
+// Used by the enemies:  Titany,  Spineless Lobster
+// Used by the action: 220															  
 03C3: [11 FF] is holding up its scythe-like forelegs to look threatening![END]
-03C3-E: [02 EF][11 FF] hält sein sensenartiges Vorderbein hoch um bedrohlich auszusehen![END]
+03C3-E: [02 EF][11 FF] hält ihr sensenartiges Vorderbein hoch, um bedrohlich auszusehen![END]
+// Used by the enemy:  Praying Mantis
+// Used by the action: 221						
 03C4: [11 FF] is sounding an alarm![END]
 03C4-E: [02 EF][11 FF] lässt einen Alarm ertönen![END]
 03C5: [11 FF] spilled hot tea![END]
@@ -1999,8 +2103,10 @@
 03E4-E: [02 EF][11 FF] lädt seine Batterien auf![END]
 03E5: [11 FF] finished charging its batteries![END]
 03E5-E: [02 EF][11 FF] hat seine Batterien vollständig aufgeladen![END]
+// Used by the enemy:  Mr. Genetor
+// Used by the action: 370								 
 03E6: [11 FF] is buzzing all around [12 FF]![END]
-03E6-E: [02 EF][11 FF] summt um [12 FF] herum![END]
+03E6-E: [02 EF][11 FF] fliegt um [12 FF] herum![END]
 03E7: [11 FF] slapped with its tail![END]
 03E7-E: [02 EF][11 FF] klatschte mit seinem Schwanz ins Gesicht![END]
 03E8: [11 FF] has locked on to its target![END]
@@ -2015,8 +2121,10 @@
 03EC-E: [02 EF][11 FF] begann zu piepen![END]
 03ED: [11 FF] spread its roots into the earth![END]
 03ED-E: [02 EF][11 FF] breitete seine Wurzeln in der Erde aus![END]
+// Used by the enemies:  Tender Loving Tree,  Tree
+// Used by the action: 263					 
 03EE: [11 FF] is chasing its tail![END]
-03EE-E: [02 EF][11 FF] verfolgt seinen Schwanz![END]
+03EE-E: [02 EF][11 FF] jagt seinen Schwanz![END]
 03EF: [11 FF] is struggling to get up![END]
 03EF-E: [02 EF][11 FF] hat Schwierigkeiten aufzustehen![END]
 03F0: [11 FF] got up![END]
@@ -2090,11 +2198,11 @@
 0412: [11 FF] entered Battle Mode Formation![END]
 0412-E: [02 EF][11 FF] ging in die Knotenformation![END]
 0413: [11 FF] attacked with a 1.5V Kick![END]
-0413-E: [02 EF][11 FF] attackierte mit einem 1.5V Kick![END]
+0413-E: [02 EF][11 FF] griff mit einem 1.5V Kick an![END]
 0414: [11 FF] attacked with a 12V Kick![END]
-0414-E: [02 EF][11 FF] attackierte mit einem 12V Kick![END]
+0414-E: [02 EF][11 FF] griff mit einem 12V Kick an![END]
 0415: [11 FF] attacked with a 1,000,000V Chop![END]
-0415-E: [02 EF][11 FF] attackierte mit einem 1.000.000V Hieb![END]
+0415-E: [02 EF][11 FF] griff mit einem 1.000.000V Hieb an![END]
 0416: [11 FF] ran out of energy.[END]
 0416-E: [02 EF][11 FF] ist der Saft ausgegangen.[END]
 0417: [11 FF] triple-slapped [12 FF] in the face![END]
@@ -2112,7 +2220,7 @@
 041D: [11 FF] swung a big lump of garbage![END]
 041D-E: [02 EF][11 FF] schwang einen großen Haufen Müll![END]
 041E: [11 FF] gave off an incredibly foul odor![END]
-041E-E: [02 EF][11 FF] hinterließ einen unglaublich faulen Geruch![END]
+041E-E: [02 EF][11 FF] hinterließ einen unglaublich faulen Gestank![END]
 041F: [11 FF] attached pieces of trash to itself![END]
 041F-E: [02 EF][11 FF] fügte die Müllteile sich selbst zu![END]
 0420: [11 FF] swung both arms all around![END]
@@ -2140,7 +2248,9 @@
 042B: [11 FF] is blocking the way![END]
 042B-E: [02 EF][11 FF] versperrt den Weg![END]
 042C: The baby birds atop [11 FF] called for their mother![END]
-042C-E: Die Babyvögel auf [11 FF] riefen nach ihrer Mutter![END]
+042C-E: Die Babyvögel auf dem [11 FF] riefen nach ihrer Mutter![END]
+// Used by the enemy:  Tender Loving Tree
+// Used by the action: 269  
 042D: But it didn't work.[END]
 042D-E: Aber es funktionierte nicht.[END]
 042E: It didn't hit anyone![END]
@@ -2208,19 +2318,23 @@
 044D: [11 FF] let out an incredibly foul gas![END]
 044D-E: [02 EF][11 FF] hinterließ eine unglaublich faules Gas![END]
 044E: With the last of its strength, [11 FF] leapt into [12 FF]'s mouth![31 FF][END]
-044E-E: Mit letzter Kraft hüpfte [03 EF][11 FF] in den Mund von [12 FF]![31 FF][END]
+044E-E: Mit letzter Kraft sprang [03 EF][11 FF] in den Mund von [12 FF]![31 FF][END]
 044F: [11 FF] attacked, and then...[32 FF] [END]
+// Used by the enemy:  Fish Roe Man
+// Used by the action: 276							
 044F-E: [02 EF][11 FF] attackierte, und dann...[32 FF] [END]
 0450: [11 FF] called for help![31 FF][BREAK]...But nobody came![END]
 0450-E: [02 EF][11 FF] rief nach Hilfe![31 FF][BREAK]...Aber niemand kam![END]
 0451: [11 FF] made an incredibly scary face![END]
 0451-E: [02 EF][11 FF] machte ein unvorstellbar gruseliges Gesicht![END]
 0452: [11 FF] made a chair charge![END]
-0452-E: [02 EF][11 FF] schoss mit einem Stuhl![END]
+0452-E: [02 EF][11 FF] benutzte einen Stuhl als Geschoss![END]
+// Used by the enemy:  Mr. Passion
+// Used by the actions: 318, 628					   
 0453: [11 FF] sent a mouse flying![END]
 0453-E: [02 EF][11 FF] schickte eine Maus fliegen![END]
 0454: [11 FF] unleashed a Line-Dance Kick![END]
-0454-E: [02 EF][11 FF] entfesselte einen Reihentanzkick![END]
+0454-E: [02 EF][11 FF] entfesselte einen Line-Dance Kick![END]
 0455: [11 FF] pecked [12 FF] over and over![END]
 0455-E: [02 EF][11 FF] pickte wiederholt auf [12 FF]![END]
 0456: [11 FF] grabbed the Chilly Dog and swung it around![END]
@@ -2286,7 +2400,7 @@
 0474: [11 FF] smiled boldly![END]
 0474-E: [02 EF][11 FF] lächelte auffallend![END]
 0475: [11 FF] beat his chest like a gorilla![END]
-0475-E: [02 EF][11 FF] schlag sich wie ein Gorilla auf die Brust![END]
+0475-E: [02 EF][11 FF] schlägt sich wie ein Gorilla auf die Brust![END]
 0476: [11 FF] scattered poisonous mold spores![END]
 0476-E: [02 EF][11 FF] verteilte giftige Schimmelsporen![END]
 0477: [11 FF] launched some Mini-Mecha-Dogs![WAIT]The Mini-Mecha-Dogs charged![END]
@@ -2294,7 +2408,7 @@
 0478: [11 FF] swung its tentacles around![END]
 0478-E: [02 EF][11 FF] schwang seine Tentakel![END]
 0479: [11 FF] attacked with a 9V Kick![END]
-0479-E: [02 EF][11 FF] attackierte mit einem 9V Kick![END]
+0479-E: [02 EF][11 FF] attackierte mit einem 9V Tritt![END]
 047A: [11 FF] attacked with a 9V Chop![END]
 047A-E: [02 EF][11 FF] attackierte mit einem 9V Hieb![END]
 047B: [11 FF] stabbed with its tail![END]
@@ -2354,7 +2468,7 @@
 0496: [END]
 0496-E: [END]
 0497: [11 FF]'s [10 FF] was dissolved by digestive fluids![END]
-0497-E: [10 FF] von [11 FF] löste sich in den verdauungsfördernde Flüssigkeiten auf![END]
+0497-E: [10 FF] von [11 FF] löste sich in den verdauungsfördernden Flüssigkeiten auf![END]
 0498: [END]
 0498-E: [END]
 0499: [11 FF] glared![END]
@@ -2410,7 +2524,7 @@
 04B2: [10 FF] and company joined the fight![END]
 04B2-E: [10 FF] und Begleitung traten den Kampf bei![END]
 04B3: [11 FF] stomped its feet![WAIT][12 FF] and company were hit by a shock wave![END]
-04B3-E: [02 EF][11 FF] stampfte mit seinem Fuß![WAIT][12 FF] und Begleitung wurden von einer Schockwelle getroffen![END]
+04B3-E: [02 EF][11 FF] stampfte mit ihrem Fuß![WAIT][12 FF] und Begleitung wurden von einer Schockwelle getroffen![END]
 04B4: [11 FF] swung both arms all around![END]
 04B4-E: [02 EF][11 FF] schwang beide Arme herum![END]
 04B5: [11 FF] attacked with a book![END]
@@ -2448,7 +2562,7 @@
 04C5: [11 FF] murmured,[32 FF] "Life is but a moment, a meaningless grain of sand..."[END]
 04C5-E: [02 EF][11 FF] murrte,[32 FF] "Das Leben ist nichts weiter als ein Moment, ein bedeutungsloses Korn im Sand..."[END]
 04C6: [11 FF] moaned,[32 FF] "Just get rid of me now..."[END]
-04C6-E: [02 EF][11 FF] stöhnte,[32 FF] "Besieg mich schon..."[END]
+04C6-E: [02 EF][11 FF] klagte,[32 FF] "Jetzt mach mich schon fertig..."[END]
 04C7: [11 FF] sobbed,[32 FF] moaned,[34 FF] and started wailing.[END]
 04C7-E: [02 EF][11 FF] schluchzte,[32 FF] stöhnte,[34 FF] und begann zu heulen.[END]
 04C8: [11 FF] struck a moving pose![END]
