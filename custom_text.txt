@@ -1,6 +1,14 @@
+//The first seven custom text particles are supposed to be in fixed positions.
+//Entries 1 through 3 are used for the "and his/her/its cohort/cohorts" in battle.
+//Entries 4 through 7 are used for telling the user in which slot a piece of equipment is supposed
+//to be put on.
 Kollege
 Kollegen
  und 
+ als Waffe.
+ auf den Körper.
+ auf den Kopf.
+.
 en 
 t 
 Ein 
@@ -17,10 +25,6 @@ seine
 ihr 
 sein 
 ihre 
- als Waffe.
- auf den Körper.
- auf den Kopf.
-.
 ist 
 sind 
 Ein paar 

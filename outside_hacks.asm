@@ -1,12 +1,13 @@
 outside_hacks:
 
+define current_font_overworld $2027CAC
 //===========================================================================================
 // This hack centers names in the Name/HP/PP boxes when you press Select outside.
 //===========================================================================================
 
 .center_names:
 push {r2,r4-r5,lr}
-ldr  r2,=#0x8D1CF78          // This is the address of the 8x8 font width table
+ldr  r2,=#{small_font_width} // This is the address of the 8x8 font width table
 mov  r0,r9
 mov  r3,#0
 mov  r4,#0
@@ -152,43 +153,57 @@ pop  {r2,r4-r7,pc}
 .gray_box_resize:
 push {r1-r6,lr}
 
+
 mov  r1,r0                   // r1 has the string length now
 mov  r2,#0                   // r2 will be our loop counter
-mov  r0,#0                   // r0 will be our width counter
+mov  r0,#4                   // r0 will be our width counter
 ldr  r5,[sp,#0x24]           // load r5 with the address of the string
 ldr  r6,=#0x8D1CF78          // r6 has the address of our 8x8 font width table
 
+
 //--------------------------------------------------------------------------------------------
 // Now we need to do a loop to get the total width of the current string
+
 
 -
 ldrh r3,[r5,#0]              // load the current letter
 ldrb r3,[r6,r3]              // load the current letter's width
 add  r0,r0,r3                // add the current width to the total width
 
+
 add  r5,#2                   // increment the read address
+
 
 add  r2,#1                   // increment the loop counter
 cmp  r2,r1                   // compare the loop counter with the string length
 bge  +                       // if >= string length, then time to move to the math conv. stuff
 b    -
 
-//--------------------------------------------------------------------------------------------
-
-+
-mov  r1,#8                    // we're now going to divide the total width (in r0) by 8
-swi  #6
-cmp  r1,#0                    // r1 now has the remainder, if non-zero, we need to add 1 to r0
-beq  +
-add  r0,#1                    // add 1 because we used a partial tile in theory
 
 //--------------------------------------------------------------------------------------------
+
 
 +
 mov  r7,r0                    // r7 now has the final result
 pop  {r1-r6,pc}
 
+//===========================================================================================
+// This hack is used in order to better calculate how many grey boxes to use
+//===========================================================================================
 
+.gray_box_number:
+push {r0-r3}
+sub  r7,#0x21                 // Remove the valid tile parts from the beginning and the end.
+                              // Each double tile is 16 pixels long, however they all overlap
+                              // by 4 pixels, making a double tile 0xC pixels long
+mov  r0,#0xB
+add  r0,r7,r0                 // By adding 0xB, we make it so the remainder
+mov  r1,#0xC                  // now rolls over to the next integer.
+swi  #6                       // Divide by 0xC
+mov  r7,r0
+mov  r8,r7
+pop  {r0-r3}
+bx   lr
 
 //===========================================================================================
 // This hack is used in order to understand whether the game is printing 
@@ -197,15 +212,15 @@ pop  {r1-r6,pc}
 
 .is_small_font:
 push {r1-r2}
-ldr  r0,=#0x2027CAC          //Load the font address
+ldr  r0,=#{current_font_overworld}     //Load the font address
 ldr  r0,[r0,#0]
 mov  r2,#1
-ldr  r1,=#0x8D0B010          //Small font address
+ldr  r1,=#{small_font}                 //Small font address
 cmp  r0,r1
 beq  +
 mov  r2,#0
 +
-mov  r0,r2                   //Put the output in r2
+mov  r0,r2                             //Put the output in r2
 
 pop  {r1-r2}
 bx   lr
@@ -296,4 +311,109 @@ bl   $8001ACC
 
 .different_tiles_storage_end:
 
+pop  {pc}
+
+//============================================================================================
+// This section of code stores the letter from the font's data to the stack.
+// Main/Castroll font version. Returns if there is data to print or not.
+// r0 is the letter. r1 is the stack pointer
+//============================================================================================
+
+.fast_prepare_main_castroll_font:
+mov  r5,r0
+ldr  r2,=#{current_font_overworld}
+ldr  r2,[r2,#0]           // get which font we're loading (main or castroll)
+lsl  r0,r0,#5
+add  r0,r2,r0             // get the address
+mov  r1,sp
+mov  r2,#0x10
+swi  #0xB                 // CpuSet for 0x20 bytes
+cmp  r5,#0xFF
+ble  +
+mov  r5,#3                // set tile usage to max
+b    .fast_prepare_main_font_end
++
+ldr  r0,=#{main_font_usage}
+add  r0,r0,r5
+ldrb r5,[r0,#0]           // Load tile usage for the letter
+.fast_prepare_main_font_end:
+bx   lr
+
+//===========================================================================================
+// This hack is used in order to make it so maps aren't loaded too fast by spamming R
+//===========================================================================================
+define map_block_frames $5
+define map_block_address $2004170
+
+.block_loading_map:
+ldr  r1,=#{map_block_address}
+ldrb r3,[r1,#0]
+cmp  r3,#0
+beq  +
+mov  r0,#0                   //Inaccessible map if this was too fast
+b    .block_loading_map_end
++
+
+mov  r3,#{map_block_frames}  //Otherwise setup the timer for the map-side
+strb r3,[r1,#0]
+
+.block_loading_map_end:
+pop  {r3}                    //Default code
+mov  r8,r3
+bx   lr
+
+//===========================================================================================
+// This hack is used in order to make it so you can't exit maps too fast
+//===========================================================================================
+.block_loading_map_inside:
+push {r4,lr}
+ldr  r4,=#{map_block_address}
+ldrb r3,[r4,#0]
+cmp  r3,#0
+bne  +                       //Inaccessible map if this was too fast
+
+bl   $80052E4                //Actual routine that closes the map
+mov  r3,#{map_block_frames}  //Setup the timer for the overworld-side
+strb r3,[r4,#0]
+
++
+pop  {r4,pc}
+
+//===========================================================================================
+// Routine that accesses the map block and decrements it if it's > 0
+//===========================================================================================
+.decrement_block_map_logic:
+push {lr}
+ldr  r0,=#{map_block_address}
+ldrb r1,[r0,#0]
+cmp  r1,#0
+beq  .decrement_block_map_logic_end
+sub  r1,#1
+cmp  r1,#{map_block_frames}
+ble  +
+mov  r1,#{map_block_frames}
++
+strb r1,[r0,#0]
+
+.decrement_block_map_logic_end:
+pop  {pc}
+
+//===========================================================================================
+// Wrapper that decrements the map block for the normal overworld
+//===========================================================================================
+.decrement_block_map:
+push {lr}
+bl   .decrement_block_map_logic
+mov  r0,#0                   //Default code
+bl   $8036BD8
+pop  {pc}
+
+//===========================================================================================
+// Wrapper that decrements the map block for the map menu
+//===========================================================================================
+.decrement_block_map_inside:
+push {lr}
+bl   .decrement_block_map_logic
+ldr  r3,=#0x20196A8          //Default code
+ldrh r2,[r3,#0]
 pop  {pc}

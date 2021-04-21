@@ -1,4 +1,6 @@
 // Text here can be any length. This is all the main menu text and the naming screen text.
+// Entries 001D and 0021 are linked and can be viewed by accessing the "Delete all saves" menu.
+// To do so, press L+R+Start+A on top of LOAD.
 
 0000: [END]
 0000-E: [END]
@@ -59,7 +61,7 @@
 001C: This will erase this save file.[BREAK]Is that okay?[END]
 001C-E: Dies wird diesen Speicherstand löschen.[BREAK]Ist das in Ordnung?[END]
 001D: This will erase all save files.[BREAK]Is that okay?[END]
-001D-E: Dies wird alle Speicherstände löschen.[BREAK]Ist das in Ordnung?[END]
+001D-E: Dies wird alle Speicherstände löschen.[END]
 001E: This will copy this file to the other slot.[BREAK]Is that okay?[END]
 001E-E: Dies wird diesen Speicherstand auf einen anderen Slot kopieren.[BREAK]Ist das in Ordnung?[END]
 001F: There is another save file there.[BREAK]Overwrite it?[END]
@@ -67,7 +69,7 @@
 0020: Data corrupt.[BREAK]Save file(s) deleted.[END]
 0020-E: Daten kaputt.[BREAK]Speicherdatei(en) gelöscht.[END]
 0021: [END]
-0021-E: [END]
+0021-E: Ist das in Ordnung?[END]
 0022: [END]
 0022-E: [END]
 0023: Continue[END]
@@ -245,7 +247,7 @@
 0079: Buy[END]
 0079-E: Kaufen[END]
 007A: Sell[END]
-007A-E: Verkaufe[END]
+007A-E: Verkaufen[END]
 007B: End[END]
 007B-E: Ende[END]
 007C: Buy [11 EF][END]
@@ -461,7 +463,7 @@
 00E5: What's your favorite[BREAK]thing?[END]
 00E5-E: Was ist deine[BREAK]Lieblingssache?[END]
 00E6:    Is this okay?[BREAK]      Yes        No[END]
-00E6-E: Passt das so?[BREAK]      Na klar   Nö[END]
+00E6-E:   Passt das so?[BREAK]      Na klar   Nö[END]
 00E7: Favorite Food:[END]
 00E7-E: Lieblingsessen:[END]
 00E8: Favorite Thing:[END]

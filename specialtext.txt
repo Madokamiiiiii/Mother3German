@@ -56,17 +56,17 @@
 19:Lucas Cant Attack
 19-E: Lucas Cant Attack
 1A:(EMPTY)
-1A-E: (EMPTY)
+1A-E:(EMPTY)
 1B:Last Bash
-1B-E: Last Bash
+1B-E:Last Bash
 1C:Last PSI
-1C-E: Last PSI
+1C-E:Last PSI
 1D:Last Goods
-1D-E: Last Goods
+1D-E:Last Goods
 1E:Last Guard
-1E-E: Last Guard
+1E-E:Last Guard
 1F:Flint: Special
-1F-E: Flint: Special
+1F-E:Flint: Special
 20:Swing
 20-E:Schwingen
 21:Power Smash
@@ -90,11 +90,11 @@
 2A:Tickle Stick
 2A-E:Kitzelstock
 2B:Boney: Sniff
-2B-E: Boney: Sniff
+2B-E:Boney: Sniff
 2C:Sniff
 2C-E:Schnüffeln
 2D:Salsa:Tricks
-2D-E: Salsa:Tricks
+2D-E:Salsa:Tricks
 2E:Apologize
 2E-E:Entschuldigen
 2F:Make Laugh

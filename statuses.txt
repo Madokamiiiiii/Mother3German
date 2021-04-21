@@ -105,4 +105,4 @@
 32:Def Up (mid)
 32-E:Ver Up (mit)
 33:No Back Sprite
-33-E:Kein Schatten
+33-E:Kein BackSprite

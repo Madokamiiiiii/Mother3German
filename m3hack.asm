@@ -12,6 +12,39 @@ arch gba.thumb
 org $800188E; db $40
 org $80018A9; db $C3
 
+//============================================================================================
+//                                          FONT FILES
+//============================================================================================
+ 
+// Insert new 16x16 font + cast roll pre-welded font - MUST BE 4 BYTES ALIGNED
+//org $8CE39F8; fill $8192,$0
+define main_font $8CE39F8 
+org {main_font}; incbin font_mainfont_rearranged.bin
+org $8CE59F8; incbin font_castroll_rearranged.bin
+
+// Insert new 8x8 font
+define small_font $8D0B010 
+org {small_font}; incbin font_smallfont.bin
+
+// Insert E symbol's 1bpp version - MUST BE 4 BYTES ALIGNED
+define e_symbol_1bpp $9FD40E0
+org {e_symbol_1bpp}; incbin font_equip_rearranged.bin
+
+// Insert new font width table
+define main_font_width $8D1CE78
+org {main_font_width}; incbin font_mainwidths.bin
+
+// insert 8x8 font width table
+define small_font_width $8D1CF78
+org {small_font_width}; incbin font_smallwidths.bin
+
+// Insert new font usage table
+define main_font_usage $9FD4100
+org {main_font_usage}; incbin font_mainfont_used.bin
+
+// insert 8x8 font usage table
+define small_font_usage $9FD4200
+org {small_font_usage}; incbin font_smallfont_used.bin
 
 //============================================================================================
 //                                       CAST ROLL HACKS
@@ -71,12 +104,41 @@ org $8049CB4; db $10
 org $8049CEE; db $10
 
 org $80496A4; bl sprite_text_weld.get_icon_coord; nop
+org $80496C2; bl sprite_text_weld.get_icon_coord; nop
 org $80496D6; db 1
 org $803EA6C; bl sprite_text_weld.fix_sprite_total
-org $80497B2; bl text_weld   // these are used by the sprite text routine to fill the glyph structs
+
+// these are used by the 16x16 sprite text routine
+org $804974A
+  mov  r6,r5
+  add  r6,#0x85
+  mov  r1,sp
+  bl   sprite_text_weld.fast_prepare_main_font
+  cmp  r4,#0                 // skip printing if the tiles are empty
+  beq  $80497C6
+  cmp  r4,#2                 // partially skip printing if the first tile is empty
+  beq  $80497B6
+  b    $80497A4
+org $80497A6
+  ldrb r2,[r6,#0]
+  lsr  r2,r2,#4
+  mov  r1,sp
+  mov  r3,#2
+  bl   text_weld
+  cmp  r4,#2                 // do we want to print the bottom tiles?
+  blt  $80497C6
+org $80497BE; add r1,sp,#0x10
 org $80497C2; bl text_weld
-org $804981A; bl text_weld   // these are used by the 8x8 sprite text routine
-org $804982A; bl text_weld
+
+// these are used by the 8x8 sprite text routine
+org $80497DA
+  mov  r1,sp
+  bl   sprite_text_weld.fast_prepare_small_font
+  cmp  r0,#0                 // skip printing if the tile is empty
+  beq  $804982E
+  b    $804980C
+org $8049818; mov r3,#1; bl text_weld; b $804982E
+
 org $803E170; bl sprite_text_weld.set_fadeout_flag
 org $803E24C; bl sprite_text_weld.clear_table
 
@@ -88,65 +150,14 @@ org $803E24C; bl sprite_text_weld.clear_table
 org $8049916; mov r0,#0x20
 org $804991E; b $8049944
 
-// makes main menu box titles and item descriptions print all 16 rows instead of 10
-org $804974E
-  mov  r4,r0                 // r4 now has the font address/glyph base
-  mov  r3,#0                 // get the loop started
-
-  -
-  mov  r0,sp                 // r0 is base of glyph1
-  add  r2,r0,r3              // get glyph1[count * 2]
-  lsl  r0,r3,#1
-  add  r0,r0,r4
-  ldrb r1,[r0,#0x0]
-  strb r1,[r2,#0x0]          // store that value at r2
-  ldrb r1,[r0,#0x1]          // get glyph1[count * 2 + 1] (what about r4?)
-  strb r1,[r2,#0x8]          // store in glyph2[
-
-  add  r2,sp,#0x18           // we can't use r5 in this code, so I did this instead
-  add  r2,r2,r3
-
-  ldrb r1,[r0,#0x10]
-  strb r1,[r2,#0x00]
-  ldrb r1,[r0,#0x11]
-  strb r1,[r2,#0x08]
-
-  add  r3,r3,#1              // loop back if <= 7
-  cmp  r3,#7
-  bls  -
-
-  mov  r4,r2                 // copy r2 into r4, so things will work after this hack
-  sub  r4,#7                 // gotta subtract the count to make it match what
-                             // the original program expects
-  b $80497A4                 // and skip over old unneeded code
+// change the way menus print to make it faster
+org $8048CE4; push {lr}; mov r1,#0; bl main_menu_hacks.print_vram; pop {pc}
+org $8048828; nop; nop
 
 // makes items print all rows
-org $8048FFE
-  mov  r4,r0                 // r4 now has the font address/glyph base
-  mov  r3,#0                 // get the loop started
+org $8048FFA
+  bl   main_script_hacks.fast_prepare_main_font
   add  r5,sp,#0x18
-
-  -
-  mov  r0,sp                 // r0 is base of glyph1
-  add  r2,r0,r3              // get glyph1[count * 2]
-  lsl  r0,r3,#0x01
-  add  r0,r0,r4
-  ldrb r1,[r0,#0]
-  strb r1,[r2,#0]            // store that value at r2
-
-  ldrb r1,[r0,#0x01]         // get glyph1[count * 2 + 1] (what about r4?)
-  strb r1,[r2,#0x08]         // store in glyph2[
-
-  add  r2,r5,r3
-  ldrb r1,[r0,#0x10]
-  strb r1,[r2,#0x00]
-  ldrb r1,[r0,#0x11]
-  strb r1,[r2,#0x08]
-
-  add  r3,r3,#1              // loop back if need be
-  cmp  r3,#7
-  bls  -
-
   b    $8049074
 
 // applies a VWF to item names and other non-sprite text in the main menus
@@ -181,7 +192,7 @@ org $80C67CC; db $40
 // Re-center various main menu labels. Note that some rare labels may be missing still.
 org $8040456; db $BF         // Goods
 org $8040902; db $BF
-org $8040A82; db $B6        // Equip
+org $8040A82; db $B6         // Equip
 org $804121E; db $B6
 org $8043016; db $B6
 org $8040C26; db $C5         // PSI
@@ -211,6 +222,8 @@ org $8042498; db $6C
 org $8041506; db $6C
 org $80413F0; db $6C
 org $8040FCE; db $6C
+org $8041D8C; db $97
+org $8041D8E; db $49
 
 // move stuff in the sub menus to the right 2 pixels
 // NOTE! There's still a TON of other variations of this that
@@ -252,20 +265,22 @@ org $80461E4; db $3B
 
 // Shop menu realignments
 // Move the upper cursor left by four pixels in main shop menu
-org $804184C; db $00
+org $804184C; db $01
 // Move the character cursor left by four pixels in the Buy/Sell shop submenus
-org $80418BA; db $00
+org $80418BA; db $01
 // Move the upper cursor left by four pixels in the Buy/Sell shop submenus
-org $80418DE; db $00
+org $80418DE; db $01
 // Move the cursors left in Buy submenu
-org $8041BE2; db $00
-org $8041C0A; db $00
+org $8041B90; db $4F
+org $8041BE2; db $01
+org $8041C0A; db $01
 // Move the cursors left in Sell submenu
-org $8041E98; db $00
-org $8041EC0; db $00
+org $8041DE2; db $57
+org $8041E98; db $01
+org $8041EC0; db $01
 // Move the cursors left when inventory is full
-org $8041A6a; db $00
-org $8041A92; db $00
+org $8041A6A; db $01
+org $8041A92; db $01
 // 'Buy' X coord when in main shop menu
 org $80446FE; db $12
 // 'Sell' X coord when in main shop menu
@@ -276,9 +291,9 @@ org $8044726; db $12
 org $8044774; db $12
 // Item dude realignments
 // Fix the cursor alignment
-org $8041F68; db $00
-org $8041FD6; db $00
-org $8041FFA; db $00
+org $8041F68; db $01
+org $8041FD6; db $01
+org $8041FFA; db $01
 // 'Deposit' X coord when in main item dude menu
 org $80447BA; db $12
 // 'Withdraw' X coord when in main item dude menu
@@ -287,6 +302,21 @@ org $80447CE; db $12
 org $80447E2; db $12
 // Character names X coord when in Deposit/Withdraw item dude submenus
 org $8044830; db $12 
+// Saving/loading menu realignments
+// Fix the cursor alignment when selecting a file in the saving menu
+org $80427EE; db $0B
+// Fix the cursor alignment when overwriting a file in the saving menu
+org $80C6800; db $4B
+org $80C6804; db $7F
+// Fix the cursor alignment when choosing to delete/copy a file in the loading menu
+org $80C6830; db $4B
+org $80C6834; db $7F
+// Fix the cursor alignment when a file is selected in the loading menu
+org $80425FE; db $3F
+// Fix the cursor alignment when choosing a window colour in the loading menu
+org $804270E; db $47
+// Fix the cursor alignment when choosing a text speed in the loading menu
+org $8042686; db $57
 
 // apply a VWF to the non-sprite text on the Battle Memory screen
 org $8049966; push {lr}; bl main_menu_hacks.battle_mem_vwf
@@ -316,7 +346,14 @@ org $804626C
   push {lr}
   bl main_menu_hacks.buy_text
   pop {pc}
-  
+
+// fixes the first frame when use is pressed
+//org $8044E36; bl main_menu_hacks.use_frame1; nop
+//org $8045E30; bl main_menu_hacks.print_normal_use_frame1; nop
+//org $8040446; bl main_menu_hacks.block_frame1_goods; nop
+//org $804FBAC; bl main_menu_hacks.setup_block_use_frame1
+//org $8045E14; bl main_menu_hacks.prevent_printing_maybe; nop
+
 // replaces the drop item text routine
 org $80460C8
   push {lr}
@@ -398,6 +435,10 @@ org $8040624; db $03                             // Goods, X, left column
 org $804062A; db $7B                             // Goods, X, right column
 org $804081C; bl extra_hacks.keygoods_cursorfix1 // Key goods, X, left column
 org $8040824; db $77                             // Key goods, X, right column
+org $80424D6; bl extra_hacks.withdraw_cursorfix1 // Withdraw, X, left column
+org $80424DE; db $6D                             // Withdraw, X, right column
+org $8042164; db $03                             // Deposit, X, left column
+org $804216A; db $7B                             // Deposit, X, right column
 org $8040B04; db $7F                             // Equip, X, main menu
 org $8043064; db $7F                             // Equip, X, sub menu
 org $8040F24; bl extra_hacks.psi_cursorfix1      // PSI, X, left column
@@ -407,8 +448,130 @@ org $804141E; bl extra_hacks.psi_cursorfix1      // Skills (PSI), X, left column
 org $8041426; db $69                             // Skills (PSI), X, right column
 org $8041460; bl extra_hacks.skills_cursorfix1   // Skills (other), X, left column
 org $8041468; db $73                             // Skills (other), X, right column
+org $8045BDA; db $CC                             // Selling confirmation prompt
+org $8045BBE; db $CC                             // Buying confirmation prompt
 
 org $807A8DA; db $08    // fix Hinawa's name in final battle
+org $8040742; nop; nop // Fix issue that made it so certain submenus didn't show the last item's E icon even when they should (odd positions in inventory)
+org $8052648; dd $000F423F // Make it so you can sell items up to 999999 DP (previously it was up to 999998 DP)
+//org $804BC90; db $F0    // Increase size of cleared lines in menus so it fully covers the screen
+
+//These hacks fix the "scrolling menus" bug and improve the responsiveness of menus
+
+//804CA9C tells each menu where to go
+//804E374 if it's a submenu
+//804CA6C for "specific submenus"
+//804E104 for "specific submenus" submenus. B is not an option anymore.
+
+//Inventory
+//org $804CAE0; bl refreshes.inv_spec_a
+org $804CB52; bl refreshes.lr
+org $804CC24; bl refreshes.up_and_down
+
+//Inventory submenu
+org $804E7E0; bl refreshes.inv_submenu_a
+org $804FD6A; bl refreshes.inv_use_throw; nop; nop //use
+org $804FBA4; bl refreshes.inv_use_throw; nop; nop //use, chicken/chick case
+org $804FEF4; bl refreshes.inv_use_throw; nop; nop //throw
+org $804FE64; bl refreshes.inv_give; nop; nop //give
+
+//Block A press if too soon
+org $804CAD4; bl refreshes.inv_block_a
+org $803E064; bl refreshes.inv_submenu_block_a
+
+//Equip
+org $804CC64; bl refreshes.equip_a; nop
+org $804CCA0; bl refreshes.equip_block_input_lr
+org $804CCAA; bl refreshes.lr
+org $804CCBE; bl main_menu_hacks.move_and_print
+
+//Inner Equip / "specific submenus"
+org $804E092; bl refreshes.b; nop //"specific submenus" wide
+org $804E14A; bl refreshes.up_and_down
+org $804F704; bl refreshes.inner_equip_a
+
+//Battle Memoes
+org $804D1CC; bl refreshes.b; nop; bl main_menu_hacks.delete_vram_battle_memory_to_inv
+org $804D2F6; bl refreshes.up_and_down_battle_memoes; nop; nop
+
+//PSI
+org $804CD22; bl refreshes.psi_prevent_input_a_select
+org $804CD5E; bl refreshes.psi_select; nop
+org $804CDB0; bl refreshes.lr
+org $804CE30; bl refreshes.withdraw_psi_memo_block_input_up_and_down
+org $804CE3C; bl refreshes.up_and_down
+org $804EDE6; bl refreshes.psi_used //Party-wide PSI, also fixes a bug in the base game
+org $804FFC2; bl refreshes.psi_used; nop; nop //Single-target PSI
+
+//Status
+org $804EE46; bl refreshes.status_a
+org $804CEB2; bl refreshes.status_block_input_lr; nop
+org $804CEBE; bl refreshes.status_lr
+org $804CEF4; bl main_menu_hacks.move_and_print
+org $804CF0A; bl main_menu_hacks.move_and_print
+
+//Skills
+org $804CF4C; bl refreshes.skills_b; nop
+org $804CFA0; bl refreshes.lr
+org $804D050; bl refreshes.up_and_down
+
+//Memo
+org $804D096; bl refreshes.memo_a; nop
+org $804D0EA; bl refreshes.withdraw_psi_memo_block_input_up_and_down
+org $804D0F6; bl refreshes.up_and_down
+
+//Inner Memoes
+org $804D138; bl refreshes.inner_memo_scroll; nop
+org $804D150; bl refreshes.b; nop
+
+//Buy
+org $804D4BA; bl refreshes.buy_block_lr
+org $804D4DC; bl refreshes.buy_lr; nop; nop
+org $804D516; bl refreshes.b; nop
+org $804D556; bl refreshes.buy_block_up_down
+org $804D562; bl refreshes.up_and_down
+org $804D5A8; bl refreshes.buy_block_lr
+org $804D5C8; bl refreshes.buy_lr; nop; nop
+org $804E358; bl refreshes.shop_block_b_update
+org $804E944; bl refreshes.buy_block_a
+org $805007A; bl refreshes.buy_a; nop; nop
+org $8050440; bl refreshes.sell_after_buy_a; nop; nop
+
+//Sell
+org $804D602; bl refreshes.sell_a; nop
+org $804D61C; bl refreshes.b; nop
+org $804D660; bl refreshes.sell_block_input_up_and_down
+org $804D66C; bl refreshes.up_and_down
+org $804D6BE; bl refreshes.switch_lr; nop
+org $804E9A4; bl refreshes.sell_confirmed_a
+org $80502FC; bl refreshes.sell_confirmed_printing_pressed_a
+org $804E9D4; bl refreshes.sell_confirmed_equipment_a
+org $80503CC; bl refreshes.sell_equipment_confirmed_printing_pressed_a
+
+//Deposit
+org $804D800; bl refreshes.deposit_a; nop
+org $804D818; bl refreshes.b; nop
+org $804D86E; bl refreshes.up_and_down
+org $804D8BC; bl refreshes.deposit_lr
+org $804F284; bl refreshes.deposit_printing_pressed_a
+
+//Withdraw
+org $804D8F8; bl refreshes.withdraw_a; nop
+org $804D910; bl refreshes.b; nop
+org $804D988; bl refreshes.withdraw_psi_memo_block_input_up_and_down
+org $804D994; bl refreshes.up_and_down
+org $804D9C0; bl refreshes.withdraw_block_input_lr
+org $804D9E0; bl refreshes.withdraw_lr; nop; nop
+org $804F328; bl refreshes.withdraw_printing_pressed_a
+
+//Remove text issue when going from inventory to battle memory
+org $804EB26; bl main_menu_hacks.delete_vram_inv_to_battle_memory
+
+//Fix issue with equipment when removing items from the inventory
+org $802A560; bl extra_hacks.position_equipment_item_removal
+
+//Make cheese consistent inside and outside of battle (Salsa is the default case)
+org $805CB84; bhi $805CBC2
 
 //============================================================================================
 //                                  NAMING SCREEN HACKS
@@ -430,9 +593,6 @@ org $9BA2DBC; incbin ./graphics/gfx_namingscreen.bin
 org $9B8FF74; incbin data_namingscreen1.bin
 org $80C6AAC; incbin data_namingscreen2.bin
 
-// Make the incorrect tile on the text speed/window flavour screen go away
-org $9BC04AA; db $97
-
 // Fully covers/erases "Don't Care" on the player naming screens
 org $804A3C4; db $06
 
@@ -452,6 +612,17 @@ org $804F56C; db $32,$F6
 //org $8053D1C; db $09
 //org $8053D8C; db $09
 
+// Make the game reprint stuff only when needed
+org $804DC7A; bl naming_screen_hacks.pressed_a_check_print
+org $804DCEC; bl naming_screen_hacks.pressed_b_check_print
+org $8042968; bl naming_screen_hacks.compare_currently_displayed_entry
+org $8042B90; bl naming_screen_hacks.compare_currently_displayed_entry
+org $804C77E; bl naming_screen_hacks.reprint_invalid_duplicated
+org $804E560; bl naming_screen_hacks.reprint_after_invalid_duplicated
+
+// If you use OAM for "Is this okay? Yes No", uncomment the line below
+org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
+
 // Disable L and R alphabet switching
 org $803E79F; db $E0
 
@@ -462,6 +633,9 @@ org $803E79F; db $E0
 // Cycle through two alphabets instead of three (all screens)
 //org $804DD34; db $20 // L
 //org $804DD76; db $20 // R
+
+// Allow characters to use more than one "Don't Care" name - From Jumpman
+//org $8050562; nop; nop
 
 // Alter namable characters' name lengths
 org $80C69D4; db $08
@@ -507,6 +681,8 @@ org $804DCB2; db $10
 // Change the sanctuary screen arrangement to match the factory screen one
 org $804A0F8; db $48
 org $9BBB7BC; incbin ./graphics/gfx_factory_arrangement.bin
+//org $9BBEFBC; incbin ./graphics/gfx_summary_arrangement.bin
+//org $9BBFFBC; incbin ./graphics/gfx_flavours_arrangement.bin
 
 // Change the sanctuary graphics to include the custom window border tiles
 org $9BB69FC; incbin ./graphics/gfx_sanctuaryborders.bin
@@ -546,14 +722,11 @@ org $804C9D2; db $10
 org $80488C2; bl main_menu_hacks.write_item_text
 org $803E9FC; bl main_menu_hacks.clear_data
 org $80489CE; bl main_menu_hacks.write_item_eos
-org $8048D2C; bl main_menu_hacks.check_for_eos
-org $8048DC6; bl main_menu_hacks.get_ram_address2
-org $8048EBA; bl main_menu_hacks.clear_swap_flag
 org $80492B2; bl main_menu_hacks.check_special_bit
-org $8048932; bl main_menu_hacks.store_total_letters; nop
-org $8048C78; bl main_menu_hacks.write_group_lengths
-org $80487FE; bl main_menu_hacks.load_curr_group_length1; nop; nop; nop; nop; nop
-org $8048D0A; bl main_menu_hacks.load_curr_group_length2
+org $804889C; bl main_menu_hacks.store_total_strings
+org $8048932; nop; nop; nop
+org $8048C78; bl main_menu_hacks.reset_processed_strings; b $8048CD4
+org $80487FE; bl main_menu_hacks.load_remaining_strings_external; nop; nop; nop; nop; nop
 org $803E996; bl main_menu_hacks.group_add_check
 
 // these changes make the game load all 22 letters of items names in various menus
@@ -600,17 +773,11 @@ org $8005622; mov r0,#0x7F
 org $8005638; add r0,#0xC
 
 // modifies Create10x10GlyphForCharacter for main dialog font
-org $8008C96
-  ldrb r0,[r1,#0x1]
-  strb r0,[r2,#0x8]
-  add  r2,r7,r3
-  ldrb r0,[r1,#0x10]
-  strb r0,[r2,#0x0]
-  ldrb r0,[r1,#0x11]
-  strb r0,[r2,#0x8]
-  nop
-  add  r3,r3,#1
-org $8008CAC; b $8008CC0
+org $8008C7A
+  mov  r1,sp
+  bl   main_script_hacks.fast_prepare_main_font
+  add  r7,sp,#0x18
+  b    $8008CC0
 
 // modifies the width calculation routines
 org $8009DEA
@@ -630,7 +797,7 @@ org $8002284                 // calculate the width
   b    $800239e
   
   +
-  ldr  r3,=#0x8D1CE78        // r3 has the main width table
+  ldr  r3,=#{main_font_width} // r3 has the main width table
   mov  r0,#0x02              // if the second bit of r2 is set, we're doing the 8x8 font
   and  r0,r2                 // and should update the address for the 8x8 width table
   cmp  r0,#0x02 
@@ -710,21 +877,29 @@ org $8008B56; bl main_script_hacks.move_to_next_glyph; nop
 // changes the letter per line limit from 22 to 255
 org $8008A0A; lsl r2,r2,#4
 org $8006B6A; lsl r4,r4,#4
+org $8006CE2; lsl r4,r4,#4
 org $8008B66; lsl r2,r2,#4
 org $8008BB2; lsl r0,r0,#4
 org $8006C30; dw $0D8A
+org $8006DA4; dw $0D8A
 org $800A09A; bl main_script_hacks.change_clear_amount
 org $8008A22
   mov r1,#0xC8
-  add r6,r2,r1
-  nop
+  bl  main_script_hacks.optimized_character_search_overworld
+  
+// saves data used in order to print overworld text faster
+org $8008B18; bl main_script_hacks.save_data_optimized_printing
 
 // fixes the flyover text, only 50 letters per line allowed
+org $8024F76; bl main_script_hacks.prepare_info_zone
 org $80098F0; bl main_script_hacks.flyover_fix1
 org $800959A; bl main_script_hacks.flyover_fix2
 
 // fixes Block 0 display stuff, mostly with the Bug Memory and Pig Notebook
 org $8009730; bl main_script_hacks.block0_text_fix2
+org $8009428; bl main_script_hacks.improve_notebook_printing; b $8009452
+org $80071D2; bl main_script_hacks.remove_tiles_showing_notebook
+org $80071DC; bl main_script_hacks.remove_tiles_cleaning_notebook
 
 // make Block 0 cut scenes work properly
 org $80244F8; dd $02014340       // block 0 text will be handled here
@@ -768,12 +943,13 @@ org $8021FFE; bl main_script_hacks.favfood_fix
 // of 6, this changes it to 8, don't know if it's ever used or how
 org $8021FCA; db $08
 
-// make debug room menus pad the text with 3Fs instead of ACs for test purposes
-org $80226FC; dw $00EB,$00EB
-
 // set a special flag when 4+ menu option line is being processed
 org $802269C; bl main_script_hacks.set_specialmenuflag
 
+//Change where multi-break menus are stored and how they work
+org $80226F8; dd $203F800-$201B7A0
+org $80226A8; b $80226BA
+org $80226C0; bl main_script_hacks.end_line_multi_menu
 
 //============================================================================================
 //                                  MISC OUTSIDE HACKS
@@ -783,14 +959,16 @@ org $802269C; bl main_script_hacks.set_specialmenuflag
 org $80C20E8; db $B1         // Goods
 org $80C20EA; db $B1         // Equip
 org $80C20EC; db $B1         // PSI
-org $80C20EE; db $B1        // Status
+org $80C20EE; db $B1         // Status
 org $80C20F0; db $B1         // Sleep
 
 // centers all the Sleep Mode confirm text better
-//org $8038578; db $55
-//org $803858C; db $91
-//org $80C20D8; db $43
-//org $80C20DC; db $7F
+org $8038578; db $55
+org $803858C; db $91
+
+// centers all the Sleep Mode confirm text cursors better
+org $80C20D8; db $44
+org $80C20DC; db $80
 
 // move the names in outside nameboxes up 1 pixel to look nicer
 org $8038B1A; add r2,r5,#3
@@ -805,18 +983,37 @@ org $8022F6C
   pop  {pc}
 
 // Modifies the routine that loads the 16x16 font data for outside menu box labels
-org $80092D6
-  ldrb r0,[r1,#0x1]
-  strb r0,[r2,#0x8]
-  add  r2,r5,r3
-  ldrb r0,[r1,#0x10]
-  strb r0,[r2,#0]
-  ldrb r0,[r1,#0x11]
-  strb r0,[r2,#0x8]
-  nop
-  add  r3,r3,#1
-org $80092EC
+org $80092BA
+  mov  r4,r6
+  add  r4,#0x85
+  mov  r1,sp
+  bl   outside_hacks.fast_prepare_main_castroll_font
+  cmp  r5,#0                 // skip printing if the tiles are empty
+  beq  $8009322
+  cmp  r5,#2                 // partially skip printing if the first tile is empty
+  beq  $8009312
   b    $8009300
+  
+org $8009302
+  ldrb r2,[r4,#0]
+  lsr  r2,r2,#4
+  mov  r1,sp
+  mov  r3,#2
+  bl   $8001EA4
+  cmp  r5,#2                 // skip printing if the bottom tiles are empty
+  blt  $8009322
+
+org $800931A; add r1,sp,#0x10
+
+// Speed up the routine that loads the 8x8 font data for outside
+org $8009336
+  mov  r1,sp
+  bl   sprite_text_weld.fast_prepare_small_font
+  cmp  r0,#0                 // skip printing if the tile is empty
+  beq  $800938A
+  b    $8009368
+
+org $8009374; mov r3,#1; bl $8001EA4; b $800938A
 
 // moves gray name box text up one pixel
 org $8023576; db $71
@@ -830,9 +1027,18 @@ org $8023C2A; db $FB
 org $8023B98; db $03
 
 // makes the gray name boxes fit the names better
-org $8023A10; bl outside_hacks.gray_box_resize
-org $8023B32; bl outside_hacks.gray_box_resize
-org $8023CCC; bl outside_hacks.gray_box_resize
+org $8023A10; bl outside_hacks.gray_box_resize; cmp r7,#0x31
+org $8023A50; bl outside_hacks.gray_box_number
+org $8023B32; bl outside_hacks.gray_box_resize; cmp r7,#0x31
+org $8023B72; bl outside_hacks.gray_box_number
+org $8023CCC; bl outside_hacks.gray_box_resize; cmp r7,#0x31
+org $8023D0C; bl outside_hacks.gray_box_number
+
+// makes it so names occupy less obj tiles
+org $8009070; bl outside_hacks.different_oam_size
+org $800912C; bl outside_hacks.different_tiles_storage; nop; nop; nop; nop; nop; nop; nop
+org $80091B8; bl outside_hacks.different_tiles_add
+org $80091C2; bl outside_hacks.different_tiles_print
 
 //============================================================================================
 //                              SOUND PLAYER & BATTLE HACKS
@@ -843,7 +1049,10 @@ org $8088E80; bl battle_hacks.get_glyph_address; b $8088E90
 
 // loads 11 rows of the 16x16 font instead of 10, affects sound player and battle text
 // It's important that only 11 rows be loaded instead of the full 16
-org $808949C; mov r0,#0xB; nop
+org $808948C; bl battle_hacks.fast_printing; b $80894AC
+
+// loads a different address for the e symbol's 1bpp version
+org $8088EC4; dd {e_symbol_1bpp}
 
 // this hack lets the game clear out 11 rows of a font letter when erasing stuff
 org $8089156; mov r0,#0xB; nop
@@ -926,10 +1135,40 @@ org $807D31E
   nop
 
 // these hacks save/clear data for the custom CC hacks
-org $807A746; bl battle_hacks.clear_current_enemy  // clears current enemy #, fixes "The Flint"
-org $80809FC; bl battle_hacks.save_current_enemy   // saves current enemy #, needs improvement
-org $8062C26; bl battle_hacks.save_total_enemies   // saves total # of enemies
-org $8064984; bl battle_hacks.save_current_item    // saves current item #
+org $807A746; bl battle_hacks.clear_current_enemy        // clears current enemy #, fixes "The Flint"
+org $80809FC; bl battle_hacks.save_current_enemy         // saves current enemy #, needs improvement
+org $8062C26; bl battle_hacks.save_total_enemies         // saves total # of enemies
+org $8064984; bl battle_hacks.save_current_item          // saves current item #
+org $807B16C; bl battle_hacks.save_current_enemy_1       //General menus
+org $8073E40; bl battle_hacks.save_current_enemy_2
+org $8073740; bl battle_hacks.save_current_enemy_3       //Damage
+org $8073EEC; bl battle_hacks.save_current_enemy_4       //Shields - Refresh
+org $8074CE8; bl battle_hacks.save_current_enemy_1       //Paralysis - Sleep - Solidification
+//org $80BABD4; bl battle_hacks.save_current_enemy_5       //Called by stat decrease/increase - Problem, evil
+org $807B52C; bl battle_hacks.save_current_enemy_6; nop  //Death
+org $80BC068; bl battle_hacks.save_current_enemy_7       //Poison
+org $809D2A4; bl battle_hacks.save_current_enemy_8       //Feeling Strange
+org $80BBF5C; bl battle_hacks.save_current_enemy_7       //Fire
+org $8078704; bl battle_hacks.save_current_enemy_9       //Generic action
+org $80BC4D2; bl battle_hacks.save_current_enemy_10      //No effect
+org $8078C40; bl battle_hacks.save_current_enemy_11      //No visible effect
+org $8079A4E; bl battle_hacks.save_current_enemy_10      //It didn't work
+org $80B3640; bl battle_hacks.save_current_enemy_12      //There was no effect (PK Flash on party)
+//org $808208C; bl battle_hacks.save_current_enemy_13      //Can't act (No PP left)
+//org $8074238; bl battle_hacks.save_current_enemy_14      //Feeling strange enemy
+org $8075012; bl battle_hacks.save_current_enemy_15      //No PPs
+org $80B2E24; bl battle_hacks.save_current_enemy_16      //Shield Killer
+org $80BEFEC; bl battle_hacks.save_current_enemy_17      //Shield Snatcher
+org $80AF0EC; bl battle_hacks.save_current_enemy_18      //Feeling strange enemy (group)
+org $80AF102; bl battle_hacks.save_current_enemy_18      //Feeling strange enemy (alone)
+org $80755A4; bl battle_hacks.save_current_enemy_4       //Status affliction
+org $809E3A8; bl battle_hacks.save_current_enemy_19      //Dancing
+org $809D47E; bl battle_hacks.save_current_enemy_20      //Feeling strange character (eating)
+org $809D48C; bl battle_hacks.save_current_enemy_21      //Feeling strange character (acting)
+org $80BB916; bl battle_hacks.save_current_enemy_22      //Time bomb explodes
+org $8078602; bl battle_hacks.save_current_enemy_23      //Target
+org $809C670; bl battle_hacks.save_current_enemy_24      //Salsa's Mimic
+//org $806074C; //Getting revived from items
 
 // this code actually executes the custom control codes
 org $806E464; push {lr}; bl battle_hacks.execute_custom_cc; b $806E47A
@@ -943,14 +1182,6 @@ org $80B3F66; bl battle_hacks.item_steal_text2; b $80B3FE8
 //============================================================================================
 //                                    GRAPHICS HACKS
 //============================================================================================
- 
-// Insert new 16x16 font + cast roll pre-welded font
-//org $8CE39F8; fill $8192,$0
-org $8CE39F8; incbin font_mainfont.bin
-org $8CE59F8; incbin font_castroll.bin
-
-// Insert new 8x8 font
-org $8D0B010; incbin font_smallfont.bin
 
 // insert ATM graphics
 org $9AFD8D0; incbin ./graphics/gfx_frogatm.bin
@@ -964,7 +1195,7 @@ org $8F7C4BC; incbin ./graphics/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin ./graphics/gfx_chaptertitles_trans[c].bin
+org $9F90000; incbin ./graphics/gfx_chaptertitles_[c].bin
 org $9B03580; incbin ./graphics/gfx_chapt1-4_arrangement.bin
 org $9B05580; incbin ./graphics/gfx_chapt5-8_arrangement.bin
 
@@ -976,7 +1207,6 @@ org $9C98A28; incbin ./graphics/gfx_youwon_transfixed.bin
 
 // Insert text speed/window flavor graphics
 org $9BA141C; incbin ./graphics/gfx_flavours.bin
-
 
 // LIMITATION: if using commands, the text is too long
 // For use with base rom.
@@ -1000,86 +1230,148 @@ org $9C8EED0; db $E8
 org $9C8EED6; db $E8
 org $9C8EEDC; db $E8
 
-
-
 // insert new "LAB" graphics to replace "LABO"
 org $8F0E670; incbin ./graphics/gfx_lab1_[c].bin
 org $8F0E9E0; incbin ./graphics/gfx_lab2_[c].bin
 
-// Translation for Goods > Give screen and save
-org $9FD44A0; incbin ./graphics/gfx_offdef_[c].bin
-org $9B8FFC4; dd $9FD44A0-$9B8FFC0
+// Change OFE/DFE to OFF/DEF in Goods > Give screen
+org $9F8A194; incbin ./graphics/gfx_offdef_[c].bin
+org $9B8FFC4; dd $9F8A194-$9B8FFC0
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256B20
 org $9F92000; incbin ./graphics/gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
-org $9F86120; incbin ./graphics/gfx_starsprite.bin
+define star_sprite_address $9F86120
+org {star_sprite_address}; incbin ./graphics/gfx_starsprite.bin
 
-//Bonus-Grafik
-org $8D50A00; incbin ./graphics/gfx_trans_keep_out_[c].bin
-org $9B9D808; incbin ./graphics/gfx_battle_[c].bin
-org $8E2B95C; incbin ./graphics/gfx_check1_[c].bin
+//Ver 1.3 stuff after this
 
-org $87F2B13; dd $9F888D4-$8D3B4E0
-org $9F888D4; incbin ./graphics/gfx_check2_[c].bin
-org $8DB555C; incbin ./graphics/gfx_debugroom_[c].bin
-org $9C926C8; incbin ./graphics/gfx_hit.bin
-org $9B9D564; incbin ./graphics/gfx_up_down_[c].bin
+//Fixes TaneTane Island's glitched tileset
 
-org $9AF6480; incbin ./graphics/gfx_kp_pp.bin
-org $9C9B108; incbin ./graphics/gfx_battle_kp_pp.bin
-org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
+org $9FAA450; incbin ./graphics/gfx_tanetane_layer1_arrangement_[c].bin
+org $8F904B4; dd $0101A414 //Layer 1's pointer
+org $8FC9004; incbin ./graphics/gfx_tanetane_layer2_arrangement_[c].bin
+org $9FAA7B0; incbin ./graphics/gfx_tanetane_layer3_arrangement_[c].bin
+org $8F904BC; dd $0101A774 //Layer 3's pointer
 
-org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
-org $8D3CD4C; dd $9DD9F70-$8D3B4E0
-org $9DD9F70; incbin ./graphics/gfx_charge2_[c].bin
-org $8D3D928; dd $9F88410-$8D3B4E0
-org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
+//Fixes the unused cutscene's tileset
 
-// Unused
-//org $8E3E9F4; incbin ./graphics/gfx_sheriffoffice1_[c].bin
+org $8FF423C; incbin ./graphics/gfx_cutscene_layer2_arrangement_[c].bin
+org $8FF44CC; incbin ./graphics/gfx_cutscene_layer3_arrangement_[c].bin
+org $90A596C; incbin ./graphics/gfx_cutscene_[c].bin
 
-org $8DD5D60; incbin ./graphics/gfx_sheriffoffice2_[c].bin
+//Changes Bom to Boom
+org $98202D0; incbin ./graphics/gfx_bom.bin
+org $8E8ECEC; incbin ./graphics/gfx_bom_npc_[c].bin
+
+//Stuff for other translations
+
+// - Chimera Lab
+org $8D5CC7C; incbin ./graphics/gfx_lab_movie_[c].bin
+org $8D5D0A8; incbin ./graphics/gfx_lab_elevator1_[c].bin
+org $9B68584; incbin ./graphics/gfx_lab_elevator_map.bin
+org $8D5E7E4; incbin ./graphics/gfx_lab_elevator_animation_[c].bin
+org $8D70DCC; incbin ./graphics/gfx_lab_elevator_animation2_[c].bin
+org $8D85B00; incbin ./graphics/gfx_lab_elevator_floors_[c].bin
+org $8E7D800; incbin ./graphics/gfx_lab_box1_[c].bin
+org $8D767F0; incbin ./graphics/gfx_lab_box2_[c].bin
+org $8E79DA8; incbin ./graphics/gfx_lab_box3_[c].bin
+org $8D70764; incbin ./graphics/gfx_lab_elevator2_[c].bin
+//These are just in case you really need them
+org $90B9198; incbin ./graphics/gfx_lab_arrangement_b1f_[c].bin
+org $90C16DC; incbin ./graphics/gfx_lab_arrangement_2f_room2_[c].bin
+org $90BCF68; incbin ./graphics/gfx_lab_arrangement_1f_[c].bin
+org $90BE970; incbin ./graphics/gfx_lab_arrangement_1f_room_[c].bin
+org $90C0078; incbin ./graphics/gfx_lab_arrangement_2f_[c].bin
+org $90C2A54; incbin ./graphics/gfx_lab_arrangement_2f_room_[c].bin
+org $90C4768; incbin ./graphics/gfx_lab_arrangement_3f_room1_[c].bin
+org $90C4DC8; incbin ./graphics/gfx_lab_arrangement_3f_room2_[c].bin
+
+// - Thunder Tower
+org $8D5FE3C; incbin ./graphics/gfx_thunder_elevator_extern_[c].bin
+org $8D530BC; incbin ./graphics/gfx_thunder_elevator_intern_[c].bin
+
+// - Club Titiboo
+org $8D50A00; incbin ./graphics/gfx_club_keepout_[c].bin
+org $8D3C5D4; dd $9CE0598-$8D3B4E0
+org $9CE0598; incbin ./graphics/gfx_ropeway_bottom_[c].bin
+org $8D3BF2C; dd $9CE0D00-$8D3B4E0
+org $9CE0D00; incbin ./graphics/gfx_ropeway_top_[c].bin
+org $8D5A2A8; incbin ./graphics/gfx_titiboo_oil_[c].bin
+
+// - Debug Room
+org $8DB555C; incbin ./graphics/gfx_debug_[c].bin
+
+// - Tazmily
+org $8DD2260; incbin ./graphics/gfx_bazar1_[c].bin
+org $8DD1ECC; incbin ./graphics/gfx_bazar2_[c].bin
+org $9C68724; incbin ./graphics/gfx_bazar_credits.bin
+// SheriffOffice is unused
 org $8D3C134; dd $9CFEFA8-$8D3B4E0
 org $9CFEFA8; incbin ./graphics/gfx_sheriffoffice3_[c].bin
+org $8DD5D60; incbin ./graphics/gfx_sheriffoffice2_[c].bin
+// org $9640AD0; incbin ./graphics/gfx_knock.bin		Currently HARDCODED
+org $9692350; incbin ./graphics/gfx_ice.bin
 
-org $8D3DDB0; dd $9F87D5C-$8D3B4E0
-org $9F87D5C; incbin ./graphics/gfx_welcome_[c].bin
-
-org $8E74370; incbin ./graphics/gfx_highwaycafe_[c].bin
-
-org $8DD2260; incbin ./graphics/gfx_thomasbasar1_[c].bin
-org $8DD1ECC; incbin ./graphics/gfx_thomasbasar2_[c].bin
-
-org $8D3CF4C; dd $9F87A5C-$8D3B4E0
-org $9F87A5C; incbin ./graphics/gfx_new_[c].bin
-
-org $8F17844; incbin ./graphics/gfx_theater_[c].bin
-
-org $8D5D0A8; incbin ./graphics/gfx_b1f_[c].bin
-org $9B68584; incbin ./graphics/gfx_b1f_map.bin
-
-org $9B73A88; incbin ./graphics/gfx_highway_jumbled.bin
-
-org $9B9C364; incbin ./graphics/gfx_variousmenuitems.bin
-
-org $9AF4EE0; incbin ./graphics/gfx_dp_menu.bin
-
-org $9CA6D68; incbin ./graphics/gfx_sound_player.bin
-
-org $8D3C5D4; dd $9FAA890-$8D3B4E0
-org $9FAA890; incbin ./graphics/gfx_ropeway1_[c].bin
-org $8D3BF2C; dd $8F0D480-$8D3B4E0
-org $8F0D480; incbin ./graphics/gfx_ropeway2_[c].bin
-
-org $8E3F6A0; incbin ./graphics/gfx_forest_[c].bin
-
+// - General
 org $8E5D270; incbin ./graphics/gfx_end1_[c].bin
 org $8EEDE28; incbin ./graphics/gfx_end2_[c].bin
 org $8EEE358; incbin ./graphics/gfx_end3_[c].bin
+org $9AF4EE0; incbin ./graphics/gfx_currency.bin
+org $9AF6480; incbin ./graphics/gfx_hp_pp_battle.bin
+org $9C9B108; incbin ./graphics/gfx_hp_pp.bin
+org $9B9C364; incbin ./graphics/gfx_various_menu1.bin
+org $9B9D564; incbin ./graphics/gfx_various_menu2_[c].bin
+org $9B9D808; incbin ./graphics/gfx_start_battle_[c].bin
+org $9C97CE8; incbin ./graphics/gfx_exit_battle.bin
+org $9C926C8; incbin ./graphics/gfx_combo.bin
+// org $9C5F340; incbin ./graphics/gfx_main_menu_[c].bin	Currently HARDCODED
+org $9CA6D68; incbin ./graphics/gfx_sound_player.bin
+//org $9CA6928; incbin ./graphics/gfx_music.bin
+org $967A0D0; incbin ./graphics/gfx_happy_end.bin
+org $993F270; incbin ./graphics/gfx_sprays.bin
 
+// - New Pork City
+org $8E8DBAC; incbin ./graphics/gfx_ticket_[c].bin
+org $8E9CB2C; incbin ./graphics/gfx_beauty_intern1_[c].bin
+org $8E9CEF0; incbin ./graphics/gfx_beauty_intern2_[c].bin
+org $8F15E9C; incbin ./graphics/gfx_beauty_extern_[c].bin
+org $8F0A464; incbin ./graphics/gfx_heli_[c].bin
+//org $8F0D480; incbin ./graphics/gfx_welcome_[c].bin
+org $8D3DDB0; dd $9F87D5C-$8D3B4E0
+org $9F87D5C; incbin ./graphics/gfx_welcome_[c].bin
+org $8F1E0BC; incbin ./graphics/gfx_vikings_[c].bin
+// org $8F1EA7C; incbin ./graphics/gfx_park_[c].bin
+org $8F15360; incbin ./graphics/gfx_amusement_[c].bin
+org $8F17844; incbin ./graphics/gfx_theater_[c].bin
+org $98EDAD0; incbin ./graphics/gfx_police.bin
+org $8F217FC; incbin ./graphics/gfx_porky_empire_[c].bin
+
+// - Highway
+org $8E2539C; incbin ./graphics/gfx_charge1_[c].bin
+org $8D3CD4C; dd $9CE0994-$8D3B4E0
+org $9CE0994; incbin ./graphics/gfx_charge2_[c].bin
+org $8D3D928; dd $9F88410-$8D3B4E0
+org $9F88410; incbin ./graphics/gfx_charge3_[c].bin
+org $8E74370; incbin ./graphics/gfx_highwaycafe_[c].bin
+//org $8ED4C38; incbin ./graphics/gfx_cafe_top_[c].bin
+//org $8ED4930; incbin ./graphics/gfx_cafe_bottom_[c].bin
+
+// - Other Graphics
+org $8E2B95C; incbin ./graphics/gfx_check1_[c].bin
+org $87F2B13; dd $9F888D4-$8D3B4E0
+org $9F888D4; incbin ./graphics/gfx_check2_[c].bin
+org $8D3CF4C; dd $9F87A5C-$8D3B4E0
+org $9F87A5C; incbin ./graphics/gfx_new_[c].bin
+org $9B73A88; incbin ./graphics/gfx_highway_jumbled.bin
+
+
+//Put in a swapped version of the menu text palettes
+define alternate_menu_text_palette $9FABFC0
+org {alternate_menu_text_palette}; incbin ./graphics/gfx_menu_text_swapped_palette.bin
+org $803FAA2; bl main_menu_hacks.add_extra_menu_palette
 
 //============================================================================================
 //                                    SOUND HACKS
@@ -1094,12 +1386,6 @@ incsrc sound_hacks.asm
 //                                     DATA FILES
 //============================================================================================
 
-// Insert new font width table
-org $8D1CE78; incbin font_mainwidths.bin
-
-// insert 8x8 font width table
-org $8D1CF78; incbin font_smallwidths.bin
-
 // insert translated item names
 org $8D1EE84; dd $0126D588
 org $9F8C400; incbin text_itemnames.bin
@@ -1109,16 +1395,17 @@ org $8D1EE90; dd $00FE4F6E
 org $9D03DE6; incbin text_charnames.bin
 
 // insert translated enemy names
+define enemynames_address $9CFFDA0
 org $8D1EE98; dd $00FE0F28
-org $9CFFDA0; incbin text_enemynames.bin
+org {enemynames_address}; incbin text_enemynames.bin
 
 // insert the abbreviated enemy names
 org $8D23494; incbin text_enemynames_short.bin
 
 // insert music titles
-org $8086CF4; dd $09FC5528
-org $9C8F38C; dd $09FC5528
-org $9FC5528; incbin text_musicnames.bin
+org $8086CF4; dd $09FD8000
+org $9C8F38C; dd $09FD8000
+org $9FD8000; incbin text_musicnames.bin
 
 // inserts misc. sound player menu text
 org $9C926A0; dd $FF06D298
@@ -1161,13 +1448,16 @@ org $9C92698; dd $0031FAA0
 org $9FB0400; incbin text_battletext.bin
 
 // insert special text used by custom control codes
-org $8D0829C; incbin text_custom_text.bin
+define custom_text_address $8D0829C
+org {custom_text_address}; incbin text_custom_text.bin
 
-// insert a custom enemy data table, used by our custom control codes
-org $8D08A6C; incbin data_enemy_extras.bin
+// insert a custom enemy data table, used by our custom control codes Prev=8D08A6C
+define enemy_extras_address $9FD4930
+org {enemy_extras_address}; incbin data_enemy_extras.bin
 
 // insert a custom item data table, used by our custom control codes
-org $9F89000; incbin data_item_extras.bin
+define item_extras_address $8D090D9
+org {item_extras_address}; incbin data_item_extras.bin
 
 // insert menu text
 org $9B90124; dd $FF175818
@@ -1189,8 +1479,8 @@ org $8D1EEA8; dd $00FE7E52
 org $9D06CCA; incbin text_statuses.bin
 
 // inserts enemy description text
-org $1B90134; dd $00032686
-org $1B90138; dd $00032886
+org $9B90134; dd $00032686
+org $9B90138; dd $00032886
 org $9BC2644; incbin text_enemydescriptions.bin
 
 // inserts map names
@@ -1224,7 +1514,7 @@ org $9FB0300; incbin text_sleep.bin
 //============================================================================================
 
 // Big cool battle memory star sprite hack
-org $803E6FC; push {lr}; bl extra_hacks.allenemies
+org $804565C; bl extra_hacks.allenemies
 
 // New icon for bell ringer item
 org $8036E90; push {r4,lr}; bl extra_hacks.bellringer; pop {r4,pc}
@@ -1271,6 +1561,348 @@ org $80C4148; db $00 // Theater projector room
 org $80C4178; db $00 // Upstairs hallway (outside Leder's room)
 org $80C4184; db $00 // Leder's room  
 
+//After this line is v1.3 stuff!
+
+//Changes the text of Jumbo Shrimp Soup and Rich Kid Pork Stew to "eat"
+org $80E8548; db $46
+org $80E8914; db $46
+
+//Changes sheep's position in scene F6
+org $914DEF7; db $1D
+
+//Fixes Thunder Tower's Frog
+org $9157CE9; dd $E0001450
+org $9157CF2; db $1B
+
+//Fixes Lucas talking in chapter 5
+org $92F561C; dd $FFFFFF01
+
+//Fix issue in which Lucas' sprite would become Boney's because of missing ifs, we're also shuffling other stuff to save space
+org $934E4A4; incbin logic_pointer_36C.bin
+org $934E4B4; incbin logic_code_36C.bin
+org $919A784; dd $001B8338
+org $919A788; dd $001B8354
+org $919A78C; dd $00E383F0
+org $919A790; dd $00E38400
+org $9350F48; incbin logic_36D.bin
+org $9FD1000; incbin logic_36E.bin
+
+//Fix wrong collision data for man in bathroom: http://archivededamien.blogspot.com/2019/02/petit-glitch-decouvert-recemment.html#links
+org $9163DD8; db $01
+org $9163DE4; db $70
+org $9163DE7; db $00
+
+//Fix gift boxes issues in room 025, optimizing sprite usage
+org $913E1D4; incbin object_table_4_025_segment.bin
+
+//Fix gift boxes issues in room 1D9 and 058 using room 346 as a reference - 346's sprite table = 1162428
+
+//Insert new sprites
+org $9FD2000; incbin object_table_1_058.bin
+org $9FD21E0; incbin object_table_4_058.bin
+org $9FD23C0; incbin object_table_1_1D9.bin
+org $913323C; dd $00E9F4A8
+org $9133248; dd $00E9F688
+org $9135050; dd $00E9F868
+
+//Insert new game logic for 058, we'll also move the one after it, since it's much smaller
+org $921DE88; incbin logic_pointer_058.bin
+org $921DEB4; incbin logic_code_058.bin
+org $9198EE4; dd $00E39948
+org $9198EE8; dd $00E3995C
+org $9FD2558; incbin logic_059.bin
+
+//Remove original gift box's collision of 058
+org $8FC547C; incbin ./graphics/gfx_forest_layer3_[c].bin
+
+//Remove overflows from 1D9
+org $8F77A3C; incbin ./graphics/gfx_ice_highroad_palette.bin
+//Tileset graphics
+org $8D3CD38; dd $01297290
+org $9FD2770; incbin ./graphics/gfx_highroad_ice_1_[c].bin
+org $8D3D92C; dd $01297520
+org $9FD2A00; incbin ./graphics/gfx_highroad_ice_2_[c].bin
+org $8D3D934; dd $01297860
+org $9FD2D40; incbin ./graphics/gfx_highroad_ice_3_[c].bin
+org $8D3D938; dd $01297D90
+org $9FD3270; incbin ./graphics/gfx_highroad_ice_4_[c].bin
+
+//Map Tile Data
+org $904E134; dd $00F85BB4
+org $9FD3580; incbin ./graphics/gfx_highroad_ice_tiledata_[c].bin
+
+//Layers info
+//org $8F91670; dd $01043E24
+//org $9FD3E60; incbin ./graphics/gfx_highroad_layer2_[c].bin
+org $8F91674; dd $010442C4
+org $9FD4300; incbin ./graphics/gfx_highroad_layer3_[c].bin
+
+//Insert new game logic for 1D9, we'll also move the one after it, since it's much smaller
+org $9199AE8; dd $0016DFEC
+org $9306BC0; incbin logic_pointer_1D9.bin
+org $9306BFC; incbin logic_code_1D9.bin
+org $9199AEC; dd $00E373F0
+org $9199AF0; dd $00E37420
+org $9FD0000; incbin logic_1DA.bin
+
+//Remove High Road's entry
+org $916612C; dd $00000000
+org $9166130; dd $00000000
+org $9166134; dd $00000000
+org $9166138; dd $00000000
+
+//Remove Forest's entry
+org $916638C; dd $00000000
+org $9166390; dd $00000000
+org $9166394; dd $00000000
+org $9166398; dd $00000000
+
+//Fix issue with sound at Lydia's House (Map 0x4F), the Mechorilla's sounds are all late normally
+org $8C9505A; db $A2
+
+//Add Multi Debug room: selected table = money on hand - 1'000'000 | money on hand address: 0x02004868
+org $9364430; incbin logic_multi_debug.bin
+org $9360076; db $EC //Change pointer to another script that does the exact same thing.
+
+//Update K9000's battle and overworld sprites
+org $97977B0; incbin ./graphics/gfx_k9000_sprite.bin
+org $9CDF638; incbin ./graphics/gfx_k9000_battle_[c].bin
+org $9C90EE0; dd $0004ECD8 //Repoint the sprite graphics
+org $9C90EE4; dd $0000084C //Update the length of the graphics
+
+//Update Nuclear Reactor Robot's battle and overworld sprites
+org $97690D0; incbin ./graphics/gfx_nuclear_sprite.bin
+org $9CDFE84; incbin ./graphics/gfx_nuclear_battle_[c].bin
+org $9C90DE0; dd $0004F524 //Repoint the sprite graphics
+org $9C90DE4; dd $000004B0 //Update the length of the graphics
+
+//Fix trades of the ghost
+org $93285C0; incbin data_ghost_fix.bin
+//org $80D3594; dw $0268
+//org $80D6204; dw $0268
+
+//Fix "Multiple PK Thunders" bug
+define target_num_table $9FD5F80
+define target_num_table_size $1C
+org {target_num_table}; incbin data_target_table.bin
+org $8075024; bl fix_synchronization.setup_action_beginning
+org $805DE2C; bl fix_synchronization.setup_battle_beginning
+org $805F47A; bl fix_synchronization.setup_turn_beginning
+org $8078418; bl fix_synchronization.fix_value_beginning_of_action_routine
+org $8078502; bl fix_synchronization.update_value
+org $8078582; bl fix_synchronization.end_routine
+
+//Fix flickering in Fassad's low voice talk with Lucas. (Script: 32-21)
+org $91E0FD8; dd $000DA801 //Make it so this text box doesn't display its speaker
+org $801D74C; bl main_script_hacks.speaker_different_unused_val_setup
+org $80239B8; bl main_script_hacks.speaker_different_unused_val_block
+
+//Fix Debug Room's Staff roll
+org $91C6880; incbin logic_00E.bin
+org $91C457C; db $15 //Add a new entry to 00E's logic
+org $91C45A6; dw $08B6 //Add the new entry's pointer
+org $91C46B1; db $0F //Replace old entry loader with this one
+org $9FD6000; incbin logic_00F.bin //Move this logic that's smaller
+org $9198C94; dd $00E3D3F0
+org $9198C98; dd $00E3D400
+
+//Fix wrong text being displayed for train money in Chapter 4-5
+//Block 38 - Tazmily station
+org $91E9249; db $55 //Two people
+org $91E925D; db $56 //Three people
+org $91E9271; db $57 //Four people
+//Block 47 - Factory station
+org $91F2B49; db $05 //Two people
+org $91F2B5D; db $06 //Three people
+org $91F2B71; db $07 //Four people
+
+//Fix issue with mirrors at Flint's house and Alec's house. Didn't do it in the end, seems to be hardcoded how the mirrors don't spawn if there's only one character and that's what makes it impossible to fix the issue
+//Pointers to Alec's house logic
+//org $9199084;
+//org $9199088;
+//Logic of Alec's house
+//org $92496A4;
+
+//Alec's house object table pointer
+//org $9133660;
+//Alec's house object table
+//org $9146EB0;
+
+//Fix issue where losing in the prologue removes all Claus' PPs.
+org $8001D5A; bl claus_pp_fix.main; pop {r1}; bx r1
+
+//Fix issue with mouse in block 632 always displaying "Talking to Salsa/Boney"'s line when it can never be interacted with as Salsa
+org $9199FD4; dd $00E3CBF0
+org $9199FD8; dd $00E3CC04
+org $9FD5800; incbin logic_pointer_277.bin
+org $9FD5814; incbin logic_code_277.bin
+
+//Fix issue with Thomas in block 91 disappearing if the pigmask notebook is collected and the sprite table is reloaded
+org $9222696; db $93 //Jump to next instruction set
+org $92226B4; dd $0093000C //Jump to next instruction set
+
+//New control codes for Game Logic
+org $8D2DCC8; dd extra_hacks.push_battle_memo_status+1 //04 00 9C 00
+org $8D2DCCC; dd $8005B35 //04 00 9D 00 - Resets the drawing mode
+org $8D2DCD0; dd extra_hacks.set_money_on_hand+1 //04 00 9E 00
+org $8D2DCD4; dd extra_hacks.push_money_on_hand+1 //04 00 9F 00
+org $8D2D8C8; dd $0
+org $8D2D8CC; dd $0
+org $8D2D8D0; dd $1
+org $8D2D8D4; dd $0
+
+//Add new npc to swap table in debug room
+org $93699D4; incbin logic_new_npc_debug.bin
+org $9360070; db $19
+org $93600A2; dw $264C
+org $9368049; db $0D
+org $9FD6B98; incbin object_tables_debug.bin
+org $9137120; dd $00EA4040; dd $00EA4220; dd $00EA42E0; dd $00EA4388; dd $00EA4430
+org $9FD7078; incbin logic_blocks_37F_380_381_382.bin
+org $919A80C; dd $00E3E468; dd $00E3E474; dd $00E3E4DC; dd $00E3E4EC
+org $919A81C; dd $00E3E77C; dd $00E3E788; dd $00E3E820; dd $00E3E82C
+
+//Fix pigmask in debug room changing sprite
+org $9369CD0; incbin logic_fix_debug_pigmask.bin
+org $93682E8; dd $270B000C
+org $93683F4; dd $270E000C
+
+//Fix Boney not having the right sprite if chapter 4 is accessed via the debug room option "Violet's Room"
+org $9366519; db $05
+org $9366601; db $05
+
+//Change missing mice lines to have a "One" mouse missing and a "X" mice missing
+org $92EA6D9; db $06
+org $92EA6E0; dd $00B9000D; dd $00A7000C
+org $92EA8E1; db $06
+org $92EA8E8; dd $0133000D; dd $0129000C
+org $92EA949; db $00
+org $92EA94D; db $0B
+org $92EA952; db $67
+
+//Make it so Boney's minimum level at the beginning of Chapter 4 is standardized
+org $91DF29D; db $0A
+org $91DF2AD; db $0A
+
+//Add back Leder's memo unlocking system
+org $91EA604; incbin logic_leder_memo.bin
+
+//Fix 16x16 wall tile being walkable on in Tanetane's cliff
+org $90778E8; incbin ./graphics/gfx_tanetane_cliff_tilemap_[c].bin
+
+//Fix swapped gift box flags in tanetane
+org $91669E8; db $A8
+org $9168758; db $AA
+
+//Fix item menu after memento is used
+org $80604CE; bl fix_mementos_item_menu.initial_setup
+org $807C056; bl fix_mementos_item_menu.setup
+org $807EB96; bl fix_mementos_item_menu.fix
+
+//Fix Leder's song issue in late chapter 2 and late chapter 3
+org $91A778C; incbin logic_leder_fix_song.bin
+
+//Fix the counter for Leder being active or inactive at wrong times
+org $91E84C4; dd $0000130E; dd $0000130E //Crossroad when Salsa's escaping
+org $931BD20; dd $04B0000C //Dropping from the fireplace in Lord passion's room
+org $931C194; incbin logic_leder_fix_counter_fireplace.bin
+org $9FD5F00; incbin logic_pointer_283.bin //Move ther pointers of the table next to that one in order to make room for the code
+org $919A02C; dd $00E3D2F0 //Point to the pointers
+
+//Fix issue in highway with slope that can be walked on
+org $9013AB4; incbin ./graphics/gfx_highway_layer3_[c].bin
+org $90D0140; incbin ./graphics/gfx_highway_graphics_[c].bin
+org $8D3D91C; dd $00394C60
+org $9FD74D4; incbin ./graphics/gfx_highway_tilemap_[c].bin
+org $904E01C; dd $00F89B08
+
+//Fix issue with Porky in Absolutely Safe Capsule when comboed
+org $809F45A; bl battle_hacks.fix_total_damage
+
+//Fix issue with equip and status showing old data when going from a non-valid character to a valid character
+org $80470B4; bl main_menu_hacks.delete_vram_equip; nop //Equip
+org $80472C8; bl main_menu_hacks.delete_vram_status; nop //Status
+
+//Fix Nana's age at the NPC's concert
+org $91649B4; db $41
+
+//Put code for "battle memo completeness" frog text in game logic
+//Shuffle other stuff to save space
+define logic_0EA_new_address $9FD5700
+org $9285D70; incbin logic_code_0E9.bin
+org {logic_0EA_new_address}; incbin logic_0EA.bin
+org $9199364; dd {logic_0EA_new_address}-$9198C10; dd {logic_0EA_new_address}+$10-$9198C10;
+
+//Improve performance for equip menu
+org $8047112; bl improve_performances_menus.equipment_vram_equip_descriptors //Load OAM entries in VRAM
+org $8043832; b $8043888 //Remove OAM entries
+org $804E0C8; bl improve_performances_menus.equip_avoid_left_reprint //Don't reprint left column
+org $804F780; bl improve_performances_menus.equip_avoid_left_reprint //Don't reprint left column
+
+//Improve performances for status menu
+org $80473D8; bl improve_performances_menus.status_vram_equip_descriptors //Load OAM entries in VRAM
+org $8044130; b $80441A2 //Remove OAM entries
+
+//Improve the in-battle inventory menu
+org $807E46E; bl battle_menus_improvement_hacks.inventory_printing_routine_ud_setup
+org $807E47C; bl battle_menus_improvement_hacks.inventory_printing_routine_up_down_call
+org $807E4AE; bl battle_menus_improvement_hacks.inventory_printing_routine_ud_setup
+org $807E4BC; bl battle_menus_improvement_hacks.inventory_printing_routine_up_down_call
+org $807E4FC; bl battle_menus_improvement_hacks.inventory_printing_routine_select_lr_call
+org $807E53C; bl battle_menus_improvement_hacks.inventory_printing_routine_select_lr_call
+org $807E57C; bl battle_menus_improvement_hacks.inventory_printing_routine_select_lr_call
+org $807E5BC; bl battle_menus_improvement_hacks.inventory_printing_routine_ab_call
+org $807E60C; bl battle_menus_improvement_hacks.inventory_printing_routine_ab_call
+
+//Improve the in-battle psi menu
+org $808C5FA; bl battle_menus_improvement_hacks.psi_printing_routine_ud_setup
+org $808C608; bl battle_menus_improvement_hacks.psi_printing_routine_up_down_call
+org $808C676; bl battle_menus_improvement_hacks.psi_printing_routine_ud_setup
+org $808C684; bl battle_menus_improvement_hacks.psi_printing_routine_up_down_call
+org $808C6C6; bl battle_menus_improvement_hacks.psi_printing_routine
+org $808C73A; bl battle_menus_improvement_hacks.psi_printing_routine
+org $808C794; bl battle_menus_improvement_hacks.psi_printing_routine
+org $808C7BA; bl battle_menus_improvement_hacks.psi_printing_routine
+org $808BFFC; bl battle_menus_improvement_hacks.psi_printing_routine_change_layer_call
+org $808C0B0; bl battle_menus_improvement_hacks.psi_printing_routine_change_layer_call
+
+//Improve the in-battle skills menu
+org $808DA34; bl battle_menus_improvement_hacks.skills_printing_routine
+org $808DA74; bl battle_menus_improvement_hacks.skills_printing_routine
+org $808DAB4; bl battle_menus_improvement_hacks.skills_printing_routine
+org $808DAF4; bl battle_menus_improvement_hacks.skills_printing_routine
+org $808DB34; bl battle_menus_improvement_hacks.skills_printing_routine
+org $808D5EC; bl battle_menus_improvement_hacks.skills_printing_routine_enter_call
+org $808DB74; nop; nop
+org $808DBC4; nop; nop
+
+//Prevent the map-lowering volume issue
+org $800B01A; bl outside_hacks.decrement_block_map
+org $801A1A4; bl outside_hacks.block_loading_map
+org $8026E4A; bl outside_hacks.decrement_block_map_inside
+org $802704C; bl outside_hacks.block_loading_map_inside
+
+//Fix option "Clay Factory" of Chapter 5's NPC in the Debug Room
+org $9362AC8; dd $00000A01
+
+//Fix Chapter 7's Kumatora when warping from Debug entries
+org $9369CE8; incbin logic_fix_debug_chapter7_kumatora.bin
+org $93676CC; dd $2730000C
+org $93676F8; dd $2733000C
+org $9367724; dd $2736000C
+org $9367750; dd $2739000C
+org $936777C; dd $273C000C
+
+//Change priority of top text in the naming screens to allow better caching
+org $80428FC; bl naming_screen_hacks.change_printing_order; b $8042988
+
+//Re-enable Caroline's Wess line - The Game Logic's pattern
+//suggests this line was mistakenly removed
+org $923F525; db $13
+
+//Fix Wess' house Area song being set to 74, which is Yado Inn's song
+org $919C538; dd $00004001
+
 //============================================================================================
 //                                  MEMO SCREEN STUFF
 //============================================================================================
@@ -1285,122 +1917,93 @@ org $8048500; bl extra_hacks.memo_counterfix2
 // Expand memo text
 org $804BFD4; bl extra_hacks.memo_stretch
 
-// Make status icons appear "correctly" in memo screen
-org $8049298; bl extra_hacks.memo_iconfix; nop; nop
+// Make printing work properly in the memo menu
+// Also changes the position of the right column in the withdrawing menu to be 4 pixels more to the right
+org $8048B98; bl extra_hacks.memo_printfix_storage; nop; nop; nop
+org $8049298; bl extra_hacks.memo_printfix_withdraw_positionfix; nop; nop
+org $80492A4; bl extra_hacks.memo_printfix_vertical
+
+// Expand buffer size for a memo page
+org $804807A; bl extra_hacks.memo_expand_buffer_start_routine
+org $80480DA; bl extra_hacks.memo_expand_buffer_middle_routine
+org $80480F0; bl extra_hacks.memo_expand_buffer_end_routine
+org $80488BE; bl extra_hacks.memo_expand_writing_buffer
+org $8048C34; bl extra_hacks.memo_expand_writing_buffer
+org $8048100; dw $4284
+org $80476BC; dd $0201A2AC
+
+// Make memo use strings terminated by 0xFFFFFFFF after every BREAK
+org $80488F9; db $49; nop
+org $8048904; bl extra_hacks.memo_eos
 
 // Make the pigmask not set the null memo flag
 //org $9369245; db $00
 
-// Fix the memo lookup table so it's not offset by -1
-org $80C7004; incbin data_memo_flags.bin
+// Fix the memo lookup table, now it's bigger!
+org $9FAA9F0; incbin data_memo_flags.bin
+org $8052AF0; dd $09FAA9F0 //Table's beginning
+org $8052AF4; dd $09FAAA96 //Table's second pointer, A6 bytes after the beginning
+org $8052AF8; dd $09FAAB3A //Table's third pointer, 14A bytes after the beginning
+org $804EF30; dd $09FAAB3A //Same thing as before
 
-
-
-//============================================================================================
-//                                    NEW FIXES
-//============================================================================================
-// makes it so names occupy less obj tiles
-org $8009070; bl outside_hacks.different_oam_size
-org $800912C; bl outside_hacks.different_tiles_storage; nop; nop; nop; nop; nop; nop; nop
-org $80091B8; bl outside_hacks.different_tiles_add
-org $80091C2; bl outside_hacks.different_tiles_print
-
-// Custom sob block for generic battle sprites for hit and miss and total damage
-define sob_battle_sprites $9F8A5F8
-org {sob_battle_sprites}; incbin misc_battle_sob.bin
-org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
-
-// Realign HITS graphic
-org $8065658; db $40
-
-// Fixes wrong enemy placement in battle memory. Only necessary when using ropesnake
-//org $80D0D28; incbin data_enemy.bin
-// This fixes wrong enemy placement in battles. Only necessary when using ropesnake
-//org $80C6D62; incbin data_enemy_memo_placement.bin
-
+org $8052ADA; db $52 //Increments the number of loaded memos, so the last one is loaded too
 
 //============================================================================================
-//                                   BUFFER HACKS
+//                                   DELETE ALL SAVES FIXING
 //============================================================================================
 
-//These hacks fix the "scrolling menus" bug
+//Hacks for the lag in the delete all saves screen
 
-//804CA9C tells each menu where to go
-//804E374 if it's a submenu
-//804CA6C for "specific submenus"
-//804E104 for "specific submenus" submenus. B is not an option anymore.
+org $80479DE; bl fix_lag_delete_all.add_extra_vram
+org $8045D5C; bl fix_lag_delete_all.change_background_priority_remove_oam
+org $804E7A4; bl fix_lag_delete_all.hide_background //Remove the window when "No" is pressed
+org $804E67A; bl fix_lag_delete_all.hide_background //Remove the window when "Yes" is pressed
 
-//Inventory
-//org $804CAE0; bl refreshes.inv_spec_a
-org $804CB52; bl refreshes.lr
-org $804CC24; bl refreshes.up_and_down
+org $8044BAE; mov r0,#2 //Make it so the "Chapter" text has priority 2
+org $80448C4; bl fix_lag_delete_all.change_level_priority
 
-//Inventory submenu
-//org $804E81C; bl refreshes.inv_submenu_a
+org $80427F8; bl fix_lag_delete_all.change_bg1_coords; bne $804280A
+org $803DDA0; mov r0,#4; nop  //Remove the window at startup
+org $8046780; bl fix_lag_delete_all.remove_starting_cursor //Remove cursor at startup
+org $804CA42; bl fix_lag_delete_all.hack //Set it back once we can read the input
 
-//Block A press if too soon
-org $804CAD4; bl refreshes.inv_block_a
-org $803E064; bl refreshes.inv_submenu_block_a
+//============================================================================================
+//                                   SUMMARY FIXING
+//============================================================================================
 
-//Equip
-org $804CC64; bl refreshes.equip_a; nop
-org $804CCAA; bl refreshes.lr
+//OAM hacks for the summary
 
-//Inner Equip / "specific submenus"
-org $804E092; bl refreshes.b; nop //"specific submenus" wide
-org $804E14A; bl refreshes.inner_equip_scroll
-org $804F704; bl refreshes.inner_equip_a
+//Set/Reset the flag, so everything works
+org $804A2EA; bl naming_screen_hacks.flag_reset
 
-//Memoes
-org $804D1CC; bl refreshes.b; nop
-org $804D306; bl refreshes.up_and_down
+//Stop the refreshing of the OAM if the flag is set
+org $803E6F0; bl naming_screen_hacks.impede_refresh_oam
 
-//PSI
-org $804CD5E; bl refreshes.select; nop
-org $804CDB0; bl refreshes.lr
-org $804CE3C; bl refreshes.up_and_down
+//If you want to use OAM for the entries below instead, comment them.
+//Also remember to uncomment the "Is this okay? Yes No" line in
+//the NAMING SCREEN HACKS section (the one for 8042EFC)
 
-//Status
-org $804CE78; bl refreshes.status_a;nop
-org $804CEBE; bl refreshes.status_lr
+//Remove the OAM entry for Favorite Food. Use graphics
+//org $8042DDC; mov r1,#1; neg r1,r1; mov r9,r1; add r2,#0x14; b $8042DFF
 
-//Skills
-org $804CF4C; bl refreshes.b; nop
-org $804CFA0; bl refreshes.lr
-org $804D050; bl refreshes.up_and_down
+//Remove the OAM entry for Favorite Thing. Use graphics
+//org $8042E2E; add r2,#0x14; b $8042E4B
 
-//Memo
-org $804D096; bl refreshes.memo_a; nop
-org $804D0F6; bl refreshes.up_and_down
+//Remove the OAM entry for Text Speed. Use graphics
+//org $8042E76; b $8042E93
 
-//Inner Memoes
-org $804D138; bl refreshes.inner_memo_scroll; nop
-org $804D150; bl refreshes.b; nop
+//Improve performances: use graphics for "Is This Okay? Yes No"
+//org $8042EEC; bl naming_screen_hacks.change_is_this_okay; b $8042F17
 
-//Buy
-org $804D4C6; bl refreshes.buy_lr; nop
-org $804D516; bl refreshes.b; nop
-org $804D562; bl refreshes.up_and_down
-org $804D5B2; bl refreshes.buy_lr; nop
+//============================================================================================
+//                                   8 LETTERS FAKE NAMES
+//============================================================================================
 
-//Sell
-org $804D602; bl refreshes.sell_a; nop
-org $804D61C; bl refreshes.b; nop
-org $804D66C; bl refreshes.up_and_down
-org $804D6BE; bl refreshes.switch_lr; nop
+//Makes it so Lucky's name can be properly matched if 8 letters long
+org $802164A; mov r2,#8; bl main_script_hacks.compare_strings_edited
 
-//Deposit
-org $804D800; bl refreshes.deposit_a; nop
-org $804D818; bl refreshes.b; nop
-org $804D86E; bl refreshes.up_and_down
-org $804D8A6; bl refreshes.switch_lr; nop
-
-//Withdraw
-org $804D8F8; bl refreshes.withdraw_a; nop
-org $804D910; bl refreshes.b; nop
-org $804D994; bl refreshes.up_and_down
-org $804D9CA; bl refreshes.switch_lr; nop
-
+//Makes it so Violet's name can be properly matched if 8 letters long
+org $8021676; mov r2,#8; bl main_script_hacks.compare_strings_edited
 
 //============================================================================================
 //                                    NEW HACK CODE
