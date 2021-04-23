@@ -294,7 +294,7 @@
 0091: When the tears ([STATUSICON 04 00]) just won't stop,[BREAK]one drop will do the trick.[END]
 0091-E: Wenn die Tränen ([STATUSICON 04 00]) einfach nicht aufhören[BREAK]wollen, wird ein Tropfen dir dabei helfen.[END]
 0092: The best solution for flea ([STATUSICON 07 00]) problems.[BREAK]They're gone before you know it.[END]
-0092-E: Das beste Mittel gegen Flöhe ([STATUSICON 07 00]). Sie[BREAK]sind schneller weg als du "Floh" sagen kannst.[END]
+0092-E: Das beste Mittel gegen Flöhe ([STATUSICON 07 00]). Sie sind[BREAK]schneller weg als du "Floh" sagen kannst.[END]
 0093: Removes all negative status effects,[BREAK]including incapacitation.[END]
 0093-E: Entfernt jegliche negative Statuseffekte,[BREAK]inklusive Ohnmächtigkeit.[END]
 0094: Removes all negative status effects and[BREAK]fully heals incapacitation.[END]

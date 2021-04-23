@@ -1941,10 +1941,7 @@ org $8048904; bl extra_hacks.memo_eos
 
 // Fix the memo lookup table, now it's bigger!
 org $9FAA9F0; incbin data_memo_flags.bin
-org $8052AF0; dd $09FAA9F0 //Table's beginning
-org $8052AF4; dd $09FAAA96 //Table's second pointer, A6 bytes after the beginning
-org $8052AF8; dd $09FAAB3A //Table's third pointer, 14A bytes after the beginning
-org $804EF30; dd $09FAAB3A //Same thing as before
+
 
 org $8052ADA; db $52 //Increments the number of loaded memos, so the last one is loaded too
 

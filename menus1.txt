@@ -193,7 +193,7 @@
 005E: Thief Tools[END]
 005E-E: Diebesinstrumente[END]
 005F: Sniff[END]
-005F-E: Schniefen[END]
+005F-E: Schnüffeln[END]
 0060: Monkey Tricks[END]
 0060-E: Affentricks[END]
 0061: None[END]

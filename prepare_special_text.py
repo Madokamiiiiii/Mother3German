@@ -56,4 +56,3 @@ else:
     valid_strings = read_txt_file(sys.argv[1])
     if valid_strings is not None:
         write_txt_file(sys.argv[2], valid_strings)
-    
