@@ -74,7 +74,7 @@
 022:Tazmily Village[END]
 022-E:Dorf Tazmily[END]
 023:Tazmily Village[BREAK]Cerulean Beach[END]
-023-E:Dorf Tazmily[END]Stand Cerulean[END]
+023-E:Dorf Tazmily[END]Azuria Strand[END]
 024:Cross Road[END]
 024-E:Kreuzungsstraﬂe[END]
 025:Cross Road[BREAK]Train Station[END]
