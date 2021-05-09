@@ -84,7 +84,7 @@
 0028: Fly Charm
 0028-E: Flug-Amulett
 0029: Bantam Charm
-0029-E: Bantam-Amulett
+0029-E: Zwerghuhn-Amulett
 002A: Feather Charm
 002A-E: Feder-Amulett
 002B: Pumice Charm
@@ -116,21 +116,21 @@
 0038: Awesome Cloak
 0038-E: Fantastischer Mantel
 0039: Manly Bandana
-0039-E: Männliches Bandana
+0039-E: Männliches Halstuch
 003A: Chick Bandana
-003A-E: Schickes Bandana
+003A-E: Schickes Halstuch
 003B: Sparrow Bandana
-003B-E: Spatzen-Bandana
+003B-E: Spatzen-Halstuch
 003C: Rail Bandana
-003C-E: Schienen-Bandana
+003C-E: Schienen-Halstuch
 003D: Swallow Bandana
-003D-E: Schwalben-Bandana
+003D-E: Schwalben-Halstuch
 003E: Crow Bandana
-003E-E: Krähen-Bandana
+003E-E: Krähen-Halstuch
 003F: Kite Bandana
-003F-E: Drachen-Bandana
+003F-E: Drachen-Halstuch
 0040: Horus Bandana
-0040-E: Horus-Bandana
+0040-E: Horus-Halstuch
 0041: Ordinary Hat
 0041-E: Gewöhnlicher Hut
 0042: Cow Hat
