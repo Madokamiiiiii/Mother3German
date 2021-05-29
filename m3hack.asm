@@ -1195,7 +1195,7 @@ org $8F7C4BC; incbin ./graphics/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin ./graphics/gfx_chaptertitles_[c].bin
+org $9F90000; incbin ./graphics/gfx_chaptertitles_trans[c].bin
 org $9B03580; incbin ./graphics/gfx_chapt1-4_arrangement.bin
 org $9B05580; incbin ./graphics/gfx_chapt5-8_arrangement.bin
 
@@ -1941,7 +1941,10 @@ org $8048904; bl extra_hacks.memo_eos
 
 // Fix the memo lookup table, now it's bigger!
 org $9FAA9F0; incbin data_memo_flags.bin
-
+//org $8052AF0; dd $09FAA9F0 //Table's beginning
+//org $8052AF4; dd $09FAAA96 //Table's second pointer, A6 bytes after the beginning
+//org $8052AF8; dd $09FAAB3A //Table's third pointer, 14A bytes after the beginning
+//org $804EF30; dd $09FAAB3A //Same thing as before
 
 org $8052ADA; db $52 //Increments the number of loaded memos, so the last one is loaded too
 
