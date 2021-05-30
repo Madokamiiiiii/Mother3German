@@ -132,7 +132,7 @@
 0040: Prevents sleep.[BREAK]Defense +35.[END]
 0040-E: Verhindert Schlaf.[BREAK]Verteidigung +35.[END]
 0041: An ordinary hat.[BREAK]Defense +3.[END]
-0041-E: Eine gewöhnlicher Hut.[BREAK]Verteidigung +3.[END]
+0041-E: Ein gewöhnlicher Hut.[BREAK]Verteidigung +3.[END]
 0042: A hat that looks like a cow.[BREAK]Defense +10.[END]
 0042-E: Ein Hut, der wie eine Kuh aussieht.[BREAK]Verteidigung +10.[END]
 0043: Prevents fleas.[BREAK]Defense +20.[END]

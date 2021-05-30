@@ -1183,6 +1183,14 @@ org $80B3F66; bl battle_hacks.item_steal_text2; b $80B3FE8
 //                                    GRAPHICS HACKS
 //============================================================================================
 
+// Custom sob block for generic battle sprites
+define sob_battle_sprites $9CE1208
+org {sob_battle_sprites}; incbin misc_battle_sob.bin
+org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
+
+// Realign HITS graphic
+org $8065658; db $40
+
 // insert ATM graphics
 org $9AFD8D0; incbin ./graphics/gfx_frogatm.bin
 
@@ -1195,7 +1203,7 @@ org $8F7C4BC; incbin ./graphics/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin ./graphics/gfx_chaptertitles_trans[c].bin
+org $9F90000; incbin ./graphics/gfx_chaptertitles_[c].bin
 org $9B03580; incbin ./graphics/gfx_chapt1-4_arrangement.bin
 org $9B05580; incbin ./graphics/gfx_chapt5-8_arrangement.bin
 
