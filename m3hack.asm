@@ -1203,7 +1203,7 @@ org $8F7C4BC; incbin ./graphics/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin ./graphics/gfx_chaptertitles_[c].bin
+org $9F90000; incbin ./graphics/gfx_chaptertitles_trans[c].bin
 org $9B03580; incbin ./graphics/gfx_chapt1-4_arrangement.bin
 org $9B05580; incbin ./graphics/gfx_chapt5-8_arrangement.bin
 

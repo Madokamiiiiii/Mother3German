@@ -1311,7 +1311,7 @@ org {sob_battle_sprites}; incbin misc_battle_sob.bin
 org $9C91DE8; dd {sob_battle_sprites}-$9C90960; dd $904
 
 // Realign HITS graphic
-org $8065658; db $40
+org $8065658; db $44
 
 // Fixes wrong enemy placement in battle memory. Only necessary when using ropesnake
 //org $80D0D28; incbin data_enemy.bin

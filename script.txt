@@ -1197,7 +1197,7 @@
 9-15E:@Der Kreuzungsglockenturm.[END]
 // Repeats: 9-15, 37-15, 37-27
 9-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-9-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen,[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann die [COLOR 03 00]A[COLOR 00 00]-Taste drückst, wählst[BREAK]  du die Menüoption aus.[WAIT]  Du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und die[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Taste drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Energie.[WAIT]  Wenn du weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00] und[BREAK]  die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Tasten![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+9-16E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Für dieses bisschen, benutze ich mal[BREAK]  die Spielsprache anstatt Vergleiche.[WAIT]  Du kannst das Menü mit [COLOR 03 00]Start[COLOR 00 00] öffnen![WAIT]  Von links nach rechts gibt es die Menüpunkte[BREAK]  Items, Ausrüsten, Status und Stand-by.[WAIT]  Du kannst das Steuerkreuz benutzen,[BREAK]  um zu einem Menüpunkt zu navigieren.[WAIT]  Wenn du dann die [COLOR 03 00]A[COLOR 00 00]-Taste drückst, wählst[BREAK]  du die Menüoption aus.[WAIT]  Du kannst dort eine Menge nützliche Sachen[BREAK]  finden![WAIT]  Und jetzt zum "Stand-by".[WAIT]  Wenn du diese Option auswählst und die[BREAK]  [COLOR 03 00]A[COLOR 00 00]-Taste drückst, pausierst du das Spiel![WAIT]  Mach dir um die Batterien keine Sorgen, das[BREAK]  Spiel verbraucht dann nämlich wenig Strom.[WAIT]  Wenn du weitermachen willst,[WAIT]  drücke einfach gleichzeitig [COLOR 03 00]Select[COLOR 00 00] und[BREAK]  die [COLOR 03 00]L[COLOR 00 00] und [COLOR 03 00]R[COLOR 00 00]-Tasten![WAIT]  Also?[WAIT]  Soll ich es nochmal wiederholen?)[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 9-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
 9-17E:[SOUND 03 00]@Zwitscher-zwitscher.[WAIT]  (Eine Schwalbe, die flüssig die Spielsprache[BREAK]  sprechen kann, ist ziemlich rellten, oder?[WAIT]  Ich meine, selten.[WAIT]  Nun, um es diesmal wirklich wie eine Schwalbe[BREAK]  zu beenden...[EVENT][END]
@@ -1748,7 +1748,7 @@
 13-24E:@So unglaublich es auch scheint, war in der Box[BREAK]  eine heiße Quelle![END]
 // Repeats: 13-24, 14-24, 17-24, 36-24, 42-24, 55-24, 72-24, 77-24, 80-24, 96-24, 180-24, 181-24, 182-24, 192-24, 203-24, 207-24, 249-24, 250-24, 251-24, 252-24, 263-24, 327-24, 328-24, 329-24, 330-24, 331-24, 332-24, 373-24, 374-24, 375-24, 376-24, 377-24, 378-24, 379-24, 443-24, 467-24, 468-24, 469-24, 471-24, 472-24, 477-24, 803-24, 877-24, 878-24, 880-24, 882-24, 892-24, 900-24
 13-25:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Some people always try to avoid fighting when[BREAK]  there are enemies around.[WAIT]  You know the type, right?[WAIT]  They use the dash ability to zoom right by.[WAIT]  I guess you could say they're followers of[BREAK]  "peace at any price".[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] No, no, no.[PAUSE 08 00][BREAK]  I'm not saying that's how you are or anything.[WAIT]  I just think that if you keep running away from[BREAK]  everything now,[WAIT]  later on when you HAVE to fight, you'll have a[BREAK]  really rough time because you lack experience.[WAIT]     "Always running off[PAUSE 18 00][BREAK]    will only lead to regret[PAUSE 18 00][BREAK]      my young disciple."[WAIT]  Please keep this in mind.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit, um ihnen[BREAK]  zu entkommen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Friedens um jeden Preis" bezeichnen.[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein nein nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn[BREAK]  du jetzt immer wegrennst,[WAIT]  und du dann später kämpfen MUSST, dass du[BREAK]  dann ein ganz schönes Problem haben wirst,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
+13-25E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Ein paar Leute versuchen dem Kämpfen[BREAK]  größtenteils auszuweichen.[WAIT]  Du kennst solche Menschen, richtig?[WAIT]  Sie benutzen die Sprint-Fähigkeit, um ihnen[BREAK]  zu entkommen.[WAIT]  Ich glaube, man könnte sie als Anhänger des[BREAK]  "Friedens um jeden Preis" bezeichnen.[WAIT]  ...[PAUSE 20 00]Oh. [PAUSE 18 00] Nein nein nein.[PAUSE 08 00][BREAK]  Ich will damit nicht sagen, dass du so bist.[WAIT]  Ich habe nur die Befürchtung, dass, wenn[BREAK]  du jetzt immer wegrennst,[WAIT]  und du dann später kämpfen MUSST, du[BREAK]  dann ein ganz schönes Problem haben wirst,[WAIT]  weil dir die Erfahrung fehlt.[WAIT]     "Immer wegrennen[PAUSE 18 00][BREAK]    wird nur zu Kummer führen[PAUSE 18 00][BREAK]      mein junger Schüler."[WAIT]  Bitte behalte das im Gedächtnis.[WAIT]  Und nun, um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
 // Repeats: 13-25, 14-25, 17-25, 36-25, 42-25, 55-25, 72-25, 77-25, 80-25, 96-25, 180-25, 181-25, 182-25, 192-25, 203-25, 207-25, 249-25, 250-25, 251-25, 252-25, 263-25, 327-25, 328-25, 329-25, 330-25, 331-25, 332-25, 373-25, 374-25, 375-25, 376-25, 377-25, 378-25, 379-25, 443-25, 467-25, 468-25, 469-25, 471-25, 472-25, 477-25, 803-25, 877-25, 878-25, 880-25, 882-25, 892-25, 900-25
 13-26:[SOUND 03 00]  chirp-chirp chirp-chirp!)[END]
 13-26E:[SOUND 03 00]  zwitscher-zwitscher zwitscher-zwitscher!)[END]
@@ -1772,7 +1772,7 @@
 13-32E:@Das Haus ist komplett eingestürzt.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 13-33:@*cough* *cough*[WAIT]@Oh, it's you, [FLINT 23 01 00].[WAIT]@I THOUGHT I saw someone as manly as me[BREAK]  walking this way.[WAIT]@This smoke is terrible, and with my sensitive[BREAK]  throat, I can't continue any further.[WAIT]@So you can have this cookie instead.[WAIT]  Let this [PAUSE 1E 00]slightly unclean[PAUSE 1E 00] and not very tasty[BREAK]  cookie be of use.[WAIT]@......[WAIT]  Please, [PAUSE 0F 00]let it be of use.[END]
-13-33E:@*keuch* *keuch*[WAIT]@Oh, du bist's, [FLINT 23 01 00].[WAIT]@Ich DACHTE, ich sah jemanden so männlichen[BREAK]  wie mich hier lang laufen.[WAIT]@Dieser Rauch ist schrecklich, und mit meiner[BREAK]  sensiblen Lunge, kann ich nicht weiter gehen.[WAIT]@Also nimm stattdessen diesen Keks.[WAIT]  Lass diesen [PAUSE 1E 00]etwas dreckigen[PAUSE 1E 00] und nicht sehr[BREAK]  leckeren Keks von Nutzen sein.[WAIT]@......[WAIT]  Bitte [PAUSE 0F 00]nutz ihn.[END]
+13-33E:@*keuch* *keuch*[WAIT]@Oh, du bist's, [FLINT 23 01 00].[WAIT]@Ich DACHTE, ich sah jemanden so männlichen[BREAK]  wie mich hier lang laufen.[WAIT]@Dieser Rauch ist schrecklich, und mit meiner[BREAK]  sensiblen Lunge kann ich nicht weiter gehen.[WAIT]@Also nimm stattdessen diesen Keks.[WAIT]  Lass diesen [PAUSE 1E 00]etwas dreckigen[PAUSE 1E 00] und nicht sehr[BREAK]  leckeren Keks von Nutzen sein.[WAIT]@......[WAIT]  Bitte [PAUSE 0F 00]nutz ihn.[END]
 13-34:@*cough* [PAUSE 0C 00]*cough*[PAUSE 0C 00] *cough*[PAUSE 0C 00][BREAK]@Alright, alright.[WAIT]@I'll give you one more of my slightly unclean[BREAK]  and not very tasty cookies.[WAIT]@Let it be of use.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Please, [PAUSE 10 00]let it be of use.[END]
 13-34E:@*keuch* [PAUSE 0C 00]*keuch*[PAUSE 0C 00] *keuch*[PAUSE 0C 00][BREAK]@Schon gut, schon gut.[WAIT]@Ich werde dir noch einen von meinen etwas[BREAK] dreckigen und nicht sehr leckeren Keksen[WAIT]  geben.[WAIT]@Lass es dir von Nutzen sein.[WAIT]@.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Bitte [PAUSE 10 00]nutz ihn.[END]
 13-35:@Hey. [PAUSE 10 00]You can't hold any more stuff.[END]
@@ -5493,7 +5493,7 @@
 82-16:@The flames are so intense that you can't get[BREAK]  any closer![END]
 82-16E:@Die Flammen sind so stark, dass du nicht an[BREAK]  sie heran kannst![END]
 82-17:@A metal box-like object is lying here.[END]
-82-17E:@Hier liegt ein metallisches boxartiges Objekt.[END]
+82-17E:@Hier liegt ein metallisches, boxartiges Objekt.[END]
 
 [Container 83]
 83-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
@@ -5671,7 +5671,7 @@
 89-2:@I slipped and fell just a minute ago,[WAIT]  but I'm okay.[END]
 89-2E:@Ich bin vorhin hingefallen,[WAIT]  aber mir geht es gut.[END]
 89-3:@[HINAWA 22 08 00] seems to have a good head on[BREAK]  her shoulders.[WAIT]@Not you, though.[WAIT]@You're pretty careless, so I bet you forgot to[BREAK]  bring Antidotes with you into the forest,[WAIT]  despite the fact the place is teeming with[BREAK]  Mighty Bitey Snakes everywhere.[WAIT]@Here, you can have one of my Antidotes.[WAIT]@If you don't think that'll be enough, you can[BREAK]  always get some more at Isaac's house.[END]
-89-3E:@[HINAWA 22 08 00] ist immer sehr sorgfältig.[WAIT]@Du aber nicht.[WAIT]@Du bist ziemlich chaotisch. Ich wette, du hast[BREAK]  vergessen Gegengifte mitzunehmen,[WAIT]  ungeachtet vom Fall, dass dieser Ort nur so[BREAK]  von Äußerst Bissigen Schlangen überquillt.[WAIT]@Bitte sehr, du kannst einen von meinen[BREAK]  Gegengiften haben.[WAIT]@Wenn du glaubst, dass das nicht reicht, kannst[BREAK]  du jederzeit mehr bei Isaacs Haus holen.[END]
+89-3E:@[HINAWA 22 08 00] ist immer sehr sorgfältig.[WAIT]@Du aber nicht.[WAIT]@Du bist ziemlich chaotisch. Ich wette, du hast[BREAK]  vergessen Gegengifte mitzunehmen,[WAIT]  ungeachtet vom Fall, dass dieser Ort nur so[BREAK]  von Bissigen Beißerschlangen überquillt.[WAIT]@Bitte sehr, du kannst einen von meinen[BREAK]  Gegengiften haben.[WAIT]@Wenn du glaubst, dass das nicht reicht, kannst[BREAK]  du jederzeit mehr bei Isaacs Haus holen.[END]
 89-4:@Oh, it looks like you can't carry any more[BREAK]  stuff.[WAIT]@You should probably throw something out so[BREAK]  you can take this with you.[END]
 89-4E:@Oh, du scheinst nichts mehr tragen zu können.[WAIT]@Du solltest wohl etwas wegwerfen, damit[BREAK]  du das hier mitnehmen kannst.[END]
 89-5:@We'll look around this area! You go on ahead![WAIT]@Sheesh! Pull yourself together![END]
@@ -5701,7 +5701,7 @@
 89-17:@OH[PAUSE 10 00] MY[PAUSE 10 00] PORK!![PAUSE 10 00][WAIT]@What is a baby Drago doing here?![WAIT]@You! Baby Drago! Get outta here![END]
 89-17E:@OH[PAUSE 10 00] MEIN[PAUSE 10 00] SCHWEIN!![PAUSE 10 00][WAIT]@Was macht denn ein Baby Drago hier?![WAIT]@Du! Baby Drago! Verschwinde von hier![END]
 89-18:@[42 FF F1 FF] got [91 EF][ITEM F0 FF]![END]
-89-18E:@[42 FF F1 FF] erhielt [11 EF][ITEM F0 FF]![END]
+89-18E:@[42 FF F1 FF] erhielt ein Nussbrot![END]
 89-19:@Hey![WAIT]@Get back here, you![END]
 89-19E:@Hey![WAIT]@Kommt zurück![END]
 89-20:@No...[PAUSE 1E 00]  Stop...[PAUSE 1E 00][WAIT]  Stop! Don't! Please![END]
@@ -12255,7 +12255,7 @@
 309-4E:@Du hast ein paar [ITEM 5E 00]e erhalten![END]
 // Repeats: 104-5, 309-4
 309-5:@Got some [ITEM 69 00]![END]
-309-5E:@Du hast ein paar [ITEM 69 00]e erhalten![END]
+309-5E:@Du hast ein [ITEM 69 00] erhalten![END]
 309-6:@Squeak squeak.[WAIT]  (Wot? Yeh jazz bands ah full...[WAIT]  Come back baked potatah, eh?)[END]
 309-6E:@Quietsch quietsch.[WAIT]  (Was? Ja, Jazz klingt für mich Unsinn[BREAK]  oder genauso wie BT für mich nicht.)[END]
 309-7:@Squeeeak.[WAIT]  (Ah, yeh jazz bands ah full.[WAIT]  Eh, das sorry. Come back baked potatah, den.)[END]
@@ -16508,7 +16508,7 @@
 474-50:@Received 100 DP.[END]
 474-50E:@100 DK erhalten.[END]
 474-51:@[42 FF F1 FF] got [EF 91][ITEM F0 FF][END]
-474-51E:@[42 FF F1 FF] erhielt [EF 11][ITEM F0 FF][END]
+474-51E:@[42 FF F1 FF] erhielt ein Nussbrot![END]
 
 [Container 475]
 475-0:@Please don't come back here.[WAIT]@You'll kick up the mold spores.[END]
