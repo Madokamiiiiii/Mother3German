@@ -82,7 +82,7 @@
 26:Siren Beetle
 26-E:Sirenenkäfer
 27:Hypno-Pendulum
-27-E:Hpyno-Pendel
+27-E:Hypno-Pendel
 28:Smoke Bomb
 28-E:Rauchbombe
 29:Scary Mask

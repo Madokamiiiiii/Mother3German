@@ -79,7 +79,7 @@ ihr
 ihre 
 die 
 ihren 
-// 0009-E: Gruseliger Schleim
+// 0009-E: Gruseliges Lächeln
 -
 -
 Ein 
@@ -88,7 +88,7 @@ sein
 seine 
 -
 seinen 
-// 000A-E: Heller Schleim
+// 000A-E: Helles Lächeln
 -
 -
 Ein 
@@ -205,7 +205,7 @@ sein
 seine 
 -
 seinen 
-// 0017-E: Gruseliger Schleim
+// 0017-E: Gruseliges Lächeln
 -
 -
 Ein 
@@ -826,7 +826,7 @@ ihr
 ihre 
 die 
 ihren 
-// 005C-E: Gruseliger Schleim
+// 005C-E: Gruseliges Lächeln
 -
 -
 Ein 
@@ -970,7 +970,7 @@ sein
 seine 
 -
 seinen 
-// 006C-E: Schlitterhenne
+// 006C-E: Schlängelhenne
 Die 
 die 
 Eine 
@@ -1195,7 +1195,7 @@ sein
 seine 
 den 
 seinen 
-// 0085-E: Gruseliger Schleim
+// 0085-E: Gruseliges Lächeln
 -
 -
 Ein 

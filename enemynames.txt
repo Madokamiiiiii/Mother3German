@@ -19,9 +19,9 @@
 0008: Mole Cricket
 0008-E: Maulwurfsgrille
 0009: Eerie Smile
-0009-E: Gruseliger Schleim
+0009-E: Gruseliges Lächeln
 000A: Bright Smile
-000A-E: Glänzender Schleim
+000A-E: Helles Lächeln
 000B: Porky
 000B-E: Porky
 000C: N.K. Cyborg
@@ -47,7 +47,7 @@
 0016: New Fassad
 0016-E: Neuer Fassad
 0017: Eerie Smile
-0017-E: Gruseliger Schleim
+0017-E: Gruseliges Lächeln
 0018: Lord Passion
 0018-E: Graf Passion
 0019: Tender Loving Tree
@@ -95,7 +95,7 @@
 002E: PORKY 01
 002E-E: PORKY 01
 002F: Agitated Boar
-002F-E: Aufgew. Wildschwein
+002F-E: Wildes Wildschwein
 0030: Mighty Bitey Snake
 0030-E: Bissige Beißerschlange
 0031: Soot Dumpling
@@ -185,7 +185,7 @@
 005B: Pseudoor
 005B-E: Pseutür
 005C: Eerie Smile
-005C-E: Gruseliger Schleim
+005C-E: Gruseliges Lächeln
 005D: Dung Beetle
 005D-E: Mistkäfer
 005E: Great Antlion
@@ -217,7 +217,7 @@
 006B: Putrid Moldyman
 006B-E: Fauliger Schimmelmann
 006C: Slitherhen
-006C-E: Schlitterhenne
+006C-E: Schlängelhenne
 006D: Whatever
 006D-E: Was auch immer
 006E: Dogfish
@@ -267,7 +267,7 @@
 0084: Love Walker
 0084-E: Liebesläufer
 0085: Eerie Smile
-0085-E: Gruseliger Schleim
+0085-E: Gruseliger Lächeln
 0086: Atomic Power Robot
 0086-E: Atomarer Roboter
 0087: Nuclear Reactor Robot

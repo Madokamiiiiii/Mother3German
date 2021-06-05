@@ -7,8 +7,8 @@ Mecha-Drago
 Schweinepanzer
 Herr Genetor
 Maulwurfsgrille
-Gruseliger Schleim
-Glänzender Schleim
+Gruseliges Lächeln
+Helles Lächeln
 Porky
 N.K. Cyborg
 Maskierter Mann
@@ -21,7 +21,7 @@ PORKY 02
 Königsstatue
 Nilpferdwerfer
 Neuer Fassad
-Gruseliger Schleim
+Gruseliges Lächeln
 Hr. Passion
 Liebevoller Baum
 PORKY 03
@@ -90,13 +90,13 @@ Geisterritter
 Osohe Umhang
 Rockiger Geist
 Pseutür
-Gruseliger Schleim
+Gruseliges Lächeln
 Mistkäfer
 Groß-Ameisenlöwe
 Sara-Sara-Sahara
 Sandechse
 Kaktuswolf
-Schleimiger Schleim
+Schleimiges Lächeln
 Cleocatra
 Klein-groß-Bruder
 Zombiepilz
@@ -106,7 +106,7 @@ Pfertantula
 Schweitunie
 Kreischender Stock
 Schimmelmann
-Schlitterhenne
+Schlängelhenne
 Was auch immer
 Hundefisch
 Rindschlange
@@ -131,7 +131,7 @@ Fliegende Maus
 Kurzschluss-Schlag!
 Unwichtiger Roboter
 Liebesläufer
-Gruseliger Schleim
+Gruseliges Lächeln
 Atomarer Roboter
 Nuklearer Roboter
 Negativer Mann
