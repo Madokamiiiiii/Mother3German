@@ -883,7 +883,7 @@
 4-7:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, if it isn't [DUSTER 23 03 00].[WAIT]@I see you still enjoy your nighttime strolls.[WAIT]@Oh? You want to go to Osohe Castle?[WAIT]@In that case, I'll mark it on your map for you.[END]
 4-7E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Oh, wenn das mal nicht [DUSTER 23 03 00] ist.[WAIT]@Ich sehe, du genießt immer noch deine[BREAK]  Nacht-Spaziergänge.[WAIT]@Oh? Du willst zum Schloss Osohe?[WAIT]@Wenn das so ist, werde ich es für dich[BREAK]  auf deiner Karte  markieren.[END]
 4-8:@I'm not even going to bother asking what[BREAK]  you're off to do this late at night,[WAIT]  but you do know that Osohe Castle's[BREAK]  drawbridge is up, right?[WAIT]@That means you can't get inside.[WAIT]@But there are rumors of an underground[BREAK]  passage that leads into the castle.[WAIT]@I bet Nippolyte the gravekeeper knows[BREAK]  something about it.[END]
-4-8E:@Ich frag noch nicht mal, was du so später[BREAK]  Uhrzeit noch treibst,[WAIT]  aber du weißt schon, dass die Zugbrücke[BREAK]  hochgefahren ist, richtig?[WAIT]@Das bedeutet, du kommst nicht rein.[WAIT]@Aber es gibt da diese Gerüchte, dass es eine[BREAK]  Tunnelpassage gibt, die zum Schloss führt.[WAIT]@Ich wette Nippolyte der Totengräber, weiß[BREAK]  was darüber.[END]
+4-8E:@Ich frag noch nicht mal, was du so später[BREAK]  Uhrzeit noch treibst,[WAIT]  aber du weißt schon, dass die Zugbrücke[BREAK]  hochgefahren ist, richtig?[WAIT]@Das bedeutet, du kommst nicht rein.[WAIT]@Aber es gibt da diese Gerüchte, dass es eine[BREAK]  Tunnelpassage gibt, die zum Schloss führt.[WAIT]@Ich wette Nippolyte, der Totengräber, weiß[BREAK]  was darüber.[END]
 4-9:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@Just look for old man Nippolyte.[WAIT]@What do you mean, "Who is that?"[WAIT]@He's the old man who was at the cemetery[BREAK]  during [HINAWA 22 08 00]'s funeral.[END]
 4-9E:@Wenn du etwas vom Kartenliebhaber und[BREAK]  Kartenbesitzenden Mapson willst,[WAIT]  muss es eine Karte sein, richtig?[WAIT]@Ich rede auch über nicht-kartiges, nur so.[WAIT]@Such einfach nach den alten Mann Nippolyte.[WAIT]@Was meinst du mit, "Wer ist das?"[WAIT]@Er ist der alte Mann, der bei der Beisetzung[BREAK]  von [HINAWA 22 08 00] dabei war.[END]
 4-10:@Oh, you're up rather early today,[BREAK]  [DUSTER 22 0F 00].[WAIT]@It isn't healthy to stay out of the sunlight, you[BREAK]  know.[END]
@@ -903,7 +903,7 @@
 4-17:@Keep up the good work, Mr. Monkey.[END]
 4-17E:@Mach weiter so, Herr Affe.[END]
 4-18:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  During battle, it's not uncommon to forget[BREAK]  what exactly each item does, right?[WAIT]  Has this ever happened to you?[WAIT]  When it does, just choose the item you want[BREAK]  to know about and press [COLOR 03 00]Select[COLOR 00 00].[WAIT]  A simple description will pop up, which is quite[BREAK]  handy, indeed.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-4-18E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Während dem Kampf kann es passieren, dass[BREAK]  man die Wirkung eines Items vergisst, richtig?[WAIT]  Ist dir das schon einmal passiert?[WAIT]  Wenn, dann wähle das Item, worüber du[BREAK]  was wissen willst aus und drücke [COLOR 03 00]Select[COLOR 00 00].[WAIT]  Eine einfache Beschreibung wird aufpoppen,[BREAK]  die sogar ziemlich praktisch ist.[WAIT]  Und nun um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
+4-18E:[SOUND 03 00]@Zwitscher zwitscher.[WAIT]  (Schwalbenhinweis![WAIT]  Während des Kampfes kann es passieren, dass[BREAK]  man die Wirkung eines Items vergisst, richtig?[WAIT]  Ist dir das schon einmal passiert?[WAIT]  Wenn, dann wähle das Item, worüber du[BREAK]  was wissen willst aus und drücke [COLOR 03 00]Select[COLOR 00 00].[WAIT]  Eine einfache Beschreibung wird aufpoppen,[BREAK]  die sogar ziemlich praktisch ist.[WAIT]  Und nun um es wie eine Schwalbe zu[BREAK]  beenden...[EVENT][END]
 4-19:[SOUND 03 00]  chirp chirp!)[END]
 4-19E:[SOUND 03 00]  zwitscher zwitscher!)[END]
 
@@ -1406,7 +1406,7 @@
 11-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, is' es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 11-8:@This wall doesn't seem scalable...[END]
-11-8E:@Diese Wand scheint man nicht hochzuklettern[BREAK]  zu können...[END]
+11-8E:@Diese Wand scheint man nicht hochklettern[BREAK]  zu können...[END]
 // Repeats: 11-8, 212-8, 213-8
 11-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 11-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -2086,7 +2086,7 @@
 18-9:@Lighter?![WAIT]@Are you sure you're in good enough shape to[BREAK]  be out here?[END]
 18-9E:@Lighter?![WAIT]@Bist du dir sicher, dass dein Zustand gut genug[BREAK]  ist um außer Haus zu sein?[END]
 18-10:@I'm always in good enough shape.[BREAK]  Don't treat me like some injured clod![END]
-18-10E:@Ich bin immer in einem Zustand, der gut genug[BREAK]  ist.[WAIT]  Behandle mich nicht wie ein verletzter[BREAK]  alter Knacker![END]
+18-10E:@Ich bin immer in einem Zustand, der gut genug[BREAK]  ist.[WAIT]  Behandle mich nicht wie ein verletzter,[BREAK]  alter Knacker![END]
 18-11:@We'll take care of things here.[WAIT]@You keep pushing on ahead, [FLINT 23 01 00].[END]
 18-11E:@Wir werden uns um das hier kümmern.[WAIT]@Du gehst weiter vor, [FLINT 23 01 00].[END]
 // Repeats: 18-11, 18-15
@@ -6299,9 +6299,9 @@
 111-17:@[DUSTER 23 03 00].[WAIT]@I am now going to give you a mission.[END]
 111-17E:@[DUSTER 23 03 00].[WAIT]@Ich gebe dir jetzt eine Mission.[END]
 111-18:@You will sneak into Osohe Castle.[WAIT]@There, you will find a "certain important item"[BREAK]  and bring it back here.[END]
-111-18E:@Du wirst dich ins Schloss Osohe schleichen.[WAIT]@Dort wirst du ein "gewisses wichtiges Item"[BREAK]  finden und dann hierherbringen.[END]
+111-18E:@Du wirst dich ins Schloss Osohe schleichen.[WAIT]@Dort wirst du ein "gewisses wichtige Item"[BREAK]  finden und dann hierherbringen.[END]
 111-19:@As for what this "certain important item" is...[WAIT]@No... There is no need for me to tell you.[WAIT]@If a thief can't determine the value of what he[BREAK]  steals, he's a disgrace to the profession.[WAIT]@Still, would you like to know a little about it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-111-19E:@Was dieses "gewisses wichtiges Item" ist...[WAIT]@Nein... das brauche ich dir nicht zu erzählen.[WAIT]@Wenn ein Dieb nicht den Wert eines Gegen-[BREAK]  standes bestimmen kann, das er stiehlt,[WAIT]  ist er eine Schande für seine Art.[WAIT]@Willst du trotzdem etwas darüber wissen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+111-19E:@Was dieses "gewisses wichtige Item" ist...[WAIT]@Nein... das brauche ich dir nicht zu erzählen.[WAIT]@Wenn ein Dieb nicht den Wert eines Gegen-[BREAK]  standes bestimmen kann, das er stiehlt,[WAIT]  ist er eine Schande für seine Art.[WAIT]@Willst du trotzdem etwas darüber wissen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 111-20:@Come, now! You need to be more inquisitive![WAIT]@I was just about to give you a hint and[BREAK]  everything![WAIT]@Want to hear it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 111-20E:@Jetzt komm schon! Du musst wissbegieriger[BREAK]  sein![WAIT]@Ich wollte dir einen Hinweis und so geben![WAIT]@Willst du ihn nicht doch hören?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 111-21:@It's a VERY important-looking item.[WAIT]@It's like.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00] all shiny.[PAUSE 20 00] Yeah.[EVENT][END]
@@ -6309,7 +6309,7 @@
 111-22:@I will say no more than that.[END]
 111-22E:@Mehr werde ich nicht sagen.[END]
 111-23:@In the basement, you will find items I've[BREAK]  prepared for you.[WAIT]@The Seven Mystical Thief Tools.[WAIT]@No, wait, were there seven?[WAIT]@Well, whatever.[WAIT]@Take them with you.[WAIT]@They will prove useful during your battles with[BREAK]  the enemy.[END]
-111-23E:@Im Keller wirst du Items finden, die ich für[BREAK]  dich vorbereitet habe.[WAIT]@Die sieben mystischen Diebeswerkzeuge.[WAIT]@Nein, Moment, waren es wirklich sieben?[WAIT]@Naja, auch egal.[WAIT]@Nimm das Zeug mit.[WAIT]@Sie werden sich in Kämpfen als nützlich[BREAK]  beweisen.[END]
+111-23E:@Im Keller wirst du Items finden, die ich für[BREAK]  dich vorbereitet habe.[WAIT]@Die sieben mystischen Diebeswerkzeuge.[WAIT]@Nein, Moment, waren es wirklich sieben?[WAIT]@Naja, auch egal.[WAIT]@Nimm das Zeug mit.[WAIT]@Sie werden sich in Kämpfen als nützlich[BREAK]  erweisen.[END]
 111-24:@Hidden inside the castle is a treasure with the[BREAK]  power to change the fate of the world.[END]
 111-24E:@Versteckt im Schloss ist ein Schatz mit der[BREAK]  Kraft, das Schicksal der Welt zu ändern.[END]
 111-25:@Back when the king of Osohe still lived in the[BREAK]  castle...[WAIT]  ...[PAUSE 1E 00]Yes, I believe that's when it was.[WAIT]@Anyway, back then, I hid this treasure where[BREAK]  no one would ever lay eyes upon it.[WAIT]@I felt it was too much for even the king of[BREAK]  Osohe to handle...[PAUSE 20 00] or so I recall, anyway.[END]
@@ -9752,7 +9752,7 @@
 212-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, ist es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 212-8:@This wall doesn't seem scalable...[END]
-212-8E:@Diese Wand scheint man nicht hochzuklettern[BREAK]  zu können...[END]
+212-8E:@Diese Wand scheint man nicht hochklettern[BREAK]  zu können...[END]
 // Repeats: 11-8, 212-8, 213-8
 212-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 212-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -9848,7 +9848,7 @@
 213-7E:@Hier war mal 'n Blumenbeet,[WAIT]  aber wie de sehen konnst, ist es jetzt ei[BREAK]  Gemüsefeld.[WAIT]@Blumen sind schö' und so, aber sie füll'n[BREAK]  nich' den Bauch, wesste?[END]
 // Repeats: 11-7, 212-7, 213-7
 213-8:@This wall doesn't seem scalable...[END]
-213-8E:@Diese Wand scheint man nicht hochzuklettern[BREAK]  zu können...[END]
+213-8E:@Diese Wand scheint man nicht hochklettern[BREAK]  zu können...[END]
 // Repeats: 11-8, 212-8, 213-8
 213-9:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 213-9E:@An dieser Wand kann man hochklettern.[WAIT]  Hinauf klettern?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
@@ -17398,7 +17398,7 @@
 624-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und mich einzubringen.[END]
 // Repeats: 624-22, 633-22
 624-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-624-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzereißend![BREAK]  Er ist andeutend![END]
+624-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzerreißend![BREAK]  Er ist andeutend![END]
 // Repeats: 624-23, 633-23
 624-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
 624-24E:@Vorher waren ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]
@@ -17674,7 +17674,7 @@
 633-22E:@Danke, dass du mit mir gesprochen hast.[WAIT]@Ich werde mich bemühen, auf die anderen[BREAK]  zuzugehen und reinzupassen.[END]
 // Repeats: 624-22, 633-22
 633-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-633-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzereißend![BREAK]  Er ist andeutend![END]
+633-23E:@Hör dir mal den Song meines Kollegen[BREAK]  am Klavier an![WAIT]@Er ist großartig![WAIT]  Er bewegt! Er ist herzzerreißend![BREAK]  Er ist andeutend![END]
 // Repeats: 624-23, 633-23
 633-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
 633-24E:@Vorher waren ein paar kecke Geister hier[BREAK]  und haben Party gemacht.[WAIT]@Mit der Kraft der Wissenschaft haben wir sie[BREAK]  erst mal alle in den Hinterraum verfrachtet.[END]

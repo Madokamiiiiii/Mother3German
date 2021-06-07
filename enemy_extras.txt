@@ -808,14 +808,14 @@ sein
 seine 
 den 
 seinen 
-// 005A-E: Rockiger Geist
--
--
+// 005A-E: Schaukelgeist
+Der 
+der 
 Ein 
--
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 005B-E: Pseutür
 Die 
@@ -2249,13 +2249,13 @@ seine
 -
 seinen 
 // 00FA-E: Rockiger Geist
--
--
--
--
+Der 
+der 
+Ein 
+einen 
 sein 
 seine 
--
+den 
 seinen 
 // 00FB-E: Kerze
 -
