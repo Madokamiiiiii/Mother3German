@@ -1,6 +1,7 @@
 Eine deutsche Fan-Übersetzung von Mother 3
 Übersetzer: Madokami / Youmu
 Projektseite: https://madokamiiiiii.github.io/Mother3German/
+Version: 1.0
 
 -----Fragen, Bugs, Sonstiges-----
 Wenn du einen Bug, Rechtschreibfehler, Grammatikfehler, hakeliges Deutsch, bessere Formulierungen
