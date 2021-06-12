@@ -2736,7 +2736,7 @@
 051C: [11 FF] fell asleep![END]
 051C-E: [02 EF][11 FF] schlief ein![END]
 051D: [11 FF] is fast asleep![END]
-051D-E: [11 FF] schläft tief und fest![END]
+051D-E: [02 EF][11 FF] schläft tief und fest![END]
 051E: [11 FF] woke up![END]
 051E-E: [02 EF][11 FF] wachte auf![END]
 051F: [11 FF] wachte auf![END]

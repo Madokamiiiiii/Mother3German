@@ -1,6 +1,6 @@
 Eine deutsche Fan-Übersetzung von Mother 3
 Übersetzer: Madokami / Youmu
-Projektseite: https://github.com/Madokamiiiiii/Mother3German
+Projektseite: https://madokamiiiiii.github.io/Mother3German/
 
 -----Fragen, Bugs, Sonstiges-----
 Wenn du einen Bug, Rechtschreibfehler, Grammatikfehler, hakeliges Deutsch, bessere Formulierungen
@@ -16,6 +16,9 @@ Am besten mit dieser Website: https://www.romhacking.net/patch/ (Dieser ist auch
 Im oberen Feld tust du die japanische Mother 3 ROM.
 In den unteren den Patch (.bps Datei)
 Dann auf "Patch" drücken und dann hast du deine neue ROM.
+
+Falls du im Musikraum lieber die englischen Titel haben möchtest,
+patche die eben übersetzte ROM noch einmal mit der Datei "EnglishMusicnames.bps".
 
 
 -----Wie update ich?-----
