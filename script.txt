@@ -3415,7 +3415,7 @@
 36-47E:@Es ist vom Blitz in die Luft gesprengt worden.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 36-48:@It would probably be best if you didn't talk to[BREAK]  me.[WAIT]@Got that?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
-36-48E:@Es ist vielleicht das Beste, wenn du nicht mir[BREAK]  redest.[WAIT]@Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
+36-48E:@Es ist vielleicht das Beste, wenn du nicht mit[BREAK]  mir redest.[WAIT]@Verstanden?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-49:@Take care, and byee![END]
 36-49E:@Pass auf dich auf, und tschüüüss![END]
 36-50:@Are you really sure?[WAIT]@Everyone hates me, you know.[WAIT]@They all say I talk too much and never shut up.[WAIT]@Are you sure you don't wanna turn back now?[WAIT][MENU 02 00][MENUSPACEYES]Turn back[MENUSPACENO]Don't turn back[ENDCHOICES][END]
@@ -7671,7 +7671,7 @@
 155-1:@I'm in a luxury hotel, but surprisingly enough,[BREAK]  I'm not acting nervous. Have you noticed?[WAIT]@It's 'cause my back pocket's filled with money[BREAK]  I earned at the factory.[END]
 155-1E:@Ich bin in einem Luxushotel, aber[BREAK]  überraschenderweise bin ich nicht nervös.[WAIT]  Ist dir das aufgefallen?[WAIT]@Das liegt daran, weil meine Tasche voll Geld[BREAK]  ist, das ich in der Fabrik verdient habe.[END]
 155-2:@I'm about to go on a walk with my grandkid to[BREAK]  Cerulean Beach.[WAIT]@It'll be like "old man on the beach" and all that![BREAK]  Hohoho![END]
-155-2E:@Ich wollte gerade einen Spaziergang mit[BREAK]  meinem Enkelkind Azuria Strand machen.[WAIT]@Das wird sowas von "alter Mann am Strand"[BREAK]  sein und all das! Hohohoho![END]
+155-2E:@Ich wollte gerade einen Spaziergang mit[BREAK]  meinem Enkelkind am Azuria Strand machen.[WAIT]@Das wird sowas von "alter Mann am Strand"[BREAK]  sein und all das! Hohohoho![END]
 155-3:@Don't try to go inside![WAIT]@A quite young girl is in the middle of changing[BREAK]  her clothes.[END]
 155-3E:@Geh da ja nicht rein![WAIT]@Ein relativ junges Mädchen ist gerade dabei[BREAK]  sich umzuziehen.[END]
 155-4:@(*whisper* *whisper*)[BREAK]  What do you want for lunch?[END]
@@ -7838,7 +7838,7 @@
 
 [Container 162]
 162-0:@Attention, guests staying here on group work[BREAK]  retreats:[WAIT]@Please talk in whispered voices when[BREAK]  conducting meetings. Thank you.[END]
-162-0E:@Liebe Gäste, die hier das Gruppenarbeits-[BREAK]  gebiet besichtigen, beachtet bitte:[WAIT]@Bitte flüstern Sie, wenn Treffen gehalten[BREAK]  werden. Danke.[END]
+162-0E:@Liebe Gäste, die hier aufgrund Geschäfts-[BREAK]  reisen bleiben, beachtet bitte:[WAIT]@Bitte flüstern Sie, wenn Meetings gehalten[BREAK]  werden. Danke.[END]
 162-1:@Welcome.[WAIT]@You're a non-staying guest, yes?[END]
 162-1E:@Willkommen.[WAIT]@Du bist ein nicht-bleibender Gast, richtig?[END]
 162-2:@They say this village had no Happy Boxes until[BREAK]  three years ago.[END]

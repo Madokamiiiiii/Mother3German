@@ -46,6 +46,7 @@ CRC32: 42ac9cb9
 - BluesBro und Chat (Testing)
 - Clainekun (Testing)
 - BlueShell und NeoRame (Logo + Disclaimer)
+- BetaDream-X (Übersetzung Musiktitel)
 
 -----Verwendete Tools-----
 Mother 3 Translation Tools
