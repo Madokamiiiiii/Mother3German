@@ -181,7 +181,7 @@
 0059: Osohe Cape
 0059-E: Osohe Umhang
 005A: Rockin' Ghost
-005A-E: Rockiger Geist
+005A-E: Schaukelgeist
 005B: Pseudoor
 005B-E: Pseutür
 005C: Eerie Smile
@@ -501,7 +501,7 @@
 00F9: Chestnut
 00F9-E: Kastanie
 00FA: Rockin' Ghost
-00FA-E: Rockiger Geist
+00FA-E: Schaukelgeist
 00FB: Candle
 00FB-E: Kerze
 00FC: Mouse
