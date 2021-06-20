@@ -1518,7 +1518,7 @@
 // Used by the enemies:  Reconstructed Caribou,  Rhinocerocket Mark II,  Cattlesnake,  Rhinocerocket
 // Used by the actions: 8, 114, 300	   
 02E7: [11 FF] pecked with its beak![END]
-02E7-E: [02 EF][11 FF] pickte mit seinem Schnabel![END]
+02E7-E: [02 EF][11 FF] pickte mit einem Schnabel![END]
 // Used by the enemies:  Balding Eagle,  Squawking Stick,  Slitherhen,  Blue Balding Eagle
 // Used by the action: 9
 02E8: [11 FF] stabbed with a spear![END]
@@ -1730,7 +1730,7 @@
 0333: [11 FF] generated a waterspout![END]
 0333-E: [02 EF][11 FF] erschuf eine Wasserhose![END]
 0334: [11 FF] breathed fire![END]
-0334-E: [02 EF][11 FF] speite Feuer![END]
+0334-E: [02 EF][11 FF] spie Feuer![END]
 0335: [11 FF] shot flames out![END]
 0335-E: [02 EF][11 FF] schoss mit Flammen![END]
 0336: [11 FF] benutzte PK Fire [ALPHA]![END]
@@ -1750,7 +1750,7 @@
 033D: [11 FF] benutzte PK Freeze [OMEGA]![END]
 033D-E: [02 EF][11 FF] benutzte PK Eis [OMEGA]![END]
 033E: [11 FF] used an electric shock attack![END]
-033E-E: [02 EF][11 FF] benutzte eine elektrische Schockattake![END]
+033E-E: [02 EF][11 FF] benutzte eine elektrische Schockattacke![END]
 033F: [11 FF] used a Crashing Boom Bang attack![END]
 033F-E: [02 EF][11 FF] benutzte eine krachender Bumm-Bang-Attacke![END]
 0340: [11 FF] benutzte PK Thunder [ALPHA]![END]
@@ -2342,7 +2342,7 @@
 0457: [11 FF] sent everything but the kitchen sink flying![END]
 0457-E: [02 EF][11 FF] brachte alles, was nicht niet- und nagelfest ist, zum Fliegen![END]
 0458: The band members' defeat caused [11 FF] to fly into a rage![30 FF][END]
-0458-E: Die Niederlage der Band-Mitglieder trieb [08 EF][11 FF] zur Raserei![30 FF][END]
+0458-E: Die Niederlage der Band-Mitglieder trieb den Eifersüchtigen Bass zur Raserei![30 FF][END]
 0459: [11 FF] shut itself tightly![END]
 0459-E: [02 EF][11 FF] schloss sich fest zu![END]
 045A: [11 FF] knocked itself silly![END]
