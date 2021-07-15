@@ -370,7 +370,7 @@
 00B7: Baked Yam
 00B7-E: Gebackene Kartoffel
 00B8: Mole Cricket Brother
-00B8-E: Bruder-Maulwurfgrille
+00B8-E: Bruder-Maulwurfsgrille
 00B9: Hermit Crab Shell
 00B9-E: Einsiedlerkrebsschale
 00BA: Suspicious Tea

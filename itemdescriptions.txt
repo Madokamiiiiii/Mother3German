@@ -240,7 +240,7 @@
 0076: A big favorite among some.[BREAK]Restores 100 KP.[END]
 0076-E: Der große Favorit unter vielen.[BREAK]Stellt 100 KP wieder her.[END]
 0077: Dumplings made with the mole crickets'[BREAK]sincerity. Restores 100 KP.[END]
-0077-E: Knödel gemacht mit der Ehrlichkeit[BREAK]der Maulwurfsgrillen. Stellt 100 KP wieder her.[END]
+0077-E: Knödel gemacht mit der Ehrlichkeit der[BREAK]Maulwurfsgrillen. Stellt 100 KP wieder her.[END]
 0078: A stylish dessert.[BREAK]Restores 120 KP.[END]
 0078-E: Ein stylisches Dessert.[BREAK]Stellt 120 KP wieder her.[END]
 0079: Rice so tasty, you feel lucky just to be[BREAK]eating it. KP restored depends on luck.[END]
