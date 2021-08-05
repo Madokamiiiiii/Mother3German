@@ -47,6 +47,7 @@ CRC32: 42ac9cb9
 - Clainekun (Testing)
 - BlueShell und NeoRame (Logo + Disclaimer)
 - BetaDream-X (Übersetzung Musiktitel)
+- LETSPLAYmarkus (1. abgeschlossene Let's Play)
 
 -----Verwendete Tools-----
 Mother 3 Translation Tools

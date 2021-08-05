@@ -99,7 +99,7 @@ ist
 ist 
 //Master Stick
 Ein 
-ein 
+einen 
 Der 
 den 
 des 
@@ -467,8 +467,8 @@ s
 -
 ist 
 //Rubber Cape
-ein 
-ein 
+Ein 
+eine 
 Der 
 den 
 des 
@@ -476,7 +476,7 @@ s
 -
 ist 
 //Aloh-Coat
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -593,7 +593,7 @@ ist
 -
 ist 
 //Cow Hat
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -602,7 +602,7 @@ es
 -
 ist 
 //Alligator Hat
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -611,7 +611,7 @@ es
 -
 ist 
 //Bear Hat
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -620,7 +620,7 @@ es
 -
 ist 
 //Otter Hat
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -701,7 +701,7 @@ die
 -
 ist 
 //Aries Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -710,7 +710,7 @@ es
 -
 ist 
 //Aquarius Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -719,7 +719,7 @@ es
 -
 ist 
 //Pisces Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -728,7 +728,7 @@ es
 -
 ist 
 //Capricorn Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -737,7 +737,7 @@ es
 -
 ist 
 //Taurus Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -746,7 +746,7 @@ es
 -
 ist 
 //Gemini Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -755,7 +755,7 @@ es
 -
 ist 
 //Cancer Bracelet
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -918,7 +918,7 @@ es
 ist 
 //Fresh Egg
 Ein 
--
+ein 
 -
 -
 -
@@ -1025,7 +1025,7 @@ des
 -
 ist 
 //Doggy Biscuit
-ein 
+Ein 
 ein 
 Der 
 den 
@@ -1727,8 +1727,8 @@ s
 -
 ist 
 //Pencil Eraser
-ein 
-ein 
+Ein 
+einen 
 Der 
 den 
 des 
@@ -1934,8 +1934,8 @@ s
 den 
 sind 
 //Siren Beetle
-Eine 
-eine 
+Einen 
+einen 
 Der 
 der 
 -
@@ -2105,8 +2105,8 @@ der
 -
 ist 
 //Razor & Lipstick
-ein 
-ein 
+Ein 
+Ein 
 -
 -
 -
