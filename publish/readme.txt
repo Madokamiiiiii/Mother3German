@@ -1,7 +1,7 @@
 Eine deutsche Fan-Übersetzung von Mother 3
 Übersetzer: Madokami / Youmu
 Projektseite: https://madokamiiiiii.github.io/Mother3German/
-Version: 1.0
+Version: 1.1
 
 -----Fragen, Bugs, Sonstiges-----
 Wenn du einen Bug, Rechtschreibfehler, Grammatikfehler, hakeliges Deutsch, bessere Formulierungen
@@ -20,6 +20,7 @@ Dann auf "Patch" drücken und dann hast du deine neue ROM.
 
 Falls du im Musikraum lieber die englischen Titel haben möchtest,
 patche die eben übersetzte ROM noch einmal mit der Datei "EnglishMusicnames.bps".
+Dabei können Warnungen von Mismatches ignoriert werden.
 
 
 -----Wie update ich?-----
