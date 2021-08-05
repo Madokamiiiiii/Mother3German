@@ -5,7 +5,7 @@ Zum Patchen wird eine originale Mother 3 Rom und ein BPS-Patcher (z. B. https://
 Getestet wurde der Patch auf dem mGBA Emulator.
 
 ## Bekannte Bugs:
-- Keine. Aber wenn dir einer auffällt, dann öffne bitte Issue.
+- Keine, außer gewiss vorhandenen Rechtschreib- und Grammatikfehler.
 
 ## Download
 Für bereits kompilierte Versionen siehe im "Releases"-Tab: https://github.com/Madokamiiiiii/Mother3German/releases.
