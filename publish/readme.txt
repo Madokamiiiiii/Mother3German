@@ -12,7 +12,7 @@ Vielen Dank.
 
 -----Wie patche ich das Spiel?-----
 Es wird eine saubere Mother 3 ROM benötigt (siehe Prüfsumme)
-Dann patchst du das Spiel mit einem BPS-Patcher.
+Dann patchst du das Spiel mit einem UPS-Patcher.
 Am besten mit dieser Website: https://www.romhacking.net/patch/ (Dieser ist auch im Ordner)
 Im oberen Feld tust du die japanische Mother 3 ROM.
 In den unteren den Patch (.bps Datei)
