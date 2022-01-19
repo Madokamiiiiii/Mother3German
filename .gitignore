@@ -3,7 +3,6 @@
 *.gba
 *.spr
 *.nlz
-*.sav
 *.ss1
 *.ss2
 *.ss3
@@ -81,3 +80,16 @@ sound_lookoverthere_eng.bin
 sound_readysetgo_a.bin
 sound_readysetgo_b.bin
 sound_readysetgo_c.bin
+Download
+mother3eng.sav
+mother3j.sav
+mother3j4.sav
+mother3jeng.sav
+mother3jOrig.sav
+mother3jreally.sav
+mother3jWithHealth.sav
+test.cheats
+test.sav
+test-0.png
+test-1.png
+testWork.sav
