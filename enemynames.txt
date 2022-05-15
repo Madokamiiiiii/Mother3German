@@ -153,7 +153,7 @@
 004B: Detached Leech
 004B-E: Abgetrennter Blutegel
 004C: Spineless Lobster
-004C-E: Rückgratlose Hummer
+004C-E: Hummer ohne Rückgrat
 004D: HUGE Pillbug
 004D-E: RIESIGE Assel
 004E: Cheery Skeleton

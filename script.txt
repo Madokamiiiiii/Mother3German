@@ -1033,7 +1033,7 @@
 7-4:@No doubt [CLAUS 22 05 00] is intent on avenging[BREAK]  [HINAWA 22 08 00].[WAIT]@You'd better go after him, and fast...[WAIT]@I'll let you borrow this.[END]
 7-4E:@[CLAUS 22 05 00] hat ohne Zweifel vor,[BREAK]  [HINAWA 22 08 00] zu rächen.[WAIT]@Du läufst ihm besser nach, und zwar schnell...[WAIT]@Das hier leihe ich dir.[END]
 7-5:@Received a [ITEM 39 00]![END]
-7-5E:@Eine [ITEM 39 00] erhalten![END]
+7-5E:@Ein [ITEM 39 00] erhalten![END]
 // Item 39 = Manly Bandana
 7-6:@Don't worry.[WAIT]@I washed it. It's clean.[END]
 7-6E:@Nur keine Sorge.[WAIT]@Ich habe es gewaschen. Es ist blitzblank.[END]
