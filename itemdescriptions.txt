@@ -332,7 +332,7 @@
 00A4: A special drug that strengthens one enemy.[BREAK]Also increases the experience points gained.[END]
 00A4-E: Eine spezielle Droge, die einen Gegner ver-[BREAK]st‰rkt. Erhˆht auﬂerdem die Erfahrungspunkte.[END]
 00A5: A special drug that weakens one enemy.[BREAK]Also reduces the experience points gained.[END]
-00A5-E: A special drug that weakens one enemy.[BREAK]Also reduces the experience points gained.[END]
+00A5-E: Spezielle Droge, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
 00A6: Eine spezielle Droge, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
 00A6-E: Spezielle Droge, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
 00A7: Tricks an enemy into turning around.[END]
