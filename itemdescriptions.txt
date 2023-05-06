@@ -334,7 +334,7 @@
 00A5: A special drug that weakens one enemy.[BREAK]Also reduces the experience points gained.[END]
 00A5-E: Spezielle Arznei, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
 00A6: Spezielle Arznei, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
-00A6-E: Spezielle Droge, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
+00A6-E: Spezielle Arznei, die einen Gegner schw‰cht.[BREAK]Reduziert auﬂerdem die Erfahrungspunkte.[END]
 00A7: Tricks an enemy into turning around.[END]
 00A7-E: Ver‰ppelt einen Gegner, damit er sich[BREAK]umdreht.[END]
 00A8: With its vibrant black and yellow colors, this[BREAK]dragonfly is the most popular among kids.[END]

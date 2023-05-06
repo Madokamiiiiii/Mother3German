@@ -1,7 +1,11 @@
 # Mother3German
-Dies ist eine deutsche Übersetzung von Mother 3 basierend auf der englischen Übersetzung v.1.3.
+Dies ist eine deutsche Übersetzung von Mother 3 basierend auf der englischen Übersetzung 1.3.
 
-Zum Patchen wird eine originale Mother 3 Rom und ein BPS-Patcher (z. B. https://www.marcrobledo.com/RomPatcher.js/) benötigt.
+Zum Patchen wird eine originale, japanische Mother 3 Rom benötigt.
+Nun hast du zwei Möglichkeiten:
+1. Du nutzt den [Mother International Patcher](https://mother4ever.net/motherinternational/) von Mother Forever. Die deutsche Übersetzung ist Teil der Anwendung.
+2. Du lädst von [hier](https://github.com/Madokamiiiiii/Mother3German/releases) manuell den Patch (die .zip-Datei) herunter. Anschließend nutzt du einen BPS-Patcher (z. B. https://www.marcrobledo.com/RomPatcher.js/), um die .bps-Datei auf die Rom anzuwenden.
+
 Getestet wurde der Patch auf dem mGBA Emulator.
 
 ## Bekannte Bugs:
