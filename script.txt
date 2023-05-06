@@ -12242,8 +12242,7 @@
 
 [Container 309]
 309-0:@Squeak?[BREAK]  (Eh?[PAUSE 28 00] Izzatchew, Alfie?[WAIT]  Wheh've ya been wivaht sennin' a dicky bird?[WAIT]  Ya dihn't come by fo' New Yeah's or Crackah[BREAK]  Night,[WAIT]  so yeh Grandmum an' I 'ave been all jack.[WAIT]  So, wotcheh?[WAIT]  Yeh mus' be bleedin' 'ank Marvin, eh?[WAIT]  'Eah's summadat [ITEM 5E 00] fo' yeh.)[END]
-309-0E:@Quietsch?[WAIT]  (Huh?[PAUSE 28 00] Büst du dat, Alfie? Woneem weerst du[BREAK]  un wat hest du daan?[WAIT]  Du büst nie to'n Orntdank oder Neejohrsfest[BREAK]  to uns kamen,[WAIT]  Also waren Oma un ik ümmer so eensam.[WAIT]  Du musst hungerig wesen, oder?
-  [WAIT]  Hier is en Nussbroot för di.)[END]
+309-0E:@Quietsch?[WAIT]  (Huh?[PAUSE 28 00] Büst du dat, Alfie? Woneem weerst du[BREAK]  un wat hest du daan?[WAIT]  Du büst nie to'n Orntdank oder Neejohrsfest[BREAK]  to uns kamen,[WAIT]  Also waren Oma un ik ümmer so eensam.[WAIT]  Du musst hungerig wesen, oder? [WAIT]  Hier is en Nussbroot för di.)[END]
 // grandpa talking
 309-1:@Squeak squeak-squeak?[WAIT]  (Oi, Alfie, it's been donkeys, china.[WAIT]  Wonned teh rabbit us ahtta sum mo' bees,[BREAK]  izzat it?[WAIT]  Eh, dat's calvin.[WAIT]  De ol' pot ain't usin' de Bugs.[WAIT]  But mum's de dicky.)[END]
 309-1E:@Quietsch quietsch-quietsch?[WAIT]  (Oh, du büst dat, Alfie. Du büst trüggkamen.[WAIT]  Du büst kamen, üm uns mehr Taschengeld[BREAK]  aftoswatzen, hebbe ik recht?[WAIT]  Nu, dat is all okay.[WAIT]  Oma hett dar keen betere Gebruuk för.[WAIT]  Man holl dat vör Opa.)[END]

@@ -79,7 +79,7 @@
 0026: Scamperin' Mushroom
 0026-E: Hüpfender Pilz
 0027: Squawking Boomstick
-0027-E: Kreischender Besen
+0027-E: Kreischender Knallstock
 0028: Top Dogfish
 0028-E: Top Hundefisch
 0029: Hr. Batty

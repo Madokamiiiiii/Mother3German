@@ -2972,11 +2972,13 @@ seinen
 -
 -
 -
+-
 sein 
 seine 
 -
 seinen 
 // Lucas
+-
 -
 -
 -
@@ -2988,11 +2990,13 @@ seinen
 -
 -
 -
+-
 sein 
 seine 
 -
 seinen 
 // Kumatora
+-
 -
 -
 -
@@ -3004,11 +3008,13 @@ ihren
 -
 -
 -
+-
 sein 
 seine 
 -
 seinen 
 // Salsa
+-
 -
 -
 -
@@ -3020,11 +3026,13 @@ seinen
 -
 -
 -
+-
 sein 
 seine 
 -
 seinen 
 // Thomas
+-
 -
 -
 -
@@ -3036,11 +3044,13 @@ seinen
 -
 -
 -
+-
 ihr 
 ihre 
 -
 ihren 
 // Fuel
+-
 -
 -
 -
@@ -3052,6 +3062,7 @@ seinen
 -
 -
 -
+-
 sein 
 seine 
 -
@@ -3060,11 +3071,13 @@ seinen
 -
 -
 -
+-
 sein 
 seine 
 -
 seinen 
 // Claus
+-
 -
 -
 -
