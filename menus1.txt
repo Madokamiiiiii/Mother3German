@@ -157,7 +157,7 @@
 004C: EXP[END]
 004C-E: EP[END]
 004D: Next Level[END]
-004D-E: Nächstes Lv.[END]
+004D-E: Zum Lv.[END]
 004E: HP[END]
 004E-E: KP[END]
 004F: Max. HP[END]

@@ -1584,7 +1584,7 @@
 // Used by the enemy:  Mecha-Drago
 // Used by the actions: 27, 305
 02FA: [11 FF] did a cactus-headbutt![END]
-02FA-E: [02 EF][11 FF] machte einen Kaktus-Kopfstoﬂ ein![END]
+02FA-E: [02 EF][11 FF] machte einen Kaktus-Kopfstoﬂ![END]
 // Used by the enemy:  Cactus Wolf
 // Used by the action: 28
 02FB: [11 FF] charged![END]

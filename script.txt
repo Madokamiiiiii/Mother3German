@@ -1257,13 +1257,13 @@
 10-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Nicht wahr?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 10-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-10-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
+10-16E:@Sorry, dass mein Opa so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 10-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 10-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 10-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-10-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+10-18E:@Nichts Persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 10-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 10-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
@@ -1678,7 +1678,7 @@
 13-1E:@Heiße Quelle des Tunnels[WAIT]     "Keinen Grund zur Hast[BREAK]     Tauche fünf Sekunden lang[WAIT]       Tunnel-Quelle"[WAIT]      (Eine Silbe zu wenig)[END]
 // Repeats: 13-1, 14-1, 17-1, 36-1, 42-1, 55-1, 72-1, 77-1, 80-1, 96-1, 180-1, 181-1, 182-1, 192-1, 203-1, 207-1, 249-1, 250-1, 251-1, 252-1, 263-1, 327-1, 328-1, 329-1, 330-1, 331-1, 332-1, 373-1, 374-1, 375-1, 376-1, 377-1, 378-1, 379-1, 443-1, 467-1, 468-1, 469-1, 471-1, 472-1, 477-1, 803-1, 877-1, 878-1, 880-1, 882-1, 892-1, 900-1
 13-2:@Mole Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]          Mole Spring Water"[WAIT]          (Too few syllables)[END]
-13-2E:@Heiße Quelle der Maulwürfe[WAIT]     "Keinen Grund zur Hast[BREAK]     Tauche fünf Sekunden lang[WAIT]       Maulwurf-Quelle"[WAIT]        (Eine Silbe zu wenig[END]
+13-2E:@Heiße Quelle der Maulwürfe[WAIT]     "Keinen Grund zur Hast[BREAK]     Tauche fünf Sekunden lang[WAIT]       Maulwurf-Quelle"[WAIT]        (Eine Silbe zu wenig)[END]
 // Repeats: 13-2, 14-2, 17-2, 36-2, 42-2, 55-2, 72-2, 77-2, 80-2, 96-2, 180-2, 181-2, 182-2, 192-2, 203-2, 207-2, 249-2, 250-2, 251-2, 252-2, 263-2, 327-2, 328-2, 329-2, 330-2, 331-2, 332-2, 373-2, 374-2, 375-2, 376-2, 377-2, 378-2, 379-2, 443-2, 467-2, 468-2, 469-2, 471-2, 472-2, 477-2, 803-2, 877-2, 878-2, 880-2, 882-2, 892-2, 900-2
 13-3:@Snowcap Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]      Snowcap Spring Water"[END]
 13-3E:@Heiße Quelle der Schneekrone[WAIT]     "Keinen Grund zur Hast[BREAK]     Tauche fünf Sekunden lang[WAIT]       Schneekronen-Quelle"[END]
@@ -3010,7 +3010,7 @@
 32-63:@Club Titiboo closed down, so I came all the way[BREAK]  here to look for work.[WAIT]  *chew* *chew*[WAIT]@But wow, is this place the sticks or what?[WAIT]  *chew* *chew*[WAIT]@Maybe I should've gone to New Pork instead.[WAIT]  *chew* *chew*[END]
 32-63E:@Club Titiboo hat dicht gemacht.[WAIT]  Deswegen bin ich hierher gegangen, um nach[BREAK]  Arbeit zu suchen.[WAIT]  *kau* *kau*[WAIT]@Aber wow, ist dieser Ort am Arsch der Welt[BREAK]  oder so?[WAIT]  *kau* *kau*[WAIT]@Ich hätte lieber nach New Pork gehen sollen.[WAIT]  *kau* *kau*[END]
 32-64:@I'm the mayor here, which means I'll be one of[BREAK]  the last people to leave for the big city.[WAIT]@Even so, I really want to go.[WAIT]@I should just ditch this miserable little village[BREAK]  and be done with it.[WAIT]@...[PAUSE 1E 00]Oh, [LUCAS 23 02 00]![WAIT]  You didn't hear me talking to myself just now,[BREAK]  did you?[END]
-32-64E:@Ich bin der Bürgermeister hier, was bedeutet,[BREAK]  dass ich einer der letzten sein werde,[WAIT]  der in die Großstadt wegziehen wird.[WAIT]@Obwohl ich wirklich dorthin will.[WAIT]@Ich sollte dieses miserable kleines Dorf einfach[BREAK]  stehen lassen und fertig.[WAIT]@...[PAUSE 1E 00]Oh, [LUCAS 23 02 00]![WAIT]  Du hast grad nicht mein Selbstgespräch[BREAK]  gehört, oder?[END]
+32-64E:@Ich bin der Bürgermeister hier, was bedeutet,[BREAK]  dass ich einer der letzten sein werde,[WAIT]  der in die Großstadt wegziehen wird.[WAIT]@Obwohl ich wirklich dorthin will.[WAIT]@Ich sollte dieses miserable kleine Dorf einfach[BREAK]  stehen lassen und fertig.[WAIT]@...[PAUSE 1E 00]Oh, [LUCAS 23 02 00]![WAIT]  Du hast grad nicht mein Selbstgespräch[BREAK]  gehört, oder?[END]
 32-65:@I'm stuck in this village because no one invited[BREAK]  me to go with them.[WAIT]@When did everyone suddenly get together to[BREAK]  discuss leaving for the big city?[END]
 32-65E:@Ich stecke in diesem Dorf fest, weil mich[BREAK]  niemand mitgenommen hat.[WAIT]@Wann haben alle nur entschieden, in die[BREAK]  Großstadt zu ziehen?[END]
 32-66:[SOUND 03 00]@Chirp chirp![WAIT]  (Sparrow News![WAIT]  The people of Tazmily have been moving to[BREAK]  New Pork City one after the other.[WAIT]  The results of this are as plain as day: the[BREAK]  village is now silent, and its liveliness gone.[WAIT]  There are even rumors that Mayor Pusher is[BREAK]  considering moving away soon.)[EVENT][END]
@@ -3507,7 +3507,7 @@
 36-91:@These appear to be a Pigmask's shoes.[END]
 36-91E:@Dies scheinen ein Paar Schweinemaskenschuhe[BREAK]  zu sein.[END]
 36-92:@I'm a not-very-rare Imitation Crab![WAIT]@Real crabs try to copy our taste, color, and[BREAK]  texture, but we just look the other way.[WAIT]@What CAN'T be overlooked, though, is[BREAK]  Tanetane Island south of here.[WAIT]@You're headed there too, right?[WAIT]@I pretty much knew before I even saw ya.[WAIT]@You can wait all you want, but no ship's gonna[BREAK]  come.[WAIT]  You gotta walk across the ocean.[WAIT]@First, talk to the sea.[WAIT]@Get up real nice and close.[WAIT]@And then everything'll start from there.[END]
-36-92E:@Ich bin eine nicht-sehr-seltene[BREAK]  Nachahmerkrabbe![WAIT]@Echte Krabben versuchen unseren Geschmack,[BREAK]  Farbe, und Aussehen zu kopieren,[WAIT]  aber wir achten einfach nicht darauf.[WAIT]@Was man aber nicht NICHT beachten kann, ist,[BREAK]  dass die Insel Tanetane südlich von hier ist.[WAIT]@Du willst dorthin, richtig?[WAIT]@Ich wusste das schon, bevor ich dich[BREAK]  überhaupt gesehen habe.[WAIT]@Du kannst solange warten wie du willst, aber[BREAK]  es wird kein Schiff kommen.[WAIT]  Du musst übers Meer laufen.[WAIT]@Sprich mal mit demMeer.[WAIT]@Mach dich schick und geh' nah ran.[WAIT]@Und dann geht's los.[END]
+36-92E:@Ich bin eine nicht-sehr-seltene[BREAK]  Nachahmerkrabbe![WAIT]@Echte Krabben versuchen unseren Geschmack,[BREAK]  Farbe, und Aussehen zu kopieren,[WAIT]  aber wir achten einfach nicht darauf.[WAIT]@Was man aber nicht NICHT beachten kann, ist,[BREAK]  dass die Insel Tanetane südlich von hier ist.[WAIT]@Du willst dorthin, richtig?[WAIT]@Ich wusste das schon, bevor ich dich[BREAK]  überhaupt gesehen habe.[WAIT]@Du kannst solange warten wie du willst, aber[BREAK]  es wird kein Schiff kommen.[WAIT]  Du musst übers Meer laufen.[WAIT]@Sprich mal mit dem Meer.[WAIT]@Mach dich schick und geh' nah ran.[WAIT]@Und dann geht's los.[END]
 36-93:@Dive into the ocean?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 36-93E:@Tauchen?[WAIT][MENU 02 00][MENUSPACEYES]Ja[MENUSPACENO]Nein[ENDCHOICES][END]
 // Repeats: 36-93, 192-56
@@ -6052,7 +6052,7 @@
 100-6:@Princess [KUMATORA 23 04 00].[WAIT]  This PSI is so dangerous that I never intended[BREAK]  to teach it to you...[WAIT]  ...but I'm going to teach it to you right here, [PAUSE 1E 00][BREAK]  right now.[WAIT]@Master this dangerous PSI technique so that[BREAK]  you can help [LUCAS 23 02 00]![WAIT]@Are you prepared? [HEART][END]
 100-6E:@Prinzessin [KUMATORA 23 04 00].[WAIT]  Dieser PSI-Angriff ist so gefährlich, dass ich[BREAK]  ihn dir eigentlich nie lehren wollte...[WAIT]  ...doch ich werde ihn dir hier und jetzt[BREAK]  beibringen.[WAIT]@Meistere diese gefährliche PSI-Technik, um[BREAK]  [LUCAS 23 02 00] zu helfen![WAIT]@Bist du bereit? [HEART][END]
 100-7:@[LUCAS 23 02 00]...[PAUSE 0F 00][WAIT]  I'm going to help you from here on out, no[BREAK]  matter what happens.[WAIT]@I made up my mind just now.[END]
-100-7E:@[LUCAS 23 02 00]...[PAUSE 0F 00][WAIT]  Ich werde dich von jetzt an immer zur Seite[BREAK]  stehen, egal was auch kommen mag.[WAIT]@Mein Entschluss steht fest.[END]
+100-7E:@[LUCAS 23 02 00]...[PAUSE 0F 00][WAIT]  Ich werde dir von jetzt an immer zur Seite[BREAK]  stehen, egal was auch kommen mag.[WAIT]@Mein Entschluss steht fest.[END]
 100-8:@...That masked man, was he.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[WAIT]@Oh, well. It doesn't matter.[END]
 100-8E:@...Dieser Maskierte Mann, war er.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[WAIT]@Oh, naja. Ist egal.[END]
 100-9:@Thanks for the pickles earlier. [HEART][WAIT]@The dog drool was a bit disconcerting, though.[WAIT]  *giggle*[END]
@@ -10175,13 +10175,13 @@
 222-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Nicht wahr?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 222-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-222-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
+222-16E:@Sorry, dass mein Opa so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 222-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 222-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 222-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-222-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+222-18E:@Nichts Persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 222-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 222-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
@@ -11632,7 +11632,7 @@
 259-16:@Yesss. Yes.[END]
 259-16E:@Jaaaa. Ja.[END]
 259-17:@How now brown cow.[END]
-259-17E:@How now brown cow.[END]
+259-17E:@Die Kuh macht Muh.[END]
 259-18:@Well, well, well...[END]
 259-18E:@Nun, nun, nun...[END]
 259-19:[END]
@@ -16791,13 +16791,13 @@
 506-15E:@*hick*[PAUSE 20 00] *schluchz*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@Sie hatte doch kaum Zeit zum Leben![WAIT]@Nicht wahr?[WAIT]@Ich kann bei sowas nicht trinken gehen...[END]
 // Repeats: 10-15, 222-15, 506-15
 506-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-506-16E:@Sorry, dass mein Mann so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
+506-16E:@Sorry, dass mein Opa so betrunken ist,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 506-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
 506-17E:@M-[PAUSE 20 00]mein tiefstes Beileid...[PAUSE 20 00]...[END]
 // Repeats: 10-17, 222-17, 506-17
 506-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-506-18E:@Nichts persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
+506-18E:@Nichts Persönliches, aber ich komm nicht gut[BREAK]  mit so traurigen Sachen wie diesem hier klar.[WAIT]@Trotzdem... *schnief*[PAUSE 20 00] *schluchz*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 506-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 506-19E:@[CLAUS 22 05 00] scheint heute Morgen der erste[BREAK]   am Grab von [HINAWA 22 08 00] gewesen zu sein.[WAIT]@Als ich ihn gerufen habe, hat er mir ein kleines[BREAK]  Lächeln geschenkt...[WAIT]  ...und ist dann plötzlich davongerannt.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
@@ -19167,7 +19167,7 @@
 
 [Container 834]
 834-0:@Heheheh![BREAK]  You seem to be having quite the tough time![WAIT]@Did you enjoy my special all-you-can-pee toilet[BREAK]  dungeon?[WAIT]@Now, then! I have some sad news for you![WAIT]@This place you're at now[PAUSE 3C 00] isn't really the 100th[BREAK]  floor! It's a fake![WAIT]@Ahahahahaha![WAIT]@You're nothing but a cheap toy crawling around[BREAK]  in the palm of my hand![WAIT]@Alright! Allow me to invite you to the REAL[BREAK]  100th floor![WAIT]  Heh heh.[WAIT]@Board the elevator just ahead.[WAIT]@I'll be waiting for you![END]
-834-0E:@Hehehehe![BREAK]  Ihr scheint es nicht leicht zu haben![WAIT]@Hat euch meine "all-you-can-pee" [BREAK]  Toilettenlabyrinth gefallen?[WAIT]@Also dann! Ich habe eine schlechte Nachricht[BREAK]  für euch![WAIT]@Dieser Ort hier[PAUSE 3C 00] ist gar nicht die 100. Etage![BREAK]  Die hier ist ein Fake![WAIT]@Hahahahaha![WAIT]@Ihr seid nichts weiter als ein billiges Spielzeug,[BREAK]  das auf meiner Hand herumkrabbelt![WAIT]@Also! Erlaubt mir, euch zur[BREAK]  ECHTEN 100. Etage einzuladen![WAIT]  Heh heh.[WAIT]@Geht in den Aufzug da vorne.[WAIT]@Ich erwarte euch![END]
+834-0E:@Hehehehe![BREAK]  Ihr scheint es nicht leicht zu haben![WAIT]@Hat euch mein "all-you-can-pee" [BREAK]  Toilettenlabyrinth gefallen?[WAIT]@Also dann! Ich habe eine schlechte Nachricht[BREAK]  für euch![WAIT]@Dieser Ort hier[PAUSE 3C 00] ist gar nicht die 100. Etage![BREAK]  Die hier ist ein Fake![WAIT]@Hahahahaha![WAIT]@Ihr seid nichts weiter als ein billiges Spielzeug,[BREAK]  das auf meiner Hand herumkrabbelt![WAIT]@Also! Erlaubt mir, euch zur[BREAK]  ECHTEN 100. Etage einzuladen![WAIT]  Heh heh.[WAIT]@Geht in den Aufzug da vorne.[WAIT]@Ich erwarte euch![END]
 834-1:@There are signs that someone was here.[END]
 834-1E:@Es gibt Anzeichen, dass jemand hier war.[END]
 // this is phrased the way that the dung text in Scaraba was phrased

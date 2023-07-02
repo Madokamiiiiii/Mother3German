@@ -368,7 +368,7 @@
 00B6: No matter how down in the dumps you are,[BREAK]these choice words will lift your mood.[END]
 00B6-E: Egal wie mies es dir geht, diese ausgewählten[BREAK] Wörter werden deine Stimmung heben.[END]
 00B7: A piping-hot baked yam.[BREAK]Restores 40 KP.[END]
-00B7-E: Eine knallheiß gebackene Kartoffel.[BREAK]Heil 40 KP.[END]
+00B7-E: Eine knallheiß gebackene Kartoffel.[BREAK]Heilt 40 KP.[END]
 00B8: Leads the way back to the start point if you[BREAK]get lost in the Mole Cricket Hole.[END]
 00B8-E: Bringt dich zurück zum Start, falls du dich in[BREAK]der Maulwurfsgrillenhöhle verlaufen solltest.[END]
 00B9: The home of a hermit crab.[BREAK]Its shell, in other words.[END]

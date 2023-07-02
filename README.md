@@ -17,6 +17,7 @@ In der .zip-Datei befindet sich eine LiesMich.txt mit einer Anleitung.
 
 ## Kompilieren
 1. Zum Kompilieren wird eine original japanische Mother 3 ROM benötigt.
-2. (optional) Patche diese ROM mit "healthTitleScreenPatch.bps". Dadurch werden Health Screen und Title Screen übersetzt.
-3. Lege die ROM unter "mother3j.gba" im Wurzelverzeichnis ab.
-4. Führe die Datei "i.bat" aus. Diese kompiliert das Projekt und speichert die gepatchte ROM unter "test.gba" ab. Diese Datei kann dann mit einem beliebigen Emulator ausgeführt werden.
+2. Lege die ROM unter "mother3j.gba" im Wurzelverzeichnis ab.
+3. Führe die Datei "i.bat" aus. Diese kompiliert das Projekt und speichert die gepatchte ROM unter "test.gba" ab. Diese Datei kann dann mit einem beliebigen Emulator ausgeführt werden.
+4. (optional) Patche diese ROM mit "healthTitleScreenPatch.bps". Dadurch werden Health Screen und Title Screen übersetzt.
+
