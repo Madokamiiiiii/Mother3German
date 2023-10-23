@@ -1556,14 +1556,14 @@ seine
 -
 seinen 
 // 00AD-E: Navy SQUEAL
-Die 
-die 
-Eine 
-eine 
-ihr 
-ihre 
-die 
-ihren 
+Der 
+der 
+Ein 
+einen 
+sein 
+seine 
+den 
+seinen 
 // 00AE-E: Meister Eddy
 -
 -
