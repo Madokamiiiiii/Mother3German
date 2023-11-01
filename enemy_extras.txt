@@ -260,14 +260,14 @@ seine
 -
 seinen 
 // 001D-E: Major Schweinemaske
--
--
-Eine 
-eine 
-ihr 
-ihre 
--
-ihren 
+Der 
+der 
+Ein 
+ein 
+sein 
+seine 
+den 
+seinen 
 // 001E-E: Großer Ameisenlöwe
 -
 -

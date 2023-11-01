@@ -1,12 +1,12 @@
 Eine deutsche Fan-Übersetzung von Mother 3
-Übersetzer: Madokami / Youmu
+Übersetzer: Madokami / Youmukami
 Projektseite: https://madokamiiiiii.github.io/Mother3German/
-Version: 1.1
+Version: 1.2
 
 -----Fragen, Bugs, Sonstiges-----
 Wenn du einen Bug, Rechtschreibfehler, Grammatikfehler, hakeliges Deutsch, bessere Formulierungen
 oder sonst irgendwas findest, dann mach bitte auf Github ein Issue auf. Alternativ kann ich über
-Twitter unter @_Madokami und Discord unter Madokami#1524 erreicht werden.
+Twitter unter @Youmukami und Discord unter youmukami erreicht werden.
 Vielen Dank.
 
 
@@ -25,7 +25,7 @@ Dabei können Warnungen von Mismatches ignoriert werden.
 
 -----Wie update ich?-----
 Nimm wieder eine frische japanische Mother 3 ROM und patche wie oben beschrieben.
-Patche NIE auf eine bereits gepatchte ROM
+Patche NIE auf eine bereits gepatchte ROM.
 Speicherstände bleiben kompatibel.
 
 
