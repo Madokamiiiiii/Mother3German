@@ -115,7 +115,7 @@
 0038: Ten-Yeti
 0038-E: Ten-Yeti
 0039: Chilly Dog
-0039-E: Frostiger Hund
+0039-E: Kalter Hund
 003A: Slimy Slug
 003A-E: Schleimige Schnecke
 003B: Minerali
